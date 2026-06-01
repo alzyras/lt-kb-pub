@@ -40,93 +40,31 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 - t-001
   teiginys: 'Karakolė, arba „sraigė“, reiškė šaulių priekinės eilės pasitraukimą į rikiuotės galą po salvės.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Karakolė buvo taktika, kai priekinė šaulių eilė po salvės pasisukdavo dešinėn, žygiuodavo į rikiuotės galą ir ten užtaisydavo ginklus.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Švedų raitarai pasikliovė karakoliavimo taktika.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
   teiginys: 'Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-005
   teiginys: 'Priekinė šaulių eilė, iššovusi salvę, pasisuka dešinėn ir pro rikiuotės šoną žygiuoja į savo rikiuotės galą ir ten užtaiso ginklus, tai vadinamoji karakolė arba „sraigė“.'
   pagrindžia:
-    - c-005
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Priekinė šaulių eilė, iššovusi salvę,
-    pasisuka dešinėn ir pro rikiuotės
-    šoną žygiuoja į savo rikiuotės galą ir
-    ten užtaiso ginklus, tai vadinamoji
-    karakolė arba „sraigė“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. Snayerso paveikslo „Salaspilio mūšis“ fragmente Švedij iu es raita tė
-    jau pašlijusi, netrukus prasidės bėgimas. Švedų raitarai, pasikliaudami karakoliavimo taktika,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Priekinė šaulių eilė, iššovusi salvę,
-    pasisuka dešinėn ir pro rikiuotės
-    šoną žygiuoja į savo rikiuotės galą ir
-    ten užtaiso ginklus, tai vadinamoji
-    karakolė arba „sraigė“.
-
-    Ai 4) 4
-
-    letininky (pikinieriy)
-
-    Muškietinink
-    das uškietininkų
-
-    padalinių vadai
-
-    ta AAS V
-
-    A A 5
-
-    PP
-
-    Katalikų kavalerijai
-    pavojingai priartėjus prie
-    protestantų pėstininkų
-    bataliono, muškietininkai
-    pasitraukia už ietininkų,
-    kurie turi atremti kavalerijos
-    ataką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. Snayerso paveikslo „Salaspilio mūšis“ fragmente Švedij iu es raita tė
@@ -142,8 +80,9 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
-- c-005
+- c-002
   santrauka: 'Priekinė šaulių eilė, iššovusi salvę, pasisuka dešinėn ir pro rikiuotės šoną žygiuoja į savo rikiuotės galą ir ten užtaiso ginklus, tai vadinamoji karakolė arba „sraigė“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -182,6 +121,8 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
   statusas: verified
   pagrindžia:
     - t-005
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

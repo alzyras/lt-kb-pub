@@ -33,9 +33,9 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
     - c-001
 
 - t-002
-  teiginys: 'Jo užuomazgos, mažumėlę kitoniškų formų, ruseno Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­ dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­ tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­ matus.'
+  teiginys: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija suvažiavimais klojo būsimos šlėktų laisvės pamatus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -58,21 +58,6 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
-    ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­
-    dymas. Jo užuomazgos, mažumėlę kitoniškų formų, ruseno
-    Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­
-    dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­
-    tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­
-    matus. Kitaip anuomet buvo valdoma Rusia.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

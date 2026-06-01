@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirmas toks susivažiavimas įvyko tų metų pavasarį Smo­ lenske.'
+  teiginys: 'Pirmasis Vytauto ir Vosyliaus susivažiavimas 1396 m. pavasarį įvyko Smolenske.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmasis Vytauto ir Vosyliaus susivažiavimas 1396 m. pavasarį įvyko Smolenske.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pirmas toks susivažiavimas įvyko tų metų pavasarį Smo­

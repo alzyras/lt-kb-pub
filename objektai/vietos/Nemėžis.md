@@ -19,18 +19,19 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ją sutiko pats Aleksandras per pusę mylios nuo miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­ tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­ bėjo.'
+  teiginys: '1495 m. sužadėtinę Eleną Aleksandras sutiko kelyje į Nemėžį, per pusę mylios nuo Vilniaus.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs šaunus pergalingas karys Vytautas; be jų pa­ grindinės gyvenvietės prie Vokės upės, be tų, kurie įsikūrė mieste ir kurie apsigyveno vietovėje, vadinto­ je Nemėžiu, per mylią nuo Vilniaus į.'
+  teiginys: 'Vytauto įkurdinti totoriai gyveno ir Nemėžiu vadintoje vietovėje, esančioje per mylią į rytus nuo Vilniaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto įkurdinti totoriai gyveno ir Nemėžiu vadintoje vietovėje, esančioje per mylią į rytus nuo Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gana grėsmingai įsiliepsnojo pirmieji nesuta­
@@ -66,6 +67,7 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
     - t-002
 
 - c-002
+  santrauka: '1495 m. sužadėtinę Eleną Aleksandras sutiko kelyje į Nemėžį, per pusę mylios nuo Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­

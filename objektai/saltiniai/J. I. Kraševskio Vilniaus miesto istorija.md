@@ -27,13 +27,14 @@ Nepaisant gana kritiško požiūrio į istorijos šaltinius, M. Tačiau jaučiam
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nepaisant gana kritiško požiūrio į istorijos šaltinius, M.'
+  teiginys: 'J. I. Kraševskio 1840–1842 m. išleista Vilniaus miesto istorija chronologiškai nušvietė miesto raidą iki 1750 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. I. Kraševskio 1840–1842 m. išleista Vilniaus miesto istorija chronologiškai nušvietė miesto raidą iki 1750 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant gana kritiško požiūrio į

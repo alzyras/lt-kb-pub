@@ -98,4 +98,3 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,]]

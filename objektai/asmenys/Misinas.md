@@ -71,4 +71,6 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
 - [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]
+- [[objektai/asmenys/Rudolfas, vadinamas Bodemeru]]

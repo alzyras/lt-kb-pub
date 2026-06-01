@@ -26,13 +26,14 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreikštą norą priimti krikščionių tikėjimą ir viršesnę popiežiaus valdžią su sąlyga, kad tik niekada neturėtų įsi­ pareigojimų Ordinui.'
+  teiginys: 'Gediminui priskirtas pareiškimas teigė, kad jis nori gyventi ir mirti išpažindamas savo tėvų tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminui priskirtas pareiškimas teigė, kad jis nori gyventi ir mirti išpažindamas savo tėvų tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame
@@ -74,5 +75,4 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/autoriai/Hermanas Corneris Korneris]]
 - [[objektai/autoriai/Hermanas Korneris]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]

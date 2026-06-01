@@ -20,34 +20,11 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
 - t-001
   teiginys: 'Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais patraukė su šimtine brolių bei maldininkų žygin ir, apiplėšęs Pagudės žemę, pasuko namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo, pasisuko.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad paimtieji į nelaisvę prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis..'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Paimtieji į nelaisvę
-    prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
-    mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
-    palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
-
-
-
-
-                     142 (137).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
@@ -70,4 +47,3 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Kristburgo komtūro Ditricho iš Rodės žygis į Pagudę ir pergalė]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

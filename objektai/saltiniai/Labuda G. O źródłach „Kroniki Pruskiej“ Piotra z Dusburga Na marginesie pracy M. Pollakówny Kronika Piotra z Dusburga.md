@@ -23,13 +23,14 @@ Dusburgietis teigia, kad labuda G.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad labuda G.'
+  teiginys: 'G. Labudos „O źródłach „Kroniki Pruskiej“ Piotra z Dusburga“ paskelbta 1971 m. Olsztyne, „Komunikaty Mazursko-Warmińskie“ Nr. 2–3, p. 217–243.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'G. Labudos „O źródłach „Kroniki Pruskiej“ Piotra z Dusburga“ paskelbta 1971 m. Olsztyne, „Komunikaty Mazursko-Warmińskie“ Nr. 2–3, p. 217–243.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Labuda G. O źródłach „Kroniki Pruskiej“ Piotra z Dusburga: Na marginesie pracy M.

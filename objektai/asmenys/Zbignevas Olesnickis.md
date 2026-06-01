@@ -20,18 +20,19 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbignevas Olesnickis ir Sandomiro vaivada Mikalojus Michalovskis grasino Vytau­ tui karu, jeigu jis neatsisakysiąs savo sumanymo.'
+  teiginys: 'Zbignevas Olesnickis, karaliaus ir Lenkijos senato pasiųstas į Vilnių, grasino Vytautui karu dėl jo sumanymo.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­ davimai buvo tačiau visai atmesti, nusprendė imtis kitų bū­ dų: palenkti dovanomis ir pažadais Krokuvos vyskupą Olesnickį, kuris kartu su.'
+  teiginys: 'Krokuvos vyskupas Zbignevas Olesnickis turėjo lemiamą balsą karaliaus taryboje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krokuvos vyskupas Zbignevas Olesnickis turėjo lemiamą balsą karaliaus taryboje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Len­
@@ -58,6 +59,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-002
 
 - c-002
+  santrauka: 'Zbignevas Olesnickis, karaliaus ir Lenkijos senato pasiųstas į Vilnių, grasino Vytautui karu dėl jo sumanymo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, tik dalis tos pasiuntinybės pasie­

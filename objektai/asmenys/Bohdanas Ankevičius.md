@@ -18,13 +18,14 @@ List Radzcy Wileńskomu Bohdanu Onkieiviczu, na wybranie jemu winnych peneźy z 
 ## Teiginiai
 
 - t-001
-  teiginys: 'List Radzcy Wileńskomu Bohdanu Onkieiviczu, na wybranie jemu winnych peneźy z Korczem Bobruyjskoje i Swisłockoje do dewet let spoina [Laiš­ kas Vilniaus tarėjui Bohdanui Ankevičiui, leidžiantis jam surinkti pri­ klausančius pinigus iš Bobruisko ir Svisločės.'
+  teiginys: 'Vilniaus tarėjas Bohdanas Ankevičius gavo leidimą surinkti jam priklausančius pinigus iš Bobruisko ir Svisločės smuklių už devynerius metus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus tarėjas Bohdanas Ankevičius gavo leidimą surinkti jam priklausančius pinigus iš Bobruisko ir Svisločės smuklių už devynerius metus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     List Radzcy Wileńskomu Bohdanu On-

@@ -84,5 +84,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/legatas]]
 - [[objektai/asmenys/Sventopelkas]]

@@ -25,12 +25,12 @@ tags:
     - c-003
 
 - t-002
-  teiginys: 'Bet sutarty buvo minimi tik nelaisvieji valstiečiai, ir Vytautas teisinosi, kad laisvieji galį kilnotis kur tinkami.'
+  teiginys: 'Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Taigi ir Salyno sutartis buvo sudaryta jo paties autoritetu: Jogaila ten nė žodžiu neminimas.'
+  teiginys: 'Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje nebuvo minimas.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ tags:
     - t-006
 
 - c-002
+  santrauka: 'Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje nebuvo minimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ta proga reikia pasakyti, kad tada, kai jo interesams
@@ -100,6 +101,7 @@ tags:
     - t-001
 
 - c-004
+  santrauka: 'Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordinas, remdamasis Salyno su-

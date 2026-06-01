@@ -32,9 +32,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-001
 
 - t-002
-  teiginys: 'Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­ kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­ nui statytis atiduotas platus slėnis su keletu namų ir pieva, 31 Šis Jachna jau 1435 metais buvo.'
+  teiginys: '1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-003
   teiginys: 'Šventaragio slėnyje Vilnia įteka į Viliją.'
@@ -42,27 +42,22 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-005
 
 - t-004
-  teiginys: 'Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­ sėjus ten būta medinių namų gyvenvietės4.'
+  teiginys: 'Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje.'
   pagrindžia:
     - c-004
 
 - t-009
   teiginys: 'Iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-010
-  teiginys: 'Bet labai tikėtina, kad nuo seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­ kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų, supančių Vilnios srovę, būta medinės tvirtovės6.'
+  teiginys: 'Prie Vilnios buvusios tvirtovės palei krantą pažemiais trobelės tęsėsi iki pat Vilijos.'
   pagrindžia:
     - c-002
 
-- t-011
-  teiginys: 'Man atrodo, kad jei Lietuvo­ je buvo keletas tokių šventų vieto­ vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie­ nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo.'
-  pagrindžia:
-    - c-006
-
-- t-013
-  teiginys: 'Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominikonams, prie Vilniaus pilies pastatydino jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, leido naujai įkurtame mieste apsigyventi gausiems atėjū­ nams iš Vokietijos ir.'
+- t-012
+  teiginys: 'Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną.'
   pagrindžia:
     - c-003
 
@@ -94,6 +89,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - t-001
 
 - c-002
+  santrauka: 'Prie Vilnios buvusios tvirtovės palei krantą pažemiais trobelės tęsėsi iki pat Vilijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet labai tikėtina, kad nuo
@@ -115,6 +111,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - t-010
 
 - c-003
+  santrauka: 'Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
@@ -144,9 +141,10 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
 
 - c-004
+  santrauka: 'Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
@@ -203,45 +201,14 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - t-007
     - t-006
     - t-005
-    - t-012
-    - t-015
+    - t-011
     - t-014
+    - t-013
     - t-003
     - t-008
 
 - c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Man atrodo, kad jei Lietuvo­
-    je buvo keletas tokių šventų vieto­
-    vių, tai Vilnius būtinai turėjo būti
-    viena iš jų, o jeigu buvo tik ta vie­
-    nintelė, tad tikriausiai po to smūgio
-    Perkūno tikėjimo relikvijos ir Krivių
-    Krivaitis su aukotojais iš Romainių
-    buvo perkelti į Vilnių, taigi Vilnius
-    XIII amžiaus gale jau galėjo būti tan­
-    kiai gvvenama ir svarbi gyvenvietė.
-    -  •  -
-    19
-
-    ## Puslapis 36
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir
-    savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti
-    mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­
-    tinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų
-    perkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­
-    gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
-    šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-007
+  santrauka: '1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
@@ -293,7 +260,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   pagrindžia:
     - t-002
 
-- c-008
+- c-007
   santrauka: 'Iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

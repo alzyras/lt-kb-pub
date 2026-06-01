@@ -24,7 +24,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - t-002
   teiginys: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -44,22 +44,4 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pijarai, niekuo daugiau neužsiimdami,
-    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
-    tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos
-    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
-    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
-    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
-    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
-
-    #### 6.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

@@ -67,21 +67,6 @@ Lietuvai liko sukilimo inscenizacijos scenarijus.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kul-
-    tūros, liuteronai, o ne katalikai, politiškai liko ištikimi Vokietijai, todėl pa-
-    tys sukilti nesiruošė. Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
-    gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
-    gauti gerus postus administracijoje. Lietuvai liko sukilimo inscenizacijos
-    scenarijus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

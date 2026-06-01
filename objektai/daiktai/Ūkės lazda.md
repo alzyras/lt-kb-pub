@@ -45,14 +45,9 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: 'Sueigose lazda padėdavo palaikyti tylą ir tvarką.'
+  teiginys: 'Kūrėjų kūrėjas paėmė ūkės lazdą ir vienas pats valdė tautą kaip anksčiau.'
   pagrindžia:
     - c-003
-
-- t-004
-  teiginys: 'Ūkės lazda buvo paimama valdant tautą.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -81,17 +76,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tuose sueimuose visą parėdką vedė kunigai, kurių tenai valdžia buvo didelė, nesgi, su lazda
-        jam mosterėjus, visi nutilo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
+  santrauka: 'Kūrėjų kūrėjas paėmė ūkės lazdą ir vienas pats valdė tautą kaip anksčiau.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     o kūrėjų kūrėjas paėmė vėl ūkės lazdą ir vienas pats valdė tautą, kaip jei
@@ -100,7 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

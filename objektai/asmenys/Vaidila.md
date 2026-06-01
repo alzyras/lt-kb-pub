@@ -28,23 +28,24 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ati­ teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.'
+  teiginys: 'Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­ ras Vaidila.'
+  teiginys: 'Bajoras Vaidila patarimais rėmė Jogailos siekius ir savo įtaka juos skatino.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti.'
+  teiginys: 'Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bajoras Vaidila patarimais rėmė Jogailos siekius ir savo įtaka juos skatino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogailos siekius pata­
@@ -64,6 +65,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
     - t-002
 
 - c-002
+  santrauka: 'Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir prisiekė Jogai­
@@ -89,6 +91,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
     - t-003
 
 - c-003
+  santrauka: 'Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I1l
@@ -130,6 +133,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 - [[objektai/zodynas/pavietas]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]
 - [[objektai/zodynas/žyniai vaidilos raganos]]
+- [[objektai/zodynas/Arkikomtūras]]
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/ivykiai/Vaidilos pakorimas Kęstučio įsakymu]]

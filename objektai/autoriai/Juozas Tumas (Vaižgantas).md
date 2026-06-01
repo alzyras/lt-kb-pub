@@ -108,7 +108,6 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/spiritus movens]]

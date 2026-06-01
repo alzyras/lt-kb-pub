@@ -51,4 +51,3 @@ Dusburgietis teigia, kad apie Aleksandrą IV, popiežių, ir neužimtą imperato
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/legatas]]

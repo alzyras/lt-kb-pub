@@ -19,14 +19,14 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 ## Teiginiai
 
 - t-001
-  teiginys: 'konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus- dinami ir pranešami visam kraštui.'
+  teiginys: 'Konstitucijomis vadinti seimo nutarimai buvo įstatymai, po seimo paprastai išspausdinami ir pranešami visam kraštui.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'konstitucijos: būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu- rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo limita. Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.'
@@ -46,20 +46,9 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Seimo aktai.** Visi seimo nutarimai, vadinęsi konstituci-
-    jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus-
-    dinami ir pranešami visam kraštui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu-
@@ -78,10 +67,8 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
-- [[objektai/asmenys/Aleksandras Stulginskis]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/ivykiai/Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.)]]
-- [[objektai/paprociai/Elekcinių valdovų pacta conventa priesaikos bajorijai]]
 - [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
 - [[objektai/asmenys/Jokūbas Jasinskis]]
 - [[objektai/grupes/Kariuomenės ir Iždo komisijos]]
@@ -102,7 +89,6 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - [[objektai/ivykiai/M. Gorbačiovo ultimatumas ir sovietų kariuomenės veiksmai Lietuvoje (1991 m. sausio 10–11 d.)]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]
 - [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
-- [[objektai/ivykiai/Pirmosios Užsienio reikalų ministerijos pradžia|Pirmosios Užsienio reikalų ministerijos pradžia (institucija)]]
 - [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]
 - [[objektai/grupes/Prancūzijos steigiamasis susirinkimas]]
 - [[objektai/zodynas/Pusiau prezidentinė ir parlamentinė valdymo sistema]]
@@ -122,4 +108,3 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - [[objektai/posakiai/„Šlovinga Lenkijos ir Lietuvos Konstitucija“ „būsimos didybės viltį“]]
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/paprociai/Konstitucinė tautos teisė priešintis prievarta kėsinantis į valstybės nepriklausomybę]]

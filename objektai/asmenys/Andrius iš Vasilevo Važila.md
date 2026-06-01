@@ -20,13 +20,14 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės.'
+  teiginys: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iškilmingai,

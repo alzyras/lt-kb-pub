@@ -37,7 +37,7 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
 - t-002
   teiginys: 'Skirgaila, matydamas sau pavojų, per tarną Varšą perdavė Vytautui perspėjimą: „Saugokis manęs, kaip ir aš tavęs saugaus“.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -57,22 +57,6 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas, kaskart labiau įsikarš­
-    čiuodamas, ėmė nebesislėpti su savo planais, kad jis norįs atgau­
-    ti savo tėviškę. Skirgaila, matydamas čia sau pavojų, atsiuntė
-    pas Vytautą savo tarną Varšą su formaliniu perspėjimu dėl toli­
-    mesnių represijų ir tarytum su karo paskelbimu: „Saugokis ma­
-    nęs, kaip ir aš tavęs saugaus”. Ir tikrai jis saugojos Vytauto,
-    dažnai kreipdamas Jogailos dėmesį ir išgaudamas iš jo sutiki­
-    mą padaryti atitinkamų nedviprasmiškų žingsnių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

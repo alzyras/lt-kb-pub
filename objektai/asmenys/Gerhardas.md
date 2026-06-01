@@ -77,7 +77,6 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/asmenys/Gerhardas iš Hircbergo]]
 - [[objektai/asmenys/Gerhardas iš Reino]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

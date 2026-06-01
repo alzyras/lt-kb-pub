@@ -19,13 +19,14 @@ Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Gri
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Grigalių Čiškovičių, statyti­ nį, o vaitas atvyko pats.'
+  teiginys: 'Grigalius Čiškovičius buvo vienas iš įgaliotinių, per kuriuos Vilniaus graikų tikėjimo pirkliai išdėstė skundą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Grigalius Čiškovičius buvo vienas iš įgaliotinių, per kuriuos Vilniaus graikų tikėjimo pirkliai išdėstė skundą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Graikų ti­

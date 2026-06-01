@@ -38,12 +38,12 @@ Nenurodyta
 - t-001
   teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
-  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 261 Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
+  teiginys: 'Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.'
@@ -53,7 +53,7 @@ Nenurodyta
 - t-004
   teiginys: 'Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -75,22 +75,6 @@ Nenurodyta
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių
-    gamybos apimtys. Tai padidino Lietuvos eksportą į kitas šalis, skatino už-
-    sienio kapitalo investicijas į Lietuvos ekonomiką, paaštrino konkurenciją,
-    leido racionaliau naudoti ir paskirstyti ekonominius veiksnius (darbo ir
-    kapitalo). Narystė ES apribojo Lietuvos vyriausybės galimybes tiesiogiai
-    ir netiesiogiai kištis į ūkio funkcionavimą ir suteikė daugiau laisvių ir ga-
-    limybių Lietuvos įmonėms bei vartotojams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-
     ventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai. Kiek­
     vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-
@@ -104,7 +88,8 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
+  santrauka: 'Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
@@ -121,11 +106,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
-- [[objektai/zodynas/ES pilietis]]
 - [[objektai/zodynas/peticija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Europos Sąjunga]]

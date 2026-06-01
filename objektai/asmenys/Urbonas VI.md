@@ -28,7 +28,7 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą.'
+  teiginys: 'Popiežius Urbonas VI per pasiuntinį Dobrogostą paskelbė bulę, kuria Vilniaus bažnyčia pripažinta katedra.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
     - t-003
 
 - c-002
+  santrauka: 'Popiežius Urbonas VI per pasiuntinį Dobrogostą paskelbė bulę, kuria Vilniaus bažnyčia pripažinta katedra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rogėse pasislėpusiems žmonėms pavyko patekti į

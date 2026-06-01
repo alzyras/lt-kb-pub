@@ -20,13 +20,14 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­ kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo miręs), kartu su savo diecezijos klebonais Elblionge bemat surengė pasitarimą ir.'
+  teiginys: 'Mikolajus Kulmietis buvo neseniai miręs, kai Varmės, Sembos ir Pomezanijos vyskupai Elbinge surengė pasitarimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mikolajus Kulmietis buvo neseniai miręs, kai Varmės, Sembos ir Pomezanijos vyskupai Elbinge surengė pasitarimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA

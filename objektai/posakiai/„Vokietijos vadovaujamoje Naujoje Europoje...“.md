@@ -23,7 +23,7 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
     - c-001
 
 - t-002
-  teiginys: 'Mičiūno reprodukcija) L I E T U V O S I S T O R I J A 196 Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos.'
+  teiginys: 'LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.'
   pagrindžia:
     - c-002
 
@@ -49,6 +49,7 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
     - t-001
 
 - c-002
+  santrauka: 'LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     giausia tai spontaniškas atsakas į sovietų politiką Lietuvoje, iš dalies jis

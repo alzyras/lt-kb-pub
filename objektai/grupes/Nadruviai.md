@@ -41,7 +41,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - t-004
   teiginys: 'Dusburgietis teigia, kad tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos apylinkės, kur Katinavos kalva nadruvių buvo laikoma šventa.'
   pagrindžia:
-    - c-011
+    - c-010
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.'
@@ -178,6 +178,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   statusas: verified
   pagrindžia:
     - t-007
+    - t-006
 
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -228,26 +229,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-003
 
 - c-010
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
-    skalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat
-    būgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino
-    tolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami
-    ir degindami; daug žmonių paėmė  į nelaisvę  ir nukovė, o grįždami atgal, susimanė
-    pastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo
-    brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
-    bei jo sūnų Maudelį331 su daugybe ginklanešių. Vis dėlto štai kokios nuostabios esama
-    dievo apvaizdos, nedarančios klaidingų sprendimų: ji taip patvarkė, kad šita pilis, kurią
-    tuo metu nadruviai buvo pasistatę sau apsiginti, ilgainiui jiems pavirto kilpa ant kaklo
-    ir atvedė prie žlugimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos

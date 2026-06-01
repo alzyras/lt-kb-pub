@@ -44,7 +44,7 @@ Nenurodyta
     - c-004
 
 - t-002
-  teiginys: 'Spalio 3-4 d. lenkai užėmė Varėną kaip svarbų transporto mazgą.'
+  teiginys: 'Augustavo-Suvalkų operacijos metu lenkų pajėgos spalio 3-4 d. užėmė Varėną, svarbų transporto mazgą.'
   pagrindžia:
     - c-003
 
@@ -101,6 +101,7 @@ Nenurodyta
     - t-005
 
 - c-003
+  santrauka: 'Augustavo-Suvalkų operacijos metu lenkų pajėgos spalio 3-4 d. užėmė Varėną, svarbų transporto mazgą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau, siekdami ne-

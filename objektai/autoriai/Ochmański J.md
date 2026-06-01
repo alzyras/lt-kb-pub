@@ -18,31 +18,13 @@ Dusburgietis teigia, kad intaką Zelvą; pastarosios intakas Sasva (Pružanų rj
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad intaką Zelvą; pastarosios intakas Sasva (Pružanų rj.) taip pat jotvingiškas (Ochmański J., Nazwa Jaćwięgów, p. 197—204; Непокупный А.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad etninio lietuvių ploto rytiniame pakraštyje — Dainavos (Dojnova) gyvenvietės prie Radoškovičių ir kitur (Ochmański J., Litewska granica..., p..'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Spėjama, kad rytuose
-    (Nemuno akštupyje) jotvingių arealas aprėpęs Nemuno kair. intaką Zelvą; pastarosios
-    intakas Sasva (Pružanų rj.) taip pat jotvingiškas (Ochmański J., Nazwa Jaćwięgów, p.
-    197—204; Непокупный А. П. Лингвистические свидетельства..., с. 109).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie sūduvių (jotvingių) apgyvendinimą Lietuvos valstybės teritorijoje žr. Kamiński
@@ -53,7 +35,7 @@ Dusburgietis teigia, kad intaką Zelvą; pastarosios intakas Sasva (Pružanų rj
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

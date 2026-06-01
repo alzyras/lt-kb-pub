@@ -30,7 +30,7 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
     - c-001
 
 - t-002
-  teiginys: 'Johannes Voigt Foigtas vadina savo mylima šeiminin­ ke (seine liebe Hausfrau), jau metai kaip serga, ir kad liga kaip tik šiuo metu taip paūmėjo, jog visiškai nie­ ko negalinti valgyti.'
+  teiginys: 'Foigtas Marienburgo miesto ir pilies istorijoje rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
     - t-001
 
 - c-002
+  santrauka: 'Foigtas Marienburgo miesto ir pilies istorijoje rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pasta­

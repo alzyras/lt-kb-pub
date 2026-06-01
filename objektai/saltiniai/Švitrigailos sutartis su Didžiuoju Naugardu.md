@@ -20,18 +20,19 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­ tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­ nėtinai sėkmingas, taigi.'
+  teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Nors šiuo 6 Šios sutarties originalas (kaip tvirti­ na K a r a m z i n a s, V, L 144, prieraš.) yra Užsienio reikalų kolegijos archyve, bet toks senas, kad pavyko įskaityti tik kai kurias ir tai ne išti­ sas eilutes.'
+  teiginys: 'Švitrigailos sutarties su Didžiuoju Naugardu originalas buvo laikomas Užsienio reikalų kolegijos archyve ir buvo sunkiai įskaitomas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švitrigailos sutarties su Didžiuoju Naugardu originalas buvo laikomas Užsienio reikalų kolegijos archyve ir buvo sunkiai įskaitomas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors šiuo
@@ -50,6 +51,7 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
     - t-002
 
 - c-002
+  santrauka: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­

@@ -65,7 +65,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - [[objektai/asmenys/Romanas Sanguška]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/posakiai/filius specialis sanctae Romanas Ecclesiae]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/kelionių romanas]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]

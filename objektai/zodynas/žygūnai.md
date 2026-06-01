@@ -18,13 +18,14 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir įbaugintas, kad nė.'
+  teiginys: 'Prūsai siųsdavo žygūnus pas Lenkijos kunigaikštį reikalauti žirgų ir ryškiaspalvių drabužių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsai siųsdavo žygūnus pas Lenkijos kunigaikštį reikalauti žirgų ir ryškiaspalvių drabužių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     3. Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą

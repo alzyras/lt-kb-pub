@@ -48,7 +48,7 @@ Sudegė abiejų pilių papiliai.
     - c-001
 
 - t-002
-  teiginys: 'Dusburgiečio pasakojimu, tą dieną nepaėmus pilių iki pamatų sudegė abiejų jų papiliai.'
+  teiginys: 'Magistras Meinhardas liepos 25 d. užpuolė Junigėdą ir Pieštvę, o nepajėgęs daugiau padaryti sudegino abiejų pilių papilius.'
   pagrindžia:
     - c-001
 

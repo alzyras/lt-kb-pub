@@ -17,13 +17,14 @@ Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.'
+  teiginys: 'E. Mnišek trijų dalių kūrinį „Raupsuotoji“ į lietuvių kalbą vertė P. Jurgelevičius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'E. Mnišek trijų dalių kūrinį „Raupsuotoji“ į lietuvių kalbą vertė P. Jurgelevičius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     4. E. Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
@@ -34,3 +35,7 @@ Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

@@ -26,18 +26,19 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 ## Teiginiai
 
 - t-001
-  teiginys: '[Taip pat pagonys lietuviai Viešpaties me­ tais 1323-iais per Užgavėnes įsiver­ žė į Danijos karalystės Revelio že­ mę Livonijos srityse ir net Dorpato vyskupiją, kurias piešdami ir degin­ dami iki pamatų sugriovę sunaiki­ no ir pagrobė 4 000 vyrų ir moterų.'
+  teiginys: '1323 m. per Užgavėnes pagonys lietuviai įsiveržė į Danijos karalystės Revelio žemę Livonijoje ir Dorpato vyskupiją.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse, jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­ ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių, sudegino visą miestą ir.'
+  teiginys: 'Gardino vadas įsiveržė į Danijos žemes Revelio apylinkėse ir jas smarkiai nuniokojo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gardino vadas įsiveržė į Danijos žemes Revelio apylinkėse ir jas smarkiai nuniokojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau greitai užėjo tokie baisūs šalčiai, kad ne tik
@@ -62,6 +63,7 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
     - t-002
 
 - c-002
+  santrauka: '1323 m. per Užgavėnes pagonys lietuviai įsiveržė į Danijos karalystės Revelio žemę Livonijoje ir Dorpato vyskupiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     MCCCXXIII, in carniprivio

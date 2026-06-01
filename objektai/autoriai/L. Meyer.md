@@ -25,13 +25,14 @@ Dusburgietis teigia, kad meyer.—Paderborn, 1876.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad meyer.—Paderborn, 1876.'
+  teiginys: 'L. Meyerio parengta „Livländische Reimchronik“ išleista Paderborne 1876 metais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'L. Meyerio parengta „Livländische Reimchronik“ išleista Paderborne 1876 metais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Livländische Reimchronik / L. Meyer.—Paderborn, 1876.

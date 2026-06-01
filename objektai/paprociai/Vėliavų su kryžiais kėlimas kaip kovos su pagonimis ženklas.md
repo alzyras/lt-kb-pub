@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Gynėjai iškėlė vėliavas su kryžiais, kaip ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­ vių, dar nepakrikštytų, begalė buvo Vytauto gretose, nes prie lio skundų ir ginčų tarp Jogailos ir Ordino priežastis; pastarasis smar­ kiai gynėsi.'
+  teiginys: 'Apgultos tvirtovės gynėjai iškėlė vėliavas su kryžiais, rodydami, kad kovoja su pagonimis Vytauto gretose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apgultos tvirtovės gynėjai iškėlė vėliavas su kryžiais, rodydami, kad kovoja su pagonimis Vytauto gretose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas šaunus karys, išvaręs iš tvir­

@@ -19,13 +19,14 @@ Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų metraščių žymė:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nuo Mindaugo laikų iki XV a. rusų metraščiuose labiau pravardžiuoti Lietuvos valdovai laikyti labiau pasižymėjusiais.'
+  teiginys: 'Rusų lietopisis Lietuvos valdovo pravardžiavimą siejo su jo didesniu pasižymėjimu lietuvių tautoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusų lietopisis Lietuvos valdovo pravardžiavimą siejo su jo didesniu pasižymėjimu lietuvių tautoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Prie 1270 m. ji pradžioje

@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šioje sutartyje tarp kunigaikščių ir prelatų nurodyti: Černigovo ku­ nigaikštis Švitrigaila, Vilniaus vys­ kupas Motiejus ir Medininkų (Žemai­ tija) vyskupas nominatas Mikalojus.'
+  teiginys: 'Mikalojus sutartyje buvo nurodytas kaip Medininkų, arba Žemaitijos, vyskupas nominatas tarp kunigaikščių ir prelatų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mikalojus sutartyje buvo nurodytas kaip Medininkų, arba Žemaitijos, vyskupas nominatas tarp kunigaikščių ir prelatų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lenkijos miestai, jau

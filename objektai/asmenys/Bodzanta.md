@@ -34,7 +34,7 @@ Bodzanta Vladislovo vardu.
 - t-002
   teiginys: 'Gniezno arkivyskupas Bodzanta iškilmingai pašventino bažnyčią, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta.'
@@ -77,25 +77,6 @@ Bodzanta Vladislovo vardu.
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Stanislovo katedra8. Iškilmingai,
-    dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
-    ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė
-    Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais
-    rykais ir visokia manta. Lenkų didžponiams patarus, pir­
-    muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­
-    rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš
-    Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­
-    nuolį, Cereto vyskupą, kadaise Vengrijos karalienės Elžbie­
-    tos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­
-    ką9.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

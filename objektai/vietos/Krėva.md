@@ -32,12 +32,12 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 - t-001
   teiginys: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
   pagrindžia:
-    - c-011
+    - c-007
 
 - t-002
-  teiginys: 'Tačiau, apsuptas išdavikų, buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­ tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių budelių pasmaugtas36.'
+  teiginys: 'Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas kelių budelių.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-003
   teiginys: 'Skirgaila iš Vilniaus nuvežė Kęstutį į Krėvės kalėjimą.'
@@ -45,9 +45,9 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-003
 
 - t-004
-  teiginys: 'Jau­ nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Mazovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­ jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­ lygdamas.'
+  teiginys: 'Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
   teiginys: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.'
@@ -57,27 +57,27 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 - t-006
   teiginys: 'Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas.'
   pagrindžia:
-    - c-009
+    - c-006
 
 - t-007
-  teiginys: 'Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas, tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­ vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo neišvengiamos.'
+  teiginys: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir ten įkalintas.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-008
   teiginys: 'Pirkliai lankė Lietuvos miestus, tarp jų Vilnių, Krėvą, Trakus ir Gardiną.'
   pagrindžia:
-    - c-008
+    - c-002
 
 - t-009
-  teiginys: 'Lankė jie ir kitus Lietuvos miestus, kaip Vilnių, Krėvę, Trakus, Gardi­ ną ir kitus.'
+  teiginys: 'Vokiečių pirkliai lankė Krėvą ir kitus Lietuvos miestus.'
   pagrindžia:
     - c-002
 
 - t-010
   teiginys: 'Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje.'
   pagrindžia:
-    - c-010
+    - c-005
 
 - t-011
   teiginys: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
@@ -87,7 +87,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 - t-012
   teiginys: 'Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.'
   pagrindžia:
-    - c-012
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -112,8 +112,10 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   statusas: verified
   pagrindžia:
     - t-005
+    - t-007
 
 - c-002
+  santrauka: 'Vokiečių pirkliai lankė Krėvą ir kitus Lietuvos miestus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Juose buvo daugiausia
@@ -126,6 +128,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   statusas: verified
   pagrindžia:
     - t-009
+    - t-008
 
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -153,28 +156,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-011
 
 - c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    To garbingo karžygio palaikai Skir­
-    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
-    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
-    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
-    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
-    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
-    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
-    neišvengiamos pražūties.
-    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
-    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
-    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
-    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
-    sudarė su jais paliaubas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-006
+  santrauka: 'Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -191,8 +173,10 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   statusas: verified
   pagrindžia:
     - t-004
+    - t-010
 
-- c-007
+- c-006
+  santrauka: 'Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas kelių budelių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     37
@@ -212,57 +196,9 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Juose buvo daugiausia
-    įsigalėję vokiečių pirkliai, turėdami čia savo kontoras. Lankė
-    jie ir kitus Lietuvos miestus, kaip Vilnių, Krėvę, Trakus, Gardi­
-    ną ir kitus. Kaunas buvo Lietuvos prekybos židinys, nes į jį
-    ėjo daug vandens ir sausumos kelių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    stovyklą kuo greičiau susitarti. Tačiau, apsuptas išdavikų,
-    buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­
-    tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių
-    budelių pasmaugtas36. To garbingo karžygio palaikai Skir­
-    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
-    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
-    vo37.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
 
-- c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    bet ir Ašmeną, Ukmergę ir Breslaują. Tik neilgai Lietuvos
-    sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
-    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
-    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
-    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
-    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
-    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
-    neįgijęs, sergėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-011
+- c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Maskva
@@ -304,7 +240,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   pagrindžia:
     - t-001
 
-- c-012
+- c-008
   santrauka: 'Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

@@ -17,13 +17,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '(”) Vytautas Did., LE, t.'
+  teiginys: 'Z. Ivinskio straipsnis „Vytautas Did.“ paskelbtas Lietuvių enciklopedijos 34 tome, p. 376-379.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Z. Ivinskio straipsnis „Vytautas Did.“ paskelbtas Lietuvių enciklopedijos 34 tome, p. 376-379.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Barbašev, A. : Vitovt i jego politika do grjuuvaldskoj bitvy 1410,

@@ -35,12 +35,12 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
 - t-002
   teiginys: 'Vytauto laikais Krokuvos ir vokiečių pirkliai sausuma lankydavo Volynijos ir Podolijos miestus.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-003
-  teiginys: 'Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž.'
+  teiginys: 'Vytauto laikais Volynijoje buvo gausu didžiojo kunigaikščio dvarų ir ūkio centrų.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: '1384 m. pavasarį Jogaila siūlė Vytautui grąžinti tėviškę ir pridėti Volyniją su Lucku.'
@@ -48,13 +48,14 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-003
 
 - t-005
-  teiginys: 'Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą, remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­ jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.'
+  teiginys: 'Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kroku­
@@ -72,6 +73,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -110,25 +112,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - t-004
 
 - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kroku­
-    vos pirkliams Vytautas (1403) užtikrino visoje savo valstybėje
-    apsaugą, leisdamas jiems laisvų laisviausiai prekiauti Lietuvo­
-    je ir Rusijoje.
-    Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
-    remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą
-    su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­
-    jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
-    Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
-    cijos pirkliai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
+  santrauka: 'Vytauto laikais Volynijoje buvo gausu didžiojo kunigaikščio dvarų ir ūkio centrų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė

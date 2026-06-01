@@ -81,5 +81,4 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
 
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]

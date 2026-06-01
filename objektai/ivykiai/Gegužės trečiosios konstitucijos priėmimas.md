@@ -51,17 +51,17 @@ Nenurodyta
 - t-002
   teiginys: 'Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-003
   teiginys: 'Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-004
-  teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 91 Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  teiginys: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-005
   teiginys: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
@@ -71,7 +71,7 @@ Nenurodyta
 - t-006
   teiginys: 'Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -96,21 +96,6 @@ Nenurodyta
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Prieš tai Seimas ėmėsi la-
-    bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
-    suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą. Mies-
-    tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
-    užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
-    su dvarininkais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Nors Seimui pirmininkauti
     turi karalius, jo įstatymų leidybos galios yra ribotos, o karaliaus vaidmuo
     didėja vykdomojoje valdžioje. Atšaukiama karalių renkamumo tvarka,
@@ -125,21 +110,8 @@ Nenurodyta
   pagrindžia:
     - t-006
 
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Konstitucijoje
-    yra rašoma daugiskaita apie „Respublikos valstybes“, t. y. turima omenyje
-    ir Lietuva. Nepaisant visų unitarinių tendencijų, konstitucijos teksto III ir
-    IV skyriuose juodu ant balto parašyta ,,Respublikos valstybės“ – Lenkija
-    ir Lietuva.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
+- c-003
+  santrauka: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
@@ -161,23 +133,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prieš tai Seimas ėmėsi la-
-    bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
-    suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą. Mies-
-    tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
-    užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
-    su dvarininkais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
+    - t-003
     - t-002
 
-- c-007
+- c-004
   santrauka: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -193,6 +152,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -203,6 +163,5 @@ Nenurodyta
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Kariuomenės ir Iždo komisijos]]
-- [[objektai/grupes/Miestiečiai ir valstiečiai]]
 - [[objektai/grupes/Teisių sargyba]]
 - [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]

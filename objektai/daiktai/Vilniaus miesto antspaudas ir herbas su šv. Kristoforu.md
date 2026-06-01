@@ -45,23 +45,24 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tokiems miestiečiams galėjo būti suteikti bajorų herbai, bet tik sutikus nors vienai pastariesiems priklausančiai šei­ mai, o viešiesiems reikalams magistratas negalėjo naudoti kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su šventojo Kristoforo.'
+  teiginys: 'Vilniaus miesto viešųjų aktų antspaude turėjo būti šv. Kristoforo atvaizdas raudoname lake.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Bet to negalime dovanoti die­ vobaimingiems Vilniaus miestie­ čiams, kad jie 1548 metais, kaip teigia straipsnio apie Vilniaus ant­ spaudą autorius, turėdami herbe šv.'
+  teiginys: '1548 metais Vilniaus miesto herbas buvo šv. Kristoforo atvaizdas raudoname fone.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Tas pats Gardino seimas Vilniaus miesto gyventojams buvo labai įsimintinas dėl suteiktos privilegi­ jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­ rate, su palikuonimis buvo visiems.'
+  teiginys: 'Viešiesiems reikalams Vilniaus magistratas turėjo naudoti senąjį miesto antspaudą su šv. Kristoforo atvaizdu raudoname lake.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus miesto viešųjų aktų antspaude turėjo būti šv. Kristoforo atvaizdas raudoname lake.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokiems miestiečiams galėjo būti suteikti bajorų herbai,
@@ -115,6 +116,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Viešiesiems reikalams Vilniaus magistratas turėjo naudoti senąjį miesto antspaudą su šv. Kristoforo atvaizdu raudoname lake.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas pats Gardino seimas Vilniaus miesto
@@ -168,6 +170,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: '1548 metais Vilniaus miesto herbas buvo šv. Kristoforo atvaizdas raudoname fone.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet to negalime dovanoti die­
@@ -216,5 +219,6 @@ Nenurodyta
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/vaitas]]
+- [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]

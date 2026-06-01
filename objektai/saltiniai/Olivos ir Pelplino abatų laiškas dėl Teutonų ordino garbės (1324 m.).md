@@ -26,18 +26,19 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.'
+  teiginys: 'Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Olivos ir Pelplino abatų laiškas pa­ žymėtas vėlesne data.'
+  teiginys: 'Olivos ir Pelplino abatų laiškas buvo datuotas 1324 m. sausio 17 d. Gmevo pilyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Olivos ir Pelplino abatų laiškas buvo datuotas 1324 m. sausio 17 d. Gmevo pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Olivos ir Pelplino abatų laiškas pa­
@@ -63,6 +64,7 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
     - t-002
 
 - c-002
+  santrauka: 'Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­

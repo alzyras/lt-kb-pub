@@ -71,7 +71,6 @@ Vartojamos formos: `aukos`, `aukas`.
 - [[objektai/grupes/JAV lietuviai]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/paprociai/Kieminė auka Perūnui per audrą]]
-- [[objektai/paprociai/Kovų vietų neliečiamumas]]
 - [[objektai/asmenys/Krivis]]
 - [[objektai/autoriai/Lasickis J]]
 - [[objektai/grupes/Lietuviai]]

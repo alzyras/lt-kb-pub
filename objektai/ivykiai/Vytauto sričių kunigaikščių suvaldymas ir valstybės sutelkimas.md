@@ -34,47 +34,26 @@ Nenurodyta
 - t-001
   teiginys: 'Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Pašalinus Karijotaitį, Podolė buvo padalyta į tris dalis, o Vytautui tiesiogiai atiteko tik rytinė jos dalis.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Po Skirgailos mirties 1397 m. Vytautas Kijeve paskyrė savo vietininką Alšėnų kunigaikštį Joną Algimantaitį.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
-  teiginys: 'Jis pats iš pradžių titulavosi tik Trakų kunigaikščiu, bet po kelerių metų (pirmą kartą 1395 m.) ėmė tituluotis didžiuoju Lietuvos kunigaikščiu.'
-  pagrindžia:
-    - c-001
-
-- t-005
   teiginys: 'Vytautas suvaldė nepaklusnius sričių kunigaikščius, pašalino juos iš vietų ir paskyrė savo vietininkus bajorus.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos va-
-    salas ir išlikusiems sričių kunigaikščiams leido reikšti ištikimybės
-    priesaikas Jogailai, tačiau valdyti jis valdė pats vienas: Jogaila be
-    jo nieko negalėjo padaryti Lietuvoje. Jis pasidarė Jogailos są-
-    jungininkas, o ne valdinys. Jis pats iš pradžių titulavosi tik Tra-
-    kų kunigaikščiu, bet po kelerių metų (pirmą kartą 1395 m.) ėmė
-    tituluotis didžiuoju Lietuvos kunigaikščiu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmiausia Vytautas suvaldė nepaklusnų jauniausiąjį Jogai-
@@ -92,7 +71,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Netrukus neteko savo srities ir Kijevo kunigaikštis, Jo-
@@ -107,7 +86,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu tiesioginei Vytauto valdžiai atiteko ir ši,
@@ -124,7 +103,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-005
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     daugelis jų nė neketino jo klausyti. Mat, kiekvienas Algirdo sū-
@@ -137,13 +116,12 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Karijotas]]
 - [[objektai/asmenys/Liubartas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

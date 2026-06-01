@@ -3,7 +3,6 @@ tipas: grupe
 pavadinimas: 'Kuršiai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -32,7 +31,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - t-001
   teiginys: 'Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas.'
   pagrindžia:
-    - c-013
+    - c-001
 
 - t-002
   teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
@@ -42,7 +41,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - t-003
   teiginys: 'Istorijos priešaušryje kuršių žemėse turėjo būti gana daug atskirų sričių kunigų.'
   pagrindžia:
-    - c-012
+    - c-002
 
 - t-004
   teiginys: 'Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.) nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo sukilusios tautos : estai, kuršiai, žiemgaliai.'
@@ -52,7 +51,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - t-005
   teiginys: 'Dusburgietis teigia, kad materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių (žemutinių lietuvių) ir latvių13.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-006
   teiginys: 'Tokiu atskirų sričių kunigų istorijos priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant drauge ir jotvingius) žemėse turėjo būti gana daug.'
@@ -62,51 +61,47 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - t-007
   teiginys: 'Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-008
   teiginys: 'Spindinčius metalo ginklus kronikininkai randa ir pas kuršius bei žiemgalius.'
   pagrindžia:
-    - c-011
-
-- t-009
-  teiginys: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus, kuršius, žiemgalius.'
-  pagrindžia:
     - c-009
 
-- t-010
+- t-009
   teiginys: 'Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dauguvos žemupio krante — žiemgaliai, kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apskritis, gyveno sėliai, o į šiaurę.'
   pagrindžia:
-    - c-007
+    - c-006
 
-- t-011
+- t-010
   teiginys: 'Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.'
   pagrindžia:
     - c-003
 
-- t-012
-  teiginys: 'Tarp kitų duokli­ ninkių tautų yra minimos — vis savo atskiras kalbas turinčios — «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai».'
+- t-011
+  teiginys: 'Nestoro „Povest“ tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų minėjo Kuršą.'
   pagrindžia:
     - c-001
 
-- t-013
+- t-012
   teiginys: 'Dusburgietis teigia, kad lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t.'
   pagrindžia:
-    - c-015
+    - c-010
 
-- t-014
+- t-013
   teiginys: 'Livonijoje sukilę kuršiai buvo pajungti tik po septynerių metų kovos, 1267 m.'
   pagrindžia:
-    - c-014
+    - c-004
 
-- t-015
+- t-014
   teiginys: 'Dusburgietis teigia, kad tuo tarpu atvyko kuršiai, nuolankiai prašydami, kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.'
   pagrindžia:
-    - c-010
+    - c-008
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nestoro „Povest“ tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų minėjo Kuršą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nepa­
@@ -119,7 +114,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
+    - t-001
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -134,6 +130,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   statusas: verified
   pagrindžia:
     - t-006
+    - t-003
 
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -147,7 +144,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -167,23 +164,9 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   statusas: verified
   pagrindžia:
     - t-004
+    - t-013
 
 - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ankstyvųjų šaltinių ir archeologiniai duomenys leidžia teigti, kad
-    kai kurių pietvakarių baltų genčių kariniai junginiai yra dalyvavę
-    karo žygiuose į yrančios Romos imperijos teritoriją. Vikingų epo-
-    choje prie jūros gyvenusiems prūsams ir kuršiams teko atremti
-    plėšikaujančius skandinavus. Tiesa, kuršiai XI a. jau ir patys reng-
-    davo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ankstyvųjų šaltinių ir archeologiniai duomenys leidžia teigti, kad
@@ -200,8 +183,9 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   statusas: verified
   pagrindžia:
     - t-007
+    - t-002
 
-- c-007
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Į pie-
@@ -220,9 +204,9 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-008
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
@@ -237,21 +221,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   pagrindžia:
     - t-005
 
-- c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jau Ptolema-
-    jas II a. žinojo prūsų gentį galindus ir jotvingius arba sūduvius. Anks-
-    tyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus,
-    kuršius, žiemgalius. Lietuviai, gyvenę į rytus nuo šių genčių, natūralu, į
-    metraščius nepateko, o ir rytų baltų diferenciacijos procesas vyko vėliau.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-010
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
@@ -267,9 +237,9 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
-- c-011
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     8345). Spindinčius metalo ginklus kronikininkai randa ir pas
@@ -282,55 +252,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   pagrindžia:
     - t-008
 
-- c-012
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų
-    pareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos
-    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
-    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
-    dalis jų yra žinoma ir vardais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-013
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nepa­
-    duodama tikslios chronologijos, Nestoro « Povest » paminėjo kaimy­
-    nines tautas, kurios mokėjusios rusams duoklę. Tarp kitų duokli­
-    ninkių tautų yra minimos — vis savo atskiras kalbas turinčios —
-    «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai». Dauguva norma­
-    nams buvo svarbus vandens kelias į rytus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-014
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kadangi Prūsų kryžiuočiai porai dešimtmečių buvo užimti
-    krašto viduje (sukilimas galutinai buvo numalšintas 1274 m.), Trai­
-    denio ir jo įpėdinių valdžioje spėjusi sutvirtėti, vėliau per eilę gene­
-    racijų Lietuva pajėgė sėkmingai vesti įtemptas kovas prieš riterius.
-    Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą
-    prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.)
-    nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo
-    sukilusios tautos : estai, kuršiai, žiemgaliai. Kuršas buvo pajungtas
-    tik po 7 metų kovos (1267 m.), o kol žiemgaliai buvo nugalėti, praėjo
-    30 metų (1290).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-015
+- c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Į šiaurę nuo Nemuno žiočių, Minijos
@@ -342,9 +264,9 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
 
-- c-016
+- c-011
   santrauka: 'Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -356,12 +278,11 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Galindai]]
 - [[objektai/grupes/Jotvingai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietgaliai]]
@@ -405,7 +326,6 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Skandinavai]]
 - [[objektai/asmenys/Sklodas iš Kvedenavos]]
-- [[objektai/autoriai/Stepinš P]]
 - [[objektai/autoriai/V. Mažiulis]]
 - [[objektai/autoriai/Vanagas A]]
 - [[objektai/asmenys/Volkvinas]]

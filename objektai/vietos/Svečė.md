@@ -20,40 +20,23 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems.'
+  teiginys: 'Sventopelkas pradėjo statyti Svečės pilį priešais dabartinį Kulmo miestą, kad trukdytų Ordino broliams plaukioti Vysla.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad žvalgai sugrįžę pranešė, kad Sventopelkas su galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių ir 10 laivų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
-    Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
-    Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
-    galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs. Pasitarę visi nusprendė ten jį
-    užpulti ir iš Kulmo pasiuntė 10 raitelių, turėjusių neduoti ramybės priešo kariuomenei;
-    susidūrę su 20 priešo vyrų, jie nukovė vieną karį, o kiti 19, išvydę brolių vėliavą, pabėgo;
-    bėgliams parsiradus Sventopelko kariuomenėje, išsibėgiojo visi, išsigelbėjo kurie ne
-    kurie, pasiekdami pilį, visi kiti arba paskendo, arba paklojo galvas nuo kalavijo ašmenų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar kartų apie tą patį
@@ -69,8 +52,10 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
-- c-003
+- c-002
+  santrauka: 'Sventopelkas pradėjo statyti Svečės pilį priešais dabartinį Kulmo miestą, kad trukdytų Ordino broliams plaukioti Vysla.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi
@@ -87,23 +72,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   pagrindžia:
     - t-001
 
-- c-004
-  santrauka: 'Dusburgietis teigia, kad kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių ir 10 laivų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    51 (50). Dar kartų apie tą patį
-
-      Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
-    pasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.
-    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
-    ir 10 laivų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
+- c-003
   santrauka: 'Dusburgietis teigia, kad žvalgai sugrįžę pranešė, kad Sventopelkas su galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -122,3 +91,4 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002

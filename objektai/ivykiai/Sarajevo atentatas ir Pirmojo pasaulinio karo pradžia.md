@@ -43,13 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 129 Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ (Paryžius, 1920)) L I E T U V O S I S T O R I J A 130 KOVA DĖL.'
+  teiginys: '1914 m. birželio 28 d. Sarajeve pasikėsinimas į Pranciškų Ferdinandą paskatino Europos koalicijas pereiti į karo padėtį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1914 m. birželio 28 d. Sarajeve pasikėsinimas į Pranciškų Ferdinandą paskatino Europos koalicijas pereiti į karo padėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S

@@ -48,4 +48,5 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 - [[objektai/zodynas/urėdas]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/asmenys/Eustachijus Valavičius]]
+- [[objektai/zodynas/manu proprio M.P]]
 - [[objektai/grupes/Tiškevičiai]]

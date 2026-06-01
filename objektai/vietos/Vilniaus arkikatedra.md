@@ -23,13 +23,14 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
     - c-002
 
 - t-002
-  teiginys: 'Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pritaikytos uždarytos bažnyčios: Šv.'
+  teiginys: 'Uždarytoje Vilniaus arkikatedroje buvo atidaryta Paveikslų galerija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Uždarytoje Vilniaus arkikatedroje buvo atidaryta Paveikslų galerija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Už-

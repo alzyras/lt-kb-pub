@@ -27,7 +27,7 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi lietuvių kalbą, nesuspėjant kurti naujadarų pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų, tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone.'
+  teiginys: 'LDK oficialiajame kultūros modelyje lietuvių kalbą iš pradžių lenkė rusėnų, o vėliau lenkų kalba.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LDK oficialiajame kultūros modelyje lietuvių kalbą iš pradžių lenkė rusėnų, o vėliau lenkų kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta. Gyveni-
@@ -78,6 +79,7 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/integracinė kalba polonizacija]]
 - [[objektai/zodynas/oficialusis kultūros modelis lietuviakalbė programa]]
 - [[objektai/zodynas/polonizacija integracinė kalba]]

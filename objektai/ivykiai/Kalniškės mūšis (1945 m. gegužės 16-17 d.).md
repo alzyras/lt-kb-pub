@@ -43,39 +43,26 @@ Nenurodyta
 - t-001
   teiginys: 'Kalniškės mūšyje partizanai, naudodami granatas ir sutelktą ugnį, su nuostoliais prasiveržė link Sūsninkų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Kalniškės mūšyje žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu Pušelė.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Neifalta-Lakūnas per Kalniškės mūšį nežuvo ir žuvo apie 1946 m.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-004
   teiginys: '„Lakūną“ po Kalniškės mūšio mačiau ne kartą savo akimis.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušelė“. Bet pats
-    Neifalta-Lakūnas tikrai nežuvo, kaip kad daug kur rašoma. „Lakūną“ po Kalniškės mūšio
-    mačiau ne kartą savo akimis. Žuvo jis apie 1946 m., kūnas buvo numestas ant grindinio
-    Krosnoje. Tuo metu aš jau buvau suimtas...“
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ne tik jėgos, pritrūko ir šaudmenų. Bai-
@@ -90,7 +77,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušelė“. Bet pats
@@ -108,25 +95,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušelė“. Bet pats
-    Neifalta-Lakūnas tikrai nežuvo, kaip kad daug kur rašoma. „Lakūną“ po Kalniškės mūšio
-    mačiau ne kartą savo akimis. Žuvo jis apie 1946 m., kūnas buvo numestas ant grindinio
-    Krosnoje. Tuo metu aš jau buvau suimtas...“
-
-    Mūšis
-
-    220-ojo pasienio pulko kariai apsupo
-    Kalniškės mišką, kuriame buvo įrengta
-    partizanų stovykla.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

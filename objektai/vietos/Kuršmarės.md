@@ -27,13 +27,14 @@ nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Balt
 ## Teiginiai
 
 - t-001
-  teiginys: 'Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija.'
+  teiginys: '1252 m. Livonijos ordinas pradėjo statyti pilį vietoje, kur Kuršmarės jungiasi su Baltija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1252 m. Livonijos ordinas pradėjo statyti pilį vietoje, kur Kuršmarės jungiasi su Baltija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam tikslui 1252 m. Livo-

@@ -25,13 +25,14 @@ Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudeg
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C'''' ■^la ir toliau cit. pagal Gedimino laiš­ kai, parengė V. Pašuta ir I. Štai.'
+  teiginys: 'I. Štai kartu su V. Pašuta parengė leidinį „Gedimino laiškai“, kuriuo remiamasi cituojant laiško vertimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'I. Štai kartu su V. Pašuta parengė leidinį „Gedimino laiškai“, kuriuo remiamasi cituojant laiško vertimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Todėl prašome, kad jūs paskelbtumėte šį [laišką] žmo­

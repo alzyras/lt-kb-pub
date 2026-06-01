@@ -45,18 +45,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Senesniaisiais laikais ir pirm įvairūs asmenys, kaip an­ tai: Lietuvos pakancleris Leonas Sapiega, Vilniaus vysku­ pas Bžostovskis, Vilniaus kaunauninkas Vaišnarovičius ir kiti, nemaža savo knygų užrašydami ir dovanodami biblio­ tekai, ją praturtino.'
+  teiginys: 'Leonas Sapiega, vyskupas Bžostovskis, kanauninkas Vaišnarovičius ir kiti dovanotomis bei užrašytomis knygomis praturtino biblioteką.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­ reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po 100 auksinų kolegija duotų knygoms įsigyti; tad šie.'
+  teiginys: '1623 m. Adrijanas Vežbickis įpareigojo Akademijos kolegiją iš Blonių valdos pajamų kasmet skirti po 100 auksinų knygoms įsigyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1623 m. Adrijanas Vežbickis įpareigojo Akademijos kolegiją iš Blonių valdos pajamų kasmet skirti po 100 auksinų knygoms įsigyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus
@@ -91,6 +92,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Leonas Sapiega, vyskupas Bžostovskis, kanauninkas Vaišnarovičius ir kiti dovanotomis bei užrašytomis knygomis praturtino biblioteką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Senesniaisiais laikais ir pirm įvairūs asmenys, kaip an­
@@ -115,7 +117,6 @@ Nenurodyta
 - [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/daiktai/Vaišių stalai]]
-- [[objektai/asmenys/Vaišnarovičius]]
 - [[objektai/zodynas/pakancleris]]
 - [[objektai/daiktai/Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai]]
 - [[objektai/grupes/Kauno jėzuitų kolegija]]

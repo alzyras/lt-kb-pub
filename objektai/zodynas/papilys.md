@@ -47,7 +47,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - c-010
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies, pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo.'
+  teiginys: 'Konrado Štangės žvalgas prie Junigedos pilies pranešė, kad lauke, pilyje ir papilyje pilna karių.'
   pagrindžia:
     - c-002
 
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - c-011
 
 - t-010
-  teiginys: 'Dusburgietis teigia, kad prie pilies buvo du papiliai — ant kalno ir slėnyje (D.'
+  teiginys: 'Prie Junigedos, arba Veliuonos, pilies buvo du papiliai: vienas ant kalno, kitas slėnyje.'
   pagrindžia:
     - c-005
 
@@ -118,6 +118,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-006
 
 - c-002
+  santrauka: 'Konrado Štangės žvalgas prie Junigedos pilies pranešė, kad lauke, pilyje ir papilyje pilna karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
@@ -172,6 +173,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-007
 
 - c-005
+  santrauka: 'Prie Junigedos, arba Veliuonos, pilies buvo du papiliai: vienas ant kalno, kitas slėnyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     533 Junigedos, Junigėdos (Veliuonos)  pilis greičiausiai buvo rytiniame Veliuonos
@@ -205,6 +207,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   statusas: verified
   pagrindžia:
     - t-012
+    - t-016
 
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -227,6 +230,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   statusas: verified
   pagrindžia:
     - t-008
+    - t-017
 
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -298,6 +302,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   statusas: verified
   pagrindžia:
     - t-009
+    - t-015
 
 - c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -352,61 +357,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   statusas: verified
   pagrindžia:
     - t-014
-
-- c-015
-  santrauka: 'Dusburgietis teigia, kad apie Junigedos pilies papilių sudeginimą 1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių, nevengdamas nei didelių rūpesčių, nei gausių išlaidų, visados pasiryžęs aukštinti tikėjimą ir tikinčiuosius, sutelkė visą savo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    252 (245). Apie Junigedos pilies papilių sudeginimą
-
-      1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių,
-    nevengdamas nei  didelių rūpesčių, nei gausių  išlaidų, visados pasiryžęs  aukštinti
-    tikėjimą ir tikinčiuosius, sutelkė visą savo kariuomenę, patraukė prie Junigedos pilies ir
-    ją smarkiai užpuolė. Daug žmonių išžudęs, pavertė pelenais du šios pilies papilius, vieną
-    — ant kalno, kitą — slėnyje.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-015
-
-- c-016
-  santrauka: 'Dusburgietis teigia, kad apie Gardino papilio sunaikinimą 1306 viešpaties metais brolis Konradas, magistras, iš patikimų šaltinių sužinojęs, kad didelė kariuomenė iš Lietuvos bei Gardino pilies patraukė link Lenkijos, išsiuntė šios pilies užkariauti brolį Albrechtą iš Hageno bei.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    292 (285). Apie Gardino papilio sunaikinimą
-
-      1306 viešpaties metais brolis Konradas, magistras, iš patikimų šaltinių sužinojęs, kad
-    didelė kariuomenė iš Lietuvos bei Gardino pilies patraukė link Lenkijos, išsiuntė šios
-    pilies užkariauti brolį Albrechtą iš Hageno bei kuriuos ne kuriuos kitus brolius su 400
-    Notangos vyrų. Kai jie priėjo pilį, kilo tokia vėtra, kad vienas kito negalėjo nei išgirsti, nei
-    pamatyti; audrai šėlstant, jie įsiveržė į šios pilies papilį, kuris tuo metu buvo ir didelis, ir
-    gausiai gyvenamas nelyginant koks miestas, ir, visus žmones išžudę ar paėmę į nelaisvę
-    bei sudeginę papilį, patraukė namo su tokiu grobiu, kokį įstengė išsigabenti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-017
-  santrauka: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    332 (325). Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
-
-      Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
-    broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
-    į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
-    kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra
-    kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
-    vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
-    apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-017
 
 ## Ryšiai
 ### Susiję objektai

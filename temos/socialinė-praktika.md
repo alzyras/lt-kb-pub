@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 28.
+Objektų skaičius: 27.
 
 ## Kaip naudoti
 
@@ -32,7 +32,6 @@ Objektų skaičius: 28.
 - [[objektai/paprociai/Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio]]
 - [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
-- [[objektai/paprociai/Skurdo ištikto žmogaus savižudybė kaip paprotinis sprendimas]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
 - [[objektai/paprociai/Sąjūdžio masiniai mitingai ir reikalavimų viešinimas]]
 - [[objektai/paprociai/Valstybinio turto privatizavimas investiciniais čekiais]]
@@ -50,7 +49,7 @@ Objektų skaičius: 28.
 - [[objektai/posakiai/svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo]]
 
 ### Įvykiai
-- [Liubomirskio seimo išardymas (1639 m.)](../objektai/ivykiai/Liubomirskio%20seimo%20i%C5%A1ardymas%20%281639%20m.%29)
+- [[objektai/ivykiai/Liubomirskio seimo išardymas (1639 m.)]]
 
 ### Žodynas
 - [bažnytinės cenzūros](../objektai/zodynas/ba%C5%BEnytin%C4%97s%20cenz%C5%ABros)

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad wojtecki D.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad wojtecki D.'
+  teiginys: 'D. Wojteckio studija apie Vokiečių ordino XIII a. personalijų istoriją išleista Vysbadene 1971 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'D. Wojteckio studija apie Vokiečių ordino XIII a. personalijų istoriją išleista Vysbadene 1971 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert

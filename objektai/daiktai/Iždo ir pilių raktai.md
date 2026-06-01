@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagal Dlugošo idi­ lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­ gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.'
+  teiginys: 'Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.'
   pagrindžia:
     - c-001
 
@@ -63,6 +63,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
@@ -127,6 +128,7 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]

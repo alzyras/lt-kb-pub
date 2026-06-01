@@ -30,17 +30,17 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - t-001
   teiginys: 'Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-002
   teiginys: 'Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas privalomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarkytos pagal SSRS aukštųjų mokyklų sistemą.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-003
   teiginys: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
   pagrindžia:
-    - c-011
+    - c-010
 
 - t-004
   teiginys: 'Lietuvą pavertus SSRS dalimi, jos valdymo sistema buvo pertvarkoma pagal Sovietų Sąjungos modelį.'
@@ -48,41 +48,36 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-003
 
 - t-005
-  teiginys: 'Visoje SSRS kalinius ir tremtinius pradėta leisti į laisvę.'
-  pagrindžia:
-    - c-004
-
-- t-006
   teiginys: 'SSRS 1940 metų ultimatumas ir sovietų okupacija Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrinkta į Tautų Sąjungos Tarybą.'
-  pagrindžia:
-    - c-010
-
-- t-007
-  teiginys: 'Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.'
   pagrindžia:
     - c-009
 
-- t-008
+- t-006
+  teiginys: 'Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.'
+  pagrindžia:
+    - c-008
+
+- t-007
   teiginys: 'Galimybė atsidurti „po rusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į Nikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų režimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus.'
   pagrindžia:
-    - c-012
+    - c-011
 
-- t-009
+- t-008
   teiginys: 'Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą.'
   pagrindžia:
     - c-002
 
-- t-010
+- t-009
   teiginys: 'Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota nuo kapitalistinių valstybių ir priklausoma nuo kitų SSRS regionų.'
   pagrindžia:
-    - c-005
+    - c-004
 
-- t-011
+- t-010
   teiginys: 'Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja.'
   pagrindžia:
-    - c-008
+    - c-007
 
-- t-012
+- t-011
   teiginys: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   pagrindžia:
     - c-001
@@ -105,7 +100,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -125,7 +120,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -149,23 +144,6 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-
-    kitai Chruščiovui pasmerkus J. Stalino kultą – susilpnėjo rusinimas, val-
-    džia pradėjo labiau pasitikėti vietiniais lietuviais. Visoje SSRS kalinius ir
-    tremtinius pradėta leisti į laisvę. Nors Lietuvos komunistų administracija
-    nenorėjo, kad ištremtieji grįžtų į tėvynę, nes esą jie stiprina Lietuvos gy-
-    ventojų nacionalistines nuotaikas ir apsunkina jų auklėjimą „tautų drau-
-    gystės“ dvasia, šeštąjį–septintąjį dešimtmetį į Lietuvą grįžo apie 60 tūkst.
-    tremtinių ir apie 20 tūkst. politinių kalinių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     1962–1969 m. pastatytas pirmasis
     tokių namų mikrorajonas Vilniuje – Žirmūnai. Tokie vienodi, beveidžiai,
     sunaudojantys daug energijos šildymui daugiabučių gyvenamųjų namų
@@ -177,9 +155,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sumažėjo lietuvių kalbos vaidmuo viešajame gyvenime – lietuvių kal-
@@ -198,7 +176,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   pagrindžia:
     - t-002
 
-- c-007
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Suimtieji paskelbti už įstatymo ribų, jų turtas konfiskuotas.
@@ -211,7 +189,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   pagrindžia:
     - t-001
 
-- c-008
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dabar jau sujudo ir lietuviai JAV.
@@ -227,9 +205,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
-- c-009
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokie vienodi, beveidžiai,
@@ -245,9 +223,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-010
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     SSRS 1940 metų ultimatumas ir
@@ -261,9 +239,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-011
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą
@@ -281,7 +259,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   pagrindžia:
     - t-003
 
-- c-012
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mintis „Po
@@ -303,9 +281,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-013
+- c-012
   santrauka: 'Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas privalomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarkytos pagal SSRS aukštųjų mokyklų sistemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -322,4 +300,4 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012

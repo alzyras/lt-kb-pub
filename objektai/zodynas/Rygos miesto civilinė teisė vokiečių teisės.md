@@ -28,7 +28,7 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
 ## Teiginiai
 
 - t-001
-  teiginys: '14 Gedimino laiške Liubeko, Rostoko, Zundo, Greifsvaldo, Štetino mies­ tams ir Gotlando salos gyventojams šis valdovas praneša, kad į Vilnių at­ vykę kolonistai galės vadovautis ci­ viline teise, kokia naudojasi Rygos miestas, kol teisėtvarkininkai nesu­ kurs.'
+  teiginys: 'Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­

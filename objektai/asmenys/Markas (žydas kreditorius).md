@@ -22,13 +22,14 @@ tags:
     - c-002
 
 - t-002
-  teiginys: 'Die 17 Augusti [rugpjūčio 17 dieną] pas žydą Marką už­ statyta grandinė karališk.'
+  teiginys: 'Rugpjūčio 17 d. pas žydą Marką karališkiesiems didžiojo kunigaikščio reikalams buvo užstatyta grandinė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rugpjūčio 17 d. pas žydą Marką karališkiesiems didžiojo kunigaikščio reikalams buvo užstatyta grandinė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Die 17 Augusti [rugpjūčio 17 dieną] pas žydą Marką už­

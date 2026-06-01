@@ -33,14 +33,14 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
     - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad cistersų ordinas — 1097 viešpaties metais.'
+  teiginys: 'Cistersų ordinas kronikos chronologiniame sąraše siejamas su 1097 Viešpaties metais.'
   pagrindžia:
     - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad 161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis, tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas.'
@@ -50,6 +50,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Cistersų ordinas kronikos chronologiniame sąraše siejamas su 1097 Viešpaties metais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Cistersų ordinas — 1097 viešpaties metais.
@@ -105,21 +106,6 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1. Apie tai, kaip prūsai niokojo Kulmo žemę
-
-      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
-    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
-    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
-    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
-    Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -133,4 +119,3 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Kartūzų ordinas]]
 - [[objektai/ivykiai/Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą]]
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]

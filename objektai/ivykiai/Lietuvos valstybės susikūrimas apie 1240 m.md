@@ -45,34 +45,21 @@ Nenurodyta
 - t-001
   teiginys: '1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m. vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
-  teiginys: 'L I E T U V O S I S T O R I J A 28 1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m. vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.'
+  teiginys: '1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi, todėl daroma išvada, kad Lietuva jau buvo suvienyta.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1235 m. rusų metraščiai
-    mini „Mindaugo Lietuvą“. Gal tai rodytų, kad Mindaugas jau yra pajun-
-    gęs savo valdžiai kitus kunigaikščius? Tačiau jei yra Mindaugo Lietuva, tai
-    gal būta ir, tarkim, „Živinbudo“ ar „Dausprungo“ Lietuvos?
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kalavijuočių ordinas tapo
@@ -89,7 +76,8 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
+  santrauka: '1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi, todėl daroma išvada, kad Lietuva jau buvo suvienyta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -106,8 +94,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
-- c-004
+- c-003
   santrauka: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -131,8 +120,8 @@ Nenurodyta
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/posakiai/„aukščiausiuoju karaliumi“]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/zodynas/kariauna]]
 - [[objektai/posakiai/„Mindaugo Lietuvą“]]
+- [[objektai/posakiai/„aukščiausiuoju karaliumi“]]
 - [[objektai/posakiai/„tauta galėjo apsisaugoti tik sukūrusi valstybę“]]

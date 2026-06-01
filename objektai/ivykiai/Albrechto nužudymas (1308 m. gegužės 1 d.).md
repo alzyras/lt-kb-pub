@@ -44,7 +44,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Albrechto, Romos karaliaus, nužudymą 1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs Austrijos kunigaikštystę, nors tas ir buvo.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -59,19 +58,6 @@ Nenurodyta
       599 D.— Dunemunde; vėliau vok.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos
-    karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs
-    Austrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.
-      599 D.— Dunemunde; vėliau vok. Dünemünde, dab.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

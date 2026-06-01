@@ -59,27 +59,11 @@ Nenurodyta
 - t-003
   teiginys: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema su bajorų susirinkimais.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
-    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
-    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
-    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
-    vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
-    bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
-    gūnus, žemutinės teismų grandies teisėjus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -98,9 +82,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/ivykiai/Rusijos vietinio valdymo sistemos įvedimas aneksuotoje LDK dalyje]]
-- [[objektai/zodynas/luomas subluomas]]

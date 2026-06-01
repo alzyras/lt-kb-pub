@@ -60,5 +60,4 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
 - [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/posakiai/„teritoriniai patriotai“]]

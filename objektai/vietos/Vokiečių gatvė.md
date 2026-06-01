@@ -25,13 +25,14 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
     - c-002
 
 - t-002
-  teiginys: 'Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas miestui atiduo­ tas, o iki tol turgaus centre stovėjusios mėsinės, nemalo­ niais kvapais teršusios orą, perkeltos prie Vokiečių gat­ vės, kur ir dabar tebėra6.'
+  teiginys: 'Iš turgaus centro pašalintos mėsinės buvo perkeltos prie Vokiečių gatvės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iš turgaus centro pašalintos mėsinės buvo perkeltos prie Vokiečių gatvės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     261

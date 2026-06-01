@@ -26,13 +26,14 @@ Dusburgietis teigia, kad kubicka W.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kubicka W.'
+  teiginys: 'W. Kubicka parengė senosios prūsų kalbos bibliografiją iki 1965 metų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'W. Kubicka parengė senosios prūsų kalbos bibliografiją iki 1965 metų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kubicka W. Bibliografia języka staropruskiego (do 1965 r.).— ABS, Białystok, 1967,

@@ -20,13 +20,14 @@ Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas pa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­ sirinkusiems žmonėms apie didelį ir esminį religijos pokytį.'
+  teiginys: 'Lietuvių kunigaikščių ir bajorų visuotinis seimas sostinėje paskelbė apie didelį ir esminį religijos pokytį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvių kunigaikščių ir bajorų visuotinis seimas sostinėje paskelbė apie didelį ir esminį religijos pokytį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I. 7
@@ -56,4 +57,5 @@ Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas pa
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų]]

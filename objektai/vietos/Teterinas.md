@@ -19,13 +19,14 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upės, kuriuos mes iš Seislavo kuni­ gaikštienės atėmėme, norime grąžinti, inkorporuoti ir užra­ šyti bei šiuo raštu inkorporuojame, grąžiname ir užrašome minėtam Teterino dvarui.'
+  teiginys: 'Teterino dvarui buvo grąžinti ir užrašyti prie Pruto upės buvę kaimai, atimti iš Seislavo kunigaikštienės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Teterino dvarui buvo grąžinti ir užrašyti prie Pruto upės buvę kaimai, atimti iš Seislavo kunigaikštienės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     nec non cum omnibus Kmetb oni-

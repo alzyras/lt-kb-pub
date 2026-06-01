@@ -17,7 +17,7 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau tie inventoriai nega- lėjo daug padėti, nes valstiečiai vis tiek pasiliko beteisiai: jei ponas didino prievoles, jie neturėjo kam pasiskųsti.'
+  teiginys: 'Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles.'
   pagrindžia:
     - c-001
 
@@ -27,13 +27,14 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
     - c-002
 
 - t-003
-  teiginys: 'Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo seno buvo surašomos visos valstiečių pareigos.'
+  teiginys: 'Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam tikslui buvo įsakyta paruošti vadinamuo-
@@ -69,6 +70,7 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
     - t-002
 
 - c-003
+  santrauka: 'Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Privatiniuose dvaruose tebuvo tik suvienodintos vals-

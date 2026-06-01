@@ -95,6 +95,7 @@ Nenurodyta
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
 - [[objektai/zodynas/Baroko epocha]]
+- [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
 - [[objektai/grupes/Edukacinė Komisija]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/barokas]]

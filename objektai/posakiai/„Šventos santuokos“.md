@@ -28,50 +28,13 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Galima su šypsena žiūrėti į tradicinės lenkų istorinės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos partneris?'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: '„Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai buvo ori-
-    ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
-    Sąjungos pirmtaku. Be Lenkijos ir Lietuvos suartėjimo ir kariuomenių
-    sąjungos nebūtų buvo Žalgirio pergalės, o sėkmingos Livonijos karo baig-
-    ties XVI a. – būtent be Liublino unijos.
-    Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-
-    kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
-    o Lenkijos Respublika.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
-    ir Lenkijos suartėjimas. „Šventos santuokos“ metafora dažnai taikoma
-    visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino uni-
-    ja, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką. Tai buvo ori-
-    ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
-    Sąjungos pirmtaku.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: '„Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -87,7 +50,8 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -97,4 +61,3 @@ amziai:
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
-- [[objektai/grupes/Lenkai]]

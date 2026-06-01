@@ -31,7 +31,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
     - c-002
 
 - t-002
-  teiginys: 'Bet jo žmona Habsburgaitė netrukus mirė.'
+  teiginys: 'Zigmanto Augusto žmona Habsburgaitė netrukus mirė.'
   pagrindžia:
     - c-001
 
@@ -48,6 +48,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zigmanto Augusto žmona Habsburgaitė netrukus mirė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Zigmanto Augusto ir Barboros Radvilaitės vedybos ir**
@@ -113,7 +114,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 ### Susiję objektai
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Dobrogostas]]

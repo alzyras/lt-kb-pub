@@ -43,7 +43,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta, Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei, taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į Bartenšteino pilį ir.'
+  teiginys: 'Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį.'
   pagrindžia:
     - c-004
 
@@ -115,6 +115,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     - t-003
 
 - c-004
+  santrauka: 'Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis dėlto anksčiau, nei jis subūrė brolių kariuomenę  ir ją išdėstė įvairiose
@@ -142,9 +143,10 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - [[objektai/asmenys/Hartmanas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Misinas]]
+- [[objektai/asmenys/Stanta]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/ivykiai/lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.)]]

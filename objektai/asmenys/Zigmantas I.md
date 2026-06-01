@@ -32,7 +32,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 - t-001
   teiginys: 'Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 metų, 1538 m.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: '1429 m. sausio 9–29 d. Lucko suvažiavime Zigmantas I susitiko su Vytautu ir Jogaila aptarti Vidurio ir Rytų Europos politikos.'
@@ -42,7 +42,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 - t-003
   teiginys: 'Zigmantas I rėmė Vytauto vainikavimo planą, kuriuo siekta regione sukurti atsvarą Lenkijai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -69,32 +69,9 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
-    svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
-    projektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo
-    galima išspręsti svarbesnių regiono klausimų.
-    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
-    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
-    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
-    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
-    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
-    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
-    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
-    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-
-    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
-    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
-    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
@@ -119,6 +96,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/hegemonija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

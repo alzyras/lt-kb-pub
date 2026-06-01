@@ -39,11 +39,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Pjautuvus, dalgius ir grėblius darydavo iš medžio, ne iš geležies.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,19 +53,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pjautuvus, dalgius ir grėblius dėvėjo tokius pat, kaip jei šiandien regim dėvimus, tiktai ne
-        geležies, bet medžio noragais ir virbalais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalnėnai]]
-- [[objektai/daiktai/Noragai]]
 - [[objektai/zodynas/Šliuižiai|šliuižiai]]

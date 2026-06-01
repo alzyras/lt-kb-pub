@@ -29,7 +29,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti rugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmininku – teisininkas, lietuviškų laikraščių redaktorius A.'
+  teiginys: 'Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona.'
   pagrindžia:
     - c-003
 
@@ -91,6 +91,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     - t-002
 
 - c-003
+  santrauka: 'Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti
@@ -188,6 +189,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - [[objektai/asmenys/Simonas Rozenbaumas]]
 - [[objektai/posakiai/Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium]]
 - [[objektai/asmenys/Vilhelmas fon Urachas]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/Valstybės Taryba]]
 - [[objektai/asmenys/J. Basanavičius]]
 - [[objektai/ivykiai/Karaliaus Uracho rinkimas]]

@@ -47,13 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '1413 metais, 70 Tai keturios privilegijos, iki šiol išli­ kusios Vilniaus kapitulos archyve: 1- oji, rašyta Vilniuje, sabbato in festo Sancti Barnabae Apostoli, anno D-ni 1407 [šeštadienį Šv.'
+  teiginys: '1407 m. Vytautas Vilniaus kapitulai mainais už anksčiau dovanotą Jaryničių kaimą atidavė Liubarų kaimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1407 m. Vytautas Vilniaus kapitulai mainais už anksčiau dovanotą Jaryničių kaimą atidavė Liubarų kaimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
@@ -88,4 +89,5 @@ Nenurodyta
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Vilniaus kapitula]]

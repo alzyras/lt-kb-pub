@@ -43,7 +43,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 - t-004
   teiginys: 'Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -79,28 +79,9 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atsilaikė prieš bolševikus ir kaimynės – Lenkija, Suomija, Latvija
-    ir Estija, jos taip pat apgynė savo nepriklausomybę.
-    Paskutinė federacijos su Lenkija galimybė
-    Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
-    apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
-    gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
-    ki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
-    cialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M. Sleževičius
-    paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
-    legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
-    dvarus, visi, kas sveiki, turi griebtis ginklo“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-004
+- c-003
   santrauka: 'Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

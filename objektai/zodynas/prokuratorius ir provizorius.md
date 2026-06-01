@@ -17,13 +17,14 @@ Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, au
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
+  teiginys: 'Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad tokiai prie­

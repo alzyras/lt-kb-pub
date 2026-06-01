@@ -24,13 +24,14 @@ Dusburgietis teigia, kad volkaitė-Kulikauskienė R.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad volkaitė-Kulikauskienė R.'
+  teiginys: 'R. Volkaitės-Kulikauskienės darbas „Lietuva valstybės susidarymo išvakarėse“ paskelbtas 1978 m. leidinyje „Lietuvių materialinė kultūra IX-XIII amžiuje“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Volkaitės-Kulikauskienės darbas „Lietuva valstybės susidarymo išvakarėse“ paskelbtas 1978 m. leidinyje „Lietuvių materialinė kultūra IX-XIII amžiuje“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Volkaitė-Kulikauskienė  R.  Lietuva  valstybės  susidarymo  išvakarėse.—  Lietuvių

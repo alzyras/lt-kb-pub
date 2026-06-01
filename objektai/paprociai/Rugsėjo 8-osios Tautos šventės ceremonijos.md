@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena): valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.'
+  teiginys: 'Nuo 1930 m. rugsėjo 8-osios Tautos šventėje vykdavo kariuomenės paradai, eitynės, spektakliai ir pokyliai užsienio svečiams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nuo 1930 m. rugsėjo 8-osios Tautos šventėje vykdavo kariuomenės paradai, eitynės, spektakliai ir pokyliai užsienio svečiams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1934 m. lapkričio 23 d.

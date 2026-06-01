@@ -32,7 +32,7 @@ Jo sūnus, taip pat Kristupas II († 1640 m.), buvo iš karto lauko, o vėliau 
 - t-002
   teiginys: '1633 m. žiemą Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą fronte.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -50,20 +50,6 @@ Jo sūnus, taip pat Kristupas II († 1640 m.), buvo iš karto lauko, o vėliau 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1633 m. žiemą į pagalbą atskubėjo tuo-
-    metinis Lietuvos lauko etmonas Kristupas
-    Radvila 11. Rugsėjį į frontą atvyko ir
-    naujasis Abiejų Tautų Respublikos val-
-    dovas Vladislovas Vaza su 15 tūkst. ka-
-    riuomene. Rusų pajėgų padėtis ėmė
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -71,5 +57,4 @@ Jo sūnus, taip pat Kristupas II († 1640 m.), buvo iš karto lauko, o vėliau 
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

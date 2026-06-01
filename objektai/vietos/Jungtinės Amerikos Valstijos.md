@@ -5,7 +5,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1940 m.'
-  - '1948 m.'
   - '1951 m.'
 date_start: '1940'
 date_end: '1951'
@@ -31,21 +30,16 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
     - c-003
 
 - t-002
-  teiginys: '5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 225 Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
-  pagrindžia:
-    - c-005
-
-- t-003
-  teiginys: 'Tie, kurie pasirinktų Lietuvą savo priešu, taptų ir Jungtinių Amerikos Valstijų priešu.“ Dž.'
+  teiginys: 'JAV prezidentas Džordžas Bušas Vilniuje pareiškė, kad Lietuvos priešai taptų ir Jungtinių Amerikos Valstijų priešais.'
   pagrindžia:
     - c-002
 
-- t-004
+- t-003
   teiginys: 'Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.'
   pagrindžia:
     - c-004
 
-- t-005
+- t-004
   teiginys: 'JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasaulio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas.'
   pagrindžia:
     - c-001
@@ -67,9 +61,10 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-002
+  santrauka: 'JAV prezidentas Džordžas Bušas Vilniuje pareiškė, kad Lietuvos priešai taptų ir Jungtinių Amerikos Valstijų priešais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
@@ -80,7 +75,7 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -109,20 +104,4 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    225
-    Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti
-    savo požiūrį į dipukus. 1948 m. viduryje JAV Kongresas priėmė vadi-
-    namąjį Perkeltųjų asmenų įstatymą, kuriame buvo numatoma įsileisti
-    205 tūkst. dipukų (tarp jų – 40 proc. Baltijos valstybių ir Lenkijos pa-
-    bėgėlių bei tremtinių).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
+    - t-003

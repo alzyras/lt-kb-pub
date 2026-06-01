@@ -26,13 +26,14 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 ## Teiginiai
 
 - t-001
-  teiginys: 'Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M.'
+  teiginys: 'S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
@@ -59,6 +60,7 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - [[objektai/zodynas/tautinė sąmonė]]
 - [[objektai/posakiai/„Šlovė žemaičių“]]
 - [[objektai/grupes/Aušrininkai]]
+- [[objektai/zodynas/Medė|medė]]
 - [[objektai/zodynas/Meldžionys|meldžionys]]
 - [[objektai/zodynas/Vartavodamos|vartavodamos]]
 - [[objektai/zodynas/Vieža|vieža]]

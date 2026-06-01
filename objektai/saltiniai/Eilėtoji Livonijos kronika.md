@@ -28,49 +28,31 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 - t-001
   teiginys: 'Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Lietuvių pajėgos Eiliuota Livonijos kronika, aprašydama Skuodo mūšį (1259 m.), mini žemaičius, bet vėliau, Durbės mūšio išvakarėse, prie Vartajų, Georgenburgo ir pačiame mūšyje — tik lietuvius arba „pagonis“.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Eiliuotoji Livonijos kronika pasakoja, kad lietuvių kariuomenė susirinko galinga ir žygiuodama didėjo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
-  teiginys: 'Beveik trečdalį savo kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­ tinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais (« den Lettowen, die Sameiten sin genannt », eil.'
+  teiginys: 'Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-005
   teiginys: 'Matyt, nutarę vengti lemiamo mūšio, Algirdas ir Dmitrijus sudarė taiką („Dievas išklausė jų maldų ir dovanojo taiką ir išsigelbėjimą nuo mirties“ - pažymi rusų metraštininkas), todėl kariuomenės patraukė LYGIAGREČIOS KOVOS SU KRYŽIUOČIAIS Žygis į Livoniją.'
   pagrindžia:
-    - c-003
-
-- t-006
-  teiginys: 'Įdomu, kad apie jodinėjančias ir narsias moteris lietgalių žemėje kalba dar Eilėtoji Livonijos kronika (eil.'
-  pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Įdomu, kad
-    apie jodinėjančias ir narsias moteris lietgalių žemėje kalba dar
-    Eilėtoji Livonijos kronika (eil. 346-8, 9230-31). Ar Ibrahimo ir
-    Adomo minimoji amazonių šalis reiškė rytinius baltus, neaišku.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -85,7 +67,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Matyt, nutarę vengti lemiamo mūšio,
@@ -112,7 +94,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   pagrindžia:
     - t-005
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių pajėgos
@@ -138,7 +120,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   pagrindžia:
     - t-002
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Beveik trečdalį savo
@@ -152,18 +134,4 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Beveik trečdalį savo
-    kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­
-    tinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais
-    (« den Lettowen, die Sameiten sin genannt », eil. 4466).
-    Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
-    Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004

@@ -25,13 +25,14 @@ Kada buvo bandoma į sąjungą (koaliciją) prieš Mindaugą ir Vykintą Įtrauk
 ## Teiginiai
 
 - t-001
-  teiginys: '1248 m. Rygos vyskupas Danieliui Romanaičiui aiškino, kad taika su Vykintu daroma jo labui, nes Vykintas pražudė daug jų brolių.'
+  teiginys: 'Posakis „jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi“ Ipatijaus kronikoje siejamas su 1248 m. Rygos vyskupo laišku Danieliui Romanaičiui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posakis „jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi“ Ipatijaus kronikoje siejamas su 1248 m. Rygos vyskupo laišku Danieliui Romanaičiui.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^75) **Kad Vykintas yra buvęs prie Saulės kautynių vadas teturime netie­

@@ -124,6 +124,7 @@ function createFileNode(
   const li = clone.querySelector("li") as HTMLLIElement
   const a = li.querySelector("a") as HTMLAnchorElement
   const quoteCount = Number(node.data?.quoteCount ?? 0)
+  const claimCount = Number(node.data?.claimCount ?? 0)
   const citationSourceIds = Array.isArray(node.data?.citationSourceIds)
     ? node.data.citationSourceIds.filter((value): value is string => typeof value === "string")
     : []
@@ -132,6 +133,7 @@ function createFileNode(
   a.textContent = node.displayName
   li.dataset.citationFilterable = node.data?.citationFilterable ? "true" : "false"
   li.dataset.quoteCount = `${quoteCount}`
+  li.dataset.claimCount = `${claimCount}`
   li.dataset.citationSources = citationSourceIds.join("|")
   li.dataset.explorerNode = "file"
   li.dataset.explorerSlug = node.slug

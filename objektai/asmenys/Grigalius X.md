@@ -28,13 +28,14 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­ vimą 1272 viešpaties metais popiežiumi buvo Grigalius X.'
+  teiginys: '1272 m. Grigalius X buvo popiežius ir kanonizavo šventąją Jadvygą, Lenkijos kunigaikštienę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1272 m. Grigalius X buvo popiežius ir kanonizavo šventąją Jadvygą, Lenkijos kunigaikštienę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     54. Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­

@@ -40,14 +40,10 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad pameta kelią, kurį pamėgo jaunystėje, dėl to ir veidmainingasis Pomeranijos kunigaikštis, žiaurus ir neteisingas, neilgai tepajėgė nuslėpti įgimtą nedorovingumą, kurį iš jaunų dienų buvo pratęs rodyti; praslinkus vieniems metams nuo tos dienos, kai buvo.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pomeranijos kunigaikštis Sventopelkas sulaužė taikos sutartį, su atskalūnais ir sūduviais nusiaubė Kulmo žemę ir nakvojo prie Renzeno pelkės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     pameta kelią, kurį pamėgo jaunystėje, dėl to ir veidmainingasis Pomeranijos kunigaikštis,
@@ -64,8 +60,6 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

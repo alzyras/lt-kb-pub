@@ -17,13 +17,14 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai.'
+  teiginys: 'Gunlaukeno apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebepuldinėti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gunlaukeno apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebepuldinėti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Abu ma­

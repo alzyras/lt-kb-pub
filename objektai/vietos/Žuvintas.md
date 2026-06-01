@@ -24,23 +24,11 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
 - t-002
   teiginys: 'Dusburgietis teigia, kad , p. Žirgupė Žydai Žuvintas, ež.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Žirgupė
-      Žydai
-      Žuvintas, ež.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nekrasovas), v., p.
@@ -52,3 +40,4 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

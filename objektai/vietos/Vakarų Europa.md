@@ -28,7 +28,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
     - c-002
 
 - t-002
-  teiginys: 'Vakarų Europos situaciją XVI a.'
+  teiginys: 'Vakarų Europos XVI a. religinį nepakantumą simbolizavo 1572 m. Baltramiejaus naktis Paryžiuje.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vakarų Europos XVI a. religinį nepakantumą simbolizavo 1572 m. Baltramiejaus naktis Paryžiuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-

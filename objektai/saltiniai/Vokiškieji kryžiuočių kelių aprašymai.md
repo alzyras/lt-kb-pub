@@ -30,24 +30,19 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad pabaigoje kryžiuočių kelių į Lietuvą aprašymuose vadinamas Sessow, Sassow ir pan.'
+  teiginys: 'XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten, o toliau minimas kelias czu Kattow (SRP, 2, p. 683).'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad vokiškuose kryžiuočių kelių aprašymuose — Rangith (Weg.'
+  teiginys: 'Vokiškuose kryžiuočių kelių aprašymuose Ragainė minima formomis Rangith, Rangnit, Rangnith, Rangit ir Ragnit.'
   pagrindžia:
-    - c-005
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad — Rômein; kryžiuočių kelių aprašymuose (1384 m.) — Romeyn, Romayn (SRP, 2, p. 695); Romainiai, kair.'
-  pagrindžia:
-    - c-002
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -67,19 +62,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
     - t-001
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    543 D. — Romene, Jer. — Rômein; kryžiuočių kelių aprašymuose (1384 m.) — Romeyn,
-    Romayn (SRP, 2, p. 695); Romainiai, kair. Nevėžio krante priešais Raudondvarį, pagoniško
-    kulto vieta; greta, tarp Nemuno ir Nevėžio,— buvęs Šventasis miškas (SRP, 2, p. 591,
-    584; LIS, 1, p. 83; SZM, p. 233; Мержинский А. Ф., Ромове, с. 10).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-003
+  santrauka: 'XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi  kair. Jūros intakas Sešuvis XIV a. pabaigoje kryžiuočių kelių   į Lietuvą
@@ -92,7 +75,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Norkyčiai minimi 1376—
@@ -107,7 +90,8 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
+  santrauka: 'Vokiškuose kryžiuočių kelių aprašymuose Ragainė minima formomis Rangith, Rangnit, Rangnith, Rangit ir Ragnit.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vokiškuose kryžiuočių kelių aprašymuose

@@ -29,7 +29,7 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus Radvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš totorius pasiektai pergalei atminti savo žemėje už miesto ant kalnelio.'
+  teiginys: 'Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdytojos bažnyčią pergalei prie Klecko atminti.'
   pagrindžia:
     - c-001
 
@@ -44,18 +44,19 @@ periodo_grupes:
     - c-003
 
 - t-004
-  teiginys: 'PATS ALEKSANDRAS, DIEVO MALONE DIDYSIS LIETUVOS, RUSIOS, ŽEMAIČIŲ IR KITŲ KUNIGAIKŠTIS Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­ vilai.'
+  teiginys: 'Aleksandras kreipėsi į Vilniaus vaivadą ir kanclerį Mikalojų Radvilą dėl pievos dovanojimo prie jo malūno už Vilnelės.'
   pagrindžia:
     - c-002
 
 - t-005
-  teiginys: 'Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­ šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­ tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig- 32 33 Žr.'
+  teiginys: 'Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdytojos bažnyčią pergalei prie Klecko atminti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be
@@ -73,6 +74,7 @@ periodo_grupes:
     - t-001
 
 - c-002
+  santrauka: 'Aleksandras kreipėsi į Vilniaus vaivadą ir kanclerį Mikalojų Radvilą dėl pievos dovanojimo prie jo malūno už Vilnelės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Uždėtas mažasis antspaudas, vaiz­
@@ -119,6 +121,7 @@ periodo_grupes:
     - t-003
 
 - c-004
+  santrauka: 'Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat, kad miesto
@@ -173,4 +176,6 @@ periodo_grupes:
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/činšas]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/grupes/Bernardinų ordinas]]
 - [[objektai/grupes/Karmelitų ordinas]]

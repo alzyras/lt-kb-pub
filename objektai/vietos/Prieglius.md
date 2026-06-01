@@ -30,12 +30,12 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - t-001
   teiginys: 'Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitinkamų prūsiškų žodžių caymis, ape, garbis,— į vakarus.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.'
@@ -45,12 +45,12 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - t-004
   teiginys: 'Dusburgietis teigia, kad todėl vėliau miestas buvo perkeltas į slėnį tarp Priegliaus ir pilies, į tą vietą, kur tebestovi ir šiandien377.'
   pagrindžia:
-    - c-002
+    - c-005
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -71,22 +71,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    ir visiškai sugriovė, daug žmonių paimdami į nelaisvę ir išžudydami. Todėl vėliau miestas
-    buvo perkeltas į slėnį tarp Priegliaus ir pilies, į tą vietą, kur tebestovi ir šiandien377.
-
-
-
-
-          107 (102).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Becenbergeris nustatė, kad
     vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
     ir Alnos (kair. Priegliaus intako), o vietovardžiai, kilę  iš atitinkamų prūsiškų žodžių
@@ -104,7 +88,7 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
@@ -126,7 +110,7 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   pagrindžia:
     - t-005
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Priešiškuose lietuviams
@@ -142,7 +126,7 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   pagrindžia:
     - t-002
 
-- c-006
+- c-005
   santrauka: 'Dusburgietis teigia, kad todėl vėliau miestas buvo perkeltas į slėnį tarp Priegliaus ir pilies, į tą vietą, kur tebestovi ir šiandien377.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -160,3 +144,4 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   statusas: verified
   pagrindžia:
     - t-006
+    - t-004

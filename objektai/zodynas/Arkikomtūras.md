@@ -27,23 +27,24 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu.'
+  teiginys: 'Arkikomtūras Redigeris Elneris kartu su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Kaip pasiuntinys nuvykęs į Prūsiją, Vai­ dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­ dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­ žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.'
+  teiginys: 'Vaidila 1380 m. Prūsijoje paruošė dirvą Jogailos slaptam sandėriui su arkikomtūru.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Galop buvo sudaryta taikos sutartis, ku­ ria kryžiuočiai įsipareigojo palikti neliestą Vilniaus dalį, dar nenukentėjusią nuo ugnies; į Vilniaus ir Trakų pilis buvo pakviestas maršalas, arkikomtūras ir daugelis aukštesniųjų vokiečių riterių.'
+  teiginys: 'Po taikos sutarties arkikomtūras su Ordino maršalu ir kitais aukštesniaisiais vokiečių riteriais buvo pakviestas į Vilniaus ir Trakų pilis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po taikos sutarties arkikomtūras su Ordino maršalu ir kitais aukštesniaisiais vokiečių riteriais buvo pakviestas į Vilniaus ir Trakų pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Susirėmė su jais vokiečiai
@@ -63,6 +64,7 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
     - t-003
 
 - c-002
+  santrauka: 'Arkikomtūras Redigeris Elneris kartu su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­
@@ -81,6 +83,7 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
     - t-001
 
 - c-003
+  santrauka: 'Vaidila 1380 m. Prūsijoje paruošė dirvą Jogailos slaptam sandėriui su arkikomtūru.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O
@@ -120,3 +123,5 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
 - [[objektai/paprociai/Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje]]
 - [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]
 - [[objektai/ivykiai/Vilniaus apgultis ir miesto padegimas (1377 m.)]]
+- [[objektai/asmenys/Vaidila]]
+- [[objektai/zodynas/didysis komtūras arkikomtūras]]

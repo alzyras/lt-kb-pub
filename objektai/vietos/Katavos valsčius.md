@@ -25,7 +25,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad valsčiaus vardas lyginamas su Katinava (Kalwaitis W., Łietuwiszkų., p. 38) resp. Katniava (buv.'
+  teiginys: 'Katavos valsčius lokalizuojamas Katinavos apylinkėse, o jo vardas siejamas su Katinava arba Katniava.'
   pagrindžia:
     - c-001
 
@@ -37,6 +37,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Katavos valsčius lokalizuojamas Katinavos apylinkėse, o jo vardas siejamas su Katinava arba Katniava.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     461 D.— Catthow, Jer.— Kattouwin. Valsčiaus vardas lyginamas su Katinava (Kalwaitis

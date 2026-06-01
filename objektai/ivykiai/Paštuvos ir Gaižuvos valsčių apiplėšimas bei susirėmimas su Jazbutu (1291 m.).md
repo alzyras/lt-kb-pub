@@ -41,7 +41,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 535 D.— Gesovie, Jer.— Geisow, Gaižuva (SZM, p. 214, 215), į rytus nuo Dubysos žiočių, į šiaurės vakarus nuo Vilkijos.'
+  teiginys: 'Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.'
   pagrindžia:
     - c-002
 
@@ -70,6 +70,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Begrįžtantį jį persekiojo lietuviai ir kelis kartus

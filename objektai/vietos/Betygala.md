@@ -42,12 +42,12 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     - c-004
 
 - t-004
-  teiginys: 'Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala.'
+  teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-005
-  teiginys: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  teiginys: 'Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.'
   pagrindžia:
     - c-003
 
@@ -88,6 +88,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     - t-002
 
 - c-003
+  santrauka: 'Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Trakuose,
@@ -122,6 +123,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -138,19 +140,3 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tačiau Vytautas dar dvejus metus už­
-    truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
-    ir tiktai 1413 metų rudenį kartu su Jogaila atvyko į Žemaitiją.
-    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
-    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
-    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
-    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004

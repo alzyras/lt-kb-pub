@@ -18,13 +18,14 @@ Dusburgietis teigia, kad 14 Mažiulis V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 14 Mažiulis V.'
+  teiginys: 'V. Mažiulio „Pasaulio tautų kalbos“ cituojama nurodant 11–12 puslapius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Mažiulio „Pasaulio tautų kalbos“ cituojama nurodant 11–12 puslapius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.

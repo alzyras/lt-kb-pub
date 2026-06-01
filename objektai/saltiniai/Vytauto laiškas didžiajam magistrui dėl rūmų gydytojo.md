@@ -25,13 +25,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1189, - yra Vytauto laiško, kuriuo prašoma šio gydyto­ jo, turinys.'
+  teiginys: 'Vytauto laiškas didžiajam magistrui dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto laiškas didžiajam magistrui dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Napierskio  veikale, aukščiau

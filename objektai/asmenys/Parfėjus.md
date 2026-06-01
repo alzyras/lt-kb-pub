@@ -20,13 +20,14 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
 ## Teiginiai
 
 - t-001
-  teiginys: 'Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą posadniką Sil­ vestrą Levontjevičių ir valdovo vietininką Parfėjų ir už belaisvius davė puspenkto šimto rublių, o si­ dabrą davė per Marijos Užtarėjos dieną (spalio pirmą pagal Grigaliaus.'
+  teiginys: 'Pskoviečiai pasiuntė valdovo vietininką Parfėjų pas Vytautą tartis dėl belaisvių išpirkimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pskoviečiai pasiuntė valdovo vietininką Parfėjų pas Vytautą tartis dėl belaisvių išpirkimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [Pskoviečiai
@@ -68,3 +69,4 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
+- [[objektai/zodynas/posadnikas bojarinas vietininkas]]

@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Visiems ir kiekvienam nurodome ir griežtai įsakome, kad saviems pi­ liečiams ir visiems Vilniaus miesto gyventojams ateiti į bet kurias minėtojo pono vyskupo įrengtas mėsines turguje ir čia pirkti mėsą yra neuždrausta ir leidžiama, kitu atveju [jei draustų].'
+  teiginys: 'Vilniaus gyventojams buvo leista turguje pirkti mėsą vyskupo įrengtose mėsinėse, nepaisant miesto pareigūnų draudimų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus gyventojams buvo leista turguje pirkti mėsą vyskupo įrengtose mėsinėse, nepaisant miesto pareigūnų draudimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     410

@@ -19,13 +19,14 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.'
+  teiginys: 'Karaliaučiaus komtūras paskyrė Stavimėlą į Pelužio būrį, išvykusį ginklu atkeršyti už Pelužio patirtas skriaudas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karaliaučiaus komtūras paskyrė Stavimėlą į Pelužio būrį, išvykusį ginklu atkeršyti už Pelužio patirtas skriaudas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
@@ -50,7 +51,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Pelužis]]
 - [[objektai/asmenys/Konradas, vardu Divelis]]
 - [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
-- [[objektai/asmenys/Pelužis]]
 - [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]

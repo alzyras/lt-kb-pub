@@ -20,13 +20,14 @@ Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyr
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyravimui ir duoti daugiau laisvės miestiečių luomui.'
+  teiginys: 'Valdant Aleksandrui, miestiečių luomui stigo tvirtos municipalinių laisvių apsaugos nuo valdininkų ir šlėktų piktnaudžiavimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valdant Aleksandrui, miestiečių luomui stigo tvirtos municipalinių laisvių apsaugos nuo valdininkų ir šlėktų piktnaudžiavimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Lietuvos sostinė ir gavo naudos susijusios su preky­

@@ -25,13 +25,14 @@ Dusburgietis teigia, kad stryjkowski M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad stryjkowski M.'
+  teiginys: 'M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,

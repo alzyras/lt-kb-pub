@@ -46,23 +46,24 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Laikui bėgant tie atėjūnai uo­ liai ėmėsi prekybos ir, atverdami jai naujus kelius per Lietuvą, suomių ir slavų kraštus, nuo Skandinavijos net iki Graikijos, kurią vadindavo Grikalandu, regis, pirmą kartą visus tuos žmones išvedė iš girių ir liūnų.'
+  teiginys: 'Normanai ilgainiui ėmėsi prekybos ir atvėrė jos kelius per Lietuvą, suomių ir slavų kraštus nuo Skandinavijos iki Graikijos.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam tikros pažangos tiems varganiems gyventojams, panašiai kaip ir į Rusios kraštus už Dvinos.'
+  teiginys: 'IX a. Rusioje variagais vadinti normanai iš Skandinavijos plėšikavo ir prekiavo Baltijos gintarinėse pakrantėse.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Atšiaurus klimatas, nenaši, uolėta žemė, pagaliau tvarkos stoka ir tar­ pusavio nesantaika atgrasaus barba­ riškumo laikais vertė skandinavus traukti į tas jūros keliones, o kartais į didesnes išvykas, į kitą Baltijos pu­ sę.'
+  teiginys: 'Atšiaurus klimatas, nenaši žemė, tvarkos stoka ir tarpusavio nesantaika skatino skandinavus leistis į jūros keliones per Baltiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Atšiaurus klimatas, nenaši žemė, tvarkos stoka ir tarpusavio nesantaika skatino skandinavus leistis į jūros keliones per Baltiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atšiaurus klimatas, nenaši, uolėta
@@ -89,6 +90,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'IX a. Rusioje variagais vadinti normanai iš Skandinavijos plėšikavo ir prekiavo Baltijos gintarinėse pakrantėse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2
@@ -128,6 +130,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Normanai ilgainiui ėmėsi prekybos ir atvėrė jos kelius per Lietuvą, suomių ir slavų kraštus nuo Skandinavijos iki Graikijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Scriptor, rerum Danicarum.
@@ -155,4 +158,5 @@ Nenurodyta
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Suomiai]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/Variagai]]

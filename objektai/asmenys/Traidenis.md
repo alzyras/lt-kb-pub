@@ -30,7 +30,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Traidenis šiame šaltinyje išskiriamas kaip vienas žymiausių XIII a. Lietuvos valdovų ir stiprus baltų žemių jungėjas.'
+  teiginys: 'Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju.'
   pagrindžia:
     - c-001
 
@@ -50,9 +50,9 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - c-004
 
 - t-005
-  teiginys: 'Viename dokumen­ te, apie kurį vėliau smulkiau kalbė­ sime, pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
+  teiginys: 'Viename dokumente pasakojama, kad kunigaikštis Traidenis įsiveržė į Dobrynės žemę.'
   pagrindžia:
-    - c-011
+    - c-010
 
 - t-006
   teiginys: 'Traidenis net kelis kartus skaudžiai sumušė Livonijos ordino kariuomenę ir ne kartą su savo kariuomene skersai ir išilgai išvaikščiojo ordino žemes, tačiau nepajėgė sugriauti jo galingų pilių.'
@@ -77,7 +77,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-010
   teiginys: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
   pagrindžia:
-    - c-012
+    - c-010
 
 - t-011
   teiginys: 'Traidenio dukra Gaudimantė 1279 m. ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.'
@@ -90,21 +90,16 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - c-005
 
 - t-013
-  teiginys: 'Ar ga­ lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad Vytenis, lietuvis pagonis, - jo vaikaitis?'
-  pagrindžia:
-    - c-010
-
-- t-014
   teiginys: 'Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III, 204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes, pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.'
   pagrindžia:
-    - c-013
+    - c-011
 
-- t-015
+- t-014
   teiginys: '1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.'
   pagrindžia:
     - c-001
 
-- t-016
+- t-015
   teiginys: 'Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.'
   pagrindžia:
     - c-002
@@ -112,6 +107,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Traidenį šiek tiek žinių davė beveik jo amžininkai, Ipatijaus ir
@@ -244,33 +240,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-009
 
 - c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    45
-
-    ## Puslapis 62
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Karamzinas0, laikydamas tai labai abejotinu dalyku, o Min­
-    daugo kilmės įrodymus - visiškais paistalais, nebent būtų
-    priimtinos už tiesą didžiausios chronologinės klaidos ir su­
-    tikta su prielaida, kad Rusios kunigaikščių sūnūs, krikščio­
-    nys, galėjo turėti lietuviškus vardus ir būti pagonys. Ar ga­
-    lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką
-    vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad
-    Vytenis, lietuvis pagonis, - jo vaikaitis? Nors Voskresensko
-    Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip
-    rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­
-    tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra
-    apie Gedimino kilmę, mat rašė vos vienam amžiui tepraė­
-    jus po Jogailos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-011
+  santrauka: 'Viename dokumente pasakojama, kad kunigaikštis Traidenis įsiveržė į Dobrynės žemę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Spinta XI, Nr. 19 ir ten pat LIV, Nr.
@@ -289,28 +259,9 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-012
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Spinta XI, Nr. 19 ir ten pat LIV, Nr.
-    3 yra paminėję. Viename dokumen­
-    te, apie kurį vėliau smulkiau kalbė­
-    sime, pasakojama apie kunigaikščių
-    Ziemovito ir Traidenio įsiveržimą į
-    Dobrynės žemę. Qui prophanus dux
-    David paulo ante indictas treugas pre-
-    dictas Ingrediens cum valido exercitu
-    Litwanorum terram Dobrinens. sitam
-    in prenominata Plocendioc totam mise­
-    rabiliter devastavit.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-010
 
-- c-013
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Traidenis (1269—1282 m.), remdamas žiemgalius,
@@ -325,24 +276,21 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Nameisis]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Sūduviai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žiemgaliai]]
-- [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/daiktai/Apgulties mašinos]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]

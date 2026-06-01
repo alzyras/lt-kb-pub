@@ -50,7 +50,7 @@ Nenurodyta
 - t-001
   teiginys: 'Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Pagoniškos šventės Lietuvoje išliko užsiklojusios krikščioniškuoju švenčių sluoksniu.'
@@ -86,22 +86,6 @@ Nenurodyta
     sunaikintos tik svarbiausios pagoniškos šventvietės. Lokalinių kultų vie-
     tos turėjo gyvuoti toliau. Nors pagoniškosios šventvietės egzistuoja kaip
     alternatyva katalikų bažnyčioms, ir jos jau yra bendros su krikščionybe
-    plėtotės rezultatas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gotika
-    Lietuvos (1387) ir Žemaitijos (1413–1417) krikštu pra-
-    džioje žengtas tik nedidelis žingsnelis į krikščioniškąją visuomenę, nes
-    sunaikintos tik svarbiausios pagoniškos šventvietės. Lokalinių kultų vie-
-    tos turėjo gyvuoti toliau. Nors pagoniškosios šventvietės egzistuoja kaip
-    alternatyva katalikų bažnyčioms, ir jos jau yra bendros su krikščionybe
     plėtotės rezultatas. Bažnyčia siekė integruoti pagoniškuosius tikėjimus,
     nors katalikų šventieji labai iš lėto stūmė pagonių dievus, kurie žmonių
     sąmonėje dar ilgai gyvavo kartu. Vis dėlto XVI a. pradžioje krikščionybė
@@ -114,6 +98,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -29,7 +29,7 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - t-001
   teiginys: 'Odojevo kunigaikščiai buvo tarp Okos ir Dono aukštupių valdovų, atsimetusių nuo Vytauto.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
@@ -39,31 +39,16 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - t-003
   teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
-  teiginys: 'Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštupių kunigaikščius, kurių vienas kitas, kaip, pav., Odojevo, buvo nuo Vytauto atsimetę.'
+  teiginys: 'Odojevo kunigaikštis buvo tarp Okos ir Dono aukštupių valdovų, atsimetusių nuo Vytauto.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Skirsnemunėje Švitrigaila ir Ordinas
-    patvirtino prieš metus pasirašytą sutartį,
-    taip pat Švitrigaila sustiprino ryšius su
-    Naugardu, Pskovu, Mozūrija, Odojevo ir
-    Tverės kunigaikščiais. Tuo tarpu Jogailos
-    Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
@@ -82,8 +67,9 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ten jis žygiavo, norėdamas suvaldyti ne­
@@ -96,8 +82,8 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   pagrindžia:
     - t-001
 
-- c-004
-  santrauka: 'Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštupių kunigaikščius, kurių vienas kitas, kaip, pav., Odojevo, buvo nuo Vytauto atsimetę.'
+- c-003
+  santrauka: 'Odojevo kunigaikštis buvo tarp Okos ir Dono aukštupių valdovų, atsimetusių nuo Vytauto.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Daug didesnį žygį sekančiais metais surengė Vytautas į

@@ -47,28 +47,29 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad ilgą laiką sėkmei nekrypstant nei į vieną, nei į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo, nes visa jų kariuomenės galia palūžo, kai pasileido bėgti prastuomenė; šiose kautynėse, įvykusiose palaimintos Margaritos dieną (liepos 13 d.) Kuršo.'
+  teiginys: 'Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad tuo tarpu atvyko kuršiai, nuolankiai prašydami, kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai. Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos žmonės, tvirtindami, kad su jų.'
+  teiginys: 'Prieš Durbės mūšį kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
+  teiginys: '1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik.'
+  teiginys: 'Durbės mūšyje lietuviai puolė krikščionis iš priekio, o kuršiai juos užgriuvo iš užpakalio.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
@@ -100,6 +101,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
     - t-003
 
 - c-002
+  santrauka: 'Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgą laiką sėkmei
@@ -133,6 +135,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
     - t-001
 
 - c-003
+  santrauka: 'Durbės mūšyje lietuviai puolė krikščionis iš priekio, o kuršiai juos užgriuvo iš užpakalio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
@@ -154,6 +157,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
     - t-004
 
 - c-004
+  santrauka: 'Prieš Durbės mūšį kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
@@ -176,7 +180,6 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 - [[objektai/grupes/Estai]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Kalnėnai]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Noliubas]]
@@ -184,9 +187,10 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 - [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Henrikas Botelis]]
+- [[objektai/zodynas/maršalas]]
 - [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]
 - [[objektai/asmenys/Burchardas iš Hornhauzeno]]
-- [[objektai/asmenys/Henrikas Botelis]]
 - [[objektai/asmenys/Sklodas iš Kvedenavos]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]

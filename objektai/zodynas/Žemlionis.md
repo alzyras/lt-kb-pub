@@ -24,13 +24,13 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jie siejami su karės vėliava ir pilies valdžia.'
+  teiginys: 'Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu.'
   pagrindžia:
     - c-002
     - c-003
 
 - t-002
-  teiginys: 'žemlionis yra žmogus, kuris žemę yra sau pragyvenęs.'
+  teiginys: 'Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jei toksai kiemas, karei kėlusis, leido kareivį jotą^259 vieną ar du, tris – pagal tą, kaip daug žemės turėjo, tad vadinos žemlioniu^260 , nuo žemės, kurią buvo sau pragyvenęs.
@@ -70,6 +71,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
     - t-001
 
 - c-003
+  santrauka: 'Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     - public_note:
@@ -92,6 +94,4 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
 - [[objektai/zodynas/Rėda|rėda]]
 - [[objektai/grupes/Žemlionys]]
-- [[objektai/zodynas/vėliava]]
 - [[objektai/zodynas/Perveiza|perveiza]]
-- [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai]]

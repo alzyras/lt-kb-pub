@@ -36,7 +36,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Baudžiavos panaikinimas Rusijos imperijoje (1861 m.): dar per karūnaciją caras įsakė atsiklausti dėl baudžiavos panaikinimo į iškilmes suvažiavusios bajorijos. Pačios Ru- sijos bajorija pasisakė neigiamai, bet Lietuvos atstovai aiš- kiai pasisakė už valstiečių atleidimą. Mat, Lietuvos bajorijos dauguma jau buvo.'
+  teiginys: 'Prieš 1861 m. baudžiavos panaikinimą Lietuvos atstovai aiškiai pasisakė už valstiečių atleidimą, nors Rusijos bajorija tam nepritarė.'
   pagrindžia:
     - c-003
 
@@ -51,7 +51,7 @@ Nenurodyta
     - c-002
 
 - t-004
-  teiginys: 'Baudžiavos panaikinimas Rusijos imperijoje (1861 m.): reformai atlikti buvo sudarytos apskrityse valstiečių ko- misijos, apskritys padalintos į apylinkes, kurių priešaky bu- vo pastatyti taikos tarpininkai, o didesniesiems nesu- sipratimams spręsti — visų tarpininkų suvažiavimai, vadinami taikos suvažiavimais.'
+  teiginys: 'Baudžiavos panaikinimo reformai vykdyti apskrityse buvo sudarytos valstiečių komisijos, o apylinkėms vadovavo taikos tarpininkai.'
   pagrindžia:
     - c-004
 
@@ -106,6 +106,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Prieš 1861 m. baudžiavos panaikinimą Lietuvos atstovai aiškiai pasisakė už valstiečių atleidimą, nors Rusijos bajorija tam nepritarė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dar per karūnaciją caras įsakė atsiklausti dėl baudžiavos
@@ -122,6 +123,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: 'Baudžiavos panaikinimo reformai vykdyti apskrityse buvo sudarytos valstiečių komisijos, o apylinkėms vadovavo taikos tarpininkai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Caras Aleksandras II
@@ -148,5 +150,4 @@ Nenurodyta
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/taikos suvažiavimai]]
-- [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
 - [[objektai/zodynas/ukazai]]

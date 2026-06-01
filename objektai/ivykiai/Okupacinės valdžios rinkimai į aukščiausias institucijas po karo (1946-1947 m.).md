@@ -36,7 +36,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sugrąžindamas Lietuvoje sovietų valdžią J.'
+  teiginys: '1946 ir 1947 m. Lietuvoje vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1946 ir 1947 m. Lietuvoje vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Totalitariniam režimui vėl ėmė diri-

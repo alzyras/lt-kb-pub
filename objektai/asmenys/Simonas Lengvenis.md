@@ -38,9 +38,9 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
     - c-001
 
 - t-003
-  teiginys: 'Simonas Lengvenis Didįjį Naugardą valdęs iki 1348 m.; o po jo ten val­ džią perėmęs jo sūnus Patrikas, ar­ ba Patricijus; po pastarojo tapo val­ dovu, arba Žečpospolitos vaivada, ir Rusios bei Ladogos kunigaikštis Simonas Lungvinas, arba tiksliau Lengvenis, Lietuvos kunigaikštis, Algirdo sūnus: žr.'
+  teiginys: 'Simonas Lengvenis, Algirdo sūnus, po Patriko tapo Didžiojo Naugardo valdovu arba vaivada.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -89,33 +89,9 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    V,
-    135. Bet, regis, visa tai yra prasima­
-    nymas. Bent jau apie Narimantą kal­
-    bant, pirmiausia, Dlugošas, žinia,
-    apsirinka jį prie Algirdo brolių pri­
-    skirdamas, ir žinome iš Rusios met­
-    raštininkų, kad jis Didįjį Naugardą
-    valdęs iki 1348 m.; o po jo ten val­
-    džią perėmęs jo sūnus Patrikas, ar­
-    ba Patricijus; po pastarojo tapo val­
-    dovu, arba Žečpospolitos vaivada,
-    ir Rusios bei Ladogos kunigaikštis
-    Simonas Lungvinas, arba tiksliau
-    Lengvenis, Lietuvos kunigaikštis,
-    Algirdo sūnus: žr. D a n i L, Kronika
-    Ruška pr 206.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-004
+- c-003
   santrauka: 'Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -145,8 +121,9 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/asmenys/Narimantas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/asmenys/Lengvenis]]
+- [[objektai/asmenys/Patrikas]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Patrikas, arba Patricijus]]

@@ -22,7 +22,7 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
     - c-001
 
 - t-002
-  teiginys: 'Tačiau ir didžiųjų getų žydai žudyti vadinamųjų akcijų metu.'
+  teiginys: 'Vadinamųjų akcijų metu buvo žudomi ir didžiųjų getų žydai.'
   pagrindžia:
     - c-002
 
@@ -47,6 +47,7 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
     - t-001
 
 - c-002
+  santrauka: 'Vadinamųjų akcijų metu buvo žudomi ir didžiųjų getų žydai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip diena po dienos 1941 m. vasarą ir rudenį tikrose skerdynėse su-
@@ -96,6 +97,7 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
 - [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/zodynas/einzatsgrupės Einzatsgruppen]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/grupes/Želigovskininkai]]
 - [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]

@@ -54,13 +54,14 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     - c-004
 
 - t-006
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis.'
+  teiginys: 'Rabė patarė pasiųsti Sventopelko sūnų Mstivojų Austrijos kunigaikščiui kaip įkaitą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rabė patarė pasiųsti Sventopelko sūnų Mstivojų Austrijos kunigaikščiui kaip įkaitą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     45(44). Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis

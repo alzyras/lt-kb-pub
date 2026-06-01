@@ -29,36 +29,21 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
 - t-001
   teiginys: 'Rusintojai manė laimėti, „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: '„Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Rusų pradų atkūrimo“
-    politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu. Nuga-
-    lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
-    tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
-    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
-    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Imperijos politiko-
@@ -76,7 +61,7 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -94,6 +79,7 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

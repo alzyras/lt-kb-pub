@@ -23,13 +23,14 @@ Dusburgietis teigia, kad remeika J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad remeika J.'
+  teiginys: 'J. Remeikos „Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai“ išleista Kaune 1940 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Remeikos „Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai“ išleista Kaune 1940 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.

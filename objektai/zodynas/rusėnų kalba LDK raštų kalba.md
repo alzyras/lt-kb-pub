@@ -31,17 +31,17 @@ tags:
 - t-003
   teiginys: 'Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuose, kūrė valdovo raštinę.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-005
   teiginys: 'Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -59,6 +59,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -76,21 +77,6 @@ tags:
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
-    se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
-    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia
-    kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
-    tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
-    tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
     sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė
     spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
@@ -102,7 +88,7 @@ tags:
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jose pa-

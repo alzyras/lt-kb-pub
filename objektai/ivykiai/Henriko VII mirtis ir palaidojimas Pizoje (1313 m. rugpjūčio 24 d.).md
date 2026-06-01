@@ -44,7 +44,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Henriko, imperatoriaus, mirtį Tais pačiais metais, Baltramiejaus dieną (rugpjūčio 24), Sienos grafystėje mirė imperatorius Henrikas, o palaidojo jį Pizoje.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -58,18 +57,6 @@ Nenurodyta
     dienų, kuriomis imperatorius negalavo prieš savo mirtį (Ptol. p. 1240; Mart. p. 449).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais, Baltramiejaus dieną (rugpjūčio 24), Sienos grafystėje mirė
-    imperatorius Henrikas, o palaidojo  jį Pizoje. 10 dienų, kada rodėsi kometa, reiškė 10
-    dienų, kuriomis imperatorius negalavo prieš savo mirtį (Ptol. p. 1240; Mart. p. 449).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

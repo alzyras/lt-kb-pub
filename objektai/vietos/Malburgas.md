@@ -35,19 +35,19 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     - c-001
 
 - t-002
-  teiginys: '1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai.'
+  teiginys: 'Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules, drausdami Vok.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -69,27 +69,9 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Teutonų
-    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
-    gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­
-    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
-    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
-    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
-    bemaž visi Varmės miestai.
-    Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
-    amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
-    kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules, drausdami Vok.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -104,7 +86,7 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   santrauka: 'Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

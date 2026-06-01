@@ -50,29 +50,11 @@ Nenurodyta
 - t-002
   teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tiems karaimams, totoriams ir žydams.
-    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
-    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
-    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
-    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
-    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena. Šio karo
-    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
-    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
-    panaikinimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -98,6 +80,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

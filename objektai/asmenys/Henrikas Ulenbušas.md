@@ -72,5 +72,4 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Sembai]]
-- [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]
 - [[objektai/posakiai/Šiandien pat pasiųsiu tave į dangų]]

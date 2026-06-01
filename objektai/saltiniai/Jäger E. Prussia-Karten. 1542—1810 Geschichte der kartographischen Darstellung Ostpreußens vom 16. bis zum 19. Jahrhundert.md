@@ -26,13 +26,14 @@ Dusburgietis teigia, kad jäger E.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad jäger E.'
+  teiginys: 'E. Jägerio „Prussia-Karten. 1542—1810“ 1982 m. išleido A. H. Konrad Verlag.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'E. Jägerio „Prussia-Karten. 1542—1810“ 1982 m. išleido A. H. Konrad Verlag.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jäger E. Prussia-Karten. 1542—1810: Geschichte der kartographischen Darstellung

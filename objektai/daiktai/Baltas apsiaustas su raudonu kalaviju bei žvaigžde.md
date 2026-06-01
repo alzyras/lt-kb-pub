@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.'
+  teiginys: 'Kristaus karių ordino broliai vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kristaus karių ordino broliai vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     4. Apie Kristaus karių ordino brolius

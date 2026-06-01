@@ -48,23 +48,24 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lie­ tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna teisę dalyvauti naujo kun. elekcijoj.'
+  teiginys: 'Lietuvių bajorų aktas numatė, kad po Vytauto mirties lietuviai įgis teisę dalyvauti naujo kunigaikščio rinkimuose.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Lietuviai, mirus Vytautui, gavo teisę dalyvauti naujo kunigaikščio rinkimuose.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
-  teiginys: 'Bet užtat jų akte yra ir naujas punktas, kurio nėra Vytauto doku­ mente, pav.: jei Jogaila numirtų nepalikęs įpėdinių, Lenkija nega­ li rinktis sau karaliaus be Vytauto ir jo bajorų žinios^2 ).'
+  teiginys: 'Lietuvių bajorų akte nustatyta, kad Jogailai mirus be įpėdinių Lenkija negalėtų rinktis karaliaus be Vytauto ir jo bajorų žinios.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvių bajorų aktas numatė, kad po Vytauto mirties lietuviai įgis teisę dalyvauti naujo kunigaikščio rinkimuose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkų ponų
@@ -79,24 +80,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lenkų ponų
-    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
-    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija. Lie­
-    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
-    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
-    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
-    teisę seniau.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
+  santrauka: 'Lietuvių bajorų akte nustatyta, kad Jogailai mirus be įpėdinių Lenkija negalėtų rinktis karaliaus be Vytauto ir jo bajorų žinios.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet
@@ -120,6 +107,6 @@ Nenurodyta
 - [[objektai/grupes/Lenkų bajorija]]
 - [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
-- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/grupes/Lietuvių bajorija]]

@@ -42,28 +42,29 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų.'
+  teiginys: '1533 m. sprendimas leido kapitulos valdiniams antradieniais ir penktadieniais gabenti duoną į Vilniaus turgų ir ją parduoti.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.'
+  teiginys: 'Vilniaus miesto tarėjai reikalavo atleisti miestą nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
+  teiginys: '1533 m. Žygimantą Senąjį pasiekė Vilniaus miesto tarybos ir Vilniaus katedros kapitulos ginčas dėl kapitulos jurisdikcijos miesto gyventojams.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
+  teiginys: 'Žygimantas Senasis nusprendė, kad Vilniaus katedros kapitula gali naudotis jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Senasis nusprendė, kad Vilniaus katedros kapitula gali naudotis jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nusprendėme ir šiuo raštu nu­
@@ -85,6 +86,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: '1533 m. Žygimantą Senąjį pasiekė Vilniaus miesto tarybos ir Vilniaus katedros kapitulos ginčas dėl kapitulos jurisdikcijos miesto gyventojams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skelbiame visiems, kam da­
@@ -114,6 +116,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Vilniaus miesto tarėjai reikalavo atleisti miestą nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
@@ -149,6 +152,7 @@ Nenurodyta
     - t-002
 
 - c-004
+  santrauka: '1533 m. sprendimas leido kapitulos valdiniams antradieniais ir penktadieniais gabenti duoną į Vilniaus turgų ir ją parduoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, kad dėl Vilniaus miesto
@@ -208,5 +212,7 @@ Nenurodyta
 - [[objektai/zodynas/prelatai ir kanauninkai]]
 - [[objektai/zodynas/regula]]
 - [[objektai/zodynas/vaitas]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/zodynas/bažnytinės cenzūros]]
 - [[objektai/zodynas/vaitas ir tarėjai]]

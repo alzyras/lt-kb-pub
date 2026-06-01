@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­ tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie kelio į Trakus, trečiuosius - palei Švč.'
+  teiginys: 'Sprendimu miesto sienoje nurodyta palikti penkerius Vilniaus miesto vartus, tarp jų vartus prie kelio į Trakus ir prie Pilies.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sprendimu miesto sienoje nurodyta palikti penkerius Vilniaus miesto vartus, tarp jų vartus prie kelio į Trakus ir prie Pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­

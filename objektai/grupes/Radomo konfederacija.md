@@ -24,7 +24,7 @@ Radomo konfederacija. Tada konfederacija iš Radomo buvo perkelta į Varšuvą, 
     - c-001
 
 - t-002
-  teiginys: 'Tada konfederacija iš Radomo buvo perkelta į Varšuvą, kur gyveno patsai Repninas.'
+  teiginys: 'Radomo konfederacija iš Radomo buvo perkelta į Varšuvą, kur gyveno Repninas.'
   pagrindžia:
     - c-002
 
@@ -72,6 +72,7 @@ Radomo konfederacija. Tada konfederacija iš Radomo buvo perkelta į Varšuvą, 
     - t-001
 
 - c-002
+  santrauka: 'Radomo konfederacija iš Radomo buvo perkelta į Varšuvą, kur gyveno Repninas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau ir jis ir visi kon-

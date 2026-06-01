@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Trejetą šimtų narsių ir ištikimų jam riterių iš Žemaitijos išsiuntė pirm, kad persirengę, tarsi nauji at­ vykėliai pirkliai, prasigavę į miestą issiskirstytų po įvairias smukles; po t° keletą šimtų vežimų, kailių ir šieno prikrautų, su šešiais šimtais gin­.'
+  teiginys: 'Kęstučiui puolant Vilnių, į miestą įvairiais keliais buvo įvežta keli šimtai kailių ir šieno prikrautų vežimų su paslėptais ginkluotais vyrais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kęstučiui puolant Vilnių, į miestą įvairiais keliais buvo įvežta keli šimtai kailių ir šieno prikrautų vežimų su paslėptais ginkluotais vyrais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Andrius žuvo prie Vorsklos 1399
@@ -77,4 +78,5 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Vežimai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]

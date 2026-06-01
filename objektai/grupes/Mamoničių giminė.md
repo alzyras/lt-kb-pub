@@ -26,18 +26,19 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 ## Teiginiai
 
 - t-001
-  teiginys: '68 Petras Timofiejevas Mstislavliškis, iš Maskvos atvykęs spaustuvininkas, padedamas ir proteguojamas Alek­ sandro Chodkevičiaus sūnaus Jurgio, 1575 metais Vilniuje pas Kuzmą ir Luką Mamoničius, Jono Semena vičiaus Zažeckio, iždininko, Upytės se­ niūno ir jo.'
+  teiginys: '1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino „Cztėry Ewangelje“.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Mamoničių namai sto­ vėjo, rodos, toje vietoje, kur dabar Sledzinskio namai, Nr. 203, o šalia, kampiniame name, seniau buvo cerkvelė.'
+  teiginys: 'Mamoničių namai, anot citatos, veikiausiai stovėjo ten, kur vėliau buvo Sledzinskio namai Nr. 203.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mamoničių namai, anot citatos, veikiausiai stovėjo ten, kur vėliau buvo Sledzinskio namai Nr. 203.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1822. Mamoničių namai sto­
@@ -53,6 +54,7 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
     - t-002
 
 - c-002
+  santrauka: '1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino „Cztėry Ewangelje“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Parašai: Vice-
@@ -86,8 +88,8 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Petras Timofiejevas Mstislavliškis]]
 - [[objektai/asmenys/Jonas Semenavičius Zažeckis]]
 - [[objektai/asmenys/Jurgis Chodkevičius]]
 - [[objektai/asmenys/Kuzma Mamoničius]]
 - [[objektai/asmenys/Luka Mamoničius]]
-- [[objektai/asmenys/Petras Timofiejevas Mstislavliškis]]

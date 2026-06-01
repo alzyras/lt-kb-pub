@@ -25,7 +25,7 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     - c-004
 
 - t-002
-  teiginys: 'Toliau į vakarus gy­ veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos kranto ruožą.'
+  teiginys: 'XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.'
   pagrindžia:
     - c-003
 
@@ -69,6 +69,7 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     - t-003
 
 - c-003
+  santrauka: 'XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,

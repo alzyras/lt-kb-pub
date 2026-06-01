@@ -43,18 +43,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Katalikams buvo uždraustos mišrios su stačiatikiais vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­ imti katalikybę.'
+  teiginys: 'Jogailos įsakymu lietuviams buvo draudžiamos mišrios santuokos su rusais ir nekatalikais, kol antroji pusė priims katalikų tikėjimą.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Lotynišką krikštą pa­ darant lietuviams privalomu ir draudžiant mišrias moterystes, etno­ (^18) CDV, I, 29-30 (nr.'
+  teiginys: 'Jogaila dokumente įsipareigojo lietuvius priversti paklusti Romos Bažnyčiai, įvedant privalomą lotynišką krikštą ir draudžiant mišrias santuokas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailos įsakymu lietuviams buvo draudžiamos mišrios santuokos su rusais ir nekatalikais, kol antroji pusė priims katalikų tikėjimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Stiprindamas lotyniškąjį kryžių Lietuvoje, Algirdaitis trečiuoju
@@ -72,6 +73,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Jogaila dokumente įsipareigojo lietuvius priversti paklusti Romos Bažnyčiai, įvedant privalomą lotynišką krikštą ir draudžiant mišrias santuokas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Prie to jie « gali
@@ -95,5 +97,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Švitrigaila]]
-- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/posakiai/patraukti, pašaukti, net jėga priversti]]

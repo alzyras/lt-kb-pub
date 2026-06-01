@@ -30,7 +30,7 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
     - c-001
 
 - t-003
-  teiginys: 'Tada tai, kaip sako Kochanovskis, kažkeno galvoj ir kilo geniali mintis, pralenkianti ištisus amžius ir kartas^2 ).'
+  teiginys: 'Kochanovskis Lenkijos ir Lietuvos unijos sumanymą vadino genialia mintimi, pralenkusia amžius ir kartas.'
   pagrindžia:
     - c-003
 
@@ -70,7 +70,7 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
     - t-001
 
 - c-003
-  santrauka: 'Tada tai, kaip sako Kochanovskis, kažkeno galvoj ir kilo geniali mintis, pralenkianti ištisus amžius ir kartas^2 ).'
+  santrauka: 'Kochanovskis Lenkijos ir Lietuvos unijos sumanymą vadino genialia mintimi, pralenkusia amžius ir kartas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tos anarchijos metu padidėjo

@@ -26,11 +26,6 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 205 1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: '1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.'
   pagrindžia:
     - c-001

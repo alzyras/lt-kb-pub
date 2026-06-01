@@ -23,13 +23,14 @@ Dusburgietis teigia, kad mažiulis V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mažiulis V.'
+  teiginys: 'V. Mažiulio „Baltų ir kitų indoeuropiečių kalbų santykiai: Deklinacija“ išleistas Vilniuje 1970 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Mažiulio „Baltų ir kitų indoeuropiečių kalbų santykiai: Deklinacija“ išleistas Vilniuje 1970 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mažiulis V. Baltų ir kitų indoeuropiečių kalbų santykiai: Deklinacija.—V., 1970.

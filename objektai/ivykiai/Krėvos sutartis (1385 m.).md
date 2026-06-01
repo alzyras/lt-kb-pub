@@ -45,12 +45,12 @@ Nenurodyta
 - t-001
   teiginys: 'Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokiečių puolimai.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Krėvos sutartyje Jogaila įsipareigojo vesti Jadvygą, įvesti Lietuvoje katalikybę ir „prišlieti“ Lietuvą prie Lenkijos.'
   pagrindžia:
-    - c-003
+    - c-005
 
 - t-003
   teiginys: 'Krėvos sutartimi Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.'
@@ -65,12 +65,12 @@ Nenurodyta
 - t-005
   teiginys: 'Krėvos sutartį skatino ypač įnirtingi vokiečių puolimai ir silpstančios Lietuvos poreikis turėti lenkus sąjungininkais.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
   teiginys: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -102,21 +102,6 @@ Nenurodyta
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lenkai,
-    regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
-    turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu. Su-
-    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
-    Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
-    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Lietuvių pareigūnus įtraukus į Lenkijos
     valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
     lemta valstybių sąveika naikino Lietuvos valstybingumą.
@@ -129,7 +114,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-
@@ -145,7 +130,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   santrauka: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -161,6 +146,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-006
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -177,4 +163,3 @@ Nenurodyta
 - [[objektai/posakiai/„prišlieti“]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
-- [[objektai/zodynas/applicare prišlieti]]

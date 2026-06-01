@@ -31,12 +31,12 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 - t-001
   teiginys: 'Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.'
   pagrindžia:
-    - c-008
+    - c-005
 
 - t-002
-  teiginys: 'Protasevičiaus pėdomis sekė ir jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­ liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­ kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą dvasiškai jaunuomenei lavintis, vadinamą.'
+  teiginys: 'Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.'
   pagrindžia:
-    - c-010
+    - c-007
 
 - t-003
   teiginys: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti.'
@@ -46,42 +46,32 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 - t-004
   teiginys: 'Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.'
   pagrindžia:
-    - c-015
+    - c-009
 
 - t-005
   teiginys: 'Jurgis Radvila buvo vyskupas ir Mikalojaus Radvilos Juodojo sūnus.'
   pagrindžia:
-    - c-019
-
-- t-006
-  teiginys: 'Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kurioje ilgai buvo lai­ komos pamaldos, ir pats kurį laiką gyveno, todėl jam duotas Kardinali­ jos vardas.'
-  pagrindžia:
-    - c-014
+    - c-012
 
 - t-007
   teiginys: 'Jurgis Radvila, kardinolas ir buvęs Vilniaus bei Krokuvos vyskupas, mirė Romoje 1600 m.'
   pagrindžia:
-    - c-016
+    - c-010
 
 - t-008
   teiginys: 'Paveikslo „Oršos mūšis“ fragmente matyti buože užsimojęs lauko etmonas Jurgis Radvila.'
   pagrindžia:
-    - c-007
-
-- t-009
-  teiginys: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
-  pagrindžia:
-    - c-011
+    - c-004
 
 - t-010
   teiginys: 'Kunigaikščio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis pastatyta Kardinalija iškilo tarp senų mūrinių namų ir medinių dvarų.'
   pagrindžia:
-    - c-005
+    - c-011
 
 - t-011
-  teiginys: 'Maždaug tuo metu vienas didžiausių Vil­ niaus namų, iki tol vadintas Kardinalija, statytas kunigaikš­ čio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis, iškilo tarp senų mūrinių namų ir medinių dvarų70.'
+  teiginys: 'Jurgio Radvilos lėšomis Vilniuje buvo pastatytas vienas didžiausių miesto namų, vadintas Kardinalija.'
   pagrindžia:
-    - c-018
+    - c-011
 
 - t-012
   teiginys: '1582 m. dokumentą Jurgis Radvila pasirašė kaip Vilniaus vyskupas ir Olykos kunigaikštis.'
@@ -91,27 +81,22 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 - t-013
   teiginys: 'Vilniaus vyskupas Jurgis Radvila 1582 m. sausio 11 d. Vilniuje pasirašė vyskupo seminarijos fundacijos aktą.'
   pagrindžia:
-    - c-017
-
-- t-014
-  teiginys: 'Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.'
-  pagrindžia:
-    - c-012
+    - c-002
 
 - t-015
-  teiginys: 'Be to, kilnusis, Andrius Vodzinskis, šviesiojo didžiai gerbiamo pono Jurgio, Dievo ma­ lone šventosios Romos bažnyčios presbiterio, kardinolo Rad­ vilos, Vilniaus vyskupijos nuolatinio administratoriaus, Olykos ir Nesvyžiaus kunigaikščio ir mūsų vietininko.'
+  teiginys: 'Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.'
   pagrindžia:
-    - c-009
+    - c-006
 
 - t-016
   teiginys: 'Jiems vadovavo talentingas karvedys, jau pasižymėjęs kovose su totoriais ir vokiečių ordinu, tuometinis Kijevo vaivada ir LDK taurininkas Jurgis Radvila (vėliau tapęs LDK didžiuoju etmonu).'
   pagrindžia:
-    - c-013
+    - c-008
 
 - t-017
   teiginys: 'Jurgis Radvila paveikslo „Oršos mūšis“ fragmente vaizduojamas kaip buože užsimojęs lauko etmonas.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-018
   teiginys: 'Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo lietuvių pašauktiniams bajorams.'
@@ -119,9 +104,9 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - c-001
 
 - t-019
-  teiginys: 'Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elektorius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas, baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­ tais.'
+  teiginys: 'Jurgis Radvila buvo kardinolas, Inocento IX ir Klemenso VIII elektorius, Vilniaus ir vėliau Krokuvos vyskupas.'
   pagrindžia:
-    - c-004
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -168,6 +153,7 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-012
+    - t-013
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -200,45 +186,9 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-003
+    - t-009
 
 - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    —  •  .
-    192
-
-    ## Puslapis 209
-
-    Il KNYGA
-    15. Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­
-    dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elek-
-    torius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas,
-    baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­
-    tais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-019
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    ir valdant jo pirmtakui, mieste radosi vis didingesnių ir puoš­
-    nesnių pastatų. Maždaug tuo metu vienas didžiausių Vil­
-    niaus namų, iki tol vadintas Kardinalija, statytas kunigaikš­
-    čio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis,
-    iškilo tarp senų mūrinių namų ir medinių dvarų70. Vietoje
-    senosios medinės buvo užbaigta ir pašventinta maža, bet
-    graži Šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-006
   santrauka: 'Jurgis Radvila paveikslo „Oršos mūšis“ fragmente vaizduojamas kaip buože užsimojęs lauko etmonas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -265,35 +215,9 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-017
-
-- c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ketvirtasis mūšio etapas. (XVI a.
-    tapyto paveikslo „Oršos mūšis“
-    fragmentas) Lietuviai persekioja
-    bėgančius rusus
-
-    Viršuje matyti ir buože užsimojęs lauko etmonas Jurgis Radvila
-
-    K. Ostrogiškis
-    duoda ženklą
-    „ artileristams
-
-    atidengti ugnį
-
-    dešiniajame rusų armijos flange. Šis vai-
-    vada savo veiksmų nesuderino su pa-
-    grindiniu vadu Čeliadninu, o pastarasis
-    savo ruožtu nesuteikė paramos dėl jų
-    asmeninės nesantaikos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-008
 
-- c-008
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     70
@@ -317,7 +241,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   pagrindžia:
     - t-001
 
-- c-009
+- c-006
+  santrauka: 'Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­
@@ -344,7 +269,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   pagrindžia:
     - t-015
 
-- c-010
+- c-007
+  santrauka: 'Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Neapsiribodamas pavyzdžio verta savo
@@ -371,68 +297,9 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-011
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šven­
-    tasis ekumeninis Tridento Sinodas nusprendė, kad norint
-    išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį
-    tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­
-    vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai
-    gyvuojančią seminariją, iš kur jaunuoliai, nuo jaunystės įgi­
-    ję dievobaimingumo, išmokyti geriausių menų, išeitų vyk­
-    dyti bažnytinių pareigų. Taigi, kai mes, Jurgis Radvila,
-    Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
-    nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų
-    miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir
-    funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­
-    zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­
-    tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme
-    įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­
-    vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­
-    lių skaičius. Suprantame, kad mūsų ganytojiškoms parei­
-    goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
-    pajamų ir kapitulos, ir visokios rūšies vertybių, personatų,
-    pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­
-    sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
-    porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
-    minėtos kolegijos ir inkorporuota.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-012
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Neapsiribodamas pavyzdžio verta savo
-    labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
-    gė neturtingiems studentams bursą, pavadintą Valerijono
-    vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
-    jėzuitų priežiūrai ir globai58. Protasevičiaus pėdomis sekė ir
-    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
-    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
-    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
-    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
-    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
-    kilmingai įvesdintas išlaisvino karalius nuo varginančio
-    57
-    Visas Vilniaus universiteto fundaci­
-    jos privilegijas kartu su atitinkama
-    popiežiaus bule galima perskaityti
-    veikale „Stepono Batoro valdymas",
-    iš Albertrandžio rankraščių, rūpestin­
-    gai profesoriaus Onacevičiaus
-    išleistų Varšuvoje, 1823 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-014
 
-- c-013
+- c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos pajėgos
@@ -452,7 +319,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   pagrindžia:
     - t-016
 
-- c-014
+- c-009
+  santrauka: 'Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Marijos Magdalenos baž­
@@ -473,30 +341,9 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-015
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Marijos Magdalenos baž­
-    nyčios, po dešine ranka Skapo gatvėje
-    ant paties kampo esantį ir vadinamą
-    Skapo vardu". Kardinolas Radvila
-    dalyje, vadinamoje Goštautų mūru,
-    įrengė koplyčią, kurioje ilgai buvo lai­
-    komos pamaldos, ir pats kurį laiką
-    gyveno, todėl jam duotas Kardinali­
-    jos vardas. Vėliau, apie 1601 metus,
-    abu namai - Goštautų ir Filipovo -
-    kartu sujungti Albrechto Radvilos lai­
-    kais, gavo bendrą Kardinalijos pa­
-    vadinimą, išlikusį iki mūsų laikų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
-- c-016
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     192
@@ -525,31 +372,10 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-007
+    - t-019
 
-- c-017
-  santrauka: 'Vilniaus vyskupas Jurgis Radvila 1582 m. sausio 11 d. Vilniuje pasirašė vyskupo seminarijos fundacijos aktą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Narsiojo Kasparo Bekešo atminimas Vilniuje 1580
-    metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės,
-    pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki
-    [Vyskupo seminarijos fundacija iš
-    vyskupo stalo dvaro, vadinamo
-    Vozgėliškėmis [Vaisgėliškis]. Duo­
-    ta ir aktuota Vilniuje, 1582 metų sau­
-    sio Il dieną], dalyvaujant visai ka­
-    pitulai, su parašu: Georgius Radziwiłł
-    Episcopus Vilnens. Dux Olicae. manu
-    propria [Vilniaus vyskupas O1y kos
-    kunigaikštis Jurgis Radvila savo ran­
-    ka].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-018
+- c-011
+  santrauka: 'Jurgio Radvilos lėšomis Vilniuje buvo pastatytas vienas didžiausių miesto namų, vadintas Kardinalija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 314
@@ -567,8 +393,9 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-011
+    - t-010
 
-- c-019
+- c-012
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
@@ -594,10 +421,10 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Tridento Sinodas]]
 - [[objektai/posakiai/Viešpaties vardu Amen]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/fundacija]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/vietininkas]]
@@ -605,5 +432,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/paprociai/Kardinalijos koplyčios pamaldų laikymas]]
 - [[objektai/daiktai/Kardinalijos namų kompleksas]]
+- [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
+- [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
+- [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]
+- [[objektai/paprociai/Kardinalijos koplyčios pamaldų laikymas]]

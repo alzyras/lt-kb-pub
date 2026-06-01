@@ -62,14 +62,9 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Loreta Asanavičiūtė pateko po tanko vikšrais, o daliai gynėjų klausa pažeista nuo tankų šūvių tuščiais šoviniais.'
+  teiginys: 'Sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.'
   pagrindžia:
     - c-003
-
-- t-004
-  teiginys: 'Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -125,25 +120,6 @@ Nenurodyta
     - t-002
     - t-003
 
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvai
-    laikantis tik savų įstatymų, 1990 m. balandžio 18 d. SSRS pradėjo Lie-
-    tuvos ekonominę blokadą, kuri truko iki birželio 29-osios. Nepaisant
-    didžiulio smūgio ekonomikai (trūko kuro, kurį laiką nedirbo Mažeikių
-    naftos perdirbimo įmonė, dėl žaliavų trūkumo užsidarė kai kurios ga-
-    myklos, atsirado pirmieji bedarbiai), Lietuva atsilaikė ir diplomatinėmis
-    priemonėmis pasiekė ekonominės blokados atšaukimo. Tačiau 1991 m.
-    sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
-    pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
-    mą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -160,4 +136,3 @@ Nenurodyta
 - [[objektai/asmenys/Loreta Asanavičiūtė]]
 - [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
 - [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]
-- [[objektai/asmenys/Michailas Gorbačiovas]]

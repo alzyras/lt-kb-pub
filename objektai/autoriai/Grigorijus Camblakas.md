@@ -45,7 +45,7 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - t-004
   teiginys: '1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-005
   teiginys: 'Grigorijus Camblakas buvo vienas žymiausių to meto stačiatikybės teologų.'
@@ -55,27 +55,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1415 m. Naugarduke sušaukęs LDK stačiatikių
-    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
-    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
-    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
-    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
-    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
-    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
-    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
-    idėją (ji įgyvendinta vėliau – 1439 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-    - t-005
-    - t-001
-    - t-003
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     K. W. Kielisińskio rekonstrukcija, 1841 m.
@@ -94,6 +73,10 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
+    - t-005
+    - t-001
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

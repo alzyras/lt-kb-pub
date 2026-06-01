@@ -24,13 +24,14 @@ Dusburgietis teigia, kad kolankowski L.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kolankowski L.'
+  teiginys: 'L. Kolankowskio straipsnis „Litwini a Prusacy“ paskelbtas 1931 m. Lvove išleistame V visuotinio lenkų istorikų suvažiavimo leidinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'L. Kolankowskio straipsnis „Litwini a Prusacy“ paskelbtas 1931 m. Lvove išleistame V visuotinio lenkų istorikų suvažiavimo leidinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kolankowski L. Litwini a Prusacy.— Pamiętnik V powszechnego zjazdu historyków

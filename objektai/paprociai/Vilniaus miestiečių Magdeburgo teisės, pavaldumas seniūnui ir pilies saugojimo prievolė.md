@@ -45,7 +45,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Tos pirmosios Lietuvoj teisės būtų ge­ rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­ ros.'
+  teiginys: 'Pirmosios Lietuvoje Vilniaus miesto teisės būtų pagerinusios miesto būklę, jei šalies nebūtų sukrėtęs vidaus karas.'
   pagrindžia:
     - c-002
 
@@ -91,6 +91,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Pirmosios Lietuvoje Vilniaus miesto teisės būtų pagerinusios miesto būklę, jei šalies nebūtų sukrėtęs vidaus karas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     114

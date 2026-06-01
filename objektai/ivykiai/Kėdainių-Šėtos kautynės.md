@@ -57,7 +57,7 @@ Nenurodyta
     - c-001
 
 - t-004
-  teiginys: 'Prie Taučiūnų kaimo bolševikų kuopos ugnies netikėtai apšaudyti savanoriai sutriko, bet Lukšio padrąsinti atidengė atsakomąją ugnį.'
+  teiginys: 'Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.'
   pagrindžia:
     - c-003
 
@@ -117,6 +117,7 @@ Nenurodyta
     - t-005
 
 - c-003
+  santrauka: 'Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Važiuojant pro Taučiūnų kaimą,

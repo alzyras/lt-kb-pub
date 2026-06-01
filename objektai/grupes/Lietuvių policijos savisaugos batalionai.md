@@ -17,7 +17,7 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dalis lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius Baltarusijoje, Lenkijoje, Ukrainoje.'
+  teiginys: 'Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.'
   pagrindžia:
     - c-002
 
@@ -46,6 +46,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Buvo

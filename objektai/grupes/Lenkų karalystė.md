@@ -33,7 +33,7 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: 'Unijos akto . 3-me išreikšta visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir.'
+  teiginys: 'Liublino unijos akte Didžioji Lietuvos Kunigaikštystė ir Lenkų karalystė apibūdintos kaip viena bendra valstybė.'
   pagrindžia:
     - c-002
 
@@ -57,6 +57,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Liublino unijos akte Didžioji Lietuvos Kunigaikštystė ir Lenkų karalystė apibūdintos kaip viena bendra valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Liublino unijos dėsniai. Unijos akto § 3-me išreikšta

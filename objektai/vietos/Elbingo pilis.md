@@ -20,13 +20,14 @@ Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelt
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į.'
+  teiginys: 'Į Elbingo pilį buvo pasiųsta imperatoriaus Fridricho II magistrui perduota didelė šventojo kryžiaus dalis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Į Elbingo pilį buvo pasiųsta imperatoriaus Fridricho II magistrui perduota didelė šventojo kryžiaus dalis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei

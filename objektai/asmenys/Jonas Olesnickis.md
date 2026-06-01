@@ -41,29 +41,29 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-001
 
 - t-004
-  teiginys: 'Tačiau Moskoževskis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­ mas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­.'
+  teiginys: 'Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris gerokai sustiprino abiejų pilių įgulas.'
   pagrindžia:
-    - c-008
+    - c-003
 
 - t-005
-  teiginys: 'Šitą supratęs Olesnickis surengia drąsų išpuo­ lį ir su visa įgula netikėtai užgriūna vokiečius, suduoda jiems skaudų smūgį.'
+  teiginys: 'Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį.'
   pagrindžia:
     - c-002
 
 - t-006
   teiginys: 'Jonas Olesnickis, gelbėdamas pilis, įsakė sudeginti likusius miesto namus ir gyventojus perkelti į Žemutinę pilį.'
   pagrindžia:
-    - c-009
+    - c-006
 
 - t-007
   teiginys: 'Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris karaliaus apie tą susitarimą jau buvo perspėtas49.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-008
-  teiginys: 'Olesnickis, užbėgdamas kryžiuočiams už akių, buvo priverstas paau­ koti miestą gelbėdamas pilis; įsakė tuojau pat sudeginti dar likusius šen bei ten po negandų namus, o jų gyventojus su manta ir maisto atsargomis iškeldinęs į Žemutinę pilį, pats stipriai.'
+  teiginys: 'Jonas Olesnickis, gelbėdamas Vilniaus pilis, įsakė sudeginti likusius miesto namus ir gyventojus perkelti į Žemutinę pilį.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-009
   teiginys: 'Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį.'
@@ -86,6 +86,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - t-003
 
 - c-002
+  santrauka: 'Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  •  —
@@ -128,6 +129,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -147,6 +149,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   statusas: verified
   pagrindžia:
     - t-002
+    - t-007
 
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -167,25 +170,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - t-009
 
 - c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tasai kunigaikštis, toks pat
-    narsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir
-    pridurmais puolusiems kryžiuočiams nuo jo gerokai kliūna.
-    Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris
-    karaliaus apie tą susitarimą jau buvo perspėtas49. Netrukus,
-    tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­
-    džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasi-
-    liono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­
-    gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
-    valdovas, daugelis kunigaikščių ir bajorų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-007
+  santrauka: 'Jonas Olesnickis, gelbėdamas Vilniaus pilis, įsakė sudeginti likusius miesto namus ir gyventojus perkelti į Žemutinę pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tiesų ketu­
@@ -205,44 +190,6 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   statusas: verified
   pagrindžia:
     - t-008
-
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pamažu ėmė telktis išsisklaidę
-    gyventojai ir statytis namus ant degėsių. Tačiau Moskožev-
-    skis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­
-    mas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui
-    Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė
-    Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­
-    las37. Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo
-    apeita, mat tuo metu jis išties stengėsi visokiais būdais už­
-    glaistyti dar šviežius krašto niokojimo pėdsakus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš tiesų ketu­
-    rių mylių nuo Vilniaus spinduliu visos gyvenvietės, kaip an­
-    tai Trakai, paleistos plėnimis, jau buvo virtę dykromis, kur
-    priešui su gausia karių armija sunku išsilaikyti46. Olesnickis,
-    užbėgdamas kryžiuočiams už akių, buvo priverstas paau­
-    koti miestą gelbėdamas pilis; įsakė tuojau pat sudeginti dar
-    likusius šen bei ten po negandų namus, o jų gyventojus su
-    manta ir maisto atsargomis iškeldinęs į Žemutinę pilį, pats
-    stipriai įsitvirtino abiejose pilyse. Kryžiuočiai, Kauno keliu
-    priėję slėnį, kuriame andai būta miesto, įsirengė stovyklą jo
-    degėsių vietoje, palei aukštą statinių tvorą, juosusią miestą -
-    netoli nuo Švč.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
 
 ## Ryšiai

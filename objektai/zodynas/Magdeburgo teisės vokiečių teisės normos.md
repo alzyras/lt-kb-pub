@@ -20,7 +20,7 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
 ## Teiginiai
 
 - t-001
-  teiginys: 'Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdyme būta ir kokių dar laisvių duota gyventojams tuo laikotarpiu, po pir­ mųjų Magdeburgo teisių suteikimo.'
+  teiginys: 'Po pirmųjų Magdeburgo teisių suteikimo nežinoma, kokių miesto valdymo pokyčių ar laisvių gyventojams buvo duota.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
     - t-002
 
 - c-002
+  santrauka: 'Po pirmųjų Magdeburgo teisių suteikimo nežinoma, kokių miesto valdymo pokyčių ar laisvių gyventojams buvo duota.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Laikas nutrynė pėdsa­

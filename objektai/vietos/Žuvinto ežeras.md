@@ -30,7 +30,7 @@ amziai:
 - t-001
   teiginys: 'Žuvinto ežeras ir Palios buvo apsupti šarvuočių.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-002
   teiginys: '1945 m. liepos 13 d. prie Žuvinto ežero Dzūkų būrio partizanai susidūrė su NKVD kareiviais ir stribais.'
@@ -40,22 +40,22 @@ amziai:
 - t-003
   teiginys: 'Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-004
   teiginys: 'Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-005
   teiginys: 'Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė ežeru.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-006
   teiginys: 'Per Žuvinto ežerą enkavėdistai plaukė iš kluonų durų pasidarytais plaustais.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -76,57 +76,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1945 m. rugpjūčio mėnesio pačioje pra-
-    džioje Palias puolė NKVD užnugario ap-
-    saugos kariuomenės 132-ojo pasienio
-    pulko ir jungtinio pasienio būrio pajė-
-    gos. Žuvinto ežeras ir Palios buvo apsupti
-    šarvuočių. Lėktuvai raketų šūviais nuro-
-    dydavo įtartinas ežero vietas, o ginkluotų
-    kareivių pilnos valtys tuoj pat plaukdavo jų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    patikrinti. Pritrūkus valčių, enkavėdistai
-    nulupo Aleknonių ir Žuvinto kaimų ūki-
-    ninkų kluonų duris ir jomis kaip plaustais
-    plaukė ežeru. Partizanai be paliovos juos
-    apšaudė ir granatomis skandino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    vadas Vladas Gavėnas-Tarzanas bei lais-
-    vės kovotojai Vincas Boruta-Žvalgas ir
-    Sigitas Melnykas-Portas. Tų pačių metų
-    liepos 13 d., grįždami iš žygio, Dzūkų būrio
-    partizanai prie Žuvinto ežero susidūrė su
-    pasaloje laukusiais NKVD kareiviais ir vie-
-    tiniais stribais. Tuomet žuvo partizanas
-    Jurgis Krušinskas, Juozas Remeikis-Lokys
-    vėliau mirė nuo sužeidimų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
-- c-005
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šis ginklas buvo vienas
@@ -142,8 +94,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-005
+    - t-006
 
-- c-006
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1945 m. rugpjūčio mėnesio pačioje pra-
@@ -180,3 +133,4 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003

@@ -36,7 +36,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kryžiuočių ordino nukariavimai Prūsuose: ordinas savo įstatuose tu- rėjo įsirašęs pareigą nuolat kariauti su Kristaus vardo priešais (jam net buvo draudžiama daryti taiką su netikėliais). Tokį įžadą ordino broliai — riteriai — turėjo padaryti visam gyvenimui.'
+  teiginys: 'Kryžiuočių ordino įstatai įpareigojo nuolat kariauti su Kristaus vardo priešais, o riteriai šį įžadą duodavo visam gyvenimui.'
   pagrindžia:
     - c-008
 
@@ -46,7 +46,7 @@ Nenurodyta
     - c-007
 
 - t-003
-  teiginys: 'Kryžiuočių ordino nukariavimai Prūsuose: iš Palestinos or- dinas atsinešė į aisčių kraštą ir kariavimo būdą. Kaip ten, taip ir čia, pasitelkęs riterių, jis žygiuodavo į kurią nors sritį, ten kariuo- menės priedangoje pasistatydavo pilį, ir joje palikta įgula turė- davo ne tik atlaikyti aisčių.'
+  teiginys: 'Kryžiuočių ordinas į aisčių kraštą atsinešė Palestinoje naudotą kariavimo būdą ir 1231 m. pradėjo pulti aisčių gentis.'
   pagrindžia:
     - c-002
 
@@ -61,12 +61,12 @@ Nenurodyta
     - c-005
 
 - t-006
-  teiginys: 'Kryžiuočių ordino nukariavimai Prūsuose: kartu su nukariavimu žengė ir krikščionystė: buvo statomos bažnyčios ir vienuo- lynai, o prūsai buvo varu krikštijami. Tiesa, jie dar bandė spir- tis, tačiau neįstengė prieš galingą ordino kariškąją organizaciją, kuriai padėdavo visa Europa. Prūsams dar ir.'
+  teiginys: 'Kryžiuočių ordino nukariavimuose kartu su karine ekspansija plito krikščionybė: buvo statomos bažnyčios ir vienuolynai, o prūsai krikštijami per prievartą.'
   pagrindžia:
     - c-003
 
 - t-007
-  teiginys: 'Kryžiuočių ordino nukariavimai Prūsuose: netrukus vyskupas Kristijonas pateko prūsams į nelaisvę, iš kurios ordinas nesirūpino jo išvaduoti net 5 metus. Vyskupui esant nelaisvėje, ordinas pasirūpino, kad ir imperatorius ir popie- žius pripažintų jam visus Prūsų ir kitų pagonių nukariaujamus kraštus.'
+  teiginys: 'Vyskupui Kristijonui patekus į prūsų nelaisvę, ordinas pasirūpino, kad imperatorius ir popiežius pripažintų jam nukariaujamus Prūsų kraštus.'
   pagrindžia:
     - c-006
 
@@ -94,6 +94,7 @@ Nenurodyta
     - t-008
 
 - c-002
+  santrauka: 'Kryžiuočių ordinas į aisčių kraštą atsinešė Palestinoje naudotą kariavimo būdą ir 1231 m. pradėjo pulti aisčių gentis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš Palestinos or-
@@ -110,6 +111,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Kryžiuočių ordino nukariavimuose kartu su karine ekspansija plito krikščionybė: buvo statomos bažnyčios ir vienuolynai, o prūsai krikštijami per prievartą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kartu su nukariavimu
@@ -159,6 +161,7 @@ Nenurodyta
     - t-005
 
 - c-006
+  santrauka: 'Vyskupui Kristijonui patekus į prūsų nelaisvę, ordinas pasirūpino, kad imperatorius ir popiežius pripažintų jam nukariaujamus Prūsų kraštus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau išėjo visai ki-
@@ -188,6 +191,7 @@ Nenurodyta
     - t-002
 
 - c-008
+  santrauka: 'Kryžiuočių ordino įstatai įpareigojo nuolat kariauti su Kristaus vardo priešais, o riteriai šį įžadą duodavo visam gyvenimui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Kryžiuočių ordino nukariavimai.** Ordinas savo įstatuose tu-
@@ -207,3 +211,4 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Pilys]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/ekspansija]]

@@ -27,7 +27,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB, 3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351 m. — Ilgenburgk (ten pat, Nr. 349, 455, 615, 692); tai vėlesnis Gilgenburgas (dab. Dąbrówno).'
+  teiginys: 'Ilienburgas buvo vėlesnis Gilgenburgas, dabartinis Dąbrównas, sąsmaukoje tarp dviejų ežerų senoje Sasnos žemėje.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ilienburgas buvo vėlesnis Gilgenburgas, dabartinis Dąbrównas, sąsmaukoje tarp dviejų ežerų senoje Sasnos žemėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,

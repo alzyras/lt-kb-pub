@@ -24,19 +24,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po 1557 m. valakų reformos Lietuvoje plito trilaukis ūkis, todėl lydimoji žemdirbystė ėmė nykti.'
-  pagrindžia:
-    - c-002
-
-- t-002
   teiginys: 'Dvilaukė sistema atsirado, kai apžėlęs lydimas virsdavo ganykla, o naujas lydimas buvo daromas kitoje miško ar pamiškės vietoje.'
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Šitaip atsirado dvilaukė sistema.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -52,28 +47,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kadangi nulaisintas lydimas ilgai turėjo
-    pūdymauti, vienai šeimai prasimaitinti reikėjo bent 5-6 lydimų
-    gabalų. Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo
-    pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė
-    laisvės naudotis mišku ir daryti išdagas. Pradėjus Lietuvoje « va­
-    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
-    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
-    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
-    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
-    ir kt.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Šitaip atsirado dvilaukė sistema.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -87,9 +63,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Lydimoji žemdirbystė]]
-- [[objektai/grupes/Valakai]]
+    - t-002

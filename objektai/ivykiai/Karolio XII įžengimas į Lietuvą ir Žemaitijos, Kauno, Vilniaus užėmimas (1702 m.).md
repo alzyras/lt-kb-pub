@@ -41,13 +41,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Karolio XII įžengimas į Lietuvą ir Žemaitijos, Kauno, Vilniaus užėmimas (1702 m.): tada Karolis XII, pasi- skelbęs esąs puolamas, su visa savo kariuomene užėmė Žemaitiją, Kauną, Vilnių (1702 m.) ir nužygiavo į Lenkiją, ketindamas Au- gusto vietoje pastatyti kitą karalių.'
+  teiginys: '1702 m. Karolis XII su kariuomene užėmė Žemaitiją, Kauną ir Vilnių, paskui nužygiavo į Lenkiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1702 m. Karolis XII su kariuomene užėmė Žemaitiją, Kauną ir Vilnių, paskui nužygiavo į Lenkiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvoje tuo tarpu (po Valkinin-
@@ -81,4 +82,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Karolis XII]]
 - [[objektai/zodynas/konfederacija]]

@@ -123,4 +123,3 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]
-- [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]

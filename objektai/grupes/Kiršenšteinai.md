@@ -26,13 +26,14 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi pilietybę, keletą šimtmečių val­ dė Raudonės pilį.'
+  teiginys: 'Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rau­

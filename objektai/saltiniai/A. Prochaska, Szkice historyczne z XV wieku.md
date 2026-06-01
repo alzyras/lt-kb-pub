@@ -27,13 +27,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: ': Szkice historyczne z XV wieku, Kraków-Warszawa 1884.'
+  teiginys: 'A. Prochaskos „Szkice historyczne z XV wieku“ buvo išleista Krokuvoje ir Varšuvoje 1884 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Prochaskos „Szkice historyczne z XV wieku“ buvo išleista Krokuvoje ir Varšuvoje 1884 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Königsberg 1912,

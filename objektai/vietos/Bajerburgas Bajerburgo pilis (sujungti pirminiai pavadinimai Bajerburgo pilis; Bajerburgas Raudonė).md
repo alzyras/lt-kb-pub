@@ -39,12 +39,12 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     - c-001
 
 - t-003
-  teiginys: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
+  teiginys: 'Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo.'
+  teiginys: 'Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.'
   pagrindžia:
     - c-002
 
@@ -71,6 +71,7 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     - t-002
 
 - c-002
+  santrauka: 'Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi toje epochoje, kai naujos civilizacijos
@@ -130,6 +131,7 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     - t-001
 
 - c-004
+  santrauka: 'Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rau­

@@ -28,13 +28,14 @@ Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybin
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybinio žydų muziejaus, Mokslo ir enciklopedijų leidybos centro fondų (1918– 1940 m. Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio „Lietuvos diplomatija.'
+  teiginys: 'Leidinyje panaudotos nuotraukos iš LGGRTC Genocido aukų muziejaus fondų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Leidinyje panaudotos nuotraukos iš LGGRTC Genocido aukų muziejaus fondų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilnius, 2007.
@@ -55,6 +56,3 @@ Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybin
 - [[objektai/zodynas/diplomatija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/grupes/LCVA]]
-- [[objektai/grupes/Mokslo ir enciklopedijų leidybos centras]]
-- [[objektai/grupes/Vilniaus Gaono valstybinis žydų muziejus]]

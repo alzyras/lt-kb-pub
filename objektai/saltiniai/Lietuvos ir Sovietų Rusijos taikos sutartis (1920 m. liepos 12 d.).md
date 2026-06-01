@@ -30,47 +30,52 @@ amziai:
 - t-001
   teiginys: 'Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.'
   pagrindžia:
-    - c-003
-
-- t-002
-  teiginys: 'Semaško) argumentus, lietuviai patenkino dar vieną A.'
-  pagrindžia:
     - c-002
 
-- t-003
-  teiginys: 'Maskva patvirtino, kad sutar- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 147 tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys savo suverenumo Lenkijos naudai.'
+- t-002
+  teiginys: '1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo Lietuvos diplomatijos laimėjimas mezgant santykius su Rusija ir Lenkija.'
   pagrindžia:
-    - c-004
+    - c-008
+
+- t-003
+  teiginys: 'Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir kad Lietuva turi suverenias teises į Vilnių.'
+  pagrindžia:
+    - c-003
 
 - t-004
   teiginys: '1920 m. pradžioje Lietuva sutiko pradėti derybas.'
   pagrindžia:
-    - c-009
+    - c-002
 
 - t-005
   teiginys: 'Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos.'
   pagrindžia:
-    - c-005
+    - c-009
 
 - t-006
   teiginys: 'Pagal abiejų tų sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-007
-  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 143 Maskvos sutartis turėjo ir alternatyvą.'
+  teiginys: '1920 m. liepą Vilnių Lietuvai perdavė bolševikai, o ne lenkai.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-008
   teiginys: 'Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-009
   teiginys: 'Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.'
   pagrindžia:
     - c-001
+
+- t-011
+  teiginys: 'Lietuviai sutiko įrašyti, kad Lietuva ir Sovietų Rusija niekada nebuvo karo padėtyje.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -94,22 +99,6 @@ amziai:
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuva gavo 3 mln. aukso rublių kompensaciją ir pažadus,
-    kad galės išsikirsti miško, atsiimti išvežtus į Maskvą archyvus. Lietuva ri-
-    zikavo pasirašydama sutartį, nes manė, jog, baltiesiems nugalėjus bolše-
-    vikus, būtų atiduota Rusijai arba Lenkijai. Apskritai 1920 m. liepos 12 d.
-    pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-
-    matijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su
-    Lenkija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
     miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
     mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
@@ -123,8 +112,10 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
-- c-004
+- c-003
+  santrauka: 'Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir kad Lietuva turi suverenias teises į Vilnių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
@@ -141,20 +132,8 @@ amziai:
   pagrindžia:
     - t-003
 
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rygos sutartį ėjo į rytus nuo Lietu-
-    vos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos su-
-    tartį tarp Lietuvos ir Sovietų Rusijos. Pagal abiejų tų sutarčių punktus dėl
-    Vilniaus turėjo susitarti Lietuva ir Lenkija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
+- c-004
+  santrauka: '1920 m. liepą Vilnių Lietuvai perdavė bolševikai, o ne lenkai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -173,7 +152,7 @@ amziai:
   pagrindžia:
     - t-007
 
-- c-007
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal abiejų tų sutarčių punktus dėl
@@ -190,7 +169,7 @@ amziai:
   pagrindžia:
     - t-006
 
-- c-008
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.
@@ -203,24 +182,7 @@ amziai:
   pagrindžia:
     - t-008
 
-- c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
-    miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
-    mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
-    Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
-    tuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-
-    mo dokumentu.
-    Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
-    atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-010
+- c-007
   santrauka: 'Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -236,8 +198,8 @@ amziai:
   pagrindžia:
     - t-010
 
-- c-011
-  santrauka: 'Semaško) argumentus, lietuviai patenkino dar vieną A.'
+- c-008
+  santrauka: 'Lietuviai sutiko įrašyti, kad Lietuva ir Sovietų Rusija niekada nebuvo karo padėtyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Toliau kaudamiesi dėl didesnės teritorijos Rytuose, moty-
@@ -258,8 +220,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-011
+    - t-002
 
-- c-012
+- c-009
   santrauka: 'Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -273,3 +236,4 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-012
+    - t-005

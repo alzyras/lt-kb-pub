@@ -24,19 +24,18 @@ Dusburgietis teigia, kad 238—239; Vanagas A. Dusburgietis teigia, kad laba, La
     - c-001
 
 - t-002
-  teiginys: 'A. Vanagas šiame leidinyje minimas kaip filologijos mokslų daktaras, prisidėjęs prie knygos rengimo spaudai.'
+  teiginys: 'Filologijos mokslų daktaras A. Vanagas sulaukė padėkos už dalykinius patarimus rengiant knygą spaudai.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad 238—239; Vanagas A.'
+  teiginys: 'A. Vanago darbe „Galindai“ remiamasi aiškinant galindų dalyvavimą sąjungose prieš Romos imperiją.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad 6; Vanagas A.'
+  teiginys: 'A. Vanagas rašė apie jotvingių kalbos reliktus ir jotvingių ryšį su dzūkais.'
   pagrindžia:
-    - c-005
     - c-002
 
 ## Reikšmingi paminėjimai
@@ -55,6 +54,7 @@ Dusburgietis teigia, kad 238—239; Vanagas A. Dusburgietis teigia, kad laba, La
     - t-001
 
 - c-002
+  santrauka: 'A. Vanagas rašė apie jotvingių kalbos reliktus ir jotvingių ryšį su dzūkais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Bendri lietuvių veiksmai su žiemgaliais, sėliais, kuršiais
@@ -68,6 +68,7 @@ Dusburgietis teigia, kad 238—239; Vanagas A. Dusburgietis teigia, kad laba, La
     - t-004
 
 - c-003
+  santrauka: 'A. Vanago darbe „Galindai“ remiamasi aiškinant galindų dalyvavimą sąjungose prieš Romos imperiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Manoma,
@@ -82,6 +83,7 @@ Dusburgietis teigia, kad 238—239; Vanagas A. Dusburgietis teigia, kad laba, La
     - t-003
 
 - c-004
+  santrauka: 'Filologijos mokslų daktaras A. Vanagas sulaukė padėkos už dalykinius patarimus rengiant knygą spaudai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
@@ -93,17 +95,6 @@ Dusburgietis teigia, kad 238—239; Vanagas A. Dusburgietis teigia, kad laba, La
   pagrindžia:
     - t-002
 
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    20 Отрембский Я. Язык ятвягов..., с. 6; Vanagas A. [Jotvingių] kalbos reliktai, p.
-    20—21; to paties, Jotvingiai ir dzūkai, p. 36.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Galindai]]
@@ -111,5 +102,3 @@ Dusburgietis teigia, kad 238—239; Vanagas A. Dusburgietis teigia, kad laba, La
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Вилинбахов В. Б]]
-- [[objektai/autoriai/Топоров B. H]]
-- [[objektai/autoriai/Энговатов H. В]]

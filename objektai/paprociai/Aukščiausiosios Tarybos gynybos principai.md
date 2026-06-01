@@ -42,18 +42,19 @@ Nenurodyta
     - c-003
 
 - t-002
-  teiginys: 'Gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
+  teiginys: 'Aukščiausiosios Tarybos gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Lietuvos vadovybė sovietų agresijos akistatoje siekė fiksuoti karinės agresijos faktą ir užtikrinti politinį šalies atstovavimą.'
+  teiginys: 'Aukščiausiosios Tarybos gynybos principai siekė fiksuoti sovietų karinės agresijos faktą ir užtikrinti politinį Lietuvos atstovavimą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aukščiausiosios Tarybos gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmomis sausio įvykių dienomis tik
@@ -77,6 +78,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Aukščiausiosios Tarybos gynybos principai siekė fiksuoti sovietų karinės agresijos faktą ir užtikrinti politinį Lietuvos atstovavimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Atkurtos Lietuvos valstybės vadovybė so-

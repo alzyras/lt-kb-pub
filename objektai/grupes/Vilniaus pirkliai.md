@@ -27,7 +27,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 ## Teiginiai
 
 - t-001
-  teiginys: 'O la­ biausiai [pageidaujame], kad Jūsų Didenybė Vilniaus mies­ te pagal savo pareigą įsakytų Vilniaus miestiečiams ir pirkliams neprieštaraujant apskaičiuoti ir sumokėti šiuos muitus, be to, ir vadinamuosius Czopowe i Szosowe mokes­ čius taip, kaip šiais.'
+  teiginys: 'Buvo pageidaujama, kad Vilniaus miestiečiai ir pirkliai neprieštaraudami apskaičiuotų ir sumokėtų muitus.'
   pagrindžia:
     - c-008
 
@@ -42,22 +42,22 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - c-003
 
 - t-004
-  teiginys: 'Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Velykų dieną, pagal pataisytą kalendorių, nekreipdami dėmesio į katalikiškas šventes, išdrįso pardavinėti prekes.'
+  teiginys: 'Pirkliai per Velykas pagal pataisytą kalendorių pardavinėjo prekes, nepaisydami katalikiškų švenčių.'
   pagrindžia:
     - c-007
 
 - t-005
-  teiginys: 'Tuomet Vilniaus pirkliai ir gyventojai, prisidengdami pri­ vilegijomis, ir spyrėsi nemokėti muito.'
+  teiginys: 'Vilniaus pirkliai ir gyventojai, remdamiesi privilegijomis, priešinosi muito mokėjimui.'
   pagrindžia:
     - c-002
 
 - t-006
-  teiginys: 'Tai matyti iš gausybės karaliaus draudimų muitininkams, kad nuo vaško ir kitų prekių iš Vil­ niaus pirklių neimtų muito.'
+  teiginys: 'Karalius daug kartų draudė muitininkams imti muitą iš Vilniaus pirklių už vašką ir kitas prekes.'
   pagrindžia:
     - c-001
 
 - t-007
-  teiginys: 'Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.'
+  teiginys: 'Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.'
   pagrindžia:
     - c-005
 
@@ -69,6 +69,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalius daug kartų draudė muitininkams imti muitą iš Vilniaus pirklių už vašką ir kitas prekes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     243,
@@ -87,6 +88,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - t-006
 
 - c-002
+  santrauka: 'Vilniaus pirkliai ir gyventojai, remdamiesi privilegijomis, priešinosi muito mokėjimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo patarimu remdamasis, Steponas
@@ -173,6 +175,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - t-002
 
 - c-005
+  santrauka: 'Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau
@@ -263,6 +266,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - t-008
 
 - c-007
+  santrauka: 'Pirkliai per Velykas pagal pataisytą kalendorių pardavinėjo prekes, nepaisydami katalikiškų švenčių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia
@@ -289,6 +293,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - t-004
 
 - c-008
+  santrauka: 'Buvo pageidaujama, kad Vilniaus miestiečiai ir pirkliai neprieštaraudami apskaičiuotų ir sumokėtų muitus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O la­
@@ -337,6 +342,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/asmenys/Stanislovas Sabina]]
 - [[objektai/zodynas/miesto sargybos viršininkas]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]
 - [[objektai/zodynas/muitas thelonea]]

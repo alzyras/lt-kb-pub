@@ -89,6 +89,5 @@ Nenurodyta
 - [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/daiktai/Lietuvos trispalvė]]
 - [[objektai/autoriai/V. Kudirka]]
 - [[objektai/asmenys/Vincas Kudirka]]

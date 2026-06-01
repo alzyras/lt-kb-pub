@@ -17,13 +17,14 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 .'
+  teiginys: 'Anastazija valdė Dobrynės kunigaikštystę maždaug tuo metu, kai ši smarkiai nukentėjo per lietuvių antpuolį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Anastazija valdė Dobrynės kunigaikštystę maždaug tuo metu, kai ši smarkiai nukentėjo per lietuvių antpuolį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokios

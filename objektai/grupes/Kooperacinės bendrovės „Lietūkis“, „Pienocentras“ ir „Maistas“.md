@@ -19,7 +19,7 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
 ## Teiginiai
 
 - t-001
-  teiginys: '1935 m. „Pienocentras“, supirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo kai­nas.'
+  teiginys: '1935 m. „Pienocentras“ tris kartus sumažino iš valstiečių supirkinėtų pieno produktų kainas.'
   pagrindžia:
     - c-002
 
@@ -50,6 +50,7 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
     - t-002
 
 - c-002
+  santrauka: '1935 m. „Pienocentras“ tris kartus sumažino iš valstiečių supirkinėtų pieno produktų kainas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žemės ūkio
@@ -69,5 +70,4 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
 ### Susiję objektai
 - [[objektai/asmenys/J. Tūbelis]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Juozas Tūbelis]]
 - [[objektai/ivykiai/Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.)]]

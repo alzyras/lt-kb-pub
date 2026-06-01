@@ -27,24 +27,6 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
-    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
-    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
-    pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
-    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
-    šalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio
-    miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
-    žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
-    buvo arba paimti į nelaisvę, arba užmušti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi šalys patyrė didelių nuostolių sužeistaisiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -64,6 +46,7 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

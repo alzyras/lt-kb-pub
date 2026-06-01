@@ -26,13 +26,14 @@ Dusburgietis teigia, kad wermke E.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad wermke E.'
+  teiginys: 'E. Wermke parengė Rytų ir Vakarų Prūsijos istorijos bibliografiją, apimančią laikotarpius iki 1929 m., 1930–1938 m. ir 1939–1970 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'E. Wermke parengė Rytų ir Vakarų Prūsijos istorijos bibliografiją, apimančią laikotarpius iki 1929 m., 1930–1938 m. ir 1939–1970 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Wermke E. Bibliographie der Geschichte von Ost- und West-preussen bis 1929— 1962

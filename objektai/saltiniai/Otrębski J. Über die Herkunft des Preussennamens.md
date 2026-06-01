@@ -23,13 +23,14 @@ Dusburgietis teigia, kad otrębski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad otrębski J.'
+  teiginys: 'J. Otrębskio „Über die Herkunft des Preussennamens“ 1955 m. publikuotas Poznanės leidinyje „Lingua Posnaniensis“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Otrębskio „Über die Herkunft des Preussennamens“ 1955 m. publikuotas Poznanės leidinyje „Lingua Posnaniensis“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Otrębski J. Über die Herkunft des Preussennamens.— Lingua Posnaniensis, Poznań,

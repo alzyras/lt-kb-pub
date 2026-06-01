@@ -44,13 +44,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '1396-ieji me­ tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties bei alpių karščių.'
+  teiginys: '1396 metais pilies kalno nuošliaužos užslinko ant Manvydo rūmų, o Aukštutinės pilies mūrai nuostolių nepatyrė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1396 metais pilies kalno nuošliaužos užslinko ant Manvydo rūmų, o Aukštutinės pilies mūrai nuostolių nepatyrė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kitais metais jis buvo išvaduotas dviejų jam palan­

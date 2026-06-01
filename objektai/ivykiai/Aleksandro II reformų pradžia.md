@@ -49,7 +49,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Aleksandro II atėjimas į sostą buvo liberalių re­ formų pradžia: atgaivino visuomenės siekimus atgauti tai, kas buvo prarasta po 1830-1831 m. sukilimo, o gal net iškovoti daug daugiau - nepriklausomybę arba bent autonomiją.'
+  teiginys: 'Aleksandro II atėjimas į sostą pradėjo liberalias reformas ir atgaivino visuomenės siekius susigrąžinti po 1830-1831 m. sukilimo prarastus dalykus.'
   pagrindžia:
     - c-002
 
@@ -77,6 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Aleksandro II atėjimas į sostą pradėjo liberalias reformas ir atgaivino visuomenės siekius susigrąžinti po 1830-1831 m. sukilimo prarastus dalykus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta

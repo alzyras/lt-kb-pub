@@ -18,7 +18,7 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vydūnas (Vilius Storasta).'
+  teiginys: 'Vydūno tikrasis vardas buvo Vilius Storasta.'
   pagrindžia:
     - c-001
 
@@ -28,13 +28,14 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
     - c-002
 
 - t-003
-  teiginys: 'Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui, kuris vadovauja vietos lietuviams.'
+  teiginys: 'Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to patyrė persekiojimą.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vydūno tikrasis vardas buvo Vilius Storasta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vydūnas (Vilius Storasta).
@@ -56,6 +57,7 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
     - t-002
 
 - c-003
+  santrauka: 'Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to patyrė persekiojimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl vokiečiai ėmė
@@ -74,7 +76,5 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/storasta]]
 - [[objektai/zodynas/prūsas Prūsa Prūsija]]

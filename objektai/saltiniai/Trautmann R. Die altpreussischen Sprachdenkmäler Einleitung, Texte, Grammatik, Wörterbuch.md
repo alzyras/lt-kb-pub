@@ -26,13 +26,14 @@ Dusburgietis teigia, kad trautmann R.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad trautmann R.'
+  teiginys: 'R. Trautmanno „Die altpreussischen Sprachdenkmäler“ išleista Getingene 1910 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Trautmanno „Die altpreussischen Sprachdenkmäler“ išleista Getingene 1910 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Trautmann R. Die altpreussischen Sprachdenkmäler: Einleitung, Texte, Grammatik,

@@ -27,13 +27,14 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.'
+  teiginys: 'Aukaimio pilėnas Draika slaptai pasiuntė savo sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aukaimio pilėnas Draika slaptai pasiuntė savo sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     280 (273). Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
@@ -61,3 +62,4 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 - [[objektai/zodynas/pilėnas]]
 - [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/zodynas/stabų garbinimas stabmeldystė]]
+- [[objektai/zodynas/komtūras]]

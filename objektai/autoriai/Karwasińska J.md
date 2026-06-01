@@ -25,13 +25,14 @@ Dusburgietis teigia, kad karwasińska J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad karwasińska J.'
+  teiginys: 'Karwasińska J. parašė straipsnį apie Karolio IV aukso bules Lietuvos krikšto klausimu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karwasińska J. parašė straipsnį apie Karolio IV aukso bules Lietuvos krikšto klausimu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Karwasińska J. Złote bulle Karola IV w sprawie chrztu Litwy.— Cultus et cognitio:

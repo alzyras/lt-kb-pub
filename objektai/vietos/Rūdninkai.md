@@ -20,7 +20,7 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau, Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­ vo Rūdninkų vardą, kaip ir nuo jų.'
+  teiginys: 'Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, o Rūdninkai labiau išgarsėjo Žygimanto Senojo ir Žygimanto Augusto laikais.'
   pagrindžia:
     - c-003
 
@@ -30,7 +30,7 @@ tags:
     - c-001
 
 - t-003
-  teiginys: 'Bažny­ čia Rūdninkuose galėjusi būti nuo seno, bet klebonijos fun­ dacija datuojama nuo Zigmanto III.'
+  teiginys: 'Rūdninkuose bažnyčia galėjo būti nuo seno, bet klebonijos fundacija datuojama Zigmanto III laikais.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Rūdninkuose bažnyčia galėjo būti nuo seno, bet klebonijos fundacija datuojama Zigmanto III laikais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jų pavadinimas kilęs nuo nemažų geležies rū­
@@ -79,6 +80,7 @@ tags:
     - t-003
 
 - c-003
+  santrauka: 'Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, o Rūdninkai labiau išgarsėjo Žygimanto Senojo ir Žygimanto Augusto laikais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pasiligojusi Vytauto žmona Julijona bu­

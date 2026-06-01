@@ -26,18 +26,19 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau.'
+  teiginys: 'Vytautas, pritariamas Jogailos, pirmiausia atėmė Sievero žemę iš Dimitro Kaributo.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas, pritariamas Jogailos, pirmiausia atėmė Sievero žemę iš Dimitro Kaributo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet Vytautas su jais nedarė ilgų ce­
@@ -54,23 +55,6 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet Vytautas su jais nedarė ilgų ce­
-    remonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą
-    Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų
-    Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­
-    štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­
-    dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­
-    jime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­
-    naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­
-    stovos, jų valdžią silpnino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

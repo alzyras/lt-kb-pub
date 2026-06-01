@@ -25,18 +25,19 @@ tags:
     - c-003
 
 - t-002
-  teiginys: 'Miestiečių luomas, dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­ liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­ menyje neteko tokio globėjo, kokiu paskui netapo nė vienas iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš.'
+  teiginys: 'Miestiečių luomas buvo paaukštintas dviejų paskutiniųjų Jogailaičių ir stipriai palaikomas karaliaus Stepono.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­ darę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­ tautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų 80 Miesto archyve tų privilegijų nėra.'
+  teiginys: 'Didesniąją Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Miestiečių luomas buvo paaukštintas dviejų paskutiniųjų Jogailaičių ir stipriai palaikomas karaliaus Stepono.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet jau tokia būna geni­
@@ -62,6 +63,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Didesniąją Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiaip ar taip,
@@ -127,10 +129,10 @@ tags:
 - [[objektai/zodynas/Magdeburgo teisė]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
 - [[objektai/zodynas/Magdeburgo teisės vokiečių teisė]]
-- [[objektai/paprociai/Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo laisvės ir municipalinių reikalų tvarkymas]]
 - [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas tautos pasitarimuose]]
 - [[objektai/grupes/Vilniaus rusinai]]

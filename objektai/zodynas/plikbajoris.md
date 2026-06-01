@@ -20,7 +20,7 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat iš anksto didiko atgabentos virtuvės pa- gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo alkani ir tikrai sočiai pavalgydavo tik seimelio metu.'
+  teiginys: 'Nuskurę plikbajoriai seimelio metu būdavo maitinami didiko atgabentų virtuvių ir tik tada sočiai pavalgydavo.'
   pagrindžia:
     - c-002
 
@@ -32,7 +32,7 @@ tags:
 - t-003
   teiginys: 'Taip pat iš anksto didiko atgabentos virtuvės pagamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo alkani ir tikrai sočiai pavalgydavo tik seimelio metu.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-004
   teiginys: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
@@ -58,6 +58,7 @@ tags:
     - t-004
 
 - c-002
+  santrauka: 'Nuskurę plikbajoriai seimelio metu būdavo maitinami didiko atgabentų virtuvių ir tik tada sočiai pavalgydavo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl jie va-
@@ -71,6 +72,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -87,21 +89,6 @@ tags:
     - t-002
 
 - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl jie va-
-    žiuodavo triukšmingai garbindami juos vežantį didiką. Atvežti
-    jie tuojau būdavo sutalpinami iš anksto pasamdytose smuklėse ir
-    šiaipjau patalpose. Taip pat iš anksto didiko atgabentos virtuvės pa-
-    gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo
-    alkani ir tikrai sočiai pavalgydavo tik seimelio metu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-005
   santrauka: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -119,7 +106,7 @@ tags:
   pagrindžia:
     - t-005
 
-- c-006
+- c-005
   santrauka: 'Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

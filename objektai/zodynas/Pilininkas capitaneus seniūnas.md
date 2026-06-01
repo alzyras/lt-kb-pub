@@ -26,7 +26,7 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Capitaneus Vilnensis [Hanka - Vilniaus seniūnas].'
+  teiginys: '1385 metų Vladislovo Jogailos laiške Hanka pavadintas Vilniaus seniūnu, lotyniškai Hanko Capitaneus Vilnensis.'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,7 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1385 metų Vladislovo Jogailos laiške Hanka pavadintas Vilniaus seniūnu, lotyniškai Hanko Capitaneus Vilnensis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta­

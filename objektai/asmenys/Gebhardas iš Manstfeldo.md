@@ -27,13 +27,14 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus.'
+  teiginys: 'Brolis Gebhardas iš Manstfeldo įmetė Viešpaties kryžiaus atskalą į ugnį, iš kurios ji iššoko daugelio žmonių akyse.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Gebhardas iš Manstfeldo įmetė Viešpaties kryžiaus atskalą į ugnį, iš kurios ji iššoko daugelio žmonių akyse.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     122. Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­

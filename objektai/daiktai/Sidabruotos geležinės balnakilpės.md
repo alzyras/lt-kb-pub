@@ -43,11 +43,6 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šaltinyje sidabruotos geležinės balnakilpės pristatomos kaip Lietuvoje karių kapuose rastas radinys.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Šaltinio fragmentuose balnakilpės datuojamos XI-XIII a., o iliustracijos antraštėje – XI-XII a.'
   pagrindžia:
     - c-001
@@ -64,11 +59,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Balnakilpės]]
 - [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/autoriai/Hermanas Vartbergė]]
 - [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]

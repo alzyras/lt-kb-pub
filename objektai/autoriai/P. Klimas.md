@@ -137,20 +137,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   pagrindžia:
     - t-006
 
-- c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Klimas, P. : _Lietuva,
-    jos gyventojai ir sienos,_ Kaunas 1917. — (”) _Lietuvos sienos rytuose.
-    Memorialas Lietuvos taikos derybose su rusais 1920. V. 21.,_ Švietimo
-    Darbas, nr. 1-2, 3-4, 7-8, 1921. — (”) _Mūsų kovos del Vilniaus,_ I, Vil­
-    nius 1923.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]

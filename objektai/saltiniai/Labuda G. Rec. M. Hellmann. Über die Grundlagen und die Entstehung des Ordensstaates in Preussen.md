@@ -23,13 +23,14 @@ Dusburgietis teigia, kad labuda G.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad labuda G.'
+  teiginys: 'G. Labudos recenzija apie M. Hellmanno „Über die Grundlagen und die Entstehung des Ordensstaates in Preussen“ paskelbta 1964 m. Torunėje, ZHP 29 tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'G. Labudos recenzija apie M. Hellmanno „Über die Grundlagen und die Entstehung des Ordensstaates in Preussen“ paskelbta 1964 m. Torunėje, ZHP 29 tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Labuda G. Rec.: M. Hellmann. Über  die Grundlagen und  die Entstehung des

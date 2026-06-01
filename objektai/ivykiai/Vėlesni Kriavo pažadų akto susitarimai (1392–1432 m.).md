@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Algirdaičiui išvykstant karaliauti Len­ kijon, 1385 m. Kriavo pažadų aktas davė pradžią tolimesniems, kad ir su didele dalimi teoretiškų įsipareigojimų, aktams (1392 m. Astravas, 1401 m. Vilnius, 1413 m. Horodlė, 1432 m. Gardinas), paruošusiems kelią.'
+  teiginys: '1385 m. Kriavo pažadų aktas davė pradžią vėlesniems Astravo, Vilniaus, Horodlės ir Gardino susitarimams dėl artimesnių santykių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1385 m. Kriavo pažadų aktas davė pradžią vėlesniems Astravo, Vilniaus, Horodlės ir Gardino susitarimams dėl artimesnių santykių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Algirdaičiui išvykstant karaliauti Len­

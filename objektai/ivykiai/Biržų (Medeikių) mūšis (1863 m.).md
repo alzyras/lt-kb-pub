@@ -46,31 +46,27 @@ Nenurodyta
 - t-002
   teiginys: 'Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-003
   teiginys: '1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.'
   pagrindžia:
-    - c-003
+    - c-004
 
 - t-004
   teiginys: '1863 m. gegužės 8 d. atvykusios gausesnės rusų pajėgos užpuolė stovyklavusius sukilėlius; Z. Sierakauskas buvo sužeistas; pasipriešinimas ėmė silpti.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
-  teiginys: 'Gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
-  pagrindžia:
-    - c-001
-
-- t-006
-  teiginys: 'Gegužės 8 d. gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
+  teiginys: 'Biržų mūšyje gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Biržų mūšyje gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dešimtą valandą ryto gen. mjr.
@@ -117,25 +113,6 @@ Nenurodyta
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    @ Gegužės 7 d. atvykę į Medeikius rusų
-    pėstininkai tris valandas atakavo lietu-
-    vių gynybines pozicijas.
-
-    © Sukilėliams pamėginus apeiti rusus iš
-    flangų, šie vengdami apsupimo buvo
-    priversti atsitraukti.
-
-    © Lietuvių pajėgos persikėlė į Biržų gi-
-    rios pakraštį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
     @ Gegužės 8 d. atvykusios naujos ir gau-
     sesnės gen. mjr. I. Ganeckio rusų pajė-
     gos užpuolė stovyklavusius sukilėlius.
@@ -156,7 +133,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos
@@ -178,6 +155,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

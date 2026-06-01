@@ -26,13 +26,14 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą dovanojimą Karalius Žygiman­ tas Augustas patvirtino.'
+  teiginys: 'Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1555. Radvila tą mūrinį namą ir sklypą dovanojo savo

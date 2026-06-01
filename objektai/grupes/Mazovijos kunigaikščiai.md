@@ -29,7 +29,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 ## Teiginiai
 
 - t-001
-  teiginys: 'Niekur nevaliojome rasti Ma­ zovijos kunigaikščio tokiu vardu, tik žinome, kad tuo tarps­ niu valdė Wencenslaus dei gratia dux Masovie et Plocz [Venceslavas, Dievo malone Mazovijos ir Plocko kuni­ gaikštis] (pasak dokumentų), tas pats, kuris 1321 metais su­.'
+  teiginys: 'Tuo laikotarpiu Mazovijoje valdė Venceslavas, o 1325 metais kitose krašto žemėse viešpatavo Ziemovitas ir Traidenis.'
   pagrindžia:
     - c-003
 
@@ -39,7 +39,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
     - c-001
 
 - t-003
-  teiginys: 'Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie Mazoviją, kaip apie kraštą, per kurį kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­ nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal.'
+  teiginys: 'Gedimino laiškų užuomina apie Mazoviją leido manyti, kad Mazovijos kunigaikštis buvo Lietuvos valdovo sąjungininkas.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
     - t-002
 
 - c-002
+  santrauka: 'Gedimino laiškų užuomina apie Mazoviją leido manyti, kad Mazovijos kunigaikštis buvo Lietuvos valdovo sąjungininkas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau kodėl Ge­
@@ -92,6 +93,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
     - t-003
 
 - c-003
+  santrauka: 'Tuo laikotarpiu Mazovijoje valdė Venceslavas, o 1325 metais kitose krašto žemėse viešpatavo Ziemovitas ir Traidenis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Niekur nevaliojome rasti Ma­
@@ -123,11 +125,11 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Spaustuvės]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
@@ -139,3 +141,5 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 - [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
 - [[objektai/asmenys/Vasilijus Vasiljevičius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Ziemovitas]]

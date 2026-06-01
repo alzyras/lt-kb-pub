@@ -25,13 +25,14 @@ Dusburgietis teigia, kad włodarski В.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad włodarski В.'
+  teiginys: 'B. Włodarskis 1959 m. Torunėje paskelbė straipsnį apie jotvingių problemą lenkų ir rusėnų santykiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'B. Włodarskis 1959 m. Torunėje paskelbė straipsnį apie jotvingių problemą lenkų ir rusėnų santykiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Włodarski В. Problem jaćwiński w stosunkach polsko-ruskich.— Zapiski historyczne,
@@ -41,3 +42,8 @@ Dusburgietis teigia, kad włodarski В.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusėnai]]

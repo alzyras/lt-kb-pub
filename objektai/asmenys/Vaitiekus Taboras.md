@@ -35,23 +35,24 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     - c-003
 
 - t-002
-  teiginys: 'Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.'
+  teiginys: 'Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskupus 1491 metais, šešiolika metų eidamas ga­ nytojo pareigas įgijo šalyje didelę įtaką ir pagarsėjo taryboje nuovoka kaip reta kas.'
+  teiginys: 'Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: 'Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­ tuokė didįjį kunigaikštį su Elena, virš jos galvos kunigaikš­ tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­ linę vyno42.'
+  teiginys: 'Vilniaus vyskupas Vaitiekus Taboras kartu su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Andrius II, šv. teologijos daktaras, lietuvis, dievotas ir
@@ -71,6 +72,7 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     - t-003
 
 - c-002
+  santrauka: 'Vilniaus vyskupas Vaitiekus Taboras kartu su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stanislovo katedrą. Ten Vaitiekus Taboras, Vilniaus
@@ -105,6 +107,7 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     - t-001
 
 - c-004
+  santrauka: 'Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miestiečiai prie jų
@@ -128,8 +131,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 - [[objektai/daiktai/Aleksandro lektika]]
 - [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Maskvos pasiuntiniai]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
 - [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]

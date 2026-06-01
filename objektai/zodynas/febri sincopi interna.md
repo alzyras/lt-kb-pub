@@ -20,13 +20,14 @@ Kadangi Viešpats Dievas vakar, prieš pirmą valandą nakties, paėmė mums iš
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kadangi Viešpats Dievas vakar, prieš pirmą valandą nakties, paėmė mums iš šio pasaulio į savo amžinąją garbę Jo Karališkąją Didenybę, mūsų valdovą, penktąją jį pagul­ džiusios ligos febri sincopi interna dieną, kaip turime medikų aktą.'
+  teiginys: 'Valdovas mirė penktąją ligos, medikų akte įvardytos febri sincopi interna, dieną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valdovas mirė penktąją ligos, medikų akte įvardytos febri sincopi interna, dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pareiškiame Jūsų Malonybei apie mus visus ištikusį ben­

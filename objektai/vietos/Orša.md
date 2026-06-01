@@ -28,10 +28,10 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
 - t-001
   teiginys: 'Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-002
-  teiginys: 'Orša: tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig- manto fundacija), Smolenske (klebono Lempickio ir kt. fun- dacija), Kaune.'
+  teiginys: 'Oršoje įsteigta jėzuitų kolegija buvo karaliaus Zigmanto fundacija.'
   pagrindžia:
     - c-002
 
@@ -41,18 +41,19 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
     - c-003
 
 - t-004
-  teiginys: 'Ostrogiškis smarkiai sumušė Mas- kvos kariuomenę ties Orša.'
+  teiginys: 'K. Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę.'
   pagrindžia:
     - c-001
 
 - t-005
-  teiginys: 'Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
+  teiginys: 'Lietuvos hetmonas Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visos Maskvos jėgos buvo nu-
@@ -65,8 +66,10 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 - c-002
+  santrauka: 'Oršoje įsteigta jėzuitų kolegija buvo karaliaus Zigmanto fundacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo
@@ -103,6 +106,7 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
     - t-003
 
 - c-004
+  santrauka: 'Lietuvos hetmonas Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet tuo tarpu atvykęs Lietuvos hetmonas
@@ -113,17 +117,3 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visos Maskvos jėgos buvo nu-
-    kreiptos į Smolenską. Jis buvo net 3 sykius apgultas ir pagaliau,
-    Glinskiui sukėlus viduje sąmokslą, buvo paimtas (1514 m.).
-    Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
-    kvos kariuomenę ties Orša.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001

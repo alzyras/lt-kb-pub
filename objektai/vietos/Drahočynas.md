@@ -30,7 +30,7 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
     - c-002
 
 - t-003
-  teiginys: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  teiginys: 'Vytautas Drahočyne pastatė bažnyčią.'
   pagrindžia:
     - c-003
 
@@ -69,7 +69,7 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
     - t-002
 
 - c-003
-  santrauka: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  santrauka: 'Vytautas Drahočyne pastatė bažnyčią.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pane­

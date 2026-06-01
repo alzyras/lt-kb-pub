@@ -28,23 +28,24 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį.'
+  teiginys: 'Nuo 1541 m. Mikalojus Radvila Juodasis nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Vėliau, apie 1601 metus, abu namai - Goštautų ir Filipovo - kartu sujungti Albrechto Radvilos lai­ kais, gavo bendrą Kardinalijos pa­ vadinimą, išlikusį iki mūsų laikų.'
+  teiginys: 'Apie 1601 m. Goštautų ir Filipovo namai Albrechto Radvilos laikais buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios Kunigaikštystės rūmų maršalka, tapo savininku namų, vadintų Filipovo namais, susidedančių iš keleto medinių, moliu aplipdytų, pastatų, užimančių dabartinį Kardinalijos sparną nuo.'
+  teiginys: 'Mikalojus Kristupas Radvila tapo Filipovo namų, sudarytų iš kelių medinių moliu aplipdytų pastatų, savininku.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nuo 1541 m. Mikalojus Radvila Juodasis nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tą Fi-
@@ -69,6 +70,7 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
     - t-001
 
 - c-002
+  santrauka: 'Apie 1601 m. Goštautų ir Filipovo namai Albrechto Radvilos laikais buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kardinolas Radvila
@@ -91,6 +93,7 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
     - t-002
 
 - c-003
+  santrauka: 'Mikalojus Kristupas Radvila tapo Filipovo namų, sudarytų iš kelių medinių moliu aplipdytų pastatų, savininku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčią, visą mū­

@@ -31,17 +31,17 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - t-001
   teiginys: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno teritorijoje nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   pagrindžia:
-    - c-004
+    - c-005
 
 - t-003
   teiginys: 'Vokiečių ekspansija buvo nublokšta iki Dauguvos, į XIII a.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Lietuvos vyriausybė negalėjo užkirsti jai kelio, nes tuo metu Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.'
@@ -54,9 +54,9 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-003
 
 - t-006
-  teiginys: 'Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+  teiginys: 'Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-007
   teiginys: 'Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė ordino kariuomenę.'
@@ -122,33 +122,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    AN
-    a!
-    2
-
-    ## Puslapis 19
-
-    [tuščias arba OCR neatpažino teksto]
-
-    ## Puslapis 20
-
-    NUO PAGONIŠKOSIOS IKI
-    VYTAUTO IMPERIJOS
-
-    Baltų gentys
-    Pirmajame tūkstantmetyje po Kristaus baltų gentys ir toliau gy-
-    veno plačioje teritorijoje - nuo maždaug Vyslos ir Dauguvos
-    žemupių iki dabartinės Maskvos. Didžiojo tautų kraustymosi epo-
-    choje joms tekdavo gintis nuo hunų ir kitų klajoklių puldinėjimų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
     Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę
 
     Mūšio padariniai
@@ -165,7 +138,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
   santrauka: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -202,9 +175,10 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
-- c-007
-  santrauka: 'Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+- c-006
+  santrauka: 'Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet, neatvykus Naugardo ka-

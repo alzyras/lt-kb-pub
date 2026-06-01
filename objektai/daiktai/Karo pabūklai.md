@@ -68,7 +68,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]]
 - [[objektai/zodynas/šeimynykštis]]
 - [[objektai/zodynas/šeimynykštis famulus]]

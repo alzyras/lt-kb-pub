@@ -30,17 +30,17 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Įgudęs lietuvių istorijos žinovas Ig­ nacas Onacevičius su retai sutinkamu palankumu atidavė man savo pastabas ir įdomias žinias, tam darbui pritinkančias.'
+  teiginys: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Raštininkas Mikola Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­ rika, XVI, 80, karalius priekaištavo Vilniaus magistratui: Kad nesutaria su bendruomene.'
+  teiginys: '1524 m. Lietuvos Metrika patvirtina karaliaus priekaištus Vilniaus magistratui dėl nesutarimų su bendruomene.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­ tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52.'
+  teiginys: 'Lietuvos maršalkos Chreptavičiaus ataskaita liudijo, kad Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla teikė pajamų karaliaus iždui.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1524 m. Lietuvos Metrika patvirtina karaliaus priekaištus Vilniaus magistratui dėl nesutarimų su bendruomene.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Raštininkas Mikola
@@ -70,6 +71,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Lietuvos maršalkos Chreptavičiaus ataskaita liudijo, kad Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla teikė pajamų karaliaus iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus mo­
@@ -89,6 +91,7 @@ amziai:
     - t-003
 
 - c-003
+  santrauka: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įgudęs lietuvių istorijos žinovas Ig­

@@ -46,13 +46,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '2 Tas pats dviejų aukštų pastatas, la­ bai storo mūro sienomis, stovintis šalimais katedros bokšto, iki 1832 metų priklausęs diecezijos konsisto­ rijai ir gyvenamas kunigų invalidų, minėtais metais, kaip ir daugelis ki­ tų mūrinių pastatų, supančių kated­ ros.'
+  teiginys: 'Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas su langu, pro kurį žyniai ir pranašai skelbdavo pranašystes žmonėms.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas su langu, pro kurį žyniai ir pranašai skelbdavo pranašystes žmonėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šalimais jo apvalus bokštas, iš plytų
@@ -94,34 +100,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: '2 Tas pats dviejų aukštų pastatas, la­ bai storo mūro sienomis, stovintis šalimais katedros bokšto, iki 1832 metų priklausęs diecezijos konsisto­ rijai ir gyvenamas kunigų invalidų, minėtais metais, kaip ir daugelis ki­ tų mūrinių pastatų, supančių kated­ ros.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    2
-    Tas pats dviejų aukštų pastatas, la­
-    bai storo mūro sienomis, stovintis
-    šalimais katedros bokšto, iki 1832
-    metų priklausęs diecezijos konsisto­
-    rijai ir gyvenamas kunigų invalidų,
-    minėtais metais, kaip ir daugelis ki­
-    tų mūrinių pastatų, supančių kated­
-    ros aikštę, buvo nugriautas, kad bū­
-    tų atvira naujos tvirtovės nuokalnė.
-    3
-    Dabartinė katedros varpinė, anot
-    Lietuvos kronikininkų ir vietos žmo­
-    nių padavimų, buvęs tas pats bokš­
-    tas, iš kurio Lizdeika ir jo pirmtakai
-    iškilmingai pasirodydavę Vilniaus
-    pagonims paskelbti blogos ar geros
-    pranašystės. Tačiau nėra patikimų
-    tam įrodymu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -129,4 +107,3 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/zodynas/diecezija]]
-- [[objektai/zodynas/vaidilos, žyniai ir pranašai]]

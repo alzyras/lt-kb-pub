@@ -28,13 +28,14 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
 ## Teiginiai
 
 - t-001
-  teiginys: 'Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų.'
+  teiginys: 'Vilniaus kanauninkas Eustachijus Kotovičius 1677 m. už 750 auksinų nusipirko mūrinį namą Bernardinų gatvėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus kanauninkas Eustachijus Kotovičius 1677 m. už 750 auksinų nusipirko mūrinį namą Bernardinų gatvėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet Vilniaus mūriniai namai, Valerijono bursai užrašyti

@@ -67,4 +67,3 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]

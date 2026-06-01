@@ -20,13 +20,14 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, o Po­ dolėje - su Švitrigailos šalininkais, remiamais Moldovos ku­ nigaikščių.'
+  teiginys: 'Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais tuo metu kovojo Jogaila.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais tuo metu kovojo Jogaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šį karą kurstė neblėstantis
@@ -52,4 +53,5 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/grupes/Švitrigailos šalininkai]]

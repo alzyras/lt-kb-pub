@@ -20,36 +20,19 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad todėl turbūt galima manyti, jog vyriausieji žyniai tikrai buvo, šalia jų egzistavo, matyt, ir žemesnio rango žyniai, atliekantys, pvz., pagoniškąsias laidotuvių apeigas ir kt. (Łowmiański H., Studja..., 2, p. 205; apie „nepaprastus” žmones, vaidilas ir kt.—.'
-  pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 63— tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas, kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su.'
-  pagrindžia:
-    - c-003
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apieras darydavo ir degindavo dievams Krivaičiai; Perkūnas gerbiamas buvo ant Rudaminos piliakalnio (Dovydaitis Pr., Biržiška M., Auka, p. 153—154).'
+  teiginys: 'Baltų religijoje, tikėtina, buvo vyriausiųjų ir žemesnio rango žynių, atlikdavusių pagoniškas laidotuvių apeigas.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Žynio pasiuntinys su krivūle ar kitu ženklu susilaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Liaudies
-    tradicija mena, kad ant Kaukų kalnelio apieras darydavo ir degindavo dievams Krivaičiai;
-    Perkūnas gerbiamas buvo ant Rudaminos piliakalnio (Dovydaitis Pr., Biržiška M., Auka,
-    p. 153—154).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
+  santrauka: 'Baltų religijoje, tikėtina, buvo vyriausiųjų ir žemesnio rango žynių, atlikdavusių pagoniškas laidotuvių apeigas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl turbūt galima manyti,
@@ -63,7 +46,8 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
+  santrauka: 'Žynio pasiuntinys su krivūle ar kitu ženklu susilaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     63—
@@ -88,4 +72,4 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
 ### Susiję objektai
 - [[objektai/posakiai/negęstančiąją ugnį]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/posakiai/kurį gerbė kaip popiežių]]
+- [[objektai/grupes/Baltai]]

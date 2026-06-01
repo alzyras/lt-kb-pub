@@ -40,7 +40,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Studijos Europos universitetuose: lietuvos žmonės pradėjo šviestis, vyko mokytis į Europos universitetus. Prasi- dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai praturtėjo.'
+  teiginys: 'Lietuvai tapus krikščioniška valstybe, Lietuvos žmonės pradėjo vykti mokytis į Europos universitetus.'
   pagrindžia:
     - c-002
 
@@ -74,6 +74,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Lietuvai tapus krikščioniška valstybe, Lietuvos žmonės pradėjo vykti mokytis į Europos universitetus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pa-

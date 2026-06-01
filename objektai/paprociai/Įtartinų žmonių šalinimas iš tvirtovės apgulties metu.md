@@ -40,18 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tas šaunus karys, išvaręs iš tvir­ tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­ čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­ liams.'
+  teiginys: 'Moskoževskis iš tvirtovės išvarė įtartinus žmones, galėjusius slapta palaikyti Vytautą, ir penkias savaites atrėmė apgultį.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'O bijodami iš­ davystės, iš savųjų tarpo galinčios rastis, rusus ir įtartinus žmones iš­ vijo iš pilies, patys narsiai gynėsi, o vokiečius, dieną ir naktį atakuojan­ čius, atremdami, tas vietas, kur mū­ rai nuo nuolatinio šaudymo griuvo, žeme ir mėšlu.'
+  teiginys: 'Aukštutinės pilies gynėjai, bijodami išdavystės, iš pilies išvijo rusus ir įtartinus žmones.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Moskoževskis iš tvirtovės išvarė įtartinus žmones, galėjusius slapta palaikyti Vytautą, ir penkias savaites atrėmė apgultį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ši Karigailos žūtis buvo dauge-
@@ -79,6 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Aukštutinės pilies gynėjai, bijodami išdavystės, iš pilies išvijo rusus ir įtartinus žmones.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     35

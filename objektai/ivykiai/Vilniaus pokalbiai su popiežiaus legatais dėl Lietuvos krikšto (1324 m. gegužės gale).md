@@ -44,7 +44,7 @@ Nenurodyta
 - t-001
   teiginys: 'Popiežiaus delegato pasiuntiniai savo platų pranešimą apie pokalbius Vilniuje (1324 gegužės gale) baigė desperatišku prierašu : « ...'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-002
   teiginys: 'Išvykdami iš Livonijos, popiežiaus legatai įsakė su Gediminu nekariauti ketverius metus, nes buvo turima vilčių, kad per tą laiką Gediminas galįs pasikrikštyti.'
@@ -52,7 +52,7 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Prūsijos kryžiuočiai dovanojo drabužius ir gėrybes Žemaičių galingiesiems, kad šie sukiltų prieš Gediminą, jei jis priimtų tikėjimą.'
+  teiginys: 'Per Vilniaus pokalbius pranešta, kad Prūsijos kryžiuočiai dovanomis skatino Žemaičių galinguosius sukilti prieš Gediminą.'
   pagrindžia:
     - c-001
 
@@ -67,9 +67,9 @@ Nenurodyta
     - c-002
 
 - t-006
-  teiginys: 'Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­ darytoji taika.'
+  teiginys: 'Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -92,6 +92,7 @@ Nenurodyta
   pagrindžia:
     - t-004
     - t-003
+    - t-001
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -122,40 +123,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­
-    darytoji taika. Išvykdami iš Livonijos, popiežiaus legatai įsakė
-    su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
-    kad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­
-    čiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios
-    taikos, ir karą tepradėjo 1328 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Popiežiaus delegato pasiuntiniai savo
-    platų pranešimą apie pokalbius Vilniuje (1324 gegužės gale) baigė
-    desperatišku prierašu : « ... slaptai sužinojome ..., kad broliai Prū­
-    sijos kryžiuočiai padovanojo daug drabužių ir gėrybių Žemaičių
-    galingiesiems su ta sąlyga, kad jie sukiltų prieš karalių, sakydami,
-    jei jis priims tikėjimą, jie išnaikinsią jį, jo sūnus ir visus jo šali­
-    ninkus ir išvysią drauge su teutonų ordino broliais iš savo kara­
-    lystės ir iš savo pašaknų visus išrausią. Tų grasinimų žodžiai daug
-    kartų tais metais buvo sakomi karaliui tiesiog į akis. Panašius
-    grasinimus kalbėjo prieš jį ir rusai »^13.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

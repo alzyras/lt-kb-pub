@@ -27,13 +27,14 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai nužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus bei surėmę į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems.'
+  teiginys: 'Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė
@@ -60,5 +61,4 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Baigos pilies užėmimas (1239 m.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

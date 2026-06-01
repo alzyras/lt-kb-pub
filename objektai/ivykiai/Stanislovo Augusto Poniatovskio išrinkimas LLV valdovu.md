@@ -50,25 +50,11 @@ Nenurodyta
 - t-002
   teiginys: 'Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislo-
-    vas Augustas Poniatovskis. Nors jis ne iš tų valdovų, kurie lemia istorijos
-    vyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai
-    ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
-    nijos ir sunaikinimo epocha.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -85,6 +71,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

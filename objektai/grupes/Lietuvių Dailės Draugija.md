@@ -21,7 +21,7 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
 - t-001
   teiginys: 'Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengti viešas dailės parodas, bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Dailės ir vaizduojamojo meno bei architektūros srityje taip pat pastebėtas draugijų paralelizmas.'
@@ -48,24 +48,6 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dailės ir vaizduojamojo me-
-    no bei architektūros srityje taip
-    pat pastebėtas draugijų paraleliz-
-    mas. Lietuviai pirmieji Vilniuje
-    įkūrė Lietuvių dailės draugiją, pra-
-    dėjo rengti viešas dailės parodas,
-    bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių
-    lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją. Kai
-    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
-    džiama priklausyti ir abiem tuo pat metu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

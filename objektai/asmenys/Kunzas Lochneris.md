@@ -59,7 +59,6 @@ tags:
 - [[objektai/grupes/Radvilos]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
 - [[objektai/asmenys/Romanas Sanguška]]

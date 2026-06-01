@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
+  teiginys: 'Jurgis Radvila Vilniaus klierikų kolegijai funduoti ir aprūpinti pridėjo savo patrimonialinį Vozgėliškių dvarelį Vilniaus paviete.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jurgis Radvila Vilniaus klierikų kolegijai funduoti ir aprūpinti pridėjo savo patrimonialinį Vozgėliškių dvarelį Vilniaus paviete.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
@@ -86,6 +87,8 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/diecezija]]
+- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
 - [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]

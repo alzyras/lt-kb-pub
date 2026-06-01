@@ -27,27 +27,27 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
+  teiginys: 'Ulrikas Hozijus įvykdė karaliaus pavedimą: per Viliją pastatė mūrinį tiltą, o po jo mirties darbus užbaigė sūnus Jonas.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: ') Žy­ gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­ niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą jo tėviško rūpinimosi tauta.'
+  teiginys: '1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.'
   pagrindžia:
     - c-006
 
 - t-003
-  teiginys: 'O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.'
+  teiginys: 'Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus malūnas.'
+  teiginys: '1529 m. Albertas Goštautas gavo karaliaus leidimą priešais Žemutinės Vilniaus pilies vartus nutiesti tiltą per Viliją.'
   pagrindžia:
     - c-001
 
 - t-005
-  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
+  teiginys: 'Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1529 m. Albertas Goštautas gavo karaliaus leidimą priešais Žemutinės Vilniaus pilies vartus nutiesti tiltą per Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O po kele­
@@ -77,6 +78,7 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     - t-004
 
 - c-002
+  santrauka: 'Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu
@@ -122,6 +124,7 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     - t-005
 
 - c-003
+  santrauka: 'Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tie, kuriuos minėtas garbingasis Jonas Hozijus
@@ -157,6 +160,7 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     - t-003
 
 - c-004
+  santrauka: 'Ulrikas Hozijus įvykdė karaliaus pavedimą: per Viliją pastatė mūrinį tiltą, o po jo mirties darbus užbaigė sūnus Jonas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios bažnyčios pastatyti vie­
@@ -201,6 +205,7 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     - t-006
 
 - c-006
+  santrauka: '1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS

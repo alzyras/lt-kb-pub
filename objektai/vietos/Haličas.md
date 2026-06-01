@@ -24,7 +24,7 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
 ## Teiginiai
 
 - t-001
-  teiginys: '48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą.'
+  teiginys: 'Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
     - t-002
 
 - c-002
+  santrauka: 'Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     PIRMOSIOS

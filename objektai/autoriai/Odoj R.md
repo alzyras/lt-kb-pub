@@ -25,13 +25,14 @@ Dusburgietis teigia, kad odoj R.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad odoj R.'
+  teiginys: 'R. Odoj paskelbė darbą apie archeologijos pasiekimus Varmijoje ir Mozūrijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Odoj paskelbė darbą apie archeologijos pasiekimus Varmijoje ir Mozūrijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z. 2, s.

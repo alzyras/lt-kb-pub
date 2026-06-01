@@ -21,11 +21,6 @@ Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivy
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivystęs žemės ūkis, mokesčius mokėjo lau­ kinių žvėrių kailiukais, medumi^3 ).'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +38,7 @@ Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivy
     - t-001
 
 - c-002
-  santrauka: 'Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivystęs žemės ūkis, mokesčius mokėjo lau­ kinių žvėrių kailiukais, medumi^3 ).'
+  santrauka: 'Aukštutinės Dauguvos ir Dniepro sričių gyventojai mokesčius mokėjo laukinių žvėrių kailiukais ir medumi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žemai­

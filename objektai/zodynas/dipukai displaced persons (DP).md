@@ -30,9 +30,9 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
     - c-002
 
 - t-002
-  teiginys: '5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 225 Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
+  teiginys: 'Prasidėjus Šaltajam karui, JAV pakeitė požiūrį į dipukus ir 1948 m. priėmė Perkeltųjų asmenų įstatymą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Vokietijai pralaimėjus karą, kai kurie pabėgėliai pateko į dipukų, arba perkeltųjų asmenų, stovyklas.'
@@ -54,20 +54,7 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
     - t-003
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti
-    savo požiūrį į dipukus. 1948 m. viduryje JAV Kongresas priėmė vadi-
-    namąjį Perkeltųjų asmenų įstatymą, kuriame buvo numatoma įsileisti
-    205 tūkst. dipukų (tarp jų – 40 proc. Baltijos valstybių ir Lenkijos pa-
-    bėgėlių bei tremtinių).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
+  santrauka: 'Prasidėjus Šaltajam karui, JAV pakeitė požiūrį į dipukus ir 1948 m. priėmė Perkeltųjų asmenų įstatymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
@@ -82,6 +69,7 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

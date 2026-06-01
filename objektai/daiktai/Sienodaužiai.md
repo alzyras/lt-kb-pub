@@ -48,7 +48,7 @@ Nenurodyta
 - t-001
   teiginys: 'Apgultos aukštos ir stiprios pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Torno analuose pažymėta, kad lietuviai, puldami Gotteswerderi, naudojo 15 mašinų ir 5 sienodaužius^19.'
@@ -58,7 +58,7 @@ Nenurodyta
 - t-003
   teiginys: 'Torno analuose pažymėta, kad lietuviai, puldami Gotteswerderį, naudojo 15 mašinų ir 5 sienodaužius.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
   teiginys: 'Jos mūrams griauti čia pat buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
@@ -80,6 +80,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -96,35 +97,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kęstutis ją, po 5 savaites trukusio apgulimo, naudodamas sienoms
-    griauti mašinas, paėmė. Torno analuose pažymėta, kad lietuviai,
-    puldami Gotteswerderi, naudojo 15 mašinų ir 5 sienodaužius^19.
-    Tačiau kryžiuočiai tuojau pat Gotteswerderi užpuolė ir, lietuviams
-    keršydami, pilį su jos 109 gynėjais sudegino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tris savaites už­
-    trukęs apgulimas buvo atliktas gerai pasiruošus, nes «pilis buvo
-    labai aukšta ir stipri ». Jos mūrams griauti čia pat buvo pastatyti
-    sienodaužiai ir pilies mūrų aukščio bokštas. Atskirus pilies puolimo
-    epizodus plačiai aprašęs, Wigandas pastebi, jog «pagonys buvo
-    puolami dieną ir naktį », « bet jie, krikščionių nelaimei, karžygiškai
-    gynėsi ».
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

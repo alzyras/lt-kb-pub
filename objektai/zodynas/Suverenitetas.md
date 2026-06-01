@@ -42,12 +42,12 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuvos Tarybų respublikos suverenumas šaltinyje vaizduojamas kaip įvykdytas 1940 m.'
+  teiginys: 'Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Dubysos sutartyje Jogailos suverenumas buvo siaurinamas.'
+  teiginys: 'Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.'
   pagrindžia:
     - c-005
 
@@ -57,7 +57,7 @@ Nenurodyta
     - c-001
 
 - t-004
-  teiginys: 'Suverenumas siejamas su abipuse pareiga gerbti valstybių teritorinį integralumą ir neliečiamybę.'
+  teiginys: '1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.'
   pagrindžia:
     - c-002
 
@@ -94,6 +94,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš politinių sutarčių paminėtinos yra drau-
@@ -134,6 +135,7 @@ Nenurodyta
     - t-005
 
 - c-004
+  santrauka: 'Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Neigdami
@@ -153,6 +155,7 @@ Nenurodyta
     - t-001
 
 - c-005
+  santrauka: 'Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila
@@ -207,5 +210,4 @@ Nenurodyta
 - [[objektai/posakiai/„žingsnis po žingsnio“]]
 - [[objektai/paprociai/Konstitucinė tautos teisė priešintis prievarta kėsinantis į valstybės nepriklausomybę]]
 - [[objektai/ivykiai/Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)]]
-- [[objektai/posakiai/„suverenitetų parado“]]
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]

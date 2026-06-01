@@ -36,15 +36,4 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai ir stavanai ligi alanų; už jų igilionai...'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir
-    sudinai ir stavanai ligi alanų; už jų igilionai... ».
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

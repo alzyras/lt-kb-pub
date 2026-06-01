@@ -54,29 +54,6 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     - t-001
 
 - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    sukilėlių vadas nepasižymėjo karo
-    vado sugebėjimais, buvo silpnos
-    sveikatos, jo nesugebėjimas deramai
-    vadovauti vėliau skaudžiai atsiliepė
-    sukilimo baigčiai. Liepos ir rugpjū-
-    čio mėnesiais Vilniaus gynybai tie-
-    siogiai vadovavo generolas majoras
-    Jonas Mejenas.
-
-    Rusijos pajėgų vadovybė
-    Rusijos pajėgų, nukreiptų prieš
-    sukilėlius, vyriausiasis vadas
-    buvo generolas leitenantas Niko-
-    lajus Repinas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Liepos ir rugpjūčio mėnesiais Vilniaus gynybai tiesiogiai vadovavo generolas majoras Jonas Mejenas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -107,6 +84,7 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

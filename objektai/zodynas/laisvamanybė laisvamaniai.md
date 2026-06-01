@@ -60,4 +60,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
-- [[objektai/grupes/Tautininkai]]

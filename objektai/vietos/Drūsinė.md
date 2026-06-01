@@ -20,7 +20,7 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vidurio dokumentuose — Drusnie, Drusa ir pan. (PUB, 1, 1, p. 108, 132); terra Drusen — žemė, kurioje pastatytas Elbingas (SRP, 2, p. 404). Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso. IX a. čia (apie.'
+  teiginys: 'Drūsinė XIII a. vidurio dokumentuose minima kaip Drusnie arba Drusa, o apie 890 m. Vulfstanas vietovardį užrašė kaip Truso.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Drūsinė XIII a. vidurio dokumentuose minima kaip Drusnie arba Drusa, o apie 890 m. Vulfstanas vietovardį užrašė kaip Truso.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     238 D — stagnum Drusine, Jer — Drûsin; XIII a. vidurio dokumentuose — Drusnie,

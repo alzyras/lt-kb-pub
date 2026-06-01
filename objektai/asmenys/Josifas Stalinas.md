@@ -36,7 +36,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - t-002
   teiginys: 'Stalino statulų, prikabinėta komunistinių šūkių.'
   pagrindžia:
-    - c-009
+    - c-005
 
 - t-003
   teiginys: 'Sovietmečiu mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus bei komunistų partijos dokumentus.'
@@ -54,7 +54,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-003
 
 - t-006
-  teiginys: 'Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziškai, ištremti, bažnyčias paversti sandėliais, o N.'
+  teiginys: 'Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias versti sandėliais.'
   pagrindžia:
     - c-007
 
@@ -86,7 +86,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - t-012
   teiginys: 'J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio.'
   pagrindžia:
-    - c-010
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -172,6 +172,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   statusas: verified
   pagrindžia:
     - t-009
+    - t-002
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -228,21 +229,6 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - t-010
 
 - c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
-    no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-
-    draustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“. Lietu-
-    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
-    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
-    kabinėta komunistinių šūkių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karas po karo – ginkluota rezistencija

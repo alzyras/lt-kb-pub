@@ -29,7 +29,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 - t-001
   teiginys: 'Lietuvoje sukilimas prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios paskelbto rekrutų ėmimo.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).'
@@ -44,7 +44,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 - t-004
   teiginys: '1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -62,6 +62,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -82,21 +83,6 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    „Baltieji“ vylėsi, kad, kilus sukilimui, Rusiją paspaus didžio-
-    sios Vakarų valstybės – Krymo karo nugalėtojos.
-    1863–1864 metų sukilimas
-    1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-
-    mas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam
-    dar nebuvo pasiruošta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
     sosto ir perduodąs suverenitetą tautai. Tai reiškė Lenkijos karalystės ne-
     priklausomybės paskelbimą ir karo su Rusija pradžią. Lietuvoje sukilimas
@@ -108,7 +94,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   pagrindžia:
     - t-001
 
-- c-005
+- c-004
   santrauka: 'Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

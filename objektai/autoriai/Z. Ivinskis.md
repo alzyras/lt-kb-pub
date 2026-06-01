@@ -48,33 +48,33 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - t-002
   teiginys: 'Zenonas Ivinskis savo vardu ir pavarde pasirašė veikalo pratarmę Bonoje 1970 m. spalio 15 d.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-003
   teiginys: 'Ivinskis, Z. (Bražėnas) nurodomas kaip tekstų „Lietuvių tautos istorijos periodizacijos metmens“ ir „Lietuvos ir kitų baltų praeitis sovietų aiškinime“ autorius.'
   pagrindžia:
     - c-003
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Z. Ivinskis siejamas su vokišku straipsniu „Die baltische Frage im 17. Jahrhundert“.'
   pagrindžia:
-    - c-004
+    - c-007
 
 - t-005
-  teiginys: 'Z. Ivinskis minimas tarp autorių, laikiusių Gedimino laiškus glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
+  teiginys: 'Zenonas Ivinskis Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
   pagrindžia:
     - c-002
 
 - t-006
   teiginys: 'Įžangoje nurodoma, kad jaunieji istorikai į pasitarimą dėl knygos buvo susirinkę Z. Ivinskio pakviesti.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-007
   teiginys: 'Ivinskio, kadangi tai ne lokaliniai, o plataus masto veiksmai, vykę Lietuvos vakaruose, tai 4000 lietuvių pajėgas reikia suprasti kaip jungtines žemaičių ir paties Lietuvos valdovo karaliaus Mindaugo karines pajėgas, nukreiptas prieš Ordiną.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -95,6 +95,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     - t-001
 
 - c-002
+  santrauka: 'Zenonas Ivinskis Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kadangi dėl tų laiškų autentiškumo ginčas tebesitęsia nuo pat
@@ -128,17 +129,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    (^19) **Z. Ivinskis:** **_Die baltische Frage im 17_****. Jahrhundert, leidiny:** **_Der
-    Ostseeraum im Blickfeld der deutschen Geschichte,_** **Köln-Wien 1970, 119-140 p.**
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
     Bagdanavičius, V. : _Sovietinė Lietuvos istoriografija_. _Kritiškas
     LTSR Istorijos I tomo įvertinimas,_ TaPr, I, 1, 1959, 3-24 p. —Dundu­
     lis, B. : _Lietuvos TSR istorijos pirmasis tomas,_ Komunistas, 1958, nr.
@@ -154,7 +144,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ypač tai buvo jaučiama, kai pradėta
@@ -168,7 +158,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   pagrindžia:
     - t-006
 
-- c-007
+- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. Dusburgietis pažymi, kad „keturi
@@ -186,7 +176,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   pagrindžia:
     - t-007
 
-- c-008
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1492-ieji metai sudaro tad piūvį tarp dviejų epochų. Nors
@@ -200,6 +190,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

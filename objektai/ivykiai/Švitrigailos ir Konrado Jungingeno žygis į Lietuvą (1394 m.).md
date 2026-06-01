@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­ gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­ tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­ sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos -- • -- 135 ##.'
+  teiginys: 'Švitrigaila, pasipiktinęs Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švitrigaila, pasipiktinęs Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juk

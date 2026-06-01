@@ -28,7 +28,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab.'
+  teiginys: 'Kroicburgas, dabartinis Slavskoje, buvo į pietus nuo Frišingo upės ir į rytus nuo Baigos.'
   pagrindžia:
     - c-001
 
@@ -60,6 +60,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kroicburgas, dabartinis Slavskoje, buvo į pietus nuo Frišingo upės ir į rytus nuo Baigos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab. Slavskoje)  į

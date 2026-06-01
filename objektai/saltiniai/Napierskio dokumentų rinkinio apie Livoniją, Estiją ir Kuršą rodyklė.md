@@ -18,13 +18,14 @@ Napiersk i s, išleidęs tik dokumentų rinkinio apie Livoniją, Estiją ir Kur�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Napiersk i s, išleidęs tik dokumentų rinkinio apie Livoniją, Estiją ir Kuršą Rodyk­ lę, yragal labiau vertas pripažinimo už daugelį kitų, spausdinančių sa­ vo gražbylius samprotavimus, ne kartą istorinę tiesą užtemdžiusius, istorija vadinamus.'
+  teiginys: 'Napierskis išleido dokumentų rinkinio apie Livoniją, Estiją ir Kuršą rodyklę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Napierskis išleido dokumentų rinkinio apie Livoniją, Estiją ir Kuršą rodyklę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kotzebue,

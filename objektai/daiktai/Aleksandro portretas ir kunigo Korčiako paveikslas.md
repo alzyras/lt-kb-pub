@@ -47,29 +47,14 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą.'
+  teiginys: 'Šv. Dvasios dominikonų bažnyčioje buvo matomas karaliaus Aleksandro portretas visu ūgiu ir tokio pat dydžio kunigo Korčiako paveikslas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iki šiol Šv. Dvasios dominikonų baž­
-    nyčioje galima pamatyti karaliaus
-    Aleksandro portretą visu ūgiu ant
-    pirmosios kolonos nuo įėjimo deši­
-    nėje pusėje, o ant priešais stovinčios -
-    tokio pat didumo kunigo Korčiako
-    paveikslą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Šv. Dvasios dominikonų bažnyčioje buvo matomas karaliaus Aleksandro portretas visu ūgiu ir tokio pat dydžio kunigo Korčiako paveikslas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pa-
@@ -90,6 +75,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

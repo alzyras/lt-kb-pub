@@ -29,13 +29,14 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
     - c-002
 
 - t-002
-  teiginys: '1946 m. Žaliam Velniui patekus į Juozo Markulio-Erelio pinkles, beveik visa DKA buvo sunaikinta.'
+  teiginys: '1946 m. Žaliam Velniui patekus į Juozo Markulio-Erelio pinkles, beveik visa Didžiosios kovos apygarda buvo sunaikinta.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1946 m. Žaliam Velniui patekus į Juozo Markulio-Erelio pinkles, beveik visa Didžiosios kovos apygarda buvo sunaikinta.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1946 m. Žalias Velnias pateko į viso Lietuvos išsivadavimo judėjimo vadu pasiskelbusio

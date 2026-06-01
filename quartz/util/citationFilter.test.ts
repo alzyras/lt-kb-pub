@@ -5,6 +5,7 @@ import os from "node:os"
 import path from "node:path"
 import {
   CITATION_SECTION_TITLES,
+  collectClaimCount,
   collectCitationMetadata,
   normalizeCitationSourceId,
   parseEvidenceSections,
@@ -77,6 +78,24 @@ describe("citationFilter metadata", () => {
         },
       ],
     )
+  })
+
+  test("collects claim counts from the Teiginiai section", () => {
+    const withClaims = `${markdown}
+## Teiginiai
+- t-001
+  teiginys: Pirmas teiginys.
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: Antras teiginys.
+  pagrindžia:
+    - c-002
+
+## Ryšiai
+- [[Kitas]]
+`
+    assert.equal(collectClaimCount(withClaims), 2)
   })
 
   test("builds global citation source registry from processed content", () => {

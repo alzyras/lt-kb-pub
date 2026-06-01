@@ -69,4 +69,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos laisvės lyga]]
 - [[objektai/grupes/Lietuvos disidentai]]
-- [[objektai/zodynas/rezistentas]]

@@ -39,7 +39,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero, pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -62,36 +61,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
-    pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną
-    sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
-    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į
-    nelaisvę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero, pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    158 (153). Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
-
-      Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
-    pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną
-    sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
-    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į
-    nelaisvę.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -103,4 +72,3 @@ Nenurodyta
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/ginklanešiai]]
-- [[objektai/paprociai/Sekmadieninis kaimo žmonių linksminimasis ir šokiai]]

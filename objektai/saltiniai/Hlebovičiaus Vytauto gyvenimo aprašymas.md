@@ -20,13 +20,14 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, išskyrus mūrinę da­ lį, sudeginta; Aukštutinė tvirtovė pagaliau per daugybę išardų susilpninta; tiktai neįveikiamas Moskoževskis su dar ir Onacevičiaus pastabą, prie Hlebovičiaus.'
+  teiginys: 'Po kryžiuočių antpuolio Vilnius buvo smarkiai sunaikintas, o Kreivoji, arba Žemutinė, pilis sudeginta.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po kryžiuočių antpuolio Vilnius buvo smarkiai sunaikintas, o Kreivoji, arba Žemutinė, pilis sudeginta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didelė dalis gyventojų žuvo per kautynes prie Žemuti­

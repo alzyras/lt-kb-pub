@@ -42,7 +42,6 @@ Nenurodyta
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami.'
   pagrindžia:
-    - c-003
     - c-002
 
 ## Reikšmingi paminėjimai
@@ -79,22 +78,6 @@ Nenurodyta
     piliai padegti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    122 (117). Apie Vėluvos pilies puolimą
-
-      Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
-    su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
-    dienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo  į
-    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
-    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
     - t-002

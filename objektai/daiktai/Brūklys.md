@@ -77,4 +77,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Akstys]]
-- [[objektai/daiktai/Karinė ginkluotė]]

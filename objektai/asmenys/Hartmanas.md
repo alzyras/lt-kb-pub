@@ -27,13 +27,14 @@ Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
+  teiginys: '1317 m. brolis Hartmanas su Fridrichu Kvicu ir 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1317 m. brolis Hartmanas su Fridrichu Kvicu ir 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     332 (325). Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais

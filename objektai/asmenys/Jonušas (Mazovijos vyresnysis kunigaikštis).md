@@ -20,13 +20,14 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­ gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.'
+  teiginys: 'Jonušas, vyresnysis Mazovijos kunigaikštis, vedė Vytauto seserį Oną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonušas, vyresnysis Mazovijos kunigaikštis, vedė Vytauto seserį Oną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia, krašto reikalus
@@ -60,7 +61,8 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 - [[objektai/zodynas/pataurininkas]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
+- [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
 - [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]
-- [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
 - [[objektai/asmenys/Ona (Vytauto sesuo)]]
+- [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
 - [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]]

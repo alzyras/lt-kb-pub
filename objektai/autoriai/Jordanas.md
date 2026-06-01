@@ -17,13 +17,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad jordanas, gotų istorikas Varmės vysk.'
+  teiginys: 'Jordanas buvo gotų istorikas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jordanas buvo gotų istorikas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Krikštytojas, šv.

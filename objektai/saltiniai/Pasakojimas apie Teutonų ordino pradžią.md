@@ -30,7 +30,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad argi jo troškimai atnešė 155 Pirmas Ordino magistras Henrikas Valpotas (1198—1200) Dusburgiečio šaltinyje („Pasakojime apie Vokiečių ordino pradžią”) vadinamas Hermanu (SRP, t.'
+  teiginys: '„Pasakojime apie Vokiečių ordino pradžią“ pirmasis Ordino magistras Henrikas Valpotas vadinamas Hermanu.'
   pagrindžia:
     - c-001
 
@@ -40,7 +40,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
     - c-003
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad iš „Pasakojimo...” žinome, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę, o ją iš pradžių valdė kapelionas Konradas ir kamerarijus Burhardas, kurie po Akono paėmimo pastatė ir bažnyčią.'
+  teiginys: '„Pasakojime apie Vokiečių ordino pradžią“ nurodoma, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Pasakojime apie Vokiečių ordino pradžią“ pirmasis Ordino magistras Henrikas Valpotas vadinamas Hermanu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išrinktas
@@ -71,6 +72,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
     - t-001
 
 - c-002
+  santrauka: '„Pasakojime apie Vokiečių ordino pradžią“ nurodoma, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš „Pasakojimo...” žinome,

@@ -26,13 +26,14 @@ Tačiau šis Statutas tarnavo išim­ tinai tik šlėktų luomui, nes miestui ku
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau šis Statutas tarnavo išim­ tinai tik šlėktų luomui, nes miestui kuo iškilmingiausiai bu­ vo garantuojamos Magdeburgo teisės.'
+  teiginys: 'Pirmasis Lietuvos Statutas buvo skirtas šlėktų luomui, o miestui buvo garantuojamos Magdeburgo teisės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmasis Lietuvos Statutas buvo skirtas šlėktų luomui, o miestui buvo garantuojamos Magdeburgo teisės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1528 metų sausio 20 dieną karalius pasirašė Žemaičių

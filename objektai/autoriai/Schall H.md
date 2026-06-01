@@ -25,13 +25,14 @@ Dusburgietis teigia, kad schall H.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad schall H.'
+  teiginys: 'H. Schallas 1966 m. žurnale „Baltistica“ paskelbė straipsnį apie baltų vandenvardžius Aukštutinės Havelio upyne.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'H. Schallas 1966 m. žurnale „Baltistica“ paskelbė straipsnį apie baltų vandenvardžius Aukštutinės Havelio upyne.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Schall  H.  Baltische  Gewässernamen  im  Flußsystem  „Obere  Havel“  (Südost-
@@ -41,3 +42,7 @@ Dusburgietis teigia, kad schall H.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]

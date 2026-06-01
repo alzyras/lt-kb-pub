@@ -192,7 +192,6 @@ Nenurodyta
 - [[objektai/grupes/Varniškių būrys]]
 - [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 34]]
 - [[objektai/zodynas/agentas-smogikas]]
-- [[objektai/zodynas/deportacijos trėmimai]]
 - [[objektai/zodynas/dezertyrai]]
 - [[objektai/posakiai/pif paf]]
 - [[objektai/zodynas/pyliavos]]

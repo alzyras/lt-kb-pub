@@ -25,13 +25,14 @@ Dusburgietis teigia, kad tumler M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tumler M.'
+  teiginys: 'M. Tumlerio „Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400“ išleista Vienoje 1954 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Tumlerio „Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400“ išleista Vienoje 1954 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tumler M. Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400 mit einem

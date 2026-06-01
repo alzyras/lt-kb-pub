@@ -43,7 +43,7 @@ Nenurodyta
 - t-001
   teiginys: 'Vistik vien Lietuvos (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent keliasdešimt kunigų vardu.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-002
   teiginys: 'Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be kitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami Deltuvos kunigai.'
@@ -53,7 +53,7 @@ Nenurodyta
 - t-003
   teiginys: '1219 m. grupė Lietuvos kunigų sudarė sutartį su Volinijos kunigaikščio Romano našle.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-004
   teiginys: 'Tarp vyresniųjų Lietuvos kunigų buvo minimi Živinbudas, Daujotas, Dausprungas ir jo brolis Mindaugas.'
@@ -77,6 +77,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -112,22 +113,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O tuometinės Lietuvos priešai kunigų
-    vardus į savo kronikas kartais įtraukdavo tik ryšium su lietuvių
-    karo žygiais, ar taikos sutarčių progomis. Vistik vien Lietuvos
-    (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent
-    keliasdešimt kunigų vardu. Pvz., kai visa grupė Lietuvos kunigų
-    1219 m. darė sutartį su Volinijos kunigaikščio Romano našle, Ipa­
-    tijaus metraštyje buvo paminėtas 21 jų vardas (PSRL, II, 735).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

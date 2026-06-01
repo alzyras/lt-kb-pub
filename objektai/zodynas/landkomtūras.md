@@ -51,4 +51,5 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Luterbergas]]
 - [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus]]

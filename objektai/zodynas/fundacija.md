@@ -20,7 +20,7 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ nyčių Žemaitijoje po krikščionybės įvedimo.'
+  teiginys: 'Vytautui priskirta viena pirmųjų po krikščionybės įvedimo Žemaitijos bažnyčių fundacijų.'
   pagrindžia:
     - c-003
 
@@ -30,12 +30,12 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
     - c-001
 
 - t-003
-  teiginys: 'Tai­ gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­ sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­ rų sužinojome, dabartiniam bažnyčios klebonui, minėtam Valentinui iš Pilzno.'
+  teiginys: 'Remiantis prisiekusių liudininkų duomenimis apie Pabaisko bažnyčios fundaciją, Valentinui iš Pilzno suteikta nauja privilegija.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Netrukus Poznanės vys­ kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­ piežių išprašyti bulės, patvirtinančios naujo ganytojo išrinkimą ir Vilniaus vyskupijos fundaciją.'
+  teiginys: 'Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių prašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją.'
   pagrindžia:
     - c-004
 
@@ -95,6 +95,7 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
     - t-002
 
 - c-002
+  santrauka: 'Remiantis prisiekusių liudininkų duomenimis apie Pabaisko bažnyčios fundaciją, Valentinui iš Pilzno suteikta nauja privilegija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai,
@@ -120,6 +121,7 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
     - t-003
 
 - c-003
+  santrauka: 'Vytautui priskirta viena pirmųjų po krikščionybės įvedimo Žemaitijos bažnyčių fundacijų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pats miestelis dali­
@@ -138,6 +140,7 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
     - t-001
 
 - c-004
+  santrauka: 'Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių prašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O keturi naujai įvesti prelatų ir aštuoni kanauninkų
@@ -202,3 +205,4 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
 - [[objektai/zodynas/prelatai ir kanauninkai]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
+- [[objektai/zodynas/uolektis]]

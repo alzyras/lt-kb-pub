@@ -26,7 +26,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 ## Teiginiai
 
 - t-001
-  teiginys: 'Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­ raliaus paskirtų senatorių pastangomis, išlaisvino miestą nuo ateityje labai nemalonaus monopolio, kuris būtų smar­ kiai pakėlęs stiklo kainą miesto gyventojams55.'
+  teiginys: 'Sutartis su stiklo liejyklos savininku Paleckiu išlaisvino Vilnių nuo stiklo monopolio grėsmės.'
   pagrindžia:
     - c-003
 
@@ -36,7 +36,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     - c-001
 
 - t-003
-  teiginys: 'Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­ šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­ tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig- 32 33 Žr.'
+  teiginys: 'Martynas Paleckis gavo sklypą už Vilijos ir leidimą steigti stiklo liejyklą prie Vilniaus.'
   pagrindžia:
     - c-002
 
@@ -67,6 +67,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     - t-002
 
 - c-002
+  santrauka: 'Martynas Paleckis gavo sklypą už Vilijos ir leidimą steigti stiklo liejyklą prie Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
@@ -91,6 +92,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     - t-003
 
 - c-003
+  santrauka: 'Sutartis su stiklo liejyklos savininku Paleckiu išlaisvino Vilnių nuo stiklo monopolio grėsmės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karališkųjų

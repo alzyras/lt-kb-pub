@@ -36,7 +36,7 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
 - t-003
   teiginys: 'Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstatymu.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -55,20 +55,6 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
     - t-002
 
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Savivaldybės.** Valsčių savivaldybės buvo įkurtos jau
-    1861 m. baudžiavos panaikinimo įstatymu. Muravjovas jas pa-
-    keitė ir naujai pertvarkė. 1861 m. įkurtų valsčių viršaičiai (star-
-    šinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti,
-    buvo atstatyti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstatymu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -84,6 +70,7 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

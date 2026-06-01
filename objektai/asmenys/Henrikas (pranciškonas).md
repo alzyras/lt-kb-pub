@@ -43,6 +43,5 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]

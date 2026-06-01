@@ -19,7 +19,7 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremacijoje.'
+  teiginys: 'Teisiškai Lietuva buvo susieta su Lenkija ir buvo visiškoje jos supremacijoje.'
   pagrindžia:
     - c-001
 
@@ -31,6 +31,7 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Teisiškai Lietuva buvo susieta su Lenkija ir buvo visiškoje jos supremacijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje
@@ -65,7 +66,7 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
     - t-002
 
 - c-003
-  santrauka: 'Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremacijoje.'
+  santrauka: 'Teisiškai Lietuva buvo susieta su Lenkija ir buvo visiškoje jos supremacijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet ir ji duota kartu su Vytautu.

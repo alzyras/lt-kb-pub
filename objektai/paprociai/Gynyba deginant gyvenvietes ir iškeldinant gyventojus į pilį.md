@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Olesnickis, užbėgdamas kryžiuočiams už akių, buvo priverstas paau­ koti miestą gelbėdamas pilis; įsakė tuojau pat sudeginti dar likusius šen bei ten po negandų namus, o jų gyventojus su manta ir maisto atsargomis iškeldinęs į Žemutinę pilį, pats stipriai.'
+  teiginys: 'Gindamas Vilnių Olesnickis įsakė sudeginti likusius miesto namus, o gyventojus su manta ir maisto atsargomis iškeldinti į Žemutinę pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gindamas Vilnių Olesnickis įsakė sudeginti likusius miesto namus, o gyventojus su manta ir maisto atsargomis iškeldinti į Žemutinę pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Už­

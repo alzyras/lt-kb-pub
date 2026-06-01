@@ -32,12 +32,12 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šiame šaltinyje `alodas` tiesiogiai paaiškinamas kaip `dvaras`.'
+  teiginys: 'Gardino pilininko Dovydo alodas vadinamas dvaru ir buvo Notangos vyrų sudegintas iki pamatų.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Šiame šaltinyje `alodas / dvaras` nusako Gardino pilininko Dovydo valdą kaip karo antpuolio taikinį.'
+  teiginys: 'Gardino pilininko Dovydo alodas, arba dvaras, buvo užpultas ir sudegintas iki pamatų.'
   pagrindžia:
     - c-001
 

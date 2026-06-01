@@ -32,7 +32,7 @@ periodo_grupes:
     - c-001
 
 - t-002
-  teiginys: 'Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laureato, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius L I E T U V O S I S T O R I J A 266 nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine Gordimer.'
+  teiginys: 'Nadine Gordimer buvo Pietų Afrikos Respublikos romanistė, kurios tėvas buvo kilęs iš Lietuvos.'
   pagrindžia:
     - c-001
 

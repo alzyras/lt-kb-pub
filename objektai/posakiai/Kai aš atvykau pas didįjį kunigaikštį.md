@@ -26,13 +26,14 @@ Ta­ me laiške be kitų dalykų jisai rašo: „Kai aš atvykau pas didįjį ku
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ta­ me laiške be kitų dalykų jisai rašo: „Kai aš atvykau pas didįjį kunigaikštį, tai jis kelionėje iš Trakų į Smolenską ilsėjosi jau ketvirtą kartą.'
+  teiginys: 'Henne, keliavęs su Vytautu, atvykęs pas didįjį kunigaikštį rado Vytautą ketvirtą kartą ilsintis kelionėje iš Trakų į Smolenską.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Henne, keliavęs su Vytautu, atvykęs pas didįjį kunigaikštį rado Vytautą ketvirtą kartą ilsintis kelionėje iš Trakų į Smolenską.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
@@ -58,5 +59,5 @@ Ta­ me laiške be kitų dalykų jisai rašo: „Kai aš atvykau pas didįjį ku
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas Didysis]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/daiktai/Žirgai]]

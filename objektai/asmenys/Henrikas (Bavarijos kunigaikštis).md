@@ -28,13 +28,14 @@ Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­ varijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­ dą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su kryžiuočiais dalyvavo.'
+  teiginys: 'Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabar Veliuona priklauso dvari­

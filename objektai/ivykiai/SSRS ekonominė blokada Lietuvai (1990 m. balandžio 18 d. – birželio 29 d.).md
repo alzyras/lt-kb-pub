@@ -45,9 +45,9 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Belaukiant tarptautinio Lietuvos pripažinimo Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
+  teiginys: '1990 m. balandžio 18 d. SSRS pradėjo Lietuvos ekonominę blokadą, kuri truko iki birželio 29 d.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Lietuva atsilaikė prieš SSRS ekonominę blokadą ir diplomatinėmis priemonėmis pasiekė jos atšaukimą.'
@@ -57,24 +57,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    V. Landsbergis atkakliai ir tvirtai paisė tik mora-
-    lios politikos principų – „kas buvo pavogta, turi būti grąžinta“. Lietuvai
-    laikantis tik savų įstatymų, 1990 m. balandžio 18 d. SSRS pradėjo Lie-
-    tuvos ekonominę blokadą, kuri truko iki birželio 29-osios. Nepaisant
-    didžiulio smūgio ekonomikai (trūko kuro, kurį laiką nedirbo Mažeikių
-    naftos perdirbimo įmonė, dėl žaliavų trūkumo užsidarė kai kurios ga-
-    myklos, atsirado pirmieji bedarbiai), Lietuva atsilaikė ir diplomatinėmis
-    priemonėmis pasiekė ekonominės blokados atšaukimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-003
-
-- c-002
+  santrauka: '1990 m. balandžio 18 d. SSRS pradėjo Lietuvos ekonominę blokadą, kuri truko iki birželio 29 d.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Belaukiant tarptautinio
@@ -94,6 +77,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

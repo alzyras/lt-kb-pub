@@ -76,6 +76,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

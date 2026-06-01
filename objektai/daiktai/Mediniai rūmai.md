@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Savo ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­ dimino dvare, statydinosi ties pilimi medinius savo rūmus, o aplink kurdino savo valdinius.'
+  teiginys: 'Gedimino dvare gyvenę lietuvių didikai ir kunigaikščio giminės ties pilimi statydinosi medinius rūmus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino dvare gyvenę lietuvių didikai ir kunigaikščio giminės ties pilimi statydinosi medinius rūmus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietu­
@@ -71,3 +72,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]

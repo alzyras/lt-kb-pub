@@ -70,22 +70,6 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
     - t-001
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taip
-    demokratiniai Vakarai sužinojo apie tikrąją padėtį, žmogaus teisių pažei-
-    dimus SSRS. Sovietinė valdžia represijas prieš disidentus derino su dalinių
-    nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
-    nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
-    teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus). Skirtingai nei
-    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
   santrauka: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -103,6 +87,7 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -112,6 +97,3 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
 - [[objektai/asmenys/Pranas Morkus]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Balys Gajauskas]]
-- [[objektai/grupes/Lietuvos disidentai]]
-- [[objektai/asmenys/Viktoras Petkus]]

@@ -50,7 +50,7 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: '1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo apskričių tarybose, kurios rinkdavo „ypatingus tautos atstovus”, o šie – prezidentą.'
+  teiginys: '1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais, o apskričių tarybos rinkdavo prezidentą renkančius ypatinguosius tautos atstovus.'
   pagrindžia:
     - c-003
 
@@ -90,7 +90,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: '1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo apskričių tarybose, kurios rinkdavo „ypatingus tautos atstovus”, o šie – prezidentą.'
+  santrauka: '1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais, o apskričių tarybos rinkdavo prezidentą renkančius ypatinguosius tautos atstovus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gausėjant priekaištų dėl prezidento neperrenkamumo, teko imtis

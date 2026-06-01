@@ -23,13 +23,14 @@ Dusburgietis teigia, kad savukynas B.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad savukynas B.'
+  teiginys: 'B. Savukyno straipsnis „Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų“ paskelbtas 1963 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'B. Savukyno straipsnis „Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų“ paskelbtas 1963 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Savukynas B. Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų.—

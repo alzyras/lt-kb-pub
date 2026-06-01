@@ -2,7 +2,6 @@
 tipas: daiktas
 pavadinimas: 'Drabužiai'
 saltiniai:
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -38,70 +37,34 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vytautas pabėgo iš kalėjimo apsitaisęs savo žmonos palydovės rūbais.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Prūsų kryžiuočiai padovanojo daug drabužių Žemaičių galingiesiems.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kaip užsilikusios žinios sako, Vytautas buvo neaukšto ūgio,
-    dailių ir energingų veido bruožų. Turėjo dideles, gyvas ir pro­
-    tingas akis. Iš veido atrodė moteriškas; nieks nepažino, kai jis
-    apsitaisęs savo žmonos palydovės rūbais pabėgo iš kalėjimo.
+    ... slaptai sužinojome ..., kad broliai Prū­
+    sijos kryžiuočiai padovanojo daug drabužių ir gėrybių Žemaičių
+    galingiesiems su ta sąlyga, kad jie sukiltų prieš karalių, sakydami,
+    jei jis priims tikėjimą, jie išnaikinsią jį, jo sūnus ir visus jo šali­
+    ninkus ir išvysią drauge su teutonų ordino broliais iš savo kara­
+    lystės ir iš savo pašaknų visus išrausią.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    ... slaptai sužinojome ..., kad broliai Prū­
-    sijos kryžiuočiai padovanojo daug drabužių ir gėrybių Žemaičių
-    galingiesiems su ta sąlyga, kad jie sukiltų prieš karalių, sakydami,
-    jei jis priims tikėjimą, jie išnaikinsią jį, jo sūnus ir visus jo šali­
-    ninkus ir išvysią drauge su teutonų ordino broliais iš savo kara­
-    lystės ir iš savo pašaknų visus išrausią.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-    - t-002
-    - t-002
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    ... slaptai sužinojome ..., kad broliai Prū­
-    sijos kryžiuočiai padovanojo daug drabužių ir gėrybių Žemaičių
-    galingiesiems su ta sąlyga, kad jie sukiltų prieš karalių, sakydami,
-    jei jis priims tikėjimą, jie išnaikinsią jį, jo sūnus ir visus jo šali­
-    ninkus ir išvysią drauge su teutonų ordino broliais iš savo kara­
-    lystės ir iš savo pašaknų visus išrausią.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
+    - t-001
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Rūbai]]
 - [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/paprociai/Ankstyvųjų Ordino brolių asketinio gyvenimo idealas]]
-- [[objektai/posakiai/Deja mums Kam mes gimėme]]
 - [[objektai/paprociai/Gedėjimas plėšant drabužius ir apsivelkant ašutinėmis]]
 - [[objektai/asmenys/Gerlachas Rudasis]]
 - [[objektai/asmenys/Hermanas Balkas]]

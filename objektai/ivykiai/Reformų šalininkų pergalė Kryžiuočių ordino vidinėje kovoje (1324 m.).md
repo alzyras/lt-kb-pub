@@ -45,7 +45,7 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
   pagrindžia:
     - c-002
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
@@ -74,6 +74,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -87,24 +88,6 @@ Nenurodyta
     feodalinių riterių žygių prieš musulmoniškąjį pasaulį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
-    argumentacijos. Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
-    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
-    apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
-    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
-    vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
-    skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-    Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6
-    metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

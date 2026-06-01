@@ -23,13 +23,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '(Varšuva) : Senovės baltų žemdirbystės technikos klausimu , ILKI, t.'
+  teiginys: 'J. Antonevičiaus „Senovės baltų žemdirbystės technikos klausimu“ išspausdintas ILKI 4 tome 1964 m., p. 164-170.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Antonevičiaus „Senovės baltų žemdirbystės technikos klausimu“ išspausdintas ILKI 4 tome 1964 m., p. 164-170.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Antonevičius, J. (Varšuva) : _Senovės baltų žemdirbystės technikos

@@ -32,37 +32,37 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - t-001
   teiginys: '1920 m. spalio 7 d. Suvalkų sutartis visą Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.'
   pagrindžia:
-    - c-006
+    - c-002
 
 - t-002
   teiginys: 'Karaliaus Aleksandro testamento liudytojų sąraše Jonas iš Zabrežjės įvardytas Merkinės laikytoju.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-003
-  teiginys: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  teiginys: 'Prieš Vilniaus vyskupijos įkūrimą Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo ir krikštijami.'
   pagrindžia:
-    - c-013
+    - c-010
 
 - t-004
   teiginys: 'Antrasis būrys be įsakymo MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d. dalyvavę būriai ir pamažu atsitraukė iš miestelio.'
   pagrindžia:
-    - c-010
+    - c-003
 
 - t-005
   teiginys: 'Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo tiesų ir krikštijami.'
   pagrindžia:
-    - c-014
+    - c-005
 
 - t-006
   teiginys: 'Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.'
   pagrindžia:
-    - c-012
+    - c-006
 
 - t-007
   teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.'
   pagrindžia:
-    - c-011
+    - c-009
 
 - t-008
   teiginys: '1945 m. Merkinės puolimas buvo pasiūlytas kaip keršto priešui veiksmas.'
@@ -72,7 +72,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - t-009
   teiginys: 'Vanagas, pasitaręs su A apygardos vadu Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinės miestelį, atkeršijant už kovos draugų žūtį.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-010
   teiginys: 'Po 1945 m. gruodžio 15 d. Merkinės puolimo partizanų būriai pamažu atsitraukė iš miestelio.'
@@ -92,7 +92,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - t-013
   teiginys: 'Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-014
   teiginys: 'Nuo Gardino link Merkinės besitęsęs Nemuno aukštupio dešiniojo kranto miškų masyvas buvo ištisai lietuvių gyvenamas.'
@@ -134,6 +134,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   statusas: verified
   pagrindžia:
     - t-011
+    - t-001
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -165,6 +166,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   statusas: verified
   pagrindžia:
     - t-010
+    - t-004
 
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -199,28 +201,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   statusas: verified
   pagrindžia:
     - t-012
+    - t-005
 
 - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos vyriausybė, ir šį kartą
-    tikėdamasi geruoju susitarti, sutiko.
-    Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
-    lys pasirašė 1920 metų spalių mėn. 7 d. Ta sutartis, nespręs-
-    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
-    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
-    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
-    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-
-    (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
-    sėje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atlikta ir duota Vilniuje, antradie­
@@ -247,8 +230,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-006
 
-- c-008
+- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­
@@ -264,7 +248,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - t-013
 
-- c-009
+- c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ryšininkas Juozas Jakavonis rado Merkiu
@@ -293,38 +277,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - t-009
 
-- c-010
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Antrasis būrys be įsakymo
-
-    MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d.
-
-    dalyvavę būriai ir pamažu atsitraukė
-
-    iš miestelio. Stipriai nukentėjęs priešas
-
-    atsitraukiančių partizanų nepersekiojo.
-    Kautynių metu iš Alytaus rusai trimis
-
-    sunkvežimiais skubėjo į pagalbą Merkinės
-
-    NKVD kariams ir stribams. Tačiau jie
-
-    ## Puslapis 235
-
-    LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA
-
-    1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas,
-    kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą
-    organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-011
+- c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau Vytautas dar dvejus metus už­
@@ -340,35 +293,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - t-007
 
-- c-012
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Atlikta ir duota Vilniuje, antradie­
-    nį, po Trijų Karalių šventės, tūkstantis penki šimtai trečiai­
-    siais Viešpaties metais nuo jo gimimo, mūsų valdymo antrai­
-    siais. Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui
-    ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems
-    LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės,
-    Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glins-
-    ko kunigaikščiui Mykolui, Polocko laikytojui Stanislovui Hle-
-    bavičiui, Kauno laikytojui, mūsų maršalkai ir jos šviesybės
-    rūmininkui Albertui Janavičiui, apaštališkojo sosto protono-
-    taro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo
-    Erazmo, dalyvavusio sprendime, ranka.
-
-    ## Puslapis 384
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    KARALIAUS ALEKSANDRO TESTAMENTAS
-    1506 METAI
-    (Iš Dogelio rankraščių buv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-013
+- c-010
+  santrauka: 'Prieš Vilniaus vyskupijos įkūrimą Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo ir krikštijami.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Motiejus,
@@ -384,19 +310,3 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-014
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
-    rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,
-    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
-    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
-    kius juos tikėjimo tiesų, krikštijami. Į kitas mažiau apgyven­
-    tas vietas, kur karalius neužvažiuodavo, buvo siunčiami žmonių
-    krikštyti kunigai ir vienuoliai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005

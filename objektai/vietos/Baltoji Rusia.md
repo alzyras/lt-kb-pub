@@ -25,7 +25,7 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­ čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo tikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­ jusius bruzdėjimus, pargrįžo į Vilnių.'
+  teiginys: 'Baltojoje Rusioje buvo kilę bruzdėjimų, kuriuos Jogaila numaldė prieš grįždamas į Vilnių.'
   pagrindžia:
     - c-004
 
@@ -35,7 +35,7 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     - c-001
 
 - t-003
-  teiginys: 'Nuolatine savo buveine pasirinkęs Trakų pilį, jis išvykdavo tik į mūšius su Prūsijos ordinu arba su Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­ čiais.'
+  teiginys: 'Skirgaila iš Trakų pilies vykdavo į mūšius su Baltojoje Rusioje maištavusiais įvairių valdų kunigaikščiais.'
   pagrindžia:
     - c-002
 
@@ -65,6 +65,7 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     - t-002
 
 - c-002
+  santrauka: 'Skirgaila iš Trakų pilies vykdavo į mūšius su Baltojoje Rusioje maištavusiais įvairių valdų kunigaikščiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po
@@ -104,6 +105,7 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     - t-004
 
 - c-004
+  santrauka: 'Baltojoje Rusioje buvo kilę bruzdėjimų, kuriuos Jogaila numaldė prieš grįždamas į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tos pirmosios Lietuvoj teisės būtų ge­

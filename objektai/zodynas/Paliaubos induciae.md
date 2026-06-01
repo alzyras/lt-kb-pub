@@ -27,18 +27,19 @@ Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęs
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29.'
+  teiginys: 'Jogailos aplinkoje buvo sudarytos paliaubos su Livonijos magistru Rygoje, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­ ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­ grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­ jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje sudarė su jais paliaubas.'
+  teiginys: '1382 metų lapkričio pradžioje Jogaila Dubysos saloje sudarė paliaubas su kryžiuočiais, paaukodamas jiems nemažą Žemaitijos dalį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1382 metų lapkričio pradžioje Jogaila Dubysos saloje sudarė paliaubas su kryžiuočiais, paaukodamas jiems nemažą Žemaitijos dalį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
@@ -67,6 +68,7 @@ Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęs
     - t-002
 
 - c-002
+  santrauka: 'Jogailos aplinkoje buvo sudarytos paliaubos su Livonijos magistru Rygoje, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kaip pasiuntinys nuvykęs į Prūsiją, Vai­

@@ -17,13 +17,14 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­ vos Didžiosios Kunigaikštystės arklidininkui Mikalojui Andriuševičiui ir.'
+  teiginys: 'Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jonui, Polocko............................Stanislovui Jonui Da Vai­

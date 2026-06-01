@@ -44,4 +44,3 @@ Dusburgietis teigia, kad kunigaikštis valdė keletą ar daugiau kaimų, ten tur
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/autoriai/Jurginis J]]

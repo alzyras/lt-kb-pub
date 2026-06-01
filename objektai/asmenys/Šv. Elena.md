@@ -32,22 +32,11 @@ Elenos skulptūros ant katedros frontono.
 - t-002
   teiginys: 'Elenos skulptūros ant katedros frontono.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kazimiero, Lenkijos
-    globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Elenos skulptūros ant katedros frontono.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -58,7 +47,4 @@ Elenos skulptūros ant katedros frontono.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
+    - t-001

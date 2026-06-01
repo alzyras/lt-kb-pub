@@ -23,13 +23,14 @@ Dusburgietis teigia, kad stepinš P.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad stepinš P.'
+  teiginys: 'P. Stepinšo „Durbės kauja“ išleista Rygoje 1967 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P. Stepinšo „Durbės kauja“ išleista Rygoje 1967 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Stepinš P. Durbės kauja.— Rīga, 1967.

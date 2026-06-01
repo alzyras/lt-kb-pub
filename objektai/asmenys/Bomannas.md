@@ -26,18 +26,19 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­ ku8.'
+  teiginys: 'Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: '8 Iki mūsų laikų Slaptajame Karaliau­ čiaus archyve išliko didžiojo kuni­ gaikščio Švitrigailos laiškas, kuriame didžiojo magistro prašo saugumo ga­ rantijų Bomannui, Vilniaus gyvento­ jui, vykstančiam į Gdanską su pre­ kybiniais reikalais.'
+  teiginys: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykusiam į Gdanską prekybos reikalais.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
@@ -55,6 +56,7 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
     - t-001
 
 - c-002
+  santrauka: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykusiam į Gdanską prekybos reikalais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. K o t z e-
@@ -77,5 +79,4 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Švitrigaila]]
-- [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
 - [[objektai/grupes/Silezijos ir Vroclavo gyventojai]]

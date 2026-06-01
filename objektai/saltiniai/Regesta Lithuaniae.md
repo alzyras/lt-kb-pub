@@ -43,19 +43,14 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
     - c-002
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad l., Die Eroberung..., 4, p. 247; Regesta Lithuaniae..., p. 117).'
-  pagrindžia:
-    - c-004
-
-- t-004
   teiginys: 'Dusburgietis teigia, kad apie nuostabų brolių išsigelbėjimą vieno žygio metu 537 1292 m. žygis (SRP, 2, p. 155; Regesta Lithuaniae..., p. 144).'
   pagrindžia:
     - c-003
 
-- t-005
-  teiginys: 'Dusburgietis teigia, kad regesta Lithuaniae.— T.'
+- t-004
+  teiginys: '„Regesta Lithuaniae“ pirmą tomą parengė H. Paszkiewiczius, jis išleistas Varšuvoje 1930 m.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -105,22 +100,10 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Čia minimas ežeras ieškotas ir  į
-    šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43). Aprašomas 1279—1280 m.
-    žiemos puolimas (Ewald A. L., Die Eroberung..., 4, p. 247; Regesta Lithuaniae..., p.
-    117).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-005
+- c-004
+  santrauka: '„Regesta Lithuaniae“ pirmą tomą parengė H. Paszkiewiczius, jis išleistas Varšuvoje 1930 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Regesta Lithuaniae.— T. I / Recensuit H. Paszkiewicz.— Varsoviae, 1930.
@@ -128,4 +111,4 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004

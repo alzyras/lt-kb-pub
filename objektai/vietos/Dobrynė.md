@@ -42,7 +42,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - c-005
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad 170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J.'
+  teiginys: 'Prūsai Dobrynės ordiną galėjo pulti 1224–1225 m.'
   pagrindžia:
     - c-004
 
@@ -67,7 +67,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - c-003
 
 - t-009
-  teiginys: 'Dusburgietis teigia, kad pietryčiuose nuo lenkiškosios Dobrynės žemės jį skiria Drevanta (dab.'
+  teiginys: 'Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto pietryčiuose.'
   pagrindžia:
     - c-008
 
@@ -116,6 +116,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - t-008
 
 - c-004
+  santrauka: 'Prūsai Dobrynės ordiną galėjo pulti 1224–1225 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.
@@ -171,6 +172,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - t-001
 
 - c-008
+  santrauka: 'Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto pietryčiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo

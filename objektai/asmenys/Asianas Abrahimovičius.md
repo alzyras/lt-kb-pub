@@ -18,13 +18,14 @@ Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovič
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­ sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje, Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad tąjį čiaušą ir jo tarnus, kurių jis turi.'
+  teiginys: 'Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS

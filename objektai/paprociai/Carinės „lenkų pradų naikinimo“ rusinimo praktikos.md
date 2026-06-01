@@ -47,12 +47,12 @@ Nenurodyta
 - t-002
   teiginys: 'Caro valdžia naikino institucijas, skyrusias buvusias LDK žemes nuo likusios Rusijos, ir vietos administracijoje draudė lenkų kalbą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Lenkų pradų naikinimo politika naikino kraštą nuo Rusijos skyrusias institucijas ir ribojo lenkų kalbą administracijoje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -83,19 +83,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Neva po Liublino unijos LDK
-    tebuvo Lenkijos valda. Taigi, „susigrąžinusi“ tai, kas jai priklauso pagal
-    „istorinio pirmumo teisę“, Rusija turi teisę, kad ir prievarta, „atkurti is-
-    torinį teisingumą“. Todėl naikintos institucijos, kurios skyrė šį kraštą nuo
-    likusios Rusijos, vietos administracijoje neleidžiama vartoti lenkų kalbos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

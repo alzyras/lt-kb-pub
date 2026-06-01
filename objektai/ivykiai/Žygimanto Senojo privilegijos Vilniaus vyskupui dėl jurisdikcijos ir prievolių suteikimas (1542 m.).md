@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be to, suteikiame dvasiškiams pilną ir ne­ ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­ se, dominijose.'
+  teiginys: '1542 m. Žygimanto Senojo privilegija suteikė Vilniaus vyskupui Povilui ir jo įpėdiniams pasaulietinės valdžios paramą bažnytinėms bausmėms vykdyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1542 m. Žygimanto Senojo privilegija suteikė Vilniaus vyskupui Povilui ir jo įpėdiniams pasaulietinės valdžios paramą bažnytinėms bausmėms vykdyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, suteikiame dvasiškiams pilną ir ne­
@@ -92,4 +93,5 @@ Nenurodyta
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/instigatorius]]
 - [[objektai/zodynas/statutas]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)]]

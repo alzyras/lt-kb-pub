@@ -42,31 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­ na Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis, ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą, ne.'
+  teiginys: '1294 m. magistras Meinhardas subūrė daug karių, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė iš pamatų.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,
-    ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,
-    ne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti
-    Prūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai
-    dėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,
-    kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo
-    keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį
-    ir ją iš pamatų sugriovė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: '1294 m. magistras Meinhardas subūrė daug karių, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė iš pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
@@ -88,4 +71,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]

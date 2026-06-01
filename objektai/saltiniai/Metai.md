@@ -29,7 +29,7 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poe­ma „Metai“ (su vertimu į vokiečių kalbą).'
+  teiginys: '1818 m. Karaliaučiuje Liudvikas Rėza išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą.'
   pagrindžia:
     - c-003
 
@@ -51,7 +51,7 @@ amziai:
 - t-005
   teiginys: 'Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750).'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-006
   teiginys: 'Kristijono Donelaičio poema „Metai“ datuojama apie 1750 m.'
@@ -78,6 +78,7 @@ amziai:
     - t-006
     - t-002
     - t-004
+    - t-005
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -95,6 +96,7 @@ amziai:
     - t-003
 
 - c-003
+  santrauka: '1818 m. Karaliaučiuje Liudvikas Rėza išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įspūdį padarė 1818 m. Karaliaučiuje žymaus
@@ -107,16 +109,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Paradoksas – svetima valstybė, o lietuviškos raštijos kur
-    kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
-    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
-    laičio poema „Metai“ (apie 1750). Nors XVIII a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005

@@ -26,13 +26,14 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gediminas pats ar jo karys pilies aptvaro link stūmė ka­ rinę mašiną, į jį pataikė kario Mari­ jano paleistas šūvis iš bombardos, kurios buvo neseniai išrastos Vokie­ tijoje, Lietuvoje.'
+  teiginys: 'Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet Olivos metraš­

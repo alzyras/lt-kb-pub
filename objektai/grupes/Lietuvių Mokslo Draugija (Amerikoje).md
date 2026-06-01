@@ -18,13 +18,14 @@ Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą knygų.'
+  teiginys: 'Šliūpo rūpesčiu įsteigta Lietuvių Mokslo Draugystė leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą“ ir kelias knygas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šliūpo rūpesčiu įsteigta Lietuvių Mokslo Draugystė leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą“ ir kelias knygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tai buvo visokios naivios isto-

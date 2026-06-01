@@ -20,13 +20,14 @@ Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­ gailos elgesiu, su
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­ gailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­ cialiai nusiųsti pas jį pasiuntinius, kurie pareikalautų išlais­ vinti karalių, o jeigu tai nieko neduotų, - surengti žygį į Lietuvą.'
+  teiginys: 'Lenkijos bajorai Varkoje nusprendė reikalauti paleisti karalių, o nesėkmės atveju rengti žygį į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkijos bajorai Varkoje nusprendė reikalauti paleisti karalių, o nesėkmės atveju rengti žygį į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kai ši jo nelaisvė gana ilgai užsi­

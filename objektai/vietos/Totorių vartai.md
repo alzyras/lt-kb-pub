@@ -24,13 +24,14 @@ Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įt
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.'
+  teiginys: 'Totorių vartų pavadinimas kilo nuo totorių, kurie, regis, pirmiausia buvo įsikūrę Lukiškėse.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Totorių vartų pavadinimas kilo nuo totorių, kurie, regis, pirmiausia buvo įsikūrę Lukiškėse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia jų,

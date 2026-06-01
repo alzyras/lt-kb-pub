@@ -35,13 +35,13 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ulos mūšyje žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
+  teiginys: 'Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   pagrindžia:
     - c-004
     - c-005
 
 - t-002
-  teiginys: 'Ulos mūšyje lietuvių pajėgos smūgį sutelkė prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų priešininkų kariuomenėje kilo sumaištis.'
+  teiginys: 'Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: 'Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Puolimą pradėjo kelios lietu-
@@ -116,6 +117,7 @@ Nenurodyta
     - t-003
 
 - c-004
+  santrauka: 'Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Skaičiuojama,
@@ -139,6 +141,7 @@ Nenurodyta
     - t-001
 
 - c-005
+  santrauka: 'Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taip pat nemaža kilmingųjų buvo paimta
@@ -167,7 +170,6 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]
 - [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]

@@ -46,7 +46,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 444 D.— Schonense, Jer.— Schônensê; vėliau — Schönsee ir pan., dab. Kowalewo Pomorskie, gyvenvietė Kulmo žemėje į šiaurės rytus nuo Torunės (SZCh, p. 59). Čia aprašomas bartų puolimas įvyko apie 1272 m. (Powierski J., Dobra.., p. 79—80).'
+  teiginys: 'Bartų puolimas prieš Senenzės pilį įvyko apie 1272 m.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Bartų puolimas prieš Senenzės pilį įvyko apie 1272 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     444 D.— Schonense, Jer.— Schônensê; vėliau — Schönsee ir pan., dab. Kowalewo

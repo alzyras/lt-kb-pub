@@ -61,12 +61,11 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   teiginys: 'Dusburgietis teigia, kad pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir nuolankiai pasidavė krikščionių tikėjimui ir broliams.'
   pagrindžia:
     - c-005
-    - c-007
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais, matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė, davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-006
   teiginys: 'Magistras reikalavo, kad Vytautas duotų bajorų sūnus įkaitais ir išpildytų seniau Ordinui duotus pasižadėjimus.'
@@ -171,18 +170,6 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja
-    už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir
-    nuolankiai pasidavė krikščionių tikėjimui ir broliams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-008
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau
     priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
     matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
@@ -201,7 +188,6 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Skirgaila]]
@@ -214,7 +200,4 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Jonas]]
-- [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]
-- [[objektai/posakiai/Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen]]
-- [[objektai/paprociai/Pasidavimas tikėjimui ir broliams davus įkaitį]]
 - [[objektai/grupes/Sembai]]

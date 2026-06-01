@@ -27,13 +27,14 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­ koti tuos pavojingus jam kaimynus (1394 m.); kitais metais Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­ gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę.'
+  teiginys: 'Konradas Jungingenas kartu su Švitrigaila įsibrovė į Lietuvą ir niokojo žemes nuo Gardino apylinkių iki Šalčininkų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konradas Jungingenas kartu su Švitrigaila įsibrovė į Lietuvą ir niokojo žemes nuo Gardino apylinkių iki Šalčininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS

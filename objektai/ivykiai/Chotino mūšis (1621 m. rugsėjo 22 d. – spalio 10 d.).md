@@ -49,12 +49,12 @@ Nenurodyta
 - t-002
   teiginys: 'Chotino mūšis buvo gynybinio mūšio pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -77,21 +77,6 @@ Nenurodyta
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    priversdavo juos bėgti nuo gynybinių
-    įtvirtinimų. Šis laimėjimas - puikus gy-
-    nybinio mūšio pavyzdys. Chotino mūšis
-    tapo paskutine legendinio Lietuvos karve-
-    džio Jono Karolio Chodkevičiaus pasiekta
-    pergale.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
     Šis laimėjimas - puikus gy-
     nybinio mūšio pavyzdys. Chotino mūšis
     tapo paskutine legendinio Lietuvos karve-
@@ -105,7 +90,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   santrauka: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -127,11 +112,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/grupes/brigada]]
 - [[objektai/autoriai/Jokūbo Beneto]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]

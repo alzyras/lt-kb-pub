@@ -20,13 +20,14 @@ O kaltina­ masis norėjo to teismo išvengti, taip pat tvirtino esąs Vil­ nia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mes su savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­ jų pusių ginčus, pamatę atneštas abiejų pusių privilegijas, mūsų pirmtako šv.'
+  teiginys: 'Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 455

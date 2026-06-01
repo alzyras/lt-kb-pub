@@ -31,7 +31,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-001
   teiginys: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
   pagrindžia:
-    - c-010
+    - c-008
 
 - t-002
   teiginys: 'Kovos ėjo prie Alytaus, ir kovo mėnesį iš rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Krekenava.'
@@ -41,12 +41,12 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-003
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną.'
   pagrindžia:
-    - c-013
+    - c-011
 
 - t-004
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir iš pietų pulti Kauną.'
   pagrindžia:
-    - c-009
+    - c-004
 
 - t-005
   teiginys: 'Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.'
@@ -54,14 +54,14 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     - c-001
 
 - t-006
-  teiginys: '28 Tas sandėris buvo sudarytas slapta girioje, prie dabartinių Daugų, Tra­ kų paviete, netoli nuo Alytaus, kaip manau (auf dem Felde Daudisken); tarp atvykusiųjų į tariamą medžiok­ lę buvo: Jogaila, lydimas Lietuvos kunigaikščių Vytauto ir Jono, bei Vaidilos.'
+  teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli nuo Alytaus.'
   pagrindžia:
     - c-005
 
 - t-007
   teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-008
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų.'
@@ -71,20 +71,20 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-009
   teiginys: 'Jų būriai rinkosi Kaune, Alytuj, Panevėžy, Kėdainiuose, Marijampolėj ir kitose vietose, kurias dar laikė vokiečių kariuomenė.'
   pagrindžia:
-    - c-011
+    - c-009
 
 - t-010
   teiginys: 'Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
   pagrindžia:
-    - c-012
+    - c-010
 
 - t-011
   teiginys: '1919 m. vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-012
-  teiginys: 'Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­ munės durpynuose.'
+  teiginys: 'Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą.'
   pagrindžia:
     - c-003
 
@@ -126,6 +126,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     - t-002
 
 - c-003
+  santrauka: 'Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lie­
@@ -196,8 +197,10 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   statusas: verified
   pagrindžia:
     - t-008
+    - t-004
 
 - c-005
+  santrauka: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli nuo Alytaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kitais
@@ -220,6 +223,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   statusas: verified
   pagrindžia:
     - t-006
+    - t-007
 
 - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -245,30 +249,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     - t-013
 
 - c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kitais
-    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
-    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
-    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
-    28
-    Tas sandėris buvo sudarytas slapta
-    girioje, prie dabartinių Daugų, Tra­
-    kų paviete, netoli nuo Alytaus, kaip
-    manau (auf dem Felde Daudisken);
-    tarp atvykusiųjų į tariamą medžiok­
-    lę buvo: Jogaila, lydimas Lietuvos
-    kunigaikščių Vytauto ir Jono, bei
-    Vaidilos, ir didysis komtūras, ku­
-    ris jiems iškėlė puikias vaišes. Žr.
-    Voigt, T. V, 355.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     prieš tai nieko nepranešę atsitraukė ir
@@ -286,61 +266,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   pagrindžia:
     - t-011
 
-- c-009
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    173
-
-    r
-    ‘wv
-    2
-
-    m
-
-    =
-
-    o
-
-    vi
-
-    =
-    =
-    x
-    rą
-
-    a
-
-    7
-    sa
-
-    kovos
-
-    ## Puslapis 176
-
-    LIETUVOS,
-    RESPUBLIKA
-
-    Prieš mūšį
-    Įgyvendindamos Kauno užėmimo planą
-    bolševikų pajėgos ketino veržtis iki
-    Nemuno, persikelti per jį Prienuose ir
-    Alytuje ir pulti Kauną iš pietų. Tai buvo
-    svarbi kompleksinių Raudonosios armi-
-    jos veiksmų plano, nukreipto prieš at-
-    gimusį Lietuvos valstybingumą, dalis.
-    Gavusi iš savo žvalgų informaciją, jog
-    nuo Žiežmarių iki Alytaus nebuvo nei lie-
-    tuvių, nei vokiečių dalinių, bolševikų ka-
-    rinė vadovybė 1919 m. vasario pradžioje
-    ryžosi pradėti Kauno puolimą iš pietų
-    pusės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-010
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Absoliučią daugumą
@@ -356,7 +282,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   pagrindžia:
     - t-001
 
-- c-011
+- c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     5 d. Visos pirmosios kariuomenės dalys buvo savanorių. Jų
@@ -370,7 +296,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   pagrindžia:
     - t-009
 
-- c-012
+- c-010
   santrauka: 'Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -392,7 +318,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   pagrindžia:
     - t-010
 
-- c-013
+- c-011
   santrauka: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

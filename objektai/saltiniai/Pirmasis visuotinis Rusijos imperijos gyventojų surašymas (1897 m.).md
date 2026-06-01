@@ -33,26 +33,6 @@ Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. paro
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ta-
-    čiau pirmasis visuotinis Rusijos
-    imperijos gyventojų surašymas
-    1897 m. parodė, kad tarp etninių
-    lietuvių mokančių skaityti yra be-
-    maž pusė – 48 proc., o rusiškai iš
-    jų tepaskaitė tik kas penktas. Pa-
-    gal raštingumą etniniai lietuviai
-    bemaž du kartus lenkė Rusijos
-    vidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai
-    mokėsi gimtąja kalba.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. parodė, kad tarp etninių lietuvių mokančių skaityti yra bemaž pusė – 48 proc., o rusiškai iš jų tepaskaitė tik kas penktas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -74,3 +54,4 @@ Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. paro
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

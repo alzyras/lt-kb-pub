@@ -129,7 +129,6 @@ Nenurodyta
 - [[objektai/asmenys/Albinas Kubilius-Rūgštymas]]
 - [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Slučka-Šarūnas]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
 - [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]

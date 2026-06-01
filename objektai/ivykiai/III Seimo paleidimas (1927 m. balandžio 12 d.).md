@@ -41,13 +41,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prezidentas Antanas Smetona nuo valdžios nustūmė krikščionis demokratus, tuo metu stipriausią šalies politinę jėgą.'
+  teiginys: '1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsitokėjusi
@@ -69,5 +70,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/III Seimas]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

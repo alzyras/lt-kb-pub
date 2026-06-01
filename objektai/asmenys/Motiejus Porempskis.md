@@ -19,13 +19,14 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
 ## Teiginiai
 
 - t-001
-  teiginys: 'O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­ ninkus ir garsusis Albertas Skvemevita per savo įgaliotinius paaiškino, kad minėtasis kaltinamasis turi gauti numatytą jų privilegijoje.'
+  teiginys: 'Motiejus Porempskis buvo vienas iš besiskundžiančiųjų, reikalavusių kaltinamajam taikyti privilegijoje numatytą bausmę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Motiejus Porempskis buvo vienas iš besiskundžiančiųjų, reikalavusių kaltinamajam taikyti privilegijoje numatytą bausmę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagal mūsų

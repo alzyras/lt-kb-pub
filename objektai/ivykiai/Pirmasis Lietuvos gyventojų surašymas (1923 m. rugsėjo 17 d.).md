@@ -46,17 +46,17 @@ Nenurodyta
 - t-001
   teiginys: '1923 m. rugsėjo 17 d. įvyko pirmasis Lietuvos gyventojų surašymas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo 2 028 971 (be Vilniaus ir Klaipėdos kraštų).'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -72,18 +72,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
-    jo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo
-    2 028 971 (be Vilniaus ir Klaipėdos kraštų). Lietuviai sudarė 82 proc.,
-    žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc. gyventojų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
     - t-002
 

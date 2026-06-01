@@ -17,13 +17,14 @@ Dusburgietis teigia, kad triller.—Marburg, 1961; Bd. 4 (1346—1351) /Н.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad triller.—Marburg, 1961; Bd. 4 (1346—1351) /Н.'
+  teiginys: 'A. Triller kartu su H. Koeppenu parengė „Preussisches Urkundenbuch“ trečio tomo papildymus ir registrą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Triller kartu su H. Koeppenu parengė „Preussisches Urkundenbuch“ trečio tomo papildymus ir registrą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1. Erste Hälfte (1140—1257)

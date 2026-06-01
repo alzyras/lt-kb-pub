@@ -17,7 +17,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 ## Teiginiai
 
 - t-001
-  teiginys: 'Petras Griškevičius pati ėmėsi iniciatyvos.'
+  teiginys: 'Petras Griškevičius, būdamas LKP CK pirmuoju sekretoriumi, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - t-002
 
 - c-002
+  santrauka: 'Petras Griškevičius, būdamas LKP CK pirmuoju sekretoriumi, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
@@ -97,4 +98,3 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - [[objektai/zodynas/pertvarka perestroika]]
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/zodynas/baltosios dėmės]]

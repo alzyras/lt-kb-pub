@@ -27,13 +27,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: ': Dzieje Wielkiego Księstwa Litewskiego za Ja­ giellonów, I, 1930, 11-51 p. — Kutrzeba, St.'
+  teiginys: 'St. Kutrzeba 1914 m. paskelbė darbą „Unja Litwy z Polską“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'St. Kutrzeba 1914 m. paskelbė darbą „Unja Litwy z Polską“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     : _Dzieje Wielkiego Księstwa Litewskiego za Ja­

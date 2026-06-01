@@ -26,12 +26,12 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų.'
+  teiginys: 'Apie 1345 m. Goštautui išvykus į Palenkės Tikociną, Vilniuje prastuomenė užėmė pranciškonų vienuolyną.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Taip pat Lietuvoje esančius ir kur kitur paveda­ me Lietuvos Kunigaikštystei, bet tie, kurie yra Tikocine ir visi ginklai bei karinė amunicija privalo ten likti kaip mūsų nuosavoje pilyje.'
+  teiginys: 'Tikocine buvę ginklai ir karinė amunicija turėjo likti ten kaip valdovo nuosavoje pilyje.'
   pagrindžia:
     - c-003
 
@@ -41,13 +41,14 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     - c-002
 
 - t-004
-  teiginys: 'Taip pat ir apmušalai, kurie yra Tikocine arba kur kitur atsiras, Flandrijos užtiesalai iš aukso arba su figū­ romis ir paprasto darbo, taip pat auksu atausti, aksominiai bei kiti šilkiniai apmušalai ir suolų užtiesalai, bet kokie špaleriai iš kamarų.'
+  teiginys: 'Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat mūsų
@@ -121,6 +122,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     - t-003
 
 - c-003
+  santrauka: 'Tikocine buvę ginklai ir karinė amunicija turėjo likti ten kaip valdovo nuosavoje pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visus bet kokio pavadinimo pabūklus, ar-
@@ -140,6 +142,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     - t-002
 
 - c-004
+  santrauka: 'Apie 1345 m. Goštautui išvykus į Palenkės Tikociną, Vilniuje prastuomenė užėmė pranciškonų vienuolyną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     T. Il,

@@ -36,12 +36,12 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - t-002
   teiginys: 'Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija ir nutarta konfiskuoti Sapiegų dvarus.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-003
   teiginys: 'Valkininkuose datuotas raštas nurodė 1700 m. lapkričio 24 d., nors iš tikro buvo surašytas vėliau.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipiškių priemiestyje įrengtoje stovykloje, vykdant Valkininkų nutarimą, buvo iš esmės suformuota nauja LDK kariuomenė - 7500 etatinių vienetų.'
@@ -73,6 +73,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -115,30 +116,6 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - t-001
 
 - c-004
-  santrauka: 'Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija ir nutarta konfiskuoti Sapiegų dvarus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jų alga - trisdešimt livry už ketvirtį.“
-
-    suvažiavimas, priėmęs „Valkininkų nuta-
-    rimą“, kuriuo buvo įkurta LDK bajorijos
-    generalinė konfederacija, suformuoti ypa-
-    tingieji LDK valdžios organai, nutarta atimti
-    iš Sapiegų jų turėtas pareigybes, o dvarus
-    konfiskuoti. Priėmusi nutarimą respubli-
-    konų kariuomenė nužygiavo į Vilnių, kur
-    Šnipiškių priemiestyje įrengtoje stovykloje,
-
-    vykdant Valkininkų nutarimą, buvo iš
-    esmės suformuota nauja LDK kariuomenė -
-    7500 etatinių vienetų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tas raštas pasirašytas visų žymesniųjų Sapiegų priešų, bajorijos

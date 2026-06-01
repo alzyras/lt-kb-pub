@@ -29,12 +29,12 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.'
+  teiginys: '1547 m. Jono Hozijaus parduotas sklypas ir mūrinis namas su spaustuve atiteko Sebastijonui Vitinskiui.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: '1545 metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­ mų valdymas buvo patikėtas Vilniaus magistratui; Jonui Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo titulą nuo vyskupo karalius perkėlė sau.'
+  teiginys: 'Jonui Hozijui pasitraukus iš pareigų, karalius Švč. Trejybės prieglaudos vyriausiojo globėjo titulą perkėlė sau.'
   pagrindžia:
     - c-002
 
@@ -44,12 +44,12 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     - c-001
 
 - t-004
-  teiginys: 'Dėl to taip pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­ nėtąjį Jo šv.'
+  teiginys: 'Jonas Hozijus ir jo įpėdiniai buvo įpareigoti kasmet teikti prieglaudos ir tilto pajamų bei išlaidų ataskaitą.'
   pagrindžia:
     - c-005
 
 - t-005
-  teiginys: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
+  teiginys: 'Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai.'
   pagrindžia:
     - c-003
 
@@ -87,6 +87,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     - t-003
 
 - c-002
+  santrauka: 'Jonui Hozijui pasitraukus iš pareigų, karalius Švč. Trejybės prieglaudos vyriausiojo globėjo titulą perkėlė sau.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trejybės prie­
@@ -106,6 +107,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     - t-002
 
 - c-003
+  santrauka: 'Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad tokiai prie­
@@ -137,6 +139,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     - t-005
 
 - c-004
+  santrauka: '1547 m. Jono Hozijaus parduotas sklypas ir mūrinis namas su spaustuve atiteko Sebastijonui Vitinskiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     D) Šv. Jono Ak ademi jos Spaustuvės kronika
@@ -149,6 +152,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     - t-001
 
 - c-005
+  santrauka: 'Jonas Hozijus ir jo įpėdiniai buvo įpareigoti kasmet teikti prieglaudos ir tilto pajamų bei išlaidų ataskaitą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA// TOMAS
@@ -174,7 +178,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/zodynas/Pilininkas]]
-- [[objektai/daiktai/Spaustuvės]]
 - [[objektai/daiktai/Vamzdžiai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kapitula]]
@@ -182,4 +185,5 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - [[objektai/zodynas/muitas tilto mokestis]]
 - [[objektai/zodynas/špitolė prieglauda]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
+- [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/prokuratorius ir provizorius]]

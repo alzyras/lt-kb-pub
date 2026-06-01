@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilnių, išskyrus metų muges, negalėjo mainytis savo prekėmis su kitais sve­ timšaliais, bet tiktai su Vilniaus pirkliais.'
+  teiginys: 'Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Maskvos, totorių ir valakų
@@ -150,3 +151,4 @@ Nenurodyta
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Maskvos, totorių ir valakų pirkliai]]

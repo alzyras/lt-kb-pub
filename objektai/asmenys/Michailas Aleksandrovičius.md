@@ -35,12 +35,12 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
 - t-002
   teiginys: 'Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos valdovo Algirdo (jo žmona Julijona Tverietė) prašė „pagalbos ir apginti“, kvietė žygiuoti į Maskvą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: '1370 m. žygis Tęsdamas kovą su Maskva, Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą, padėtų KR 6£ S k o © sa A = == e 8 = © + > == Zi IETIES ATRĖMIMAS Algirdo žodžiai ir simbolinis poelgis 1368 m.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -81,46 +81,9 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1370 m. žygis
-
-    Tęsdamas kovą su Maskva, Tverės kuni-
-
-    gaikštis Michailas siekė, kad Algirdas su-
-    rengtų antrąjį žygį prieš Maskvą, padėtų
-
-    KR
-    6£
-    S k
-    o ©
-    sa
-    A =
-    ==
-    e 8
-    =
-    ©
-    +
-    >
-    ==
-    Zi
-
-    IETIES ATRĖMIMAS
-
-    Algirdo žodžiai ir simbolinis poelgis 1368 m. žygiui baigiantis prie Maskvos vartų, jau
-    po susitarimo su Maskvos didžiuoju kunigaikščiu.
-    „Nors mes su tavimi susitaikėme, bet man nedera kitaip pasielgti - turiu atremti į tavo
-    Maskvos miesto sieną savi ietį ir vardan savo šlovės palikti ženklą, kad lietuvių, ir rusų,
-    ir žemaičių kunigaikštis Algirdas buvo atrėmęs savo ietį į Maskvos sieną.“
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žygių išvakarėse
@@ -142,7 +105,7 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   santrauka: 'Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos valdovo Algirdo (jo žmona Julijona Tverietė) prašė „pagalbos ir apginti“, kvietė žygiuoti į Maskvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

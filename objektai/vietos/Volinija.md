@@ -28,17 +28,17 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 - t-001
   teiginys: '1349 m. Kazimieras siekė Avignono palankumo ir patogesnės padėties tolesnei kovai Volinijoje.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: 'Liubartas turėjo savo dalį Volinijoje ir galėjo reikšti pretenzijas į kitas Haličo-Vladimiro žemes.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-003
   teiginys: 'Konflikte su lenkais buvo ginčijamasi dėl Podolės ir Volinijos.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.'
@@ -48,12 +48,12 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 - t-005
   teiginys: 'Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-006
   teiginys: 'Per 60 metų išgyvenęs pietuose, Liubartas su brolių pagalba didžiajai Lietuvos kunigaikštijai apgynė Voliniją.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -70,22 +70,9 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Netoliese nuo ten, būtent, Zaslavlyje (tarp
-    Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
-    Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
-    Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
-    sodino iš pirmųjų vedybų savo sūnus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-003
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Be to, Kronika apskritai buvo para­
@@ -102,7 +89,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Liudvikui mirus (1382), Liubartas pasiė­
@@ -117,7 +104,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   pagrindžia:
     - t-006
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1340 m. bevaikis žuvo paskutinis Haličo­
@@ -132,7 +119,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   pagrindžia:
     - t-002
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos valdovai tačiau, progai pasitaikius, nesikraty­

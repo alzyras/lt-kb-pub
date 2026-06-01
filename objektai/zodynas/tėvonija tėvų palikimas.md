@@ -25,7 +25,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-003
 
 - t-002
-  teiginys: 'Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gyvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė L I E T U V O S I S T O R I J A 46 laikyti tėvonijos dalimi.'
+  teiginys: 'Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos.'
   pagrindžia:
     - c-001
 
@@ -34,9 +34,15 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   pagrindžia:
     - c-002
 
+- t-005
+  teiginys: 'Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
@@ -103,7 +109,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - t-004
 
 - c-005
-  santrauka: 'Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gyvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė L I E T U V O S I S T O R I J A 46 laikyti tėvonijos dalimi.'
+  santrauka: 'Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje

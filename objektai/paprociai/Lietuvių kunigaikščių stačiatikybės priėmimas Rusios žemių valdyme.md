@@ -55,22 +55,22 @@ Nenurodyta
 - t-002
   teiginys: 'Lietuvos valstybei užėmus senrusių žemes, jų vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Priėmę stačiatikių tikėjimą lietuvių kunigaikščiai kūrėsi Rusios žemėse, kurios buvo jungiamos prie Lietuvos valstybės.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Vaišelga priėmė stačiatikių tikėjimą, o jo valdytas Naugardukas buvo jungiamas prie Lietuvos valstybės.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-005
-  teiginys: '1 skyrius • S E N O J I L I E T U VA 39 Lietuva stačiatikiškos Rusios erdvėse Lietuvos valstybei užėmus senrusių žemes, tų žemių vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
+  teiginys: 'Lietuvai užėmus senrusių žemes, jų vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
   teiginys: 'Rusios žemėse lietuviai rado bažnytinę sistemą ir raštiją, kurių patys neturėjo.'
@@ -97,23 +97,6 @@ Nenurodyta
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuva stačiatikiškos Rusios erdvėse
-    Lietuvos valstybei užėmus senrusių žemes, tų žemių vieti-
-    ninkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę. Vėliau
-    iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
-    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai. Be to,
-    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
-    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
-    Alšėnų kunigaikščiai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo
     Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje sta-
     čiatikybę priėmęs kunigaikštis. Taip pradėtas lietuvių kunigaikščių kūrima-
@@ -127,7 +110,8 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
+  santrauka: 'Lietuvai užėmus senrusių žemes, jų vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1 skyrius •  S E N O J I  L I E T U VA
@@ -148,13 +132,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/grupes/Alšėnų kunigaikščiai]]
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
@@ -166,7 +150,3 @@ Nenurodyta
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Sanguškos]]
-- [[objektai/grupes/Sluckiai]]
-- [[objektai/grupes/Vyšnioveckiai]]
-- [[objektai/grupes/Čartoriskiai]]

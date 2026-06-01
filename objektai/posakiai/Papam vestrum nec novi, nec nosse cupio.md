@@ -48,14 +48,14 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
     - c-002
 
 - t-003
-  teiginys: 'Formulė priešpriešinama laiškuose vartotam pagarbiam popiežiaus titulavimui kaip garbingiausiam ir švenčiausiam tėvui.'
+  teiginys: '„Papam vestrum nec novi, nec nosse cupio“ reiškė pareiškimą, kad popiežiaus nei pažinojo, nei troško pažinti.'
   pagrindžia:
     - c-002
 
 - t-004
   teiginys: 'Posakis „Papam vestrum nec novi, nec nosse cupio“ buvo pateiktas kaip atsakymas popiežiaus pasiuntiniams.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -101,27 +101,6 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   pagrindžia:
     - t-002
     - t-003
-
-- c-003
-  santrauka: 'Posakis „Papam vestrum nec novi, nec nosse cupio“ buvo pateiktas kaip atsakymas popiežiaus pasiuntiniams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kiti laiškų netikrumo įrodymai glūdi tiek jų turinyje, tiek
-    posakiuose; ir viena, ir antra visai nebūdingi žmogui, dar
-    tik norinčiam tapti krikščioniu ir tik vėliau privalėsiančiam
-    perprasti krikščionišką mokymą ir išsilavinimą; tai veikiau
-    žodžiai asmens, persiėmusio krikščioniškąja Bažnyčia, grei­
-    tesnio ir kuo platesnio krikščionybės skleidimo troškimu ir
-    popiežiaus garbinimu.
-    Ir kai čia jį patrem nostrum gloriosissimum, sanctissimum,
-    excellentissimum etc. [mūsų tėvu garbingiausiu, švenčiausiu,
-    aukščiausiu ir kt.] pavadina, kitais metais liepia popiežiaus
-    pasiuntiniams pasakyti: Papam vestrum nec novi, nec nosse cu­
-    pio [jūsų tėvo nei pažinojau, nei trokštu pažinti].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
 ## Ryšiai

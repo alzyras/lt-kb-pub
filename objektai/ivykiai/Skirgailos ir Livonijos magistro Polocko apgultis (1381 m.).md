@@ -42,43 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29.'
+  teiginys: '1381 m. Skirgaila su Livonijos magistru 12 savaičių laikė apsupę Polocką, bet apgultį nutraukė dėl pokyčių Lietuvoje.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Tačiau miestiečių išvytas, nu­ vykęs pas magistrą sulaukė para­ mos, su pastaruoju 1381 metais iš­ laikė apsupęs Polocką 12 savaičių, bet ir sunki pilies apgultis, ir netikė­ ti pokyčiai Lietuvoje, per kuriuos Kęstučiui atiteko kunigaikščio sos­ tas, privertė.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taip
-    pat buvo sudarytos paliaubos su Livonijos magistru Rygo­
-    je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29. Kitais
-    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
-    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
-    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
-    28
-    Tas sandėris buvo sudarytas slapta
-    girioje, prie dabartinių Daugų, Tra­
-    kų paviete, netoli nuo Alytaus, kaip
-    manau (auf dem Felde Daudisken);
-    tarp atvykusiųjų į tariamą medžiok­
-    lę buvo: Jogaila, lydimas Lietuvos
-    kunigaikščių Vytauto ir Jono, bei
-    Vaidilos, ir didysis komtūras, ku­
-    ris jiems iškėlė puikias vaišes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: '1381 m. Skirgaila su Livonijos magistru 12 savaičių laikė apsupę Polocką, bet apgultį nutraukė dėl pokyčių Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogailai pristigo pajėgų gintis taip staiga užkluptam,
@@ -104,7 +75,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -115,7 +86,5 @@ Nenurodyta
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Pilys]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/paliaubos]]
 - [[objektai/daiktai/Žirgai]]

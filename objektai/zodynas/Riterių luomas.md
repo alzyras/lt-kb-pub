@@ -37,7 +37,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
     - c-001
 
 - t-003
-  teiginys: 'Visuotinai sutelkus dėmesį į Šven­ tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­ formuotas riterių luomas - pati garbingiausioji viduramžių institucija.'
+  teiginys: 'Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
     - t-002
 
 - c-002
+  santrauka: 'Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jų įtaka

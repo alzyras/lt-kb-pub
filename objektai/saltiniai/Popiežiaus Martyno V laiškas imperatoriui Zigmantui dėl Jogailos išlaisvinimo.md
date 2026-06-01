@@ -24,13 +24,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '[Popiežiaus Martyno laiškas karaliui Vladislovui Jogailai jo buvimo Švitrigailos ne­ laisvėje reikalu.'
+  teiginys: 'Popiežius Martynas V 1430 m. vasario 27 d. laiške imperatoriui Zigmantui ragino išlaisvinti Jogailą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežius Martynas V 1430 m. vasario 27 d. laiške imperatoriui Zigmantui ragino išlaisvinti Jogailą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     5

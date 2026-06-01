@@ -25,13 +25,14 @@ Dusburgietis teigia, kad palmaitis L.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad palmaitis L.'
+  teiginys: 'L. Palmaitis paskelbė straipsnį apie prūsų kalbos negimininių įvardžių formų kilmę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'L. Palmaitis paskelbė straipsnį apie prūsų kalbos negimininių įvardžių formų kilmę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Palmaitis L. Prūsų kalbos negimininių įvardžių formų kilmė—Baltistica, 1976, 12 (2),

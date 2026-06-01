@@ -55,24 +55,6 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
     - t-001
 
 - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo metu Žuvinto paliose ir Buktos
-    (Žaliosios) miške jau veikė Gedimino,
-    Klarko, Juozo Pandeikos, Edvardo ir Jurgio
-    Lajų bei Kosto Barkausko būriai. Prie
-    Daukšių bazavosi „Muškietininkų“ būrys,
-    vadovaujamas Vlado Gavėno-Tarzano.
-    Juos visus į bendrą Žuvinto-Palių junginį
-    suvienijo ir jam vadovavo Lietuvos kariuo-
-    menės majoras Sergijus Staniškis-Litas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno-Tarzano.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -92,6 +74,7 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

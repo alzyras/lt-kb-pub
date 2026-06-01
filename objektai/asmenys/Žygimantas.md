@@ -19,46 +19,18 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui, nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide­ lių turtų, nei ypatingo svorio.'
+  teiginys: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
-  pagrindžia:
-    - c-002
-
-- t-003
   teiginys: 'Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu Žygimantu ir Švitrigaila, pasisekė pabėgti.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Antra, kad susikūrė iš trijų skirtingų
-    bendruomenės klasių, tai yra: nelaisvųjų, dirbusių žemę, susi­
-    spietusių apie pilį; svetimšalių kolonistų, kurie beveik visi bu­
-    vo amatininkai; ir iš bajorų arba kunigaikščių tarnų, kurie už
-    nuopelnus gaudavo namus ir sklypus su skirtingomis teisėmis
-    į juos. Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui,
-    nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide­
-    lių turtų, nei ypatingo svorio. Tuo tarpu visoje Europoje, ypač
-    Vokietijoje, miestiečių klasė, iš pradžių nuskurdusi, silpna ir nie­
-    kam verta, nuolatiniu darbu ir neišsenkančiu sumanumu paga­
-    liau praturtėjo, pelnė pripažinimą ir įgijo išsilavinimą; pamažu
-    iš jos susiformavo vadinamas vidurinysis visuomenės luomas, ku­
-    ris tapo veikliausia dabartinės civilizacijos pažangos spyruok­
-    le, - mūsų krašte miestai nieko panašaus neįstengė pasiekti!
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -70,9 +42,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu Žygimantu ir Švitrigaila, pasisekė pabėgti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -87,18 +59,14 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/luomas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]
-- [[objektai/posakiai/Antemurale Christianitatis]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai]]
 - [[objektai/zodynas/Augsburgo Augustino tikėjimas]]
@@ -164,7 +132,6 @@ tags:
 - [[objektai/posakiai/Tai ne tas kelias, Maloningasis Pone]]
 - [[objektai/posakiai/Tartari, longe sunt Lituanis inferiores viribus]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Traidenis]]
 - [[objektai/grupes/Trakų žydai]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
@@ -191,7 +158,6 @@ tags:
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]
 - [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/grupes/Vokiečių amatininkai Vilniuje]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/asmenys/Vytenis]]
@@ -204,7 +170,6 @@ tags:
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/indiktas]]
 - [[objektai/posakiai/ius Teutonicum quod Magdeburiense dicitur denuo darnus]]
-- [[objektai/zodynas/kalykla, ediktas ir konstitucija pinigų potvarkyje]]
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
 - [[objektai/zodynas/miesto magistrato pareigybės]]
 - [[objektai/zodynas/miesto sargyba ir policija]]
@@ -239,4 +204,14 @@ tags:
 - [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]
 - [[objektai/posakiai/Ab alio expectes alteri quod feceris]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/asmenys/Goštautas]]
+- [[objektai/asmenys/Jonas Hanulaitis]]
+- [[objektai/paprociai/Pabaisko pergalės įamžinimas vietovardžiais ir bažnyčios fundacija]]
 - [[objektai/daiktai/Patranka Hidra]]
+- [[objektai/daiktai/Vilniaus vandentiekio vamzdžiai ir kanalai]]
+- [[objektai/zodynas/mansionieriai]]
+- [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]
+- [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]
+- [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)]]
+- [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.)]]
+- [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]

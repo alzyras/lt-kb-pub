@@ -38,13 +38,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'O tų knygų, kurias atiduodame jėzuitams, der­ lius yra nemažas ir neprastas.'
+  teiginys: 'Jėzuitai buvo įpareigoti kiekvieną sekmadienį ir per šventes siųsti pamokslininką į Šv. Onos bažnyčią mokyti tikėjimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jėzuitai buvo įpareigoti kiekvieną sekmadienį ir per šventes siųsti pamokslininką į Šv. Onos bažnyčią mokyti tikėjimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O tų knygų, kurias atiduodame jėzuitams, der­

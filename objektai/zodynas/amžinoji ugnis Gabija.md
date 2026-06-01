@@ -18,18 +18,19 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iškil­ mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­ griauta Perkūno šventykla, ir būtent toje vietoje, vidur piliavietės, pradėta statyti Šv.'
+  teiginys: 'Po Vilniaus gyventojų krikšto amžinoji ugnis buvo iškilmingai užgesinta.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'''' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių.'
+  teiginys: 'Šventaragio slėnyje degė lietuvių garbinama amžinoji ugnis Gabija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šventaragio slėnyje degė lietuvių garbinama amžinoji ugnis Gabija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Reikš­
@@ -47,6 +48,7 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
     - t-002
 
 - c-002
+  santrauka: 'Po Vilniaus gyventojų krikšto amžinoji ugnis buvo iškilmingai užgesinta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
@@ -70,6 +72,7 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Šventaragis]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/gabija]]
 - [[objektai/paprociai/Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje]]
 - [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]

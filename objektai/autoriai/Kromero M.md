@@ -17,13 +17,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '147, 150, 345 Kromero M.'
+  teiginys: 'M. Kromero kronika šiame šaltinyje nurodyta 45 puslapyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Kromero kronika šiame šaltinyje nurodyta 45 puslapyje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     **Kryžiuočių ordinas 78, 154, 157, 161,

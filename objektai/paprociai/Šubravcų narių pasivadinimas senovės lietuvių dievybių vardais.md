@@ -44,9 +44,9 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Ypač pagarsėjo Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­ ventojai.'
+  teiginys: 'Vilniuje veikusi šubravcų draugija išgarsėjo, o jos nariai pasivadino senovės lietuvių dievybių vardais.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -70,26 +70,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Legaliai veikė įvai­
-    rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
-    tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­
-    spektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo
-    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
-    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
-    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
-    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
-    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
-    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
-    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
-    viu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -105,6 +85,5 @@ Nenurodyta
 - [[objektai/asmenys/Jokūbas Šimkevičius]]
 - [[objektai/asmenys/Juozapas Zavadskis]]
 - [[objektai/asmenys/Kazimieras Kontrimas]]
-- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/asmenys/Janas Lasickis]]
 - [[objektai/autoriai/Janas Lasickis Joh. Lasicius]]

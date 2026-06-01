@@ -36,7 +36,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Didžioji Maskvos suirutė (1597–1613 m.): teodoro jaunutis brolis Dimitrijas bu- vo nužudytas, o Teodoras mirė bevaikis, ir po jo caru pasiskelbė Godunovas (1597 m.). Po 6 metų Lenkijoje atsirado kažkoks jaunikaitis, kuris sakėsi esąs caraitis Dimitrijas: esą, jis pabė- gęs, o vietoj jo buvęs.'
+  teiginys: 'Po bevaikio Teodoro mirties 1597 m. caru pasiskelbė Godunovas, o po šešerių metų Lenkijoje atsirado Dimitrijumi pasivadinęs jaunikaitis.'
   pagrindžia:
     - c-005
 
@@ -46,7 +46,7 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Didžioji Maskvos suirutė (1597–1613 m.): caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (1613 m.). Su juo prasidėjo nau- joji Maskvos, o vėliau „visos Rusijos" carų dinastija, kuri iš- gyvavo iki 1917 m. revoliucijos (iš tikrųjų Romanovų vyriškoji linija išmirė jau XVIII.'
+  teiginys: '1613 m. caru buvo išrinktas metropolito Filareto sūnus Mykolas Romanovas, su kuriuo prasidėjo naujoji Maskvos carų dinastija.'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Nenurodyta
     - c-001
 
 - t-005
-  teiginys: 'Didžioji Maskvos suirutė (1597–1613 m.): maskvoj nebuvo ramybės nė dabar. Krašte prasidėjo nauji su- kilimai, ir atsirado antras apsimetėlis Dimitrijas.'
+  teiginys: 'Vasylių Šuiskį paskelbus caru, Maskvoje ramybė neįsigalėjo: krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas.'
   pagrindžia:
     - c-004
 
@@ -77,6 +77,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: '1613 m. caru buvo išrinktas metropolito Filareto sūnus Mykolas Romanovas, su kuriuo prasidėjo naujoji Maskvos carų dinastija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O
@@ -110,6 +111,7 @@ Nenurodyta
     - t-002
 
 - c-004
+  santrauka: 'Vasylių Šuiskį paskelbus caru, Maskvoje ramybė neįsigalėjo: krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Caru
@@ -123,6 +125,7 @@ Nenurodyta
     - t-005
 
 - c-005
+  santrauka: 'Po bevaikio Teodoro mirties 1597 m. caru pasiskelbė Godunovas, o po šešerių metų Lenkijoje atsirado Dimitrijumi pasivadinęs jaunikaitis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Teodoro jaunutis brolis Dimitrijas bu-
@@ -148,8 +151,9 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Teodoras]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
 - [[objektai/grupes/Romanovų dinastija]]
 - [[objektai/zodynas/samozvancas]]

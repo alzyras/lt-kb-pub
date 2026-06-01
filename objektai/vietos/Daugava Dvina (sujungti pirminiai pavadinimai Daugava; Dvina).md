@@ -27,28 +27,29 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ta lietuvių tauta, išsis­ kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­ šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos iki Vyslos, o į žemyno gilumą buvo.'
+  teiginys: 'Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Į rytus nuo Dvinos prie jų šliejosi estų, gausios suomių padermės atšakos, gyven­ vietės.'
+  teiginys: 'Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, suomių padermės atšakos, gyvenvietės.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Švitrigai­ la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį, įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­ no.'
+  teiginys: 'Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezgė preky­ binius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus, regis, kolonija iš Bremeno įkūrė Rygą.'
+  teiginys: 'Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, suomių padermės atšakos, gyvenvietės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
@@ -71,6 +72,7 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
     - t-002
 
 - c-002
+  santrauka: 'Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Abu jie niokojo
@@ -90,6 +92,7 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
     - t-003
 
 - c-003
+  santrauka: 'Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokios gynybos sistemos globoje atsivėrė ke­
@@ -106,6 +109,7 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
     - t-004
 
 - c-004
+  santrauka: 'Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tokio

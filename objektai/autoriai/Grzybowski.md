@@ -30,14 +30,14 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
     - c-001
 
 - t-002
-  teiginys: 'Bet­ gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia, i Grzybowski knygoje Skarb nieoszacowany O O.'
-  pagrindžia:
-    - c-003
-
-- t-003
-  teiginys: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
+  teiginys: 'Balińskis atmetė Grzybowskio pasakojimą apie tariamą Goštauto vienuolystę ir vyskupystę kaip tikriausiai prasimanytą.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Grzybowskis teigė, kad Goštautas pranciškonu tapo Krokuvoje, o vėliau Vilniuje vertė miestiečius į Kristaus tikėjimą.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -59,27 +59,10 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    XIX. Visos detalės apie Lietu­
-    vos pranciškonus yra šio didžiulio
-    ordino analų rinkinio septintame to­
-    me. Grzybowski  s, pranciško­
-    nas, anksčiau nurodytoje knygoje
-    (8 p.) sako, kad Goštautas pranciš­
-    konu tapęs Krokuvoje, o paskui ap­
-    sigyvenęs Vilniuje, savo įkurtame
-    vienuolyne, Vilniaus miestiečius
-    vertęs į Kristaus tikėjimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-003
+- c-002
+  santrauka: 'Balińskis atmetė Grzybowskio pasakojimą apie tariamą Goštauto vienuolystę ir vyskupystę kaip tikriausiai prasimanytą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
@@ -111,3 +94,4 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vyskupystė]]

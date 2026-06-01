@@ -28,18 +28,19 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad žulkus V.'
+  teiginys: 'Žulkus V. 1983 m. žurnale „Mokslas ir gyvenimas“ paskelbė straipsnį apie Klaipėdos pilį ir miestą XIII-XVI a.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 16— Žulkus V.'
+  teiginys: 'Žulkus V. paskelbė darbą apie Birutės kalno ir gyvenvietės tyrinėjimus 1982 ir 1983 metais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žulkus V. paskelbė darbą apie Birutės kalno ir gyvenvietės tyrinėjimus 1982 ir 1983 metais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     16—
@@ -52,6 +53,7 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
     - t-002
 
 - c-002
+  santrauka: 'Žulkus V. 1983 m. žurnale „Mokslas ir gyvenimas“ paskelbė straipsnį apie Klaipėdos pilį ir miestą XIII-XVI a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žulkus V. Klaipėdos pilis ir miestas XIII—XVI a —MG 1983, Nr. 8, p. 28—29.

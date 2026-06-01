@@ -20,18 +20,19 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­ vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­ nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­ kusi tokios.'
+  teiginys: 'Švitrigailos grupuotė kartu su Žygimanto šalininkais po vidaus karo išbandymų vėl taikėsi į Vilnių.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, o Po­ dolėje - su Švitrigailos šalininkais, remiamais Moldovos ku­ nigaikščių.'
+  teiginys: 'Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švitrigailos grupuotė kartu su Žygimanto šalininkais po vidaus karo išbandymų vėl taikėsi į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I I I  KNYGA
@@ -58,6 +59,7 @@ tags:
     - t-001
 
 - c-002
+  santrauka: 'Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šį karą kurstė neblėstantis
@@ -82,5 +84,6 @@ tags:
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/grupes/Moldovos kunigaikščiai]]
 - [[objektai/grupes/Žygimanto šalininkai]]

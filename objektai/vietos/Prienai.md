@@ -30,24 +30,19 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 - t-001
   teiginys: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
   pagrindžia:
-    - c-004
-
-- t-002
-  teiginys: 'Ginkluoti šautuvais Mosin-Nagant ir rusišku Maxim kulkosvaidžiu pulkas, veržtis per tiltą Prienuose rengėsi tai užduočiai numatytas „lietuviškasis“ (buvęs „Vilniaus“) 7-asis pulkas.'
-  pagrindžia:
     - c-003
 
-- t-003
+- t-002
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.'
   pagrindžia:
     - c-002
 
-- t-004
+- t-003
   teiginys: 'Prienų kleboną pralotą Karpavičių Prūsijos valdžia pasirinko pirmuoju Vygrių vyskupu.'
   pagrindžia:
-    - c-005
+    - c-004
 
-- t-005
+- t-004
   teiginys: '7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti jį iš pietų.'
   pagrindžia:
     - c-001
@@ -71,7 +66,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-002
   santrauka: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.'
@@ -126,30 +121,9 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos kariuomenės
-    pėstininkai pozicijoje. Ginkluoti
-    šautuvais Mosin-Nagant ir
-
-    rusišku Maxim kulkosvaidžiu
-
-    pulkas, veržtis per tiltą Prienuose ren-
-    gėsi tai užduočiai numatytas „lietuviška-
-    sis“ (buvęs „Vilniaus“) 7-asis
-    pulkas. Pulti Alytų turėjo
-    šios divizijos 3-asis
-    ir 4-asis pulkai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
@@ -160,7 +134,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   pagrindžia:
     - t-001
 
-- c-005
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šiaurinė Užnemunės dalis anksčiau priklausė
@@ -175,9 +149,9 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-006
+- c-005
   santrauka: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -228,9 +202,9 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-007
+- c-006
   santrauka: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -242,4 +216,4 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006

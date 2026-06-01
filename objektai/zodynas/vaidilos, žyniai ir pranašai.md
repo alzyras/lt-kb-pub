@@ -31,18 +31,19 @@ amziai:
     - c-002
 
 - t-002
-  teiginys: '3 Dabartinė katedros varpinė, anot Lietuvos kronikininkų ir vietos žmo­ nių padavimų, buvęs tas pats bokš­ tas, iš kurio Lizdeika ir jo pirmtakai iškilmingai pasirodydavę Vilniaus pagonims paskelbti blogos ar geros pranašystės.'
+  teiginys: 'Lietuvos kronikos ir vietos padavimai katedros varpinę siejo su bokštu, iš kurio Lizdeika skelbdavęs pranašystes.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Šalimais jo apvalus bokštas, iš plytų ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­ lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­ tinių tvora, paskui Vilnios upės.'
+  teiginys: 'Prie Kreivosios pilies stovėjo apvalus mūrinis bokštas su langu, pro kurį žyniai ir pranašai skelbdavo pranašystes žmonėms.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Kreivosios pilies stovėjo apvalus mūrinis bokštas su langu, pro kurį žyniai ir pranašai skelbdavo pranašystes žmonėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kunigaikščio rūmų pastatai,
@@ -92,6 +93,7 @@ amziai:
     - t-001
 
 - c-003
+  santrauka: 'Lietuvos kronikos ir vietos padavimai katedros varpinę siejo su bokštu, iš kurio Lizdeika skelbdavęs pranašystes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2
@@ -133,5 +135,4 @@ amziai:
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Šventaragis]]
 - [[objektai/zodynas/amžinoji ugnis Gabija]]
-- [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]
 - [[objektai/zodynas/žiogriai statinių tvoros palisadai]]

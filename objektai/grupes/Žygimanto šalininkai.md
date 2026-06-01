@@ -20,13 +20,14 @@ Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­ jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių Žygimanto ir Švitrigailos grupuočių taikiniu.'
+  teiginys: 'Žygimanto grupuotė kartu su Švitrigailos šalininkais vėl pavertė Vilnių politinės kovos taikiniu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimanto grupuotė kartu su Švitrigailos šalininkais vėl pavertė Vilnių politinės kovos taikiniu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I I I  KNYGA

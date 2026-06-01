@@ -19,13 +19,14 @@ O [vaitas ir tarėjai] nesi­ laikydami įstatymų pasisavina iš bažnyčios va
 ## Teiginiai
 
 - t-001
-  teiginys: 'O [vaitas ir tarėjai] nesi­ laikydami įstatymų pasisavina iš bažnyčios valdinių sau pa­ togią jurisdikciją, [teigdami] esą šitai nei teise, nei papro­ čiais nėra leista, kad jiems Vilniaus kapitula skirtų bažnytines cenzūras, nes ką nors spręsti bažnyčios.'
+  teiginys: 'Vilniaus vyskupo Motiejaus raštu Vilniaus kapitulai suteikta jurisdikcija ir leidimas taikyti bažnytines cenzūras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vyskupo Motiejaus raštu Vilniaus kapitulai suteikta jurisdikcija ir leidimas taikyti bažnytines cenzūras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savo ir minėto miesto vardu [ta­

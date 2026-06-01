@@ -56,4 +56,3 @@ Ljubavskij : Litovsko-Russkij sejm, Maskva 1900, 355-360 p. Plg.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/J. Jakubovskis]]
-- [[objektai/autoriai/Liubavskij, M]]

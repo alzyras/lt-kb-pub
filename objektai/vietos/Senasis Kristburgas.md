@@ -25,13 +25,14 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad stary Dzierzgoń) — senas pamedėnų centras.'
+  teiginys: 'Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kirsburgas (vėliau — Alt Christburg, dab. Stary Dzierzgoń) — senas pamedėnų centras.

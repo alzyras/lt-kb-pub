@@ -52,72 +52,46 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - t-001
   teiginys: 'Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami.'
   pagrindžia:
-    - c-001
+    - c-007
 
 - t-002
   teiginys: 'Bekešas kare prieš Maskvos kunigaikštį prie Polocko rizikavo gyvybe ir vėliau vadovavo vengrų riteriams ties Velikije Lūki.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Už nuopelnus Gabrieliui Bekešui tėvonijos teise perduotas Alantos dvaras su Kristupiškių, Kirdeikiškių, Germaniškio ir Gelminiškio priklausiniais.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Bekešo vaikams, palikuonims, paveldėtojams ir giminaičiams leista paveldimai valdyti suteiktas valdas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Bekešui ir jo palikuonims leista plėtoti dovanotas valdas, bet už jas reikėjo vykdyti krašto karinę tarnybą.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
-  teiginys: 'Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­ vo atiduotas Alantos dvaras63.'
-  pagrindžia:
-    - c-007
-
-- t-007
-  teiginys: 'Tai, kas tuose rejestruose išvardinta: bajorų, kelio miestiečių bei tiaglinių ir tėvoniškių žmonių, jie visi su savo vaikais ir palikuonimis yra tikri pono Gabrielio Bekešo tėvoniškiai ir su visais kitais priklausiniais ir dali­ mis, kurios tik nuo senų.'
+  teiginys: 'Gabrieliui Bekešui po Astiko Varšuvos seime pagal paveldėjimo teisę buvo atiduotas Alantos dvaras.'
   pagrindžia:
     - c-006
 
-- t-008
-  teiginys: 'Šiuo mūsų laiš­ ku pareiškiame visiems bendrai ir kiekvienam atskirai, kam tai reikia žinoti dabar ir ateityje, jog atsižvelgiame į ištiki­ mus, drąsius ir pasiaukojamus mūsų vengrų pulkų vado pono Gabrielio Bekešo Skornato nuopelnus; jis, narsiai ir nuolat.'
+- t-007
+  teiginys: 'Gabrieliui Bekešui ir jo palikuonims buvo leista valdose naudoti derlių, statyti bažnyčias, mokyklas, smukles ir malūnus.'
   pagrindžia:
-    - c-008
+    - c-005
+
+- t-008
+  teiginys: 'Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    DATUOTA 1581 METŲ VASARIO 13 DIENĄ
-    VARŠUVOS SEIME.
-    (Kopija iš originalo, esančio Radvilų archyve)
-    Steponas, Dievo Malone Lenkijos karalius, Didysis Lie­
-    tuvos, Rusios, Prūsijos, Žemaitijos, Mazovijos, Livonijos ku­
-    nigaikštis, Siedmigrodo* ir kitų kunigaikštis. Šiuo mūsų laiš­
-    ku pareiškiame visiems bendrai ir kiekvienam atskirai, kam
-    tai reikia žinoti dabar ir ateityje, jog atsižvelgiame į ištiki­
-    mus, drąsius ir pasiaukojamus mūsų vengrų pulkų vado
-    pono Gabrielio Bekešo Skornato nuopelnus; jis, narsiai ir
-    nuolat likdamas prie mūsų karališkosios didenybės, sau­
-    godamas mūsų sveikatą, šlovę ir autoritetą, taip pat ir visa­
-    me kame, kiekviename reikale ir tarnyboje mums ir Kara­
-    lystei bei Lietuvos Didžiajai Kunigaikštystei, Respublikai
-    su nemažomis savo lėšomis ir pajamomis, negailėdamas sa­
-    vo sveikatos prie mūsų, savo valdovo, būdamas, su noru,
-    ištikimai ir narsiai visada rėmė ir nesiliauja rėmęs.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kaip ir
@@ -146,7 +120,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -186,7 +160,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O tuo laiku verti geradarybės ir naudingi tar­
@@ -228,7 +202,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir bus leista minėtam po­
@@ -258,7 +232,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   pagrindžia:
     - t-005
 
-- c-006
+- c-005
+  santrauka: 'Gabrieliui Bekešui ir jo palikuonims buvo leista valdose naudoti derlių, statyti bažnyčias, mokyklas, smukles ir malūnus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai, kas tuose rejestruose išvardinta: bajorų,
@@ -285,7 +260,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   pagrindžia:
     - t-007
 
-- c-007
+- c-006
+  santrauka: 'Gabrieliui Bekešui po Astiko Varšuvos seime pagal paveldėjimo teisę buvo atiduotas Alantos dvaras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     61
@@ -309,7 +285,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   pagrindžia:
     - t-006
 
-- c-008
+- c-007
+  santrauka: 'Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     (Kopija iš originalo, esančio Radvilų archyve)
@@ -339,6 +316,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   statusas: verified
   pagrindžia:
     - t-008
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -355,4 +333,4 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
 - [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]
-- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]

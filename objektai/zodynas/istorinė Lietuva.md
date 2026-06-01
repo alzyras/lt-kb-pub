@@ -53,12 +53,12 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 - t-005
   teiginys: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
   pagrindžia:
-    - c-006
+    - c-001
 
 - t-006
   teiginys: 'XVI-XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.'
   pagrindžia:
-    - c-005
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -79,6 +79,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   statusas: verified
   pagrindžia:
     - t-004
+    - t-005
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -101,6 +102,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   statusas: verified
   pagrindžia:
     - t-002
+    - t-006
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -135,34 +137,6 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVI–XVIII a. LDK ba-
-    jorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais. Net oficialioji
-    valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.), savo ištakomis
-    siekianti dabartinių ukrainiečių ir baltarusių protėvių kalbą, vadinta lie-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
-    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
-    gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
-    rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
-    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
-    Lietuva, o šiandien ją vadiname istorine Lietuva. XVI–XVIII a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Susiję objektai

@@ -27,7 +27,7 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
     - c-001
 
 - t-002
-  teiginys: 'Ji siejama su jų išlaikymu ir ūkės reikalų tarnyba.'
+  teiginys: 'Mezliavą svietas skirdavo ūkės reikalų nuo namų darbo atitrauktiems vyresniesiems išlaikyti.'
   pagrindžia:
     - c-001
 

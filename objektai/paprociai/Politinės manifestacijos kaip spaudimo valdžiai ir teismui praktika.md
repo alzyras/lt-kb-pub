@@ -82,6 +82,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-005
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -117,21 +118,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  santrauka: 'Netrukus Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pabaigoje caro valdžia įvedė karo padėtį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valstiečių
-    reformą numatyta pradėti po dvejų metų. Netrukus Varšuvoje ir Vilniuje
-    kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pa-
-    baigoje caro valdžia įvedė karo padėtį.
-    1862 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Susiję objektai

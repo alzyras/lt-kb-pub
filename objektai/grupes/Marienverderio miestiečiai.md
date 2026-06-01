@@ -110,5 +110,4 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - [[objektai/asmenys/Konradas Švabas iš Elbingo]]
 - [[objektai/daiktai/Rūbai]]
 - [[objektai/zodynas/ginklanešiai]]
-- [[objektai/ivykiai/Antrasis Marienverderio miesto sugriovimas|Antrasis Marienverderio miesto sugriovimas (miestas)]]
 - [[objektai/grupes/Pamedėnai]]

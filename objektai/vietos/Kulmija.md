@@ -26,13 +26,14 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją.'
+  teiginys: '1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs

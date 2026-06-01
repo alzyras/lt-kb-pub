@@ -42,7 +42,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jogaila grąžino Vytautui Trakus, Gardiną ir Lucką, o Vytautas pasižadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais.'
+  teiginys: 'Astravos sutartimi Vytautas pažadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais.'
   pagrindžia:
     - c-001
 
@@ -53,7 +53,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-001
 
 - t-003
-  teiginys: 'Po Ostrovos Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.'
+  teiginys: 'Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.'
   pagrindžia:
     - c-003
 
@@ -105,6 +105,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - t-002
 
 - c-003
+  santrauka: 'Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila kartu su Vytautu apleidę Ostrovą, atvyko į Vilnių.
@@ -159,3 +160,4 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
 - [[objektai/asmenys/Olesnickio]]
 - [[objektai/zodynas/vasalystė]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)]]

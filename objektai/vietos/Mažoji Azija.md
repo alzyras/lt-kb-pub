@@ -35,7 +35,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
     - c-001
 
 - t-003
-  teiginys: 'Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.'
+  teiginys: 'Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu neteko reikšmės Europai.'
   pagrindžia:
     - c-003
 
@@ -68,7 +68,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
     - t-001
 
 - c-003
-  santrauka: 'Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.'
+  santrauka: 'Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu neteko reikšmės Europai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet toto-

@@ -42,12 +42,12 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos, kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius L I E T U V O S I S T O R I J A 180.'
+  teiginys: '1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausmes už veikimą užsienio naudai prieš Lietuvą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
-  teiginys: 'Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos, kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius.'
+  teiginys: '1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas priimtas siekiant sutramdyti antivalstybinę veiklą.'
   pagrindžia:
     - c-002
 
@@ -73,22 +73,7 @@ Nenurodyta
     - t-003
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Susikū-
-    rusios dvi vokiečių nacių organizacijos varė antivalstybinę propagandą,
-    ruošėsi sukilimui ir krašto prijungimui prie Vokietijos, terorizavo lietuvių
-    susirinkimus, puldinėjo žydus. Klaipėda slydo iš Lietuvos kontrolės.
-    Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priim-
-    tas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos,
-    kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
+  santrauka: '1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausmes už veikimą užsienio naudai prieš Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Susikū-
@@ -107,6 +92,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

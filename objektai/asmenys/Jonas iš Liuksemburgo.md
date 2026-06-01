@@ -57,4 +57,3 @@ Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Pr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

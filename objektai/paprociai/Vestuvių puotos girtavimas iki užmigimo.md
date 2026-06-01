@@ -41,7 +41,6 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad kai jie priėjo šio kunigaikščio sodybą, užtiko ten sukviestus į vestuves beveik visus Lietuvos karalystės kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė juos ir nužudė 70 kunigaikščių drauge su namų šeimininku.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
@@ -62,26 +61,6 @@ Nenurodyta
     žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai jie priėjo šio
-    kunigaikščio sodybą, užtiko ten sukviestus  į vestuves beveik visus Lietuvos karalystės
-    kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė
-    juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
-    ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
-    žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
-
-
-
-
-                              229 (224).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
     - t-001

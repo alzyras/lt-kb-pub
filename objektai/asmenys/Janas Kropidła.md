@@ -20,13 +20,14 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­ nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas Janas Kropidła iš Jogailos svitos.'
+  teiginys: 'Kujavų vyskupas Janas Kropidła Vytauto prašymu palaimino Vytauto ir Julijonos Alšėniškės santuoką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kujavų vyskupas Janas Kropidła Vytauto prašymu palaimino Vytauto ir Julijonos Alšėniškės santuoką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai

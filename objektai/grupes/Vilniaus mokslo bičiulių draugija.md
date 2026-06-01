@@ -72,5 +72,5 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
-- [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]
 - [[objektai/grupes/Lietuvių Mokslo Draugija]]
+- [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]

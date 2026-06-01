@@ -33,19 +33,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo.'
+  teiginys: 'Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.'
   pagrindžia:
     - c-015
 
 - t-002
   teiginys: 'Vytautas Lietuvoje įkurdino totorius, kurie garsėjo dora, narsa ir prieraišumu naujai tėvynei.'
   pagrindžia:
-    - c-049
+    - c-036
 
 - t-003
-  teiginys: 'Tuo me­ tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­ imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai bažnyčioje giedama Dei Cantate].'
+  teiginys: 'Vilniuje ir jo apylinkėse įsikūrė nemaža į nelaisvę paimtų totorių.'
   pagrindžia:
-    - c-027
+    - c-023
 
 - t-004
   teiginys: 'Totoriai ir Livonijos ordinas trukdė taikų Vytauto darbą.'
@@ -53,268 +53,260 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-006
 
 - t-005
-  teiginys: 'Čia, Vilniuje (1443 metais), totorių pasiuntinių prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­ tas Perekopo chanu.'
+  teiginys: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
   pagrindžia:
-    - c-051
+    - c-038
 
 - t-006
-  teiginys: 'Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­ nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­ se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­ sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo žmonių kokiu nors.'
+  teiginys: 'Didžiojoje Kunigaikštystėje gyvenę totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę ir kitas duokles dvasininkams.'
   pagrindžia:
     - c-016
 
 - t-007
-  teiginys: 'Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją, o iš jos per totorius galėsime pasiekti ir Kiniją.'
-  pagrindžia:
-    - c-055
-
-- t-008
   teiginys: 'Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius.'
   pagrindžia:
-    - c-021
+    - c-019
 
-- t-009
+- t-008
   teiginys: 'Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.'
   pagrindžia:
     - c-013
 
-- t-010
-  teiginys: 'Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­ nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą Žygimanto valdymo laiką.'
+- t-009
+  teiginys: 'Švitrigaila į Lietuvą kreipė įvairias totorių ir rusų ordas, siekdamas atimti valdžią iš Žygimanto.'
   pagrindžia:
-    - c-058
+    - c-024
 
-- t-011
+- t-010
   teiginys: 'Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė.'
   pagrindžia:
     - c-014
 
-- t-012
+- t-011
   teiginys: 'Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą.'
   pagrindžia:
-    - c-020
+    - c-006
 
-- t-013
+- t-012
   teiginys: 'Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu, 1279 m. apiplėšė Lietuvą^256.'
   pagrindžia:
-    - c-046
+    - c-035
 
-- t-014
+- t-013
   teiginys: 'LDK kultūrinę įvairovę didino etninis aspektas: nors kai kurios konfesinės ir etninės ribos sutapo (žydų, totorių, karaimų, iš dalies ir sentikių), dažnai konfesijos apėmė įvairias etninės kilmės bendruomenes.'
   pagrindžia:
-    - c-048
+    - c-037
+
+- t-014
+  teiginys: 'Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną ir Henriką, o tas šalis nuniokojo.'
+  pagrindžia:
+    - c-026
 
 - t-015
-  teiginys: 'Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­ lio, ir Henriko, Vroclavo kunigaikščio, žūtį Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė į Vengriją ir Lenkiją, kur mūšyje nukovė Kolomaną, Vengrijos.'
-  pagrindžia:
-    - c-032
-
-- t-016
   teiginys: 'Dusburgietis teigia, kad apie totorių viešpatavimo pradžią 1202 viešpaties metais prasidėjo totorių viešpatavimas (Ptol.'
   pagrindžia:
-    - c-025
-    - c-034
+    - c-022
 
-- t-017
+- t-016
   teiginys: 'Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.'
   pagrindžia:
     - c-009
 
-- t-018
+- t-017
   teiginys: 'Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo, nes po apiplėšimo totoriai stengdavosi pasitraukti kuo sparčiau.'
   pagrindžia:
-    - c-052
+    - c-039
+
+- t-018
+  teiginys: 'Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais.'
+  pagrindžia:
+    - c-018
 
 - t-019
-  teiginys: 'Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­ dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra skelbęs.'
-  pagrindžia:
-    - c-019
-
-- t-020
   teiginys: 'Ordino trukdė dar taikų Vytauto darbą totoriai, Livonijos Ordinas ir k.'
   pagrindžia:
-    - c-043
+    - c-006
 
-- t-021
+- t-020
   teiginys: 'Kiekvienas raitelis su savimi vesdavosi po tris atsarginius žirgus, kuriuos keičiant totorių raiteliai galėdavo judėti taip sparčiai, jog anaiptol ne visada žinia apie totorių reidą galėdavo užbėgti jiems už akių.'
   pagrindžia:
     - c-011
 
-- t-022
+- t-021
   teiginys: 'Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru.'
   pagrindžia:
-    - c-038
+    - c-018
 
-- t-023
+- t-022
   teiginys: 'Švitrigaila kėsinosi atimti iš Žygimanto valdžią ir į Lietuvą kreipė įvairias totorių bei rusų ordas.'
   pagrindžia:
-    - c-030
+    - c-024
 
-- t-024
+- t-023
   teiginys: 'Vytautas, užimdamas naujus rusų kraštus, priartėjo prie totorių sienų, ir tai vedė prie karo.'
   pagrindžia:
     - c-003
 
-- t-025
-  teiginys: 'Bet ir totoriai, įsigalėję Rusijoj, taip pat ėmė tarp savęs vaidytis, kuo nekartą Lietuva pasipelnydavo.'
+- t-024
+  teiginys: 'Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo.'
   pagrindžia:
-    - c-044
+    - c-033
 
-- t-026
+- t-025
   teiginys: 'Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai atsisakydavo mokėti dvasininkams dešimtinę, pelno mokestį ir kitas duokles.'
   pagrindžia:
-    - c-022
+    - c-016
 
-- t-027
+- t-026
   teiginys: 'Totoriams strateginį privalumą teikė jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų.'
   pagrindžia:
     - c-010
 
-- t-028
-  teiginys: 'Dabar visa garbė ir šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­ čiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus totorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.'
+- t-027
+  teiginys: 'Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę.'
   pagrindžia:
-    - c-042
+    - c-032
 
-- t-029
+- t-028
   teiginys: 'Vytauto laikais Rytų Europos pietuose totoriai turėjo didelę galybę ir buvo užkariavę daug rusų gyvenamų žemių.'
   pagrindžia:
     - c-001
 
-- t-030
-  teiginys: '62 Kaip seniau totoriai garsėjo santū­ rumu, svetingumu ir kitomis iš kar­ tų kartoms pereinančiomis dorybė­ mis, liudija Mykolas Lietuvis, vienintelis autentiškų raštų apie sa­ vo tautos papročius autorius, kuris bando (gal ir apsirinka) totorius ver­.'
+- t-029
+  teiginys: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
   pagrindžia:
-    - c-024
+    - c-021
 
-- t-031
+- t-030
   teiginys: 'Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais.'
   pagrindžia:
-    - c-036
+    - c-029
 
-- t-032
+- t-031
   teiginys: 'Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę.'
   pagrindžia:
-    - c-057
+    - c-042
 
-- t-033
+- t-032
   teiginys: 'Taip pat buvo pasiūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.'
   pagrindžia:
-    - c-028
+    - c-009
+
+- t-033
+  teiginys: 'Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais.'
+  pagrindžia:
+    - c-025
 
 - t-034
-  teiginys: 'Geri santykiai su Jogaila ir lenkais, kova su Or­ dinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios stiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­ sios Vytauto politikos mintys.'
+  teiginys: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
   pagrindžia:
-    - c-031
+    - c-030
 
 - t-035
-  teiginys: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
-  pagrindžia:
-    - c-039
-
-- t-036
   teiginys: 'Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke.'
   pagrindžia:
-    - c-017
+    - c-015
+
+- t-036
+  teiginys: 'Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis.'
+  pagrindžia:
+    - c-019
 
 - t-037
-  teiginys: 'Tada Lietuvos sostinėje regėdavo kupranuga­ rius, dryžuotom gūniom apdangstytus, turtingomis dovano­ mis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas Vytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo totorių chanas Jedigėjus76.'
-  pagrindžia:
-    - c-037
-
-- t-038
   teiginys: 'Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas.'
   pagrindžia:
     - c-004
 
-- t-039
+- t-038
   teiginys: 'Žalgirio pergalė dar nepasiekta ideologiškai – Vakaruose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes jie nugalėjo pasitelkę pagonis, totorius musulmonus.'
   pagrindžia:
-    - c-026
+    - c-045
 
-- t-040
+- t-039
   teiginys: 'Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.'
   pagrindžia:
-    - c-047
+    - c-036
 
-- t-041
+- t-040
   teiginys: 'Seniau totoriai vertėsi audinių ir siūlų prekyba.'
   pagrindžia:
-    - c-035
+    - c-028
 
-- t-042
+- t-041
   teiginys: 'Iki unijos su Lenkija LDK turėjo totorių musulmonų bendruomenę, kurios Lenkijoje iki tol nebuvo.'
   pagrindžia:
-    - c-056
+    - c-041
 
-- t-043
+- t-042
   teiginys: 'Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.'
   pagrindžia:
     - c-008
 
-- t-044
+- t-043
   teiginys: 'Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.'
   pagrindžia:
     - c-002
 
-- t-045
+- t-044
   teiginys: 'Kova rytuose su rusų kunigaikščiais ir totoriais buvo viena iš Vytauto politikos krypčių.'
   pagrindžia:
     - c-007
 
-- t-046
+- t-045
   teiginys: 'Dusburgietis teigia, kad apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.'
   pagrindžia:
-    - c-023
-    - c-053
-    - c-040
+    - c-020
+    - c-026
 
-- t-047
+- t-046
   teiginys: '1506 m. vasarą totoriai įsiveržė į LDK valdas, nesitikėdami nesėkmės.'
   pagrindžia:
     - c-012
 
-- t-048
+- t-047
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol.'
   pagrindžia:
-    - c-018
-    - c-050
+    - c-017
 
-- t-049
+- t-048
   teiginys: '1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.'
   pagrindžia:
-    - c-054
+    - c-040
 
-- t-050
+- t-049
   teiginys: 'Dusburgietis teigia, kad apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį 1326 viešpaties metais Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.'
   pagrindžia:
-    - c-045
+    - c-034
+
+- t-050
+  teiginys: 'Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos.'
+  pagrindžia:
+    - c-027
 
 - t-051
-  teiginys: 'Dar iš to paties pasiuntinio turiu, jog (de Vörste) Vytautas su totorių chanu už­ mezgė draugiškus ryšius ir sutarė dėl taikos.'
-  pagrindžia:
-    - c-033
-
-- t-052
-  teiginys: 'Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­ guoles ir turtus ir tuojau metėsi krašto terioti.'
+  teiginys: 'Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą.'
   pagrindžia:
     - c-005
 
-- t-053
+- t-052
   teiginys: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir kitomis dorybėmis.'
   pagrindžia:
-    - c-029
+    - c-021
 
-- t-054
+- t-053
   teiginys: 'Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
   pagrindžia:
-    - c-041
+    - c-031
 
-- t-055
+- t-054
   teiginys: 'Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.'
   pagrindžia:
-    - c-059
+    - c-043
 
-- t-056
+- t-055
   teiginys: 'Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.'
   pagrindžia:
-    - c-060
+    - c-044
 
 ## Reikšmingi paminėjimai
 
@@ -333,7 +325,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-029
+    - t-028
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -349,7 +341,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-044
+    - t-043
 
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -364,7 +356,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-023
 
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -378,9 +370,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-038
+    - t-037
 
 - c-005
+  santrauka: 'Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­
@@ -390,7 +383,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-052
+    - t-051
 
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -405,6 +398,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   statusas: verified
   pagrindžia:
     - t-004
+    - t-011
+    - t-019
 
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -418,7 +413,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-045
+    - t-044
 
 - c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -439,7 +434,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-043
+    - t-042
 
 - c-009
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -462,7 +457,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-016
+    - t-032
 
 - c-010
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -484,7 +480,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
+    - t-026
 
 - c-011
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -501,7 +497,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-020
 
 - c-012
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -522,7 +518,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-047
+    - t-046
 
 - c-013
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -543,7 +539,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-014
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -566,9 +562,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 - c-015
+  santrauka: 'Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
@@ -605,8 +602,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   statusas: verified
   pagrindžia:
     - t-001
+    - t-035
 
 - c-016
+  santrauka: 'Didžiojoje Kunigaikštystėje gyvenę totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę ir kitas duokles dvasininkams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tarė­
@@ -638,46 +637,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   statusas: verified
   pagrindžia:
     - t-006
+    - t-025
 
 - c-017
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tasai Andrius, Jogailai pavaldaus
-    Polocko kunigaikštis, Algirdo sū­
-    nus, gimęs iš antros jo santuokos su
-    Julijona, Vitebsko kunigaikštyte, ta­
-    čiau nebuvo palankus Jogailai, vei­
-    kiau linkęs į Kęstučio pusę; tad Jo­
-    gaila nusprendė jį išvyti iš jo dalinės
-    valdos. Dėl to sudarė slaptą, be
-    Kęstučio žinios, sutartį su Livoni­
-    jos magistru, kad anas padėtų jam
-    vykdyti tuos kėslus. Tuo metu, kai
-    Andrius, nuolatinis Dmitrijaus Do­
-    niškio bendražygis, karo rūpesčiais
-    dalinęsis, kovojęs su juo dar kartu
-    prieš totorius, kur Kulikovo lauke
-    (1380 metų rugsėjo 8-ą) prie perga­
-    lės daugiausia prisidėjęs, dalyvavo
-    mūšiuose, - Skirgaila užsibuvo Po-
-    34
-
-    ## Puslapis 51
-
-    I  KNYGA
-    Galiausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­
-    siryžo užbėgti jam už akių ir žinodamas, jog šis visas savo
-    ginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad
-    ten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų
-    rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
-    Vilnių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-036
-
-- c-018
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
@@ -688,9 +650,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-048
+    - t-047
 
-- c-019
+- c-018
+  santrauka: 'Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Vilniaus vyskupas Petras tam
@@ -717,23 +680,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-018
+    - t-021
 
-- c-020
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Visi šie rūpesčiai reikalavo
-    taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
-    taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
-    vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
-    kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-021
+- c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto
@@ -751,42 +701,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
+    - t-036
 
-- c-022
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tarė­
-    jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
-    mums patiems, kadangi turime aukščiausią abiejų luomų
-    sienų tyrimo valdžią.
-    Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
-    nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
-    se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
-    sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo
-    žmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­
-    kėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų
-    ir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,
-    ir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,
-    kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar
-    totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­
-    žįstančių valdinių cesijos ar decesijos būdu, sudarydami
-    kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,
-    401
-
-    ## Puslapis 418
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    nostram profitentibus acquirunt, eadem onera sustineant, in
-    possessionibus acquisitis vėl acquirendis, quae sustinuerunt
-    ii, a quibus eas acquisiverunt, aut acquisituri sunt.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-026
-
-- c-023
+- c-020
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Vengrijos ir Lenkijos nusiaubimą
@@ -800,9 +718,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-046
+    - t-045
+    - t-058
 
-- c-024
+- c-021
+  santrauka: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2.
@@ -824,9 +744,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-029
+    - t-052
 
-- c-025
+- c-022
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie totorių viešpatavimo pradžią
@@ -836,22 +757,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
-- c-026
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
-    priežastis – Žemaitija. Žalgirio pergalė dar nepasiekta ideologiškai – Va-
-    karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
-    jie nugalėjo pasitelkę pagonis, totorius musulmonus. Todėl 1413 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-039
-
-- c-027
+- c-023
+  santrauka: 'Vilniuje ir jo apylinkėse įsikūrė nemaža į nelaisvę paimtų totorių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dalyvaujant garbingiems
@@ -882,54 +791,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - t-003
 
-- c-028
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Taigi, Lietuva siekė atgauti
-    Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą,
-    Latgalą, visą Baltijos pajūrį tarp Priegliaus
-    ir Dauguvos. Taip pat buvo pasiūlyta iškelti
-    kryžiuočius į rytų stepes ginti Europos
-    šalių nuo totorių. Šiuose Algirdo reikala-
-    vimuose atsispindi suvokimas, kad žemės,
-    kuriose gyvena vokiečių nukariauti baltai,
-
-    turi priklausyti vienintelei valstybingumą
-    sukūrusiai baltų tautai - lietuviams, ir
-    teisėtas siekis atremti Lietuvos valstybę į
-    Baltijos pakrantę, suvokimas, kad jūra yra
-    natūrali Lietuvos siena šiaurvakariuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-033
-
-- c-029
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    2.
-    62
-    Kaip seniau totoriai garsėjo santū­
-    rumu, svetingumu ir kitomis iš kar­
-    tų kartoms pereinančiomis dorybė­
-    mis, liudija Mykolas Lietuvis,
-    vienintelis autentiškų raštų apie sa­
-    vo tautos papročius autorius, kuris
-    bando (gal ir apsirinka) totorius ver­
-    tesniais už savo tėvynainius esant
-    pripažinti. Žr. retą jo kūrinėlį: Mi­
-    kalonis Lituani, de M oribus Tartarorum,
-    Lituanorum et M oschorum, Fragmina X,
-    multiplici historia referta etc. nunc pri-
-    M um per J. J a c.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-053
-
-- c-030
+- c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai paskelbus dvylikos metų paliaubas tarp
@@ -950,9 +812,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-022
+    - t-009
 
-- c-031
+- c-025
+  santrauka: 'Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Atrodo,
@@ -966,9 +830,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-034
+    - t-033
 
-- c-032
+- c-026
+  santrauka: 'Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną ir Henriką, o tas šalis nuniokojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
@@ -982,9 +847,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
+    - t-045
 
-- c-033
+- c-027
+  santrauka: 'Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar iš to paties
@@ -997,19 +864,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-051
+    - t-050
 
-- c-034
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1202 viešpaties metais prasidėjo totorių viešpatavimas (Ptol. loc. cit.; Mart. loc. cit.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-035
+- c-028
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jų dau­
@@ -1040,9 +897,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
+    - t-040
 
-- c-036
+- c-029
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
@@ -1056,58 +913,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-031
+    - t-030
 
-- c-037
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytauto
-    didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
-    kloties laikai. Tada Lietuvos sostinėje regėdavo kupranuga­
-    rius, dryžuotom gūniom apdangstytus, turtingomis dovano­
-    mis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas
-    Vytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo
-    totorių chanas Jedigėjus76. Valakijos kunigaikščiai jo globos sie­
-    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
-    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
-    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
-    Žygimantą Kaributaitį, savo sūnėną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-037
-
-- c-038
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau Vilniaus vyskupas Petras tam
-    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
-    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
-    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
-    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
-    ti, ir kuris palaimino tą santuoką.
-    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
-    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
-    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
-    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
-    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
-    daugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­
-    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
-    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
-    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
-    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
-    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
-    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
-    73 nė Ona mirė Trakuose, o palaidota
-    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-022
-
-- c-039
+- c-030
+  santrauka: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau XVII–XVIII a. bent jau Vilnius
@@ -1122,22 +931,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-034
 
-- c-040
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
-    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
-    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
-    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-046
-
-- c-041
+- c-031
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didieji kunigaikščiai, reikšdami teritorines
@@ -1150,9 +946,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-054
+    - t-053
 
-- c-042
+- c-032
+  santrauka: 'Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dabar visa garbė ir
@@ -1166,23 +963,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-027
 
-- c-043
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Visi šie rūpesčiai reikalavo
-    taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
-    taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
-    vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
-    kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-020
-
-- c-044
+- c-033
+  santrauka: 'Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet ir totoriai,
@@ -1195,9 +979,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-024
 
-- c-045
+- c-034
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
@@ -1212,9 +996,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-050
+    - t-049
 
-- c-046
+- c-035
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip in Mindaugni, Traidenini rūpesčių sudarė totoriai. Iš tu­
@@ -1225,9 +1009,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
 
-- c-047
+- c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gana grėsmingai įsiliepsnojo pirmieji nesuta­
@@ -1260,9 +1044,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-040
+    - t-039
+    - t-002
 
-- c-048
+- c-037
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK
@@ -1280,56 +1065,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
-- c-049
-  santrauka: 'Vytautas Lietuvoje įkurdino totorius, kurie garsėjo dora, narsa ir prieraišumu naujai tėvynei.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gana grėsmingai įsiliepsnojo pirmieji nesuta­
-    rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos
-    bus užtraukusi: mat parašė laišką Vytautui prašydama išmo-
-    miestų, kuriuos reikėtų saugoti.]* -
-    Šitas, nepalankus lietuvių atžvilgiu
-    palyginimas su totoriais gal persū­
-    dytas, tačiau negalima būtų nugin­
-    čyti, kad totoriai, Vytauto Lietuvoje
-    įkurdinti, net iki mūsų laikų garsūs
-    nepriekaištinga dora, narsa ir prie­
-    raišumu savo naujai tėvynei. Jų dau­
-    gybę su visomis šeimomis į šiuos
-    kraštus turėjo būti atkėlęs šaunus
-    pergalingas karys Vytautas; be jų pa­
-    grindinės gyvenvietės prie Vokės
-    upės, be tų, kurie įsikūrė mieste ir
-    kurie apsigyveno vietovėje, vadinto­
-    je Nemėžiu, per mylią nuo Vilniaus į
-    rytus, daug jų įsikūrė pavietuose:
-    Lydos, Ašmenos ir Naugarduko ir
-    iš tiesų nėra valdos, ypač pasakyti­
-    na tai apie Vilniaus, Trakų ir Nau­
-    garduko pavietus, kur iki šiolei ne­
-    būtų išlikę totorių buveinių pėdsakų
-    pavadinimuose: Totoriškės, Totorių
-    kapinės ir 1.1.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-050
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
-    sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-048
-
-- c-051
+- c-038
+  santrauka: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daug jų vyko
@@ -1349,7 +1088,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - t-005
 
-- c-052
+- c-039
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš kitos pusės, nesant masinės reguliarios
@@ -1367,19 +1106,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
-- c-053
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-046
-
-- c-054
+- c-040
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš tu­
@@ -1392,25 +1121,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-049
+    - t-048
 
-- c-055
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vienas jų tada rašė: „Reikia
-    taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
-    o iš jos per totorius galėsime pasiekti ir Kiniją. Be to, reikia neužmirš-
-    ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
-    naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
-    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
-    1626–1634 m. ir rašė asketikos veikalus kinų kalba.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-056
+- c-041
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -1426,9 +1139,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-042
+    - t-041
 
-- c-057
+- c-042
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dalis jų išvengė
@@ -1447,32 +1160,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-032
+    - t-031
 
-- c-058
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kai paskelbus dvylikos metų paliaubas tarp
-    karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
-    dėlto aprimo, apsilpo ir energingojo Švitrigailos jėgos Lie­
-    tuvoje. Naudodamasis visuotine neapykanta, kurią per sa­
-    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
-    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
-    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
-    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
-    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
-    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
-    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
-    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
-    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
-    pragaištingų konkurentų, varžybas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-059
+- c-043
   santrauka: 'Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1486,9 +1176,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-055
+    - t-054
 
-- c-060
+- c-044
   santrauka: 'Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1500,9 +1190,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-056
+    - t-055
 
-- c-061
+- c-045
   santrauka: 'Žalgirio pergalė dar nepasiekta ideologiškai – Vakaruose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes jie nugalėjo pasitelkę pagonis, totorius musulmonus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1517,9 +1207,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-057
+    - t-056
+    - t-038
 
-- c-062
+- c-046
   santrauka: 'Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1538,20 +1229,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-058
-
-- c-063
-  santrauka: 'Dusburgietis teigia, kad apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    22. Apie Vengrijos ir Lenkijos nusiaubimą
-
-       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-059
+    - t-057
 
 ## Ryšiai
 ### Susiję objektai
@@ -1696,7 +1374,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[objektai/posakiai/wieszczym duchem]]
 - [[objektai/grupes/Čekijos husitai]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
-- [[objektai/daiktai/Šarvinės pirštinės]]
 - [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]
 - [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
@@ -1751,7 +1428,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/1449 m. amžinoji taika su Maskva]]
-- [[objektai/ivykiai/1506 m. Krymo totorių įsiveržimas į Lietuvą ir Aleksandro pasitraukimas iš Lydos]]
 - [[objektai/asmenys/Abramas (iždininkas)]]
 - [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.)]]
 - [[objektai/asmenys/Aldona Gediminaitė]]
@@ -1760,7 +1436,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
 - [[objektai/paprociai/Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas]]
-- [[objektai/ivykiai/Danieliaus vainikavimas karaliumi Drogičine (1253 m.)]]
 - [[objektai/asmenys/Danmilė]]
 - [[objektai/asmenys/Dmitrijus Michailovičius]]
 - [[objektai/grupes/Dominikonų ordinas]]
@@ -1818,7 +1493,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[objektai/grupes/Saksų dinastija]]
 - [[objektai/asmenys/Saladinas]]
 - [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
-- [[objektai/grupes/Sentikiai]]
 - [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]]
 - [[objektai/asmenys/Sofija Vytautaitė]]
 - [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius]]
@@ -1855,23 +1529,24 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/kustodas]]
 - [[objektai/asmenys/Šach Achmedas]]
-- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
 - [[objektai/asmenys/Žygimantas Kaributaitis]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]
 - [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]
 - [[objektai/posakiai/„tvanas“]]
+- [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/asmenys/Dmitrijus Doniškis]]
 - [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]
+- [[objektai/asmenys/Kiška]]
 - [[objektai/asmenys/Kopčius]]
-- [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
+- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/daiktai/Mietas]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/grupes/Okos aukštupio kunigaikščiai]]
+- [[objektai/grupes/Nogajaus orda]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/posakiai/Tartari, longe sunt Lituanis inferiores viribus]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
-- [[objektai/asmenys/Andrius Algirdaitis]]
-- [[objektai/asmenys/Dmitrijus Doniškis]]
+- [[objektai/zodynas/ulusas]]
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
-- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]

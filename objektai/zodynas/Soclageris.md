@@ -25,30 +25,11 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
 - t-002
   teiginys: 'Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jėgų prisikelti kaip tauta, sukurti tautinio judėjimo modelį, išsprogdinti komunistų valdymą respublikoje ir padėti sunaikinti vienpartinį režimą visoje SSRS, pagaliau ir pačią SSRS.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    * * *
-    Po Pirmojo pasaulinio karo Lietuvos valstybė atsikūrė, An-
-    trojo pasaulinio karo metu ji buvo ištrinta iš Europos žemėlapio ir vėl at-
-    gimė, žlungant sovietinio modelio komunizmui. Soclagerį ištikus politi-
-    nei, ekonominei, tautinei krizei, lietuviai surado jėgų prisikelti kaip tauta,
-    sukurti tautinio judėjimo modelį, išsprogdinti komunistų valdymą res-
-    publikoje ir padėti sunaikinti vienpartinį režimą visoje SSRS, pagaliau ir
-    pačią SSRS. Tai sugebėjo padaryti jau sovietų santvarkoje, o ne prieškario
-    Lietuvoje augusios kartos, jų vedliu tapusi išsaugojusi laisvės ir nepriklau-
-    somybės idealus lietuvių inteligentija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jėgų prisikelti kaip tauta, sukurti tautinio judėjimo modelį, išsprogdinti komunistų valdymą respublikoje ir padėti sunaikinti vienpartinį režimą visoje SSRS, pagaliau ir pačią SSRS.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -71,6 +52,7 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

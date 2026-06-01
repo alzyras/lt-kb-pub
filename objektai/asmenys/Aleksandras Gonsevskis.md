@@ -54,6 +54,5 @@ Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleks
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]

@@ -28,13 +28,14 @@ Dusburgietis teigia, kad varakauskas R.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad varakauskas R.'
+  teiginys: 'R. Varakausko straipsnis apie lietuvių kovą su vokiškaisiais agresoriais Mindaugo laikotarpiu paskelbtas 1958 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Varakausko straipsnis apie lietuvių kovą su vokiškaisiais agresoriais Mindaugo laikotarpiu paskelbtas 1958 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu

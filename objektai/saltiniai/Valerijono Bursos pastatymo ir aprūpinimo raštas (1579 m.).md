@@ -26,7 +26,7 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
 ## Teiginiai
 
 - t-001
-  teiginys: 'O anksčiau minėtiems studentams, kad šio mūsų noro vykdymas būtų tvirtesnis ir stabilesnis, davėme ir duodame šį mūsų raštą, surašytą mūsų ranka ir patvirtintą mūsų antspaudu, ir įtei­ kiame į didžiai gerbiamo tėvo Rektoriaus rankas, kur su li­ kusiais.'
+  teiginys: 'Valerijono Bursos raštas buvo surašytas steigėjo ranka, patvirtintas jo antspaudu ir perduotas saugoti rektoriui.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
     - t-003
 
 - c-002
+  santrauka: 'Valerijono Bursos raštas buvo surašytas steigėjo ranka, patvirtintas jo antspaudu ir perduotas saugoti rektoriui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Už tai visagalis Dievas prakilniosioms Šviesy­

@@ -39,42 +39,6 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    PAGONIŲ VALSTYBĖ.
-    LIETUVOS KRIKŠTAS
-    P
-    o Mindaugo nebuvo nė vieno Lietuvos valdovo, kuris
-    nebūtų vedęs derybų dėl krikšto, o kartu dėl karūnaci-
-    jos – tai lėmė karas su Vokiečių ordinais (XIII a. pabaigoje jau ir Vokiečių
-    ordinas, nukariavęs prūsus, pradėjo agresiją prieš Lietuvą). Suvokę, kad
-    būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
-    ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas
-    krikštas nebūtų išsprendęs ordinų agresijos problemos).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
-    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
-    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire. Rem-
-    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
-    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
-    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
-    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
-    Vilnius nevirto „antruoju Kijevu“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -96,8 +60,9 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
-- c-004
+- c-002
   santrauka: 'Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o Vilnius nevirto „antruoju Kijevu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -119,3 +84,4 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002

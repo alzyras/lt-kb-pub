@@ -64,5 +64,4 @@ Lietuvos didysis etmonas Mykolas Kazimieras Oginskis į jų reikalavimus pasiai�
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/etmonų teisė]]

@@ -27,13 +27,14 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus.'
+  teiginys: 'Hertvigas iš Pokarvių buvo Tomo, kuris 1322 m. Brandenburgo pilyje mirė ir atgijo per Viešpaties kryžiaus atskalą, tėvas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hertvigas iš Pokarvių buvo Tomo, kuris 1322 m. Brandenburgo pilyje mirė ir atgijo per Viešpaties kryžiaus atskalą, tėvas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     122. Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­

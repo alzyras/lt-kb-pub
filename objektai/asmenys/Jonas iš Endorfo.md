@@ -60,6 +60,6 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/oktava]]
+- [[objektai/zodynas/mišparai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
-- [[objektai/zodynas/mišparai]]

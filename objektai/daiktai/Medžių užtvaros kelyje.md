@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­ siartinus prie Strėvos upės Trakų paviete, tankiame miške iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių, 54 Stryjkowski, p. 464, aiškiai nurodo, kad Švitrigaila pilies užėmi­ mo.'
+  teiginys: 'Prie Strėvos upės žemaičių būriai prikirto medžių ir jais užvertė atsitraukiančios kariaunos kelią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Strėvos upės žemaičių būriai prikirto medžių ir jais užvertė atsitraukiančios kariaunos kelią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau

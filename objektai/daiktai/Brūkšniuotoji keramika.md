@@ -51,7 +51,7 @@ Nenurodyta
 - t-001
   teiginys: 'E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t.'
@@ -75,27 +75,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    L. N a k a i t ė rašė apie sidabro naudojimą II-XIII a.
-    Lietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės
-    matą (AkMD, t. 20, 1966, 33-45 p.), apie sidabro dirbinius ir auk­
-    sakalystę Lietuvoje iki XIII a. (AkMD, t. 22, 1966, 67-83 p.; t. 27,
-    1968, 47-55 p.). E. Danilaitė domėjosi brūkšniuotąja keramika
-    Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;
-    t. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/E. Danilaitė]]
-- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/daiktai/Sidabro dirbiniai]]
 - [[objektai/autoriai/E. Radzvilovaitė]]
 - [[objektai/daiktai/Geležiniai įrankiai]]

@@ -31,37 +31,37 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 - t-001
   teiginys: 'Galvanausko planą paruošti akcijos Klaipėdoje politinę apsaugą ir diplomatinę gynybą.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-002
-  teiginys: 'Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas.'
+  teiginys: 'Ernestas Galvanauskas nota pakvietė nustatyti Lenkijos rytines sienas.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-003
   teiginys: 'Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovinskas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį, nes...'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-004
   teiginys: 'Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garantuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-005
-  teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
+  teiginys: '1921 m. lapkričio 15 d. Kaune sprogus bombai Ernestas Galvanauskas buvo sužeistas, bet liko gyvas.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-006
-  teiginys: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
+  teiginys: 'Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, manydamas, kad Lietuva jo negaus per Tautų Sąjungą ar Ambasadorių konferenciją.'
   pagrindžia:
-    - c-002
+    - c-006
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
+  santrauka: '1921 m. lapkričio 15 d. Kaune sprogus bombai Ernestas Galvanauskas buvo sužeistas, bet liko gyvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
@@ -75,40 +75,9 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ministras pirmininkas Ernestas Galvanauskas
-    Klaipėdoje 1923 m. priima lietuvių paradą
-
-    L I E T U V O S  I S T O R I J A
-    154
-    Kairės demokratija ir
-    1926 metų gruodžio perversmas
-    Nepaisant geografinio artumo, istorijos bendrumo, etninės
-    giminystės (tarp latvių ir lietuvių) ryšiai su Latvija ir Estija nesiplėtojo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
-    nistracija, remiama bataliono prancūzų pėstininkų. Prancūzai skelbė, kad
-    Klaipėda gali tapti Lietuvos, bet tik susivienijusios su Lenkija, dalimi. Mat
-    ir Lenkija neslėpė savo planų įsitvirtinti Klaipėdoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-004
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio
@@ -125,7 +94,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   pagrindžia:
     - t-004
 
-- c-005
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai liko sukilimo inscenizacijos
@@ -140,7 +109,8 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   pagrindžia:
     - t-003
 
-- c-006
+- c-004
+  santrauka: 'Ernestas Galvanauskas nota pakvietė nustatyti Lenkijos rytines sienas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
@@ -157,7 +127,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   pagrindžia:
     - t-002
 
-- c-007
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1922 m. pradžioje
@@ -172,8 +142,8 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   pagrindžia:
     - t-001
 
-- c-008
-  santrauka: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
+- c-006
+  santrauka: 'Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, manydamas, kad Lietuva jo negaus per Tautų Sąjungą ar Ambasadorių konferenciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
@@ -188,22 +158,21 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/daiktai/Bomba]]
-- [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/akcijos]]
 - [[objektai/zodynas/fait accompli]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]

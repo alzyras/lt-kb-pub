@@ -45,17 +45,12 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     - c-002
 
 - t-005
-  teiginys: 'buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Christoph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.'
+  teiginys: 'Jonas Kristupas Glaubicas laikomas pagrindiniu originalios Vilniaus baroko mokyklos architektu.'
   pagrindžia:
     - c-001
 
 - t-006
   teiginys: 'Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo – Vilniaus baroko mokyklą.'
-  pagrindžia:
-    - c-003
-
-- t-007
-  teiginys: 'ar- 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 83 chitektas ne tik Vilniuje, bet ir visoje LDK buvo iš vokiškų žemių atvykęs liuteronas Jonas Kristupas Glaubicas (apie 1700–1767 m.).'
   pagrindžia:
     - c-003
 
@@ -119,6 +114,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   pagrindžia:
     - t-002
     - t-003
+    - t-007
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -134,24 +130,6 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   statusas: verified
   pagrindžia:
     - t-008
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pirmojoje XVIII a. pusėje susiformavo savita Vil-
-    niaus mokykla, kurios stilistikos formuotojas, produktyviausias XVIII a. ar-
-
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    83
-    chitektas ne tik Vilniuje, bet ir visoje LDK buvo iš vokiškų žemių atvykęs liu-
-    teronas Jonas Kristupas Glaubicas (apie 1700–1767 m.). Jis puikiai pritapo
-    daugiakonfesiame Vilniuje, kūrė ne tik savo bendruomenei – liuteronams,
-    bet ir katalikams, graikams katalikams, stačiatikiams, žydams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
 
 ## Ryšiai
 ### Susiję objektai

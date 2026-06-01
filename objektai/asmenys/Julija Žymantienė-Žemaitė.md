@@ -35,34 +35,16 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
 - t-002
   teiginys: 'Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos Žymantienės-Žemaitės sodri realistinė sociali proza.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
-    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
-    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
-    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
-    telkusi lenkiškai kalbančiuosius. Lietuvių mokslo draugijos iniciatorius ir
-    Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.
-    Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja
-    Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius,
-    Liudvika Didžiulienė-Žmona ir kt. (A. Jurašaičio nuotrauka)
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
@@ -85,8 +67,9 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
@@ -117,4 +100,3 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
 - [[objektai/asmenys/Jonas Basanavičius]]
 - [[objektai/asmenys/Jonas Jablonskis]]
 - [[objektai/asmenys/Petras Kriaučiūnas]]
-- [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]

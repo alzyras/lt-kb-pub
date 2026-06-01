@@ -23,13 +23,14 @@ Dusburgietis teigia, kad de Vries Jan.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad de Vries Jan.'
+  teiginys: 'Jano de Vrieso „Altnordisches etymologisches Wörterbuch“ išleistas Leidene 1962 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jano de Vrieso „Altnordisches etymologisches Wörterbuch“ išleistas Leidene 1962 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     de Vries Jan. Altnordisches etymologisches Wörterbuch-Leiden, 1962.

@@ -28,13 +28,14 @@ Dusburgietis teigia, kad regesta historico-diplomatica Ordinis S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad regesta historico-diplomatica Ordinis S.'
+  teiginys: '„Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525“ antroji dalis išleista Getingene 1948 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525“ antroji dalis išleista Getingene 1948 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars

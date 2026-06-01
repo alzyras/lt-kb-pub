@@ -106,4 +106,3 @@ Nenurodyta
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vergai]]
-- [[objektai/asmenys/Hermanas iš Lichtenburgo]]

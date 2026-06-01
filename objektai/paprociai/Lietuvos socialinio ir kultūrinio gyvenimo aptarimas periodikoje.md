@@ -55,81 +55,22 @@ Nenurodyta
 - t-002
   teiginys: 'To meto Lenkijos laikraščiuose ir žurnaluose buvo spausdinama nemažai straipsnių apie socialinę-ekonominę padėtį ir kultūrinį gyvenimą į rytus nuo Nemuno.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
-  teiginys: 'To meto Lenkijos laikraščiuose ir žurnaluose buvo spausdina­ ma nemažai straipsnių apie socialinę-ekonominę padėtį į rytus nuo Nemuno upės, apie kultūrinį gyvenimą.'
+  teiginys: 'XIX a. Lenkijos laikraščiai ir žurnalai spausdino straipsnius apie socialinę-ekonominę padėtį į rytus nuo Nemuno ir kultūrinį gyvenimą.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
-  teiginys: 'Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­ tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultūrinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.'
+  teiginys: '„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį bei kultūrinį pagyvėjimą Lietuvoje ir Lenkijoje.'
   pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
-    Warszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti
-    straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­
-    tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū-
-    rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.
-    dešimtmetyje. Aleksandro II atėjimas į sostą buvo liberalių re­
-    formų pradžia: atgaivino visuomenės siekimus atgauti tai, kas
-    buvo prarasta po 1830-1831 m. sukilimo, o gal net iškovoti daug
-    daugiau - nepriklausomybę arba bent autonomiją. 1855 m. ca­
-    rui Aleksandrui II pradėjus liberalias reformas, Rusijos imperi­
-    joje krašto šviesuomenė puoselėjo viltį atkurti iki 1830-1831 m.
-    sukilimo klestėjusį Vilniaus universitetą. M. Balinskis, lyg ir pri­
-    simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­
-    me Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose
-    nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    M. Balinskis, lyg ir pri­
-    simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­
-    me Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose
-    nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.
-    To meto Lenkijos laikraščiuose ir žurnaluose buvo spausdina­
-    ma nemažai straipsnių apie socialinę-ekonominę padėtį į rytus
-    nuo Nemuno upės, apie kultūrinį gyvenimą. M. Balinskis su­
-    pažindindavo skaitytojus su Lietuvos socialiniu ir kultūriniu gy­
-    venimu, nemažai dėmesio skirdamas istorijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    M. Balinskis, lyg ir pri­
-    simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­
-    me Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose
-    nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.
-    To meto Lenkijos laikraščiuose ir žurnaluose buvo spausdina­
-    ma nemažai straipsnių apie socialinę-ekonominę padėtį į rytus
-    nuo Nemuno upės, apie kultūrinį gyvenimą. M. Balinskis su­
-    pažindindavo skaitytojus su Lietuvos socialiniu ir kultūriniu gy­
-    venimu, nemažai dėmesio skirdamas istorijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
+  santrauka: '„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį bei kultūrinį pagyvėjimą Lietuvoje ir Lenkijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
@@ -157,6 +98,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
+    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

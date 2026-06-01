@@ -37,12 +37,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Senieji lietuviai dangaus skliaute, žemėje, ugnyje ir vandenyje matė šventybės raišką.'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje.'
+  teiginys: 'Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje.'
   pagrindžia:
     - c-001
 
@@ -54,6 +49,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Romantikai

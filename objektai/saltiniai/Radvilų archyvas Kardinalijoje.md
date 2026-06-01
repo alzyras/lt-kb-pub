@@ -30,13 +30,14 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     - c-002
 
 - t-002
-  teiginys: 'Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi­ sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus.'
+  teiginys: 'Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai, prie kurių prieigą palengvino Mikalojus Malinovskis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai, prie kurių prieigą palengvino Mikalojus Malinovskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įgudęs lietuvių istorijos žinovas Ig­

@@ -52,21 +52,22 @@ Nenurodyta
 - t-001
   teiginys: 'Lapkričio 15 d. Kaune sprogusi bomba sužeidė E. Galvanauską, bet jis liko gyvas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Lapkričio 15 d. Kaune ant E. Galvanausko miegamojo palangės sprogo padėta bomba.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
-  teiginys: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
+  teiginys: '1921 m. lapkričio 15 d. Kaune ant E. Galvanausko miegamojo palangės sprogo padėta bomba.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1921 m. lapkričio 15 d. Kaune ant E. Galvanausko miegamojo palangės sprogo padėta bomba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
@@ -83,38 +84,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
-    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
-    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
-    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai. Lapkričio
-    15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
-    sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
-    gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
     - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
-    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
-    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
-    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai. Lapkričio
-    15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
-    sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
-    gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Šaltiniai ir įrodymai

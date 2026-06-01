@@ -48,7 +48,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     - c-002
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir pasakė: „Ir tu būsi išduotas, ir tavo broliai bus išduoti, jeigu įeisite į lietuvių žemę; jie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu tučtuojau grįšite.'
+  teiginys: 'Henrikas Cutsvertas, prūso įspėtas apie gresiančią išdavystę Lietuvoje, paprašė patarimo, kaip išvengti pavojaus.'
   pagrindžia:
     - c-005
 
@@ -118,6 +118,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     - t-002
 
 - c-005
+  santrauka: 'Henrikas Cutsvertas, prūso įspėtas apie gresiančią išdavystę Lietuvoje, paprašė patarimo, kaip išvengti pavojaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai
@@ -147,8 +148,5 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
 - [[objektai/ivykiai/Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.)]]
-- [[objektai/asmenys/Jazbutas]]
-- [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]

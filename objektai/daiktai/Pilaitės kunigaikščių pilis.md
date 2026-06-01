@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vanota Viršilų giminei, paskui perėjo Glebavičių paveldui, po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­ versitetui.'
+  teiginys: 'Pilaitėje nuo neatmenamų laikų stovėjusi kunigaikščių pilis vėliau priklausė Viršiloms, Glebavičiams, jėzuitams ir Vilniaus universitetui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pilaitėje nuo neatmenamų laikų stovėjusi kunigaikščių pilis vėliau priklausė Viršiloms, Glebavičiams, jėzuitams ir Vilniaus universitetui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     51
@@ -75,5 +76,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Glebavičių giminė]]
 - [[objektai/asmenys/Fričinskis]]
 - [[objektai/grupes/Lietuvos jėzuitų kolegijos]]

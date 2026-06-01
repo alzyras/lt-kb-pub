@@ -20,13 +20,14 @@ Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­ kų karalių - Boleslovas Didysis, pramintas Narsiuoju.'
+  teiginys: 'Boleslovas Didysis, pramintas Narsiuoju, laikomas pirmuoju miestų įkūrėju Lenkijos žemėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Boleslovas Didysis, pramintas Narsiuoju, laikomas pirmuoju miestų įkūrėju Lenkijos žemėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik

@@ -33,7 +33,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-004
 
 - t-004
-  teiginys: 'Molotovas sukrėtė A.'
+  teiginys: 'Viačeslavas Molotovas 1940 m. birželio 7 d. Maskvoje brutaliu elgesiu sukrėtė Antaną Merkį.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - t-002
 
 - c-002
+  santrauka: 'Viačeslavas Molotovas 1940 m. birželio 7 d. Maskvoje brutaliu elgesiu sukrėtė Antaną Merkį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai rodė,
@@ -138,7 +139,6 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]
-- [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]
 - [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]
 - [[objektai/ivykiai/Vokietijos ir SSRS sienų ir draugystės sutarties pasirašymas (1939 m. rugsėjo 28 d.)]]

@@ -26,13 +26,14 @@ Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmoni�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą 1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams, varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus, kad jie ateityje niekada.'
+  teiginys: '1274 m. pagudėnai, varmiai, notangai, bartai ir sembai grįžo į šventosios motinos bažnyčios visuotinybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1274 m. pagudėnai, varmiai, notangai, bartai ir sembai grįžo į šventosios motinos bažnyčios visuotinybę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
@@ -61,9 +62,9 @@ Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmoni�
 - [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/įkaitai]]
+- [[objektai/grupes/Sembai]]
 - [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Sembai]]
 - [[objektai/asmenys/Tirskas]]
 - [[objektai/grupes/Varmiai]]

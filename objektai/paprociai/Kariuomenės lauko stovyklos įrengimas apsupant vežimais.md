@@ -50,50 +50,21 @@ Nenurodyta
 - t-002
   teiginys: 'Susibūrusi į vieną vietą, visa kariuomenė apsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai daug, tik nelabai didelių; išorėje.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: ') Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-004
-  teiginys: 'Prie kelių praėjimų būdavo statomi artilerijos pabūklai, o už vežimų iškasamas ilgas ir platus griovys.'
+  teiginys: 'Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Susibūrusi į vieną vietą, visa kariuomenė ap-
-    sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
-    praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
-    daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys. Tokiu būdu
-    kariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-002
-  santrauka: 'Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
-    labai skiriasi nuo kitų ir dėl to pažymėtinas. Susibūrusi į vieną vietą, visa kariuomenė ap-
-    sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
-    praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
-    daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Susibūrusi į vieną vietą, visa kariuomenė ap-
@@ -108,8 +79,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
-- c-004
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Venecijos pasiuntinio Girolamo Lippomano (1575 m.) Lenkijos ir Lietuvos
@@ -125,6 +97,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -28,13 +28,14 @@ Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, Marija - už Boleslovo - Ru­ sios kunigaikščio; o ketvirtoji, bevaikė, - už Rusios didžiojo kuni­ gaikščio Dmitrijaus Michailovičiaus, 1326 metų spalio 15 dieną totorių chano Uzbeko.'
+  teiginys: 'Rusios didysis kunigaikštis Dmitrijus Michailovičius buvo vedęs vieną iš Gedimino dukterų ir 1326 m. spalio 15 d. nužudytas totorių chano Uzbeko įsakymu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusios didysis kunigaikštis Dmitrijus Michailovičius buvo vedęs vieną iš Gedimino dukterų ir 1326 m. spalio 15 d. nužudytas totorių chano Uzbeko įsakymu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, užsitikrinęs sau-
@@ -60,3 +61,4 @@ Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, 
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]

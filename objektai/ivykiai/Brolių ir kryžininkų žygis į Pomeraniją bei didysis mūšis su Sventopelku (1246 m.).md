@@ -49,11 +49,6 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­ jos [vyrų] Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės.'
-  pagrindžia:
-    - c-003
-
-- t-003
   teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, Sventopelkas sutelkė didelę kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo brolių palapinės, pririšdamas savo kovos žirgus.'
   pagrindžia:
     - c-002
@@ -114,9 +109,10 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
+  santrauka: '1246 m. magistras, broliai, kunigaikštis Kazimieras ir jų sąjungininkai įsiveržė į Pomeraniją ir devynias dienas ją niokojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
@@ -134,8 +130,6 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -149,7 +143,6 @@ Nenurodyta
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/legatas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/stalininkas]]

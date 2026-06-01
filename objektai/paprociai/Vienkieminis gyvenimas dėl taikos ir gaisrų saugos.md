@@ -33,27 +33,11 @@ Nenurodyta
 - t-001
   teiginys: 'Kalnėnai ir žemaičiai kūrėsi vienkiemiuose atokiai vieni nuo kitų, kad išvengtų barnių, gaisrų plitimo ir galėtų padėti kaimynams.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Kai kur Žemaičiuose, Kurše, Parusyje ir Kalne lietuviai dar gyveno atsiskyrę vienkiemiuose.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip šiandien dar daugioj vietoj tikrieji lietuviai tebgyvena atsikieminėję savo vienkiemiuose
-        Žemaičiuose, Kurše, Parusy bei Kalne.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tas dar yra stebuklingesniu, jog tose giriose ilgainiui įsikūrė, atsikieminėdami^172
@@ -71,7 +55,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/vienkiemiai]]
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Žemaičiai]]

@@ -44,36 +44,19 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     - c-001
 
 - t-002
-  teiginys: 'Priežodis paaiškinamas lietuviškai kaip „Kas Vilniuje nebuvo, tas stebuklų neregėjo“.'
+  teiginys: '„Kto w Wilnie nie bywał, tot czudes nie widał“ lietuviškai aiškinama kaip „Kas Vilniuje nebuvo, tas stebuklų neregėjo.“'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Šach Ach­ medas, apleistas sąjungininko, Mendli Girėjaus sumuštas, 43 Žinome, kad Maskvoje iki šiol dar išlikęs priežodis: Kto w Wilnie nie by­ wał, tot czudes nie widał [Kas Vilniuje nebuvo, tas stebuklų neregėjo].'
+  teiginys: '„Kto w Wilnie nie bywał, tot czudes nie widał“ Maskvoje išliko kaip priežodis apie Vilniuje matytus stebuklus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Žinome, kad Maskvoje iki šiol dar
-    išlikęs priežodis: Kto w Wilnie nie by­
-    wał, tot czudes nie widał [Kas Vilniuje
-    nebuvo, tas stebuklų neregėjo]. At­
-    rodo, kad šią nuomonę išplatino tie,
-    kurie didžiąją kunigaikštytę Eleną
-    atlydėjo į Vilnių ir buvo sužavėti
-    nuostabaus priėmimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
+  santrauka: '„Kto w Wilnie nie bywał, tot czudes nie widał“ Maskvoje išliko kaip priežodis apie Vilniuje matytus stebuklus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
@@ -96,6 +79,8 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

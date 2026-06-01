@@ -60,17 +60,6 @@ Nenurodyta
     - t-001
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
-    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -96,6 +85,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

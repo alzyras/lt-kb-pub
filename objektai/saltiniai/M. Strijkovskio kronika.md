@@ -37,108 +37,91 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - t-001
   teiginys: 'Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińskio teigimu, suklydo dėl datos ir praleido kai kurias aplinkybes.'
   pagrindžia:
-    - c-001
+    - c-010
 
 - t-002
   teiginys: 'Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Balińskis teigia, kad Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Strijkovskio kronikoje Vilniaus įkūrimas priskiriamas Gediminui ir siejamas su medžiokle Šventaragio slėnyje.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Vilniaus įkūrimo pasakojime Lizdeika geležinio vilko sapną aiškina kaip būsimos pilies ir Lietuvos sostinės ženklą.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Karaliaučiaus leidimo Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors Balińskis tai vadino tiesai prieštaraujančia klaida.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-007
   teiginys: 'Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.'
   pagrindžia:
-    - c-007
+    - c-011
 
 - t-008
   teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
   pagrindžia:
-    - c-010
+    - c-007
 
 - t-009
-  teiginys: 'IV, p. 290, - pasakoja apie šią Gotfrido Lindeno Vilniaus apgultį kaip ir vokiečių kronikininkai, bet apsirinka, nurodydami ją buvus me­ tais vėliau ir praleisdami kai kurias aplinkybes.'
+  teiginys: 'M. Strijkovskio kronika Gotfrido Lindeno Vilniaus apgultį datavo metais per vėlai ir praleido dalį aplinkybių.'
   pagrindžia:
-    - c-016
+    - c-010
 
 - t-010
-  teiginys: 'Strijkovskis ir Koje- 1 a v i č i u s supainiojo Andrių, Al­ girdo sūnų, su Vaidotu, Kęstučio sū­ numi, todėl radosi jų minimas Andrius Vaidotas, Kęstučio sūnus, Polocko kunigaikštis - visai išgalvo­ tas.'
+  teiginys: 'M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas.'
   pagrindžia:
-    - c-012
+    - c-002
 
 - t-012
-  teiginys: 'Strijkovskis ir Koj e- 1 a v i č i u s apie tą gudrybę pana­ šiai mena, pridurdami, kad Vytau­ tas paleidęs gandą, esą atvykęs į Vil­ nių rengti savo sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku iškilmių, kas panašiau į tie­ są negu tai, apie.'
+  teiginys: 'M. Strijkovskio kronika mini, kad Vytautas paskleidė gandą apie atvykimą į Vilnių rengti Ringailės ir Mazovijos kunigaikščio Henriko vestuvių.'
   pagrindžia:
-    - c-024
+    - c-014
 
 - t-014
   teiginys: 'Strijkovskio kronikoje Vilniaus įkūrimas pasakojamas kaip XIV amžiaus įvykis.'
   pagrindžia:
-    - c-022
+    - c-012
 
 - t-018
   teiginys: 'Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-020
   teiginys: 'Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.'
   pagrindžia:
-    - c-018
+    - c-011
 
 - t-021
   teiginys: 'Strijkovskio kronika), kt.'
   pagrindžia:
-    - c-015
+    - c-009
 
 - t-022
   teiginys: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn.'
   pagrindžia:
-    - c-023
+    - c-013
 
 - t-023
-  teiginys: '31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių.'
+  teiginys: 'M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių.'
   pagrindžia:
-    - c-014
+    - c-008
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kojalowicz, Pars I, p. 351. S t ryj­
-    ków s k i, p. 459. Miechowita
-    Lib. IV, p. 290, - pasakoja apie šią
-    Gotfrido Lindeno Vilniaus apgultį
-    kaip ir vokiečių kronikininkai, bet
-    apsirinka, nurodydami ją buvus me­
-    tais vėliau ir praleisdami kai kurias
-    aplinkybes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis, 1.465, o juo sekda­
@@ -167,7 +150,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogailai pristigo pajėgų gintis taip staiga užkluptam,
@@ -194,8 +177,9 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   statusas: verified
   pagrindžia:
     - t-003
+    - t-010
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -226,7 +210,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anot jų, Gediminas,
@@ -259,7 +243,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindžia:
     - t-005
 
-- c-006
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stryjkowski,ed. Królewiec, 1.487
@@ -282,40 +266,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindžia:
     - t-006
 
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Strijkovskis prie nukautų tos
-    apsupties metu priskiria Nariman­
-    tą, įdėdamas šį D 1  u g o š o prasi­
-    manytą pasakojimą: „Narimantas,
-    Pinsko kunigaikštis, Jogailos tikras
-    brolis, tuo metu, kai narsiai abi pilis
-    su Lietuva ir Rusia gindamas ėjo į
-    pagalbą nuo vienų prie kitų, buvo
-    kažkokio vokiečio riterio, ne pras­
-    čioko, iš Vytauto pusės, iškviestas
-    stoti vienas prieš vieną, o kai abu iš
-    mūšio lauko atjoję į pievą narsiai su­
-    kryžiavo ietis, ir pats Narimantas,
-    nuo žirgo nublokštas, buvo sučiup­
-    tas ir atvestas pas Vytautą, pastara­
-    sis aną be gailesčio įsakė už kojų ant
-    vinkšnos šakos pakarti lankoje, tarp
-    vokiečių patrankų ir šaudyklių, o
-    patį mirtinai iš lanko paleista strėle
-    pervėrė, pamindamas deramas pus­
-    broliui, riteriui kunigaikščiui, prie­
-    dermes/7  Knyga XIII, p. 455, Varš.
-    leid. Tatai yra tiesiog pažodinis D1 u-
-    g o š o, Lib. X, p. 129 vertimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-
@@ -331,7 +282,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindžia:
     - t-018
 
-- c-009
+- c-007
   santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -352,100 +303,16 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   statusas: verified
   pagrindžia:
     - t-017
-
-- c-010
-  santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Chron. prus. p. 400.
-    48
-
-    ## Puslapis 65
-
-    I  KNYGA
-    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
-    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
-    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
-    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
-    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
-    nuo Trakų, kur Vilnios upė įteka į Viliją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-008
-
-- c-011
-  santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Chron. prus. p. 400.
-    48
-
-    ## Puslapis 65
-
-    I  KNYGA
-    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
-    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
-    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
-    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
-    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
-    nuo Trakų, kur Vilnios upė įteka į Viliją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-013
-
-- c-012
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau miestiečių išvytas, nu­
-    vykęs pas magistrą sulaukė para­
-    mos, su pastaruoju 1381 metais iš­
-    laikė apsupęs Polocką 12 savaičių,
-    bet ir sunki pilies apgultis, ir netikė­
-    ti pokyčiai Lietuvoje, per kuriuos
-    Kęstučiui atiteko kunigaikščio sos­
-    tas, privertė Livonijos magistrą nu­
-    traukti apgultį, o Skirgailą grįžti į
-    Vilnių. Strijkovskis ir Koje-
-    1  a v i č i u s supainiojo Andrių, Al­
-    girdo sūnų, su Vaidotu, Kęstučio sū­
-    numi, todėl radosi jų minimas
-    Andrius Vaidotas, Kęstučio sūnus,
-    Polocko kunigaikštis - visai išgalvo­
-    tas. Andrius žuvo prie Vorsklos 1399
-    metais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-013
-  santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Chron. prus. p. 400.
-    48
-
-    ## Puslapis 65
-
-    I  KNYGA
-    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
-    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
-    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
-    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
-    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
-    nuo Trakų, kur Vilnios upė įteka į Viliją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-011
+    - t-015
+    - t-024
+    - t-019
+    - t-016
 
-- c-014
+- c-008
+  santrauka: 'M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis ir Koje-
@@ -468,7 +335,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindžia:
     - t-023
 
-- c-015
+- c-009
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Netoli jo, ties Belgorodu, į
@@ -485,7 +352,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindžia:
     - t-021
 
-- c-016
+- c-010
+  santrauka: 'M. Strijkovskio kronika Gotfrido Lindeno Vilniaus apgultį datavo metais per vėlai ir praleido dalį aplinkybių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     24
@@ -502,30 +370,9 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   statusas: verified
   pagrindžia:
     - t-009
+    - t-001
 
-- c-017
-  santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Chron. prus. p. 400.
-    48
-
-    ## Puslapis 65
-
-    I  KNYGA
-    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
-    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
-    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
-    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
-    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
-    nuo Trakų, kur Vilnios upė įteka į Viliją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-015
-
-- c-018
+- c-011
   santrauka: 'Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -566,74 +413,9 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   statusas: verified
   pagrindžia:
     - t-020
+    - t-007
 
-- c-019
-  santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Chron. prus. p. 400.
-    48
-
-    ## Puslapis 65
-
-    I  KNYGA
-    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
-    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
-    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
-    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
-    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
-    nuo Trakų, kur Vilnios upė įteka į Viliją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-024
-
-- c-020
-  santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Chron. prus. p. 400.
-    48
-
-    ## Puslapis 65
-
-    I  KNYGA
-    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
-    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
-    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
-    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
-    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
-    nuo Trakų, kur Vilnios upė įteka į Viliją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-019
-
-- c-021
-  santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Chron. prus. p. 400.
-    48
-
-    ## Puslapis 65
-
-    I  KNYGA
-    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
-    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
-    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
-    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
-    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
-    nuo Trakų, kur Vilnios upė įteka į Viliją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-022
+- c-012
   santrauka: 'Strijkovskio kronikoje Vilniaus įkūrimas pasakojamas kaip XIV amžiaus įvykis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -653,7 +435,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindžia:
     - t-014
 
-- c-023
+- c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7
@@ -670,7 +452,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindžia:
     - t-022
 
-- c-024
+- c-014
+  santrauka: 'M. Strijkovskio kronika mini, kad Vytautas paskleidė gandą apie atvykimą į Vilnių rengti Ringailės ir Mazovijos kunigaikščio Henriko vestuvių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     E., p. 54 ap. F o i g t a s,

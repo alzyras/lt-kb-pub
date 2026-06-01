@@ -25,13 +25,14 @@ Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Mar
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Marijai šventę tapo didžiuoju komtūru arba arkikomtūru, 1390 rugpjūčio 15 d., po didžiojo magistro Konrado Ciolnerio fon Rotenšteino mirties, - ir didžiojo magistro vieti­ ninku, iki pat.'
+  teiginys: 'Konradas Valenrodas 1387 metais tapo Ordino didžiuoju komtūru, arba arkikomtūru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konradas Valenrodas 1387 metais tapo Ordino didžiuoju komtūru, arba arkikomtūru.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabartinis
@@ -78,6 +79,7 @@ Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Mar
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/Arkikomtūras]]
 - [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/autoriai/Miechovita]]

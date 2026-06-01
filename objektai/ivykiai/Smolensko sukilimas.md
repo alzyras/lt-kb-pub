@@ -41,13 +41,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Bet šiuo tarpu karo buvo išvengta ir su Maskva ir su Pskovu, kuris dėl Smolensko taip pat buvo bepradedąs karą.'
+  teiginys: 'Po Smolensko atsiėmimo tuo metu buvo išvengta karo su Maskva ir Pskovu, kuris taip pat rengėsi karui dėl Smolensko.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Smolensko atsiėmimo tuo metu buvo išvengta karo su Maskva ir Pskovu, kuris taip pat rengėsi karui dėl Smolensko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautui pasisekė atsiimti

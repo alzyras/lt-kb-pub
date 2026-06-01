@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vy­ tautas Didysis, užrašęs jį savo valdymo pradžioje Ordinui, da­ bar grąžino Lietuvai ir užbaigė daugiau negu šimto metų (1283—1422) trukusius dėl jo karus.'
+  teiginys: '1422 m. Vytautas Didysis grąžino Žemaičių kraštą Lietuvai ir užbaigė dėl jo 1283–1422 m. trukusius karus.'
   pagrindžia:
     - c-003
 
@@ -101,6 +101,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: '1422 m. Vytautas Didysis grąžino Žemaičių kraštą Lietuvai ir užbaigė dėl jo 1283–1422 m. trukusius karus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vy­
@@ -136,7 +137,7 @@ Nenurodyta
     - t-002
 
 - c-005
-  santrauka: 'Vy­ tautas Didysis, užrašęs jį savo valdymo pradžioje Ordinui, da­ bar grąžino Lietuvai ir užbaigė daugiau negu šimto metų (1283—1422) trukusius dėl jo karus.'
+  santrauka: '1422 m. Vytautas Didysis grąžino Žemaičių kraštą Lietuvai ir užbaigė dėl jo 1283–1422 m. trukusius karus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi šito Lietuvos krašto reikalai buvo visiškai sutvarkyti. Vy­
@@ -162,4 +163,5 @@ Nenurodyta
 - [[objektai/asmenys/Zenonas]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Melno taika (1422)]]
+- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/zodynas/žygis]]

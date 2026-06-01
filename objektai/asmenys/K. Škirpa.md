@@ -32,7 +32,7 @@ periodo_grupes:
 - t-002
   teiginys: 'Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-003
   teiginys: 'Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos sunaikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos tęsia nevaisingą Suvalkų puolimą.'
@@ -82,6 +82,7 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -120,23 +121,6 @@ periodo_grupes:
     - t-001
 
 - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos su-
-    naikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos
-    tęsia nevaisingą Suvalkų puolimą.
-
-    kariuomenės vadas plk. ltn. K. Žukas ir
-    armijos vadas plk. ltn. K. Ladyga netu-
-    rėjo vieningos nuomonės dėl priemonių,
-    kurių reikėtų imtis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-006
   santrauka: 'Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos sunaikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos tęsia nevaisingą Suvalkų puolimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

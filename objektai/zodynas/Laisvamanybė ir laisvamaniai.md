@@ -43,7 +43,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Laisvamaniais vadinami žmonės, susibūrę apie J. Šliūpą drauge su griežtesniaisiais tautininkais.'
+  teiginys: 'Laisvamaniai kartu su griežtesniaisiais tautininkais susibūrė apie Joną Šliūpą.'
   pagrindžia:
     - c-002
 
@@ -65,6 +65,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Laisvamaniai kartu su griežtesniaisiais tautininkais susibūrė apie Joną Šliūpą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet šis Susivienijimas buvo toks pat ne-
@@ -80,7 +81,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/laisvamanybė laisvamaniai]]
 - [[objektai/zodynas/tautinės bažnyčios]]

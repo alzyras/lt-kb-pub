@@ -2,7 +2,6 @@
 tipas: grupe
 pavadinimas: 'Vokiečiai'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -31,7 +30,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - t-001
   teiginys: 'Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.'
   pagrindžia:
-    - c-011
+    - c-006
 
 - t-002
   teiginys: 'Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrrevoliucijos sėkmei.'
@@ -41,10 +40,10 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - t-003
   teiginys: 'Nutraukęs gerus santykius su vokiečiais, turėjo gintis nuo jų puldinėjimų, kurie buvo daromi vis didesniu smarkumu.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-004
-  teiginys: 'Nors vyriausieji jo padėjė­ jai ir buvo lietuviai, bet jam tarnavo daug ir nelietuvių: lenkų, vokiečių.'
+  teiginys: 'Vytautui tarnavo daug nelietuvių, tarp jų lenkų ir vokiečių.'
   pagrindžia:
     - c-004
 
@@ -56,47 +55,32 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - t-006
   teiginys: 'Naugardiečiai teigė su vokiečiais sudarę atskirą taikos sutartį.'
   pagrindžia:
-    - c-012
-
-- t-007
-  teiginys: 'Vokiečiai ėmė Lietuvos istoriją tyrinėti vėl savais tikslais.'
-  pagrindžia:
-    - c-007
+    - c-003
 
 - t-008
-  teiginys: 'Vytautui tarnavo daug nelietuvių, tarp jų lenkų ir vokiečių.'
-  pagrindžia:
-    - c-013
-
-- t-009
-  teiginys: 'Naugardiečiai atsakė, kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­ tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą koaliciją nuginkluoti rytų koalicijos planu.'
+  teiginys: 'Naugardiečiai teigė turėję atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.'
   pagrindžia:
     - c-003
 
-- t-010
+- t-009
   teiginys: 'Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus.'
   pagrindžia:
     - c-005
 
 - t-011
-  teiginys: 'Valstybiškai-ūkiškais sumetimais jis leido plaukti į Volyniją len­ kams, į pietų Rusiją totoriams, į miestus vokiečiams.'
-  pagrindžia:
-    - c-014
-
-- t-012
   teiginys: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
   pagrindžia:
-    - c-010
+    - c-009
 
-- t-013
-  teiginys: 'Jo tarnyboje mes ga­ lime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.'
+- t-012
+  teiginys: 'Vytauto tarnyboje buvo įvairių svetimšalių, ypač lenkų ir vokiečių.'
   pagrindžia:
     - c-006
 
-- t-014
+- t-013
   teiginys: 'Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias veiklos sąlygas kaip Europoje.'
   pagrindžia:
-    - c-008
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -132,6 +116,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
     - t-002
 
 - c-003
+  santrauka: 'Naugardiečiai teigė turėję atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Mes žinom, kad abu kunigaikščiai
@@ -147,9 +132,11 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
+    - t-006
 
 - c-004
+  santrauka: 'Vytautui tarnavo daug nelietuvių, tarp jų lenkų ir vokiečių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau jis nedavė jiems įsigalėti, jie
@@ -162,6 +149,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   statusas: verified
   pagrindžia:
     - t-004
+    - t-007
 
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -177,9 +165,10 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
 - c-006
+  santrauka: 'Vytauto tarnyboje buvo įvairių svetimšalių, ypač lenkų ir vokiečių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Totorius su vokiečiais jis kolonizavo ne iš meilės,
@@ -194,26 +183,10 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
+    - t-001
 
 - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vokiečiai ėmė Lietuvos
-    istoriją tyrinėti vėl savais tiks-
-    lais. Jie Lietuvos pasieny atsi-
-    rado kaip atėjūnai, nukariavę
-    lietuvių gimines. Todėl jų isto-
-    rikai stengėsi iškelti savo tautos
-    A. Vijūko Kojelavičiaus „Lietuvos
-    istorijos" I d. viršelinis lapas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gediminas taip pat išsiuntė laiškus Vokietijos
@@ -225,9 +198,9 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
-- c-009
+- c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     O
@@ -240,7 +213,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   pagrindžia:
     - t-003
 
-- c-010
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK įsikūrė vokie-
@@ -252,58 +225,10 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
 
-- c-011
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Totorius su vokiečiais jis kolonizavo ne iš meilės,
-    o tik dėl to, kad matė iš to kraštui naudos. Jo tarnyboje mes ga­
-    lime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.
-    Aiškus dalykas, kad nemažą įtaką Vytautas bus padaręs že­
-    mės eksploatacijai per savo dvarus, o jų jo laikais didysis kuni­
-    gaikštis įsigijo labai daug, nes jo tiesioginėn žinion perėjo buvu­
-    siųjų sričių kunigaikščių dvarai, bet apie tą tiesioginių žinių mes
-    veik neturime.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-012
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Mes žinom, kad abu kunigaikščiai
-    iš Kolomnos pasiuntė į Didįjį Naugardą savo pasiuntinį, kad šis
-    įsakytų jam pradėti karą su vokiečiais. Naugardiečiai atsakė,
-    kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais
-    yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­
-    tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
-    koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
-    dininkus ir kryžiuočius. Šitą koaliciją rėmė ir Jogaila su Pa­
-    mario kunigaikščių sąjunga.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-013
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tačiau jis nedavė jiems įsigalėti, jie
-    tik paklusnūs įrankiai jo rankose. Nors vyriausieji jo padėjė­
-    jai ir buvo lietuviai, bet jam tarnavo daug ir nelietuvių: lenkų,
-    vokiečių. Visi jie, kaip ir pats kunigaikštis, buvo praktiškai nu­
-    siteikę žmonės: juristai, diplomatai, technikai, vertėjai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-014
+- c-010
+  santrauka: 'Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     O Vytautas Magdeburgo teises suteikė Brastai ir
@@ -317,9 +242,9 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
-- c-015
+- c-011
   santrauka: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -331,9 +256,9 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
-- c-016
+- c-012
   santrauka: 'Sužinoję apie didelį lietuvių įsiveržimą, vokiečiai iš savo pusės irgi rengėsi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -347,7 +272,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
 ## Ryšiai
 ### Susiję objektai
@@ -532,7 +457,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
 - [[objektai/asmenys/Kudaras iš Sūduvos]]
 - [[objektai/asmenys/Kuno Lichtenšteinas]]
-- [[objektai/posakiai/Kur atrasime didesnių skriaudų, didesnės neteisybės, smurto, nedorumo ir turto gobšumo, jei ne tarp krikščionių žmonių]]
 - [[objektai/autoriai/Kurt Forstreuter]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
@@ -655,7 +579,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/grupes/SA smogikai]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/ivykiai/Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas]]
-- [[objektai/autoriai/Sideravičius K]]
 - [[objektai/posakiai/Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/daiktai/Sklandytuvai]]
@@ -691,7 +614,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/asmenys/V. Vainauskas]]
 - [[objektai/asmenys/V. Zechau]]
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
-- [[objektai/paprociai/Vakarų riterių stojimas po kryžiaus ženklu į Ordino žygius]]
 - [[objektai/asmenys/Valdemaras II]]
 - [[objektai/daiktai/Valstybiniai ženklai ir vėliava]]
 - [[objektai/zodynas/Valstybinis žemės fondas]]
@@ -835,7 +757,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/posakiai/„iki gyvos galvos“]]
 - [[objektai/posakiai/„niekieno neatsiklausdamas“]]
 - [[objektai/posakiai/„nuo jūros iki jūros“]]
-- [[objektai/posakiai/„nė trijų dienų“]]
 - [[objektai/posakiai/„savismauga“]]
 - [[objektai/posakiai/„tauta galėjo apsisaugoti tik sukūrusi valstybę“]]
 - [[objektai/posakiai/„tėvyninė“ šalis]]
@@ -846,22 +767,25 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]
 - [[objektai/asmenys/Bonifacas IX]]
 - [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.)]]
+- [[objektai/autoriai/E. Joachim]]
 - [[objektai/autoriai/E. Thunert]]
 - [[objektai/asmenys/Falkenbergas]]
 - [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
+- [[objektai/autoriai/J. Venta]]
 - [[objektai/asmenys/Jonas Olesnickis]]
+- [[objektai/asmenys/Jonas XXIII]]
 - [[objektai/asmenys/Jurgis Radvila]]
-- [[objektai/autoriai/K. Lohmeyer|Karl Lohmeyer (istorikas)]]
 - [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
+- [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
 - [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą]]
 - [[objektai/grupes/Liuksemburgiečių dinastija]]
 - [[objektai/grupes/Lotoriai]]
 - [[objektai/autoriai/M. Oehler]]
 - [[objektai/daiktai/Malūnas]]
-- [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!]]
 - [[objektai/autoriai/Oehler, M]]
 - [[objektai/autoriai/Springmann, K]]
 - [[objektai/autoriai/Thunert, E]]
+- [[objektai/zodynas/Vakarų Bažnyčios schizma]]
 - [[objektai/grupes/Vokiečių imperija]]
 - [[objektai/grupes/Vokiečių saksų batalionas]]
 - [[objektai/autoriai/W. Eckert]]

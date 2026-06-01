@@ -24,13 +24,14 @@ Dusburgietis teigia, kad [Prätorius M.] Praetorio M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad [Prätorius M.] Praetorio M.'
+  teiginys: 'M. Prätoriaus „Praetorio M. Deliciae Prussicae oder Preussische Schawbühne“ 1-7 knygų rankraštis nurodytas WU Mokslo muziejaus fonduose Nr. 1365.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Prätoriaus „Praetorio M. Deliciae Prussicae oder Preussische Schawbühne“ 1-7 knygų rankraštis nurodytas WU Mokslo muziejaus fonduose Nr. 1365.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [Prätorius  M.]  Praetorio M.  Deliciae  Prussicae  oder  Preussische Schawbühne.

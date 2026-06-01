@@ -20,18 +20,19 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
 ## Teiginiai
 
 - t-001
-  teiginys: 'Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui Malevskiui už gausius išrašus iš Lietuvos Metrikos.'
+  teiginys: 'Michałas Balińskis veikalo pratarmėje dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­ rašė M.'
+  teiginys: 'Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1841 m. jis tapo vienu iš enciklopedinio
@@ -52,6 +53,7 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
     - t-002
 
 - c-002
+  santrauka: 'Michałas Balińskis veikalo pratarmėje dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmoji knygos dalis užbaigia­

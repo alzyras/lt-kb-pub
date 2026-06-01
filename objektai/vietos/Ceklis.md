@@ -43,7 +43,7 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
 - t-004
   teiginys: 'Dar platesnėje Ceklio srityje, kurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė plotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių ir vakarinėje dalyje Šiaulių.'
   pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -64,6 +64,7 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -97,22 +98,3 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Dar platesnėje Ceklio srityje, kurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė plotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių ir vakarinėje dalyje Šiaulių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dalybų dokumen­
-    tuose yra paminėtos vakarinės sritys — Duvzarė, Mėguva, Pilsotas,
-    kurios sudarė Klaipėdos krašto plotą (nuo Minijos įtakos aukštyn
-    Palangos pajūriu net iki Bartuvos). Dar platesnėje Ceklio srityje,
-    kurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė
-    plotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki
-    Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių
-    ir vakarinėje dalyje Šiaulių apskrities. Tos sritys figūravo kaip nu­
-    kariautos^138.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004

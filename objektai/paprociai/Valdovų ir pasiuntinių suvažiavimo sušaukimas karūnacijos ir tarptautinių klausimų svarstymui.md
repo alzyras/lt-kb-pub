@@ -51,13 +51,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Tačiau kai ten išaiškėjo, kad, užuot aptarus turkų klausimą, imperatoriaus imamasi gudrių už­ mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinėjo.'
+  teiginys: 'Lucko suvažiavimas buvo sušauktas tartis dėl sąjungos prieš turkus, bet svarstymai nutrūko iškilus Vytauto karūnos klausimui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lucko suvažiavimas buvo sušauktas tartis dėl sąjungos prieš turkus, bet svarstymai nutrūko iškilus Vytauto karūnos klausimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     156
@@ -116,13 +117,14 @@ Nenurodyta
 - [[objektai/grupes/Mazovijos kunigaikščiai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

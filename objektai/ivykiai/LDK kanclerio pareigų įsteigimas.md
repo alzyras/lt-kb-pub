@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'pusėje įsteigtos LDK kanclerio (kanceliarijos viršininko) pareigos, jam pavesta prižiūrėti Lietuvos Metriką.'
+  teiginys: 'Pirmojoje XV a. pusėje įsteigtos LDK kanclerio pareigos, o kancleriui pavesta prižiūrėti Lietuvos Metriką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmojoje XV a. pusėje įsteigtos LDK kanclerio pareigos, o kancleriui pavesta prižiūrėti Lietuvos Metriką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Plečiantis centrinės valdžios funkcijoms, pirmojoje XV  a. pusėje

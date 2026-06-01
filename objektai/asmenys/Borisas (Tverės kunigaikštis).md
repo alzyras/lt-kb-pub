@@ -29,18 +29,19 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną.'
+  teiginys: 'Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: '[Tais pačiais metais (1430) pas Vytautą buvo suvažiavę visų žemių žmonės: jo vaikaitis di­ dysis Maskvos kunigaikštis Vasili­ jus Vasiljevičius ir karalius Jogaila Algirdaitis, ir Vokietijos vaivada Kunšteris, ir metropolitas Fotijas, ir kardinolas iš Romos.'
+  teiginys: '1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai, ką mūsų kronikininkai kal­
@@ -76,6 +77,7 @@ periodo_grupes:
     - t-001
 
 - c-002
+  santrauka: '1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I siede po nem Szwitrihajła
@@ -116,3 +118,4 @@ periodo_grupes:
 - [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]
 - [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]
 - [[objektai/grupes/Rusijos Federacija]]
+- [[objektai/asmenys/Sofija (Švitrigailos žmona)]]

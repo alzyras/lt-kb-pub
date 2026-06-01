@@ -38,12 +38,12 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     - c-007
 
 - t-003
-  teiginys: 'Kristupas I Radvila Perkūnas, Mikalojaus R.'
+  teiginys: 'Kristupas Radvila Perkūnas nuo 1572 m. buvo kiemo hetmonas, nuo 1584 m. Vilniaus vaivada, o nuo 1589 m. didysis hetmonas.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu, kuris sudavė antrą smūgį K.'
+  teiginys: 'Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė Jono Sicinskio dalinį prieš K. Carlsono Gyllenhielmo karius.'
   pagrindžia:
     - c-001
 
@@ -65,6 +65,7 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė Jono Sicinskio dalinį prieš K. Carlsono Gyllenhielmo karius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     maistą ir amuniciją. Birželio 2-3 d. LDK di-
@@ -100,6 +101,7 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     - t-007
 
 - c-003
+  santrauka: 'Kristupas Radvila Perkūnas nuo 1572 m. buvo kiemo hetmonas, nuo 1584 m. Vilniaus vaivada, o nuo 1589 m. didysis hetmonas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kristupas I Radvila Perkūnas,
@@ -212,12 +214,13 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 - [[objektai/grupes/Radvilos]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
+- [[objektai/asmenys/Kristupas Radvila]]
 - [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]

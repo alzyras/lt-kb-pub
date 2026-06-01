@@ -17,13 +17,14 @@ Dusburgietis teigia, kad baiga) Vurungenas Zalca Zalfeldas Zangershauzenas Zelio
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad baiga) Vurungenas Zalca Zalfeldas Zangershauzenas Zelionogradskas (buv.'
+  teiginys: 'Zelionogradskas anksčiau vadintas Kranzu, lietuviškai - Krantu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zelionogradskas anksčiau vadintas Kranzu, lietuviškai - Krantu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vištytis, miestelis

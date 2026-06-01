@@ -23,11 +23,6 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
 ## Teiginiai
 
 - t-001
-  teiginys: 'Abiejų Tautų Respublikos XVII–XVIII a. reikšmingi fenomenai apibendrinami formule „duona, tolerancija, demokratija, konstitucija, barokas“.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku.'
   pagrindžia:
     - c-001
@@ -51,7 +46,6 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
   statusas: verified
   pagrindžia:
     - t-001
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

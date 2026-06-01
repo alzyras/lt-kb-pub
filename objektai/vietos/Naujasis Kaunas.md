@@ -27,7 +27,7 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 - t-001
   teiginys: 'Kęstutis Nevėžio žiočių Vyrgalės saloje statydino Naujojo Kauno pilį, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių ruožo gynybą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.'
@@ -37,29 +37,11 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 - t-003
   teiginys: '1363 m. balandį Ordino magistras su kariuomene atėjo prie pradėtos atstatinėti Naujojo Kauno pilies.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Situacija Kauno regione bei visoje
-    Lietuvoje ir toliau buvo labai sudėtinga.
-    Siekdamas atkurti gynybą Nemuno-
-    Neries-Nevėžio žiočių ruože, Kęstutis
-    statydino pilį Nevėžio žiočių Vyrgalės sa-
-    loje - Naująjį Kauną ir „tiltą per Nemuną“
-    (greičiausiai per Nemuno senvagę į salą).
-    Tiltas galuose turėjo du gynybinius bokš-
-    tus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   santrauka: 'Kęstutis Nevėžio žiočių Vyrgalės saloje statydino Naujojo Kauno pilį, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių ruožo gynybą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -99,8 +81,9 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sužinoję apie Naujojo Kauno statybą,

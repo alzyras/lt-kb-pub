@@ -17,7 +17,7 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.'
+  teiginys: 'A. Mierzyńskis parengė „Źródła do mytologii litewskiej“ I–II tomus, išleistus Varšuvoje 1892 ir 1896 m.'
   pagrindžia:
     - c-002
     - c-001
@@ -25,6 +25,7 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Mierzyńskis parengė „Źródła do mytologii litewskiej“ I–II tomus, išleistus Varšuvoje 1892 ir 1896 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Mierzyński, A. : _Źródła do mytologii litewskiej,_ I-II, Warsza­
@@ -44,19 +45,7 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
     - t-001
 
 - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^7) **A. Mierzyński :** **_Źródła do mytol. lit._** **, II, 78 p.; KH, 1889, 208-209 p.**
-    (^8) **Laiško tekstą žr. H. Paszkiewicz :** **_Polityka Ruska Kazimierza Wiel­
-    kiego,_** **Warszawa 1925, 197 p. 5 išn.**
-    (^9) **SRP, II, 742.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
+  santrauka: 'A. Mierzyńskis parengė „Źródła do mytologii litewskiej“ I–II tomus, išleistus Varšuvoje 1892 ir 1896 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^7) **A. Mierzyński :** **_Źródła do mytol. lit._** **, II, 78 p.; KH, 1889, 208-209 p.**

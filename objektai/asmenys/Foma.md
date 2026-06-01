@@ -20,13 +20,14 @@ Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­ tuokė didįjį kunigaikštį su Elena, virš jos galvos kunigaikš­ tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­ linę vyno42.'
+  teiginys: 'Graikų tikėjimo dvasininkas Foma kartu su Vilniaus vyskupu Vaitiekumi Taboru sutuokė didįjį kunigaikštį su Elena.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Graikų tikėjimo dvasininkas Foma kartu su Vilniaus vyskupu Vaitiekumi Taboru sutuokė didįjį kunigaikštį su Elena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stanislovo katedrą. Ten Vaitiekus Taboras, Vilniaus
@@ -48,3 +49,4 @@ Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasi
 - [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Maskvos pasiuntiniai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]

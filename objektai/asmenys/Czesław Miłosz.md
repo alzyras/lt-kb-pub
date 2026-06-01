@@ -27,23 +27,19 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laureato, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius L I E T U V O S I S T O R I J A 266 nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine Gordimer.'
-  pagrindžia:
-    - c-003
-
-- t-002
-  teiginys: 'lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).'
-  pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laureato, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius.'
+  teiginys: 'Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.'
   pagrindžia:
     - c-002
+
+- t-002
+  teiginys: 'Nobelio premijos laureatas Czesławas Miłoszas save laikė paskutiniu LDK piliečiu.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nobelio premijos laureatas Czesławas Miłoszas save laikė paskutiniu LDK piliečiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     tuvių kalba. Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
@@ -59,24 +55,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nobelio premijos laureatu bio-
-    chemijos srityje 1982 m. tapo Želvoje gimęs Aaron Klug (Aronas Kliugas,
-    g. 1926, būdamas dvejų metų su tėvais emigravęs į PAR, vėliau – į Didžią-
-    ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio
-    ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas
-    Lounas), gimęs Utenoje (kaip Boruchas Lacas 1921 m.), 1935 m. su šeima
-    emigravęs į JAV.
-    Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laurea-
-    to, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
+  santrauka: 'Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nobelio premijos laureatu bio-
@@ -98,6 +77,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

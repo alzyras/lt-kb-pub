@@ -40,18 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
+  teiginys: 'Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, mokėti muitą ir prisistatyti pilininkui.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Ją skaitant atro­ do, kad Aleksandras, leisdamas sta­ tyti tokius namus, turėjo omenyje ne tik miesto ir muito pelną, bet ir iš­ orinį saugumą.'
+  teiginys: 'Aleksandras leido statyti Svečių namus ir dėl miesto bei muito pelno, ir dėl išorinio saugumo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandras leido statyti Svečių namus ir dėl miesto bei muito pelno, ir dėl išorinio saugumo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Svečių namams skirta privilegija yra:
@@ -77,6 +78,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, mokėti muitą ir prisistatyti pilininkui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
@@ -100,5 +102,7 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusų pirkliai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/zodynas/Pilininkas]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/zodynas/svečiai Svečių namai]]

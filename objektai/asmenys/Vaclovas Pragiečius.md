@@ -30,7 +30,7 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
     - c-001
 
 - t-003
-  teiginys: 'Ginčas tarp Vytauto ir Jogailos, iš vienos pusės ir Ordino, iš kitos pusės, buvo pavestas galutinai išspręsti Vaclovui Pragiečiui, kuris jį išsprendė Lietuvos nenaudai: Že­ maitija buvo atiduota kryžiuočiams; Jogailai ir Karūnai buvo uždrausta remti Vytautą.'
+  teiginys: 'Vaclovas Pragiečius išsprendė Vytauto, Jogailos ir Ordino ginčą Lietuvos nenaudai.'
   pagrindžia:
     - c-003
 
@@ -71,7 +71,7 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
     - t-001
 
 - c-003
-  santrauka: 'Ginčas tarp Vytauto ir Jogailos, iš vienos pusės ir Ordino, iš kitos pusės, buvo pavestas galutinai išspręsti Vaclovui Pragiečiui, kuris jį išsprendė Lietuvos nenaudai: Že­ maitija buvo atiduota kryžiuočiams; Jogailai ir Karūnai buvo uždrausta remti Vytautą.'
+  santrauka: 'Vaclovas Pragiečius išsprendė Vytauto, Jogailos ir Ordino ginčą Lietuvos nenaudai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila tik pasižadėjo neremti ginklu žemaičių ir tų,

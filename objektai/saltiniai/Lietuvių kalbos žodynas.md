@@ -27,7 +27,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad lietuvių kalbos žodynas.— T.'
+  teiginys: 'Šeštasis „Lietuvių kalbos žodyno“ tomas išleistas 1962 m.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šeštasis „Lietuvių kalbos žodyno“ tomas išleistas 1962 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvių kalbos žodynas.— T. 6.— V., 1962.

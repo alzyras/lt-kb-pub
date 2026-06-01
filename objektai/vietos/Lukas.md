@@ -18,13 +18,14 @@ Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų u
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo šią vietą, voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia 530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk), deš. Bebro intakas.'
+  teiginys: 'Lukas vėliau vadintas vokišku Lyck, o dabar tapatinamas su Elku, dešiniuoju Bebro intaku.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lukas vėliau vadintas vokišku Lyck, o dabar tapatinamas su Elku, dešiniuoju Bebro intaku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,

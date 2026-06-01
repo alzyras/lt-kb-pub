@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kai jis kartą, jau padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų.'
+  teiginys: 'Atsivertęs pabūklų meistras į Prūsiją atsivežė baltą maršką, kuria jį buvo užkloję kaip numirėlį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Atsivertęs pabūklų meistras į Prūsiją atsivežė baltą maršką, kuria jį buvo užkloję kaip numirėlį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai jis kartą, jau

@@ -47,13 +47,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad popiežius 1217.III.3 leido Kristijonui organizuoti kryžiaus žygį į kitas Prūsijos žemes (PUB, 1, 1, Nr. 15; Pakarklis P.'
+  teiginys: 'Popiežius 1217 m. kovo 3 d. leido Kristijonui organizuoti kryžiaus žygį į kitas Prūsijos žemes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežius 1217 m. kovo 3 d. leido Kristijonui organizuoti kryžiaus žygį į kitas Prūsijos žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Popiežius 1217.III.3 leido Kristijonui organizuoti
@@ -80,6 +81,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/autoriai/J. Poverskis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Powierski J]]
-- [[objektai/autoriai/Szacherska S. M]]

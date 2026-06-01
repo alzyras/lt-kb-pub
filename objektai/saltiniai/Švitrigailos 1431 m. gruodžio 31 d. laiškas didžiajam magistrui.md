@@ -27,13 +27,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '7 Slaptajame Karaliaučiaus archyve yra daugybė to įrodymų; be kitų, 1431 m. gruodžio 31 d. Švitrigailos laiš­ kas didžiajam magistrui, rašytas iš Vilniaus, pirmadienį prieš Naujuo­ sius metus.'
+  teiginys: '1431 m. gruodžio 31 d. laiške didžiajam magistrui Švitrigaila pranešė priėmęs Friedrichą von Bebirsteiną į savo dvariškių būrį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1431 m. gruodžio 31 d. laiške didžiajam magistrui Švitrigaila pranešė priėmęs Friedrichą von Bebirsteiną į savo dvariškių būrį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7

@@ -20,18 +20,19 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje.'
+  teiginys: 'Žygimantas Augustas prie Šv. Onos bažnyčios ketino funduoti kleboniją ir namus mansionieriams.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
+  teiginys: 'Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje ir du mansionierius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje ir du mansionierius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad šių, mūsų valdų, ir dvarų, taip pat
@@ -58,6 +59,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     - t-002
 
 - c-002
+  santrauka: 'Žygimantas Augustas prie Šv. Onos bažnyčios ketino funduoti kleboniją ir namus mansionieriams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Barboros bažnyčia, kurią
@@ -81,3 +83,5 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - [[objektai/zodynas/klebonija]]
 - [[objektai/asmenys/Ona Jogailaitė]]
 - [[objektai/zodynas/provizija]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Augustas]]

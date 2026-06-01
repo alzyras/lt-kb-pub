@@ -20,13 +20,14 @@ Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa ti
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa tikinčiųjų tauta liko visiškai išnaikinti, kuršiai atkrito į senąjį netikėjimą.'
+  teiginys: 'Kuršo vyskupas Engelbertas buvo išnaikintas kartu su tos bažnyčios dvasininkais ir tikinčiųjų tauta.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kuršo vyskupas Engelbertas buvo išnaikintas kartu su tos bažnyčios dvasininkais ir tikinčiųjų tauta.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Maurikijaus ir jo draugų kankinių dieną patys

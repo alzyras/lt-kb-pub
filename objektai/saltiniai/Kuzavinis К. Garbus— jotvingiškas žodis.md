@@ -23,13 +23,14 @@ Dusburgietis teigia, kad kuzavinis К.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kuzavinis К.'
+  teiginys: 'K. Kuzavinio „Garbus – jotvingiškas žodis“ paskelbta 1968 m. „Baltistica“ 4 tomo 1 numeryje, p. 65–67.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. Kuzavinio „Garbus – jotvingiškas žodis“ paskelbta 1968 m. „Baltistica“ 4 tomo 1 numeryje, p. 65–67.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kuzavinis К. Garbus— jotvingiškas žodis.—Baltistica, 1968, 4(1), p. 65—67.

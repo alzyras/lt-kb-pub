@@ -27,34 +27,21 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - t-001
   teiginys: 'Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino 1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Olyka Voluinėje kartu su Nesvyžiumi buvo vienos Radvilų šeimos šakos centras.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
-    ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
-    1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.
-    12.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pats
@@ -71,7 +58,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mirė 1507 metais.
@@ -83,3 +70,4 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002

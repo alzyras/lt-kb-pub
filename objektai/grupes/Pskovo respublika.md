@@ -34,12 +34,12 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 - t-001
   teiginys: 'Pskovo ir Naugardo respublikose Vytauto įtaka buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-002
   teiginys: 'Lietuvių būriai pasiekdavo turtingųjų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-003
   teiginys: 'Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų.'
@@ -47,7 +47,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     - c-002
 
 - t-004
-  teiginys: 'Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro.'
+  teiginys: 'Po Vytauto žygių Pskovo pasiuntiniai 1427 m. atvyko į Vilnių prašyti paleisti belaisvius.'
   pagrindžia:
     - c-003
 
@@ -79,6 +79,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   statusas: verified
   pagrindžia:
     - t-005
+    - t-001
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -96,6 +97,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     - t-003
 
 - c-003
+  santrauka: 'Po Vytauto žygių Pskovo pasiuntiniai 1427 m. atvyko į Vilnių prašyti paleisti belaisvius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
@@ -138,23 +140,6 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     - t-006
 
 - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Al­
-    girdo užkariautųjų Rusijos kraštų plotą Vytautas buvo jau per­
-    žengęs prieš Žalgirio mūšį, bet tolimesnį jo įsigalėjimą sutrukdė
-    ilga nesantaika su Vok. Ordinu ir kultūros darbas pačioje Lie­
-    tuvoje. Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo
-    respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir
-    Maskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­
-    galėjimui Rytuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^122) I SKYRIUS: LIETUVOS PROISTORĖ

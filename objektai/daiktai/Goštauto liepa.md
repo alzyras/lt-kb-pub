@@ -48,18 +48,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkvietė, dar prieš 80 metų iki Jogailos viešpatavimo; o vienas medis, liepa, priešais seno­ sios bažnyčios duris, kurią pats Goš­ tautas savo rankomis buvo pasodinęs, kaip 1621 metais rašė.'
+  teiginys: '1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Petro baž­ nyčia tikriausiai pastatydinta Vladis­ lovo Jogailos laikais, visuotinės re­ ligijos kaitos laikais, ano Goštauto sūnaus, tos šventovės, visiems die­ vaičiams pašvęstos, vietoje.'
+  teiginys: 'Senosios Goštauto liepos vardo tradicija galėjo būti priskirta vėlesniam laikotarpiui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Senosios Goštauto liepos vardo tradicija galėjo būti priskirta vėlesniam laikotarpiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Šv. Petro baž­
@@ -78,6 +79,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia pirmiau­
@@ -141,3 +143,4 @@ Nenurodyta
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/autoriai/Petras Korkonas]]

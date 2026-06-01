@@ -24,7 +24,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 334 D.— Ochtolite, Jer.— Ouctolîte; vėlesnis Auglitten kair. Alnos krante aukščiau Alenburgo (dab. Družba). Piliavietėje vėliau buvo pastatyta bažnyčia (Ewald A.'
+  teiginys: 'Auktalitas buvo vėlesnis Auglitten kairiajame Alnos krante aukščiau Alenburgo.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Auktalitas buvo vėlesnis Auglitten kairiajame Alnos krante aukščiau Alenburgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     334 D.— Ochtolite, Jer.— Ouctolîte; vėlesnis Auglitten kair. Alnos krante aukščiau

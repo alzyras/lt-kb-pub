@@ -22,13 +22,14 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
     - c-002
 
 - t-002
-  teiginys: 'Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d. (R.'
+  teiginys: '1941 m. birželio 27 d. „Lietūkio“ garaže vyko žydų žudynės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1941 m. birželio 27 d. „Lietūkio“ garaže vyko žydų žudynės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ginkluoti partizanai

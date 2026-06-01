@@ -25,7 +25,7 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
     - c-003
 
 - t-002
-  teiginys: 'Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau Jogailos palikuonys manė, kad bent Lietuva jiems turinti tekti paveldėtinai; o tuo susitarimu buvo norima įvesti elekciją, taigi visai nebuvo atsižvelgiama į jų tei- ses.'
+  teiginys: 'Jogailos palikuonys manė, kad Lietuva jiems turinti tekti paveldėtinai, nors lietuviai nuo Švitrigailos laikų rinkosi kunigaikščius.'
   pagrindžia:
     - c-001
 
@@ -37,6 +37,7 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailos palikuonys manė, kad Lietuva jiems turinti tekti paveldėtinai, nors lietuviai nuo Švitrigailos laikų rinkosi kunigaikščius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     pagalbos; tad nebuvo jokios naudos dėtis į uniją su Lenkija.
@@ -93,7 +94,9 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/zodynas/kunigaikščiai]]

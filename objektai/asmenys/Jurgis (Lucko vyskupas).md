@@ -20,32 +20,14 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dalyvaujant didžiai gerbiamiems Kristu­ je tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­ lovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui Hlebavičiui, Naugarduko vaivadai Stanislovui.'
-  pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų...................'
+  teiginys: '1542 m. Vilniuje duotame rašte Lucko vyskupas Jurgis dalyvavo tarp išvardytų dignitorių ir pareigūnų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dalyvaujant didžiai
-    gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­
-    kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­
-    pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus
-    ................Jonui, Jurgiui Astikaičiui, Trakų...................
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: '1542 m. Vilniuje duotame rašte Lucko vyskupas Jurgis dalyvavo tarp išvardytų dignitorių ir pareigūnų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To dalyko patiki­

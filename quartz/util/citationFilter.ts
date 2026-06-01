@@ -25,6 +25,25 @@ export interface CitationMetadata {
   sources: CitationSourceCount[]
 }
 
+export function collectClaimCount(markdown: string): number {
+  const lines = markdown.split(/\r?\n/)
+  let inClaims = false
+  let count = 0
+
+  for (const line of lines) {
+    const heading = line.match(/^##\s+(.+?)\s*$/)
+    if (heading) {
+      inClaims = heading[1].trim() === "Teiginiai"
+      continue
+    }
+    if (inClaims && /^\s*-\s+t-\d{3,}\s*$/i.test(line)) {
+      count += 1
+    }
+  }
+
+  return count
+}
+
 function stripOuterQuotes(text: string): string {
   const trimmed = text.trim()
   if (

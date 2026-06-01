@@ -17,13 +17,14 @@ Jurgio bažny­ čios prie Vilijos.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jurgio bažny­ čios prie Vilijos.'
+  teiginys: 'Barboros rūmų griuvėsiai Vilniuje stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Barboros rūmų griuvėsiai Vilniuje stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Galbūt prieš sutuoktu­

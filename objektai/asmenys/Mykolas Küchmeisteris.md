@@ -41,12 +41,12 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
     - c-001
 
 - t-003
-  teiginys: 'Po to Kauno saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas, (1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar Jogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir lenkų bajorai, Ordino riteriai.'
+  teiginys: 'Ordino pasiuntinys Mykolas Küchmeisteris dalyvavo 1413 m. Kauno saloje sušauktame Žemaitijos sienų suvažiavime.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meisteris.'
+  teiginys: 'Mykolas Küchmeisteris įsikūrė Friedeburgo pilyje prie Dubysos kaip Ordino vietininkas vaitas.'
   pagrindžia:
     - c-004
 
@@ -83,6 +83,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
     - t-001
 
 - c-003
+  santrauka: 'Ordino pasiuntinys Mykolas Küchmeisteris dalyvavo 1413 m. Kauno saloje sušauktame Žemaitijos sienų suvažiavime.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas Didysis, sulaukęs Makro Lietuvoje, pirmiausia
@@ -102,7 +103,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
     - t-003
 
 - c-004
-  santrauka: 'Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meisteris.'
+  santrauka: 'Mykolas Küchmeisteris įsikūrė Friedeburgo pilyje prie Dubysos kaip Ordino vietininkas vaitas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vieną ordino pilį prie Nevėžio padėjo pastatyti pats

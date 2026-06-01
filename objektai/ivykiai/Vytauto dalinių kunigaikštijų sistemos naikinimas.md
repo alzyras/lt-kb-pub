@@ -50,26 +50,11 @@ Nenurodyta
 - t-003
   teiginys: 'Vytauto laikų permainos Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Luckas
-    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
-    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje. Iš-
-    liko tik mažesnės kunigaikštijos. Tačiau svarbiausios Vytauto politikoje
-    buvo socialinės permainos – kuriamas žemvaldžių riterių sluoksnis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto laikų permainos
@@ -91,6 +76,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -100,4 +87,3 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vietininkas]]
-- [[objektai/paprociai/Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas]]

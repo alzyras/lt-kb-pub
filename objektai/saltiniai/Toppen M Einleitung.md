@@ -17,13 +17,14 @@ Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.'
+  teiginys: 'M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Toppen M Einleitung.—SRP, 1, S. 3—20.

@@ -33,7 +33,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad — Tapiow, Jer.— Tapiowe; Tepliava (buv.'
+  teiginys: 'Tepliava buvo Deimenos ir Priegliaus santakoje, o 1265 m. Ordinas čia pastatė savo pilį.'
   pagrindžia:
     - c-004
 
@@ -84,6 +84,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   statusas: verified
   pagrindžia:
     - t-003
+    - t-005
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -100,6 +101,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     - t-004
 
 - c-004
+  santrauka: 'Tepliava buvo Deimenos ir Priegliaus santakoje, o 1265 m. Ordinas čia pastatė savo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     327 D. — Tapiow, Jer.— Tapiowe; Tepliava (buv. Tapiau, dab. Gvardeiskas) Deimenos
@@ -112,19 +114,3 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-005
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo vieno ten.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    112 (107). Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
-
-      Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino
-    Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo
-    vieno ten gyvenusio sembo, vadinamo Laukstetu, vardo, jas sustiprinant, kad būtų
-    lengviau tramdyti sembus.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005

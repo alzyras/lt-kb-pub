@@ -33,7 +33,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
     - c-003
 
 - t-002
-  teiginys: 'Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimynų šaltiniai (Livonijoje Henrikas Latvis, Eiliuotinė kronika; Volinijoje Ipatijaus kronika), iškeldami gerą pagonių apsiginklavimą.'
+  teiginys: 'Henrikas Latvis priklauso XIII a. Livonijos šaltiniams, kurie liudija gerą pagonių lietuvių apsiginklavimą.'
   pagrindžia:
     - c-002
 
@@ -67,6 +67,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
     - t-003
 
 - c-002
+  santrauka: 'Henrikas Latvis priklauso XIII a. Livonijos šaltiniams, kurie liudija gerą pagonių lietuvių apsiginklavimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Aukšta papuošalų apdirbimo technika parodo, jog Lietuvoje

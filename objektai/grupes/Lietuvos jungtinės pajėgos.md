@@ -25,30 +25,11 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
 - t-002
   teiginys: 'Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamišo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai, moldavai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos jungtinės pajėgos
-
-    Lietuviai, žemaičiai, LDK rusų žemių ku-
-    nigaikščiai, Tochtamišo totoriai, talkinin-
-    kai iš Lenkijos, Kryžiuočių ordino kariai,
-    moldavai.
-
-    Totorių pajėgos
-    Aukso ordos chano Timūr-Kutluko,
-    Krymo emyro Edygos kariai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamišo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai, moldavai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -81,6 +62,7 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

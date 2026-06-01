@@ -43,4 +43,3 @@ etmono Petro Sahaidačnij vadovaujamų Ukrainos kazokų.
 ### Susiję objektai
 - [[objektai/grupes/Kazokai]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]

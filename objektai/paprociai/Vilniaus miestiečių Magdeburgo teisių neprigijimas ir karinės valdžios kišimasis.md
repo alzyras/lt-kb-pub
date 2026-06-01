@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Numanu, kad Magdeburgo tei­ sės, karaliaus suteiktos miestui, buvo ne itin paveikios ne tik dėl to, kad dar taip neseniai pakilę iš barbarybės miestiečiai prie jų buvo dar nepripratę, bet ir dėl nuolatinės baimės bei su­ maišties per tuos žiaurius karus ir.'
+  teiginys: 'Vilniaus Magdeburgo teisės buvo menkai paveikios dėl miestiečių nepripratimo, karo sumaišties ir karinės valdžios kišimosi į miesto valdymą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus Magdeburgo teisės buvo menkai paveikios dėl miestiečių nepripratimo, karo sumaišties ir karinės valdžios kišimosi į miesto valdymą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vien tik Vytauto privilegi­
@@ -73,4 +74,4 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/zodynas/Magdeburgo teisės]]

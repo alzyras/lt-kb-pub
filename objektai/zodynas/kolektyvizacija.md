@@ -35,12 +35,12 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     - c-001
 
 - t-003
-  teiginys: 'LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
+  teiginys: 'Po kolektyvizacijos LSSR javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Sovietmečiu masiškai naikintos valstiečių vienkiemių sodybos, o jų savininkai versti keltis į kolektyvines gyvenvietes, miestelius ar miestus.'
+  teiginys: 'Kolektyvizacija sovietmečiu reiškė vienkiemių naikinimą ir jų savininkų kėlimą į kolektyvines gyvenvietes, miestelius ar miestus.'
   pagrindžia:
     - c-002
 
@@ -65,6 +65,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     - t-002
 
 - c-002
+  santrauka: 'Kolektyvizacija sovietmečiu reiškė vienkiemių naikinimą ir jų savininkų kėlimą į kolektyvines gyvenvietes, miestelius ar miestus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Smuko
@@ -102,6 +103,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     - t-001
 
 - c-004
+  santrauka: 'Po kolektyvizacijos LSSR javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     derlingumą, gyvulių skaičių ir jų produktyvumą LSSR pasiekė tik po

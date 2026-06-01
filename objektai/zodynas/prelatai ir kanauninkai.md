@@ -26,13 +26,14 @@ Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 
 ## Teiginiai
 
 - t-001
-  teiginys: 'O keturi naujai įvesti prelatų ir aštuoni kanauninkų titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­ tiems Lietuvoje Kristaus tikėjimą.'
+  teiginys: 'Vilniaus diecezijoje keturi nauji prelatų ir aštuoni kanauninkų titulai buvo skirti lenkų kunigams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus diecezijoje keturi nauji prelatų ir aštuoni kanauninkų titulai buvo skirti lenkų kunigams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lenkų didžponiams patarus, pir­

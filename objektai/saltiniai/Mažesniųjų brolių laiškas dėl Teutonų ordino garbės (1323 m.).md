@@ -26,13 +26,14 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.'
+  teiginys: '1323 m. Mažesniųjų brolių laiške popiežiui Teutonų ordino brolių garbė ginta nuo kaltinimų trukdžius Gediminui priimti krikštą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1323 m. Mažesniųjų brolių laiške popiežiui Teutonų ordino brolių garbė ginta nuo kaltinimų trukdžius Gediminui priimti krikštą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­

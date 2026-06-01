@@ -24,13 +24,14 @@ Dusburgietis teigia, kad łowmiański H.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad łowmiański H.'
+  teiginys: 'H. Łowmiańskio „Studja nad początkami społeczeństwa i państwa litewskiego“ išleista Vilniuje 1931 ir 1932 m. dviem tomais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'H. Łowmiańskio „Studja nad początkami społeczeństwa i państwa litewskiego“ išleista Vilniuje 1931 ir 1932 m. dviem tomais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Łowmiański H. Studja nad początkami społeczeństwa   i państwa litewskiego.—T.

@@ -41,5 +41,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Vokiečiai]]

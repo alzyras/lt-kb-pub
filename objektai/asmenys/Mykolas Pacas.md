@@ -26,13 +26,14 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     - c-002
 
 - t-002
-  teiginys: 'Mykolas Pacas: vienas iš jų, Mykolas, buvo hetmonas ir Vil- niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, — Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas, o penktas, Petras, — Žemaičių seniūnas.'
+  teiginys: 'Mykolas Pacas buvo hetmonas ir Vilniaus vaivada.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mykolas Pacas buvo hetmonas ir Vilniaus vaivada.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
@@ -68,9 +69,9 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Bajorų konfederacija]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/asmenys/Povilas Sapiega]]

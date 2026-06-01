@@ -45,24 +45,11 @@ Nenurodyta
 - t-002
   teiginys: 'Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mikalojaus bažnyčios). Bene geriausiai išlikusi yra Vytauto bažny-
-    čia Kaune. Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
-    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
-    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bene geriausiai išlikusi yra Vytauto bažny-
@@ -76,6 +63,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

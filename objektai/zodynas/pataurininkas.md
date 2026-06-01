@@ -20,13 +20,14 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems vyskupui Albertui, Vilniaus kaštelionui ir Gardino seniūnui Aleksandrui Jurgėvičiui, Trakų vaivadai ir LDK didžiajam maršalkai Jonui iš Zabrežjės, LDK pataurininkiui ir Bełsko.'
+  teiginys: '1501 metais Gardine tarp dalyvavusių pareigūnų minimas LDK pataurininkas ir Belsko seniūnas Mikalojus Mikolajevičius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1501 metais Gardine tarp dalyvavusių pareigūnų minimas LDK pataurininkas ir Belsko seniūnas Mikalojus Mikolajevičius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aktuota ir duota Gardine,

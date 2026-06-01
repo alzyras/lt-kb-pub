@@ -32,13 +32,14 @@ Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 4
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 451-454 p. — (”) Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden, Weimar 1938, 686-724, 1091-1094, 1119-1128, 1266-1270 p. — Smolka, St.'
+  teiginys: 'H. F. Schmido „Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden“ išleista Veimare 1938 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'H. F. Schmido „Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden“ išleista Veimare 1938 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,

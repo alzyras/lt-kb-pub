@@ -35,7 +35,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'toks skyrius buvo suorganizuotas draugijos bendrai su Lietuvos inteligentais.'
+  teiginys: 'Draugija kartu su Lietuvos inteligentais suorganizavo skyrių, kuriame rodė lietuviškus raštus ir lietuvių priespaudą.'
   pagrindžia:
     - c-001
 
@@ -45,13 +45,14 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: '1894 m. visose lietuvių kolonijose dėl Kražių skerdynių įvy- ko protestai, gedulingi jų minėjimai, ir viso to atgarsis pasiekė ne tik Amerikos, bet ir Europos tautų spaudą.'
+  teiginys: '1894 m. lietuvių kolonijose dėl Kražių skerdynių vyko protestai ir gedulingi minėjimai, pasiekę Amerikos bei Europos spaudą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Draugija kartu su Lietuvos inteligentais suorganizavo skyrių, kuriame rodė lietuviškus raštus ir lietuvių priespaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     toks skyrius buvo suorganizuotas draugijos bendrai su Lietuvos
@@ -68,6 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1894 m. lietuvių kolonijose dėl Kražių skerdynių vyko protestai ir gedulingi minėjimai, pasiekę Amerikos bei Europos spaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1894 m. visose lietuvių kolonijose dėl Kražių skerdynių įvy-

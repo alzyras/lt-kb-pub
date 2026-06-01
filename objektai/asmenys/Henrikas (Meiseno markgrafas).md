@@ -28,16 +28,11 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie daugelio pilių sunaikinimą ir pamedėnų pavergimą Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė, kamuodamas grobstymais bei gaisrais ir.'
-  pagrindžia:
-    - c-003
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.'
   pagrindžia:
     - c-002
@@ -62,7 +57,8 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+    - t-003
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -86,48 +82,13 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    14. Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
-
-      Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų
-    ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė,
-    kamuodamas grobstymais bei gaisrais ir nuleisdamas netikėliams daug kraujo. Smarkiai
-    užpuolė jų pilį, pastatytą prie Mukeros upės235, bei visas pilaites [omnia propugnacula],
-
-      233  D.— castrum de Redino, Jer.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    13. Apie Meiseno markgrafo atvykimą
-
-      Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas,
-    Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su
-    dideliais turtais. Šis vyras iš visos širdies ir iš visų jėgų ryžosi naikinti netikėlius ir plėsti
-    krikščionių žemes.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Pamedėnai]]
 - [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]

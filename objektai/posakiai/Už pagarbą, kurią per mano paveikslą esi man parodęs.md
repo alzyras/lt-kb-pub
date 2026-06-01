@@ -24,13 +24,14 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus nieko nežinąs, išskyrus vienui vieną, būtent, kai su didele kariuomene buvo įsibrovęs į Lenkiją, vienas sūduvis išsivežęs švenčiausiosios mergelės Marijos su kūdikėliu ant rankų.'
+  teiginys: 'Švenčiausioji mergelė sapne pažadėjo atlygį už pagarbą, parodytą per jos paveikslą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švenčiausioji mergelė sapne pažadėjo atlygį už pagarbą, parodytą per jos paveikslą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus

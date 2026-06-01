@@ -43,7 +43,7 @@ Nenurodyta
 - t-001
   teiginys: 'Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Rugpjūtį žlugus Maskvos pučui, per kurį komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
@@ -56,9 +56,9 @@ Nenurodyta
     - c-001
 
 - t-004
-  teiginys: 'Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti – Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M.'
+  teiginys: '1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -88,22 +88,6 @@ Nenurodyta
     žinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios
     Sausio agresijos aukų laidotuvės – visos Lietuvos
     protestas prieš SSRS politiką
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagalba atėjo iš Islandijos – 1991 m.
-    vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
-    somybę. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino
-    susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-
-    žinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios
-    Sausio agresijos aukų laidotuvės – visos Lietuvos
-    protestas prieš SSRS politiką
 
     L I E T U V O S  I S T O R I J A
     248
@@ -114,9 +98,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
-- c-004
-  santrauka: 'Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti – Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M.'
+- c-003
+  santrauka: '1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –

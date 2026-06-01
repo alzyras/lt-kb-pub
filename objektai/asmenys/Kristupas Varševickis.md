@@ -26,13 +26,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '51 Šis pareiškimas buvo išsakytas ka­ pitulos susirinkime vyskupo rū­ muose 1572 metų žiemą, dalyvau­ jant kun. Varševickiui, jėzuitų rektoriui.'
+  teiginys: 'Kristupas Varševickis, jėzuitų rektorius, 1572 m. žiemą dalyvavo kapitulos susirinkime vyskupo rūmuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kristupas Varševickis, jėzuitų rektorius, 1572 m. žiemą dalyvavo kapitulos susirinkime vyskupo rūmuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daugiausia
@@ -51,3 +52,7 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/kapitula]]

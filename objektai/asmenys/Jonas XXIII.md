@@ -26,7 +26,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - c-004
 
 - t-002
-  teiginys: 'Jonas XXIII atėmė Vok.'
+  teiginys: 'Jonas XXIII atėmė Vokiečių ordinui teises ir privilegijas, kuriomis jis teisino savo užpuolimus.'
   pagrindžia:
     - c-002
 
@@ -39,6 +39,11 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   teiginys: 'Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.'
   pagrindžia:
     - c-001
+
+- t-006
+  teiginys: 'Jonas XXIII pasiūlė Vytautui pavesti bylą su Vokiečių ordinu Konstancijos susirinkimui.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -57,6 +62,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - t-004
 
 - c-002
+  santrauka: 'Jonas XXIII atėmė Vokiečių ordinui teises ir privilegijas, kuriomis jis teisino savo užpuolimus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jonas XXIII atėmė Vok. Ordinui
@@ -122,7 +128,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - t-005
 
 - c-006
-  santrauka: 'Jonas XXIII atėmė Vok.'
+  santrauka: 'Jonas XXIII pasiūlė Vytautui pavesti bylą su Vokiečių ordinu Konstancijos susirinkimui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Inocentas VII, Gregorijus XII ir Aleksandras V parem­
@@ -141,3 +147,4 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]

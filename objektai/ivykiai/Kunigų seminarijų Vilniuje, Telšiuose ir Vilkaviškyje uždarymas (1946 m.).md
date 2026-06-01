@@ -48,25 +48,11 @@ Nenurodyta
 - t-002
   teiginys: 'Visi kunigai sekami, registruojama, kas pas kunigą užeina, pamokslai aprašomi.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sovietų valdžia siekė pakirsti katalikų dva-
-    sininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje.
-    1946 m. uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviš-
-    kyje. Leista veikti tik vienai kunigų seminarijai Kaune, klierikų skaičių
-    mažinant.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Visi kunigai sekami, registruojama, kas pas kunigą užeina, pamokslai aprašomi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -81,6 +67,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad тихвинский C.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad тихвинский C.'
+  teiginys: 'C. L. Тихвинский ir V. A. Тишков straipsnis „XV международный конгресс исторических наук“ paskelbtas 1980 m. leidinio „ВИ“ 12 numeryje, p. 3–23.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'C. L. Тихвинский ir V. A. Тишков straipsnis „XV международный конгресс исторических наук“ paskelbtas 1980 m. leidinio „ВИ“ 12 numeryje, p. 3–23.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Тихвинский C. Л., Тишков В. A. XV международный конгресс исторических наук.

@@ -29,7 +29,7 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­ mo, kad aplankytumėte Naugardą, Pskovą; visa tai jums leidome dėl busimosios naudos.'
+  teiginys: 'Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.'
   pagrindžia:
     - c-005
 
@@ -39,7 +39,7 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
     - c-004
 
 - t-003
-  teiginys: 'Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
+  teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-002
 
@@ -49,12 +49,12 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
     - c-006
 
 - t-005
-  teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
+  teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   pagrindžia:
     - c-001
 
 - t-006
-  teiginys: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
+  teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį.'
   pagrindžia:
     - c-007
 
@@ -64,18 +64,19 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
     - c-009
 
 - t-008
-  teiginys: 'Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­ vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­ keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų miestų tekdavo patirti.'
+  teiginys: 'Vytautas senatvėje kovojo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai padarytas skriaudas.'
   pagrindžia:
     - c-003
 
 - t-009
-  teiginys: 'Juk tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­ bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­ va, o naudodamasi galingo monarcho parama, jau pasiekė ir tolimus.'
+  teiginys: 'Vytauto laikais Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.'
   pagrindžia:
     - c-008
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
@@ -94,6 +95,7 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
     - t-005
 
 - c-002
+  santrauka: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
@@ -112,6 +114,7 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
     - t-003
 
 - c-003
+  santrauka: 'Vytautas senatvėje kovojo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai padarytas skriaudas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
@@ -152,6 +155,7 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
     - t-002
 
 - c-005
+  santrauka: 'Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kadangi visos karalystės, iš kurių vieną mes valdome,
@@ -206,6 +210,7 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
     - t-004
 
 - c-007
+  santrauka: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
@@ -228,6 +233,7 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
     - t-006
 
 - c-008
+  santrauka: 'Vytauto laikais Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto nereikėtų manyti, kad Vilnius

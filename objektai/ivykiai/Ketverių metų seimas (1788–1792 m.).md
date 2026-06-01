@@ -44,7 +44,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ketverių metų seimas (1788–1792 m.): 1787 m. Kotryna Dniepru keliavo aplankyt Rusijos neseniai užkariauto Krimo. Pakeliui (Kaneve) ji susitiko su buvusiu prieš 25 m. savo mylimuoju Stanislovu Augustu. To susitikimo metu buvo sutarta, kad kitų metų seime karalius išgaus Respublikos su- tikimą.'
+  teiginys: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
   pagrindžia:
     - c-005
 
@@ -54,7 +54,7 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Ketverių metų seimas (1788–1792 m.): pirmasis paveldėjamasis kara- lius turėjo būti Stanislovo Au- gusto įpėdinis, Saksonijos elektorius Fridrikas Augustas (Augusto III anūkas).'
+  teiginys: 'Ketverių metų seime pirmuoju paveldimuoju karaliumi numatytas Stanislovo Augusto įpėdinis, Saksonijos elektorius Fridrikas Augustas.'
   pagrindžia:
     - c-002
 
@@ -64,7 +64,7 @@ Nenurodyta
     - c-003
 
 - t-005
-  teiginys: 'Ketverių metų seimas (1788–1792 m.): nepaisydamas karaliaus pa- stangų, seimas atmetė pasiūlymą sudaryti karinę sąjungą su Ru- sija ir, Prūsijos palaikomas, ėmėsi reformų.'
+  teiginys: 'Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų.'
   pagrindžia:
     - c-004
 
@@ -97,6 +97,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Ketverių metų seime pirmuoju paveldimuoju karaliumi numatytas Stanislovo Augusto įpėdinis, Saksonijos elektorius Fridrikas Augustas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis paveldėjamasis kara-
@@ -132,6 +133,7 @@ Nenurodyta
     - t-004
 
 - c-004
+  santrauka: 'Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     dėjo leisti padidinti Respublikos kariuomenę ir bent kiek
@@ -149,6 +151,7 @@ Nenurodyta
     - t-005
 
 - c-005
+  santrauka: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1787 m. Kotryna Dniepru keliavo aplankyt Rusijos neseniai
@@ -174,3 +177,4 @@ Nenurodyta
 - [[objektai/zodynas/elektorius]]
 - [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Stanislovas Augustas]]

@@ -28,29 +28,13 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Daugava teka į Žemaičių jūrą.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į
-        Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Antrapus Daugavos lietuvius gyvenančius lig upei Gaujai vadino latviais iš
@@ -61,4 +45,4 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

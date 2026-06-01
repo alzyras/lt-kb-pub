@@ -26,13 +26,14 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kurį magistras Fridrichas fon Vildenbergas Meve 1324 m., daly­ vaujant Pelplino abatui Jordanui, liepė parengti, yra Slapt.'
+  teiginys: 'Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Minėti

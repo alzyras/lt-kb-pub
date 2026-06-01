@@ -43,24 +43,19 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Neolito žemdirbystės aprašyme minimi akmeniniai kapliai ir akmeninės girnos.'
-  pagrindžia:
-    - c-003
-
-- t-003
   teiginys: 'Mezolito stovyklavietėse Lietuvoje aptikta daug titnaginių ir kalninių įrankių.'
   pagrindžia:
     - c-002
 
-- t-004
+- t-003
   teiginys: 'Lietuvos akmens amžiaus dirbiniai: 1—4 kauliniai harpūnai, 5—6 kauliniai durklai, 7—8 kauliniai kirvukai, 9 apskaldyto titnago įrankis, 10—12 akmens kirvukai, 13—15 titnaginiai iečių galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas.'
   pagrindžia:
-    - c-005
+    - c-004
 
-- t-005
+- t-004
   teiginys: 'Lietuvos pajūryje rastos gintarinės žmonių ir gyvulių figūrėlės buvo nešiojamos magijos tikslais.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -93,25 +88,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pasidarę sėslūs, susijungę į kaimus ir gyvendami šeimomis
-    keturkampiuose mediniuose trobesiuose, ateiviai ne tik augino
-    gyvulius (kiaules, avis, ožkas), bet jie išvystė žemės darbą. Savo
-    sklypams dar nenaudodami gyvulių traukiamosios jėgos, jie dirvą
-    pureno lysvėmis, kaip daržų kultūrose, savo « rankos tąsa », būtent,
-    akmeniniais kapliais, ir sėjo kviečius, miežius, sorą ; o malė akme­
-    ninėmis girnomis. Iš avių vilnos jie mokėjo išsiausti ir drabužį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ši kultūra, dėl tų sukinių keramikos ornamentų, todėl dar vadinama
@@ -123,9 +102,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-005
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kr.) kultūrai yra charak-
@@ -140,7 +119,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

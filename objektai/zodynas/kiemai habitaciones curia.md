@@ -25,13 +25,14 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 322 D.— Super [...] habitaciones suas (III, 108, 204, 209, 228, 332), Jer — hŭs, hûf, gebûve; kituose šaltiniuose — curia, kartais pabrėžiant, kad pulchram et bene munitam (MPH, 4, p. 430).'
+  teiginys: 'Kiemai buvo didelės, turtingos ir daugiau ar mažiau įtvirtintos sodybos, bet ne pilys.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kiemai buvo didelės, turtingos ir daugiau ar mažiau įtvirtintos sodybos, bet ne pilys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     322 D.— Super [...] habitaciones suas (III, 108, 204, 209, 228, 332), Jer — hŭs, hûf,
@@ -88,6 +89,7 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
+- [[objektai/daiktai/Pilys]]
 - [[objektai/asmenys/Gedūnas]]
 - [[objektai/paprociai/Karaliaus vėliavų iškabinimas prie žemių ir kiemų apsaugai]]
 - [[objektai/asmenys/Ringėlas]]

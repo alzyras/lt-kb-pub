@@ -20,13 +20,14 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi pilietybę, keletą šimtmečių val­ dė Raudonės pilį.'
+  teiginys: 'Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anglų riteriai, ne kartą draugėj su

@@ -18,13 +18,14 @@ Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.'
+  teiginys: 'Territorium castri Dusburgiečio kronikoje reiškia pilies apygardą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Territorium castri Dusburgiečio kronikoje reiškia pilies apygardą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D. territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.

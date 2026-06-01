@@ -46,4 +46,3 @@ Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją su
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/dragūnai]]
 - [[objektai/zodynas/komputas]]
-- [[objektai/grupes/Osmanų Turkija]]

@@ -19,19 +19,14 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
 ## Teiginiai
 
 - t-001
-  teiginys: 'Belaukiant tarptautinio Lietuvos pripažinimo Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
+  teiginys: 'SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui, tačiau nebesirėmė visuotinai pripažinta tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo teisės deklaravimas buvo pavojingas dėl Maskvos užmačių.'
   pagrindžia:
     - c-001
-
-- t-003
-  teiginys: 'Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -67,6 +62,7 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
     - t-002
 
 - c-002
+  santrauka: 'SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tad ir Rusija prisijungė prie
@@ -83,21 +79,4 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tad ir Rusija prisijungė prie
-    „suverenitetų parado“, ir kitos sovietinės respublikos skelbė suverenitetą,
-    dėl to kovo 11 diena yra didžiausias lietuvių tautos įnašas į XX a. Euro-
-    pos istoriją.
-    Belaukiant tarptautinio
-    Lietuvos pripažinimo
-    Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti
-    SSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo
-    atšaukti Kovo 11 Aktą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001

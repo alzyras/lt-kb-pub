@@ -72,7 +72,6 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/grupes/Sanguškos]]
 - [[objektai/grupes/Sluckiai]]
 - [[objektai/grupes/Vyšnioveckiai]]

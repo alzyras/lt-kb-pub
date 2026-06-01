@@ -36,42 +36,31 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 - t-001
   teiginys: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Naujosios Prūsijos žemės kronika nurodo, kad prie Vilniaus penkias savaites dieną ir naktį vyko kautynės.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: '„Naujosios Prūsijos žemės kronikos“ ištraukoje pasakojama, kad 1376 m. Kęstutis ir Algirdas trimis voromis įsiveržė į Ordino valdas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-005
   teiginys: 'Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją.'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie tai,
-    kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio
@@ -82,7 +71,7 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Piksidomis (ma-
@@ -106,8 +95,9 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
-- c-004
+- c-003
   santrauka: 'Naujosios Prūsijos žemės kronika nurodo, kad prie Vilniaus penkias savaites dieną ir naktį vyko kautynės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -134,30 +124,4 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Augustiną, tai
-    yra, rugpjūčio 28-ą, o priartėta prie
-    Vilniaus buvo rugsėjo 4-ą. Vygan­
-    das  tačiau byloja: Steterunt V septi­
-    manis in continuo agone nocte dieque
-    et pugna et ex utraque parte multi sunt
-    occisi [stovėjo 5 savaites nuolatinėse
-    kautynėse dieną naktį ir kovoje iš
-    abiejų pusių daug buvo užmuštų].
-    - • —
-    126
-
-    ## Puslapis 143
-
-    Il KNYGA
-    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
-    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
-    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005

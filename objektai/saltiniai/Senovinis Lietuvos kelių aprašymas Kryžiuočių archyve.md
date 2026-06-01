@@ -18,13 +18,14 @@ Anksčiau kitaip buvo vadinama arba turėjo ir kitą vardą - Neris, nuo to rasi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Anksčiau kitaip buvo vadinama arba turėjo ir kitą vardą - Neris, nuo to rasi, kad glū­ dėjo tarp iškilių kalnų arba tikriausia, kad žiūrinčiajam nuo aukštų kalnų atrodė tarsi panirusi - lietuviškai - Panerta, nuo ko ją supantys kalnai ir mūsų laikais vadinami.'
+  teiginys: 'Senoviniame Lietuvos kelių aprašyme Kryžiuočių archyve dažnai minima Nerige yra dabartinė Vilija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Senoviniame Lietuvos kelių aprašyme Kryžiuočių archyve dažnai minima Nerige yra dabartinė Vilija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anksčiau kitaip

@@ -21,21 +21,22 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
 - t-001
   teiginys: 'Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos kamieno ir auklėjami tautiškumui priešingoje — komunistiškoje dvasioje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
-  teiginys: 'Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos ka- mieno ir auklėjami tautiškumui priešingoje — komunistiškoje dvasioje.'
+  teiginys: 'SSSR lietuvių nutautimas aiškintas jų atskyrimu nuo tautos kamieno ir auklėjimu komunistiškoje dvasioje.'
   pagrindžia:
     - c-001
 
 - t-003
   teiginys: 'nutautimas: daugumas jų susibūrė J. Amerikos Valstybėse, kur betgi lietuviams išeiviams jau gresia rimtas pavojus nutausti.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'SSSR lietuvių nutautimas aiškintas jų atskyrimu nuo tautos kamieno ir auklėjimu komunistiškoje dvasioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     duodama daugiausia agitacinės medžiagos, o kartais ir literatūros
@@ -51,25 +52,9 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    duodama daugiausia agitacinės medžiagos, o kartais ir literatūros
-    dalykų.
-    Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten
-    sparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos ka-
-    mieno ir auklėjami tautiškumui priešingoje — komunistiškoje
-    dvasioje. Ten varomoji lietuviška kultūrinė veikla tėra tiktai
-    priemonė komunizmui skleisti ir agituoti prieš tautišką nepri-
-    klausomąją Lietuvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet visos didžiosios

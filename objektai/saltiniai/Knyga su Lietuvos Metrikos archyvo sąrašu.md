@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Knygoje, apimančioje Lietuvos Metrikos archyvo sąrašą, apie jį yra tokia žinia: „Namui Vil­ niaus pilyje, kur Maskvą laiko, ger­ biamas Janas Filipovičius, daktaras, kustodas ir Vilniaus kanauninkas (Jan Philipowicz Doctor Custos i Canonik Wileński), pardavė.
+Lietuvos Metrikos archyvo sąrašo ištraukoje užfiksuotas Jano Filipovičiaus sklypo Vilniaus pilyje pardavimas karalienei Elenai.
 
 ## Teiginiai
 

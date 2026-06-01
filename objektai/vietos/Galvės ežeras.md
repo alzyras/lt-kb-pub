@@ -31,38 +31,21 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 - t-001
   teiginys: 'Priešais centrinius vartus buvo iškastas gynybinis griovys, susijungiantis su ežeru.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Galvės ežero salos pilis buvo minima kaip žymiausias Vytauto garbės ir pasididžiavimo statinys.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
-  teiginys: 'Iš trijų pusių pilį supa Galvės ežeras.'
-  pagrindžia:
-    - c-001
-
-- t-004
   teiginys: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pilį saugojo 11 gynybinių bokštų. Iš trijų pusių pilį
-    supa Galvės ežeras. Priešais centrinius vartus buvo
-    iškastas gynybinis griovys, susijungiantis su ežeru.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Priešais centrinius vartus buvo
@@ -75,7 +58,7 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ar iš tikrųjų Vytauto epochai gali
@@ -100,7 +83,7 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   santrauka: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -114,4 +97,4 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003

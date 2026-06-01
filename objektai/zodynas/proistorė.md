@@ -45,26 +45,21 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - c-001
 
 - t-003
-  teiginys: 'Tikroji Lietuvos istorija šiame pasakojime pradedama nuo XII amžiaus galo, kai daugėja rašytinių šaltinių.'
+  teiginys: 'Lietuvos proistorė jau buvo išaugusi į atskirą mokslą, tyrinėjamą kitais metodais.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
-  teiginys: 'archeologiniai kasinėjimai ir tyrinėjimai padeda geriau pažinti Lietuvos proistorę.'
+  teiginys: 'Lietuvos proistorė apima seniausius laikus, paremtus archeologiniais duomenimis.'
   pagrindžia:
     - c-001
 
 - t-005
-  teiginys: 'terminas vartojamas kaip istorinio laikotarpio pavadinimas, o ne kaip konkretus daiktas ar vieta.'
-  pagrindžia:
-    - c-001
-
-- t-006
   teiginys: 'Lietuvos proistorė yra jau plačiai išaugusi į atskirą mokslą, kur tyrinėjama kitais metodais.'
   pagrindžia:
     - c-001
 
-- t-007
+- t-006
   teiginys: 'Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai.'
   pagrindžia:
     - c-003
@@ -85,8 +80,8 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   pagrindžia:
     - t-001
     - t-002
+    - t-003
     - t-004
-    - t-005
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -114,7 +109,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

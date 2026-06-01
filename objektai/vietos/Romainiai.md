@@ -27,18 +27,19 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tas Romuvas sunaikino kryžiuočiai, už­ ėmę Prūsiją; tačiau nežinia, ar kitos, ar tos pačios iš anos žemės perkel­ tos, buvo pačioje Lietuvoje, prie Kauno, ant Nevėžio kranto, .būtent toj vietoj, kur dabar Romainiai.'
+  teiginys: 'Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Man atrodo, kad jei Lietuvo­ je buvo keletas tokių šventų vieto­ vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie­ nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo.'
+  teiginys: 'Po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai galėjo būti perkelti iš Romainių į Vilnių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos istorijoje yra žinomos šven­
@@ -64,6 +65,7 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
     - t-001
 
 - c-002
+  santrauka: 'Po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai galėjo būti perkelti iš Romainių į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant to, kryžiuo­

@@ -36,36 +36,37 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - t-002
   teiginys: 'Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o jos žemupys buvo paliktas Ordinui.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-003
   teiginys: 'Padalijus Užnemunę, Ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno į Šešupę.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-004
-  teiginys: 'Bet Užnemunė buvo padalinta, ir ordinui atiteko dalis didžiųjų girių, tiesia linija nuo Salyno į Šešupę.'
+  teiginys: 'Padalijus Užnemunę, ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno iki Šešupės.'
   pagrindžia:
     - c-001
 
 - t-005
   teiginys: '89 Šešuoliai 233 Šešupė 326, 333, 359 Šiauliai 68, 108, 168, 180 ; Šiaulių ekonomija 79 ; žr.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-006
   teiginys: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-007
-  teiginys: 'Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš čia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­ vintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­ lininkų; iš čia — į Palangą, paliekant Ordinui.'
+  teiginys: 'Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Padalijus Užnemunę, ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno iki Šešupės.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­
@@ -79,6 +80,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -94,8 +96,10 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-003
+  santrauka: 'Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkija gavo Niešavo žemę su
@@ -116,36 +120,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-007
 
 - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­
-    lavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII
-    amž. gale nukariautą kraštą, vis reiškė pretenzijas. Bet Užnemunė
-    buvo padalinta, ir ordinui atiteko dalis didžiųjų girių, tiesia linija
-    nuo Salyno į Šešupę. Toliau siena apytikriai buvo nužymėta upė­
-    mis (Šešupė, Neta, Bebras, Narevas).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
-    visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
-    Šešupėn. Šešupės krantu ji ėjo per girių masyvus. Jos žemupys
-    paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena
-    tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­
-    muno pusėje įteka Šventoji.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nuo pasirašymo vie-
@@ -161,7 +135,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindžia:
     - t-006
 
-- c-007
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     4, 24, 132

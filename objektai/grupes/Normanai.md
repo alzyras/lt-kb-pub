@@ -26,18 +26,19 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
 ## Teiginiai
 
 - t-001
-  teiginys: 'Visi žemaičiai nuo se­ nų laikų lietuviais save vadino, bet niekados - žemaičiais, ir dėl tokio ta­ patumo mes mūsų titule nerašome Žemaitijos vardo, nes viskas yra vie­ na - ir žemė, ir žmonės/'''' 3 Kraštas, lankytas normanų piratų iš Švedijos, Norvegijos ir.'
+  teiginys: 'Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam tikros pažangos tiems varganiems gyventojams, panašiai kaip ir į Rusios kraštus už Dvinos.'
+  teiginys: 'IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2
@@ -77,6 +78,7 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
     - t-002
 
 - c-002
+  santrauka: 'Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O žemaičiai Lietuvą vadina Auxto-
@@ -114,6 +116,7 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Skandinavai]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/Austurweg]]
 - [[objektai/zodynas/Eistr]]

@@ -31,11 +31,6 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pistoletų-kulkosvaidžių efektyvumu buvo įsitikinta ten, kur ugnies mūšis vyko nedideliais atstumais: mieste, miške ar valant tranšėjas.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri padaliniai.'
   pagrindžia:
     - c-001

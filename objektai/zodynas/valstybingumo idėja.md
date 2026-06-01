@@ -62,7 +62,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     - c-003
 
 - t-005
-  teiginys: 'Ši schema išskiria valstybės išsivystymą, sustiprėjimą, silpnėjimą, žlugimą ir atstatymą.'
+  teiginys: 'Lietuvių tautos valstybingumo idėja grindė periodizaciją pagal Lietuvos valstybės raidą, žlugimą ir atkūrimą.'
   pagrindžia:
     - c-003
 
@@ -148,7 +148,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]
 - [[objektai/zodynas/valstybingumo idėja valstybingumu grįsta periodizacija]]

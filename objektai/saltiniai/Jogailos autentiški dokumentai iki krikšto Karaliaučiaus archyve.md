@@ -19,13 +19,14 @@ Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo krikštą ir iki šiol išsaugotuose Karaliaučiaus archyve, Vilniaus vardas - Vylne, Velne, labai panėši į vardą, duotą jam Snorro.'
+  teiginys: 'Iki krikšto rašytuose Jogailos autentiškuose dokumentuose Karaliaučiaus archyve Vilnius vadintas Vylne ir Velne.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iki krikšto rašytuose Jogailos autentiškuose dokumentuose Karaliaučiaus archyve Vilnius vadintas Vylne ir Velne.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad galėjo čia

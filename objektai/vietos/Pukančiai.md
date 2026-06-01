@@ -26,18 +26,19 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijomis, padavė skundą, kaltinda­ mas ankstesniuosius tėvus jėzuitus: lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas, ad mentem fundacijų laiko Elniakampius, Putviškes, Pukančius.'
+  teiginys: 'Šv. Jono bažnyčios klebonas Adomas Ancypa skunde nurodė pagal fundacijas valdantis Pukančius su kitomis valdomis.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­ mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbiterio nuo seno laikytas valdas: Helanokempis (Elniakampius), Putviškes, Pukančius ir Rudaminą su.'
+  teiginys: '1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius Pukančius priskyrė prie valdų, skirtų vikarui ir jo pagalbininkams išlaikyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius Pukančius priskyrė prie valdų, skirtų vikarui ir jo pagalbininkams išlaikyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pa­
@@ -62,6 +63,7 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
     - t-002
 
 - c-002
+  santrauka: 'Šv. Jono bažnyčios klebonas Adomas Ancypa skunde nurodė pagal fundacijas valdantis Pukančius su kitomis valdomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Asesorių sprendimas byloje su Vil­

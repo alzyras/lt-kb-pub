@@ -25,9 +25,9 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad petras Atsiskyrėlis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė, pervažiavo Italiją ir persikėlė per Alpes, uoliai ragindamas ir visaip skatindamas (mat šitai būta išmintingo žmogaus, gebančio ir veikti, ir kalbėti) tiek Rytų, tiek Vakarų valdovus, tiek žemesnių luomų žmones aliai vieną drąsiai ryžtis sunkiai maldininkų kelionei į Jeruzalę, talkinant viešpačiui, o jo pasiuntiniui savo kalbomis teikiant [kryžininkams] visokeriopų malonių.'
+  teiginys: 'Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad petras Atsiskyrėlis meldėsi dievui bažnyčioje per viešpaties prisikėlimo šventę ir, nuo ilgo budėjimo pavargęs, snūstelėjo ant bažnyčios grindų, sapne jam pasirodė mūsų viešpats Jėzus Kristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus dėl šventosios žemės išvadavimo.'
@@ -103,26 +103,9 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
-
-    karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų,
-    gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną
-    II, kuris jį maloniai priėmė, pervažiavo Italiją ir persikėlė per Alpes, uoliai ragindamas
-    ir visaip skatindamas (mat šitai būta išmintingo žmogaus, gebančio ir veikti, ir kalbėti)
-    tiek Rytų, tiek Vakarų valdovus, tiek žemesnių luomų žmones aliai vieną drąsiai ryžtis
-    sunkiai maldininkų kelionei   į Jeruzalę, talkinant viešpačiui, o jo pasiuntiniui savo
-    kalbomis teikiant [kryžininkams] visokeriopų malonių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-005
+- c-004
   santrauka: 'Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų atsiskyręs, todėl jį vadino Petru Atsiskyrėliu, ragindamas jį aplankyti viešpaties kapą bei kitas šventąsias vietas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

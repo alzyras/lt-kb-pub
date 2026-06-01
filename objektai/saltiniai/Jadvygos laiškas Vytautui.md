@@ -28,13 +28,14 @@ Gana grėsmingai įsiliepsnojo pirmieji nesuta­ rimai tarp abiejų tautų (1398
 ## Teiginiai
 
 - t-001
-  teiginys: 'Gana grėsmingai įsiliepsnojo pirmieji nesuta­ rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos bus užtraukusi: mat parašė laišką Vytautui prašydama išmomiestų, kuriuos reikėtų saugoti.] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su.'
+  teiginys: '1398 m. karalienė Jadvyga laišku prašė Vytauto mokėti činšą, priklausantį jai iš Lietuvos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1398 m. karalienė Jadvyga laišku prašė Vytauto mokėti činšą, priklausantį jai iš Lietuvos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m.)

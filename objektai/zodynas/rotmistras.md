@@ -43,12 +43,12 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - t-002
   teiginys: 'Lauko etmonas kairiajame sparne išdėstė savo kavalerijos dalinius, kuriems greičiausiai vadovavo Usviatų seniūnas, rotmistras Jonas Petras Sapiega, centre buvo išdėstyti pėstininkai su muškietomis, kuriems vadovavo LDK didysis maršalka Kristupas Mikalojus.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: 'Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.'
@@ -82,6 +82,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -101,32 +102,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Lauko etmonas kairiajame sparne išdėstė
-    savo kavalerijos dalinius, kuriems greičiau-
-    siai vadovavo Usviatų seniūnas, rotmistras
-    Jonas Petras Sapiega, centre buvo išdės-
-    tyti pėstininkai su muškietomis, kuriems
-    vadovavo LDK didysis maršalka Kristupas
-    Mikalojus Manvydas Dorohostaiskis, deši-
-    niajame sparne buvusiai kavalerijai va-
-    dovavo LDK taurininkas Jonušas Radvila.
-    Sudėtinga vietovė trukdė sėkmingai pulti
-    per centrą, tai galėjo lietuviams kainuoti
-    per
-    daug aukų. Etmonai nu-
-    tarė sustiprinti dešinįjį sparną ir sudaryti
-    geležinį kumštį (šiame sparne buvo sutelkta
-    daugiausiai husarų vėliavų), kuris turėjo
-    smogti ir sunaikinti švedų kairįjį sparną,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
     Vidinė
     dalinių tvarka buvo paremta tradicine „draugų“ tipo organizacija.
     Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus
@@ -144,7 +119,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - [[temos/karinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
 - [[objektai/grupes/Lietuviai]]

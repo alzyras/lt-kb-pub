@@ -24,12 +24,12 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
     - c-001
 
 - t-002
-  teiginys: 'Tributum ir serebsčina pateikiami kaip to paties mokesčio pavadinimai.'
+  teiginys: 'Piniginis paklusnybės mokestis, lotyniškai vadintas tributum, dažniausiai buvo žinomas sidabrinės, arba serebsčinos, vardu.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mokėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t.'
+  teiginys: 'Kai kurių sričių valstiečiai jau labai anksti mokėjo sidabrinę duoklę – mokestį sidabriniais pinigais.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
     - t-002
 
 - c-002
+  santrauka: 'Kai kurių sričių valstiečiai jau labai anksti mokėjo sidabrinę duoklę – mokestį sidabriniais pinigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai
@@ -76,5 +77,4 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
 - [[objektai/daiktai/Vežimai]]
 - [[objektai/paprociai/Viešų miesto paslaugų pelno skyrimas Vilniaus iždui]]
 - [[objektai/zodynas/lietuviški grašiai, pusgrašiai ir rubliai]]
-- [[objektai/zodynas/pastočiai]]
 - [[objektai/zodynas/sidabrinė duoklė tributum serebsčina]]

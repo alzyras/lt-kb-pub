@@ -29,7 +29,7 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: '1968 m. išleistos Vilniaus miesto istorijos autoriai pažymėjo J.'
+  teiginys: '1968 m. „Vilniaus miesto istorijos“ autoriai J. I. Kraševskio ir M. Balinskio darbus laikė senosios Vilniaus istoriografijos pagrindu.'
   pagrindžia:
     - c-002
 
@@ -48,6 +48,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: '1968 m. „Vilniaus miesto istorijos“ autoriai J. I. Kraševskio ir M. Balinskio darbus laikė senosios Vilniaus istoriografijos pagrindu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prasidėjo Vilniaus miesto istorijos mokslinės istoriog­

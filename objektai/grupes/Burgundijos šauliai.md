@@ -25,7 +25,7 @@ tags:
     - c-001
 
 - t-002
-  teiginys: 'Kryžiuočiai, išlikę gyvi, turėjo už tai bū­ ti dėkingi Burgundijos šauliams, kurių taikliais šūviais ir nepaprasta narsa buvo atremtas puolimas ir kurie be ato­ dairos kaudamiesi, nors daug savųjų praradę, gelbėjo nuo pražūties likusią kariauną.'
+  teiginys: 'Burgundijos šauliai taikliais šūviais ir narsa atrėmė puolimą, nors patys patyrė didelių nuostolių.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ tags:
     - t-001
 
 - c-002
+  santrauka: 'Burgundijos šauliai taikliais šūviais ir narsa atrėmė puolimą, nors patys patyrė didelių nuostolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     138

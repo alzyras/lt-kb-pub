@@ -60,4 +60,3 @@ Kosakovskis.
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]

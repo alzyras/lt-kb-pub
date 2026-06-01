@@ -26,13 +26,14 @@ Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisė
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­ čioniška būdama, iš naujų savo tikėjimo brolių.'
+  teiginys: '1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar leidžia kapitulai
@@ -75,4 +76,5 @@ Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisė
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

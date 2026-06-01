@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '3, p. 140; jį vadina: homo furiosus, ac crapula in­ famis [baisus žmogus ir begėdis gir­ tuoklis].'
+  teiginys: 'Kojalavičius Švitrigailą apibūdino formule „homo furiosus, ac crapula infamis“, reiškiančia baisų žmogų ir begėdį girtuoklį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kojalavičius Švitrigailą apibūdino formule „homo furiosus, ac crapula infamis“, reiškiančia baisų žmogų ir begėdį girtuoklį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis kunigaikštis, dar nuo pirmųjų kivir-
@@ -58,6 +59,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/autoriai/August von Kotzebue]]

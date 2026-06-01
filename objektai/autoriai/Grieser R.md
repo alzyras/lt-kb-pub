@@ -19,13 +19,14 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privilegijos suteikimo (Grieser R.'
+  teiginys: 'R. Grieseris aiškino, kad žodis dažnai apibūdina gyvenvietę iki miesto privilegijos suteikimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Grieseris aiškino, kad žodis dažnai apibūdina gyvenvietę iki miesto privilegijos suteikimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žodis dažnai apibūdina gyvenvietę iki miesto

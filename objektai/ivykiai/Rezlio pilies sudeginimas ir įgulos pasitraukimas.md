@@ -36,24 +36,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Rezlio pilis Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, labai išsigando ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų keliais pasitraukė.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino
-    pilis, labai išsigando  ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų
-    keliais pasitraukė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     97 (92). Apie tai, kaip buvo palikta Rezlio pilis

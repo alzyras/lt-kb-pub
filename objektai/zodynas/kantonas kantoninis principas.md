@@ -149,6 +149,5 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/„bazę diskusijom“]]
 - [[objektai/posakiai/„nei karo, nei taikos“]]
-- [[objektai/asmenys/Polis Himansas]]
 - [[objektai/zodynas/autonomija autonominis statusas]]
 - [[objektai/zodynas/federacija federacinė valstybė]]

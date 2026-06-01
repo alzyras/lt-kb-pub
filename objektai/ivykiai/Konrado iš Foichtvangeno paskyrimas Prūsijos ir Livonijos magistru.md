@@ -85,22 +85,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    201 (196). Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
-
-       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
-    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
-    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
-    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
-    metais.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -109,7 +93,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
 - [[objektai/asmenys/Konradas iš Foichtvangeno]]
-- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

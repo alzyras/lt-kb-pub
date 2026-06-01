@@ -20,16 +20,17 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - t-001
   teiginys: 'Dusburgietis teigia, kad rudolfas, vadinamas Bodemeru subūrė brolių kariuomenę ir ją išdėstė įvairiose vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš neapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu išsirinko vyrą, vardu Sabinas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta, Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei, taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į Bartenšteino pilį ir.'
+  teiginys: 'Brolis Rudolfas, vadinamas Bodemeru, Bartenšteino pilyje pateko į Stantos ir jo bendrų nelaisvę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Rudolfas, vadinamas Bodemeru, Bartenšteino pilyje pateko į Stantos ir jo bendrų nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie  tai sužinojęs,
@@ -49,29 +50,12 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie  tai sužinojęs,
-    magistras be galo sunerimo (jis mat būgštavo, kad gali rastis naujų pavojų jam pačiam
-    bei jo žmonėms, tikėjimui bei tikintiesiems) ir įsakė visiems nuo didžiausio iki mažiausio
-    savo valdiniams rengtis karui, nes šitaip tikėjosi galėsiąs vienaip ar kitaip sutrukdyti
-    statybai. Vis dėlto anksčiau, nei jis subūrė brolių kariuomenę  ir ją išdėstė įvairiose
-    vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš
-    neapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu
-    išsirinko vyrą, vardu Sabinas. Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,
-    Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,
-    taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į
-    Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
-    Libencelės su visa jų šeimyna.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Misinas]]
+- [[objektai/asmenys/Stanta]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Sabinas]]

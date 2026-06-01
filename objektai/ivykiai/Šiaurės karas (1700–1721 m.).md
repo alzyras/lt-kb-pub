@@ -46,36 +46,16 @@ Nenurodyta
 - t-001
   teiginys: 'Per Šiaurės karą 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Šiaurės karo nusiaubtoje Lietuvoje kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Valdant Augustui II
-    faktine Lietuvos sostine tapo
-    Saksonijos pagrindinis miestas
-    Drezdenas
-
-    Išorinės įtakos stiprėjimas
-    Švedų pralaimėjimas leido Augustui 11 sugrįžti į ATR sostą, tačiau
-    laimėtoju kare, kurį pats sukėlė, buvo ne jis, o Petras I, todėl nuo
-    šiol sąlygas diktuoti ėmė Rusija. Šiaurės karo nusiaubtoje Lietuvoje
-    kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų.
-    Šis karas pakeitė geopolitinę padėtį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šiaurės karas
@@ -91,7 +71,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Šiaurės karo nusiaubtoje Lietuvoje kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -112,6 +92,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

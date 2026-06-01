@@ -36,12 +36,12 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 - t-002
   teiginys: 'Beje, Švedijos karalius Karolis 1x vos nepakliuvo į nelaisvę.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-003
   teiginys: 'Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai.'
   pagrindžia:
-    - c-006
+    - c-001
 
 - t-004
   teiginys: 'Karolis IX vos nepakliuvo į nelaisvę, bet išsigelbėjo, kai švedų reitaras Henrikas Vrede atidavė jam savo žirgą.'
@@ -56,7 +56,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 - t-006
   teiginys: 'Salaspilio mūšyje Karolis IX netrukus turėjo duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-007
   teiginys: 'Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.'
@@ -87,6 +87,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   statusas: verified
   pagrindžia:
     - t-007
+    - t-003
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -105,6 +106,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   statusas: verified
   pagrindžia:
     - t-001
+    - t-006
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -137,47 +139,6 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - t-005
 
 - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1605 m. rugséjo 27 d. SALASPILIO (KIRKCHOLMO) MUSIS
-
-    riuomenės karališkosios gvardijos pėstininkų batalionas, už jo
-    ant žirgo Švedijos karalius Karolis Ix. Jį apsupę ginkluoti alebardo-
-    mis kariai — pėstininkų karininkai. Netrukus karalius duos nurodymą
-    siųsti gvardijos kavaleriją į lemiamą ataką
-
-    puolimo kryptimi (į dešinįjį lietuvių
-    sparną) gvardijos kavaleriją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-006
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    £ sae.
-    ee Kuoknesės pilis
-
-    Baronas Karolis Karl-
-    sonas Gyllenhielmas
-    (Carl Carlson Gyllen-
-    hielm, 1574-1650 m.)
-    Švedijos karaliaus
-    Karolio 1x ir Karinos
-    Nilsdotter nesantuo-
-    kinis sūnus. Vadovavo
-    švedų kariuomenei,
-    veikusiai prieš lietu-
-    vius Livonijoje. 1616 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Švedų kariuomenė neatlaikė ir pra-

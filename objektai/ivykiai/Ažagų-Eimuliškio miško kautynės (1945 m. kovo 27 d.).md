@@ -44,7 +44,7 @@ Nenurodyta
     - c-005
 
 - t-002
-  teiginys: 'Į kautynes įsitraukė Žaliosios rinktinės Aušros būrys, o partizanai dienos pabaigoje prasiveržė Pakruojo link.'
+  teiginys: 'Ažagų-Eimuliškio miško kautynėse dalyvavo Žaliosios rinktinės Aušros būrys, o dienos pabaigoje dalis partizanų prasiveržė Pakruojo link.'
   pagrindžia:
     - c-001
 
@@ -71,6 +71,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ažagų-Eimuliškio miško kautynėse dalyvavo Žaliosios rinktinės Aušros būrys, o dienos pabaigoje dalis partizanų prasiveržė Pakruojo link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmiausia buvo pulta viena vietinių vyrų,

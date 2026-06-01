@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Knygoje, apimančioje Lietuvos Metrikos archyvo sąrašą, apie jį yra tokia žinia: „Namui Vil­ niaus pilyje, kur Maskvą laiko, ger­ biamas Janas Filipovičius, daktaras, kustodas ir Vilniaus kanauninkas (Jan Philipowicz Doctor Custos i Canonik Wileński), pardavė.
+Janas Filipovičius cituojamoje Lietuvos Metrikos archyvo sąrašo ištraukoje vadinamas daktaru, kustodu ir Vilniaus kanauninku.
 
 ## Teiginiai
 
@@ -68,4 +68,6 @@ Knygoje, apimančioje Lietuvos Metrikos archyvo sąrašą, apie jį yra tokia ž
 - [[objektai/asmenys/Pelka]]
 - [[objektai/asmenys/Petras (Poznanės vyskupas)]]
 - [[objektai/asmenys/Vitas]]
+- [[objektai/asmenys/Petras Roizijus]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/zodynas/kustodas ir gvardijonas]]

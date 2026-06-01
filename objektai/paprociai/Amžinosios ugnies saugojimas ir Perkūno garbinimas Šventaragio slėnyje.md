@@ -56,7 +56,7 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Amžinąją ugnį saugojo ir kurstė žyniai, o jų vyriausiasis buvo Krivių Krivaitis.'
+  teiginys: 'Šventaragio slėnyje Perkūno garbei degusią amžinąją ugnį Gabiją saugojo ir kurstė žyniai, vadovaujami Krivių Krivaičio.'
   pagrindžia:
     - c-002
 

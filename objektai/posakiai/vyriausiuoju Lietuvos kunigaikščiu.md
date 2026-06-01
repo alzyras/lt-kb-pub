@@ -24,13 +24,14 @@ Vil­ niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą iki 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vil­ niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą iki gyvos galvos.'
+  teiginys: 'Vilniaus-Radomo aktais Vytautas iki gyvos galvos formaliai įgijo didžiojo kunigaikščio titulą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus-Radomo aktais Vytautas iki gyvos galvos formaliai įgijo didžiojo kunigaikščio titulą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vil­
@@ -48,4 +49,5 @@ Vil­ niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą iki 
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/posakiai/Iki gyvos galvos]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/posakiai/supremus dux]]

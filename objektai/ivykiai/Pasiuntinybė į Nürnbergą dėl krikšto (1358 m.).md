@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sutikdami krikštytis Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių, Žiemgalius ir Kuršius.'
+  teiginys: '1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes iki Deimės ir Alės upių, Žiemgalius ir Kuršius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes iki Deimės ir Alės upių, Žiemgalius ir Kuršius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     bergan pas ciesorių Karolių IV vieną savo giminaitį tartis dėl

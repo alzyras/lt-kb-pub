@@ -25,13 +25,14 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kurioje ilgai buvo lai­ komos pamaldos, ir pats kurį laiką gyveno, todėl jam duotas Kardinali­ jos vardas.'
+  teiginys: 'Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kardinolas Radvila

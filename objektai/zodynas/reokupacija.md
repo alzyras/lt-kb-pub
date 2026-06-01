@@ -17,13 +17,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '1944 m. vasarą sovietų kariuomenė antrą kartą okupavo Lietuvą, Latviją ir Estiją, grąžindama stalininį režimą.'
+  teiginys: '1944 m. vasarą Lietuvos reokupacija reiškė antrą sovietų okupaciją, per kurią Lietuvai, Latvijai ir Estijai grąžintas stalininis režimas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1944 m. vasarą Lietuvos reokupacija reiškė antrą sovietų okupaciją, per kurią Lietuvai, Latvijai ir Estijai grąžintas stalininis režimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nacių okupaciją keičia sovietinė
@@ -42,6 +43,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m. vasara)]]
-- [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m.)]]
-- [[objektai/grupes/Sovietų Sąjunga]]
+- [[objektai/ivykiai/Lietuvos reokupacija (1944 m.)]]

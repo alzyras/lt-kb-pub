@@ -42,7 +42,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rūdavos mūšyje žuvo apie 5000 lietuvių ir mažiausiai 300 vokiečių pusės kariuomenės žmonių.'
+  teiginys: 'Rūdavos mūšyje Algirdas, matyt, buvo pasiėmęs Jogailą, o Kęstutis pratino jauną Vytautą prie karo.'
   pagrindžia:
     - c-001
 
@@ -52,7 +52,7 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: '1370 m. vasario 17 d. prie Rudavos lietuviai patyrė didelį pralaimėjimą.'
+  teiginys: 'Rūdavos mūšyje dalyvavęs jaunas Vytautas dar neturėjo vadovaujamos reikšmės ir buvo Kęstučio pratinamas prie karo.'
   pagrindžia:
     - c-001
 

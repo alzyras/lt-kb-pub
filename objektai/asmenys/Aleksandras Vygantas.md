@@ -19,13 +19,14 @@ Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Alek
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Aleksandras Vygantas, vienas energin­ giausių Lietuvos kunigaikščių, o iš visų tikrųjų Jogailos bro­ lių dėl sumanaus proto ir romaus būdo labiausiai tinkamas į Lietuvos didžiuosius.'
+  teiginys: 'Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Buvo tai jau paskutinė sostinės apsiaustis šio
@@ -46,3 +47,4 @@ Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Alek
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/apsiaustis]]
+- [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]

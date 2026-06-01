@@ -20,13 +20,14 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio ir skaičiaus grivinų, skaičiuo­ jant po keturiasdešimt aštuonis gra­ šius už kiekvieną griviną, šimtą iki gyvos galvos iš mūsų iždo ir šimtą, kol bus pasiekta taika tarp mūsų Lietuvos.'
+  teiginys: 'Vilniaus vyskupui Andriui iki gyvos galvos buvo paskirta šimtas grivinų iš iždo ir kasmetinė medaus duoklė iš Vilniaus pilies.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vyskupui Andriui iki gyvos galvos buvo paskirta šimtas grivinų iš iždo ir kasmetinė medaus duoklė iš Vilniaus pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ten, be kita ko, pasakyta: ...habito-
@@ -104,5 +105,8 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
 - [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]
 - [[objektai/zodynas/monopolis privati prekyba]]
 - [[objektai/asmenys/Šach Achmedas]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]
+- [[objektai/zodynas/trečias grūdas]]
 - [[objektai/posakiai/vyriausiuoju Lietuvos kunigaikščiu]]

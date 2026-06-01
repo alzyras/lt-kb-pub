@@ -45,7 +45,7 @@ Nenurodyta
     - c-003
 
 - t-002
-  teiginys: 'Rašto vartojimas valstybės ir Bažnyčios reikaluose: ypač skirtingai ji ėmė plėtotis Lietuvoj, kai nuo XIV amžiaus pa- baigos ji pasidarė valstybine rašto kalba, kai ja buvo rašoma daugumas raštų ne tik valstybės, bet ir Bažnyčios reikalams. Net Lietuvos katalikų dvasininkai ją vartojo greta lotynų kal- bos..'
+  teiginys: 'Nuo XIV a. pabaigos gudų rašto kalba Lietuvoje tapo valstybine rašto kalba ir vartota valstybės bei Bažnyčios reikalams.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nuo XIV a. pabaigos gudų rašto kalba Lietuvoje tapo valstybine rašto kalba ir vartota valstybės bei Bažnyčios reikalams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač

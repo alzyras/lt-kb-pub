@@ -32,7 +32,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 - t-001
   teiginys: 'LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Augusto Poniatovskio globėjus Čartoriskius, savo ruožtu, rėmė Rusijos imperatorė Jekaterina 11.'
@@ -52,7 +52,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 - t-005
   teiginys: 'Jekaterinos II laikais į vietinį valdymą buvo įtrauktos atskirų luomų savivaldos institucijos.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -111,26 +111,9 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    100
-    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
-    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
-    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
-    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
-    vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
-    bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
-    gūnus, žemutinės teismų grandies teisėjus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rugsėjo 11 dieną Targovicos ir Vilniaus

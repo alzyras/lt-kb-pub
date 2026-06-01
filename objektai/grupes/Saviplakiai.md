@@ -21,7 +21,6 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
   teiginys: 'Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -38,17 +37,6 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
                               5.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o
-    kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

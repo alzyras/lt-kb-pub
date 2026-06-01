@@ -30,7 +30,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     - c-003
 
 - t-003
-  teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­ rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pibuvo prisistatęs Vytautui stovyklo­ je prie Smolensko su bajorais ir, Vy­ tautui tą miestą užėmus, priėmė iš šio monarcho jam skirtą valdą -.'
+  teiginys: 'Aukštutinėje tvirtovėje buvo užsidarę lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     - t-001
 
 - c-002
+  santrauka: 'Aukštutinėje tvirtovėje buvo užsidarę lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie jos šliejosi

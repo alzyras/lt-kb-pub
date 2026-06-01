@@ -50,5 +50,4 @@ jubiliejinių metų (1930) Lietuvos istorijos dirvonuose ėmė pasirodyti vad. �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/ivykiai/Vytauto Didžiojo jubiliejiniai metai (1930 m.)]]

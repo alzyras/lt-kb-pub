@@ -38,22 +38,22 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 - t-002
   teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Andrius žuvo prie Vorsklos 1399 metais.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-004
   teiginys: 'Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-005
   teiginys: 'Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-006
   teiginys: 'Kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
@@ -63,7 +63,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 - t-007
   teiginys: 'Vytautas ir pats buvo reagavęs į Serbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu 1399 m. prie Vorsklos.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-008
   teiginys: 'Vytauto didelių užsimojimų žygis buvo pralaimėtas prie Vorsklos.'
@@ -71,9 +71,9 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
     - c-002
 
 - t-010
-  teiginys: 'Bet deja, jam tokiu iš jo grįžti neteko: didelių užsimojimų žygis buvo prie Vorsklos pralaimėtas.'
+  teiginys: 'Vytauto didelių užsimojimų žygis prie Vorsklos buvo pralaimėtas.'
   pagrindžia:
-    - c-010
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -134,39 +134,9 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Buvo valakai, kryžiuo-
-    čių dalinys (100 riterių), vadovaujamas
-    Ragainės komtūro Markvardo. Rugpjūčio
-    pradžioje kariuomenė, persikėlusi per
-    Dnieprą, jo kairiuoju krantu patraukė į
-
-    Šarvinių
-    pirštinių
-    rekonstrukcija
-
-    stepes, kur laukė prie
-    kairiojo Dniepro intako
-    Vorsklos, prie Ordos valdų pari-
-    bių, susitiko su Aukso ordos chano
-    Timūr-Kutluko kariuomene.
-
-    Lietuvos jungtinės pajėgos
-
-    Lietuviai, žemaičiai, LDK rusų žemių ku-
-    nigaikščiai, Tochtamišo totoriai, talkinin-
-    kai iš Lenkijos, Kryžiuočių ordino kariai,
-    moldavai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-005
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tokios didelės
@@ -181,7 +151,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   pagrindžia:
     - t-004
 
-- c-006
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis ir Koje-
@@ -204,7 +174,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   pagrindžia:
     - t-003
 
-- c-007
+- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis
@@ -219,8 +189,9 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   statusas: verified
   pagrindžia:
     - t-005
+    - t-009
 
-- c-008
+- c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Garsiajame
@@ -239,22 +210,8 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   pagrindžia:
     - t-007
 
-- c-009
-  santrauka: 'Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis
-    Vytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs
-    Smolenską ir pasiekęs Juodąją jūrą. Vytauto pralaimėjimas toto-
-    riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-010
-  santrauka: 'Bet deja, jam tokiu iš jo grįžti neteko: didelių užsimojimų žygis buvo prie Vorsklos pralaimėtas.'
+- c-008
+  santrauka: 'Vytauto didelių užsimojimų žygis prie Vorsklos buvo pralaimėtas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kaip būtų Vytautas pasielgęs su

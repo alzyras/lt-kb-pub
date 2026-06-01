@@ -84,5 +84,4 @@ Nenurodyta
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/asmenys/Michailas Jaroslavičius]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Mindaugo nužudymas]]

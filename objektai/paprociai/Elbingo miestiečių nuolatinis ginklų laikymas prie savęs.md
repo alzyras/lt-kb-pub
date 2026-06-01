@@ -94,6 +94,4 @@ Nenurodyta
 - [[objektai/grupes/Bartai]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/grupes/Varmiai]]
-- [[objektai/grupes/Elbingo miestiečiai]]
-- [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]
 - [[objektai/grupes/Pagudėnai]]

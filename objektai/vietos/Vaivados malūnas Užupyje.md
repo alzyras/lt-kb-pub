@@ -30,13 +30,14 @@ amziai:
     - c-002
 
 - t-002
-  teiginys: 'PATS ALEKSANDRAS, DIEVO MALONE DIDYSIS LIETUVOS, RUSIOS, ŽEMAIČIŲ IR KITŲ KUNIGAIKŠTIS Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­ vilai.'
+  teiginys: 'Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą prie Vilniaus vaivados Mikalojaus Radvilos malūno Užupyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą prie Vilniaus vaivados Mikalojaus Radvilos malūno Užupyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     PATS ALEKSANDRAS,

@@ -73,4 +73,3 @@ Nenurodyta
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/grupes/Jogailaičių dinastija]]
-- [[objektai/grupes/Turkai]]

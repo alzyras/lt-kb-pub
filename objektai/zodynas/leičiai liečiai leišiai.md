@@ -38,7 +38,7 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 - t-002
   teiginys: 'Leičių ar liečių vardas siejamas su Lietuvos valdovų valstybės pakraščiuose įkurdintais ištikimais žmonėmis iš Lietuvos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -60,22 +60,6 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Grindžiama
-    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
-    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
-    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
-    Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
-    vadina lietuvius „leišiais“), o gal ir „liečiais“. Taigi, Lietuvos vardas turėjo
-    atsirasti nuo etnonimo (susijusio su specifinėmis karinėmis funkcijomis)
-    „liečiai“ ar „leičiai“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

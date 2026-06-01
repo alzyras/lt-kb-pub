@@ -19,36 +19,31 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
 ## Teiginiai
 
 - t-001
-  teiginys: 'Čia reikia pirmiausia paminėti du žymius teisės istorikus, kuriedu yra palikę daug studijų ir straipsnių iš Lietuvos valstybės teisiniu santykių ir institucijų : E.'
+  teiginys: 'E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Rusų ir ukrainiečių istorikai atskira kny­ ga140a, kurios žymią dalį J.'
-  pagrindžia:
-    - c-007
-
-- t-003
   teiginys: 'Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis.'
-  pagrindžia:
-    - c-006
-
-- t-004
-  teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.'
   pagrindžia:
     - c-005
 
-- t-005
-  teiginys: 'Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­ čių istorikas M.'
+- t-003
+  teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.'
   pagrindžia:
     - c-001
 
-- t-006
+- t-004
+  teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų.'
+  pagrindžia:
+    - c-001
+
+- t-005
   teiginys: 'Rusų ir ukrainiečių istorikai davė naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t.'
   pagrindžia:
     - c-002
 
-- t-007
+- t-006
   teiginys: 'Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
   pagrindžia:
     - c-004
@@ -56,6 +51,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos istorijos klausimus
@@ -69,7 +65,8 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
+    - t-003
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -82,9 +79,10 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-003
+  santrauka: 'E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Užtat rusų istorikai davė ir Lietuvai pavadinimą «Litovsko —
@@ -115,25 +113,9 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos istorijos klausimus
-    nuo XIII a. vidurio iki Liublino unijos savo paskaitose Peter­
-    burgo universitete 1908-1910 m. lietė ir A. E. Presniako­
-    vas 145. Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
-    čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo
-    žemės istoriją iki mongolų laikų ir toliau kaip tą žemę užval­
-    dė Lietuvos kunigaikščiai^146.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
@@ -142,23 +124,6 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     dė Lietuvos kunigaikščiai^146. Kitas ukrainietis istorikas V. Zai­
     kinas rašė iš teisės filosofijos ir religijos istorijos srities, lies­
     damas D. Lietuvos Kunigaikštystę^147.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-007
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ypač reikšmingi jo veikalai
-    apie Lietuvos valstybės administracinį padalinimą ir apie seimą^140.
-    Savo paskaitas Lietuvos istorijos temomis išleido jis atskira kny­
-    ga140a, kurios žymią dalį J. Sondeckis išvertė lietuviškai^141. Lie­
-    tuvos valstybės ekonomikos klausimus nagrinėdamas, daug isto­
-    rinių duomenų surinko M. Dovnar-Zapolskis; ypač svar­
-    bus jo veikalai « Valstybinis Lietuvos Didžiosios Kunigaikštystės
-    ūkis Jogailaičiu laikais » (DoZGos) ir dokumentu rinkinys (ALRG)^142.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
@@ -172,4 +137,3 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/unija]]
-- [[objektai/zodynas/kunigaikščiai]]

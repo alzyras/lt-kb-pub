@@ -22,17 +22,10 @@ periodo_grupes:
 
 Dusburgietis teigia, kad pollakówna M.
 
-## Teiginiai
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad pollakówna M.'
-  pagrindžia:
-    - c-002
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Pollakówna parašė darbus „Zanik ludności pruskiej“ ir „Galindia“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
@@ -40,10 +33,9 @@ Dusburgietis teigia, kad pollakówna M.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
-  pagrindžia:
-    - t-001
 
 - c-002
+  santrauka: 'M. Pollakówna parašė darbus „Zanik ludności pruskiej“ ir „Galindia“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy,
@@ -51,5 +43,3 @@ Dusburgietis teigia, kad pollakówna M.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-001

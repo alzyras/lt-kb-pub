@@ -19,13 +19,14 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
 ## Teiginiai
 
 - t-001
-  teiginys: 'Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius kautis su pagonimis lietuviais, ga­ lėjo kryžiuočius prieš kelerius me­ tus su tuo bombardų išradimu su­ pažindinti, galėjo ir Gediminas nuo jų žūti.'
+  teiginys: 'Anglų riteriai ne kartą kartu su kryžiuočiais dalyvavo kryžiaus žygiuose prieš pagonimis laikytus lietuvius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Anglų riteriai ne kartą kartu su kryžiuočiais dalyvavo kryžiaus žygiuose prieš pagonimis laikytus lietuvius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     66, p. 948.

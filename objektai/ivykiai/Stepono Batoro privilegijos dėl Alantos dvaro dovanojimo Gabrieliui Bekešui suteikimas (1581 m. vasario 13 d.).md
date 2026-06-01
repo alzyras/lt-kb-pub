@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šiuo mūsų laiš­ ku pareiškiame visiems bendrai ir kiekvienam atskirai, kam tai reikia žinoti dabar ir ateityje, jog atsižvelgiame į ištiki­ mus, drąsius ir pasiaukojamus mūsų vengrų pulkų vado pono Gabrielio Bekešo Skornato nuopelnus; jis, narsiai ir nuolat.'
+  teiginys: 'Steponas Batoras privilegijoje pabrėžė Gabrielio Bekešo nuopelnus tarnaujant valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei.'
   pagrindžia:
     - c-002
 
@@ -53,13 +53,14 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Ir bus leista minėtam po­ nui Gabrieliui Bekešui ir po jo abiejų lyčių vaikams ir vi­ siems jo palikuonims, kaip aukščiau pasakyta, tose visose išvardintose ir jam mūsų duotose valdose visą derlių, ku­ ris dabar ten yra ir po to būtų gautas ir galėtų būti.'
+  teiginys: 'Stepono Batoro privilegija leido Gabrieliui Bekešui ir jo palikuonims naudotis suteiktomis valdomis kaip nuosava tėvonija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stepono Batoro privilegija leido Gabrieliui Bekešui ir jo palikuonims naudotis suteiktomis valdomis kaip nuosava tėvonija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir bus leista minėtam po­
@@ -92,6 +93,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Steponas Batoras privilegijoje pabrėžė Gabrielio Bekešo nuopelnus tarnaujant valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     (Kopija iš originalo, esančio Radvilų archyve)
@@ -176,4 +178,5 @@ Nenurodyta
 - [[objektai/grupes/Vengrai]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/zodynas/tėvonija]]
+- [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Batoras]]

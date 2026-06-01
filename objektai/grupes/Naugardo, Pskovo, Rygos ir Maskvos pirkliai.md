@@ -20,13 +20,14 @@ Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
+  teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,

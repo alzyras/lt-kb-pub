@@ -26,33 +26,34 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 ## Teiginiai
 
 - t-001
-  teiginys: 'Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei jurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­ dė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­ demijos kancleriu, o Žemaičių - globėju.'
+  teiginys: '1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.'
+  teiginys: 'Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
+  teiginys: 'Vilniaus katedros kapitula bažnytinėse savo asmenų ir valdinių bylose turėjo jurisdikciją su ekskomunikacijos teise.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Toliau dėl tų namų, kuriuos pačiai Bursos studentų bendrijai davėme ir užrašėme, jurisdikcijos: kadangi namai stovi, žinoma, vyskupijos žemėje, nenorėdami dėl šio daly­ ko mūsų įpėdiniams padaryti žalos, jiems ir jų garbingie­ siems pareigūnams paliekame.'
+  teiginys: 'Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.'
   pagrindžia:
     - c-005
 
 - t-005
-  teiginys: 'Tam pačiam ponui dabartiniam vyskupui ir jo įpėdiniams, Vilniaus vyskupams, suteikiame pilną bei vi­ są valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją.'
+  teiginys: 'Vilniaus vyskupui ir jo įpėdiniams suteikta mėsos krautuvių kūrimo jurisdikcija Vilniaus bažnyčios teritorijoje.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1578 metais Karalius Steponas Batoras, šias funduotas mo­
@@ -70,6 +71,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     - t-001
 
 - c-002
+  santrauka: 'Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
@@ -105,6 +107,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     - t-002
 
 - c-003
+  santrauka: 'Vilniaus vyskupui ir jo įpėdiniams suteikta mėsos krautuvių kūrimo jurisdikcija Vilniaus bažnyčios teritorijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi mes jo
@@ -132,6 +135,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     - t-005
 
 - c-004
+  santrauka: 'Vilniaus katedros kapitula bažnytinėse savo asmenų ir valdinių bylose turėjo jurisdikciją su ekskomunikacijos teise.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nusprendėme ir šiuo raštu nu­
@@ -151,6 +155,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     - t-003
 
 - c-005
+  santrauka: 'Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šio pobūdžio studentų bendriją (congregatio) ir mi­
@@ -182,6 +187,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - [[objektai/asmenys/Grigalius XIII]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/zodynas/kapitula]]
@@ -194,10 +200,8 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - [[objektai/asmenys/Motiejus (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Steponas Genseris]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/grupes/Vilniaus miesto cechai]]
-- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas)]]
 - [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]
 - [[objektai/zodynas/bažnytinės cenzūros]]
@@ -206,7 +210,9 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
 - [[objektai/ivykiai/Žygimanto privilegijos mėsinėms Vilniaus mieste suteikimas (1543 m.)]]
+- [[objektai/zodynas/Cechai]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/zodynas/vaitas ir tarėjai]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]

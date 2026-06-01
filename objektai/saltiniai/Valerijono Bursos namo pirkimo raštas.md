@@ -20,13 +20,14 @@ Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvena
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvenantiems, būtų šiek tiek palengvintas skur­ dus gyvenimas, kad galėtų pasirūpinti, aišku, malkų, dar­ žovių ir kitų būtinų dalykų, davėme ir šiuo mūsų raštu duo­ dame du naujus, mūsų.'
+  teiginys: 'Valerijono Bursos studentams buvo duoti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valerijono Bursos studentams buvo duoti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tikimės, kad didžiai gerbiamas tė­

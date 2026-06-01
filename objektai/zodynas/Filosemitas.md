@@ -17,13 +17,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 169 Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas A.'
+  teiginys: 'Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daug žydų buvo laisvųjų profesijų
@@ -49,3 +50,4 @@ tags:
 - [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„vietos visiems užteks“]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]

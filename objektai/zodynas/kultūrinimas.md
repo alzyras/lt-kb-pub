@@ -22,7 +22,7 @@ tags:
     - c-001
 
 - t-002
-  teiginys: 'Šis Lietuvos kultūrinimas, jei būtų buvęs pra­ dėtas nors Mindaugo laikais, nebūtų mums padaręs tokių ištau­ tėjimo nuostolių.'
+  teiginys: 'Lietuvos kultūrinimas, pradėtas Mindaugo laikais, esą būtų sumažinęs nutautėjimo nuostolius.'
   pagrindžia:
     - c-002
 
@@ -43,7 +43,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: 'Šis Lietuvos kultūrinimas, jei būtų buvęs pra­ dėtas nors Mindaugo laikais, nebūtų mums padaręs tokių ištau­ tėjimo nuostolių.'
+  santrauka: 'Lietuvos kultūrinimas, pradėtas Mindaugo laikais, esą būtų sumažinęs nutautėjimo nuostolius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bloga tik, kad mes perdaug buvom atsilikę ir pasivė­

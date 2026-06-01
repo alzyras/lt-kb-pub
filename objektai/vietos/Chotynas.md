@@ -33,7 +33,7 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
     - c-001
 
 - t-002
-  teiginys: 'Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J.'
+  teiginys: '1673 m. Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumušė turkus.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
     - t-001
 
 - c-002
+  santrauka: '1673 m. Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumušė turkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi lietuvių kalbą, nesuspėjant kurti naujadarų

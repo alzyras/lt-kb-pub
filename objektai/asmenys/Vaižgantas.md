@@ -19,13 +19,14 @@ Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Mai
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.'
+  teiginys: 'Vaižgantas buvo vienas iš lietuvių literatūros klasikų, minėtų kaip dar vaikščiojusių Kauno gatvėmis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vaižgantas buvo vienas iš lietuvių literatūros klasikų, minėtų kaip dar vaikščiojusių Kauno gatvėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,

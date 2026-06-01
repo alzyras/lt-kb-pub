@@ -44,7 +44,6 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad mstivojus, Pomeranijos kunigaikštis, anksčiau nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas, paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą tarp jo ir magistro bei brolių.'
   pagrindžia:
-    - c-003
     - c-002
 
 - t-002
@@ -72,19 +71,6 @@ Nenurodyta
     - t-002
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    išsivarydami daug žmonių  ir gyvulių. Mstivojus, Pomeranijos kunigaikštis, anksčiau
-    nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas,
-    paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą
-    tarp jo ir magistro bei brolių taikos susitarimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     išsivarydami daug žmonių  ir gyvulių. Mstivojus, Pomeranijos kunigaikštis, anksčiau

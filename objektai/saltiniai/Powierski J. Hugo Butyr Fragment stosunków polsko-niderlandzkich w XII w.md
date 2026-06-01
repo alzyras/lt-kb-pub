@@ -23,13 +23,14 @@ Dusburgietis teigia, kad powierski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad powierski J.'
+  teiginys: 'J. Powierskio straipsnis „Hugo Butyr: Fragment stosunków polsko-niderlandzkich w XII w.“ paskelbtas 1972 m. ZHPB 37 tomo 2 sąsiuvinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio straipsnis „Hugo Butyr: Fragment stosunków polsko-niderlandzkich w XII w.“ paskelbtas 1972 m. ZHPB 37 tomo 2 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Powierski J. Hugo Butyr: Fragment stosunków polsko-niderlandzkich w XII w.—ZHPB,

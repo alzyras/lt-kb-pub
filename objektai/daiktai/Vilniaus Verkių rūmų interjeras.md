@@ -50,7 +50,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija, Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras iš J.'
+  teiginys: 'Vilniaus Verkių rūmų interjeras pavaizduotas J. K. Vilčinskio „Vilniaus albume“ P. Benoist 1848 m. kūrinyje.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Vilniaus Verkių rūmų interjeras pavaizduotas J. K. Vilčinskio „Vilniaus albume“ P. Benoist 1848 m. kūrinyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,

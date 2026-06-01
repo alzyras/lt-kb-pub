@@ -117,5 +117,4 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
-- [[objektai/autoriai/Tadas Korsakas]]
 - [[objektai/grupes/Teisių sargyba]]

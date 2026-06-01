@@ -101,7 +101,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 - [[objektai/paprociai/Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas]]
 - [[objektai/grupes/Kiršenšteinai]]
 - [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
-- [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]

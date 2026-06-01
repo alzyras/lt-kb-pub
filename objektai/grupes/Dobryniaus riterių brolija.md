@@ -25,13 +25,14 @@ Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.'
+  teiginys: 'Kristijono įkurtoji Dobryniaus riterių brolija neturėjo jėgos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kristijono įkurtoji Dobryniaus riterių brolija neturėjo jėgos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ten nuo 1216 metų, gavęs «Prūsų
@@ -43,3 +44,7 @@ Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kristijonas]]

@@ -26,13 +26,14 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Samland / Herausgegeben von C
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad urkundenbuch des Bisthums Samland / Herausgegeben von C.'
+  teiginys: '„Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Urkundenbuch des Bisthums Samland / Herausgegeben von C. P. Woelky und H.

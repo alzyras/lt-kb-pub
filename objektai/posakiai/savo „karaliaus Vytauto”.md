@@ -18,7 +18,7 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Gegužės 26 d. jie pasižadėjo laiky­ tis savo „karaliaus Vytauto” ir su Ordino atstovais sudarė karo bei prekybos sutartį, garantuodami kryžiuočiams savo krašte visišką prekybos laisvę.'
+  teiginys: '1390 m. gegužės 26 d. į Karaliaučių atvykę žemaičių atstovai pasižadėjo laikytis savo „karaliaus Vytauto“.'
   pagrindžia:
     - c-002
 
@@ -46,6 +46,7 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
     - t-002
 
 - c-002
+  santrauka: '1390 m. gegužės 26 d. į Karaliaučių atvykę žemaičių atstovai pasižadėjo laikytis savo „karaliaus Vytauto“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žemaičiai jam

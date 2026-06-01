@@ -45,22 +45,6 @@ tags:
     - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    kai kurie jų būsimą valstybę matė kaip trijų ar net keturių „tautų“ fede-
-    raciją (Lenkija, Lietuva, Rusia; arba lenkai, lietuviai, baltarusiai ir ukrai-
-    niečiai). „Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei
-    baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą
-    jų dirbamą žemę be jokių išpirkų. Jie tikėjosi, kad, prasidėjus valstiečių
-    reformai, kils neramumai ir Rusijos kaime, ir valdžia neturės galimybių
-    mesti prieš sukilėlius didelių karinių pajėgų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: '„Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą jų dirbamą žemę be jokių išpirkų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -78,6 +62,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

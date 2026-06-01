@@ -43,7 +43,7 @@ Nenurodyta
 - t-001
   teiginys: 'Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizacijos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Nepavykus atkurti Vilniaus universiteto, įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.'
@@ -69,23 +69,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to, etnografi-
-    nės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po
-    1905 m. lenkų kalba nustūmė rusų kalbą į antrąją vietą.
-    Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-
-    jos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
-    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
-    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
-    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
-    telkusi lenkiškai kalbančiuosius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
@@ -94,6 +77,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Lietuvių Mokslo Draugija]]
-- [[objektai/grupes/Mokslo bičiulių draugija]]
-- [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]
 - [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
+- [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]

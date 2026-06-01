@@ -20,9 +20,9 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio].'
+  teiginys: 'Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Girmavos valsčiaus nuniokojimą Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą reikia pasakyti.'
@@ -54,6 +54,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -65,20 +66,3 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
-    aprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,
-    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
-    prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
-    pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
-    žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis
-    komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
-    kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001

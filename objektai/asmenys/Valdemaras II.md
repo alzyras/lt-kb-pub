@@ -19,13 +19,14 @@ Dusburgietis teigia, kad 160—161), kai Danijos karaliaus Valdemaro II valdžia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 160—161), kai Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje (Caune M.'
+  teiginys: 'Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo

@@ -19,13 +19,14 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
 ## Teiginiai
 
 - t-001
-  teiginys: 'O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­ ninkus ir garsusis Albertas Skvemevita per savo įgaliotinius paaiškino, kad minėtasis kaltinamasis turi gauti numatytą jų privilegijoje.'
+  teiginys: 'Albertas Skvemevita per įgaliotinius reikalavo, kad kaltinamasis pripažintų civilinę teisę ir paklustų auksakalių cechui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Albertas Skvemevita per įgaliotinius reikalavo, kad kaltinamasis pripažintų civilinę teisę ir paklustų auksakalių cechui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagal mūsų

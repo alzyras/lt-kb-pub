@@ -53,7 +53,7 @@ Nenurodyta
 - t-002
   teiginys: 'Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -72,21 +72,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuviai prieš I pasaulinį karą visai
-    baltų tautų grupei buvo davę aisčių vardą (K. Būga). Anot Tacito,
-    Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną
-    dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius
-    rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie
-    renką gintarą, kurį vadiną « glesum ». Jie « papročiais ir savo išore
-    yra kaip svebai ».
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

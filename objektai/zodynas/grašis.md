@@ -36,7 +36,7 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
     - c-002
 
 - t-003
-  teiginys: 'Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos grašiai — tikros monetos, kurių 60 sudarydavo vieną rublį (rublis —^1 / 2 svaro gryno sidabro).'
+  teiginys: 'Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarė vieną rublį.'
   pagrindžia:
     - c-003
 
@@ -76,7 +76,7 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
     - t-002
 
 - c-003
-  santrauka: 'Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos grašiai — tikros monetos, kurių 60 sudarydavo vieną rublį (rublis —^1 / 2 svaro gryno sidabro).'
+  santrauka: 'Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarė vieną rublį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogailos ir Vytauto rūmuose bu­
@@ -105,5 +105,7 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/vyskupystė]]
+- [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
+- [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/asmenys/Vytautas Didysis]]

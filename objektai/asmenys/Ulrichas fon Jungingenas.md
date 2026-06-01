@@ -25,23 +25,6 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    čių karinė mašina buvo sutriuškinta.
-    Žuvo pats didysis magistras Ulrichas fon
-    Jungingenas, beveik visa likusi Ordino va-
-    dovybė, apie 200 Ordino riterių (trečioji
-    dalis prūsiškųjų kryžiuočių) ir tūkstan-
-    čiai eilinių kryžeivių bei samdinių. Nors
-    Kryžiuočių ordinas nenustojo gyvuoti,
-    bet jam buvo suduotas stiprus smūgis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Žuvo pats didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 Ordino riterių (trečioji dalis prūsiškųjų kryžiuočių) ir tūkstančiai eilinių kryžeivių bei samdinių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -62,6 +45,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

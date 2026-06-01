@@ -49,17 +49,17 @@ Nenurodyta
 - t-002
   teiginys: 'Krėvos sutartį skatino įnirtingi vokiečių puolimai, o silpstančiai Lietuvai lenkai tapo sąjungininkais.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Krėvos sutartimi Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikybę ir prišlieti Lietuvą prie Lenkijos.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-004
   teiginys: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -80,21 +80,6 @@ Nenurodyta
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lenkai,
-    regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
-    turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu. Su-
-    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
-    Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
-    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Lietuvių pareigūnus įtraukus į Lenkijos
     valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
     lemta valstybių sąveika naikino Lietuvos valstybingumą.
@@ -107,7 +92,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   santrauka: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -123,6 +108,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -138,4 +124,3 @@ Nenurodyta
 - [[objektai/posakiai/„prišlieti“]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
-- [[objektai/zodynas/applicare prišlieti]]

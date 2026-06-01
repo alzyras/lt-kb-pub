@@ -39,13 +39,14 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     - c-003
 
 - t-003
-  teiginys: 'Benneto veikalo „Viešpaties dešinės galybė“, 1674) 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 75 kų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo laiške, rašytame 1615 m.: „Nors lietuviu esu.'
+  teiginys: 'Vienas iš Radvilų 1615 m. laiške apibendrino lenkų kalbos vaidmenį Lietuvos kultūroje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vienas iš Radvilų 1615 m. laiške apibendrino lenkų kalbos vaidmenį Lietuvos kultūroje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
@@ -106,7 +107,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/asmenys/Radvila (maršalka)]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/asmenys/Albrechtas Radvila]]
 - [[objektai/autoriai/Andrius Volanas Volanus]]
@@ -154,7 +154,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - [[objektai/asmenys/Walenrodto]]
 - [[objektai/zodynas/disidentai reformatai reformatoriai]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
 - [[objektai/zodynas/vaitas]]
@@ -162,3 +161,4 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
 - [[objektai/grupes/Goštautai]]
 - [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
+- [[objektai/asmenys/Žygimantas Augustas]]

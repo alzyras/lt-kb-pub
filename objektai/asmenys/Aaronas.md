@@ -26,13 +26,14 @@ Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vy
 ## Teiginiai
 
 - t-001
-  teiginys: 'Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vyskupas ir paskutinysis jų prancū­ zų kilmės, turėjo Prancūzijoje būda­ mas herbą, labai paplitusį - trijų karališkų karūnų, aukso spalvos, baltame fone, ant kario skydo.'
+  teiginys: 'Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aaro-
@@ -64,4 +65,3 @@ Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vy
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/daiktai/Skydas]]

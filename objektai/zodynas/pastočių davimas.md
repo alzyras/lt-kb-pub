@@ -26,13 +26,14 @@ Karalius už nuopelnus da­ lijo bajorams statydintis žemės sklypus, priklausa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Karalius už nuopelnus da­ lijo bajorams statydintis žemės sklypus, priklausančius Vil­ niaus piliai34 ir 1451 metais miestiečius, paklūstančius Mag­ deburgo teisei, atleido nuo pastočių davimo.'
+  teiginys: '1451 metais Kazimieras miestiečius, paklūstančius Magdeburgo teisei, atleido nuo pastočių davimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1451 metais Kazimieras miestiečius, paklūstančius Magdeburgo teisei, atleido nuo pastočių davimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Sutartis, Vilniuje sudaryta su Pskovu, likusiu Kazimiero
@@ -53,4 +54,5 @@ Karalius už nuopelnus da­ lijo bajorams statydintis žemės sklypus, priklausa
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/pastočiai]]
+- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

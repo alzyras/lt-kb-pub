@@ -29,9 +29,9 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
     - c-001
 
 - t-002
-  teiginys: ': Lietuvių kalbos žodynas , I-II, Kaunas 1924 (svarbus įva­ das).— Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p.'
+  teiginys: 'P. Būtėno „Gintaro šneka“ paskelbta žurnale „Karys“ 1973 m., p. 110-115 ir 159-164.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -51,20 +51,4 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ypač vakarų Lietuva, kuri daugiau turėjo kaimyninių
-    ryšių, buvo ryškesnė medžiaginės kultūros skatintoja.
-    Būga, K. : _Lietuvių kalbos žodynas_ , I-II, Kaunas 1924 (svarbus įva­
-    das).— Būtėnas, P.: _Gintaro šneka_ , Karys, 1973, 110-115, 159-164 p.
-    — Danilaitė, E. : _Brūkšniuotosios keramikos gyvenvietė vakarų Lietuvoje_ ,
-    AkMD, t. 17, 1964, 23-39 p. — (”) _Ankstyvosios brūkšniuotosios kerami­
-    kos kilmės klausimu_ , AkMD, t. 21, 1966, 111-125 p. — (”) _Lietuvos brūkš­
-    niuotosios keramikos ornamentas_ , AkMD, t. 26, 1968, 41-57 p. — (”)
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

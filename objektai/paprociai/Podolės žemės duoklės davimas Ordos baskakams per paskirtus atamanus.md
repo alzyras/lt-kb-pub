@@ -31,36 +31,13 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Karijotaičiai su vietiniais atamanais ėmė ginti Podolės žemę ir nebeduoti duoklės baskakams.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    į vakarus nuo minėtos mūšio
-    vietos), kurioje nebuvo nė vie-
-    nos pilies. Jie susidraugavę su
-    vietiniais atamanais, ėmė ginti
-    Podolės žemę, neduoti duok-
-
-    lės jų baskakams. Karijotaičiai
-    Podolėje pastatė Smotričo,
-    Bakotos, Kameneco pilis, už-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Podolės žemės tėvonys bei paveldėtojai“.
@@ -71,11 +48,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Karijotaičiai]]
 - [[objektai/zodynas/baskakas]]
 - [[objektai/zodynas/tėvonys]]
 - [[objektai/zodynas/atamanas]]

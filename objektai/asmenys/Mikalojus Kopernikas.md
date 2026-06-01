@@ -20,13 +20,14 @@ Be to, rengė astronomo Mikalojaus Ko­ perniko raštus, dalyvavo leidžiant sen
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be to, rengė astronomo Mikalojaus Ko­ perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­ mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.'
+  teiginys: 'Mikalojus Kopernikas buvo astronomas, kurio raštus rengė M. Balinskis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mikalojus Kopernikas buvo astronomas, kurio raštus rengė M. Balinskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1841 m. jis tapo vienu iš enciklopedinio

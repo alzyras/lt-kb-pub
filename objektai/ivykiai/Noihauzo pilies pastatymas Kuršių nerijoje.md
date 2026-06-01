@@ -34,14 +34,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje, Kuršių nerijoje Brolis Konradas, magistras, išmintingas ir apdairus vyras, suprasdamas, kad, braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos.'
+  teiginys: 'Magistras Konradas Kuršių nerijoje, Sūriosios jūros pakrantėje, pastatydino Noihauzo pilį, kad lietuviai netikėtai nesiveržtų į Sembą.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Magistras Konradas Kuršių nerijoje, Sūriosios jūros pakrantėje, pastatydino Noihauzo pilį, kad lietuviai netikėtai nesiveržtų į Sembą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     216 (211). Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,
@@ -62,22 +62,10 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis  Konradas,  magistras,  išmintingas  ir  apdairus  vyras, suprasdamas,  kad,
-    braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos
-    broliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
-    kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/zodynas/magistras]]

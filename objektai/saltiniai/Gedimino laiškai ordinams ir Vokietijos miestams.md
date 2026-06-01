@@ -26,12 +26,12 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kryžiuočiai tą antspaudą mums panieką reikš­ dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­ galba sumanymo įgyvendinimą ir žmonėms akis užtem­ dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą piktžodžiaudami ginčytų, tą mūsų šiais laiškais.'
+  teiginys: '1323 metų gegužės 26 dieną Vilniuje rašytuose Gedimino laiškuose nurodyta juos skaityti, siųsti toliau ir viešai skelbti.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tik po daugelio metų buvo atskleista ir visų sužinota, jog ne kas kitas, o nenumaldomas Ordino priešas, Rygos arkivyskupas, laiškus Gedimino vardu slapta buvo pa­ rašęs ir pasiuntęs popiežiui, pajūrio miestams ir vienuoliams, idant gudrybe ir melu pasiektų.'
+  teiginys: 'Pasak cituojamos nuomonės, Rygos arkivyskupas slapta parašė laiškus Gedimino vardu ir išsiuntė juos popiežiui, miestams bei vienuoliams.'
   pagrindžia:
     - c-003
 
@@ -41,13 +41,14 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
     - c-004
 
 - t-004
-  teiginys: 'IV, p. 393, jau esame išsakę nuo­ monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­ nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­ dimino, bet nei su jo žinia, nei jo valia parašyti.'
+  teiginys: 'Balińskis laikėsi nuomonės, kad laiškas popiežiui ir laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino valia.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Balińskis laikėsi nuomonės, kad laiškas popiežiui ir laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino valia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie visa tai, garbingasis tėve, mes rašome tuo tikslu,
@@ -74,6 +75,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
     - t-004
 
 - c-002
+  santrauka: '1323 metų gegužės 26 dieną Vilniuje rašytuose Gedimino laiškuose nurodyta juos skaityti, siųsti toliau ir viešai skelbti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiuočiai tą antspaudą mums panieką reikš­
@@ -95,6 +97,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
     - t-001
 
 - c-003
+  santrauka: 'Pasak cituojamos nuomonės, Rygos arkivyskupas slapta parašė laiškus Gedimino vardu ir išsiuntė juos popiežiui, miestams bei vienuoliams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juk suktybės ir melo jukinys

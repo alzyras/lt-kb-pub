@@ -35,23 +35,11 @@ amziai:
 - t-002
   teiginys: 'Mums kovoje padėjo tik mūsų budrumas ir tai, kad gerai žinojome mišką - kiekvieną kelmą, kiekvieną krūmelį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mums kovoje padėjo tik mūsų bud-
-    rumas ir tai, kad gerai žinojome mišką -
-    kiekvieną kelmą, kiekvieną krūmelį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mums kovoje padėjo tik mūsų bud-
@@ -64,3 +52,4 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

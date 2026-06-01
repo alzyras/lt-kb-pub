@@ -42,5 +42,4 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Merkys]]
 - [[objektai/asmenys/A. Smetona]]

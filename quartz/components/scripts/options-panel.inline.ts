@@ -5,7 +5,7 @@ type CitationSourceRegistryEntry = {
 }
 
 type OptionsState = {
-  minQuoteCount: number
+  minClaimCount: number
   sourceSelectionMode: "all" | "custom"
   selectedSourceIds: string[]
 }
@@ -24,9 +24,9 @@ type CitationSourceGlobal = typeof globalThis & {
   fetchCitationSources?: Promise<CitationSourceRegistryEntry[]>
 }
 
-const OPTIONS_STORAGE_KEY = "ltkb-options-v2"
+const OPTIONS_STORAGE_KEY = "ltkb-options-v3"
 const DEFAULT_STATE: OptionsState = {
-  minQuoteCount: 3,
+  minClaimCount: 5,
   sourceSelectionMode: "all",
   selectedSourceIds: [],
 }
@@ -124,11 +124,11 @@ async function loadCitationSources(): Promise<CitationSourceRegistryEntry[]> {
   }
 
   const candidates = [
+    "/static/citationSources.json",
+    "/lt-kb-pub/static/citationSources.json",
     "./static/citationSources.json",
     "../static/citationSources.json",
     "../../static/citationSources.json",
-    "/lt-kb-pub/static/citationSources.json",
-    "/static/citationSources.json",
   ]
 
   for (const candidate of candidates) {
@@ -157,9 +157,9 @@ function readState(): OptionsState {
   }
   try {
     const parsed = JSON.parse(stored) as Partial<OptionsState>
-    const minQuoteCount = Number.isFinite(parsed.minQuoteCount)
-      ? Math.max(0, Number(parsed.minQuoteCount))
-      : DEFAULT_STATE.minQuoteCount
+    const minClaimCount = Number.isFinite(parsed.minClaimCount)
+      ? Math.max(0, Number(parsed.minClaimCount))
+      : DEFAULT_STATE.minClaimCount
     const selectedSourceIds = Array.isArray(parsed.selectedSourceIds)
       ? parsed.selectedSourceIds.filter((value): value is string => typeof value === "string")
       : []
@@ -173,7 +173,7 @@ function readState(): OptionsState {
           : selectedSourceIds.length > 0
             ? "custom"
             : "all"
-    return { minQuoteCount, sourceSelectionMode, selectedSourceIds }
+    return { minClaimCount, sourceSelectionMode, selectedSourceIds }
   } catch {
     return { ...DEFAULT_STATE }
   }
@@ -185,7 +185,7 @@ function persistState() {
 
 function normalizeState() {
   state = {
-    minQuoteCount: Math.max(0, Number(state.minQuoteCount) || 0),
+    minClaimCount: Math.max(0, Number(state.minClaimCount) || 0),
     sourceSelectionMode: state.sourceSelectionMode === "custom" ? "custom" : "all",
     selectedSourceIds: [...new Set(state.selectedSourceIds.filter(Boolean))],
   }
@@ -221,16 +221,16 @@ function matchesSourceSelection(itemSourceIds: string[]): boolean {
 }
 
 function optionFiltersActive(): boolean {
-  return state.minQuoteCount > 0 || state.sourceSelectionMode === "custom"
+  return state.minClaimCount > 0 || state.sourceSelectionMode === "custom"
 }
 
 function optionsMatchItem({
   filterable,
-  quoteCount,
+  claimCount,
   sourceIds,
 }: {
   filterable: boolean
-  quoteCount: number
+  claimCount: number
   sourceIds: string[]
 }): boolean {
   if (!optionFiltersActive()) {
@@ -239,14 +239,14 @@ function optionsMatchItem({
   if (!filterable) {
     return false
   }
-  return quoteCount >= state.minQuoteCount && matchesSourceSelection(sourceIds)
+  return claimCount >= state.minClaimCount && matchesSourceSelection(sourceIds)
 }
 
-function detectMaxQuoteCount(): number {
-  const counts = [...document.querySelectorAll<HTMLElement>("[data-quote-count]")]
-    .map((el) => Number(el.dataset.quoteCount ?? "0"))
+function detectMaxClaimCount(): number {
+  const counts = [...document.querySelectorAll<HTMLElement>("[data-claim-count]")]
+    .map((el) => Number(el.dataset.claimCount ?? "0"))
     .filter((value) => Number.isFinite(value))
-  return Math.max(50, ...counts, state.minQuoteCount)
+  return Math.max(50, ...counts, state.minClaimCount)
 }
 
 function updatePeriodSummaries() {
@@ -284,9 +284,9 @@ function applyListFilters() {
   entries.forEach((entry) => {
     const periodOk = entry.dataset.periodMatch !== "false"
     const filterable = entry.dataset.citationFilterable === "true"
-    const quoteCount = Number(entry.dataset.quoteCount ?? "0")
+    const claimCount = Number(entry.dataset.claimCount ?? "0")
     const sourceIds = parseSourceIds(entry.dataset.citationSources)
-    const optionsOk = optionsMatchItem({ filterable, quoteCount, sourceIds })
+    const optionsOk = optionsMatchItem({ filterable, claimCount, sourceIds })
     entry.dataset.optionsMatch = optionsOk ? "true" : "false"
     entry.hidden = !(periodOk && optionsOk)
   })
@@ -297,9 +297,9 @@ function applyListFilters() {
 function applyExplorerFilters() {
   const evaluateLeaf = (item: HTMLLIElement): boolean => {
     const filterable = item.dataset.citationFilterable === "true"
-    const quoteCount = Number(item.dataset.quoteCount ?? "0")
+    const claimCount = Number(item.dataset.claimCount ?? "0")
     const sourceIds = parseSourceIds(item.dataset.citationSources)
-    const optionsOk = optionsMatchItem({ filterable, quoteCount, sourceIds })
+    const optionsOk = optionsMatchItem({ filterable, claimCount, sourceIds })
     item.dataset.optionsMatch = optionsOk ? "true" : "false"
     item.hidden = !optionsOk
     return optionsOk
@@ -311,7 +311,8 @@ function applyExplorerFilters() {
         ":scope > .folder-outer > ul.content > li",
       ) as NodeListOf<HTMLLIElement>),
     ]
-    const hasVisibleChildren = children.some((child) => evaluateNode(child))
+    const childVisibility = children.map((child) => evaluateNode(child))
+    const hasVisibleChildren = childVisibility.some(Boolean)
     item.dataset.optionsMatch = hasVisibleChildren ? "true" : "false"
     item.hidden = !hasVisibleChildren
     return hasVisibleChildren
@@ -375,9 +376,9 @@ function syncCurrentPageFilter() {
   }
 
   const filterable = body.dataset.citationFilterable === "true"
-  const quoteCount = Number(body.dataset.quoteCount ?? "0")
+  const claimCount = Number(body.dataset.claimCount ?? "0")
   const sourceIds = parseSourceIds(body.dataset.citationSources)
-  const optionsOk = optionsMatchItem({ filterable, quoteCount, sourceIds })
+  const optionsOk = optionsMatchItem({ filterable, claimCount, sourceIds })
   const showNotice = optionFiltersActive() && filterable && !optionsOk
 
   let notice = center.querySelector<HTMLElement>("[data-current-options-empty]")
@@ -389,7 +390,7 @@ function syncCurrentPageFilter() {
     center.insertBefore(notice, center.firstChild)
   }
   notice.textContent =
-    "Šis puslapis neatitinka pasirinktų citatų filtrų, bet tiesiogiai atidaryti puslapiai vis tiek rodomi."
+    "Šis puslapis neatitinka pasirinktų teiginių filtrų, bet tiesiogiai atidaryti puslapiai vis tiek rodomi."
   notice.hidden = !showNotice
 }
 
@@ -456,7 +457,7 @@ function applyFilters() {
 }
 
 function syncPanelState() {
-  const maxValue = detectMaxQuoteCount()
+  const maxValue = detectMaxClaimCount()
   const roots = document.querySelectorAll<HTMLElement>("[data-options-root]")
   roots.forEach((root) => {
     const range = root.querySelector<HTMLInputElement>("[data-options-quote-range]")
@@ -464,10 +465,10 @@ function syncPanelState() {
     const selectedSummary = root.querySelector<HTMLElement>("[data-options-selected-summary]")
     if (range) {
       range.max = `${maxValue}`
-      range.value = `${Math.min(state.minQuoteCount, maxValue)}`
+      range.value = `${Math.min(state.minClaimCount, maxValue)}`
     }
     if (number) {
-      number.value = `${state.minQuoteCount}`
+      number.value = `${state.minClaimCount}`
     }
     if (selectedSummary) {
       const selectedCount =
@@ -589,11 +590,11 @@ function initPanel(root: HTMLElement) {
     applyFilters()
   }
   const onRangeInput = () => {
-    state.minQuoteCount = Math.max(0, Number(range?.value ?? "0") || 0)
+    state.minClaimCount = Math.max(0, Number(range?.value ?? "0") || 0)
     applyFilters()
   }
   const onNumberInput = () => {
-    state.minQuoteCount = Math.max(0, Number(number?.value ?? "0") || 0)
+    state.minClaimCount = Math.max(0, Number(number?.value ?? "0") || 0)
     applyFilters()
   }
   const onSearchInput = () => renderSourceList(root, cachedSources)
@@ -640,6 +641,7 @@ function initOptionsPanels() {
   applyFilters()
 }
 
+optionsWindow.applyQuartzOptionFilters = applyFilters
 initOptionsPanels()
 
 loadCitationSources()
@@ -651,7 +653,5 @@ loadCitationSources()
     cachedSources = deriveSourcesFromDom()
     rerenderSourceLists()
   })
-
-optionsWindow.applyQuartzOptionFilters = applyFilters
 document.addEventListener("DOMContentLoaded", initOptionsPanels)
 document.addEventListener("nav", initOptionsPanels)

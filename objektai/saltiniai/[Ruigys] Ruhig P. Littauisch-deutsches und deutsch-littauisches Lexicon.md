@@ -23,13 +23,14 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad [Ruigys] Ruhig P.'
+  teiginys: 'P. Ruhigo „Littauisch-deutsches und deutsch-littauisches Lexicon“ išleistas Karaliaučiuje 1747 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P. Ruhigo „Littauisch-deutsches und deutsch-littauisches Lexicon“ išleistas Karaliaučiuje 1747 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [Ruigys] Ruhig P. Littauisch-deutsches und deutsch-littauisches Lexicon.— Königsberg,

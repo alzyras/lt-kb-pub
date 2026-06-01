@@ -33,7 +33,7 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vilniaus arkikonfratrija buvo patvirtinta ir agreguota prie Romos, o 1646 m. tai patvirtino popiežius Inocentas X.'
+  teiginys: 'Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule.'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     - c-001
 
 - t-003
-  teiginys: '1573 m. vasario 3 d. buvo funduota arkikonfratrija, o lapkričio 27 d. įvyko jos iškilmingas įvesdinimas.'
+  teiginys: 'Dievo Kūno arkibrolijos arkikonfratrija buvo funduota 1573 m. vasario 3 d., o tų pačių metų lapkričio 27 d. iškilmingai įvesdinta.'
   pagrindžia:
     - c-001
 

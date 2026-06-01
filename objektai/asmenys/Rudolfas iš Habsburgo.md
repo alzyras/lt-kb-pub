@@ -68,18 +68,4 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    63. Apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių
-
-      Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė
-    Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o
-    savo dukterį atidavė nukauto Čekijos karaliaus sūnui (Ptol. 23, 25).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003

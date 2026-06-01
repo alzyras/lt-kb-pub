@@ -55,7 +55,7 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Pirmiausia žemė buvo skiriama kariams savanoriams, bežemiams, mažažemiams valstiečiams, kaimo amatininkams ir kai kurioms įstaigoms.'
+  teiginys: 'Vykdant žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos.'
   pagrindžia:
     - c-002
 
@@ -89,8 +89,10 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+    - t-004
 
 - c-002
+  santrauka: 'Vykdant žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į Valstybinį žemės
@@ -111,46 +113,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Į Valstybinį žemės
-    fondą paimta valstybinė žemė ir kiti privilegijų teisėmis iš caro valdžios
-    gauti dvarai, visa prieš Lietuvos nepriklausomybę bermontininkų ar len-
-    kų armijose kovojusių asmenų žemė, taip pat privačių asmenų, bažnyčių,
-    vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
-    80 ha. Tokia žemės riba pasirinkta neatsitiktinai – tai skiriamoji riba tarp
-    sulenkėjusių dvarininkų ūkių ir tų stambių ūkių, kuriuos XIX a. pabaigo-
-    je–XX a. pradžioje įsigijo prakutę lietuvių valstiečiai ar negausūs to meto
-    lietuvių inteligentai, pramonininkai ir prekybininkai (dar radikaliau elg-
-    tasi Estijoje ir Latvijoje, ten žemė paimta iš vokiečių baronų ir neliesti iki
-    50 ha dydžio dvarai). Pirmiausia žemės gavo kariai savanoriai, bežemiai
-    ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,
-    kai kurios valstybinės ir visuomeninės įstaigos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tik išdalijusi dvarų žemę valdžia galėjo
-    tikėtis plačių valstietijos sluoksnių paramos.
-    1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų
-    balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės
-    fondą paimta valstybinė žemė ir kiti privilegijų teisėmis iš caro valdžios
-    gauti dvarai, visa prieš Lietuvos nepriklausomybę bermontininkų ar len-
-    kų armijose kovojusių asmenų žemė, taip pat privačių asmenų, bažnyčių,
-    vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
-    80 ha.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

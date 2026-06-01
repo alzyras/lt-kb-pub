@@ -28,13 +28,14 @@ Dusburgietis teigia, kad liz- ‘pailsėti’ — MPKP, 2, p. 31), kurios ieško
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad liz- ‘pailsėti’ — MPKP, 2, p. 31), kurios ieškota saloje prie Torunės (PUB, 1, 1, Nr. 105, p. 78, 606), dabar lokalizuojama saloje prie Senosios Torunės (SZCh, p. 133; Jasiński T.'
+  teiginys: 'T. Jasińskis Lisske lokalizavo saloje prie Senosios Torunės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'T. Jasińskis Lisske lokalizavo saloje prie Senosios Torunės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Privilegijos

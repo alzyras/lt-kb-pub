@@ -41,7 +41,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad 54 (53) Apie vieną stebuklą Tuo metu pasimirė kelyje, grįždamas į savo tėvynę, vienas kryžininkas iš Meiseno, kuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -63,21 +62,6 @@ Nenurodyta
     - t-001
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu pasimirė kelyje, grįždamas  į savo tėvynę, vienas kryžininkas iš Meiseno,
-    kuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus. Jo sūnus, ilgai
-    nesulaukdamas tėvo, suskato jo ieškoti Prūsijoje, bet nesurado, tačiau begrįždamas
-    sustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas
-    šlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo
-    bažnyčios sienos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Dusburgietis teigia, kad 54 (53) Apie vieną stebuklą Tuo metu pasimirė kelyje, grįždamas į savo tėvynę, vienas kryžininkas iš Meiseno, kuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

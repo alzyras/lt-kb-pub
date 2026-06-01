@@ -20,7 +20,7 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut''''u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.'
+  teiginys: 'Prancūzų vadas Boucicaut''as per kautynes buvo pridaręs nemažai žalos apgultiesiems.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prancūzų vadas Boucicaut''as per kautynes buvo pridaręs nemažai žalos apgultiesiems.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  •  —

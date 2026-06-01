@@ -49,5 +49,4 @@ Smetonos nuostatos – kadangi leidžiame tautinėms mažumoms gimtosios kalbos 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/Tautinės mažumos]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/Žydų ministro be portfelio posto panaikinimas (1923 m.)]]

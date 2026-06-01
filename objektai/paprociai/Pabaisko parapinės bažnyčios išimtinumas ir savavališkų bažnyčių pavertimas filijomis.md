@@ -45,13 +45,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Tai­ gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­ sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­ rų sužinojome, dabartiniam bažnyčios klebonui, minėtam Valentinui iš Pilzno.'
+  teiginys: 'Pabaisko parapijos ribose neturėjo būti statoma ar veikti kita parapinė bažnyčia, kad ji nedarytų nuostolio Pabaisko bažnyčiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pabaisko parapijos ribose neturėjo būti statoma ar veikti kita parapinė bažnyčia, kad ji nedarytų nuostolio Pabaisko bažnyčiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai­

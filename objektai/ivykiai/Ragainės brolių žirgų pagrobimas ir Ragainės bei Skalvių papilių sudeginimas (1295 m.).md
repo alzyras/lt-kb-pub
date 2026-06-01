@@ -44,7 +44,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -67,33 +66,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
-    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
-    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    261 (254). Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
-                                     sudeginimą
-
-       Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
-    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
-    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

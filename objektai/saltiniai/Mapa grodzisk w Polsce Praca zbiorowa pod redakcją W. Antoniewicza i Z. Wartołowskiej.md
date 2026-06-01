@@ -23,13 +23,14 @@ Dusburgietis teigia, kad mapa grodzisk w Polsce / Praca zbiorowa pod redakcją W
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mapa grodzisk w Polsce / Praca zbiorowa pod redakcją W.'
+  teiginys: '„Mapa grodzisk w Polsce“ yra W. Antoniewicziaus ir Z. Wartołowskos redaguotas kolektyvinis darbas, išleistas 1964 m. Vroclave, Varšuvoje ir Krokuvoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Mapa grodzisk w Polsce“ yra W. Antoniewicziaus ir Z. Wartołowskos redaguotas kolektyvinis darbas, išleistas 1964 m. Vroclave, Varšuvoje ir Krokuvoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mapa grodzisk w Polsce  / Praca zbiorowa pod redakcją W. Antoniewicza   i Z.

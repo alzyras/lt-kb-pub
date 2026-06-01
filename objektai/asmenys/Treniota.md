@@ -151,4 +151,3 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - [[objektai/zodynas/koniuši]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]
-- [[objektai/zodynas/turma]]

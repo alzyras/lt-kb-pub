@@ -43,41 +43,17 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad toje vietoje, kur įvyko mūšis, vėliau gyveno vienas atsiskyrėlis, kuris naktimis dažnai matydavo degančias žvakes, aiškiai liudijančias, jog čia žuvusieji jau buvo nuo kankinių karaliaus gavę kankinių vainikus. 393 Kad mūšis įvyko 1263 m.'
   pagrindžia:
-    - c-001
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę kitokio turto, kurį.'
   pagrindžia:
-    - c-003
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai, apsitvėrę
-    užtvaromis, iš pradžių narsiai priešinosi, tačiau galop leidosi bėgti, o krikščionys, juos
-    besivydami, išsisklaidė, tada prūsai, nors jų daug bėgančių ir žuvo, susitelkė, matydami
-    nedaug vyrų apie vėliavą, sugrįžo į užtvaras ir pradėjo iš naujo kovą, kuri ilgai užtruko,
-    kol galop,  šitaip leidžiant viešpačiui, kurio sprendimai protu nesuvokiami, nukovė
-    magistrą394 ir maršalą395 brolį Ditrichą, ir keturiasdešimt brolių ir išžudė visą krikščionių
-    kariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei
-    tie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi
-    rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.
-    Toje vietoje, kur įvyko mūšis, vėliau gyveno vienas atsiskyrėlis, kuris naktimis dažnai
-    matydavo degančias žvakes, aiškiai liudijančias, jog čia žuvusieji jau buvo nuo kankinių
-    karaliaus gavę kankinių vainikus.
-      393  Kad mūšis įvyko 1263 m., rašoma Sembos kanauninko kronikoje (SRP, 1, p.
-    282).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
@@ -100,7 +76,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     123 (118). Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
@@ -117,7 +93,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai apie tai išgirdo magistras
@@ -146,5 +122,3 @@ Nenurodyta
 - [[objektai/grupes/Notangai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas)]]
-- [[objektai/asmenys/Helmerichas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

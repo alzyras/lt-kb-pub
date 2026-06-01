@@ -63,6 +63,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -97,21 +98,3 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis tai vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp dabartinio Kulmo miesto ir senosios pilies pastatė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    47(46). Apie Poterbergo pilies pastatymą
-
-       Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis  tai
-    vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp
-    dabartinio Kulmo miesto ir senosios pilies pastatė naują, kurią praminė nuo tos kalvos
-    vardo Poterbergu287 ir kurioje paliko 12 brolių ir daug ginklanešių. Pilį pastatė tam, kad
-    nesumanytų šioje kalvoje ko statyti Sventopelkas ir šitaip nebūtų buvusi padaryta nauja
-    klaida, kur kas didesnė nei ankstesnė.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004

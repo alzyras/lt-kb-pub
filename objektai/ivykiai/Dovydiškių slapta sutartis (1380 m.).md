@@ -46,7 +46,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Nors Vytau­ tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­ rymo nepajuto.'
+  teiginys: 'Dovydiškių slaptos sutarties sudarymo Vytautas nepastebėjo, nors dalyvavo medžioklėje.'
   pagrindžia:
     - c-002
 
@@ -68,7 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Nors Vytau­ tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­ rymo nepajuto.'
+  santrauka: 'Dovydiškių slaptos sutarties sudarymo Vytautas nepastebėjo, nors dalyvavo medžioklėje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kad susitarimas neišeitų aikštėn, reikia taip da­

@@ -44,7 +44,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -62,18 +61,6 @@ Nenurodyta
                              77.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto
-    kunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų
-    karių, abi šalys neteko nukautaisiais 1300 kilmingųjų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

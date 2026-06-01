@@ -65,4 +65,3 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
 - [[objektai/asmenys/J. Stalinas]]
 - [[objektai/asmenys/Josifas Stalinas]]
 - [[objektai/asmenys/Karlas Marksas]]
-- [[objektai/ivykiai/LKP XX suvažiavimas ir atsiskyrimas nuo SSKP (1989 m. gruodis)]]

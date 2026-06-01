@@ -20,7 +20,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
+  teiginys: 'Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
   pagrindžia:
     - c-005
 
@@ -119,6 +119,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-003
 
 - c-005
+  santrauka: 'Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos

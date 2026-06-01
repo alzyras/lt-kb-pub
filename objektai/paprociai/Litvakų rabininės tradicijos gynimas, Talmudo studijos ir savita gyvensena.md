@@ -40,37 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vilniaus Gaonas inicijavo akcijas prieš chasidizmą, paskelbė chasidus eretikais ir sustabdė chasidizmo plitimą Lietuvoje.'
-  pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
+  teiginys: 'Vilniaus Gaonas gynė rabininę tradiciją, inicijavo akcijas prieš chasidizmą ir sustabdė jo plitimą Lietuvoje.'
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Vilniaus Gaonas inicijavo veiksmus prieš chasidizmą ir sustabdė jo plitimą Lietuvoje.'
+- t-002
+  teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai kartu paaiškina ir Vilniaus Gaono autoritetą.
-    Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
-    ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
-    jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
-    nuo Šventojo Rašto komentarų iki hebrajų kalbos gramatikos ir biblinės
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Vilniaus Gaonas gynė rabininę tradiciją, inicijavo akcijas prieš chasidizmą ir sustabdė jo plitimą Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors chasidizmas buvo liberalesnė ir de-
@@ -86,7 +68,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -104,6 +86,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -33,43 +33,31 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - t-001
   teiginys: 'Juozas Miliauskas prisiminimuose aprašė, kaip Švėkšnos apylinkių miškuose rusų pajėgos užpuolė užvartomis sutvirtintą sukilėlių stovyklą.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Juozas Miliauskas rašė, kad antrą puolimo dieną šaudymas tęsėsi šešias valandas, o sukilėlių pusėje buvo du lengvai sužeisti.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Juozo Miliausko prisiminimuose pasakojama, kad rusų puolimas prieš sukilėlių stovyklą truko apie keturias valandas ir baigėsi apie šeštą vakaro.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
   teiginys: 'Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYNĖS TANKUMYNE Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko prisiminimų.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-005
   teiginys: 'Juozas Miliauskas prisiminimuose aprašė rusų pajėgų puolimą prieš medžių užvartomis sutvirtintą sukilėlių stovyklą Švėkšnos apylinkių miškuose.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko pri-
-    siminimų. Jis aprašo epizodą kai Švėkšnos apylinkių miškuose medžių uzvartom su-
-    tvirtintą sukilėlių stovyklą užpuola rusų pajėgos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Stovykloje šovinius dirbam, blėkinėlėse kruopų košę verdam, valgome ir ilsimės. Sar-
@@ -86,7 +74,7 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Antrą dieną per pusryčius vėl įvyko ataka nuo tos tankumyno pusės, kur pastatyti tokie
@@ -102,7 +90,7 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius
@@ -119,8 +107,9 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   statusas: verified
   pagrindžia:
     - t-001
+    - t-005
 
-- c-005
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rusija, Tula, XIX a. antroji pusė. Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius

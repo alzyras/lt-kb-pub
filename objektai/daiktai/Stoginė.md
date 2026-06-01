@@ -35,30 +35,13 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Stoginėje ar daržinėje krovė javus, šiaudus ir šieną.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Jei stoginėse netilpo pašaras, jį krovė ant lauko į žagus arba bragus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Sekmasis trobesys vadinos stogine, ar daržine, pailguotinas ketvirtainis, į kurį javus, šiaudus ar
-        šieną krovė; paprastai buvo jos trejokios: viena javams, antra šiaudams, trečioji šienui, jau po
-        vienu stogu, jau ypačiai; vadinos stogine, jog stogą turėjo, sienos buvo jau rąstų, jau virbų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jei
@@ -69,4 +52,4 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

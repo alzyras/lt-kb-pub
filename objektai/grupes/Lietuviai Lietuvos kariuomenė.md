@@ -31,13 +31,14 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
     - c-002
 
 - t-002
-  teiginys: 'Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­ lių, turėjo grįžti prie likusių karių.'
+  teiginys: 'Lietuviai narsiai atrėmė Ordino riterių puolimą su šv. Jurgio vėliava ir privertė juos grįžti prie likusių karių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuviai narsiai atrėmė Ordino riterių puolimą su šv. Jurgio vėliava ir privertė juos grįžti prie likusių karių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Su trigubai di­

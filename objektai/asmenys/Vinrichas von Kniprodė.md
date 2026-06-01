@@ -27,12 +27,12 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kęstučiui dar smarkiau, negu pirmtakū­ nams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro valdžią turėjo veiklus ir energingas vokietis Vinrichas von Kni­ prodė (1351—1382).'
+  teiginys: 'Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Jo hochmeisterio^1 ) didžio­ jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo objektas.'
+  teiginys: 'Vinricho von Kniprodės valdymo laikais Prūsų ordino valstybė Europoje kėlė nusistebėjimą ir pasigėrėjimą.'
   pagrindžia:
     - c-003
 
@@ -59,6 +59,7 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     - t-003
 
 - c-002
+  santrauka: 'Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
@@ -81,6 +82,7 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     - t-001
 
 - c-003
+  santrauka: 'Vinricho von Kniprodės valdymo laikais Prūsų ordino valstybė Europoje kėlė nusistebėjimą ir pasigėrėjimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nuo

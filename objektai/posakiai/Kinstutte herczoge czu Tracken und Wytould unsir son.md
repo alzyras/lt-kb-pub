@@ -18,13 +18,14 @@ Pačiame tekste yra pažymėta, kad be ma­ gistro ir Jogailos savo antspaudas p
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prie dokumentų savo antspaudą prikabino ir Trakų kunigaikštis Kęstutis su sūnumi Vytautu.'
+  teiginys: 'Dokumento tekste frazė „Kinstutte herczoge czu Tracken und Wytould unsir son“ nurodo Kęstutį, Trakų kunigaikštį, ir jo sūnų Vytautą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dokumento tekste frazė „Kinstutte herczoge czu Tracken und Wytould unsir son“ nurodo Kęstutį, Trakų kunigaikštį, ir jo sūnų Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žilas kunigaikštis Kęs­

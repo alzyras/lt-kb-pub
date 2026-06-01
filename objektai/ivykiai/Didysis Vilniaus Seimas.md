@@ -35,7 +35,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 123 Vilniaus Seimu, vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis.'
+  teiginys: 'Didysis Vilniaus Seimas, gavus valdžios sutikimą, vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis.'
   pagrindžia:
     - c-001
 
@@ -47,6 +47,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didysis Vilniaus Seimas, gavus valdžios sutikimą, vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su-

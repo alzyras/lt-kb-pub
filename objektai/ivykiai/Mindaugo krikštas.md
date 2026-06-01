@@ -49,7 +49,7 @@ Nenurodyta
 - t-001
   teiginys: 'Mindaugas apsikrikštijo; apkrikštijo ir daug savo didikų.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas.'
@@ -59,12 +59,12 @@ Nenurodyta
 - t-003
   teiginys: 'Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-004
   teiginys: 'Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -88,21 +88,6 @@ Nenurodyta
     - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1248 m. padėtis jam
-    tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
-    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
-    ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
-    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
-    Livonijos ordino magistrą Andrių Štirlandą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir 1250 met. Mindaugas
@@ -115,7 +100,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   santrauka: 'Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -132,6 +117,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -154,6 +140,5 @@ Nenurodyta
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/ivykiai/Mindaugo nužudymas]]
 - [[objektai/posakiai/„šviesaus atminimo valdovu“]]
-- [[objektai/asmenys/Andrius Štirlandas]]
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
 - [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas]]

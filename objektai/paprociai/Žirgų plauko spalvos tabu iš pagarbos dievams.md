@@ -40,7 +40,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams.'
   pagrindžia:
     - c-002
-    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį.'
@@ -81,20 +80,8 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams. Vieni iš pagarbos saviesiems
-    dievams nedrįso jodinėti juodžiais, kiti — balčiais215, treti — kitokio plauko žirgais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Rytas]]
-- [[objektai/daiktai/Žirgai]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]

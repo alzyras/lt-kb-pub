@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­ demija neturi, išskyrus tai, kad nuo kai kurių kolegijai užra­ šytų piniginių sumų ir turtų dalis pajamų Juris Civilis et Ca­ nonici [civiline ir kanonų teise] profesoriams, taip pat profesorių ir.'
+  teiginys: 'Akademija neturėjo atskiro turto, bet dalis kolegijai užrašytų pajamų buvo skirta teisės profesoriams, studentams ir varguoliams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Akademija neturėjo atskiro turto, bet dalis kolegijai užrašytų pajamų buvo skirta teisės profesoriams, studentams ir varguoliams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     185

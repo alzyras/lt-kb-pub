@@ -52,7 +52,6 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
 - [[objektai/autoriai/Al'-Idrisi|Al''-Idrisi]]
 - [[objektai/posakiai/Datum in Lettowia in curia nostra]]
 - [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
-- [[objektai/autoriai/Ibrahim ibn Jakūb]]
 - [[objektai/asmenys/Omaras]]
 - [[objektai/asmenys/Petras Atsiskyrėlis]]
 - [[objektai/zodynas/kelionių romanas]]

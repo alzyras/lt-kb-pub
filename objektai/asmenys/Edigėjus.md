@@ -32,7 +32,7 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
 - t-003
   teiginys: 'Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -77,26 +77,6 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rekonstrukcija.
-
-    Edigėjus ir padrą-
-    sino chaną, derybos iš
-    karto prasidėjo su Edigėjumi.
-
-    Vytautas 5 dienas stovėjo kitoje Vorsklos
-    pusėje, įtvirtintoje stovykloje su geležinė-
-    mis grandinėmis kaustytais vežimais, su
-    daugeliu patrankėlių (piščalių), patrankų,
-    „arbaletų“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

@@ -25,13 +25,14 @@ Dusburgietis teigia, kad zurkalowski E.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad zurkalowski E.'
+  teiginys: 'Zurkalowski E. paskelbė darbą apie tai, į kuriuos metus datuotina sembų surengta Klaipėdos apgultis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zurkalowski E. paskelbė darbą apie tai, į kuriuos metus datuotina sembų surengta Klaipėdos apgultis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Zurkalowski E. In welches Jahr fällt die Belagerung Memels durch die Samländer? —
@@ -41,3 +42,7 @@ Dusburgietis teigia, kad zurkalowski E.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Sembai]]

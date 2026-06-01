@@ -46,18 +46,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­ dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų.'
+  teiginys: '1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis ar stoginėmis.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Suteikdamas Hozijui teisę pasta­ tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­ kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­ gumui paskirti labdaringą ir Vilniui.'
+  teiginys: 'Karalius leido Hozijui pastatyti tiltą per Viliją vietoje nepatogios perkėlos ir imti nustatytą mokestį iš pravažiuojančiųjų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis ar stoginėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­
@@ -75,6 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Karalius leido Hozijui pastatyti tiltą per Viliją vietoje nepatogios perkėlos ir imti nustatytą mokestį iš pravažiuojančiųjų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­
@@ -100,4 +102,6 @@ Nenurodyta
 - [[objektai/asmenys/Albertas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/autoriai/Albertas Goštautas]]
+- [[objektai/asmenys/Goštautas]]
 - [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]

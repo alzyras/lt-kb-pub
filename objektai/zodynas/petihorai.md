@@ -61,13 +61,13 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - t-004
   teiginys: 'Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-005
   teiginys: 'Petihorai sudarydavo vidutinę kavaleriją ir mūšyje manevruodavo flanguose, remdami husarų ataką.'
   pagrindžia:
     - c-001
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -111,46 +111,9 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    »[...] Lietuvos Didžiosios Kunigaikštijos kariuomenėje yra dar trečioji [kavalerijos rūšis],
-    jie apginkluoti kaip šarvuočiai [pancernes], o jų ietys - kaip husarų, tiesa, kiek trumpes-
-    nės ir su mažesnėmis vėliavėlėmis. Dėl šio skirtumo jos ir vadinamos kitaip: husarų ietys
-    vadinamos kopijomis, o šios - dzidomis: pirmasis žodis, be abejonės, kilęs iš lotyniško
-    copia, reiškiančio pulkus, antrasis - iš krašto kilęs žodis, kurį turi turkai, naudojantys tokio
-    pat tipo ietis. Lietuvių armijoje temačiau keturias tokias vėliavas, o Karūnos armija jų
-    beveik neturi, tik niekas savo grožiu neprilygsta tiems, kuriuos regėjau toj kunigaikštijoj,
-    nes husarai vienodai šaunūs ir vienoje, ir kitoje kariuomenėje. Dabar jie atsisakė savo
-    dzidy ir tapo lygūs šarvuočiams; jie vadinami petihorais ir taip pat yra pagerbti draugų
-    [Touariche] vardu.“
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuomet didžiojo etmono dėmesys buvo
-    nukreiptas į lietuvių dešinįjį sparną. Ar su-
-    gebės rotmistro J. P. Sapiegos husarų ir pe-
-    tihorų vėliavos atlaikyti pagrindinį Švedijos
-    kariuomenės smūgį ir sužlugdyti Karolio
-    Ix planą apeiti Lietuvos kariuomenę.
-    Rotmistry J. P. Sapiegos, M. Vielamovskio,
-    M. Giedraičio vėliavos sugebėjo sumušti
-    generolo H. Branto kavaleriją, kuri pradėjo
-    trauktis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-005
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     »[...] Lietuvos Didžiosios Kunigaikštijos kariuomenėje yra dar trečioji [kavalerijos rūšis],
@@ -178,6 +141,7 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -186,7 +150,6 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Sapiegos]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/flangas]]
 - [[objektai/zodynas/husarai]]
@@ -194,7 +157,6 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/daiktai/Šarvai]]
 - [[objektai/daiktai/Šarvuočiai]]
-- [[objektai/grupes/Osmanų Turkija]]
 - [[objektai/grupes/Turkijos kariuomenė]]
 - [[objektai/zodynas/sunkioji kavalerija]]
 - [[objektai/asmenys/J. P. Sapiega]]

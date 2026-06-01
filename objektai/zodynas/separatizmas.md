@@ -23,7 +23,7 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
     - c-001
 
 - t-002
-  teiginys: 'Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.'
+  teiginys: 'Dėl nedraugiškų žygių Lenkijos atžvilgiu Vytautas Krokuvoje buvo pradėtas įtarinėti neištikimybe ir separatizmu.'
   pagrindžia:
     - c-002
 
@@ -44,7 +44,7 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
     - t-001
 
 - c-002
-  santrauka: 'Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.'
+  santrauka: 'Dėl nedraugiškų žygių Lenkijos atžvilgiu Vytautas Krokuvoje buvo pradėtas įtarinėti neištikimybe ir separatizmu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai buvo aiškus nepasitikėjimas Lenkija, ku­

@@ -19,18 +19,19 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­ me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo atšaukiame ir norime, kad būtų.'
+  teiginys: 'Sofijai Šimonovai suteiktos privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­ tinę kviečių iš visų laukų; taip ir bajorė Ona Tarnavska iš savo dvaro nuo visų javų, o iš Stanislovo Vaitkavičiaus tik nuo kviečių....................Įprastą dešimtinę privalo mokė­ ti.'
+  teiginys: 'Bajorė Sofija Simonovna privalėjo mokėti kviečių dešimtinę iš visų Alberto Tžasibrodos žemės laukų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bajorė Sofija Simonovna privalėjo mokėti kviečių dešimtinę iš visų Alberto Tžasibrodos žemės laukų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be tö, ir ba­
@@ -48,6 +49,7 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
     - t-002
 
 - c-002
+  santrauka: 'Sofijai Šimonovai suteiktos privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jeigu

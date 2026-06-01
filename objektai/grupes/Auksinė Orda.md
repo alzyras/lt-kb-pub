@@ -47,10 +47,6 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - t-005
   teiginys: 'Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas.'
   pagrindžia:
-    - c-008
-    - c-010
-    - c-012
-    - c-007
     - c-005
 
 - t-006
@@ -61,17 +57,17 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - t-007
   teiginys: 'Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą.'
   pagrindžia:
-    - c-013
+    - c-009
 
 - t-008
   teiginys: 'Tų žygių išdavos buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas - Aglenas ir jo įpėdinis Kotlogas-Timuras.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-009
-  teiginys: 'Trisdešimt metų vėliau baisu­ sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­ jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­ galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus, nors ir smarkiai buvo pirmojo sumuštas.'
+  teiginys: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsigalėti Rytų Europoje ir valdyti rusų žemių plotus.'
   pagrindžia:
-    - c-011
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -172,33 +168,6 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Trisdešimt metų vėliau baisu­
-    sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­
-    jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­
-    galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus,
-    nors ir smarkiai buvo pirmojo sumuštas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pajutęs savo galy­
-    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės. Šis padarė
-    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
-    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-009
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
     Pajutęs savo galy­
     bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės. Šis padarė
     tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
@@ -211,21 +180,8 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   pagrindžia:
     - t-008
 
-- c-010
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Trisdešimt metų vėliau baisu­
-    sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­
-    jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­
-    galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus,
-    nors ir smarkiai buvo pirmojo sumuštas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-011
+- c-008
+  santrauka: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsigalėti Rytų Europoje ir valdyti rusų žemių plotus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jų tarpe įvyko dideli skilimai,
@@ -241,20 +197,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   pagrindžia:
     - t-009
 
-- c-012
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pajutęs savo galy­
-    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės. Šis padarė
-    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
-    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-013
+- c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
@@ -324,5 +267,4 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/zodynas/emyras]]
 - [[objektai/zodynas/kondominiumas]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
-- [[objektai/daiktai/Šarvinės pirštinės]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]

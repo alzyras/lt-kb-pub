@@ -77,5 +77,3 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/daiktai/Mediniai namai, trobos ir trobelės]]
-- [[objektai/daiktai/Medinės ir mūrinės pilys kaip fortifikacijos]]
-- [[objektai/daiktai/Medinės pilys ir tvirtovės]]

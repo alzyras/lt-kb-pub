@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai sugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­ dami viršenybę.'
+  teiginys: 'Daugirdas Gedgaila Vytauto vardu valdė Podolę, kol Podolės bajorai, vadovaujami Gregoro Kierdėjaus, jį klastingai sugavo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Daugirdas Gedgaila Vytauto vardu valdė Podolę, kol Podolės bajorai, vadovaujami Gregoro Kierdėjaus, jį klastingai sugavo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     210

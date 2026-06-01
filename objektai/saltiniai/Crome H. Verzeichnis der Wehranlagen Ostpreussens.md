@@ -25,13 +25,14 @@ Dusburgietis teigia, kad crome H.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad crome H.'
+  teiginys: 'H. Crome darbas „Verzeichnis der Wehranlagen Ostpreussens“ publikuotas „Prussia“ leidinio tomuose 1938–1940 metais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'H. Crome darbas „Verzeichnis der Wehranlagen Ostpreussens“ publikuotas „Prussia“ leidinio tomuose 1938–1940 metais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Crome H. Verzeichnis der Wehranlagen Ostpreussens.— Prussia, Königsberg (Pr.), Bd.

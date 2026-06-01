@@ -46,17 +46,17 @@ Nenurodyta
 - t-002
   teiginys: 'Žodžiu, visur Vytautas buvo reikalingas, pageidaujamas ir laukiamas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
-  teiginys: 'Bet Vytautui šlėktą karštai užtariant ir jam tarpininkaujant, kaip tai aiškiai pažymėta pačioje privile­ gijoje, Jogaila padidino bajorijos luomo teises^1 ).'
+  teiginys: 'Vytautui užtariant lenkų šlėktą ir tarpininkaujant, Jogaila Červinsko stovykloje padidino bajorijos luomo teises.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
-  teiginys: 'Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­ davo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­ grindinių reikalų, kai ėjo klausimas apie karalijos santvarką, apie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi nuo tos valandos.'
+  teiginys: 'Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo arba paramos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -81,30 +81,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
-    davo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­
-    grindinių reikalų, kai ėjo klausimas apie karalijos santvarką,
-    apie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi
-    nuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­
-    vygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.
-    Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to
-    meto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­
-    davosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­
-    tarimo, dažniausiai jo paramos. Dėl jo energingos paramos
-    Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­
-    rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui
-    Vyt. dėkingas už Poznaniaus mitrą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
-- c-003
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet Vytautui šlėktą karštai užtariant ir
@@ -121,7 +100,8 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
+  santrauka: 'Vytautui užtariant lenkų šlėktą ir tarpininkaujant, Jogaila Červinsko stovykloje padidino bajorijos luomo teises.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Červinsko stovykloj, kame Jo­

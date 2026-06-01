@@ -24,13 +24,14 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui.'
+  teiginys: 'Lešekas Juodasis Krokuvai suteikė svarbias privilegijas ir sustiprino miestą geriausiomis mūro sienomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lešekas Juodasis Krokuvai suteikė svarbias privilegijas ir sustiprino miestą geriausiomis mūro sienomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Benjaminas iš Tudelio, žydų kilmės ke­

@@ -48,12 +48,12 @@ Nenurodyta
 - t-001
   teiginys: 'Lietuvoje barokas ryškiausiai reiškėsi bažnyčių architektūroje ir išaugo į savitą Vilniaus baroko mokyklą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Lietuvos barokas architektūroje perėjo nuo importo etapo prie savitos Vilniaus baroko mokyklos ir medinio provincijos baroko.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Ryčiausia ir šiauriausia Europoje baroko architektūra Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
@@ -88,24 +88,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ryčiausia ir šiauriausia Europoje
-    baroko architektūra
-    Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš ar-
-    chitektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco,
-    port. barroco, reiškiančiu netaisyklingos formos perlą. Lietuvoje barokas
-    geriausiai matomas architektūroje, ypač bažnyčių. Jis perėjo keletą raidos
-    tarpsnių – nuo kuklaus, dar Renesanso veikiamo baroko prie vėlyvojo, ra-
-    finuotai puošnaus baroko ir rokoko, nuo „importo“ etapo prie labai savitos
-    Vilniaus baroko mokyklos ir provincijos medinio baroko, nuo visuomenės
-    elitui kurto meno prie pačios liaudies barokinės kūrybos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

@@ -29,7 +29,7 @@ Papildomos aiškios formos neišskirtos.
     - c-001
 
 - t-002
-  teiginys: 'Ji priklauso žinyčios erdvei šalia kunigaikščio rūmų.'
+  teiginys: 'Gaspada buvo po kairės angos pusės ir skirta keleiviams, atėjusiems dievų maldyti.'
   pagrindžia:
     - c-001
 

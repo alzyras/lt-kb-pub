@@ -26,7 +26,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad — Morungen, Jer.— Môrungen [...] an Maurin (vardas prūsiškas, GAO, p. 101), vėliau vok.'
+  teiginys: 'Morungenas vėliau vadintas Mohrungenu, o dabar tapatinamas su Morongu tarp Elbliongo ir Olštino.'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Morungenas vėliau vadintas Mohrungenu, o dabar tapatinamas su Morongu tarp Elbliongo ir Olštino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     600  D. — Morungen, Jer.— Môrungen [...] an Maurin (vardas prūsiškas, GAO, p.

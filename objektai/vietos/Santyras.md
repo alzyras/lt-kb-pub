@@ -29,7 +29,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - t-001
   teiginys: 'Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui pripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad tai buvusi vietinio prūso dovana, kiti — kad Santyrą.'
@@ -39,7 +39,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie Marienburgo pilies pastatymą 1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten, kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios šlovei bei garbei ji čia ir buvo perkelta500.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad sventopelkas su savo kariuomene priėjo Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas į priekį daug karių bei ginklanešių, kurie turėjo ištirti, ar Kristburgo pilis yra apsupta.'
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - t-006
   teiginys: 'Dusburgietis teigia, kad todėl dviejų upių santakoje, būtent: Vyslos ir Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų.'
   pagrindžia:
-    - c-004
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -111,24 +111,6 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Todėl dviejų upių santakoje, būtent: Vyslos ir
-    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
-    brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
-    išsivarydavo juos į nelaisvę ar nugalabydavo.
-
-
-
-
-                   46(45).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     208 (203). Apie Marienburgo pilies pastatymą
 
       1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
@@ -145,7 +127,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
@@ -163,7 +145,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   pagrindžia:
     - t-001
 
-- c-007
+- c-006
   santrauka: 'Dusburgietis teigia, kad todėl dviejų upių santakoje, būtent: Vyslos ir Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -177,3 +159,4 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   statusas: verified
   pagrindžia:
     - t-007
+    - t-006

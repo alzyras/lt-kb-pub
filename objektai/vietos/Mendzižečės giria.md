@@ -19,13 +19,14 @@ Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gra
 ## Teiginiai
 
 - t-001
-  teiginys: 'Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gražus šilas, Žgviždos Vienos iš Rūdninkų girios dalies bu­ vęs pavadinimas (vert.'
+  teiginys: 'Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per pusantros mylios nuo Rūdninkų Men-

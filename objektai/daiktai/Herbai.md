@@ -65,19 +65,19 @@ Nenurodyta
     - c-004
 
 - t-005
-  teiginys: 'Tuo tarpu Lietuvos istorikai ėmė teigti, kad lenkai herbus pasisavinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė išvadą, kad iš romėnų kilę lietuviai esą kilnesni už lenkus.'
+  teiginys: 'Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų.'
   pagrindžia:
     - c-005
 
 - t-006
-  teiginys: 'Bet iš visų Horodlės unijos punktų lenkų labiausiai yra garbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­ broliavo” su žymesniais Lietuvos bajorais sutiekdami jiems savo nobiliteto pažymius — herbus.'
+  teiginys: 'Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.'
   pagrindžia:
-    - c-011
+    - c-010
 
 - t-007
   teiginys: 'Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš.'
   pagrindžia:
-    - c-012
+    - c-007
 
 - t-008
   teiginys: 'Gedimino stulpai ir Jogailos kryžius iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
@@ -95,9 +95,9 @@ Nenurodyta
     - c-006
 
 - t-011
-  teiginys: 'Ji gavo europeiško nobiliteto pažymius — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­ siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto luomu.'
+  teiginys: 'Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.'
   pagrindžia:
-    - c-010
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -162,6 +162,7 @@ Nenurodyta
     - t-004
 
 - c-005
+  santrauka: 'Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš to jie padarė išvadą, kad lietuviai ir romėnai
@@ -227,6 +228,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-009
+    - t-007
 
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -266,28 +268,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-010
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Gediminaičiai prie
-    tokių aktų XIV amž. išnyksta visiškai, o Vytauto valdymo pra­
-    džioje kad ir dalyvauja, bet nevisada ir neskaitlingai. Jų vietą
-    užima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV
-    amž. ir ypatingai įsigalėti XVI—XVIII amž.
-    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
-    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
-    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
-    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
-    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
-    luomu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-011
 
-- c-011
+- c-010
+  santrauka: 'Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1401 metų unijos aktai paliko
@@ -305,38 +289,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-012
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi Abiejų Tautų Respublika:
-    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
-    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
-    bajoriškosios demokratijos tradiciją,
-    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
-    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
-    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
-    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
-    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
-    šventųjų, poetų, retorikų ir logikų tradicijas,
-    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
-    tūros mokyklą,
-    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
-    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
-    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-    Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-
-    dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija. Tačiau ir tomis su-
-    dėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji
-    atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki),
-    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
-    LDK herbas Vytis iš herbyno
-    „Stemmata Polonica“ (saugomo
-    Paryžiuje), XVI a. vid.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -371,5 +323,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]
 - [[objektai/daiktai/Žygimanto Senojo kalavijas su Lietuvos ir Lenkijos herbais]]
 - [[objektai/grupes/Vilniaus romantizmo mokykla]]

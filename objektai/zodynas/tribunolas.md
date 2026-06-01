@@ -34,14 +34,14 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     - c-001
 
 - t-002
-  teiginys: '), atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tribunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir Lietuvoje.'
+  teiginys: 'Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos.'
@@ -69,6 +69,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   statusas: verified
   pagrindžia:
     - t-001
+    - t-006
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -119,26 +120,9 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet pagaliau,
-    kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),
-    atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
-    bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
-    Lietuvoje.
-    Vyriausiojo Lietuvos tribunolo reikalas buvo
-    svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
-    tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
-    pat išliko iki pat nepriklausomybės pabaigos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-005
+- c-004
   santrauka: 'Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -167,25 +151,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   pagrindžia:
     - t-003
 
-- c-006
-  santrauka: 'O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bylos bū-
-    davo sprendžiamos balsų dauguma. O bajorijos byloms su
-    dvasininkais būdavo sudaromas mišrasis teismas, arba
-    dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų
-    kapitulų skiriami kunigai ir 6 tribunolo deputatai.
-
-
-    **8.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-007
+- c-005
   santrauka: 'Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą (mat, tada aukščiausioji instancija buvo Rusijos senatas).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -213,6 +179,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 ### Susiję objektai
 - [[objektai/autoriai/Ignacas Onacevičius]]
 - [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/kapitula]]
@@ -221,7 +188,6 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 - [[objektai/zodynas/statutas]]
 - [[objektai/grupes/7-ojo fuzilierių regimento]]
 - [[objektai/autoriai/A. Janulaitis]]
-- [[objektai/autoriai/Albertrandi]]
 - [[objektai/autoriai/Aug. Janulaitis]]
 - [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
 - [[objektai/asmenys/Ignotas Houvaitas]]

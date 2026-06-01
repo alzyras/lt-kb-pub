@@ -17,13 +17,14 @@ Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­ ni Ducatus Litbvaniae
 ## Teiginiai
 
 - t-001
-  teiginys: 'Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­ ni Ducatus Litbvaniae est subappensum. Datum in Commitiis.'
+  teiginys: 'Formulė „Harum Testimonio Literarum“ vartota dokumente, prie kurio buvo prikabintas Lietuvos Didžiosios Kunigaikštystės antspaudas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Formulė „Harum Testimonio Literarum“ vartota dokumente, prie kurio buvo prikabintas Lietuvos Didžiosios Kunigaikštystės antspaudas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­
@@ -40,3 +41,7 @@ Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­ ni Ducatus Litbvaniae
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Antspaudas]]

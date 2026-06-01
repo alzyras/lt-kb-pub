@@ -26,17 +26,17 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mergelės Marijos bažnyčios Smėlynėje ir pran­ ciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­ siruošusias tvirtoves, antra, numanydami, jog bus neįma- 43 Lindenblatto kronikoje yra - Boparthen, pagal panašų skambėji­ mą, regis, tarsi būtų.'
+  teiginys: 'Lindenblatto kronikos vietovardis Boparthen pastabose aiškinamas kaip dabartinis Bobiai į šiaurės vakarus nuo Kauno.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tas kunigaikštis, nepapras­ tai prisirišęs prie rusų tikėjimo ir tautos, turėjo daug draugų 53 jos išsaugotos Lindenblatt o, Visos tos smulkios aplinkybės mūp. 98-99, lietuvių istorijai nusipelsų metraštininkams nėra žinomos; niusio autoriaus.'
+  teiginys: 'Lindenblattas išsaugojo smulkias Vilniaus pilių apgulties aplinkybes, kurių lietuvių metraštininkai nežinojo.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: '33 Lindenblatt Jahrbücher etc., p. 76, kryžiuočių persikėlimą per Viliją nu­ rodo buvus per Šv.'
+  teiginys: 'Lindenblatt Jahrbücher kryžiuočių persikėlimą per Viliją datavo rugpjūčio 28 d., o priartėjimą prie Vilniaus - rugsėjo 4 d.'
   pagrindžia:
     - c-003
 
@@ -48,6 +48,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lindenblattas išsaugojo smulkias Vilniaus pilių apgulties aplinkybes, kurių lietuvių metraštininkai nežinojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš­
@@ -69,6 +70,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Lindenblatto kronikos vietovardis Boparthen pastabose aiškinamas kaip dabartinis Bobiai į šiaurės vakarus nuo Kauno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Olesnickis,
@@ -102,6 +104,7 @@ amziai:
     - t-001
 
 - c-003
+  santrauka: 'Lindenblatt Jahrbücher kryžiuočių persikėlimą per Viliją datavo rugpjūčio 28 d., o priartėjimą prie Vilniaus - rugsėjo 4 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     33

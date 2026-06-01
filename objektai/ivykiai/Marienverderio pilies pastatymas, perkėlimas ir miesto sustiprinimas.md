@@ -54,9 +54,9 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis, jis per vienus metus, kuriuos ten praleido, atplaukė čia ir perkėlė su magistru bei.'
+  teiginys: '1233 m. pastatyta Marienverderio pilis vėliau buvo perkelta iš Kvedino salos į Pamedės valsčių, vadintą Reisiais.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -125,30 +125,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo
-    įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad
-    mūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai
-    kurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė
-    į Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo
-    1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu. Tačiau kąi  į
-    Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti
-    įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis,  jis per
-    vienus metus, kuriuos ten praleido, atplaukė čia  ir perkėlė su magistru bei broliais
-    Marienverderio salos pilį iš Kvedino salos  į tą vietą, kur ji dabar tebestovi225, būtent  į
-    Pamedės valsčių, vardu Reisiai226, pakeisdamas pilies vietą, bet ne pavadinimą.
-
-
-
-
-                         10.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

@@ -52,26 +52,11 @@ Nenurodyta
 - t-002
   teiginys: 'Reformacija tapo nauju lenkėjimo postūmiu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Radvila Juodasis
-    1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kal-
-    bą dėl to, kad „būtų liaudžiai suprantama“. Nors radosi ir lietuviakalbė
-    raštijos tradicija, LDK visuomenės politinis elitas lietuviakalbės kultūri-
-    nės programos nesulaukė ir rinkosi lenkakalbę. Lietuvių kalbą išlaikė tik
-    smulkioji bajorija, o tvirčiausiai – valstiečiai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Reformacija tapo nauju lenkėjimo postūmiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -86,6 +71,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

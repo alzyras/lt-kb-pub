@@ -26,12 +26,12 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus.'
+  teiginys: 'Anzelmas, Varmės vyskupas ir Teutonų ordino brolis, pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 259 Brunsbergas (Braunsbergas, dab.'
+  teiginys: 'Brunsbergas, dabartinis Branevas, buvo Pasarės žemupyje, o pilis stovėjo žemiau dabartinio miesto, arčiau Aismarių.'
   pagrindžia:
     - c-004
 
@@ -79,6 +79,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     - t-004
 
 - c-003
+  santrauka: 'Anzelmas, Varmės vyskupas ir Teutonų ordino brolis, pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
@@ -97,6 +98,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     - t-001
 
 - c-004
+  santrauka: 'Brunsbergas, dabartinis Branevas, buvo Pasarės žemupyje, o pilis stovėjo žemiau dabartinio miesto, arčiau Aismarių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     259 Brunsbergas (Braunsbergas, dab. Branevas) — Pasarės (dab. Paslenka) žemupyje.

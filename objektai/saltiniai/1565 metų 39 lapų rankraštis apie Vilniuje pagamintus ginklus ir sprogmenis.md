@@ -30,7 +30,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bent jau vertingiausi ginklai (toliau rašo Golembiovskis) turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­ dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­ tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­ mantu Senuoju ir.'
+  teiginys: '1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu.'
   pagrindžia:
     - c-003
 
@@ -40,7 +40,7 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.'
+  teiginys: 'Golembiovskio artilerijos sąraše pateikti tik naujai pagaminti ir į tvirtoves išsiuntinėti pabūklai.'
   pagrindžia:
     - c-002
 
@@ -81,6 +81,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Golembiovskio artilerijos sąraše pateikti tik naujai pagaminti ir į tvirtoves išsiuntinėti pabūklai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­
@@ -95,6 +96,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: '1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Salietros ir sieros: 55 centnerius, 23 svarus.

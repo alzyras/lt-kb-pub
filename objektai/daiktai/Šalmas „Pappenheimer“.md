@@ -47,7 +47,7 @@ Nenurodyta
 - t-002
   teiginys: 'Šalmas „Pappenheimer“ (pavadinmas kilęs nuo garsaus karvedžio pavardės) - tai vakarietiška iš rytų perimto šyšako (vok.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -75,28 +75,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ® Švedų pajėgos bėga iš mūšio lauko.
-
-    Šalmas
-    „Pappenheimer“
-    (pavadinmas kilęs nuo
-    garsaus karvedžio pa-
-    vardės) - tai vakarietiška
-    iš rytų perimto šyšako
-    (vok. zischūgge) atmaina,
-    paplitusi XVII a., plačiai naudota Trisdešimtmečiame,
-    Anglijos pilietiniame kare ir daugelyje kitų karinių konf-
-    liktų. Buvo kavalerijai skirtas šalmas, kurį ilgą laikotarpį
-    naudojo raitarai, o tam tikrais atvejais ir ATR husarų vė-
-    liavų eiliniai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -106,4 +84,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/zodynas/husarai]]
-- [[objektai/grupes/Švedai]]

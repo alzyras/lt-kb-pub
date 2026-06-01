@@ -65,7 +65,5 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/vėliava]]
-- [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]

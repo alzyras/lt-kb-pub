@@ -81,17 +81,17 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 - t-007
   teiginys: 'Jeigu Ona Jogailaitė po testatoriaus mirties būtų nuskriausta, jai turėjo atitekti visas jo kilnojamasis ir nekilnojamasis turtas.'
   pagrindžia:
-    - c-006
+    - c-007
 
 - t-008
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-009
-  teiginys: 'Ona Jogailaitė galėtų netekti tų išmo­ kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas.'
+  teiginys: 'Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.'
   pagrindžia:
-    - c-008
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -255,36 +255,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Taip pat tikėjimu ir garbe prisaikdina­
-    me visus mūsų pareigūnus, kurie tuos reikalus tvarkys kaip
-    mūsų tarnai, kai to teks imtis, kad ištikimai, kaip doriems
-    žmonėms pridera, saugotų tuos daiktus ir niekam kitam ne­
-    duotų, tik pagal šį paskyrimą ir mūsų valią. Ir ypač, kad jos
-    didenybė karalaitė Ona, pasilikusi čia, Lenkijoje, liktų su jai
-    skirtomis valdomis, žemėmis ir pinigų sumomis, nors pa­
-    sitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­
-    bijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­
-    kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas. Vis dėlto,
-    jeigu Viešpatį Dievą ir šventą teisingumą užmiršęs ar mū­
-    sų įpėdinis, ar kas kitas jos didenybę karalaitę Oną po mū­
-    sų mirties nuskriausti norėtų, tai tikime, kad Viešpats Die­
-    vas, našlaičių gynėjas, tokį rūsčiai nubaustų, tuomet visa tai,
-    kas yra jų didenybėms karalaitėms, mūsų seserims, ir kam
-    kitam mūsų užrašyta, viską duodame generalitate [bendrai]
-    visą mūsų kilnojamąjį ir nekilnojamąjį turtą, aukščiau išreikš­
-    tą ir neišreikštą, pačiai jos didenybei karalaitei Onai atiduoda­
-    me, kad tame rastų savo skriaudos ir našlaitystės paguodą,
-    ir iš to ji turės atiduoti dalį jos didenybei karalaitei Kotry-
-    ----• -----
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
     IV KNYGA
     nai, Švedijos karalienei, sumokėti ir aukščiau paminėtam
     mūsų dvarui atlyginti pagal paprotį, ypač tiems mūsų dva­
@@ -310,7 +280,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   pagrindžia:
     - t-008
 
-- c-008
+- c-007
+  santrauka: 'Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat tikėjimu ir garbe prisaikdina­
@@ -347,6 +318,7 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   statusas: verified
   pagrindžia:
     - t-009
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai

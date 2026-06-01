@@ -31,7 +31,7 @@ Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos nuorašų faksimil
 - t-002
   teiginys: 'Kraków, 1989; Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos nuorašų faksimilės.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -45,14 +45,4 @@ Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos nuorašų faksimil
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kraków, 1989; Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos
-    nuorašų faksimilės. Parengė S. Lazutka, E. Gudavičius. T. 1, d. 2. Vilnius, 1985; E. Rimša.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

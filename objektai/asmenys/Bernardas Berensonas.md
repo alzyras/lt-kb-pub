@@ -22,7 +22,7 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
 ## Teiginiai
 
 - t-001
-  teiginys: 'laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berensonas (Bernhard Valvrojenski, g.'
+  teiginys: 'Bernardas Berensonas buvo italų renesanso tapybos žinovas, kilęs nuo Butrimonių.'
   pagrindžia:
     - c-001
 

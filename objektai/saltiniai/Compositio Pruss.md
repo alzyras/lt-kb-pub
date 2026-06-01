@@ -17,13 +17,14 @@ Compositio Pruss., p. 35, parašyta: Tandem Christianissimum principem dominum C
 ## Teiginiai
 
 - t-001
-  teiginys: 'Compositio Pruss., p. 35, parašyta: Tandem Christianissimum principem dominum Cazimirum dictum Cortgello, fratrem germanum domini Regis, in­ terfecerunt, interfectique caput a corpo­ re scindentes et amputantes et detruncantes, cum eodem capite ludib­ ria et.'
+  teiginys: '„Compositio Pruss“ rašoma, kad karaliaus brolis Kazimieras, vadintas Cortgello, buvo nužudytas ir paniekintas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Compositio Pruss“ rašoma, kad karaliaus brolis Kazimieras, vadintas Cortgello, buvo nužudytas ir paniekintas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Viename MSS.

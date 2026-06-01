@@ -50,25 +50,11 @@ Nenurodyta
 - t-002
   teiginys: 'Antai Lietuvoje daug objektų: vietovių, kalnų, miškų, medžių, akmenų, kurie turi Perkūno vardą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Haličo-Voluinės (Ipatijaus) metraštyje prie
-    1252 m. minimi keturi dievai. Šią lietuvių pagonybės, kaip „pirminio gry-
-    nuolio“, idėją ir aukštąjį panteoną, kuriame keturi dievai, patvirtina lietu-
-    vių mitologinė geografija. Antai Lietuvoje daug objektų: vietovių, kalnų,
-    miškų, medžių, akmenų, kurie turi Perkūno vardą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Antai Lietuvoje daug objektų: vietovių, kalnų, miškų, medžių, akmenų, kurie turi Perkūno vardą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -83,6 +69,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

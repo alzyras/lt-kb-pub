@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­ ko ir keturių kariuomenės ženklų53.'
+  teiginys: 'Atsitraukdamas ties Rudamina Vytautas neteko daug saviškių ir keturių kariuomenės ženklų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Atsitraukdamas ties Rudamina Vytautas neteko daug saviškių ir keturių kariuomenės ženklų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, ne­

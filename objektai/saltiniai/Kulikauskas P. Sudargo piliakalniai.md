@@ -24,13 +24,14 @@ Dusburgietis teigia, kad kulikauskas P.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kulikauskas P.'
+  teiginys: 'P. Kulikausko straipsnis „Sudargo piliakalniai“ paskelbtas leidinyje „Istorija“ Vilniuje 1975 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P. Kulikausko straipsnis „Sudargo piliakalniai“ paskelbtas leidinyje „Istorija“ Vilniuje 1975 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kulikauskas P. Sudargo piliakalniai.—Lietuvos TSR aukštųjų mokyklų mokslo darbai:

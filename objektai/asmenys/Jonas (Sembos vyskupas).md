@@ -20,13 +20,14 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­ kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo miręs), kartu su savo diecezijos klebonais Elblionge bemat surengė pasitarimą ir.'
+  teiginys: 'Sembos vyskupas Jonas Elblionge dalyvavo pasitarime ir su kitais vyskupais pasiuntė laišką, kuriame taikos sutartį vadino pražūtinga.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sembos vyskupas Jonas Elblionge dalyvavo pasitarime ir su kitais vyskupais pasiuntė laišką, kuriame taikos sutartį vadino pražūtinga.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -60,5 +61,6 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 - [[objektai/asmenys/Mikolajus Kulmietis]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
 - [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas)]]

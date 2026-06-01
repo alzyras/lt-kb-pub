@@ -22,7 +22,7 @@ Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškin
     - c-001
 
 - t-002
-  teiginys: 'Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli» (X, 3).'
+  teiginys: 'Nestoro kronikoje tikrieji latviai vadinti „Liet’gola“, o Latvijos Henrikas juos įvardijo kaip „Lethi vel Lethigalli“.'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškin
     - t-001
 
 - c-002
-  santrauka: 'Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli» (X, 3).'
+  santrauka: 'Nestoro kronikoje tikrieji latviai vadinti „Liet’gola“, o Latvijos Henrikas juos įvardijo kaip „Lethi vel Lethigalli“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Latvių ten atliktas asimiliacijos

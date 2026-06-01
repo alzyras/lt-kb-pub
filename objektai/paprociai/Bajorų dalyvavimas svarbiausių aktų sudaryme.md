@@ -45,36 +45,36 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Į Vytauto politinius žygius ir sutartis daugiausia buvo įtraukti kilmingieji iš tikrosios Lietuvos.'
+  teiginys: 'Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose.'
   pagrindžia:
-    - c-002
+    - c-006
 
-- t-005
+- t-003
+  teiginys: '1401 m. Lietuvos bajorai atskiru aktu patvirtino sutartį su lenkais ir pasižadėjo jos laikytis.'
+  pagrindžia:
+    - c-004
+
+- t-004
   teiginys: 'Taip antai, 1401 m. Lietuvos bajorai atskiru aktu patvirtino sutartį su Lenkais ir pasižadėjo jos laikytis (žiūr.'
   pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.'
+  pagrindžia:
+    - c-003
+    - c-002
     - c-005
 
 - t-006
-  teiginys: 'Lietuvių bajorija valstybės rei­ kaluose gavo balsą, kuris lig šiol išimtinai tepriklausė valdovui, t.'
-  pagrindžia:
-    - c-002
-
-- t-007
-  teiginys: 'Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.'
-  pagrindžia:
-    - c-007
-    - c-010
-    - c-009
-
-- t-008
-  teiginys: 'Lie­ tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna teisę dalyvauti naujo kun. elekcijoj.'
+  teiginys: '1401 m. Vilniaus susitarimuose Lietuvos bajorai pirmą kartą unijų istorijoje surašė atskirą aktą.'
   pagrindžia:
     - c-001
 
-- t-009
+- t-007
   teiginys: 'Vilniaus susitarimuose (1401) pirmą kartą Lietuvos ir Lenkijos unijų istorijoje buvo surašytas Lietuvos bajorų aktas.'
   pagrindžia:
-    - c-009
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -95,19 +95,6 @@ Nenurodyta
     - t-001
 
 - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Manivydas, Kriavo —- J. Goštautas, Ašmenos — Astikas. Jie turėjo
-    būti ne tik liudininkai, bet ir garantai, kad visa tai, kas aktuose
-    surašyta, bus vykdoma. Į Vytauto politinius žygius ir sutartis
-    daugiausia buvo įtraukti kilmingieji iš tikrosios Lietuvos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkų ponų
@@ -121,9 +108,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-004
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šiaip ar taip kalbant, paskutinioji unija patikrino Lietuvai
@@ -137,9 +124,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-005
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip antai, 1401 m. Lietuvos bajorai atskiru aktu
@@ -149,9 +136,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-006
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Radomo, trumpiau vilniškė, unija yra todėl tikra ir visiškai per­
@@ -165,25 +152,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šiaip ar taip kalbant, paskutinioji unija patikrino Lietuvai
-    su Lenkija daugiau lygybės, ko iki tol teisiškai nebuvo, ir be to,
-    tų dviejų valstybių sąjunga buvo paremta abipusiška visuome­
-    nės vadovaujančių luomų taiką. Lietuvių bajorija valstybės rei­
-    kaluose gavo balsą, kuris lig šiol išimtinai tepriklausė valdovui,
-    t. y. did. kunigaikščio valiai, reguliuojant valstybės reikalus.
-    Dabar toji visuomenė davė unijai savo sankciją^2 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam tikslui Lietuvos valstybė turėjo
@@ -199,43 +170,10 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-009
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Radomo, trumpiau vilniškė, unija yra todėl tikra ir visiškai per­
-    sonalinė. Tiesa, pastarojoj sutarty nerandame jokio teoretinio
-    santykių apibrėžimo, kokie nuo to laiko turėjo susidaryt tarp
-    Lietuvos ir Lenkijos; Vytauto gi santykiai su Lenkija buvo api­
-    brėžti, kaip valdomojo su aukštesniu perdėtiniu^1 ). Lenkų ponų
-    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
-    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-010
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lenkų ponų
-    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
-    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija. Lie­
-    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
-    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
-    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
-    teisę seniau.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkų bajorija]]
 - [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]

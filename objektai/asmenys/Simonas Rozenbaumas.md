@@ -28,7 +28,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rozenbaumo) ir baltarusių (D.'
+  teiginys: 'Simonas Rozenbaumas buvo Lietuvos delegacijos narys žydas, kurio argumentais lietuviai rėmėsi derybose su Sovietų Rusija.'
   pagrindžia:
     - c-003
 
@@ -84,6 +84,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     - t-002
 
 - c-003
+  santrauka: 'Simonas Rozenbaumas buvo Lietuvos delegacijos narys žydas, kurio argumentais lietuviai rėmėsi derybose su Sovietų Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai pripažinta teritorija buvo gana

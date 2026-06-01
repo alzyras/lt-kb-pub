@@ -25,13 +25,14 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 427 D. ir Jer.— Belichow; Bialachovas, Białachowo (SZCh, p. 5), gyvenvietė Osos žemupio deš. krante per 9 km į šiaurės rytus nuo Grudziondzo; žr. D. III, 14.'
+  teiginys: 'Belichovas buvo gyvenvietė dešiniajame Osos žemupio krante, 9 km į šiaurės rytus nuo Grudziondzo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Belichovas buvo gyvenvietė dešiniajame Osos žemupio krante, 9 km į šiaurės rytus nuo Grudziondzo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     427  D. ir Jer.— Belichow; Bialachovas, Białachowo (SZCh, p. 5), gyvenvietė Osos

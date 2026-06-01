@@ -26,13 +26,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '68 Petras Timofiejevas Mstislavliškis, iš Maskvos atvykęs spaustuvininkas, padedamas ir proteguojamas Alek­ sandro Chodkevičiaus sūnaus Jurgio, 1575 metais Vilniuje pas Kuzmą ir Luką Mamoničius, Jono Semena vičiaus Zažeckio, iždininko, Upytės se­ niūno ir jo.'
+  teiginys: 'Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Parašai: Vice-
@@ -65,4 +66,5 @@ periodo_grupes:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
 - [[objektai/grupes/Mamoničių giminė]]

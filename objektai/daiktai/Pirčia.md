@@ -39,11 +39,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Pirtis buvo laikoma naudingu ir reikalingu daiktu, į ją vesdavo ir svečius, ir siuntinius.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,18 +55,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pasaka yra užrašyta, jog, apkyrėjus zokaninkams^242 dominikonims
-        Falkenavo klioštoriuje^243 paembakėj viena džiūvusia žuvia bemisti, metuose 1245 išleidę du
-        zokaninku į Rymą guostis popiežiui, jog, misdami džiūvusia žuvia, juoda duona, alum, su gailiais
-        vietoje apynių darytu, nebįgalintys, subatos dienoj pakūtavodami^244 , kūnų savo ramdyti, tai yra
-        pertis, ir meilavę jo šventenybės, idant įsakytų Tarapato vyskupui, kad jis iš savo valsčių juos
-        šelptų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002

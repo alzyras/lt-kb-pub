@@ -43,22 +43,4 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Lapkričio 20 d. Pasvalio batalionas užėmė Žeimelį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    nugabenti prireikė specialaus traukinio.
-    Radviliškyje buvo paimta: 7 lauko pa-
-    trankos, 1 haubica, 2 zenitinės patrankos,
-    apie 100 kulkosvaidžių, 10 minosvaidžių,
-
-    ## Puslapis 197
-
-    @ Lapkričio 20 d. Pasvalio ba-
-    talionas užima Žeimelį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

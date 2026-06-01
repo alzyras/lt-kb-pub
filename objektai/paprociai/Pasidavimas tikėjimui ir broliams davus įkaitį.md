@@ -41,29 +41,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais, matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė, davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau
-    priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
-    matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
-    davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
-
-
-
-
-    18.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
@@ -82,4 +63,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]
 - [[objektai/posakiai/Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]

@@ -43,7 +43,7 @@ Nenurodyta
 - t-001
   teiginys: 'Lietuva po 1905-ųjų – kultūrinė kova Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tiesa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Valstybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi įstatymų leidyba.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.'
@@ -70,25 +70,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva po 1905-ųjų – kultūrinė kova
-    Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tie-
-    sa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Vals-
-    tybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi
-    įstatymų leidyba, visa vykdomoji valdžia ir konstitucinių įstatymų leidimas
-    liko caro rankose. Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš
-    dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-
-    giausia socialdemokratus. Nepasikeitė ir vietinio valdymo modelis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/grupes/Žydai]]

@@ -29,7 +29,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tie karaimai, kurie išties galėtų būti vadinami žvdų disiden­ tais, atkeliavo į Lietuvą iš rytų, o įvairias aplinkybes įvertinęs, numa­ nau, kad jų atvykimą reikėtų Vytau­ to viešpatavimo laikams priskirti, juk šis kunigaikštis, kurio valdžia siekė tolimus.'
+  teiginys: 'Karaimai į Lietuvą atkeliavo iš rytų, o jų atvykimas šaltinyje siejamas su Vytauto valdymo laikais.'
   pagrindžia:
     - c-005
 
@@ -41,7 +41,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - t-003
   teiginys: 'Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-004
   teiginys: 'Karaimų etninė bendruomenė ir religija LDK buvo toleruojamos nuo XIV a. pabaigos.'
@@ -59,14 +59,14 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     - c-002
 
 - t-007
-  teiginys: 'Berods, to žygio metu paim­ tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.'
+  teiginys: 'Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   pagrindžia:
     - c-004
 
 - t-008
   teiginys: 'Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
   pagrindžia:
-    - c-008
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -119,6 +119,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     - t-004
 
 - c-004
+  santrauka: 'Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
@@ -131,6 +132,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     - t-007
 
 - c-005
+  santrauka: 'Karaimai į Lietuvą atkeliavo iš rytų, o jų atvykimas šaltinyje siejamas su Vytauto valdymo laikais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jakob Levi, iš Vilniaus, 1427
@@ -157,36 +159,6 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     - t-001
 
 - c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tie karaimai, kurie išties
-    galėtų būti vadinami žvdų disiden­
-    tais, atkeliavo į Lietuvą iš rytų, o
-    įvairias aplinkybes įvertinęs, numa­
-    nau, kad jų atvykimą reikėtų Vytau­
-    to viešpatavimo laikams priskirti,
-    juk šis kunigaikštis, kurio valdžia
-    siekė tolimus rytų kraštus, noriai
-    priimdavo ateivius iš tų šalių ir juos
-    priglobdavo. Karaimai, gyvenantys
-    Trakuose, nors skurdžiai būdami ir
-    ne taip pašėlusiai besigriebiantys ri­
-    zikingiausių prekybinių sumany­
-    mų, kaip žydai, yra betgi garbingi,
-    ramūs ir darbštūs; gyvena Trakuo­
-    se, manydamiesi iš daržų, kur gau­
-    siai dera agurkai, kuriuos vežimais
-    į Vilniaus turgus gabena.
-    69
-    Žr. šios knygos V priedą
-    —  • —
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet Vytauto privilegija negalio­
@@ -216,8 +188,9 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
-- c-008
+- c-007
   santrauka: 'Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -249,7 +222,6 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - [[objektai/zodynas/žygis]]
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
 - [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
-- [[objektai/grupes/Sentikiai]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
 - [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]

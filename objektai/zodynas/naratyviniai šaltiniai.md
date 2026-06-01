@@ -31,16 +31,6 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Prie naratyvinių šaltinių čia priskiriami analai, kronikos, memuarai, dienoraščiai ir šventųjų gyvenimai.'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: 'Naratyviniai šaltiniai šiame leidinyje priešpriešinami dokumentams ir juridiniams šaltiniams.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,27 +59,6 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Viduramžių  rašytiniai  istoriniai  šaltiniai  skirstomi   į  dokumentus,  juridinius   ir
-    pasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio
-    šaltinius sudaro analai, kronikos, memuarai bei dienoraščiai, šventųjų gyvenimai ir kt.
-       Tarybinis mokslas kreipia didelį dėmesį  į teisingą istorinių šaltinių teksto suvokimą
-    atskleidžiant jo socialinę, klasinę esmę, traktuojant šaltinį kaip to meto visuomenės
-    gyvenimo objektyvų atspindį, tiriant jį kaip paminklą mūsų šalies tautų išsivaduojamajai
-    kovai atskleisti1.
-      Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
-    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
-    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
-    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

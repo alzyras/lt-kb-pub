@@ -26,24 +26,6 @@ Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kuoknesės pilies išsaugojimas turėjo svar-
-    bią strateginę reikšmę Lietuvos Didžiajai
-    Kunigaikštystei, tęsiant tolesnes kovas
-    su Švedijos karalyste. Sunaikinusi švedų
-    pajėgas prie Kuoknesės, Lietuvos ka-
-    riuomenė tęsė puolimą ir užėmė švedų
-    užgrobtas Cėsio, Suntažio, Nytaurės,
-
-    pilis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos Didžiajai Kunigaikštystei, tęsiant tolesnes kovas su Švedijos karalyste.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -68,6 +50,7 @@ Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -26,13 +26,14 @@ Dusburgietis teigia, kad hollack E.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad hollack E.'
+  teiginys: 'E. Hollacko „Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen“ išleista Glogau ir Berlyne 1908 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'E. Hollacko „Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen“ išleista Glogau ir Berlyne 1908 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Hollack E. Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen.—

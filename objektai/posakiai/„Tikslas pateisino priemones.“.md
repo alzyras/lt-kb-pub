@@ -17,13 +17,14 @@ Tikslas pateisino prie­ mones.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tikslas pateisino prie­ mones.'
+  teiginys: 'Posakis „Tikslas pateisino priemones“ taikytas Vytauto kovai dėl savo teisių ne visai teisėtu būdu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posakis „Tikslas pateisino priemones“ taikytas Vytauto kovai dėl savo teisių ne visai teisėtu būdu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tėviškės atsivadavimo reikalas jį vertė

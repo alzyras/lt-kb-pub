@@ -40,12 +40,12 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Steigiamojo seimo rinkimų tvarka: tautos atstovai, renkami kas treji metai visuotiniu, lygiu, tiesioginiu ir slaptu balsavimu, proporcingąja rinkimų sistema, turėjo sudaryti seimą, kurs turėjo leisti įstatymus, prižiūrėti vyriau- sybės darbus, tvirtinti biudžetą, sutartis, pradėti ar baigti.'
+  teiginys: 'Konstitucija numatė, kad tautos atstovai į seimą renkami kas treji metai visuotiniu, lygiu, tiesioginiu ir slaptu balsavimu.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Steigiamojo seimo rinkimų tvarka: įstatymas buvo paskelbtas 1919 metų lapkričio mėn. 20 d., kai dar nebuvo baigtas karas nei su bolševikais, nei su bermontininkais nei su len- kais. Atstovų turėjo būti renkama po vieną nuo 15.000 gyventojų. Juos turėjo teisę rinkti visi piliečiai, vyrai ir.'
+  teiginys: '1919 m. lapkričio 20 d. paskelbtas Steigiamojo seimo rinkimų įstatymas numatė rinkti po vieną atstovą nuo 15 000 gyventojų.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. lapkričio 20 d. paskelbtas Steigiamojo seimo rinkimų įstatymas numatė rinkti po vieną atstovą nuo 15 000 gyventojų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Įstatymas buvo paskelbtas
@@ -75,6 +76,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Konstitucija numatė, kad tautos atstovai į seimą renkami kas treji metai visuotiniu, lygiu, tiesioginiu ir slaptu balsavimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Konstitucija nustatė Lietuvos valstybei demokratinės respubli-
@@ -111,5 +113,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/tautos atstovai]]

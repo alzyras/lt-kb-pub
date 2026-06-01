@@ -20,12 +20,12 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 - t-001
   teiginys: 'Batalionui buvo įsakyta užimti svarbią Turmanto geležinkelio stotį.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Kaunamojo poveikio spindulys - apie 10 m. Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė užėmusi liniją Aukštakalnis-Salakas-Kiemionys ir turėjo pulti Turmanto kryptimi.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Kariuomenės dalinys, laikęs liniją Aukštakalnis-Salakas-Kiemionys, turėjo pulti Turmanto kryptimi.'
@@ -51,26 +51,9 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kaunamojo poveikio spindulys - apie 10 m.
-    Delsiklis granatą detonuoja po 4 sekundžių
-
-    4-osios baterijos būrys), laikė užėmusi
-    liniją Aukštakalnis-Salakas-Kiemionys
-    ir turėjo pulti Turmanto kryptimi.
-
-    I brigados rezervas - 1-ojo pėst.
-    pulko vienas batalionas ir pusė husarų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bolševikai

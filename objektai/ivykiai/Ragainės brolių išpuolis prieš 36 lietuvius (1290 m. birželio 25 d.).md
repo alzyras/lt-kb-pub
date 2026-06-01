@@ -45,50 +45,15 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad tuo tarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo būsimų pavojų, pasiuntė žvalgus, turėjusius saugoti kelius; vienas iš jų skubiai sugrįžo ir pasisakė matęs minėtuosius plėšikautojus.'
   pagrindžia:
     - c-002
-    - c-004
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Ragainės broliai nukovė 25 lietuvius Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti plėšikiškais išpuoliais.'
   pagrindžia:
-    - c-003
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
-    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
-    plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
-    jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo
-    tarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo
-    būsimų pavojų, pasiuntė žvalgus, turėjusius saugoti kelius; vienas iš jų skubiai sugrįžo
-    ir pasisakė matęs minėtuosius plėšikautojus. Todėl brolis Liudvikas iš Libencelės ir brolis
-    Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
-    viename lauke ir 25 iš jų nukovė.
-
-
-
-
-                   241 (234).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
@@ -103,7 +68,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to tučtuojau pasuko atgal. Tuo

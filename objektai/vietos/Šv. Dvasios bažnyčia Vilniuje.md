@@ -19,23 +19,24 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dvasios vienuolyno tėvais reikalai taip susi­ klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­ tus pagalbinius jos pastatus būtų galima patogiai pastatyti.'
+  teiginys: 'Prieglaudos sklypo riba buvo žymima nuo vartų, esančių iš gatvės priešais Šv. Dvasios bažnyčios kapinių vartus.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­ ris tik tuo metu turės, taip pat ir du kitus namelius viršuje už prieglaudos, ten pat, priešais Šv.'
+  teiginys: 'Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
+  teiginys: 'Ulrikas Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prieglaudos sklypo riba buvo žymima nuo vartų, esančių iš gatvės priešais Šv. Dvasios bažnyčios kapinių vartus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios vienuolyno tėvais reikalai taip susi­
@@ -55,6 +56,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - t-001
 
 - c-002
+  santrauka: 'Ulrikas Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­
@@ -73,6 +75,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - t-003
 
 - c-003
+  santrauka: 'Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­

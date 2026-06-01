@@ -56,4 +56,5 @@ Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas I]]

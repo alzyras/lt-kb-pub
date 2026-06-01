@@ -37,7 +37,7 @@ amziai:
 - t-003
   teiginys: 'Karalius Steponas Batoras ir LDK didysis etmonas Mikalojus Radvila Rudasis suvokė, kad siekiant nutraukti rusų veržimąsi į Livoniją reikia atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus Vengriškasis-lenkiškasis kardas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -54,26 +54,6 @@ amziai:
     - t-002
 
 - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vengriškasis-lenkiškasis kardas. Tokie
-    kardai kilo iš Vengrijos, kur jie formavosi turkų
-
-    Po Liublino unijos Livonijos ir Kuršo
-    kunigaikštystės pripažintos bend-
-    romis Lenkijos ir LDK valdomis.
-
-    1572 m. maskvėnai nugalėjo jiems
-    problemų kėlusius Krymo totorius
-    ir tuomet jie vėl suaktyvino savo
-    veiksmus Livonijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karalius Steponas Batoras ir LDK
@@ -100,6 +80,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -112,9 +93,7 @@ amziai:
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/daiktai/Kardas]]

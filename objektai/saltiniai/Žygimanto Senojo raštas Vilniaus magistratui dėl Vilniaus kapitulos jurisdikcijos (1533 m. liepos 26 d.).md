@@ -32,13 +32,14 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
     - c-002
 
 - t-002
-  teiginys: 'Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.'
+  teiginys: 'Vilniaus tarėjai miesto vardu reikalavo būti atleisti nuo jurisdikcijos, kurią, jų teigimu, naujai pasisavino kapitula.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus tarėjai miesto vardu reikalavo būti atleisti nuo jurisdikcijos, kurią, jų teigimu, naujai pasisavino kapitula.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     sit erecta, similibusque iuribus et

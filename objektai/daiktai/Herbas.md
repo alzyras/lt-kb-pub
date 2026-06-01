@@ -40,34 +40,13 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tą patį herbą turėję bajorai buvo laikomi giminėmis, o jiems suteikta teisė tarpusavyje tuoktis.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kiekvienas
-    bajoras, kuris turėjo herbą, su to pačio herbo bajoru skaitėsi gi­
-    minėmis; buvo suteikta teisė ir abipusėms vedyboms. Tuo keliu
-    liko abiejų valstybių aukštasis luomas suartintas. Iš čia prasi­
-    dėjo bičiulystės, kurios padėjo mūsų bajorijai sulenkėti, dėl
-    ko Lietuva ir neteko savo tautiškos aristokratijos. Šis unijos
-    punktas ir bus buvęs vienas iš žalingiausių mūsų kraštui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Įdomiausias unijos paragrafas (18) tai tas, kuriuo buvo su­
@@ -80,15 +59,13 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Aaronas]]
 - [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]

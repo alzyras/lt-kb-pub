@@ -46,7 +46,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mokėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t.'
+  teiginys: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais jau anksti mokėjo sidabrinę duoklę sidabriniais pinigais.'
   pagrindžia:
     - c-004
 
@@ -122,6 +122,7 @@ Nenurodyta
     - t-005
 
 - c-004
+  santrauka: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais jau anksti mokėjo sidabrinę duoklę sidabriniais pinigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai

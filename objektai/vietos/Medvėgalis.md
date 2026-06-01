@@ -53,9 +53,9 @@ amziai:
     - c-001
 
 - t-006
-  teiginys: '(^6) SRP, I, 186 p. (^234) II skyrius: valstybės iškilimas Wigando kronikoje pažymi, jog esą daug Medvėgalio srities kil­ mingųjų (« multi pagani maiores ») derėjosi su magistru : «jie visi jam paklustų, jeigu juos apsaugotų nuo karaliaus pykčio ir jėgos.'
+  teiginys: 'Wigando kronikoje rašoma, kad daug Medvėgalio srities kilmingųjų derėjosi su magistru dėl paklusimo mainais į apsaugą nuo karaliaus.'
   pagrindžia:
-    - c-006
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -97,6 +97,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
+    - t-006
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -122,6 +123,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-007
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -154,46 +156,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pirmasis į tą laišką dėmesį
-    atkreipė Paszkiewicz : PaJM, 283 p. 3. išn.**
-    (^6) **SRP, I, 186 p.**
-
-
-    (^234) II skyrius: valstybės iškilimas
-    Wigando kronikoje pažymi, jog esą daug Medvėgalio srities kil­
-    mingųjų (« multi pagani maiores ») derėjosi su magistru : «jie visi
-    jam paklustų, jeigu juos apsaugotų nuo karaliaus pykčio ir jėgos,
-    kadangi kitaip jie negalėtų išsigelbėti »^7.
-    Tarp dviejų ilgus metus kariaujančių pusių visada gali nutikti
-    kokių atskirų nuo bendros kovos linijos nukrypimų, gali atsirasti
-    perbėgėlių pas priešą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    9. Apie Medvėgalio pilėnus
-
-    1329 viešpaties metais  į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos
-    karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su
-    Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo, Saumburgo, Falkenšteino
-    grafais  ir Kerpeno, Geros, Bergo, Rotenšteino, Damiso, Kotbuso, Meiseno valdovais
-    bei Donos burggrafu  ir su daugybe Vokietijos bei Anglijos karalysčių kilmingųjų. Su
-    šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių  ir 18 tūkstančių karių,
-    neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų
-    pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
-    pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-007

@@ -36,7 +36,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-005
 
 - t-003
-  teiginys: 'Krikščionys demokratai ir liaudininkai, prieš tai susitarę, pareikalavo ministru pirmininku vietoje A.'
+  teiginys: 'Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.'
   pagrindžia:
     - c-007
 
@@ -48,7 +48,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - t-005
   teiginys: 'Lozoraitį, kurio linija pralaimėjo, nors Lietuvos valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.'
   pagrindžia:
-    - c-008
+    - c-005
 
 - t-006
   teiginys: 'Kairė laikėsi liaudininko M. Sleževičiaus šūkio, kad kova tęsis, kol bus sušauktas Seimas.'
@@ -56,7 +56,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-004
 
 - t-007
-  teiginys: 'Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasitikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko M.'
+  teiginys: 'Liaudininkas Mykolas Sleževičius skelbė, kad kova tęsis, kol bus sušauktas Seimas.'
   pagrindžia:
     - c-004
 
@@ -68,7 +68,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - t-009
   teiginys: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
   pagrindžia:
-    - c-009
+    - c-005
 
 - t-010
   teiginys: 'K. Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę.'
@@ -83,7 +83,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - t-012
   teiginys: 'Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime.'
   pagrindžia:
-    - c-010
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -170,6 +170,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   statusas: verified
   pagrindžia:
     - t-002
+    - t-005
+    - t-009
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -205,37 +207,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - t-003
 
 - c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
-    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
-    Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
-    valdžia stengėsi parodyti, kad iš esmės nieko neįvyko. Besąlyginis ulti-
-    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
-    jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
-    lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
-    ultraradikalieji voldemarininkai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Besąlyginis ulti-
-    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
-    jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
-    lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
-    ultraradikalieji voldemarininkai. Nuo 1938 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-010
   santrauka: 'Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -260,12 +231,14 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvių krikščionių demokratų partija]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/grupes/Voldemarininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/asmenys/Mykolas Sleževičius]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/asmenys/Antanas Merkys]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
@@ -274,7 +247,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - [[objektai/ivykiai/Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.)]]
 - [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
 - [[objektai/grupes/Ministerių kabinetas]]
-- [[objektai/asmenys/Mykolas Sleževičius]]
 - [[objektai/asmenys/V. Mironas]]
 - [[objektai/zodynas/Vieningo darbo vyriausybė]]
 - [[objektai/asmenys/Vladas Mironas]]

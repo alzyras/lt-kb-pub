@@ -23,13 +23,14 @@ Dusburgietis teigia, kad kšivickis L.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kšivickis L.'
+  teiginys: 'L. Kšivickio „Žemaičių senovė“ išleista Kaune ir Marijampolėje 1928 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'L. Kšivickio „Žemaičių senovė“ išleista Kaune ir Marijampolėje 1928 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kšivickis L. Žemaičių senovė.—Kaunas—Marijampolė, 1928.

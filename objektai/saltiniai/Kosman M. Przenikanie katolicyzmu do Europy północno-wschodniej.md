@@ -23,13 +23,14 @@ Dusburgietis teigia, kad kosman M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kosman M.'
+  teiginys: 'M. Kosmano darbas „Przenikanie katolicyzmu do Europy północno-wschodniej“ paskelbtas leidinyje „Katolicyzm średniowieczny“ 1977 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Kosmano darbas „Przenikanie katolicyzmu do Europy północno-wschodniej“ paskelbtas leidinyje „Katolicyzm średniowieczny“ 1977 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kosman M. Przenikanie katolicyzmu do Europy północno-wschodniej.—Katolicyzm

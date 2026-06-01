@@ -19,13 +19,14 @@ Be Rūdninkų, didieji Lietuvos kunigaikščiai prie pat Vil­ niaus, už Antaka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be Rūdninkų, didieji Lietuvos kunigaikščiai prie pat Vil­ niaus, už Antakalnio priemiesčio, turėjo miesto dvarą, va­ dinamą Viršupiu, o lietuviškai tai reiškia vandens paviršių.'
+  teiginys: 'Didieji Lietuvos kunigaikščiai prie Vilniaus, už Antakalnio priemiesčio, turėjo miesto dvarą, vadinamą Viršupiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didieji Lietuvos kunigaikščiai prie Vilniaus, už Antakalnio priemiesčio, turėjo miesto dvarą, vadinamą Viršupiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bažny­

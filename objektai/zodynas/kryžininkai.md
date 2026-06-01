@@ -32,7 +32,7 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: 'Po visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­ do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­ ties narsa, o pirmiausia nesulaikomas potraukis į riterystę vėl subūrė iš visų Europos šalių gausius ir pajėgius kryžininkų pulkus.'
+  teiginys: 'Konrado Valenrodo šlovė ir potraukis riterystei subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Konrado Valenrodo šlovė ir potraukis riterystei subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar leidžia kapitulai
@@ -135,11 +136,11 @@ amziai:
 - [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/autoriai/M. Perlbachas]]
-- [[objektai/autoriai/Perlbach M]]
 - [[objektai/ivykiai/Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)]]
 - [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
 - [[objektai/ivykiai/Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/grupes/Žiemgaliai]]
+- [[objektai/grupes/Europos kryžininkai]]
 - [[objektai/asmenys/Konradas Valenrodas]]

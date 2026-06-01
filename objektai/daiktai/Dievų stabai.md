@@ -40,7 +40,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Per metines viešas aukas prie aukuro ir stabo buvo meldžiamasi šėtroje.'
+  teiginys: 'Per metines viešas aukas žmonės meldėsi prie šėtroje stovinčio aukuro ir dievo stabo.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Per metines viešas aukas žmonės meldėsi prie šėtroje stovinčio aukuro ir dievo stabo.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
@@ -82,7 +83,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
-- [[objektai/asmenys/Brutenis]]
 - [[objektai/daiktai/Duona]]
 - [[objektai/daiktai/Taurės]]
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]

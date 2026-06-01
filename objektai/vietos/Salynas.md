@@ -31,20 +31,20 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 - t-001
   teiginys: '1398 m. spalio 12 d. Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-002
-  teiginys: '12 d. Salyne Vytauto ir kryžiuočių ma­ gistro suvažiavimas^1 ).'
+  teiginys: '1398 metų spalio 12 dieną Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas.'
   pagrindžia:
     - c-002
 
 - t-003
   teiginys: 'Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-004
-  teiginys: 'Tų pačių metų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­ kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­ ke, pas karalių Zigmantą.'
+  teiginys: '1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.'
   pagrindžia:
     - c-003
 
@@ -61,7 +61,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 - t-007
   teiginys: 'Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą).'
   pagrindžia:
-    - c-007
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -81,6 +81,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     - t-006
 
 - c-002
+  santrauka: '1398 metų spalio 12 dieną Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Momentas buvo labai sumaniai pa­
@@ -94,8 +95,10 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-003
+  santrauka: '1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytau­
@@ -109,6 +112,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -123,36 +127,6 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     - t-005
 
 - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Momentas buvo labai sumaniai pa­
-    sirinktas: dabar kaip tik Vytautui buvo labai reikalinga parama
-    prieš Lenkijos pretenzijas, pareikštas karalienės Jadvygos laiš­
-    ke ir totorius. Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
-    sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
-    gistro suvažiavimas^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytau­
-    tas su Jogaila tuo reikalu rūpinosi Romos kurijoj. Tų pačių
-    metų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir
-    Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­
-    kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­
-    ke, pas karalių Zigmantą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-007
   santrauka: 'Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

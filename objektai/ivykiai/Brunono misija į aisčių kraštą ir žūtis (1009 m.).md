@@ -54,8 +54,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - t-002
   teiginys: '1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.'
   pagrindžia:
-    - c-006
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -90,57 +89,6 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
     - t-001
 
 - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo
-    Annales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos
-    ir Rusijos sienos («in confinio Rusciae et Lituae ») buvo nužudytas
-    misininkas šv. Bruno su savo aštuoniolika palydovų. Pažymėjimas,
-    kad nužudymas įvykęs Lietuvos — Rusijos pasienyje (greičiausiai
-    prie Gardino — Nemuno, jotvingių žemėje), leidžia daryti išvadą,
-    jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
-    deda Lietuvos ribos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo
-    Annales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos
-    ir Rusijos sienos («in confinio Rusciae et Lituae ») buvo nužudytas
-    misininkas šv. Bruno su savo aštuoniolika palydovų. Pažymėjimas,
-    kad nužudymas įvykęs Lietuvos — Rusijos pasienyje (greičiausiai
-    prie Gardino — Nemuno, jotvingių žemėje), leidžia daryti išvadą,
-    jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
-    deda Lietuvos ribos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo
-    Annales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos
-    ir Rusijos sienos («in confinio Rusciae et Lituae ») buvo nužudytas
-    misininkas šv. Bruno su savo aštuoniolika palydovų. Pažymėjimas,
-    kad nužudymas įvykęs Lietuvos — Rusijos pasienyje (greičiausiai
-    prie Gardino — Nemuno, jotvingių žemėje), leidžia daryti išvadą,
-    jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
-    deda Lietuvos ribos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo

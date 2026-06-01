@@ -91,6 +91,4 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Balys Gajauskas]]
-- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
 - [[objektai/grupes/Lietuvos disidentai]]
-- [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai]]

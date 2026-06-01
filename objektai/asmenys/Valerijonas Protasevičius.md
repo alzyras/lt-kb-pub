@@ -35,7 +35,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - t-002
   teiginys: 'G) Apie kai kuriuos Akademijai ir Valerijono bursai funduotus turtus • 1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
   pagrindžia:
-    - c-015
+    - c-013
 
 - t-003
   teiginys: 'Tėvas ponas Valerijonas, Vilniaus vyskupas, vykdydamas savo prievolę ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos įtraukti į sutartį.'
@@ -58,9 +58,9 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-004
 
 - t-007
-  teiginys: 'Valerijonas Protasevičius taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi, santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­ gusto seserimi.'
+  teiginys: 'Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką.'
   pagrindžia:
-    - c-017
+    - c-015
 
 - t-008
   teiginys: 'Valerijonas Protasevičius paprieštaravo, kad religijos laisvės sąlyga būtų įtraukta į sutartį.'
@@ -70,7 +70,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - t-009
   teiginys: 'Valerijonas Protasevičius įsteigė neturtingiems studentams Valerijono bursą ir padovanojo jai tris mūrinius namus.'
   pagrindžia:
-    - c-016
+    - c-005
 
 - t-010
   teiginys: 'Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui Vilniuje įkurti kolegiją.'
@@ -88,7 +88,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-002
 
 - t-013
-  teiginys: 'Bet negalime karštai negirti to paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­ žinės atvirumą, pareigingumą, pamaldumą ir tikėjimą, kai šios rūšies sąlygas atmetė ir taip pat mus ragino ir įspėjo, kad su ja nesutiktume, ir šio dalyko paliudijimą.'
+  teiginys: 'Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino valdovą su jomis nesutikti.'
   pagrindžia:
     - c-007
 
@@ -108,12 +108,12 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-011
 
 - t-017
-  teiginys: 'O Vilniaus vyskupas Vale­ rijonas Protasevičius, uždegtas kapitulos pastangų, nors su­ tramdo sunkiai atremiamus ginčus, bet matydamas, kad įprastu būdu nieko neįrodys, pirmasis 1569 metais į Vilnių pakviečia jėzuitų ordiną48.'
+  teiginys: 'Valerijonas Protasevičius 1569 metais pirmasis pakvietė jėzuitų ordiną į Vilnių.'
   pagrindžia:
     - c-006
 
 - t-018
-  teiginys: 'Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57.'
+  teiginys: 'Valerijonas Protasevičius fundavo ir aprūpino jėzuitų kolegiją, kurią karalius pakėlė iki universiteto laipsnio.'
   pagrindžia:
     - c-005
 
@@ -183,6 +183,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - t-006
 
 - c-005
+  santrauka: 'Valerijonas Protasevičius fundavo ir aprūpino jėzuitų kolegiją, kurią karalius pakėlė iki universiteto laipsnio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vyskupo Protasevičiaus
@@ -203,8 +204,10 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   statusas: verified
   pagrindžia:
     - t-018
+    - t-009
 
 - c-006
+  santrauka: 'Valerijonas Protasevičius 1569 metais pirmasis pakvietė jėzuitų ordiną į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O Vilniaus vyskupas Vale­
@@ -230,6 +233,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - t-017
 
 - c-007
+  santrauka: 'Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino valdovą su jomis nesutikti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi mes nusprendėme taip ir padaryti,
@@ -407,6 +411,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   statusas: verified
   pagrindžia:
     - t-014
+    - t-002
 
 - c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -432,45 +437,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - t-015
 
 - c-015
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nuo sklypų Užupyje - 168 auks.
-    Summa facit [suma sudaro] -468 auks.
-    G) Apie kai kuriuos Akademijai ir
-    Valerijono bursai funduotus turtus
-    •
-    1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Pro-
-    tasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-
-    davo ir įsteigė įvairių mokslų viešąsias mokyklas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-016
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vyskupo Protasevičiaus
-    funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­
-    kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­
-    rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai
-    išleisti dekretai57. Neapsiribodamas pavyzdžio verta savo
-    labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
-    gė neturtingiems studentams bursą, pavadintą Valerijono
-    vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
-    jėzuitų priežiūrai ir globai58. Protasevičiaus pėdomis sekė ir
-    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
-    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
-    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
-    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-017
+  santrauka: 'Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     La­
@@ -515,6 +482,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje]]

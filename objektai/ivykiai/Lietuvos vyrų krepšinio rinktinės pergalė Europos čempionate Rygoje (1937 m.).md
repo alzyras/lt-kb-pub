@@ -63,4 +63,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]

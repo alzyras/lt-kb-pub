@@ -25,13 +25,14 @@ Dusburgietis teigia, kad rybelis A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad rybelis A.'
+  teiginys: 'A. Rybelis parašė darbą „Senoji lietuvių pasaulėžiūra“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Rybelis parašė darbą „Senoji lietuvių pasaulėžiūra“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Rybelis A. Senoji lietuvių pasaulėžiūra.— Lietuvių filosofijos istorijos bruožai, V., 1978,

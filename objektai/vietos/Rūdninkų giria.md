@@ -23,7 +23,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
     - c-002
 
 - t-002
-  teiginys: 'Seniau Rūdninkų girios išties buvo ne­ peržengiamos ir žmonių neištirtos, nes žemvaldžių miškuo­ se, nuo Rūdninkų link Ašmenos ir Lydos besidriekiančiuo­ se, kaip ir pas mane, Jašiūnuose, kur ne kur stūkso pilkapiai - nenuginčijami žmonių gyvenimo nuo.'
+  teiginys: 'Rūdninkų girios seniau buvo laikomos neperžengiamomis ir žmonių neištirtomis.'
   pagrindžia:
     - c-003
 
@@ -66,6 +66,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
     - t-001
 
 - c-003
+  santrauka: 'Rūdninkų girios seniau buvo laikomos neperžengiamomis ir žmonių neištirtomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pati vietovė, su­

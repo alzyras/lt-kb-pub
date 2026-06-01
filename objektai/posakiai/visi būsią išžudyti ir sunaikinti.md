@@ -24,13 +24,14 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų gyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai.'
+  teiginys: 'Pagudėnai grasino krikščionims, kad šie bus išžudyti ir sunaikinti, jei neatiduos pilies ir nepasiduos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagudėnai grasino krikščionims, kad šie bus išžudyti ir sunaikinti, jei neatiduos pilies ir nepasiduos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti

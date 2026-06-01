@@ -26,62 +26,46 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
 - t-001
   teiginys: 'Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus.'
   pagrindžia:
-    - c-001
+    - c-005
 
 - t-002
   teiginys: 'Nuo XII amžiaus antros pusės ginkluoti plėšiamieji puolimai pasiekdavo Novgorodo prekybos respubliką.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Prieš Algirdo mirtį Naugarde laimėjo Maskvos įtaka, ir 1375 m. Didysis Naugardas padarė sutartį su Dimitru.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
-  teiginys: 'Naugardiečiai gynėsi teigdami, kad su Maskva, Lietuva ir vokiečiais jau turi atskiras taikos sutartis.'
+  teiginys: 'Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.'
   pagrindžia:
-    - c-009
-    - c-006
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Vytautui gyvenimo pabaigoje pasisekė paimti savo įtakon Pskovą ir Didįjį Naugardą.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Nuo XII amž. antros pusės yra žinomi tokių burių ginkluoti plėšiamieji puolimai iki pat turtingųjų prekybos respublikų (Pskovo, Novgorodo) šiaurėje.'
   pagrindžia:
-    - c-007
+    - c-001
 
 - t-007
   teiginys: 'Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų.'
   pagrindžia:
-    - c-008
+    - c-005
 
 - t-008
   teiginys: 'Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją priversti paklusti.'
   pagrindžia:
-    - c-010
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^122) I SKYRIUS: LIETUVOS PROISTORĖ
-    kodėl lietuvių kunigaikščiai nuvesdavo savo karinius būrius gana
-    toli, kur buvo daugiau ko grobti. Jie pasiekdavo plotus turtingųjų
-    Didžiojo Naugardo ir Pskovo respublikų. Rytuose jie atsitrenkdavo
-    į tolimus Dniepro plotus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dažnai toks lietuvių ku­
@@ -97,8 +81,9 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   statusas: verified
   pagrindžia:
     - t-002
+    - t-006
 
-- c-003
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kartais tos kunigaikštijos taip pasiprie­
@@ -112,8 +97,10 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   statusas: verified
   pagrindžia:
     - t-003
+    - t-008
 
-- c-004
+- c-003
+  santrauka: 'Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Čia Vytautas rūpinosi
@@ -132,7 +119,7 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Čia jam pasidavė Liubutsko,
@@ -148,43 +135,7 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   pagrindžia:
     - t-005
 
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Čia Vytautas rūpinosi
-    išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
-    aptarti ir kitokie reikalai. Mes žinom, kad abu kunigaikščiai
-    iš Kolomnos pasiuntė į Didįjį Naugardą savo pasiuntinį, kad šis
-    įsakytų jam pradėti karą su vokiečiais. Naugardiečiai atsakė,
-    kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais
-    yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­
-    tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
-    koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
-    dininkus ir kryžiuočius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-007
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dažnai toks lietuvių ku­
-    nigas buvo vadinamas ir « dux », nes kaimynų kronikose tarp pa­
-    gonių žygių vadų ir savo pilyse sėdinčiųjų atskirų sričių valdytojų
-    nebuvo daroma skirtumo. Lietuvių žygiuose kartais dalyvaudavo
-    net keliolika atskiras plačias gimines atstovaujančių kunigų, kurie
-    iš savo tarpo išsirinkdavo vadą. Nuo XII amž. antros pusės yra
-    žinomi tokių burių ginkluoti plėšiamieji puolimai iki pat turtingųjų
-    prekybos respublikų (Pskovo, Novgorodo) šiaurėje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-008
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Todėl suprantama,
@@ -200,40 +151,7 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-009
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Čia Vytautas rūpinosi
-    išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
-    aptarti ir kitokie reikalai. Mes žinom, kad abu kunigaikščiai
-    iš Kolomnos pasiuntė į Didįjį Naugardą savo pasiuntinį, kad šis
-    įsakytų jam pradėti karą su vokiečiais. Naugardiečiai atsakė,
-    kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais
-    yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­
-    tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
-    koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
-    dininkus ir kryžiuočius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-010
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kartais tos kunigaikštijos taip pasiprie­
-    šindavo abiem varžovam, jog išsikovodavo visišką nepriklausomu­
-    mą, kaip pvz., Pskovas. Ilgą laiką panašiai buvo ir su Naugardo
-    respublika, nors Algirdas siekė ją priversti paklusti. Prieš Algirdo
-    mirtį ten laimėjo pagaliau Maskvos įtaka, kurios pasėkoje 1375
-    D. Naugardas su Dimitru padarė sutartį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

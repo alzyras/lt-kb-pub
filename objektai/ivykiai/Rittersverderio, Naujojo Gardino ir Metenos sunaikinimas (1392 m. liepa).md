@@ -41,7 +41,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po to skubiai atvyko prie Gardino, jį labai sustiprino ir tuojau atsigrę­ žė prieš Neu-Gardiną ir Meteną.'
+  teiginys: '1392 m. Vytautas sustiprino Gardiną, atsigręžė prieš Naująjį Gardiną ir Meteną, sunaikino šias pilis bei paėmė Ordino karius ir pirklius į nelaisvę.'
   pagrindžia:
     - c-001
 
@@ -53,6 +53,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1392 m. Vytautas sustiprino Gardiną, atsigręžė prieš Naująjį Gardiną ir Meteną, sunaikino šias pilis bei paėmė Ordino karius ir pirklius į nelaisvę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Po to

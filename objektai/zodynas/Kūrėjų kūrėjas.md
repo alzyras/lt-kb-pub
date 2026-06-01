@@ -24,7 +24,7 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jis siejamas su gyvenimu prie žinyčios ir su Perūno atsakais.'
+  teiginys: 'Kūrėjų kūrėjas vienintelis galėjo įeiti į nurodytą vietą ir klausiantiems duodavo atsakus Perūno vardu.'
   pagrindžia:
     - c-002
 
@@ -35,7 +35,7 @@ Vartojamos formos: `kūrėjų kūrėjo`.
     - c-002
 
 - t-003
-  teiginys: 'Šiam asmeniui priskiriama teisė skelbti dievų valią.'
+  teiginys: 'Kūrėjų kūrėjas vienas valdė žynius, davė jiems įsakymus ir per tarnus skelbė iš dievų gautą pamokslą.'
   pagrindžia:
     - c-001
 
@@ -69,7 +69,6 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/zodynas/Valdymieras|valdymieras]]
 - [[objektai/daiktai/Dievų stabai]]
 - [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai]]

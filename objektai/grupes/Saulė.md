@@ -34,7 +34,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - t-002
   teiginys: '„Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius prekybai ir vartotojų bendrovėms reikalingus žmones.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -56,22 +56,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ypač plačiai buvo užsimojusi „Sau-
-    lė". Jos rūpesčiu buvo įkurta nemaža pradžios mokyklų, skai-
-    tyklų ir pedagoginiai kursai Kaune, iš kurių išėjo daug tautiš-
-    kai susipratusių mokytojų ir šiaip apsišvietusių veikėjų. Kylant
-    lietuvių tarpe kaskart vis didesniam susidomėjimui prekyba ir
-    visam krašte steigiantis vartotojų bendrovėms (koperatyvams),
-    „Saulės" draugija taip pat Kaune įsteigė buhalterijos
-    kursus, kurie ruošė tam darbui tinkamus žmones.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -81,3 +65,4 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - [[objektai/autoriai/V. Pisani]]
 - [[objektai/asmenys/Visvaldis]]
 - [[objektai/autoriai/W. Schmidt]]
+- [[objektai/daiktai/Šarvai]]

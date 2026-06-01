@@ -51,13 +51,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Palaikydamas gerus santykius su pirkliais, Vytautas įsigijo didelių aukso ir sidabro turtų.'
+  teiginys: 'Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Palaikė gerus santykius ir su pirkliais. Jų padedamas įsigi­
@@ -88,5 +89,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Karinė ginkluotė]]

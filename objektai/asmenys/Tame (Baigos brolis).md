@@ -99,4 +99,5 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 - [[objektai/posakiai/težino vienas dievas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vasalas]]
+- [[objektai/asmenys/Šventaragis]]
 - [[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje|Žuvų tvenkinys Ragainės pilyje (pilis)]]

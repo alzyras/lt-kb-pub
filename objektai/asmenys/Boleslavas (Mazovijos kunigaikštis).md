@@ -27,13 +27,14 @@ Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­ tystę galės ki
 ## Teiginiai
 
 - t-001
-  teiginys: 'Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­ tystę galės kiekvienas saugiai atvykti į mano valdomą žemę.'
+  teiginys: '1323 m. laiške nurodyta, kad per Mazovijos kunigaikščio Boleslavo valdas buvo galima saugiai atvykti į Vilniuje valdomą žemę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1323 m. laiške nurodyta, kad per Mazovijos kunigaikščio Boleslavo valdas buvo galima saugiai atvykti į Vilniuje valdomą žemę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šio antspaudo niekintojus šiuo savo laišku pasmerkiame

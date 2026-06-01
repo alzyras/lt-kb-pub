@@ -29,23 +29,24 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iš liudininkų paminė­ ti: Petrus Skarga Condonator, Augus­ tinus Rotundus Mieleski, juris Utriusque Doctor, Secretarius Regius, Capitaneus in Stokliszki, Civitatis Re­ giae Vilnensis Advocatus [Petras Skar­ ga, pamokslininkas, Augustinas Ro­ tundas Mieleskis.'
+  teiginys: 'Augustinas Rotundas Mieleskis 1579 m. buvo paminėtas kaip liudininkas, abiejų teisių daktaras ir karališkasis sekretorius.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augustinas Milesijus (Mieleskis), Vil­ niaus vaitas.'
+  teiginys: 'Rotundas Augustinas Milesijus Mieleskis buvo Vilniaus vaitas ir 1569 m. išrinktas į komisiją Lietuvos įstatymams pataisyti.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Augustas Rotundas Milesijus arba Mielickis, kaip jį vadina Igna­ cas Potockis, buvo kilęs iš bajorų, nes kur tik miesto aktuose sutikau jo pa­ vardę, visur buvo pridėta Nobilis [bajoras].'
+  teiginys: 'Augustinas Rotundas Mieleskis buvo kilęs iš bajorų, nes miesto aktuose prie jo pavardės rašyta „Nobilis“.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Augustinas Rotundas Mieleskis 1579 m. buvo paminėtas kaip liudininkas, abiejų teisių daktaras ir karališkasis sekretorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Christi
@@ -74,6 +75,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
     - t-001
 
 - c-002
+  santrauka: 'Rotundas Augustinas Milesijus Mieleskis buvo Vilniaus vaitas ir 1569 m. išrinktas į komisiją Lietuvos įstatymams pataisyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anuo metu Vilnius galėjo drąsiai ir sumaniai atremti mies­
@@ -93,6 +95,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
     - t-002
 
 - c-003
+  santrauka: 'Augustinas Rotundas Mieleskis buvo kilęs iš bajorų, nes miesto aktuose prie jo pavardės rašyta „Nobilis“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     T. III,
@@ -117,4 +120,5 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
 ### Susiję objektai
 - [[objektai/grupes/Lotynai]]
 - [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Augustinas]]
 - [[objektai/zodynas/vaitas]]

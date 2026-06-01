@@ -59,9 +59,9 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     - c-003
 
 - t-005
-  teiginys: 'Ypač pagarsėjo Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­ ventojai.'
+  teiginys: 'Vilniuje veikusiai Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.'
   pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -86,6 +86,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   pagrindžia:
     - t-001
     - t-002
+    - t-005
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -121,27 +122,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   pagrindžia:
     - t-004
 
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Legaliai veikė įvai­
-    rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
-    tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­
-    spektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo
-    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
-    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
-    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
-    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
-    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
-    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
-    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
-    viu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Balinskis]]
@@ -158,6 +138,5 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - [[objektai/asmenys/Jokūbas Šimkevičius]]
 - [[objektai/asmenys/Juozapas Zavadskis]]
 - [[objektai/asmenys/Kazimieras Kontrimas]]
-- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/asmenys/Janas Lasickis]]
 - [[objektai/autoriai/Janas Lasickis Joh. Lasicius]]

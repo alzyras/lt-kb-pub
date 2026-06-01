@@ -17,13 +17,14 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
 ## Teiginiai
 
 - t-001
-  teiginys: 'Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­ rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.'
+  teiginys: 'M. Balinskis Gazeta Warszawska straipsniuose skaitytojams pristatė Lauryno Ivinskio kalendorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Balinskis Gazeta Warszawska straipsniuose skaitytojams pristatė Lauryno Ivinskio kalendorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kituose Gazeta Warszawska spausdintuose straipsniuo­

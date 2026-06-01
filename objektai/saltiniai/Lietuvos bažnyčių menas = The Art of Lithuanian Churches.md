@@ -24,31 +24,14 @@ Lietuvos bažnyčių menas = The Art of Lithuanian Churches.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuvos bažnyčių menas = The Art of Lithuanian Churches išleistas Vilniuje 1999 m.'
+  teiginys: 'Leidinys „Lietuvos bažnyčių menas = The Art of Lithuanian Churches“ buvo išleistas Vilniuje 1993 m.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Vilnius, 1999; Lietuvos bažnyčių menas = The Art of Lithuanian Churches.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 2011; Lietuva žemėlapiuose:
-    = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
-    Aldona Bieliūnienė ir kiti. Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
-    Lithuanian Churches.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Leidinys „Lietuvos bažnyčių menas = The Art of Lithuanian Churches“ buvo išleistas Vilniuje 1993 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Parengė
@@ -60,4 +43,4 @@ Lietuvos bažnyčių menas = The Art of Lithuanian Churches.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

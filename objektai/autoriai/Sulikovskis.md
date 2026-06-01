@@ -18,13 +18,14 @@ Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papro
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papročiu, Bekešo pa­ laikai buvę palaidoti po apvaliu bokštu.'
+  teiginys: 'Sulikovskis pasakojo, kad Kasparo Bekešo palaikai užsienietišku papročiu buvo palaidoti po apvaliu bokštu prie Vilniaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sulikovskis pasakojo, kad Kasparo Bekešo palaikai užsienietišku papročiu buvo palaidoti po apvaliu bokštu prie Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau amžininkas rašytojas

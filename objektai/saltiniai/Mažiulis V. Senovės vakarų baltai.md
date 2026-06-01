@@ -23,13 +23,14 @@ Dusburgietis teigia, kad mažiulis V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mažiulis V.'
+  teiginys: 'V. Mažiulio „Senovės vakarų baltai“ paskelbta MG 1981 m. Nr. 2, p. 7–8.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Mažiulio „Senovės vakarų baltai“ paskelbta MG 1981 m. Nr. 2, p. 7–8.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.

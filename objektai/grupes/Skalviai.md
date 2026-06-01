@@ -25,7 +25,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - t-001
   teiginys: 'Dusburgietis teigia, kad tepenas, remdamasis įvairiais rašytiniais šaltiniais, priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9.'
   pagrindžia:
-    - c-015
+    - c-012
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
@@ -35,7 +35,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - t-003
   teiginys: 'Dusburgietis teigia, kad tad magistras ir broliai, norėdami atkeršyti, subūrė stiprią kariuomenę, kuri, įsibrovusi į Skalvos žemę, nusiaubė ją skersai ir išilgai, plėšdama ir degindama, toje jos dalyje, kuri susisiekia su Prūsijos žeme471, daug žmonių išžudė, o moteris ir vaikus.'
   pagrindžia:
-    - c-014
+    - c-007
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
@@ -55,12 +55,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - t-007
   teiginys: 'Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.'
   pagrindžia:
-    - c-011
+    - c-004
 
 - t-008
   teiginys: 'Dusburgietis teigia, kad materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių (žemutinių lietuvių) ir latvių13.'
   pagrindžia:
-    - c-017
+    - c-010
 
 - t-009
   teiginys: 'Dusburgietis teigia, kad apie Labguvos pilies sunaikinimą Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji [seniores populi] pradėjo tartis, kaip atkeršyti.'
@@ -68,9 +68,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-003
 
 - t-010
-  teiginys: 'Dusburgietis teigia, kad archeologijos duomenys rodo, jog skalvių gentinė kultūra buvusi ryški (ypač Nemuno ir Jūros santakos rajone) nuo mūsų eros pradžios (LAA, 3, p. 10, 17—18 ir žemėlapiai 7—9 ir kt.; Engei K.'
+  teiginys: 'Archeologijos duomenys rodo, kad skalvių gentinė kultūra Nemuno ir Jūros santakos rajone buvo ryški nuo mūsų eros pradžios.'
   pagrindžia:
-    - c-016
+    - c-013
 
 - t-011
   teiginys: 'Dusburgietis teigia, kad pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai.'
@@ -140,6 +140,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   statusas: verified
   pagrindžia:
     - t-009
+    - t-015
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -164,6 +165,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-007
 
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -217,6 +219,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   statusas: verified
   pagrindžia:
     - t-012
+    - t-003
 
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -249,6 +252,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   statusas: verified
   pagrindžia:
     - t-006
+    - t-016
 
 - c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -264,30 +268,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   statusas: verified
   pagrindžia:
     - t-011
+    - t-008
 
 - c-011
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
-    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
-    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
-    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
-    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
-    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
-    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
-    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
-
-
-
-
-     236 (229).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
@@ -301,38 +284,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   pagrindžia:
     - t-007
 
-- c-013
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji
-    [seniores populi] pradėjo tartis, kaip atkeršyti. Vienu balsu visi nusprendė pasiųsti į žygį
-    400 rinktinių vyrų, kurie, laivais priplaukę brolių pilį Labguvą470, staiga ją apyaušryje
-    užėmė, kai žmonės ilsėjosi savo guoliuose, išžudė ten visus vyrus, sudegino  pilį, o
-    moteris ir vaikus išsivedė su savimi drauge su didžiausiu grobiu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-014
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kadangi lengvai pelnomas atleidimas skatina dar daugiau nusidėti, reikėjo, kad skalviai
-    už šitokį akiplėšišką nusikaltimą gautų sunkią bausmę, antraip jie  ir ateityje galėtų
-    mėginti šitaip nusižengti. Tad magistras  ir broliai, norėdami atkeršyti, subūrė stiprią
-    kariuomenę, kuri, įsibrovusi  į Skalvos žemę, nusiaubė ją skersai ir išilgai, plėšdama ir
-    degindama, toje jos dalyje, kuri susisiekia su Prūsijos žeme471, daug žmonių išžudė, o
-    moteris ir vaikus surištus išsivarė. Tuo metu Stinigutas472, skalvių vadas, ėmė juos vytis
-    su didele kariuomene, o magistras ir broliai, šitai pastebėję, slaptai paspendė pasalas,
-    užpuolė žygiuojančią skalvių kariuomenę, daug jų nukovė, o kitus privertė bėgti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-015
+- c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Savo ruožtu dar XIX  a. M. Tepenas, remdamasis  įvairiais  rašytiniais  šaltiniais,
@@ -345,7 +297,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   pagrindžia:
     - t-001
 
-- c-016
+- c-013
+  santrauka: 'Archeologijos duomenys rodo, kad skalvių gentinė kultūra Nemuno ir Jūros santakos rajone buvo ryški nuo mūsų eros pradžios.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Archeologijos duomenys rodo, jog skalvių gentinė kultūra buvusi ryški (ypač Nemuno
@@ -357,55 +310,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   statusas: verified
   pagrindžia:
     - t-010
-
-- c-017
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
-    Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
-    prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,
-    žemaičių (žemutinių lietuvių) ir latvių13.
-      Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
-    baltų, kuriais laikytini ir kuršiai.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-018
-  santrauka: 'Dusburgietis teigia, kad apie Labguvos pilies sunaikinimą Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji [seniores populi] pradėjo tartis, kaip atkeršyti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    184 (179). Apie Labguvos pilies sunaikinimą
-
-       Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji
-    [seniores populi] pradėjo tartis, kaip atkeršyti. Vienu balsu visi nusprendė pasiųsti į žygį
-    400 rinktinių vyrų, kurie, laivais priplaukę brolių pilį Labguvą470, staiga ją apyaušryje
-    užėmė, kai žmonės ilsėjosi savo guoliuose, išžudė ten visus vyrus, sudegino  pilį, o
-    moteris ir vaikus išsivedė su savimi drauge su didžiausiu grobiu.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-015
-
-- c-019
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo apleista Skalvos žemė Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    188 (183). Apie tai, kaip buvo apleista Skalvos žemė
-
-      Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai
-    galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta
-    ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai
-    palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po
-    kito patraukė pas brolius su visais savo namais ir šeimyna.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-016
 
 ## Ryšiai
 ### Susiję objektai
@@ -426,15 +330,11 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - [[objektai/asmenys/Albrechtas iš Hageno]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/autoriai/Clasen-Sandt K]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
-- [[objektai/autoriai/Engei K]]
 - [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti]]
 - [[objektai/asmenys/Jonas, vadinamas Pope]]
 - [[objektai/asmenys/Konradas (Skalvių pilies gynėjas)]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/autoriai/La Baume W]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/M. Tepenas]]
 - [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
@@ -448,7 +348,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]
 - [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema)]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/autoriai/Tautavičius A]]
 - [[objektai/zodynas/fogtas]]
 - [[objektai/zodynas/ginklanešys]]
 - [[objektai/posakiai/kol dar jiems bus likę kas daro]]

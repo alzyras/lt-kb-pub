@@ -33,17 +33,17 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 - t-001
   teiginys: 'Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
-  teiginys: 'Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupijų globėju, patvirtino Žemaičių vyskupiją ir apgynė ją nuo Rygos arkivyskupo pretenzijų, parėmė Vytauto žygius prieš totorius, uždedamas kunigijai kontribuciją (1424) tiems reikalams.'
+  teiginys: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-003
   teiginys: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-004
   teiginys: 'Martyno V valdymo laikotarpis 1417–1431 m. sutapo su Vytauto įsigalėjimu Lietuvos bažnytiniame gyvenime.'
@@ -53,42 +53,32 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 - t-005
   teiginys: 'Popiežius Martynas V draudė kištis į lenkų ir lietuvių reikalus.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-006
   teiginys: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.'
   pagrindžia:
-    - c-003
+    - c-007
 
 - t-007
-  teiginys: 'Popiežius Martynas V, Konstan­ cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė (1417.'
-  pagrindžia:
-    - c-004
-
-- t-008
-  teiginys: 'Vytautas ir Jogaila, kovodami prieš Breslavo sprendimą, siekė iškelti Ordinui bylą pas popiežių Martyną V.'
-  pagrindžia:
-    - c-014
-
-- t-009
-  teiginys: 'Vytautas su Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė iškelt Ordinui bylą ir pas popiežių Martyną V.'
-  pagrindžia:
-    - c-012
-
-- t-010
   teiginys: 'Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.'
   pagrindžia:
+    - c-003
+
+- t-008
+  teiginys: 'Vytautas ir Jogaila siekė iškelti Ordino bylą popiežiui Martynui V, kovodami prieš Breslavo sprendimą.'
+  pagrindžia:
     - c-010
+
+- t-009
+  teiginys: 'Popiežiui Martynui V Vytautas ir Jogaila pateikė bylą prieš Ordiną, kovodami prieš Breslavo sprendimą.'
+  pagrindžia:
+    - c-009
 
 - t-011
   teiginys: 'Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.'
   pagrindžia:
-    - c-011
-
-- t-012
-  teiginys: 'Taip pat po­ piežius Martynas V galutinai patvirtino ir Žemaičių vyskupiją.'
-  pagrindžia:
-    - c-015
+    - c-008
 
 - t-013
   teiginys: 'Popiežius Martynas V 1421 m. rugsėjo 11 d. bule „Mirabilis Deus“ patvirtino savarankišką Žemaičių vyskupiją.'
@@ -98,7 +88,7 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 - t-014
   teiginys: 'Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų 83 Popiežius Martynas V 1428 m.'
   pagrindžia:
-    - c-008
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -131,27 +121,7 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - t-004
 
 - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Martynas V pa­
-    skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupijų
-    globėju, patvirtino Žemaičių vyskupiją ir apgynė ją nuo Rygos
-    arkivyskupo pretenzijų, parėmė Vytauto žygius prieš totorius,
-    uždedamas kunigijai kontribuciją (1424) tiems reikalams, leido
-    kurti Kamienco vyskupiją, suteikė indulgencijų jam ir jo pata­
-    rėjams. Iš kitos pusės, Martynas V dėl kai kurių dalykų Vy­
-    tautui ir nepritarė; jis neaprobavo Vytauto sumanymo suvie­
-    nyti abi Bažnyčias, nesutiko įkurti atskiros Lietuvai metropoli­
-    jos, draudė Vytautui remti husitus, nepritarė Vytauto karūna­
-    cijai. Taigi Vytautas turėjo su Martynu V gerų ir blogų santy­
-    kių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-004
+  santrauka: 'Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Konstanci­
@@ -168,8 +138,9 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   statusas: verified
   pagrindžia:
     - t-007
+    - t-010
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių,
@@ -185,7 +156,7 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ambicija to žmogaus buvo pašėlusi; tą senų seniau­
@@ -202,8 +173,9 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   statusas: verified
   pagrindžia:
     - t-005
+    - t-014
 
-- c-007
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­
@@ -222,25 +194,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   pagrindžia:
     - t-003
 
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ambicija to žmogaus buvo pašėlusi; tą senų seniau­
-    siai buvo patyręs Zigmantas, o kryžiuočiai dar geriau žino­
-    jo. Kurstė ją tad visokiausiais būdais, karūnos Lietuvai pel­
-    nymą vaizduodami puikiausiu atpildu Vytautui už jo
-    laimėjimus, nenuilsdami stengėsi dvejus metus. Nepadėjo
-    šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis
-    kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų
-    83
-    Popiežius Martynas V 1428 m. rašė Rusios karaliumi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-009
+- c-007
+  santrauka: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas vedė su juo labai plačią korespondenciją vi­
@@ -260,26 +215,9 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   statusas: verified
   pagrindžia:
     - t-002
+    - t-006
 
-- c-010
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Konstanci­
-    jos susirikimas Vytautą padarė Livonijos vyskupų globė­
-    ju, nes šias vyskupijas Livonijos Ordinas, savo nepasotinama po­
-    litika, dažnai nuskriausdavo. Popiežius Martynas V, Konstan­
-    cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė
-    (1417. V. 13) savo vikarais pasauliniuose dalykuose Lietuvai
-    ir Rusijai, pavesdamas jiems kurti bažnyčias, lengvinti kuni­
-    gams žmonių krikštijimą, globoti kunigiją ir tikinčiuosius, ginti
-    tikėjimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-011
+- c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš Žemaičių krašto ir dalies
@@ -292,8 +230,10 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   statusas: verified
   pagrindžia:
     - t-011
+    - t-012
 
-- c-012
+- c-009
+  santrauka: 'Popiežiui Martynui V Vytautas ir Jogaila pateikė bylą prieš Ordiną, kovodami prieš Breslavo sprendimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietuvių ir lenkų atstovai bendrai pareiškė
@@ -307,23 +247,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   pagrindžia:
     - t-009
 
-- c-013
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Konstanci­
-    jos susirikimas Vytautą padarė Livonijos vyskupų globė­
-    ju, nes šias vyskupijas Livonijos Ordinas, savo nepasotinama po­
-    litika, dažnai nuskriausdavo. Popiežius Martynas V, Konstan­
-    cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė
-    (1417. V. 13) savo vikarais pasauliniuose dalykuose Lietuvai
-    ir Rusijai, pavesdamas jiems kurti bažnyčias, lengvinti kuni­
-    gams žmonių krikštijimą, globoti kunigiją ir tikinčiuosius, ginti
-    tikėjimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-014
+- c-010
+  santrauka: 'Vytautas ir Jogaila siekė iškelti Ordino bylą popiežiui Martynui V, kovodami prieš Breslavo sprendimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Maža to. Vytautas su
@@ -336,20 +261,6 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   statusas: verified
   pagrindžia:
     - t-008
-
-- c-015
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Iš Žemaičių krašto ir dalies
-    Sūdavijos (Užnemunio) Vytautas įkūrė Žemaičių seniūniją, ku­
-    ri gavo lygias teises su Lietuvos vaivadijomis. Taip pat po­
-    piežius Martynas V galutinai patvirtino ir Žemaičių vyskupiją.
-    Taigi šito Lietuvos krašto reikalai buvo visiškai sutvarkyti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
 
 ## Ryšiai
 ### Susiję objektai
@@ -368,3 +279,4 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 - [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Katalikų Bažnyčia]]

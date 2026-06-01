@@ -20,23 +20,24 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
+  teiginys: 'Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise savo asmenų ir valdinių bylose.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­ reigas oficijolo paprastai būdavo iškviečiami, teisiami ir ekskomunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­ mą, kadangi.'
+  teiginys: 'Vilniaus miestiečiai anksčiau būdavo ekskomunikuojami Vilniaus vyskupo, vikaro arba oficijolo.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Taigi tokius paprotinės tei­ sės ir bažnyčios valdinių niekintojus teisingai ir teisėtai ka­ pitulos buvo nuspręsta ekskomunikuoti; ir yra pripažinta, kad tai nėra nauja, kadangi tokios yra ir kitos katedrų baž­ nyčios, konkrečiai Krokuvos, kurios pavyzdžiu.'
+  teiginys: 'Vilniaus kapitula teigė turėjusi teisę ekskomunikuoti paprotinės teisės ir bažnyčios valdinių niekintojus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus kapitula teigė turėjusi teisę ekskomunikuoti paprotinės teisės ir bažnyčios valdinių niekintojus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O prelatai ir kanauninkai
@@ -85,6 +86,7 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
     - t-003
 
 - c-002
+  santrauka: 'Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise savo asmenų ir valdinių bylose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi mes, pamatę [abiejų] pusių
@@ -109,6 +111,7 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
     - t-001
 
 - c-003
+  santrauka: 'Vilniaus miestiečiai anksčiau būdavo ekskomunikuojami Vilniaus vyskupo, vikaro arba oficijolo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad mus
@@ -157,5 +160,7 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 - [[objektai/zodynas/oficijolas]]
 - [[objektai/zodynas/prelatai ir kanauninkai]]
 - [[objektai/zodynas/vaitas]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/zodynas/ekskomunikuoti]]
 - [[objektai/grupes/Apaštalų Sostas]]
 - [[objektai/grupes/Vilniaus magistratas]]

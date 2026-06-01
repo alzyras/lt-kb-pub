@@ -23,13 +23,14 @@ Dusburgietis teigia, kad pollakówna M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pollakówna M.'
+  teiginys: 'M. Pollakównos straipsnis apie Petro Dusburgiečio kronikos cenzūravimą paskelbtas 1970 m. Poznanėje išleistame rinkinyje, p. 127–134.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Pollakównos straipsnis apie Petro Dusburgiečio kronikos cenzūravimą paskelbtas 1970 m. Poznanėje išleistame rinkinyje, p. 127–134.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pollakówna  M.  Sprawa  ocenzurowania  kroniki  Piotra  z  Dusburga.—Europa—

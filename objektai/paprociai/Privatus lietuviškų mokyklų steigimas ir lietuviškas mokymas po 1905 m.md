@@ -49,24 +49,11 @@ Nenurodyta
 - t-003
   teiginys: 'Be to, mokyklas leista steigti ir privatiems asmenims bei visuomeninėms organizacijoms, jose galėjo būti mokoma ir lietuvių, taip pat lenkų kalba.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Daugiausia – apie 70 – tokių pradžios mokyklų, kuriose dėstoma lietuvių
-    kalba, įsteigė katalikiškos draugijos. Užnemunėje veikė ir privati moterų
-    gimnazija dėstomąja lietuvių kalba. Kaime ir toliau vaikus mokyta skaityti,
-    rašyti ir skaičiuoti grupelėmis namuose – to valdžia nebedraudė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Be to, mokyklas leista steigti ir privatiems asmenims bei visuomeninėms organizacijoms, jose galėjo būti mokoma ir lietuvių, taip pat lenkų kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -81,6 +68,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -31,7 +31,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o imperatorių Vaclovą abiejų tautų teisėju pasirinkę32.'
+  teiginys: '2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO.'
   pagrindžia:
     - c-003
 
@@ -46,9 +46,14 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - c-001
 
 - t-004
-  teiginys: 'Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą.'
+  teiginys: 'Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas.'
   pagrindžia:
     - c-004
+
+- t-005
+  teiginys: 'Prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -84,6 +89,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - t-002
 
 - c-003
+  santrauka: '2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1999 m. balandį NATO šalių
@@ -102,7 +108,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - t-001
 
 - c-004
-  santrauka: 'Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą.'
+  santrauka: 'Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Abu kunigaikš-
@@ -118,7 +124,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - t-004
 
 - c-005
-  santrauka: 'Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o imperatorių Vaclovą abiejų tautų teisėju pasirinkę32.'
+  santrauka: 'Prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tos

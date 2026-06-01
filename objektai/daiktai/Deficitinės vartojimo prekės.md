@@ -43,12 +43,12 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sovietmečio Lietuvoje katastrofiškai trūko medicinos reikmenų ir vaistų.'
+  teiginys: 'Sovietmečio Lietuvoje deficitinės buvo maisto prekės, baldai, indai, televizoriai, medicinos reikmenys ir vaistai.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Sovietmečio Lietuvoje žmonės ilgose eilėse laukdavo talonų baldams, indams ir televizoriams įsigyti.'
+  teiginys: 'Sovietmečio Lietuvoje baldai, indai ir televizoriai buvo deficitinės vartojimo prekės, kurioms įsigyti reikėjo talonų.'
   pagrindžia:
     - c-001
 

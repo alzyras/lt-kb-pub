@@ -20,18 +20,19 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Švitrigaila, neseniai susi­ vienijęs su Vytautu, kuris jam buvo perleidęs Kamenecą ir kitas pilis Podolėje, paskubėjo atvykti į Vilnių anksčiau nei tas valdovas numirs ir, remiamas galingų šalininkų - rusų apeigų Lietuvos kunigaikščių bei didikų - labiausiai.'
+  teiginys: 'Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
+  teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kazimiero mirtis —  Didysis kunigaikštis
@@ -65,6 +66,7 @@ tags:
     - t-001
 
 - c-002
+  santrauka: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogaila taip pat

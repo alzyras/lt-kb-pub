@@ -144,6 +144,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/senjoras]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Lietuvos krikštas]]

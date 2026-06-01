@@ -17,13 +17,14 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad karaliūnui, istorikui R.'
+  teiginys: 'S. Karaliūnas buvo vienas iš rankraščio recenzentų rengiant knygą spaudai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Karaliūnas buvo vienas iš rankraščio recenzentų rengiant knygą spaudai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.

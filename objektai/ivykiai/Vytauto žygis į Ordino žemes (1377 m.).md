@@ -48,7 +48,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - t-002
   teiginys: 'Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.'
   pagrindžia:
-    - c-004
     - c-002
 
 - t-003
@@ -106,27 +105,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kada Kryžiuočių Ordino maršalka
-    Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­
-    mas net lig pat Vilniaus, degino kaimus, plėšė žmonių turtą ir
-    juos pačius ėmė nelaisvėn, tuo metu Algirdas, negalėdamas sku­
-    biai suorganizuoti apsigynimo, užsidaręs Vilniaus pilyje, pasi­
-    kvietęs maršalką ir išmetinėjęs jam neriterišką elgesį; o Kęstutis,
-    keršydamas už krašto teriojimą, pasiuntė Vytautą į Užnemunę
-    sunaikinti vokiečių maisto atsargą. Pavestą uždavinį Vy­
-    tautas labai puikiai atliko, sunaikindamas visą vokiečių maisto
-    atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo). Kry­
-    žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
-    dienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

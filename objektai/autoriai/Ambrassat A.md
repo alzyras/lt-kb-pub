@@ -24,26 +24,6 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 33, 1—2, p. 278; Ambrassat A., Die Provinz..., p. 336; Gause F., Geschichte..., 1, p. 3—15; IIP, 1, 1, p. 450, 463; Powierski J., Sambia, p. 38; MPKP, 2, p. 241; Кириллова Ю.'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad pabaigos, vėliau perstatyta ir paversta kalėjimu (GAO, p. 181; Bonk H., Die Städte..., p 107—108; Boetticher A., Die Bau..., 2, p. 180— 182; Ambrassat A., Die Provinz..., p. 330—331; CV, t.'
-  pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365).'
-  pagrindžia:
-    - c-002
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p. 389).'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,67 +43,6 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kaliningrado centrinės aikštės, prie dab.
-    automobilių  kelio Kaliningradas—Poleskas. Kalvoje buvęs  piliakalnis,  to pat vardo
-    bažnytkaimis, XIX a. įrengtas fortas (Sch-K; žemėlapis Gross-Königsberg; GAO, p. 78;
-    HE, p. 125; СV, t. 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    594 D.— Lunenburgk, Jer.— Lûnenburc (plg. lie. liūnas, Liūnai — GAO, p. 92); vėliau
-    vok. Leunenburg, dab. Sontočnas (Sątoczno)   į pietryčius nuo Sempopolio.  Išlikęs
-    piliakalnis (CV, t. 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p.
-    389).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies
-                                  paėmimą
-
-      Kadangi tas pats Tirskas gerai žinojo kelius į gretimas žemes, Karaliaučiaus komtūras
-
-    3-ame dešimtmetyje čia, greta naujosios pilies, buvo pastatyti banko rūmai (Gaerte W.,
-    Die Besiedlung..., p. 98, 132, 143; CV, t. 33, 1—2, p. 278; Ambrassat A., Die Provinz...,
-    p. 336; Gause F., Geschichte..., 1, p. 3—15; IIP, 1, 1, p. 450, 463; Powierski J., Sambia,
-    p. 38; MPKP, 2, p. 241; Кириллова Ю. М., Прибалтика..., с. 10).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    čia pastatė savo Tepliavos pilį (prūsų pilies ieškota ir kiek toliau
-    į šiaurę nuo Tepliavos). XIII a. pabaigoje Ordino pilis buvo perkelta  į deš. Deimenos
-    krantą. Ji buvusi gyvenama iki XVIII a. pabaigos, vėliau perstatyta ir paversta kalėjimu
-    (GAO, p. 181; Bonk H., Die Städte..., p 107—108; Boetticher A., Die Bau..., 2, p. 180—
-    182; Ambrassat A., Die Provinz..., p. 330—331; CV, t. 34, p. 130).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/zodynas/komtūras]]

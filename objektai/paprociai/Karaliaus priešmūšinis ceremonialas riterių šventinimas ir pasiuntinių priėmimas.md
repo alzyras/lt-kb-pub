@@ -84,4 +84,3 @@ Nenurodyta
 - [[objektai/daiktai/Vežimai]]
 - [[objektai/asmenys/Olesnickio]]
 - [[objektai/asmenys/Zbignievo Olesnickio]]
-- [[objektai/daiktai/Palapinės]]

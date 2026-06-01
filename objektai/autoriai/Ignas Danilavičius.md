@@ -30,7 +30,7 @@ tags:
     - c-003
 
 - t-003
-  teiginys: 'Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui Malevskiui už gausius išrašus iš Lietuvos Metrikos.'
+  teiginys: 'M. Balinskis dėkojo Ignui Danilavičiui už pagalbą istoriniais dokumentais.'
   pagrindžia:
     - c-002
 
@@ -54,6 +54,7 @@ tags:
     - t-001
 
 - c-002
+  santrauka: 'M. Balinskis dėkojo Ignui Danilavičiui už pagalbą istoriniais dokumentais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmoji knygos dalis užbaigia­

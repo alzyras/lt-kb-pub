@@ -29,7 +29,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Trejybės prieglaudą ir ją geriau aprūpinti pave­ dė kelissyk testamente minimoms seserims ir respublikai, o turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą, atidavė Vilniaus jėzuitų kolegijai.'
+  teiginys: 'Mirdamas Knišine Žygimantas Augustas savo turtingą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
   pagrindžia:
     - c-002
 
@@ -39,12 +39,12 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - c-004
 
 - t-003
-  teiginys: 'Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.'
+  teiginys: 'Vilniaus Jėzaus draugijos kolegijai buvo patikėtas klierikų mokymas ir seminarijos valdymas.'
   pagrindžia:
     - c-008
 
 - t-004
-  teiginys: 'O tų knygų, kurias atiduodame jėzuitams, der­ lius yra nemažas ir neprastas.'
+  teiginys: 'Jėzuitams perduotos knygos buvo apibūdintos kaip nemažas ir neprastas rinkinys.'
   pagrindžia:
     - c-003
 
@@ -54,12 +54,12 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - c-007
 
 - t-006
-  teiginys: 'Jono bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­ demijos kolegiją yra patvirtintas kardinolo Pranciškaus Ko­ mendom, Šv.'
+  teiginys: '1571 m. gruodžio 22 d. Apaštališkasis Sostas patvirtino parapijinės Šv. Jono bažnyčios inkorporavimą į Vilniaus jėzuitų kolegiją.'
   pagrindžia:
     - c-006
 
 - t-007
-  teiginys: 'Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57.'
+  teiginys: 'Karalius balandžio 1 d. dekretais vyskupo Protasevičiaus funduotą Vilniaus jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
   pagrindžia:
     - c-005
 
@@ -96,6 +96,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-008
 
 - c-002
+  santrauka: 'Mirdamas Knišine Žygimantas Augustas savo turtingą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mir­
@@ -112,6 +113,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-001
 
 - c-003
+  santrauka: 'Jėzuitams perduotos knygos buvo apibūdintos kaip nemažas ir neprastas rinkinys.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O tų knygų, kurias atiduodame jėzuitams, der­
@@ -145,6 +147,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-002
 
 - c-005
+  santrauka: 'Karalius balandžio 1 d. dekretais vyskupo Protasevičiaus funduotą Vilniaus jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     290
@@ -169,6 +172,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-007
 
 - c-006
+  santrauka: '1571 m. gruodžio 22 d. Apaštališkasis Sostas patvirtino parapijinės Šv. Jono bažnyčios inkorporavimą į Vilniaus jėzuitų kolegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1571 metų gruodžio 22 dieną. Toks parapijinės Šv. Jono
@@ -206,6 +210,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-005
 
 - c-008
+  santrauka: 'Vilniaus Jėzaus draugijos kolegijai buvo patikėtas klierikų mokymas ir seminarijos valdymas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai jų sąžinei griežtai
@@ -229,9 +234,9 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Jus Patronatus]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

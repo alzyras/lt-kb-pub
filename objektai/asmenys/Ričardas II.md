@@ -26,18 +26,19 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu Ričardas II, ir prie Vilniaus bu­ vojo ne kas kitas, tik Henrikas Lan­ kasteris, pirm Derbio grafas, vėliau žinomas kunigaikščio Herfordo var­ du, Jono de Gando, Lankasterio ku­.'
+  teiginys: 'Apie 1390 m. Anglijoje viešpatavo Ričardas II, o prie Vilniaus buvo Henrikas Lankasteris, ne Anglijos karaliaus Henriko sūnus.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Po devynerių metų, paveldėjęs pagal tėvą Lankasterio kunigaikščio titulą, nu­ vertė nuo sosto Ričardą ir pats vieš­ patavo, pasivadinęs Henriku IV.'
+  teiginys: 'Henrikas Lankasteris po devynerių metų nuvertė Ričardą II nuo sosto ir ėmė viešpatauti Henriko IV vardu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Henrikas Lankasteris po devynerių metų nuvertė Ričardą II nuo sosto ir ėmė viešpatauti Henriko IV vardu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas Derbio grafas, būdamas kara­
@@ -57,6 +58,7 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
     - t-002
 
 - c-002
+  santrauka: 'Apie 1390 m. Anglijoje viešpatavo Ričardas II, o prie Vilniaus buvo Henrikas Lankasteris, ne Anglijos karaliaus Henriko sūnus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis apsirinka nurody­

@@ -50,12 +50,12 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė.'
+  teiginys: '1365 m. didysis Prūsijos magistras Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
-  teiginys: 'Tačiau keturių Butauto tarnų perbėgimas naktį iš kryžiuočių stovyklos į Vilnių suardė didžiojo magistro karinius planus, ir šis pa­ būgęs, kad jo užmojai netikėtai užpulti gintis pasiryžusią Lietuvą bus atskleisti, tuojau pat nutraukė apgultį ir bėgo.'
+  teiginys: 'Keturių Butauto tarnų perbėgimas į Vilnių suardė Vinricho Kniprodės planus ir privertė jį nutraukti apgultį.'
   pagrindžia:
     - c-002
 
@@ -78,8 +78,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-002
+  santrauka: 'Keturių Butauto tarnų perbėgimas į Vilnių suardė Vinricho Kniprodės planus ir privertė jį nutraukti apgultį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau keturių
@@ -128,24 +130,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
-    miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
-    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
-    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
-    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
-    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
-    tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
-    deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
-    Maišiagalos, priartėjo prie Vilniaus pilių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

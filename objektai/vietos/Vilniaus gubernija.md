@@ -28,7 +28,7 @@ amziai:
 - t-001
   teiginys: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms, todėl caro valdžia etnografiškai.'
   pagrindžia:
-    - c-006
+    - c-002
 
 - t-002
   teiginys: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
@@ -96,6 +96,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-005
+    - t-001
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -146,23 +147,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mat baltarusių šnekta pragma-
-    tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
-    ponus bei kunigus, ir rusų valdžios atstovus. Didesnį pagreitį šis procesas
-    įgis XIX a. antrojoje pusėje, jį sustabdys atsiradę autoritetingi etninių lie-
-    tuvių tautinio sąjūdžio veikėjai, daugiausia kunigai.
-    1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies
-    apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-
-    skirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-
-    joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
-    berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
-    Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001

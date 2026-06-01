@@ -42,5 +42,4 @@ Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintinga
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]

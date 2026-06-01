@@ -66,13 +66,14 @@ Nenurodyta
     - c-003
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87)..'
+  teiginys: 'Ordino karo religinis įprasminimas žadėjo žuvusiems kryžiuočiams dangų, amžiną palaimą ir angelų globą po mūšio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ordino karo religinis įprasminimas žadėjo žuvusiems kryžiuočiams dangų, amžiną palaimą ir angelų globą po mūšio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos

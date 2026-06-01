@@ -43,25 +43,6 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo būdu laimėta, kad ir
-    didžiausi bolševikų padlaižiai neišdrįsdavo imtis nenaudingos gyventojams ir pražūtingos
-    kraštui linijos, o išardytas tarybinis aparatas nepajėgė taip greit iščiulpti gyventojų turto,
-    gėrybių ir darbo jėgos. Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš
-    akis galimas partizanų negailestingas sankcijas.“
-
-    Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos
-    kariuomenės ulonų puskarininkio Jono
-    Neifalto- Lakūno ir jam talkinančio
-
-    Aleksandro Podemansko - Šarūno.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

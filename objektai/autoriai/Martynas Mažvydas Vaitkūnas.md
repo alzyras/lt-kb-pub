@@ -91,4 +91,3 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 - [[objektai/grupes/Raudonasis Kryžius]]
 - [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]
-- [[objektai/posakiai/„Palemono universitetu“ „Lietuvos palemoniškųjų miestų sostine“]]

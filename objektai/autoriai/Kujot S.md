@@ -20,13 +20,14 @@ Dusburgietis teigia, kad pasakojimą apie krikščionių pergalę kartais linkst
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pasakojimą apie krikščionių pergalę kartais linkstama laikyti įvykius pagražinančiu prasimanymu arba vėlesne tradicija (Kujot S., Dzieje Prus..., 1, p. 601).'
+  teiginys: 'S. Kujot Dusburgiečio pasakojimą apie krikščionių pergalę siejo su įvykius pagražinančiu prasimanymu arba vėlesne tradicija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Kujot Dusburgiečio pasakojimą apie krikščionių pergalę siejo su įvykius pagražinančiu prasimanymu arba vėlesne tradicija.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     232 Zirgūna (D.— Sirgune, XIII—XIV a. dokumentuose — Sirgun, Syrgen, plg. pr.

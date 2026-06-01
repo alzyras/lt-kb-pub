@@ -20,13 +20,14 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­ gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.'
+  teiginys: 'Vytauto sesuo Ona ištekėjo už vyresniojo Mazovijos kunigaikščio Jonušo per Vilniuje vykusias prašmatnias vestuves.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto sesuo Ona ištekėjo už vyresniojo Mazovijos kunigaikščio Jonušo per Vilniuje vykusias prašmatnias vestuves.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia, krašto reikalus
@@ -49,7 +50,7 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 ### Susiję objektai
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
 - [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
+- [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]]

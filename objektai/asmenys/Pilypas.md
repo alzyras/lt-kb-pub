@@ -57,5 +57,3 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

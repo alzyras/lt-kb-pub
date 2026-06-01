@@ -45,7 +45,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-004
   teiginys: 'Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d.'
   pagrindžia:
-    - c-006
+    - c-002
 
 - t-006
   teiginys: '1621 m. mūšyje prie Chotino didysis etmonas pasiekė paskutinę savo pergalę.'
@@ -113,6 +113,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   statusas: verified
   pagrindžia:
     - t-005
+    - t-004
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -181,50 +182,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-006
 
 - c-006
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117
-
-    ## Puslapis 120
-
-    E _-KURSO KUNIGAIKŠTYSTĖ S
-    res Livontios KUNIGAIKŠTYSTĖ ||
-    PES
-    Sen
-
-    PRŪSIJOS
-    KUNIGAIKSTYSTE-
-
-    “yf
-
-    LIETUVOS
-
-    14 DIDŽIOJI
-    “KUNIGAIKŠTYSTĖ
-    >
-
-    PA |
-    7
-
-    a
-
-    LENKUOS | 3
-    | KARALYSTĖ | ) uae
-
-    Mūšio priešistorė
-    1514 m. Rusijos užgrobtas strategiškai svar-
-    bus tarp Dauguvos ir Dniepro upių išsidės-
-    tęs Smolenskas visuomet buvo laikomas
-    vartais į Rusiją, todėl ne kartą tapo kari-
-    nės konfrontacijos tarp Lietuvos ir Rusijos
-    objektu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-007
   santrauka: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

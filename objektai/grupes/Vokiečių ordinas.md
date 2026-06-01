@@ -32,43 +32,44 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 ## Teiginiai
 
 - t-001
-  teiginys: 'O kai Vokiečių Ordino ma­ gistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­ kė visiems vokiečių pirkliams iki Sekminių iš Lietuvos išsineš­ dinti^3 ).'
+  teiginys: 'Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
-  teiginys: 'Iš Lietuvos geografinės būklės ir minėtų čia prekybos san­ tykių galime jau pastebėti, kad Vokiečių Ordinas Vytauto laikų prekybai turėjo didžiausios įtakos, nes per jo žemes ėjo svar­ biausi keliai į Vakarų Europą ir Dancigą, su kuriuo lietuviai tu­ rėjo.'
+  teiginys: 'Vokiečių ordinas turėjo didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbūs keliai į Vakarų Europą ir Dancigą.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Ginklus ir arklius, kuriuos Ordinas draudė Lietuvon įvežti, Vytautas gau­ davo iš Rygos ir Krokuvos.'
+  teiginys: 'Vokiečių ordinui draudžiant į Lietuvą įvežti ginklus ir arklius, Vytautas jų gaudavo iš Rygos ir Krokuvos.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Nors lietuviai ir buvo paleisti, bet Vytautas vokiečių pirklių nepaleido ir Grabovo suvažiavime pareikalavo iš Ordino atsilyginti už paimtas pre­ kes ir nužudytų pirklių šeimoms^2 ).'
+  teiginys: 'Grabovo suvažiavime Vytautas pareikalavo, kad Vokiečių ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms.'
   pagrindžia:
     - c-002
 
 - t-005
   teiginys: 'Tai padaryti trukdė Vokiečių ordinas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
-  teiginys: 'Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu priežastis – Žemaitija.'
+  teiginys: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis liko Žemaitija.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-007
   teiginys: 'Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos prioritetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir grėsmės Lietuvai nebekėlė.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vokiečių ordinas turėjo didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbūs keliai į Vakarų Europą ir Dancigą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš Lietuvos geografinės būklės ir minėtų čia prekybos san­
@@ -87,6 +88,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - t-002
 
 - c-002
+  santrauka: 'Grabovo suvažiavime Vytautas pareikalavo, kad Vokiečių ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nors lietuviai ir buvo
@@ -102,8 +104,10 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 - c-003
+  santrauka: 'Vokiečių ordinui draudžiant į Lietuvą įvežti ginklus ir arklius, Vytautas jų gaudavo iš Rygos ir Krokuvos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ginklus ir
@@ -122,23 +126,6 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - t-003
 
 - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nors lietuviai ir buvo
-    paleisti, bet Vytautas vokiečių pirklių nepaleido ir Grabovo
-    suvažiavime pareikalavo iš Ordino atsilyginti už paimtas pre­
-    kes ir nužudytų pirklių šeimoms^2 ). O kai Vokiečių Ordino ma­
-    gistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­
-    kė visiems vokiečių pirkliams iki Sekminių iš Lietuvos išsineš­
-    dinti^3 ). Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­
-    statyti Žemaitijos sienas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-005
   santrauka: 'Tai padaryti trukdė Vokiečių ordinas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -155,8 +142,8 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   pagrindžia:
     - t-005
 
-- c-006
-  santrauka: 'Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu priežastis – Žemaitija.'
+- c-005
+  santrauka: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis liko Žemaitija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau vėliau
@@ -172,7 +159,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   pagrindžia:
     - t-006
 
-- c-007
+- c-006
   santrauka: 'Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos prioritetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir grėsmės Lietuvai nebekėlė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -204,8 +191,10 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 - [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
 - [[objektai/grupes/Prūsijos valstybė]]
 - [[objektai/paprociai/Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
 - [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
+- [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
 - [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
 - [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]

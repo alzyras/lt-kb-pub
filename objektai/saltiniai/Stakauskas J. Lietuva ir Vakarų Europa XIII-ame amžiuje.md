@@ -23,13 +23,14 @@ Dusburgietis teigia, kad stakauskas J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad stakauskas J.'
+  teiginys: 'J. Stakausko veikalas „Lietuva ir Vakarų Europa XIII-ame amžiuje“ išleistas 1934 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Stakausko veikalas „Lietuva ir Vakarų Europa XIII-ame amžiuje“ išleistas 1934 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje.—K., 1934.

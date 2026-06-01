@@ -26,13 +26,14 @@ Dusburgietis teigia, kad vaičiulaitis A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vaičiulaitis A.'
+  teiginys: 'A. Vaičiulaitis parašė straipsnį „Vidurinių amžių poetas Machaut Lietuvoj“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Vaičiulaitis parašė straipsnį „Vidurinių amžių poetas Machaut Lietuvoj“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,

@@ -44,15 +44,9 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mazovijos kunigaikštis Konradas galėjęs bandyti atsipirkti nuo prūsų antpuolių po 1216—1217 m. iki Mazovijos nusiaubimo 1222 ar 1224—1225 m. (PKD, p. 29—30; Powierski J.'
-  pagrindžia:
-    - c-003
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir įbaugintas, kad nė.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -73,26 +67,10 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai
-    dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir
-    įbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,
-    reikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų
-    patenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,
-    šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
-    netikėlių pasiuntiniams jų drabužius bei žirgus165. Tačiau šitai nepagelbėjo ir nesušvelnino
-    jų nuožmumo, todėl jie po senovei siaubė minėtąją žemę, kaip jau anksčiau esame sakę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
+  santrauka: 'Mazovijos kunigaikštis Konradas galėjo bandyti atsipirkti nuo prūsų antpuolių po 1216-1217 m. iki Mazovijos nusiaubimo 1222 arba 1224-1225 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mazovijos kunigaikštis Konradas galėjęs bandyti atsipirkti nuo prūsų antpuolių po
@@ -101,8 +79,6 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -113,4 +89,3 @@ Nenurodyta
 - [[objektai/asmenys/Konradas]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/daiktai/Žirgai]]
-- [[objektai/autoriai/Powierski J]]

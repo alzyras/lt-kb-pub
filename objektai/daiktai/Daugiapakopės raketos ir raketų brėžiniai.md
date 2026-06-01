@@ -44,23 +44,24 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Semenavičiaus raketų brėžiniai.'
+  teiginys: 'K. Semenavičiaus raketų brėžiniai buvo susieti su Amsterdamu ir 1650 m.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Iš šių ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę proŽymiausio LDK karo inžinieriaus, daugiapakopių raketų teorijos kūrėjo K.'
+  teiginys: 'Daugiapakopių raketų teorija siejama su K. Semenavičiaus veikalu „Artis magnae artilleriae“.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
-  teiginys: 'Žymiausio LDK karo inžinieriaus, daugiapakopių raketų teorijos kūrėjo K.'
+  teiginys: 'K. Semenavičius citatoje vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. Semenavičius citatoje vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baroko
@@ -76,8 +77,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 - c-002
+  santrauka: 'K. Semenavičiaus raketų brėžiniai buvo susieti su Amsterdamu ir 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Yra ir kitas senojo Vilniaus universiteto
@@ -88,23 +91,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baroko
-    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
-    universitetą. Manoma, kad studijų lygis senajame universitete nebuvo
-    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose. Iš šių
-    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
-    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
-    teorijos  kūrėjo K. Semenavičiaus veikalo
-    „Artis magnae artilleriae“  frontispisas, 1650 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

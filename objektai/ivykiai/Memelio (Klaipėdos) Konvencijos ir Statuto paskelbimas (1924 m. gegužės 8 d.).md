@@ -70,21 +70,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
-    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
-    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
-    tine ir karine pergale, kokia ji iš tiesų ir buvo.
-    1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
-    naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
-    autonomine Lietuvos dalimi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -94,5 +79,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]
-- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]

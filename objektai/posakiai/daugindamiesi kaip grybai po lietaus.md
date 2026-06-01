@@ -39,7 +39,3 @@ Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų,
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Galindai]]

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad stankiewicz J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad stankiewicz J.'
+  teiginys: 'J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68.

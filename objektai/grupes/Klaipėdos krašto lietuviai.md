@@ -27,7 +27,7 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
 - t-001
   teiginys: 'Kadangi Maskva visur stengėsi pakenkti Lenkijai, sovietai akcijai irgi neprieštaravo, o jei Lenkija pajudėtų prieš Lietuvą – sovietai sakė neliksią stebėtojai.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui.'
@@ -57,6 +57,7 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -71,23 +72,6 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kadangi Maskva visur stengėsi pakenkti
-    Lenkijai, sovietai akcijai irgi neprieštaravo, o jei Lenkija pajudėtų prieš
-    Lietuvą – sovietai sakė neliksią stebėtojai.
-    Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kul-
-    tūros, liuteronai, o ne katalikai, politiškai liko ištikimi Vokietijai, todėl pa-
-    tys sukilti nesiruošė. Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
-    gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
-    gauti gerus postus administracijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

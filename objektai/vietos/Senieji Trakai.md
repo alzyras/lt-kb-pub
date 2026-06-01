@@ -67,7 +67,7 @@ Nenurodyta
 - t-004
   teiginys: 'Trakai- [10] Rugpjūčio 26 d.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -84,22 +84,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
+    - t-001
 
 - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Camblakas.
-    Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
-    jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
-    vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
-    juos iš Maž. Lenkijos (Tynieco).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     [9] Rugpjūčio 25 d. Gel. li-
@@ -112,17 +100,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Camblakas.
-    Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
-    jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
-    vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
-    juos iš Maž. Lenkijos (Tynieco).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001

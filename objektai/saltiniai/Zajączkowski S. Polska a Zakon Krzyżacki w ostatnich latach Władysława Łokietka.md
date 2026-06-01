@@ -23,13 +23,14 @@ Dusburgietis teigia, kad zajączkowski S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad zajączkowski S.'
+  teiginys: 'S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—

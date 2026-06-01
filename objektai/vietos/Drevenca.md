@@ -34,15 +34,10 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   pagrindžia:
     - c-002
 
-- t-004
-  teiginys: 'Tuo lai­ ku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos (Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių už tūkstantį grivinų.'
+- t-005
+  teiginys: 'Sąjungininkai priėjo Drevencos upę ties Kauerniku.'
   pagrindžia:
     - c-004
-
-- t-005
-  teiginys: 'Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -76,6 +71,7 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -92,25 +88,7 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
     - t-001
 
 - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ištisi kaimai visoje kunigaikš­
-    tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­
-    imtų į nelaisvę priskaičiuota iki devynių tūkstančių. Tuo lai­
-    ku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos
-    (Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių
-    ir padarė Ordinui nuostolių už tūkstantį grivinų*. Taigi per
-    pusantrų metų žuvo apie dvidešimt tūkstančių krikščionių
-    iš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio
-    kardo, kiti į nelaisvę papuolę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku.'
+  santrauka: 'Sąjungininkai priėjo Drevencos upę ties Kauerniku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie

@@ -87,7 +87,6 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/autoriai/Isaac Taylor]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
 - [[objektai/grupes/Sovietų Sąjunga]]

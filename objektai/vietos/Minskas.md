@@ -32,27 +32,27 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 ## Teiginiai
 
 - t-001
-  teiginys: 'Minskas: tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig- mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-.'
+  teiginys: 'Po Švitrigailos pabėgimo Zigmantui, be tikrosios Lietuvos, liko Palenkės, Pagirio ir Minsko žemės.'
   pagrindžia:
     - c-007
 
 - t-002
-  teiginys: 'Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos.'
+  teiginys: 'XII amžiuje, pakrikus Polocko kunigaikštijai, iš Minsko ir kitų jos miestų susidarė atskiros kunigaikštijos.'
+  pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Per maištą užpultas Minskas, kaip ir Sluckas, nepasidavė.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Minske įsteigta jėzuitų kolegija buvo kanclerio Martyno Oginskio ir K. Bžostausko fundacija.'
   pagrindžia:
     - c-010
 
-- t-003
-  teiginys: 'Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo- zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.'
-  pagrindžia:
-    - c-012
-
-- t-004
-  teiginys: 'Minskas: tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig- manto fundacija), Smolenske (klebono Lempickio ir kt. fun- dacija), Kaune.'
-  pagrindžia:
-    - c-011
-
 - t-005
-  teiginys: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  teiginys: 'Žygimanto privilegijoje Minskas minėtas tarp Lietuvos žemės vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito.'
   pagrindžia:
     - c-005
 
@@ -71,20 +71,10 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   pagrindžia:
     - c-008
 
-- t-009
-  teiginys: 'Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo- zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.'
-  pagrindžia:
-    - c-003
-
 - t-010
   teiginys: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
   pagrindžia:
-    - c-013
-
-- t-011
-  teiginys: 'Minskas: smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos.'
-  pagrindžia:
-    - c-004
+    - c-011
 
 - t-012
   teiginys: 'Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis.'
@@ -92,7 +82,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-002
 
 - t-013
-  teiginys: 'Tačiau šis karaliaus nurodymas gal taip greitai ne­ būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­ bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į Vilnių.'
+  teiginys: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   pagrindžia:
     - c-009
 
@@ -140,6 +130,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - t-012
 
 - c-003
+  santrauka: 'Per maištą užpultas Minskas, kaip ir Sluckas, nepasidavė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, Lietuvos po-
@@ -158,8 +149,10 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   statusas: verified
   pagrindžia:
     - t-009
+    - t-003
 
 - c-004
+  santrauka: 'XII amžiuje, pakrikus Polocko kunigaikštijai, iš Minsko ir kitų jos miestų susidarė atskiros kunigaikštijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kurį laiką Padauguvio giminės net mo-
@@ -172,8 +165,10 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   statusas: verified
   pagrindžia:
     - t-011
+    - t-002
 
 - c-005
+  santrauka: 'Žygimanto privilegijoje Minskas minėtas tarp Lietuvos žemės vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis teisingu­
@@ -211,6 +206,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - t-007
 
 - c-007
+  santrauka: 'Po Švitrigailos pabėgimo Zigmantui, be tikrosios Lietuvos, liko Palenkės, Pagirio ir Minsko žemės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip sąmokslas buvo
@@ -272,6 +268,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - t-008
 
 - c-009
+  santrauka: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miestiečiai prie jų
@@ -291,20 +288,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - t-013
 
 - c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kurį laiką Padauguvio giminės net mo-
-    kėjo jam duoklę — buvo pripažinusios jo valdžią. Bet jau XII
-    amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
-    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
-    nigaikštijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-011
+  santrauka: 'Minske įsteigta jėzuitų kolegija buvo kanclerio Martyno Oginskio ir K. Bžostausko fundacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo
@@ -326,27 +310,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   pagrindžia:
     - t-004
 
-- c-012
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, Lietuvos po-
-    nai, jo priešai, norėdami jį
-    pražudyti, grasino jam iš-
-    kelti bylą tarsi už Aleksan-
-    dro nužudymą. Visa tai
-    matydamas, jis sumanė už-
-    grobti kuo daugiausia Lie-
-    tuvos žemių ir pasiduoti Maskvos kunigaikščiui Vosyliui III
-    (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
-    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
-    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-013
+- c-011
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kazokų vadai supratę, kad patys ukrainiečiai neįstengs išsivaduoti

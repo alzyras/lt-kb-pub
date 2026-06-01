@@ -25,13 +25,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '84 Kryžiuočių Slaptajame Archyve, Karaliaučiuje, yra Vy­ tauto laiškų, rašytų magistrui Rusdorfui (pasak Karamzino, V, p. 145) derybų dėl Lietuvos karūnos Vytau­ tui dingstimi, kur viename iš jų, da­ tuotame 1430 m. rugpjūčio mėn., didžiajam magistrui praneša.'
+  teiginys: '1430 m. rugpjūtį Vytautas laiške magistrui Rusdorfui pranešė apie Maskvos ir Tverės kunigaikščių atvykimą į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1430 m. rugpjūtį Vytautas laiške magistrui Rusdorfui pranešė apie Maskvos ir Tverės kunigaikščių atvykimą į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pa­

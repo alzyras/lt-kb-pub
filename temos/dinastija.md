@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 59.
+Objektų skaičius: 57.
 
 ## Kaip naudoti
 
@@ -25,7 +25,6 @@ Objektų skaičius: 59.
 - [[objektai/asmenys/Fiodoras]]
 - [[objektai/asmenys/Ivanas IV Rūstusis]]
 - [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
-- [[objektai/asmenys/Liutaveras (Pukaveras)]]
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/asmenys/Teodoras]]
@@ -46,12 +45,11 @@ Objektų skaičius: 59.
 - [[objektai/grupes/Alšėnų kunigaikščiai]]
 - [[objektai/grupes/Gediminaičiai]]
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/grupes/Gedimino dinastija]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/grupes/Hohenzollernai]]
 - [[objektai/grupes/Jogailaičiai]]
-- [Jogailaičių dinastija](../objektai/grupes/Jogailai%C4%8Di%C5%B3%20dinastija)
-- [Liuksemburgiečių dinastija](../objektai/grupes/Liuksemburgie%C4%8Di%C5%B3%20dinastija)
+- [[objektai/grupes/Jogailaičių dinastija]]
+- [[objektai/grupes/Liuksemburgiečių dinastija]]
 - [Piastų dinastija](../objektai/grupes/Piast%C5%B3%20dinastija)
 - [Riurikaičių dinastija](../objektai/grupes/Riurikai%C4%8Di%C5%B3%20dinastija)
 - [Romanovų dinastija](../objektai/grupes/Romanov%C5%B3%20dinastija)

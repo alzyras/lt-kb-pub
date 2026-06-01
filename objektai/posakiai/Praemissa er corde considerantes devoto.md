@@ -17,13 +17,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '28 Viename Žygimanto dovanojimų, esančiame Vilniaus kapitulos archy­ ve, pareikšta: Praemissa er corde con­ siderantes devoto, Reverendo in Chris­ to Patri Domino Mathiae Episcopo Vilnen.'
+  teiginys: 'Formulė „Praemissa er corde considerantes devoto“ pavartota Žygimanto dovanojimo akte, buvusiame Vilniaus kapitulos archyve.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Formulė „Praemissa er corde considerantes devoto“ pavartota Žygimanto dovanojimo akte, buvusiame Vilniaus kapitulos archyve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     28

@@ -21,31 +21,11 @@ Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas 
 - t-001
   teiginys: 'Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad lietuvos DK dokumentuose minimi valsčiuose esantys laukai, jų vardai (Jablonskis K.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    XVI—XVII a. Lietuvos DK dokumentuose minimi valsčiuose esantys laukai, jų vardai
-    (Jablonskis K. Lietuviški..., p. 6, Nr. 15; p. 256, Nr. 77, 78). Jie siejami su XIII—XIV a.
-    laukais (Łowmiański H. Studja..., 1, p. 101 — 125). Lietuviškasis XVI— XVII a. laukas
-    —tai smulkiosios bajorijos turtinė bei teritorinė valda (Wojtkowiak Z. Litwa Zawilejska...,
-    p. 41—47); XIII— XIV a. laukas — tarp miškų įsikūrusių žemdirbių (laukininkų) sodybos
-    su arimais ir pievomis (Jurginis J. Baudžiavos..., p. 166—168).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.  lie.
@@ -58,8 +38,3 @@ Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/bajorija]]
-- [[objektai/autoriai/Okulicz-Kozaryn L]]

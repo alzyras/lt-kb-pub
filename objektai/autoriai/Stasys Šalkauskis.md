@@ -36,12 +36,12 @@ periodo_grupes:
 - t-002
   teiginys: 'Stasio Šalkauskio „Raštų“ I–VIII tomai buvo išleisti 1990–2005 m.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: 'Stasys Šalkauskis lietuvių tautos pašaukimą aiškino lietuvių gyvenimu tarp slavų ir germanų pasaulių.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Stasio Šalkauskio „Raštų“ I-VIII tomai buvo išleisti 1990-2005 m.'
@@ -89,6 +89,7 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-002
   santrauka: 'Stasio Šalkauskio „Raštų“ IX tomas buvo nurodytas tarp spaudai rengiamų leidinių.'
@@ -137,45 +138,6 @@ periodo_grupes:
     - t-001
 
 - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mykolas Balinskis
-    VILNIAUS MIESTO ISTORIJA
-    Iš lenkų kalbos vertė
-    Ona Slavėnaitė, Irena Katilienė
-    Iš lotynų kalbos vertė
-    Jūratė Dalia Baronienė
-    Redaktorė Skirmantė Ramanauskaitė
-    Meninis redaktorius Romas Dubonis
-    Maketuotoja Danutė Navickienė
-    Užsakymas
-    „Minties" leidykla, Z. Sierakausko g. 15, LT-03105 Vilnius.
-    Spausdino UAB „Logotipas", Utenos g. 41a, LT-08217 Vilnius.
-    Kaina sutartinė
-
-    ## Puslapis 495
-
-    Išleista:
-    Jozefas Frankas
-    Atsiminimai apie Vilnių, 2001
-    Žygimantas Liauksminas
-    Rinktiniai raštai, 2004
-    Teodoras Narbutas
-    Lietuvių tautos istorija, I-V tomai, 1995-2001
-    Stasys Šalkauskis
-    Raštai, I-VIII tomai, 1990-2005
-    Vincas Vyčinas
-    Raštai, I-II tomai, 2002-2007
-    Rengiama spaudai:
-    Sudarytojas Antanas Katalynas
-    Estetika - XX a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^4) PRATARMĖ

@@ -25,36 +25,22 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 - t-001
   teiginys: 'A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apskritai jotvingių kalba (ar 10 Bezzenberger A. Die littauisch-preussische Grenze..., S. 651—655; to paties, Dber die Verbreitung..., S. 123—128; šiuo metu vietovardžių su garbsurasta ir jotvingių bei rytinių baltų teritorijoje, bet plačiausiai juos.'
+  teiginys: 'A. Becenbergerio darbai cituojami aptariant vietovardžius su šaknimi garb-.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos ir Alnos (kair.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    A. Becenbergeris nustatė, kad
-    vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
-    ir Alnos (kair. Priegliaus intako), o vietovardžiai, kilę  iš atitinkamų prūsiškų žodžių
-    caymis, ape, garbis,—  į vakarus. Taigi abiejų tyrinėtojų duomenimis, kalbinė riba tarp
-    lietuvių ir prūsų Ordino atsikraustymo metu ėjo apytiksliai natūraliomis ribomis — upėmis
-    Deimena, Priegliumi, Alnos žemupiu, Ašvenos ir Vangrapės aukštupiais iki Dubenykų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'A. Becenbergerio darbai cituojami aptariant vietovardžius su šaknimi garb-.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apskritai jotvingių kalba (ar
@@ -70,7 +56,7 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     A. Becenbergeris nustatė, kad
@@ -89,6 +75,7 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

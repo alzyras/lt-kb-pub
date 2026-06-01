@@ -65,7 +65,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - c-009
 
 - t-008
-  teiginys: 'Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą Lietuva nesiruošianti kariauti – užteksią milicijos… Tačiau jau lapkričio 23-iąją A.'
+  teiginys: '1918 m. lapkričio 23 d. Augustinui Voldemarui teko skelbti mobilizaciją.'
   pagrindžia:
     - c-014
 
@@ -115,7 +115,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - c-010
 
 - t-018
-  teiginys: 'Kariuomenėje įtakingi nacionalistai voldemarininkai vis bandė pučų keliu grąžinti į valdžią A.'
+  teiginys: 'Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią.'
   pagrindžia:
     - c-005
 
@@ -200,6 +200,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - t-004
 
 - c-005
+  santrauka: 'Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kariuomenėje įtakingi nacionalistai voldemari-
@@ -386,6 +387,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - t-002
 
 - c-014
+  santrauka: '1918 m. lapkričio 23 d. Augustinui Voldemarui teko skelbti mobilizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 m. lapkričio 2 d. Taryba priėmė Laikinąją konstituciją, pati pagal
@@ -453,7 +455,6 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - [[objektai/asmenys/Petras Klimas]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/in corpore]]
 - [[objektai/zodynas/konstitucijos]]

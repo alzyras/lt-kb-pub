@@ -55,7 +55,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-005
 
 - t-006
-  teiginys: 'Mozūrų kunigaikštis Konradas ir pirmasis prū­ sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­ čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­ jamų kryžių paprastai.'
+  teiginys: '1230 m. pirmasis prūsų vyskupas misionorius Kristijonas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė Kryžiuočių ordiną.'
   pagrindžia:
     - c-010
 
@@ -229,6 +229,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - t-004
 
 - c-010
+  santrauka: '1230 m. pirmasis prūsų vyskupas misionorius Kristijonas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė Kryžiuočių ordiną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
@@ -306,4 +307,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]
 - [[objektai/zodynas/interliudas]]
 - [[objektai/posakiai/„Iš tikrųjų jokia kita pasaulio kalba...“]]
+- [[objektai/grupes/Dobryniaus riterių brolija]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/posakiai/dieviškojo žodžio sėkla krito į negerą dirvą]]

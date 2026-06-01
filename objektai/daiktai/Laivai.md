@@ -58,14 +58,14 @@ Nenurodyta
     - c-004
 
 - t-003
-  teiginys: 'Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd).'
-  pagrindžia:
-    - c-010
-
-- t-004
-  teiginys: '52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną.'
+  teiginys: 'Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
   pagrindžia:
     - c-009
+
+- t-004
+  teiginys: 'Didysis magistras slapta iš Marienburgo išplaukė laivais Vysla, o per jūros įlanką įplaukė į Nemuną.'
+  pagrindžia:
+    - c-008
 
 - t-005
   teiginys: 'Vytenis į puolimą atsiuntė 100 laivų.'
@@ -80,21 +80,21 @@ Nenurodyta
 - t-007
   teiginys: 'Rygiečiai ir Livonijos kariuomenė laivais judėjo į puolimo vietas.'
   pagrindžia:
-    - c-008
+    - c-007
     - c-001
 
 - t-008
-  teiginys: 'Gavęs Jogai­ los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­ pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­ los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­ no seklumo esą nebegalima toliau plaukti.'
+  teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo.'
   pagrindžia:
-    - c-007
+    - c-004
 
 - t-009
-  teiginys: 'Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę.'
+  teiginys: 'Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
   pagrindžia:
     - c-002
 
 - t-010
-  teiginys: 'Taigi jie bus turėję ir laivų.'
+  teiginys: 'Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.'
   pagrindžia:
     - c-006
 
@@ -112,6 +112,7 @@ Nenurodyta
     - t-007
 
 - c-002
+  santrauka: 'Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors jau V amžiaus pabaigoje,
@@ -174,6 +175,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-008
 
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -193,6 +195,7 @@ Nenurodyta
     - t-005
 
 - c-006
+  santrauka: 'Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Yra
@@ -210,23 +213,6 @@ Nenurodyta
     - t-010
 
 - c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Galų gale po ilgo delsimo, 1383 metų vasarą turėjo
-    įvykti Ordino magistro ir Jogailos susivažiavimas. Gavęs Jogai­
-    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
-    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
-    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
-    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
-    apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
-    sos įtakos į Nemuną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     kryžiuočiai, kai, Karaliaučiaus komtūrui vadovaujant, atvyko stipri
@@ -240,7 +226,8 @@ Nenurodyta
   pagrindžia:
     - t-007
 
-- c-009
+- c-008
+  santrauka: 'Didysis magistras slapta iš Marienburgo išplaukė laivais Vysla, o per jūros įlanką įplaukė į Nemuną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
@@ -260,7 +247,8 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-010
+- c-009
+  santrauka: 'Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7
@@ -366,9 +354,9 @@ Nenurodyta
 - [[objektai/zodynas/Zabójnica]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/zodynas/villa kaimas sodžius]]
-- [[objektai/zodynas/šeštinės]]
 - [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
 - [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.)]]
-- [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]
 - [[objektai/zodynas/apsaugos raštas]]

@@ -41,13 +41,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tad praslinkus trims savaitėms nuo paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti savo atsimetimo nuo kry­ žiuočių planą.'
+  teiginys: 'Praėjus trims savaitėms po paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti atsiskyrimo nuo kryžiuočių planą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Praėjus trims savaitėms po paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti atsiskyrimo nuo kryžiuočių planą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tad praslinkus trims savaitėms nuo paskutinio susitarimo su

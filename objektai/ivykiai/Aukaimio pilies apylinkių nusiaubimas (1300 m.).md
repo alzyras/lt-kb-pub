@@ -42,25 +42,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Aukaimio pilies apylinkių nusiaubimą 1300 metais Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar išžudęs žmones.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į
-    Aukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar
-    išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
-    turėjo didelių nuostolių sunkiai sužeistaisiais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
@@ -79,21 +65,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Aukaimio pilies apylinkių nusiaubimą 1300 metais Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar išžudęs žmones.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    276 (269). Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
-
-       Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į
-    Aukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar
-    išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
-    turėjo didelių nuostolių sunkiai sužeistaisiais.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

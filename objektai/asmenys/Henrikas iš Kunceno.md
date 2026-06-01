@@ -25,7 +25,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo.'
+  teiginys: 'Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui ir vienuolyne pranoko kitus brolius dorybėmis.'
   pagrindžia:
     - c-003
 
@@ -51,6 +51,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -67,6 +68,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     - t-003
 
 - c-003
+  santrauka: 'Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui ir vienuolyne pranoko kitus brolius dorybėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Moteris, tiek kartų ir taip
@@ -84,20 +86,6 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    284 (277). Apie brolį Henriką iš Kunceno
-
-      Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Būdamas
-    pasauliečiu,  jis garsėjo kaip baisus žiauruolis, didelis grobikas  ir piktadarys.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

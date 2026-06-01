@@ -21,7 +21,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  teiginys: 'Žygimantas Augustas prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės, arba Braclavo, vaivadijas.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     - t-002
 
 - c-002
+  santrauka: 'Žygimantas Augustas prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės, arba Braclavo, vaivadijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš

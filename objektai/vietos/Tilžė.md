@@ -7,9 +7,8 @@ saltiniai:
 datos:
   - '1801 m.'
   - '1825 m.'
-  - '1923 m.'
 date_start: '1801'
-date_end: '1923'
+date_end: '1825'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,7 +16,6 @@ tags:
   - vieta
 amziai:
   - 'XIX'
-  - 'XX'
 ---
 # Tilžė
 
@@ -28,29 +26,13 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tilžė, 1923.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų delegacija.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Al. = Alekna, Ant., Prof., Lietuvos istorija. Antras pataisytas
-    leidimas. Tilžė, 1923.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų delegacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -64,4 +46,4 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir viešino tikinčiųjų diskriminavimo faktus.'
+  teiginys: 'Tikinčiųjų teisių gynimo komitetas teigė, kad kulto laisvė praktikoje varžoma, ir siekė katalikams lygių teisių su ateistais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tikinčiųjų teisių gynimo komitetas teigė, kad kulto laisvė praktikoje varžoma, ir siekė katalikams lygių teisių su ateistais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-

@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kaip pasiuntinys nuvykęs į Prūsiją, Vai­ dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­ dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­ žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.'
+  teiginys: '1380 m. Jogaila Rygoje sudarė paliaubas su Livonijos magistru, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1380 m. Jogaila Rygoje sudarė paliaubas su Livonijos magistru, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kaip pasiuntinys nuvykęs į Prūsiją, Vai­

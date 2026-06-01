@@ -31,13 +31,14 @@ amziai:
     - c-002
 
 - t-002
-  teiginys: '9 Kotzebue Switrigail, p. 83, cituo­ ja Slaptajame archyve esantį Švitrigai­ los laišką didžiajam magistrui, rašy­ tą iš Trakų, trečiadienį prieš Švč.'
+  teiginys: '1432 m. rugpjūčio 13 d. laiške didžiajam magistrui Švitrigaila prašė garantijų Vroclavo gyventojams keliauti per Ordino žemes su prekėmis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1432 m. rugpjūčio 13 d. laiške didžiajam magistrui Švitrigaila prašė garantijų Vroclavo gyventojams keliauti per Ordino žemes su prekėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     9

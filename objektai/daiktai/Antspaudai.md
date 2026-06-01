@@ -50,18 +50,19 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai, visa, ką iš prisiekusių liudininkų apie šios bažnyčios įkūri­ mą išgirdo, mums aprašė ir savo antspaudais patvirtino.'
+  teiginys: 'Komisarai prisiekusių liudininkų žinias apie Pabaisko bažnyčios įkūrimą aprašė ir patvirtino savo antspaudais.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Tokiems miestiečiams galėjo būti suteikti bajorų herbai, bet tik sutikus nors vienai pastariesiems priklausančiai šei­ mai, o viešiesiems reikalams magistratas negalėjo naudoti kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su šventojo Kristoforo.'
+  teiginys: 'Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Komisarai prisiekusių liudininkų žinias apie Pabaisko bažnyčios įkūrimą aprašė ir patvirtino savo antspaudais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     išsiaiškinti apie pelną ir
@@ -100,6 +101,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas pats Gardino seimas Vilniaus miesto
@@ -174,6 +176,7 @@ Nenurodyta
 - [[objektai/zodynas/manu proprio M.P]]
 - [[objektai/posakiai/„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“]]
 - [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
 - [[objektai/daiktai/Valstybės antspaudai]]

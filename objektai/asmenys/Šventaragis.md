@@ -28,13 +28,14 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 ## Teiginiai
 
 - t-001
-  teiginys: 'Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.'
+  teiginys: 'Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Franciszkanów Litew­
@@ -66,6 +67,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/paprociai/Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje]]
 - [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]
 - [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas]]
@@ -82,5 +85,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]
 - [[objektai/zodynas/žiogriai statinių tvoros palisadai]]
-- [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]
+- [[objektai/asmenys/Germantas]]
+- [[objektai/daiktai/Aukuras]]
 - [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje]]
+- [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]

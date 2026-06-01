@@ -40,48 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet Vytauto privilegija negalio­ jo žydų kitai sektai, vadinamai ka­ raimais, Lietuvoje, Trakų mieste, ir labai menkoje Vilniaus dalyje įsikūrusiems.'
+  teiginys: 'Karaimai buvo įsikūrę Trakuose ir nedidelėje Vilniaus dalyje, tačiau Vytauto privilegija jiems negaliojo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
-  teiginys: 'Tie karaimai, kurie išties galėtų būti vadinami žvdų disiden­ tais, atkeliavo į Lietuvą iš rytų, o įvairias aplinkybes įvertinęs, numa­ nau, kad jų atvykimą reikėtų Vytau­ to viešpatavimo laikams priskirti, juk šis kunigaikštis, kurio valdžia siekė tolimus.'
+  teiginys: 'Balińskis karaimų atvykimą į Lietuvą siejo su Vytauto laikais, nes Vytautas priimdavo ir priglobdavo ateivius iš rytų kraštų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tie karaimai, kurie išties
-    galėtų būti vadinami žvdų disiden­
-    tais, atkeliavo į Lietuvą iš rytų, o
-    įvairias aplinkybes įvertinęs, numa­
-    nau, kad jų atvykimą reikėtų Vytau­
-    to viešpatavimo laikams priskirti,
-    juk šis kunigaikštis, kurio valdžia
-    siekė tolimus rytų kraštus, noriai
-    priimdavo ateivius iš tų šalių ir juos
-    priglobdavo. Karaimai, gyvenantys
-    Trakuose, nors skurdžiai būdami ir
-    ne taip pašėlusiai besigriebiantys ri­
-    zikingiausių prekybinių sumany­
-    mų, kaip žydai, yra betgi garbingi,
-    ramūs ir darbštūs; gyvena Trakuo­
-    se, manydamiesi iš daržų, kur gau­
-    siai dera agurkai, kuriuos vežimais
-    į Vilniaus turgus gabena.
-    69
-    Žr. šios knygos V priedą
-    —  • —
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Karaimai buvo įsikūrę Trakuose ir nedidelėje Vilniaus dalyje, tačiau Vytauto privilegija jiems negaliojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet Vytauto privilegija negalio­
@@ -111,9 +82,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Vežimai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Karaimai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

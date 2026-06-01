@@ -44,13 +44,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'O vis dėlto Vilniuje, galingos valstybės sostinėje, Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­ tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­ čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­ giję feodalinio valdymo.'
+  teiginys: 'Gediminas 1337 m. buvo nužudytas mūšyje su kryžiuočiais prie Bajerburgo pilies, netoli Veliuonos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas 1337 m. buvo nužudytas mūšyje su kryžiuočiais prie Bajerburgo pilies, netoli Veliuonos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi toje epochoje, kai naujos civilizacijos
@@ -87,5 +88,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bremeno pirkliai]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Feodalinis ir leninis valdymas]]
 - [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]

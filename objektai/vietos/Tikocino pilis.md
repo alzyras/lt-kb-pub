@@ -18,13 +18,14 @@ Norėdami, kad šis mūsų valios pareiški­ mas greičiau pasiektų žmones, �
 ## Teiginiai
 
 - t-001
-  teiginys: 'Norėdami, kad šis mūsų valios pareiški­ mas greičiau pasiektų žmones, įsakėme tai perrašyti, kad ta­ da vienas būtų prie mūsų, kitas - pas jos didenybę karalaitę Oną, trečias - Tikocino pilyje.'
+  teiginys: '1571 m. gegužės 6 d. valdovas įsakė vieną savo testamento nuorašą laikyti Tikocino pilyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1571 m. gegužės 6 d. valdovas įsakė vieną savo testamento nuorašą laikyti Tikocino pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat šį perrašytą

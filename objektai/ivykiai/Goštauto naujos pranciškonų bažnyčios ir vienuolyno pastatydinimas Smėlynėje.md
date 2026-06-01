@@ -41,13 +41,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šis netikėtas ir liūdnas įvykis nė kiek neatšal­ dė Goštauto uolumo.'
+  teiginys: 'Goštautas Smėlynėje, netoli Vingrių šaltinių, pastatydino mūrinę pranciškonų bažnyčią ir vienuolyną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Goštautas Smėlynėje, netoli Vingrių šaltinių, pastatydino mūrinę pranciškonų bažnyčią ir vienuolyną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Algirdas viešai nubaudė to žiauraus poelgio vadei­
@@ -78,4 +79,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/zodynas/regula]]
+- [[objektai/asmenys/Goštautas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Petras Goštautas]]

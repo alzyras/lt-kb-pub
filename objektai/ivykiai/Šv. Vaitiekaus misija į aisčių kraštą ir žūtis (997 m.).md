@@ -58,7 +58,7 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     - c-002
 
 - t-004
-  teiginys: 'Po mirties Vaitiekus buvo paskelbtas šventuoju, krikščionybės kankiniu.'
+  teiginys: 'Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu.'
   pagrindžia:
     - c-003
 
@@ -93,6 +93,7 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     - t-003
 
 - c-003
+  santrauka: 'Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagonys tuo būdu atkeršijo už savo šventovės

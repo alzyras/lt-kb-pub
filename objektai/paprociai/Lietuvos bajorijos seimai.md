@@ -45,17 +45,17 @@ Nenurodyta
     - c-004
 
 - t-002
-  teiginys: 'Juo toliau, juo seimas darėsi vis įtakingesnis.'
+  teiginys: 'Nuo XVI a. vidurio Lietuvos bajorijos seimas tapo toks įtakingas, kad be jo nebūdavo sprendžiamas joks svarbesnis reikalas.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Bet ilgainiui provincijos atstovų parinkimui vietos bajorija kaskart vis daugiau skirdavo reikšmės.'
+  teiginys: 'Ilgainiui vietos bajorija vis daugiau reikšmės skyrė provincijos atstovų parinkimui į seimą.'
   pagrindžia:
     - c-005
 
 - t-004
-  teiginys: 'Seimai.'
+  teiginys: 'Lietuvos bajorijos seimai pirmiausia buvo reikalingi renkant naują didįjį kunigaikštį.'
   pagrindžia:
     - c-001
 
@@ -67,6 +67,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos bajorijos seimai pirmiausia buvo reikalingi renkant naują didįjį kunigaikštį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Seimai.** Įsigalėjus tarybai, atsirado ir seimai. Mat, būdavo
@@ -82,6 +83,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: 'Nuo XVI a. vidurio Lietuvos bajorijos seimas tapo toks įtakingas, kad be jo nebūdavo sprendžiamas joks svarbesnis reikalas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Juo toliau, juo seimas darėsi vis įtakingesnis. O nuo XVI
@@ -137,6 +139,7 @@ Nenurodyta
     - t-001
 
 - c-005
+  santrauka: 'Ilgainiui vietos bajorija vis daugiau reikšmės skyrė provincijos atstovų parinkimui į seimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet ilgainiui provincijos

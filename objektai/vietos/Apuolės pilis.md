@@ -25,10 +25,10 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 - t-001
   teiginys: 'Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti tiek karių, kiek esą turėjo išsipirkti po pusę svaro sidabro.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
-  teiginys: 'Nė sausakimšoje Apuolės pilia­ kalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek karių, kurie esą turėję nuo galvos išsipirkti, mokėdami po pusę svaro sidabro.'
+  teiginys: 'Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
     - t-003
 
 - c-002
+  santrauka: 'Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal vidurinių amžių kronikininkų
@@ -70,20 +71,4 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagal vidurinių amžių kronikininkų
-    didelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo
-    (7000) ir Apuolės (15.000) pilyse. Nė sausakimšoje Apuolės pilia­
-    kalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek
-    karių, kurie esą turėję nuo galvos išsipirkti, mokėdami po pusę
-    svaro sidabro. Iš XI-XII amž. danų šaltinių (Genealogia regum
-    Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai
-    protarpiais esą mokėję duoklę ir danams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001

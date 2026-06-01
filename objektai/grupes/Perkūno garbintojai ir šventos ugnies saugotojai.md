@@ -26,13 +26,14 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų.'
+  teiginys: 'Apie 1345 metus Vilniaus prastuomenę galėjo pakiršinti Perkūno garbintojai ir šventos ugnies saugotojai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 1345 metus Vilniaus prastuomenę galėjo pakiršinti Perkūno garbintojai ir šventos ugnies saugotojai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     T. Il,

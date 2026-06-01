@@ -23,13 +23,14 @@ Dusburgietis teigia, kad mikalauskaitė E.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mikalauskaitė E.'
+  teiginys: 'E. Mikalauskaitės straipsnis „Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa“ paskelbtas 1938 m. „Archivum philologicum“ 7 knygoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'E. Mikalauskaitės straipsnis „Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa“ paskelbtas 1938 m. „Archivum philologicum“ 7 knygoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum

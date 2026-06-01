@@ -28,13 +28,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '71 Horodlės seime Lietuvai išduotas unijos aktas prieš trisdešimt metų buvo Kunigaikščių Radvilų Nesvyžiaus archyve,auten­ tiškas, kaip kad matyti iš MSS, kurį turiu prieš akis, pavad. Lustracya Archiwów zamku Nieświżskiego, wszystkich Regestrów od JP.'
+  teiginys: 'Horodlės seime Lietuvai išduotas unijos aktas buvo laikomas Kunigaikščių Radvilų Nesvyžiaus archyve.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Horodlės seime Lietuvai išduotas unijos aktas buvo laikomas Kunigaikščių Radvilų Nesvyžiaus archyve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     71

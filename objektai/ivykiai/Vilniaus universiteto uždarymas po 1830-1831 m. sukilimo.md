@@ -44,7 +44,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '1855 m. ca­ rui Aleksandrui II pradėjus liberalias reformas, Rusijos imperi­ joje krašto šviesuomenė puoselėjo viltį atkurti iki 1830-1831 m. sukilimo klestėjusį Vilniaus universitetą.'
+  teiginys: '1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė tikėjosi atkurti iki 1830-1831 m. sukilimo klestėjusį Vilniaus universitetą.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė tikėjosi atkurti iki 1830-1831 m. sukilimo klestėjusį Vilniaus universitetą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1855 m. ca­

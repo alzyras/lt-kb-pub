@@ -54,19 +54,6 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
     - t-001
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šio proceso ankstyvąja apraiška reikėtų laikyti
-    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
-    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
-    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
-    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-003
   santrauka: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

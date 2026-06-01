@@ -19,13 +19,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '22 dienas tęsėsi apsuptis, o dviejų poilsio dienų metu į pagalbą apsuptie­ siems atvyko Ordino maršalas Henrikas Duseneris ir Reino palatinas su stipriom pajėgom.'
+  teiginys: 'Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Gedimi­
@@ -48,3 +49,4 @@ tags:
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/apsiaustis]]

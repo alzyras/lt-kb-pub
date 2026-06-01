@@ -24,7 +24,7 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rašo jis klasiškomis eilėmis, labai švelniai, sakyčiau, net kai kur—peršvelniai, taip, kad jo satyriškų knybtelėjimų be komentoriaus negalima nė su­ prasti, nors civilės drąsos jis turi užtektinai, nes savo satyros objektų nebijo net tikrais vardais pavadinti.'
+  teiginys: 'Satyros objektus autorius nebijojo vadinti tikrais vardais, nors jo satyriški knybtelėjimai laikyti labai švelniais.'
   pagrindžia:
     - c-003
 
@@ -65,6 +65,7 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
     - t-002
 
 - c-003
+  santrauka: 'Satyros objektus autorius nebijojo vadinti tikrais vardais, nors jo satyriški knybtelėjimai laikyti labai švelniais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Autorius temas semia iš bėgančiojo gyvenimo laikinoj mūsų sos­

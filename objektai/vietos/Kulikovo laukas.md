@@ -27,13 +27,14 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo.'
+  teiginys: 'Andrius, Dmitrijaus Doniškio bendražygis, 1380 m. rugsėjo 8 d. Kulikovo lauke daug prisidėjo prie pergalės prieš totorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Andrius, Dmitrijaus Doniškio bendražygis, 1380 m. rugsėjo 8 d. Kulikovo lauke daug prisidėjo prie pergalės prieš totorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus

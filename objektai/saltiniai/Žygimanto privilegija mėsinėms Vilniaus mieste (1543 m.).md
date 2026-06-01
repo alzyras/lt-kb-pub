@@ -32,7 +32,7 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
     - c-001
 
 - t-002
-  teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
+  teiginys: '1543 m. privilegijoje minimas ginčas tarp Vilniaus vyskupo Povilo ir Vilniaus vaito, tarėjų bei miestiečių dėl mėsinių turguje.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
     - t-001
 
 - c-002
+  santrauka: '1543 m. privilegijoje minimas ginčas tarp Vilniaus vyskupo Povilo ir Vilniaus vaito, tarėjų bei miestiečių dėl mėsinių turguje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skelbiame visiems ir

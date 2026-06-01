@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau mūšio metu į me­ dinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį didelę Vilniaus dalį pasiglemžė ugnis.'
+  teiginys: 'Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė gaisrą, per kurį sudegė didelė miesto dalis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė gaisrą, per kurį sudegė didelė miesto dalis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jurgio vėliava puolė į mūšį Ordino

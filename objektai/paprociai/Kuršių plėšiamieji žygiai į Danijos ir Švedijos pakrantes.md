@@ -42,7 +42,7 @@ Nenurodyta
 - t-002
   teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -60,20 +60,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ankstyvųjų šaltinių ir archeologiniai duomenys leidžia teigti, kad
-    kai kurių pietvakarių baltų genčių kariniai junginiai yra dalyvavę
-    karo žygiuose į yrančios Romos imperijos teritoriją. Vikingų epo-
-    choje prie jūros gyvenusiems prūsams ir kuršiams teko atremti
-    plėšikaujančius skandinavus. Tiesa, kuršiai XI a. jau ir patys reng-
-    davo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

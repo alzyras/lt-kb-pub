@@ -32,62 +32,31 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
 - t-001
   teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai perėjo į kalvinistų tikėjimą.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-002
   teiginys: 'XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
   teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-005
   teiginys: 'Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos reformacijos ryškiausia ir įtakin-
-    giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
-    Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibli-
-    ją“. XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai buvo
-    perėję į reformaciją ir sekuliarizavę savo pačių funduotas bažnyčias – tai
-    sudarė pusę visų bažnyčių. Kalvinizmas vėliau pradėjo nykti, tačiau išliko
-    iki šių dienų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau Lietuvoje formavosi labai gausi Evangelikų re-
-    formatų bažnyčia, gerokai stipresnė nei Lenkijoje. Tai nulėmė, kad LDK
-    didikai (aukščiausias visuomenės sluoksnis) parėmė būtent evangelikų
-    reformatų tikėjimą. Beveik visi didikai katalikai, taip pat dalis ortodoksų
-    perėjo į kalvinistų tikėjimą ir sekuliarizavo beveik 50 proc. katalikų baž-
-    nyčių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal liberum veto
@@ -113,7 +82,7 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   pagrindžia:
     - t-003
 
-- c-004
+- c-002
   santrauka: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -134,8 +103,9 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
-- c-005
+- c-003
   santrauka: 'Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -150,6 +120,7 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   statusas: verified
   pagrindžia:
     - t-005
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

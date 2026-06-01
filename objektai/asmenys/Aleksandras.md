@@ -32,7 +32,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - t-001
   teiginys: 'Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
@@ -42,7 +42,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - t-003
   teiginys: 'Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d. Džiugi žinia dar spėjo pasiekti mirštantį valdovą Aleksandrą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.'
@@ -69,26 +69,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    YD rugpjūčio 12 d. Džiugi
-
-    žinia dar spėjo pasiekti
-
-    mirštantį valdovą Aleksandrą.
-    Mengli-Girėjus, gavęs žinią apie toto-
-    riams fatališkai pasibaigusį mūšį, tuojau pat
-    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
-    pranešti, kad chanas labai noriai laikysis ge-
-    gužės mėnesį suderėtos taikos. Pasiuntinys
-    taip pat gabeno Kazanės chano Mahometo-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
     rugpjūčio 8 d. Mūšio
     nugalėtojas Mykolas
     Glinskis triumfuo-
@@ -110,8 +90,9 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tą pačią
@@ -179,11 +160,15 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai]]
 - [[objektai/zodynas/fizikas rūmų daktaras Leibarzt]]
 - [[objektai/zodynas/taikos suvažiavimai]]
-- [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
 - [[objektai/zodynas/švietimo apygarda]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/daiktai/Aleksandro lektika]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]
+- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
+- [[objektai/zodynas/Zabójnica]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]

@@ -35,32 +35,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rėjoje kūlė javus, o jos viduje buvo duoba javams džiovinti.'
+  teiginys: 'Neturtingieji rėjos duoboje pėrėsi, nes ant kakalio buvo sukrauta krosnis.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Neturtingieji toje duoboje kartais ir pėrėsi.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Penktasis trobesys buvo taip pat pailguotinai ketvirtainis, reja vadinamas, kuriame javus
-        sausus, iš duobos^232 išimdamies, ant kluono pakloję kūlė. Toje rėjoje buvo ketvirtainis rentinys,
-        aukštesnis už rėjos sienas, duoba vadinamas, mažne pusę rėjos užimąs su kakaliu, kurioje javus
-        džiovino, ant tos duobos buvo doris^233 , arba salyklininkas, kuriame buvo langelis, garvilka
-        vadinamas, kame salyklą džiovino; pažastėse tos duobos buvo peludės, kur pelus pylė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Neturtingieji rėjos duoboje pėrėsi, nes ant kakalio buvo sukrauta krosnis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pas
@@ -71,4 +53,4 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

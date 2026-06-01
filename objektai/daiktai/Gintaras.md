@@ -78,5 +78,4 @@ Nenurodyta
 - [[objektai/asmenys/Violeta Urmana]]
 - [[objektai/posakiai/„idealiąją Lietuvą“]]
 - [[objektai/daiktai/Gintaro ir stiklo karoliai]]
-- [[objektai/autoriai/P. Būtėnas]]
 - [[objektai/paprociai/Aukojimas ant auko kalnų ir didžiųjų akmenų]]

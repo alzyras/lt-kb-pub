@@ -20,7 +20,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo pat metu buvo suorganizuotas lig šiol nebuvęs centralinės valdžios organas, pavadintas Nuolatine Taryba.'
+  teiginys: 'Tuo metu buvo suorganizuotas iki tol nebuvęs centrinės valdžios organas, pavadintas Nuolatine Taryba.'
   pagrindžia:
     - c-001
 
@@ -47,6 +47,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tuo metu buvo suorganizuotas iki tol nebuvęs centrinės valdžios organas, pavadintas Nuolatine Taryba.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet

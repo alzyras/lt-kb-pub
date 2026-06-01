@@ -27,13 +27,14 @@ Po sukilimo vykusios represijos sustabdė istoriko planų įgyvendinimą, nors j
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po sukilimo vykusios represijos sustabdė istoriko planų įgyvendinimą, nors jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­ lo Muravjovo - Koriko represijas krašte.'
+  teiginys: 'Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo

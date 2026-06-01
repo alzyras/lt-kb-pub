@@ -33,7 +33,7 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
     - c-004
 
 - t-002
-  teiginys: '1569 Liublino unija.'
+  teiginys: '1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.'
   pagrindžia:
     - c-006
 
@@ -166,6 +166,7 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
     - t-006
 
 - c-006
+  santrauka: '1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir Lietuvos jungtinė kariuomenė

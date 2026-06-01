@@ -47,18 +47,6 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    124. Apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų
-
-      1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų 1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -79,6 +67,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -33,74 +33,46 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - t-001
   teiginys: 'Jurgis Radvila Vilniaus diecezijoje nusprendė steigti ir funduoti kolegiją dėl kunigų ir kitų patarnautojų trūkumo.'
   pagrindžia:
-    - c-001
+    - c-004
 
 - t-002
   teiginys: 'Kolegijoje turėjo būti išlaikomas ir dievobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuolių skaičius.'
   pagrindžia:
-    - c-001
+    - c-004
 
 - t-003
   teiginys: 'Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti skyrė Vozgėliškių dvarelį Vilniaus paviete.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
   teiginys: 'Vozgėliškių dvarelis su teisėmis, pajamomis, medžiokle, žūkle ir dominijos teise buvo neatšaukiamai perduotas klierikų kolegijai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-005
   teiginys: 'Karaliaus Stepono buvo prašoma priimti Vilniaus seminariją į savo globą ir gynybą.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
   teiginys: 'Klierikų mokymas ir kolegijos vadovavimas buvo patikėti Vilniaus Jėzaus draugijos kolegijai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-007
-  teiginys: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
+  teiginys: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-008
-  teiginys: 'Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo pajamų ir kapitulos, ir visokios rūšies vertybių, personatų, pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­ sų diecezijoje egzistuojančių.'
+  teiginys: 'Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti pridėjo Vozgėliškėmis vadintą dvarelį Vilniaus paviete.'
   pagrindžia:
-    - c-005
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IV KNYGA
-    Vardan Kristaus Amen. Amžinai dalykų atminčiai. Šven­
-    tasis ekumeninis Tridento Sinodas nusprendė, kad norint
-    išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį
-    tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­
-    vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai
-    gyvuojančią seminariją, iš kur jaunuoliai, nuo jaunystės įgi­
-    ję dievobaimingumo, išmokyti geriausių menų, išeitų vyk­
-    dyti bažnytinių pareigų. Taigi, kai mes, Jurgis Radvila,
-    Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
-    nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų
-    miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir
-    funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­
-    zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­
-    tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme
-    įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­
-    vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­
-    lių skaičius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
@@ -132,8 +104,9 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   statusas: verified
   pagrindžia:
     - t-003
+    - t-008
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -169,7 +142,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   pagrindžia:
     - t-004
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kadangi no­
@@ -196,34 +169,8 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
     - t-005
     - t-006
 
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Suprantame, kad mūsų ganytojiškoms parei­
-    goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
-    pajamų ir kapitulos, ir visokios rūšies vertybių, personatų,
-    pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­
-    sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
-    porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
-    minėtos kolegijos ir inkorporuota. Nors, esant dabartinėms
-    nelaimėms, nuolatiniams nuostoliams dėl karo su Maskva,
-    mes neprivalome savęs apsunkinti naujais vargais, atsižvelg­
-    dami į savo padėtį, sunkiai galime aprūpinti lėšomis, tačiau
-    tikėdamiesi, kad Viešpaties, kurismeapleidžia gerų darbų,
-    ranka nesutrumpėjusi, paties Viešpaties Dievo vardu nu­
-    sprendžiame ir funduojame mūsų klierikų kolegiją ir fun-
-    davimui bei jos aprūpinimui jai pridedame mūsų patrimo-
-    nialinį dvarelį Vilniaus paviete, vadinamą Vozgėliškėmis*.
-    —  • —
-    427
-    Vaisgėliškis (vert.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-006
+- c-004
+  santrauka: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Quod quidem praedium cum kominikus, villis,
@@ -254,6 +201,8 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   statusas: verified
   pagrindžia:
     - t-007
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

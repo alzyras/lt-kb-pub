@@ -23,13 +23,14 @@ Dusburgietis teigia, kad krakowski S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad krakowski S.'
+  teiginys: 'S. Krakowskio darbas „Obrona pogranicza wschodniego Małopolski za Leszka Czarnego“ paskelbtas Lodzėje 1960 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Krakowskio darbas „Obrona pogranicza wschodniego Małopolski za Leszka Czarnego“ paskelbtas Lodzėje 1960 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Krakowski S. Obrona pogranicza wschodniego Małopolski za Leszka Czarnego.—

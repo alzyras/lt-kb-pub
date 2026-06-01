@@ -25,13 +25,14 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jos žemupys paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­ muno pusėje įteka Šventoji.'
+  teiginys: 'Siena į Nemuną buvo išvesta ties vieta, priešais kurią dešinėje Nemuno pusėje įteka Šventoji.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Siena į Nemuną buvo išvesta ties vieta, priešais kurią dešinėje Nemuno pusėje įteka Šventoji.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šešupės krantu ji ėjo per girių masyvus. Jos žemupys

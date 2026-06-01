@@ -34,12 +34,12 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
 - t-002
   teiginys: 'Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus, jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą, Karšuvos žemėje343, ant švento Jurgio.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
+  teiginys: '1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -61,25 +61,10 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas
-    ten Livonijos broliams iš Prūsijos žemės kaip magistras. Turėdamas kuo tiksliausių žinių
-    apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus,
-    jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą,
-    Karšuvos žemėje343, ant švento Jurgio kalno344, 1259 viešpaties metais būtų pastatyta
-    pilis, kuri tada buvo itin reikalinga krikščionių tikėjimui plėsti. Pastačius šią  pilį, jai
-    saugoti ten buvo palikta Prūsijos ir Livonijos brolių bei ginklanešių įgula, sudaryta iš
-    vyrų, tinkamai parinktų ir įgudusių kovoti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
+  santrauka: '1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     84 (81). Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­

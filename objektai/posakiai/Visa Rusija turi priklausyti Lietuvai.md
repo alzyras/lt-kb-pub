@@ -29,23 +29,24 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ivinskio pasakojime ši formuluotė tiesiogiai priskiriama Algirdui kaip jo pareiškimas apie Rusią.'
+  teiginys: 'Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Ivinskio pasakojime pateikiamas ir lotyniškas šios formulės atitikmuo.'
+  teiginys: 'Lotyniška formulė „Omnis Russia ad Letwinos deberet simpliciter pertinere“ reiškė, kad visa Rusia turėtų priklausyti lietuviams.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip Algirdo politinė pretenzijos formulė.'
+  teiginys: 'Algirdas pareiškė, kad visa Rusija turi priklausyti Lietuvai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdas pareiškė, kad visa Rusija turi priklausyti Lietuvai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Gediminas laikė save „daugelio rusų" valdovu, o Algirdas
@@ -58,6 +59,7 @@ tags:
     - t-003
 
 - c-002
+  santrauka: 'Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Padėtis tačiau
@@ -76,6 +78,7 @@ tags:
     - t-001
 
 - c-003
+  santrauka: 'Lotyniška formulė „Omnis Russia ad Letwinos deberet simpliciter pertinere“ reiškė, kad visa Rusia turėtų priklausyti lietuviams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^14) **SRP, II, 80 p. (« Omnis Russia ad Letwinos deberet simpliciter
@@ -94,3 +97,4 @@ tags:
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Lietuviai]]

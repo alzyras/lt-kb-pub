@@ -29,7 +29,7 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
     - c-002
 
 - t-003
-  teiginys: 'Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ duktingumą, išplėsti jį naujose, neapgyventose žemėse, įkur­ dinant juose dvaro žmones, arba nuomininkus.'
+  teiginys: 'Vytauto vietininkai plėtė dvarus neapgyventose žemėse, įkurdindami dvaro žmones arba nuomininkus.'
   pagrindžia:
     - c-003
 
@@ -71,7 +71,7 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
     - t-002
 
 - c-003
-  santrauka: 'Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ duktingumą, išplėsti jį naujose, neapgyventose žemėse, įkur­ dinant juose dvaro žmones, arba nuomininkus.'
+  santrauka: 'Vytauto vietininkai plėtė dvarus neapgyventose žemėse, įkurdindami dvaro žmones arba nuomininkus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai buvo tam tikra žemės

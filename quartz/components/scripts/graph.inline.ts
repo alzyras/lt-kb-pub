@@ -67,15 +67,6 @@ const isGraphSuppressedSlug = (slug: SimpleSlug | string) => {
   return publicNavigationSuppressedLinkPrefixes.some((prefix) => value.startsWith(prefix))
 }
 
-function isElementVisible(element: HTMLElement): boolean {
-  const checkVisibility = (element as HTMLElement & { checkVisibility?: () => boolean })
-    .checkVisibility
-  if (typeof checkVisibility === "function") {
-    return checkVisibility.call(element)
-  }
-  return element.getClientRects().length > 0
-}
-
 function getVisited(): Set<SimpleSlug> {
   return new Set(JSON.parse(localStorage.getItem(localStorageKey) ?? "[]"))
 }
@@ -136,9 +127,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       await (graphRuntime.loadGraphIndex?.() ?? Promise.resolve({})),
     ).map(([k, v]) => [simplifySlug(k as FullSlug), v]),
   )
-  const links: SimpleLinkData[] = []
-  const tags: SimpleSlug[] = []
   const validLinks = new Set([...data.keys()].filter((key) => !isGraphSuppressedSlug(key)))
+  const allLinks: SimpleLinkData[] = []
+  const adjacencyOut = new Map<SimpleSlug, SimpleSlug[]>()
+  const adjacencyIn = new Map<SimpleSlug, SimpleSlug[]>()
+  const tags = new Set<SimpleSlug>()
+
+  const addSimpleLink = (source: SimpleSlug, target: SimpleSlug) => {
+    allLinks.push({ source, target })
+    const outgoing = adjacencyOut.get(source) ?? []
+    outgoing.push(target)
+    adjacencyOut.set(source, outgoing)
+    const incoming = adjacencyIn.get(target) ?? []
+    incoming.push(source)
+    adjacencyIn.set(target, incoming)
+  }
 
   const tweens = new Map<string, TweenNode>()
   for (const [source, details] of data.entries()) {
@@ -149,7 +152,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     for (const dest of outgoing) {
       if (!isGraphSuppressedSlug(dest) && validLinks.has(dest)) {
-        links.push({ source: source, target: dest })
+        addSimpleLink(source, dest)
       }
     }
 
@@ -158,10 +161,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         .filter((tag) => !removeTags.includes(tag))
         .map((tag) => simplifySlug(("tags/" + tag) as FullSlug))
 
-      tags.push(...localTags.filter((tag) => !tags.includes(tag)))
+      localTags.forEach((tag) => tags.add(tag))
 
       for (const tag of localTags) {
-        links.push({ source: source, target: tag })
+        addSimpleLink(source, tag)
       }
     }
   }
@@ -177,9 +180,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         wl.push("__SENTINEL")
       } else {
         neighbourhood.add(cur)
-        const outgoing = links.filter((l) => l.source === cur)
-        const incoming = links.filter((l) => l.target === cur)
-        wl.push(...outgoing.map((l) => l.target), ...incoming.map((l) => l.source))
+        wl.push(...(adjacencyOut.get(cur) ?? []), ...(adjacencyIn.get(cur) ?? []))
       }
     }
   } else {
@@ -195,9 +196,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       tags: data.get(url)?.tags ?? [],
     }
   })
+  const nodeById = new Map(nodes.map((node) => [node.id, node]))
+  const visibleLinks = depth >= 0 ? [...neighbourhood].flatMap((source) => {
+    return (adjacencyOut.get(source) ?? []).map((target) => ({ source, target }))
+  }) : allLinks
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
     nodes,
-    links: links
+    links: visibleLinks
       .filter((l) => {
         if (!neighbourhood.has(l.source) || !neighbourhood.has(l.target)) {
           return false
@@ -208,8 +213,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         return true
       })
       .map((l) => ({
-        source: nodes.find((n) => n.id === l.source)!,
-        target: nodes.find((n) => n.id === l.target)!,
+        source: nodeById.get(l.source)!,
+        target: nodeById.get(l.target)!,
       })),
   }
 
@@ -722,7 +727,23 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
     container.dataset.graphLoaded = "true"
     container.querySelector(".graph-load-button")?.remove()
-    localGraphCleanups.push(await renderGraph(container, slug))
+    const loading = document.createElement("div")
+    loading.className = "graph-load-status"
+    loading.textContent = "Kraunamas grafikas..."
+    container.appendChild(loading)
+    try {
+      localGraphCleanups.push(await renderGraph(container, slug))
+    } catch (error) {
+      console.error(error)
+      removeAllChildren(container)
+      container.dataset.graphLoaded = "false"
+      const retry = document.createElement("button")
+      retry.type = "button"
+      retry.className = "graph-load-button"
+      retry.textContent = "Nepavyko įkelti grafiko. Bandyti dar kartą"
+      retry.addEventListener("click", () => void renderLocalGraph(container), { once: true })
+      container.appendChild(retry)
+    }
   }
 
   function setupLocalGraphs() {
@@ -732,10 +753,6 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       const graph = container as HTMLElement
       graph.dataset.graphLoaded = "false"
       removeAllChildren(graph)
-      if (isElementVisible(graph)) {
-        void renderLocalGraph(graph)
-        continue
-      }
       const button = document.createElement("button")
       button.type = "button"
       button.className = "graph-load-button"

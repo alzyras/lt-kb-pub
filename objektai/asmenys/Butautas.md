@@ -28,13 +28,14 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 ## Teiginiai
 
 - t-001
-  teiginys: 'Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu, kuris vėliau dažnai da­ lyvaudavo vokiečių derybose vertėju, su savo draugu Survila 1365 metų liepos mėn.'
+  teiginys: 'Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Butautas, kuriam šaltiniai duoda įvai­
@@ -58,7 +59,6 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 - [[objektai/asmenys/Vaidotas]]
 - [[objektai/grupes/Valimantaičiai]]
 - [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]
-- [[objektai/posakiai/Čia pirmoji yra lietuvių tautos vieta]]
 - [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
 - [[objektai/asmenys/Survila]]
 - [[objektai/asmenys/Vaidotas (Butauto sūnus)]]

@@ -27,9 +27,9 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“ Immanuel Kant (1724–1804) Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės Š iuo.'
+  teiginys: 'Immanuelio Kanto tekstas apie lietuvių kalbą buvo išspausdintas Kristijono Gotlibo Milkaus lietuvių ir vokiečių kalbų žodyno pratarmėje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės.'
@@ -64,37 +64,12 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    III s k y r i u s
-    Rusijos imperijos
-    valdoma Lietuva
-    (1795–1915)
-    „Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių
-    pagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė
-    už tai, kad ji sukūrė, išdailino detales ir vartojimą aukščiausiai
-    išvystytos žmonių kalbos su savita gražia ir aiškia fonologija.
-    Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai
-    gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“
-    Immanuel Kant (1724–1804)
-    Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir
-     vokiečių–lietuvių kalbų žodyno“ pratarmės
-    Š
-    iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės)
-    priklausė autokratinei Rusijos imperijai (išskyrus pus-
-    mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
-    liudą“).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/autokratinė monarchinė imperija]]
 - [[objektai/zodynas/interliudas]]
 - [[objektai/posakiai/„Iš tikrųjų jokia kita pasaulio kalba...“]]

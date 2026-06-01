@@ -33,27 +33,27 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - t-001
   teiginys: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Mykolas Lietuvis savo svarstymuose Vytauto laikų papročių rigorizmą ir asketizmą priešpriešino savo meto visuomenės išglebimui, girtuoklystei ir netvarkai.'
   pagrindžia:
-    - c-003
+    - c-004
 
 - t-003
   teiginys: 'Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“.'
   pagrindžia:
-    - c-003
+    - c-004
 
 - t-004
   teiginys: 'Apie tai yra rašęs Mykolas L i e t u v i s, p. 28.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-005
   teiginys: '(Kaip liudija Mykolas Lietuvis, jos su kitomis čia saugotomis sudegė per 1530 m. gaisrą).'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-006
   teiginys: 'Mykolas Lietuvis rašė apie Keturiasdešimties Totorių kaimo pavadinimo kilmę.'
@@ -63,7 +63,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - t-007
   teiginys: 'Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų kalbos.'
   pagrindžia:
-    - c-006
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -87,48 +87,9 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vilnius,
-    1966, p. 39.
-    63
-    Tolesniuose mūsų istorijos pasakoji­
-    muose plačiau išdėstysime apie tą to­
-    torių gyvenamą miesto dalį; prie Vo­
-    kės, be kitų totorių, buvo apsigyvenę
-    40 brolių, todėl iki šios dienos ta gy­
-    venvietė vadinama Sorok Tatary, iš ru­
-    sų k. išvertus reiškia - Keturiasdešim­
-    ties Totorių kaimas. Apie tai yra rašęs
-    Mykolas L i e t u v i s, p. 28.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-
-    mavosi iškeliant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras
-    renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Gies-
-    mė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto
-    laikus parodyti kaip idealą savo laikų visuomenei. Šias idėjas randame ir
-    Mykolo Lietuvio svarstymuose apie valstybės tvarką („Apie totorių, lietuvių
-    ir maskvėnų papročius“, apie 1550), kurioje Vytauto laikų papročių rigoriz-
-    mas ir asketizmas yra priešpriešinamas savo meto visuomenės išglebimui,
-    girtuoklystei ir netvarkai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-004
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     62
@@ -155,7 +116,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   pagrindžia:
     - t-001
 
-- c-005
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kilmingi žuvusieji buvo atvežti ir palai-
@@ -172,7 +133,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   pagrindžia:
     - t-005
 
-- c-006
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-
@@ -190,6 +151,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   statusas: verified
   pagrindžia:
     - t-007
+    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

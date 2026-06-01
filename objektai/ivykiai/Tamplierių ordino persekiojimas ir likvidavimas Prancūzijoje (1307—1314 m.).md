@@ -49,7 +49,6 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad neseniai Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.'
   pagrindžia:
-    - c-003
     - c-001
 
 - t-002
@@ -87,19 +86,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
-    Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
-    Teutonų ordinas.
-      1307 m.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

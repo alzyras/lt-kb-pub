@@ -20,7 +20,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 325 D.— Waldow, Jer.— Waldowe; Valdava (plg.'
+  teiginys: 'Valdava buvo valsčiaus centras į rytus nuo dabartinio Kaliningrado, o pilis greičiausiai stovėjo šiauriau Valdavos.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valdava buvo valsčiaus centras į rytus nuo dabartinio Kaliningrado, o pilis greičiausiai stovėjo šiauriau Valdavos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     325 D.— Waldow, Jer.— Waldowe; Valdava (plg. lie. Valduva, kaimas prie Biržų),

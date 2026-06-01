@@ -35,12 +35,12 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - c-007
 
 - t-003
-  teiginys: 'Lietuvos istorijos klausimus gvildeno jau minėtas P.'
+  teiginys: 'P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.'
   pagrindžia:
     - c-010
 
 - t-004
-  teiginys: 'Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R.'
+  teiginys: 'R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
   pagrindžia:
     - c-001
 
@@ -50,12 +50,12 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - c-009
 
 - t-006
-  teiginys: 'Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­ mais rašė istorikai: P.'
+  teiginys: 'P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus.'
   pagrindžia:
     - c-002
 
 - t-007
-  teiginys: 'Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­ mas jam 1848-1914 m. (AkMD, t.'
+  teiginys: 'P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.'
   pagrindžia:
     - c-008
 
@@ -65,23 +65,19 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - c-003
 
 - t-009
-  teiginys: ', 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).'
-  pagrindžia:
-    - c-011
-
-- t-010
-  teiginys: 'Girdzijaus­ kienė: 1905-1907 metų revoliucija Lietuvoje (1955).'
+  teiginys: 'P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.'
   pagrindžia:
     - c-005
 
-- t-011
-  teiginys: 'Bičkauskas - Gentvila (1958), kuris taip pat svarstė ir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir Baltarusijoje^118 ; V.'
+- t-010
+  teiginys: 'L. Bičkauskas-Gentvila rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     LTSR Mokslų
@@ -100,6 +96,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - t-004
 
 - c-002
+  santrauka: 'P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     I-jo Lietuvos Statuto šaltinių, terminų ir paleografijos
@@ -139,6 +136,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - t-008
 
 - c-004
+  santrauka: 'L. Bičkauskas-Gentvila rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     R. Strazdūnaitė:
@@ -158,9 +156,10 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 - c-005
+  santrauka: 'P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Augustavo gubernijoje (AkMD, t. 19, 1965, 143-
@@ -176,7 +175,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -206,6 +205,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - t-002
 
 - c-008
+  santrauka: 'P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     S. Matulaitytė rašo apie astro­
@@ -244,6 +244,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - t-005
 
 - c-010
+  santrauka: 'P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     J. Stankus rašė
@@ -261,33 +262,8 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   pagrindžia:
     - t-003
 
-- c-011
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Žr. LE, t. 36, 384-385 p.**
-    (^103) **Tuo tarpu apie grublėtąją keramiką Lietuvoje rašė Y. Daugudis
-    (AkMD, t. 22, 1966, 55-65 p.) ; be to, jis domėjosi ir Aukštadvario pilia­
-    kalniu (AkMD, t. 12, 1962, 43-67 p.).**
-    (^104) **AkMD, t. 32, 33 ir 34, 1970, 113-133 p., 113-129 p., 57-74 p.**
-    (^105) **Parašė, be kitko :** **_Lietuvių kova prieš kalavijuočius_** **(1945),** **_Kry­
-    žiuočių valstybės santvarkos bruožai_** **(1948) ; vienašališkai poleminė yra jo
-    knyga** **_Popiežiai lietuvių tautos priešai_** **(1948).**
-    (^106) **Jis dar parašė :** **_Lietuvos Didžiųjų Kunigaikščių metraštis_** **(AkMD,
-    t. 3, 1957, 111-120 p.) ;** **_Naujausi Lenkijos liaudies respublikos istoriku darbai
-    apie Lietuvos Didžiąją Kunigaikštystę_** **(AkMD, t. 7, 1959, 77-87 p.),** **_Rusų
-    istorikai apie Lietuvos Didžiąją Kunigaikštystę_** **(AkMD, t. 9, 1960, 67-77 p.),**
-    **_Bandymai išlaisvinti valstiečius Lietuvoje XVIII a. pabaigoje - XIX a. pra­
-    džioje_** **(AkMD, t. 34, 1970, 85-96 p.);** **_Slaptos studentų draugijos Vilniaus
-    Medicinos-Chirurgijos Akademijoje 1832-1841 m._** **(AkMD, t. 4, 1958, 135-**
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
@@ -297,7 +273,5 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 - [[objektai/zodynas/ekonomija]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/inventoriai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]

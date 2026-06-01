@@ -28,13 +28,14 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo.'
+  teiginys: 'Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi toje epochoje, kai naujos civilizacijos

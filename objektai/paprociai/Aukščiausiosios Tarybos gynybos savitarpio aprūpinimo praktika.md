@@ -42,7 +42,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
+  teiginys: 'Aukščiausiosios Tarybos gynybos metu Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios pagalbos ir medicininio vadovavimo punktą.'
   pagrindžia:
     - c-003
 
@@ -82,6 +82,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Aukščiausiosios Tarybos gynybos metu Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios pagalbos ir medicininio vadovavimo punktą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     deputatų pastangomis. Medicininę pagalbą

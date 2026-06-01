@@ -42,24 +42,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie švento Ruprechto stebuklus Karaliaučiuje 1306 viešpaties metais Prūsijoje, Karaliaučiaus pilyje, viešpats ėmė daryti stebuklus prie švento Ruprechto relikvijų, kur pagijo nuo visokiausių negalių daug žmonių, šunų bei visokių traukos gyvulių.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1306 viešpaties metais Prūsijoje, Karaliaučiaus pilyje, viešpats ėmė daryti stebuklus
-    prie švento Ruprechto relikvijų, kur pagijo nuo visokiausių negalių daug žmonių, šunų
-    bei visokių traukos gyvulių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     101. Apie švento Ruprechto stebuklus Karaliaučiuje

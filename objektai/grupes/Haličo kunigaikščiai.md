@@ -41,7 +41,7 @@ Politinė ir karinė kunigaikščių grupė.
 - t-003
   teiginys: '1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -64,27 +64,6 @@ Politinė ir karinė kunigaikščių grupė.
   pagrindžia:
     - t-001
     - t-002
-
-- c-002
-  santrauka: '1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    T. 1, p. 554.
-    8
-
-    ## Puslapis 25
-
-    ĮVADAS
-    denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;
-    Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino
-    1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu
-    su Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­
-    tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
-    savo tvirtovėmis ir prekyba.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -94,4 +73,3 @@ Politinė ir karinė kunigaikščių grupė.
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Nogajus]]

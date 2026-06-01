@@ -30,23 +30,24 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po Paleckių mirties jų sūnūs turėjo privilegijas atiduoti miestui su teise per dvidešimt savai­ čių išparduoti visą likusį stiklą ir stiklines.'
+  teiginys: 'Po Paleckių mirties jų sūnūs turėjo perduoti privilegijas miestui ir per dvidešimt savaičių išparduoti likusį stiklą.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: '1619 m. 56 Miesto aktuose yra: karaliaus Stepo­ no patvirtinimas sutarties tarp po­ no Martyno Paleckio ir jo žmonos, dabar ponios Rainos Sluščiankos, ir miesto dėl stiklo liejyklos ir stiklo su­ pirkimo.'
+  teiginys: 'Miesto aktuose buvo karaliaus Stepono patvirtinta Martyno Paleckio, jo žmonos ir Vilniaus miesto sutartis dėl stiklo liejyklos.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Bandė keletą kartu, būtent jau prie karaliaus Stepono, pasikvietę Palec­ kį į seimą 1582 metais, bet tai nepa­ vyko.'
+  teiginys: '1583 metų Varšuvos seime Vilniaus miestas ir Martynas Paleckis sudarė sutartį dėl stiklo liejyklos ir stiklo supirkimo teisių.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Miesto aktuose buvo karaliaus Stepono patvirtinta Martyno Paleckio, jo žmonos ir Vilniaus miesto sutartis dėl stiklo liejyklos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1572, mir.
@@ -70,6 +71,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Po Paleckių mirties jų sūnūs turėjo perduoti privilegijas miestui ir per dvidešimt savaičių išparduoti likusį stiklą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Paleckių mirties jų
@@ -88,6 +90,7 @@ amziai:
     - t-001
 
 - c-003
+  santrauka: '1583 metų Varšuvos seime Vilniaus miestas ir Martynas Paleckis sudarė sutartį dėl stiklo liejyklos ir stiklo supirkimo teisių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bandė keletą kartu, būtent jau prie

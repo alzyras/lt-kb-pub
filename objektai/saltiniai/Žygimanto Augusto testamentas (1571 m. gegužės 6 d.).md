@@ -26,13 +26,14 @@ O jeigu kas norėtų dėl to, ką kam atiduodame, pakenkti, prieš jį tvirtai u
 ## Teiginiai
 
 - t-001
-  teiginys: 'O jeigu kas norėtų dėl to, ką kam atiduodame, pakenkti, prieš jį tvirtai užsistoti ir nuo skriaudos ginti, jeigu vykdytojai, žemiau paminėti, delstų vykdyti sprendimą arba juo nesirūpintų, tuomet tegul pa­ tys jų didenybės perima mūsų testamento vykdymą ir.'
+  teiginys: 'Žygimantas Augustas testamente prašė giminaičių ginti jo paskutinę valią ir prireikus perimti testamento vykdymą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Augustas testamente prašė giminaičių ginti jo paskutinę valią ir prireikus perimti testamento vykdymą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po to jų didenybėms: kunigaikščiui Jonui Jurgiui,

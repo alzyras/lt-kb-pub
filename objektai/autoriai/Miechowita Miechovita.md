@@ -29,13 +29,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv.'
+  teiginys: 'Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabartinis

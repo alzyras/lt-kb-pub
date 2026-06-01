@@ -40,18 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su totoriais gal persū­ dytas, tačiau negalima būtų nugin­ čyti, kad totoriai, Vytauto Lietuvoje įkurdinti, net iki mūsų laikų garsūs nepriekaištinga dora, narsa ir prie­ raišumu savo naujai tėvynei.'
+  teiginys: 'Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tuo me­ tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­ imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai bažnyčioje giedama Dei Cantate].'
+  teiginys: 'Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo me­
@@ -146,6 +147,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gana grėsmingai įsiliepsnojo pirmieji nesuta­
@@ -190,7 +192,6 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/zodynas/pagonybė]]

@@ -26,13 +26,14 @@ Dusburgietis teigia, kad kai kuriose vietose Dusburgietis kartais prasitaria ra�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję: „pasak kai kurių“.'
+  teiginys: 'Dusburgietis kai kuriose vietose nurodė rašantis pagal kitų pasakojimus formule „pasak kai kurių“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis kai kuriose vietose nurodė rašantis pagal kitų pasakojimus formule „pasak kai kurių“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:

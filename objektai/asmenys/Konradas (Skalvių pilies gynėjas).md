@@ -50,4 +50,3 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/ginklanešys]]
-- [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema)]]

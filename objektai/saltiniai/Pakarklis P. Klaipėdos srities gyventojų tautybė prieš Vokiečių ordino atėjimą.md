@@ -25,13 +25,14 @@ Dusburgietis teigia, kad pakarklis P.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pakarklis P.'
+  teiginys: 'P. Pakarklio „Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą“ 1933 m. publikuotas „Mūsų žinyne“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P. Pakarklio „Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą“ 1933 m. publikuotas „Mūsų žinyne“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų

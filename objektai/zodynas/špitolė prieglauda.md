@@ -26,23 +26,24 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Paskui, kai minėtą prieglaudą pastatys ir tin­ kamai įrengs, tuojau pat dalį to paties tilto mokesčio, mūsų užrašyto minėtai prieglaudai, visiems būsimiems laikams tegu nukreips ir atiduos maistui, drabužiams, vaistams bei kitoms toje prieglaudoje esančių.'
+  teiginys: 'Pastatytai prieglaudai turėjo būti skiriama dalis tilto mokesčio ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Trejybės prie­ glauda (špitolė), mieste garsi savo labdaringa veikla.'
+  teiginys: 'Švč. Trejybės prieglauda Vilniuje garsėjo labdaringa veikla.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
+  teiginys: 'Jonas Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­
@@ -61,6 +62,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - t-003
 
 - c-002
+  santrauka: 'Švč. Trejybės prieglauda Vilniuje garsėjo labdaringa veikla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia karaliaus dėmesį patraukė Švč. Trejybės prie­
@@ -82,6 +84,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - t-002
 
 - c-003
+  santrauka: 'Pastatytai prieglaudai turėjo būti skiriama dalis tilto mokesčio ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visa tai šiuo mū­

@@ -17,13 +17,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: ') neturėdamas pastovaus atlyginimo, Matu­ sas, kuris turėjo gerą pasiruošimą būti kritišku tyrinėtoju ir gerai mokėjo eilę svetimų kalbų, buvo priverstas tapti konjunktūriniu istoriku, istorijos žurnalistu.'
+  teiginys: 'Neturėdamas pastovaus atlyginimo, Matusas buvo priverstas tapti konjunktūriniu istoriku ir istorijos žurnalistu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Neturėdamas pastovaus atlyginimo, Matusas buvo priverstas tapti konjunktūriniu istoriku ir istorijos žurnalistu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ilgai (iki 1940 m.) neturėdamas pastovaus atlyginimo, Matu­

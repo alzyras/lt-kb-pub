@@ -17,13 +17,14 @@ Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėti
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėtimo prie dominikonų vienuolyno Šv.'
+  teiginys: 'Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­

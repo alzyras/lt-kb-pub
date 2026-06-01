@@ -35,17 +35,17 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
     - c-001
 
 - t-002
-  teiginys: 'Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­ tystę galės kiekvienas saugiai atvykti į mano valdomą žemę.'
+  teiginys: '1323 m. Vilniuje duotame laiške skelbta, kad per Mazovijos kunigaikščio Boleslavo valdas galima saugiai atvykti į Lietuvą.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 .'
+  teiginys: 'Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie Mazoviją, kaip apie kraštą, per kurį kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­ nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal.'
+  teiginys: 'Balińskis užuominą apie saugų kelią per Mazoviją laikė svarbiu Gedimino laiškų netikrumo įrodymu.'
   pagrindžia:
     - c-004
 
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
     - t-001
 
 - c-002
-  santrauka: 'Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­ tystę galės kiekvienas saugiai atvykti į mano valdomą žemę.'
+  santrauka: '1323 m. Vilniuje duotame laiške skelbta, kad per Mazovijos kunigaikščio Boleslavo valdas galima saugiai atvykti į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
@@ -91,7 +91,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
     - t-002
 
 - c-003
-  santrauka: 'Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 .'
+  santrauka: 'Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokios
@@ -111,7 +111,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
     - t-003
 
 - c-004
-  santrauka: 'Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie Mazoviją, kaip apie kraštą, per kurį kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­ nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal.'
+  santrauka: 'Balińskis užuominą apie saugų kelią per Mazoviją laikė svarbiu Gedimino laiškų netikrumo įrodymu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau kodėl Ge­

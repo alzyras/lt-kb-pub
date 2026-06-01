@@ -20,18 +20,19 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo'''' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti.'
+  teiginys: 'Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų į pastatytą bažnyčią.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.'
+  teiginys: 'Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų į pastatytą bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Viename jų, skirtame popiežiui ir kardinolams, Gediminas
@@ -57,6 +58,7 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
     - t-001
 
 - c-002
+  santrauka: 'Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
@@ -89,5 +91,4 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/legatas]]
 - [[objektai/zodynas/popiežiaus legatas]]

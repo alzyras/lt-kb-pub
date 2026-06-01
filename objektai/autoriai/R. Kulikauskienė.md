@@ -27,13 +27,14 @@ Dusburgietis teigia, kad kulikauskienė, A.
 ## Teiginiai
 
 - t-001
-  teiginys: '2, 1972, 143-160 p. — Kulikauskienė (Volkaitė), R.'
+  teiginys: 'R. Kulikauskienė-Volkaitė parengė 1958 m. Vilniuje išleistą straipsnių rinkinį „Lietuvos archeologiniai paminklai ir jų tyrinėjimai“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Kulikauskienė-Volkaitė parengė 1958 m. Vilniuje išleistą straipsnių rinkinį „Lietuvos archeologiniai paminklai ir jų tyrinėjimai“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     2, 1972, 143-160 p. — Kulikauskienė

@@ -37,7 +37,7 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
     - c-003
 
 - t-003
-  teiginys: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
+  teiginys: 'Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.'
   pagrindžia:
     - c-002
 
@@ -70,6 +70,7 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
     - t-001
 
 - c-002
+  santrauka: 'Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rau­

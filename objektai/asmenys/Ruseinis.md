@@ -24,11 +24,6 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad šitai papasakojęs kunigui, sūduvis tą pačią dieną laimingai atidavė viešpačiui sielą499. 208 (203).'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,24 +42,7 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    mano sūnaus karalystėje“. Šitai papasakojęs kunigui, sūduvis tą pačią dieną laimingai
-    atidavė viešpačiui sielą499.
-
-
-
-
-                    208 (203).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/komtūras]]
-- [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
 - [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]

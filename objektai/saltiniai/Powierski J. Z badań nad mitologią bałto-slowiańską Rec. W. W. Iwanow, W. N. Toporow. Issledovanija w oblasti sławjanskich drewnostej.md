@@ -23,13 +23,14 @@ Dusburgietis teigia, kad powierski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad powierski J.'
+  teiginys: 'J. Powierskio recenzija apie W. W. Iwanowo ir W. N. Toporowo veikalą paskelbta 1977 m. žurnale „Slavia antiqua“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio recenzija apie W. W. Iwanowo ir W. N. Toporowo veikalą paskelbta 1977 m. žurnale „Slavia antiqua“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Powierski J. Z badań nad mitologią bałto-slowiańską: Rec.: W. W. Iwanow, W. N.

@@ -25,18 +25,19 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     - c-003
 
 - t-002
-  teiginys: 'Martyno, kurios klebonija, kaip įprasta, bemat buvo aprūpinta lėšo­ mis.'
+  teiginys: 'Vladislovui Jogailai įsakius Vilniuje statyti Šv. Martyno bažnyčią, jos klebonija buvo aprūpinta lėšomis.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam bet ir kai kuriais padavimais ar užuominomis, kurias aptikau Vil­ niaus kapitulos ar Karaliauč.'
+  teiginys: 'Vilniaus katedra buvo aprūpinta pajamomis iš Klodovo klebonijos Gniezno diecezijoje ir kitų valdų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vladislovui Jogailai įsakius Vilniuje statyti Šv. Martyno bažnyčią, jos klebonija buvo aprūpinta lėšomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo pat metu Vladislovas Jogaila įsakė Vilniuje statyti
@@ -50,6 +51,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     - t-002
 
 - c-002
+  santrauka: 'Vilniaus katedra buvo aprūpinta pajamomis iš Klodovo klebonijos Gniezno diecezijoje ir kitų valdų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius tuoj pat
@@ -127,3 +129,5 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 - [[objektai/zodynas/mansionieriai]]
 - [[objektai/zodynas/pavietas]]
 - [[objektai/zodynas/provizija]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Korčiakas]]

@@ -29,18 +29,19 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, o kartu ir kaip karalių teisingumo i Žygimanto Senojo laikais, nuo 1527 iki 1552 metų, Vilniaus vaitas buvo Feliksas Liangurga, Krokuvos mies­ tietis, tą patvirtina miesto aktuose.'
+  teiginys: '1527-1552 m. Vilniaus vaitas buvo Krokuvos miestietis Feliksas Liangurga.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Pridedame tiktai dar tą pastabą, kad 1548 metais, kai iš Vilniaus miesto turėjo būti pa­ skelbtas liudijimas su anuo antspau­ du, kaip tvirtina šio straipsnio auto­ rius, - Vilniaus vaitas tada buvo Feliksas Liangurga, kilęs iš Kroku­ vos, uolus katalikas.'
+  teiginys: '1548 m. Feliksas Liangurga buvo iš Krokuvos kilęs Vilniaus vaitas ir uolus katalikas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1548 m. Feliksas Liangurga buvo iš Krokuvos kilęs Vilniaus vaitas ir uolus katalikas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ne­
@@ -64,6 +65,7 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
     - t-002
 
 - c-002
+  santrauka: '1527-1552 m. Vilniaus vaitas buvo Krokuvos miestietis Feliksas Liangurga.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miesto archyvas, kaip sostinės piliečių lais­

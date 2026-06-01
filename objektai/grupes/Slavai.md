@@ -56,12 +56,12 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - t-006
   teiginys: 'Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.'
   pagrindžia:
-    - c-008
+    - c-005
 
 - t-007
   teiginys: 'Dusburgietis teigia, kad skuodas Skuomantai Slavija slavai vakarų slavai (kašubai) slaviškos žemės Slina (Ślina), u.'
   pagrindžia:
-    - c-007
+    - c-004
 
 - t-008
   teiginys: 'Todėl, kai Karolis pasiekė slavus, jo agentai sužinojo, kad už slavų gyvena dar lietuviai.'
@@ -137,6 +137,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   statusas: verified
   pagrindžia:
     - t-005
+    - t-007
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -155,6 +156,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   statusas: verified
   pagrindžia:
     - t-002
+    - t-006
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -171,46 +173,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-003
 
 - c-007
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    (Skomentner-See, dab. j. Skomętno)
-    Skomanto kalnas (Skomentberg)
-    Skomanto sodyba, p. (Skomantburg)
-    Skorpiono žvaigždynas
-    Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas)
-    Skronaitė (Scroneyte, Scroneiten), p.
-    Skuodas
-    Skuomantai
-    Slavija
-        slavai
-       vakarų slavai (kašubai)
-        slaviškos žemės
-    Slina (Ślina), u.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Manoma, kad jei
-    ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos var-
-    das būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.
-    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
-    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
-    gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
-    rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
-    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
-    Lietuva, o šiandien ją vadiname istorine Lietuva.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-009
   santrauka: 'Todėl, kai Karolis pasiekė slavus, jo agentai sužinojo, kad už slavų gyvena dar lietuviai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -269,13 +231,10 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 - [[objektai/autoriai/Nepokupnas A]]
 - [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]
-- [[objektai/daiktai/Pilkapiai Žemaitijoje, vadinti Milžinų Kapais]]
 - [[objektai/grupes/Prūsijos valstybė]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/paprociai/Rašto vartojimas valstybės ir Bažnyčios reikaluose]]
 - [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]
-- [[objektai/grupes/Romanovų dinastija]]
-- [[objektai/zodynas/Rusiškosios raidės]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/autoriai/Rusų ir ukrainiečių istorikai]]
 - [[objektai/asmenys/Stanislovas Ratka]]
@@ -295,7 +254,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - [[objektai/zodynas/rublis]]
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
 - [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]
-- [[objektai/zodynas/rutėnai Rutheni]]
 - [[objektai/posakiai/sąmyšio metai]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/autoriai/Непокупный А. П]]

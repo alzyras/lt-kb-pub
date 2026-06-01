@@ -46,19 +46,19 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - c-004
 
 - t-004
-  teiginys: 'Vytautas jam buvo už­ rašęs Žemaičių kraštą iki Nevėžio upės (1398) ir Vok.'
+  teiginys: '1398 m. Vytautas užrašė Ordinui Žemaičių kraštą iki Nevėžio upės.'
   pagrindžia:
     - c-005
 
 - t-005
-  teiginys: 'Salyno sutartimi jis pats užleido Ordinui visą Žemai­ tiją, net iki Nevėžio^5 ).'
+  teiginys: '1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Salyno sutartimi jis pats užleido Ordinui visą Žemai­ tiją, net iki Nevėžio^5 ).'
+  santrauka: '1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1398 mt. Salyno sutartimi jis pats užleido Ordinui visą Žemai­
@@ -135,7 +135,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-003
 
 - c-005
-  santrauka: 'Vytautas jam buvo už­ rašęs Žemaičių kraštą iki Nevėžio upės (1398) ir Vok.'
+  santrauka: '1398 m. Vytautas užrašė Ordinui Žemaičių kraštą iki Nevėžio upės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordinas. Vytautas jam buvo už­

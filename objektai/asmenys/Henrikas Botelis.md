@@ -113,5 +113,6 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/grupes/Varmiai]]
-- [[objektai/asmenys/Burchardas iš Hornhauzeno]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Burchardas iš Hornhauzeno]]

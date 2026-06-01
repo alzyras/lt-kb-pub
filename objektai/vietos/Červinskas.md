@@ -25,18 +25,19 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 ## Teiginiai
 
 - t-001
-  teiginys: 'Į Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai klausti Jogailos, kur ir kada būtų galima pradėti taikos dery­ bas.'
+  teiginys: 'Į Červinską atvyko vengrų pasiuntiniai iš kryžiuočių pusės teirautis Jogailos dėl taikos derybų vietos ir laiko.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Vienais metais (1418) Vytautas ir Jo­ gaila buvo net išsirengę į karą ir savo kariuomenes sutraukę prie Červinsko, bet, įsikišus popiežiaus pasiuntiniams, paliaubos buvo dar metams prailgintos.'
+  teiginys: '1418 m. Vytautas ir Jogaila sutelkė kariuomenes prie Červinsko, bet popiežiaus pasiuntiniai pratęsė paliaubas dar metams.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Į Červinską atvyko vengrų pasiuntiniai iš kryžiuočių pusės teirautis Jogailos dėl taikos derybų vietos ir laiko.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo metu ir įvyko lietuvių puolimas iš
@@ -54,6 +55,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - t-001
 
 - c-002
+  santrauka: '1418 m. Vytautas ir Jogaila sutelkė kariuomenes prie Červinsko, bet popiežiaus pasiuntiniai pratęsė paliaubas dar metams.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Padarytos pa­

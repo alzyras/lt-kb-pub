@@ -28,13 +28,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Į Trakus (1430 metais), kur didysis kunigaikštis paprastai gyvendavo di­ džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­ gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­ vos.'
+  teiginys: 'Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS

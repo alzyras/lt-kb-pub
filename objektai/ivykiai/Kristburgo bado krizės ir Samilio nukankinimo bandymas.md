@@ -38,7 +38,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų.'
   pagrindžia:
     - c-002
-    - c-004
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad ilgainiui pilyje vėl kilo toks baisus badas, kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie jų prisidėjusius, pasitraukti iš čia į kitas vietas, žadėdami palikti jiems visas teises bei laisves, kad galėtų ten.'
@@ -107,27 +106,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
-    didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų. Visa tai plukdydami
-    Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris
-    kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
-    jei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino
-    tėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius. Šitai sužinoję, prūsai
-    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
-    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
-    ten jis, ilgesnį laiką pasirgęs, galop pagijo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Pamedėnai]]
-- [[objektai/asmenys/Samilis]]

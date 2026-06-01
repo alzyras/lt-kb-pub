@@ -30,7 +30,7 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
 ## Teiginiai
 
 - t-001
-  teiginys: 'Buvo taip: Vilniaus vaitas ir burmistrai, matydami, kad Palec­ kio, kuris buvo karaliaus maršalka ir Eišiškių valdytojas, monopolis kaskart vis didesnę žalą daro mies­ tui, norėjo jo privilegiją atšaukti.'
+  teiginys: 'Vilniaus vaitas ir burmistrai siekė atšaukti Paleckio monopolio privilegiją, nes ji darė vis didesnę žalą miestui.'
   pagrindžia:
     - c-001
 
@@ -40,13 +40,14 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
     - c-003
 
 - t-003
-  teiginys: 'Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­ dė54.'
+  teiginys: 'Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje naujais mokesčiais bandė suvaržyti iš Vilniaus gabenamų prekių prekybą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vaitas ir burmistrai siekė atšaukti Paleckio monopolio privilegiją, nes ji darė vis didesnę žalą miestui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1619 m.
@@ -102,6 +103,7 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
     - t-001
 
 - c-002
+  santrauka: 'Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje naujais mokesčiais bandė suvaržyti iš Vilniaus gabenamų prekių prekybą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karališkųjų

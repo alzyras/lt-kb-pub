@@ -33,22 +33,17 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '; Jo­ nas Kazimieras -1664 m. Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­ šė Trakų vaivada ponas Oginskis.'
+  teiginys: 'Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskutinę valią pareikšdamas, užrašė Akademijos kolegijai, įpareigodamas, kad 25 metus činšo mokestis nuo jo eitų Dievo Kūno koplyčios naudai, o po 25 metų Akademijos kolegijai turėsiąs.'
+  teiginys: '1610 m. Vilniaus kanauninkas Vilčiopolskis užrašė mūrinį namą su sklypu Akademijos kolegijai, 25 metų činšą skirdamas Dievo Kūno koplyčiai.'
   pagrindžia:
     - c-002
 
 - t-003
   teiginys: 'Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.'
-  pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: 'Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­ šė Trakų vaivada ponas Oginskis.'
   pagrindžia:
     - c-004
 
@@ -83,6 +78,7 @@ amziai:
     - t-005
 
 - c-002
+  santrauka: '1610 m. Vilniaus kanauninkas Vilčiopolskis užrašė mūrinį namą su sklypu Akademijos kolegijai, 25 metų činšą skirdamas Dievo Kūno koplyčiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jonas Neliubovičius mūrinį namą su sklypu par­
@@ -99,24 +95,7 @@ amziai:
     - t-002
 
 - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mūrinius namus, kurie buvo skirti tos koplyčios paja­
-    moms, privilegijomis nuo mokesčių atleido Lenkijos kara­
-    liai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­
-    nas Kazimieras -1664 m.
-    Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­
-    šė Trakų vaivada ponas Oginskis.
-    Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d.
-    buvo paskelbta Maloningosios Dievo Motinos brolijos įkū­
-    rimas ir kunigo Petro Skargos suteikta promocija sujungta
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
+  santrauka: 'Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mūrinius namus, kurie buvo skirti tos koplyčios paja­
@@ -141,8 +120,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
-- c-005
+- c-004
   santrauka: 'Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

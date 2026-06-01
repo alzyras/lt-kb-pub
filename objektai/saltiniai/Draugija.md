@@ -19,18 +19,19 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado „Vienybė" ir „Draugija").'
+  teiginys: '„Draugija“ atsirado iš Šv. Kazimiero draugijos leisto „Nedėldienio Skaitymo“.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Taip pat Kaune išėjo pirmasis lietuviškas mokslo žurnalas „Draugija", kurį leido pralotas A.'
+  teiginys: 'Kaune išėjo pirmasis lietuviškas mokslo žurnalas „Draugija“, kurį leido prelatas A. Dambrauskas-Jakštas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Draugija“ atsirado iš Šv. Kazimiero draugijos leisto „Nedėldienio Skaitymo“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     įkurta Šv. Kazimiero Draugija knygoms ir laikraš-
@@ -46,6 +47,7 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
     - t-001
 
 - c-002
+  santrauka: 'Kaune išėjo pirmasis lietuviškas mokslo žurnalas „Draugija“, kurį leido prelatas A. Dambrauskas-Jakštas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis ėjo Petrapily, o antrieji du Vilniuje. Tų

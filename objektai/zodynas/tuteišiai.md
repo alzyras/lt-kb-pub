@@ -43,14 +43,14 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     - c-002
 
 - t-002
-  teiginys: 'Bet rytiniai ir pietrytiniai šio ploto pakraščiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo) procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės, laikant save tiesiog čiabuviais (tuteišiais).'
+  teiginys: 'Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Bet rytiniai ir pietrytiniai šio ploto pakraščiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo) procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės, laikant save tiesiog čiabuviais (tuteišiais).'
+  santrauka: 'Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
@@ -86,6 +86,7 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     - t-001
 
 - c-003
+  santrauka: 'Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bet rytiniai ir pietrytiniai šio ploto pakraš-

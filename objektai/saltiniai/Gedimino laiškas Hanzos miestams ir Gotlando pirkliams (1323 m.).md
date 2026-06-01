@@ -31,12 +31,12 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     - c-002
 
 - t-002
-  teiginys: 'Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­ gubai padarysime ir dar daugiau, nes mes pasiuntėme mū­ sų laišką mūsų tėvui, šventajam viešpačiui popiežiui dėl susivienijimo su dievo bažnyčia ir su neapsakomu nekan­ trumu.'
+  teiginys: 'Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Taip pat, be visa to, [ką suteikė] mūsų pirmta­ kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­ lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­ jamomis kiekvieną pagal jo.'
+  teiginys: 'Gedimino laiške skelbiama, kad jo žemė pirkliams, riteriams ir vasalams yra laisva nuo muitų ir kelio prievolių.'
   pagrindžia:
     - c-004
 
@@ -48,6 +48,7 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jei jie [se­
@@ -121,6 +122,7 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     - t-004
 
 - c-004
+  santrauka: 'Gedimino laiške skelbiama, kad jo žemė pirkliams, riteriams ir vasalams yra laisva nuo muitų ir kelio prievolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­

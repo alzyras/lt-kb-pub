@@ -46,13 +46,14 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado – A.'
+  teiginys: 'Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto Didžiojo mirties
@@ -108,10 +109,10 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/daiktai/Vytauto paveikslas]]
 - [[objektai/zodynas/jubiliejus]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

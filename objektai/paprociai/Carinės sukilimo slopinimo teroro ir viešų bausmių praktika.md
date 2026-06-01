@@ -53,13 +53,13 @@ Nenurodyta
 - t-002
   teiginys: 'Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno gubernijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo galimybę.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: 'Anglijai ir Prancūzijai apsiribojus diplomatinėmis notomis, Rusijos vyriausybė ryžtingai slopino sukilimą.'
   pagrindžia:
     - c-002
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.'
@@ -79,7 +79,7 @@ Nenurodyta
 - t-007
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -99,6 +99,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -118,23 +119,6 @@ Nenurodyta
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Sukilėlių būriai neturėjo jokių galimy-
-    bių kontroliuoti didesnių teritorijų. Pavasarį paskirtas vyriausiuoju Lietu-
-    vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas
-    Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
-    nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
-    mybę vienu smūgiu nuleisti sukilėliams daug kraujo. Gegužės pradžioje
-    prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
-    vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     nas Mackevičius. Į didesnius dalinius sukilėliai jau nesitelkė, vadovavosi
     partizaninio karo nedidelių antpuolių taktika.
     Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
@@ -146,7 +130,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
   santrauka: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -168,7 +152,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas Sierakauskas]]
 - [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

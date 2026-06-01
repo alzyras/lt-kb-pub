@@ -18,13 +18,19 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas, savo gretose turėjęs apie 900 ar 1 000 kovotojų su sunkiaisiais kulkosvaidžiais ir dviem lengvaisiais pabūklais.'
+  teiginys: 'Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Bolševikų 2-asis šaulių pulkas turėjo sunkiųjų kulkosvaidžių ir du lengvuosius pabūklus.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo tarpu Kėdainių kryptimi pa-
@@ -53,7 +59,7 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
     - t-001
 
 - c-002
-  santrauka: 'Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas, savo gretose turėjęs apie 900 ar 1 000 kovotojų su sunkiaisiais kulkosvaidžiais ir dviem lengvaisiais pabūklais.'
+  santrauka: 'Bolševikų 2-asis šaulių pulkas turėjo sunkiųjų kulkosvaidžių ir du lengvuosius pabūklus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Atvykus

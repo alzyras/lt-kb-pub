@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.'
+  teiginys: '1440 m. Kazimieras IV suteikė Vilniaus katalikų ir stačiatikių miestiečiams privilegiją laisvai prekiauti be muito Lietuvos valstybėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1440 m. Kazimieras IV suteikė Vilniaus katalikų ir stačiatikių miestiečiams privilegiją laisvai prekiauti be muito Lietuvos valstybėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi yra ir
@@ -96,6 +97,7 @@ Nenurodyta
 - [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras IV]]
 - [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
 - [[objektai/paprociai/Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė]]

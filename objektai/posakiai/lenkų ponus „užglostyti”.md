@@ -20,13 +20,14 @@ Toks jo žygis lenką tarpe sukėlė didelį pasipriešinimą, nes jie Krėvės 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Toks jo žygis lenką tarpe sukėlė didelį pasipriešinimą, nes jie Krėvės unija kaip tik ir no­ rėjo Podoliją ir Volyniją prijungti prie Lenkijos.'
+  teiginys: 'Vytautas ėmėsi diplomatijos ir stengėsi lenkų ponus „užglostyti“, kai jo veiksmai dėl Podolijos ir Volynijos sukėlė jų pasipriešinimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas ėmėsi diplomatijos ir stengėsi lenkų ponus „užglostyti“, kai jo veiksmai dėl Podolijos ir Volynijos sukėlė jų pasipriešinimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Toks jo žygis lenką tarpe
@@ -51,3 +52,5 @@ Toks jo žygis lenką tarpe sukėlė didelį pasipriešinimą, nes jie Krėvės 
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/diplomatija]]

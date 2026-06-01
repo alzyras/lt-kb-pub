@@ -35,7 +35,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - t-002
   teiginys: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
   pagrindžia:
-    - c-003
+    - c-004
 
 - t-003
   teiginys: '1917 m. lapkričio 2–10 d. Berno konferencijoje numatyta reikalauti Liepojos uosto.'
@@ -45,7 +45,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - t-004
   teiginys: 'Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -94,21 +94,6 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     - t-001
 
 - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ginklų ir savanorių iš Londono. Sukilėliai
-    planavo užimti Palangos ir Liepojos uos-
-    tus. Turėdami savo rankose uostų kontrolę,
-    sukilėliai tikėjosi palaikyti nuolatinius
-    ryšius su Lenkija ir kitomis šalimis, iš kur
-    tikėtasi paramos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
   santrauka: 'Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -131,7 +116,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
   santrauka: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -148,3 +133,4 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002

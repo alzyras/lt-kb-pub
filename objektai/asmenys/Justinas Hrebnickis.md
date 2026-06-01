@@ -26,13 +26,14 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas.'
+  teiginys: 'Justinas Hrebnickis 1830 m. rudenį priklausė Vilniuje susikūrusiam sukilimo centriniam komitetui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Justinas Hrebnickis 1830 m. rudenį priklausė Vilniuje susikūrusiam sukilimo centriniam komitetui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to,

@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Žalgirio kova, kaip žinom, pasibaigė Torno taika (1411), ir žinom, kad tas laimėjimas nugalėtojų nebuvo vi­ siškai išnaudotas.'
+  teiginys: '1411 m. Torno taika užbaigė Žalgirio kovą, tačiau nugalėtojai šio laimėjimo visiškai neišnaudojo.'
   pagrindžia:
     - c-002
 
@@ -81,6 +81,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1411 m. Torno taika užbaigė Žalgirio kovą, tačiau nugalėtojai šio laimėjimo visiškai neišnaudojo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žalgirio kova, kaip žinom, pasibaigė Torno

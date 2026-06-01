@@ -19,12 +19,12 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
 - t-001
   teiginys: 'Sovietinėje sistemoje egzistavę hipių ar pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką visuomenę kaip hipiai Vakaruose.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: '1971 m. viename Vilniaus restoranų įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar SSRS hipių suvažiavimu.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris suaktyvino kitaminčius.'
@@ -34,17 +34,6 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos
-    pavasaris suaktyvino kitaminčius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valdžiai
@@ -58,8 +47,9 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to jie persekioti, suėmus jiems nukerpami plaukai, su-
@@ -75,7 +65,7 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   santrauka: 'Sovietinėje sistemoje egzistavę hipių ar pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką visuomenę kaip hipiai Vakaruose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

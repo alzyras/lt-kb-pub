@@ -20,13 +20,14 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
+  teiginys: 'Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą

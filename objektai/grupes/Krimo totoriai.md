@@ -24,31 +24,13 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
 ## Teiginiai
 
 - t-001
-  teiginys: 'Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva tikėjosi pasinaudoti, — juo labiau, kad Zigmantas buvo patraukęs į savo pusę Krimo totorius, apsiėmęs jiems kasmet mokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės pavojus.'
+  teiginys: '1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo ir suėmė valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo totorius.'
-  pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pereskopo
-    (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti
-    Ordą vėl, bet paskui jis buvo sumuštas ir išvytas Timur Kotlogo
-    (1395 mt.). Išvytasis chanas, kuris dar tebesiskaitė visos Ru-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai 1533 m. mirė Vosylius III, Maskvos
@@ -65,7 +47,8 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
+  santrauka: '1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo ir suėmė valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
@@ -77,17 +60,16 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Machmetas]]
-- [[objektai/asmenys/Timur Kotlogo]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vosylius]]
-- [[objektai/asmenys/Zigmantas]]
-- [[objektai/zodynas/chanas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/grupes/Krimo orda]]
 - [[objektai/grupes/Krymo totoriai]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/zodynas/regencija]]

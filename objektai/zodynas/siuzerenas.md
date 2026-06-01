@@ -20,13 +20,14 @@ Kuriuo tikslu buvo rodomas toks pa­ lankumas šiam naujam kandidatui į lenkų 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kuriuo tikslu buvo rodomas toks pa­ lankumas šiam naujam kandidatui į lenkų karalius ir į Lietuvos siuzerenus, sunku pasakyti.'
+  teiginys: 'Jaunasis Fridrikas buvo laikomas kandidatu į lenkų karalius ir Lietuvos siuzerenus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jaunasis Fridrikas buvo laikomas kandidatu į lenkų karalius ir Lietuvos siuzerenus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šį sumanymą, kaip sako
@@ -52,4 +53,3 @@ Kuriuo tikslu buvo rodomas toks pa­ lankumas šiam naujam kandidatui į lenkų 
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/grupes/Gedimino dinastija]]

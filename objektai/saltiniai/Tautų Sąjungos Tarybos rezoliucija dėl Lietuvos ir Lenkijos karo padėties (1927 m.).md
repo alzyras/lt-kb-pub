@@ -20,13 +20,14 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
 ## Teiginiai
 
 - t-001
-  teiginys: 'Roger Viollet nuotrauka) L I E T U V O S I S T O R I J A 160 išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos nėra.'
+  teiginys: 'Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Roger Viollet nuotrauka)

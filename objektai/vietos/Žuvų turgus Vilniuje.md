@@ -26,13 +26,14 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus šio tikėjimo apeigų vykdymas persikėlė į patį miestą ir jo centre, netoli Žuvų turgaus, pastoriai Če­ chavičius ir Vendrichovskis septynerius metus nuolat vie­ šai tas apeigas vykdė.'
+  teiginys: 'Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     5 pasakoja, kad

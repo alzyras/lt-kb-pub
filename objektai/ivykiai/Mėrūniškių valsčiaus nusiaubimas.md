@@ -35,26 +35,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492, kur nukovė 18 šio valsčiaus.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą
-    raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492,
-    kur nukovė 18 šio valsčiaus žymių viešpačių [dominos], o kitus [karius] paliko prie
-    įeigos  į minėtąją žemę493. Jis šį valsčių smarkiai nusiaubė, degindamas ir plėšdamas,
-    nukaudamas ar paimdamas į nelaisvę šešis šimtus vyrų ir moterų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą
@@ -74,25 +59,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492, kur nukovė 18 šio valsčiaus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    197 (192). Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą
-
-       Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą
-    raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492,
-    kur nukovė 18 šio valsčiaus žymių viešpačių [dominos], o kitus [karius] paliko prie
-    įeigos  į minėtąją žemę493. Jis šį valsčių smarkiai nusiaubė, degindamas ir plėšdamas,
-    nukaudamas ar paimdamas į nelaisvę šešis šimtus vyrų ir moterų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

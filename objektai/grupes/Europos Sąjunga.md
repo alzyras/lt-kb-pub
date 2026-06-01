@@ -47,7 +47,7 @@ amziai:
     - c-003
 
 - t-005
-  teiginys: 'Lietuvos aukštosios moky- 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 255 klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose.'
+  teiginys: 'Lietuvos aukštosios mokyklos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose.'
   pagrindžia:
     - c-002
 
@@ -67,12 +67,12 @@ amziai:
     - c-006
 
 - t-009
-  teiginys: 'Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų ministras Antanas Valionis pasirašo stojimo į Europos Sąjungą sutartį L I E T U V O S I S T O R I J A 262 Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais.'
+  teiginys: '2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
   pagrindžia:
     - c-009
 
 - t-010
-  teiginys: 'Įvadas • L I E T U VA – V I D U R I O E U R O P O S D A L I S 21 Sovietų Sąjungos aneksiją ir perestroikos bei naujo Atgimimo sąlygomis atkurti Nepriklausomybę.'
+  teiginys: '2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.'
   pagrindžia:
     - c-008
 
@@ -96,6 +96,7 @@ amziai:
     - t-007
 
 - c-002
+  santrauka: 'Lietuvos aukštosios mokyklos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų
@@ -196,6 +197,7 @@ amziai:
     - t-002
 
 - c-008
+  santrauka: '2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
@@ -210,6 +212,7 @@ amziai:
     - t-010
 
 - c-009
+  santrauka: '2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir

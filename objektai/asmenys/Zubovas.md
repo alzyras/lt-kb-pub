@@ -19,13 +19,14 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, pradėjo ją tvarky­ ti, norėdamas grąžinti senovinį gotikinį vaizdą, bet nebai­ gęs mirė.'
+  teiginys: 'Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, siekdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė nebaigęs darbų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, siekdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė nebaigęs darbų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po to ji perėjo Olendzkių nuosavybėn, jie
@@ -42,6 +43,5 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Olendzkiai]]
 - [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
 - [[objektai/grupes/Zubovai]]

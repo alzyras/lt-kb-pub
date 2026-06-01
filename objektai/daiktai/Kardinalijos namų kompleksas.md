@@ -46,23 +46,24 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '70 Detali Kardinalijos istorija yra tokia: kunigaikštis Jurgis Radvila, dar bū­ damas Vilniaus vyskupijos koadju­ torius, su broliu gavo palikimo mū­ rinį namą, Goštautų vardo, stovintį priešais Šv.'
+  teiginys: 'Jurgis Radvila su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Vėliau, apie 1601 metus, abu namai - Goštautų ir Filipovo - kartu sujungti Albrechto Radvilos lai­ kais, gavo bendrą Kardinalijos pa­ vadinimą, išlikusį iki mūsų laikų.'
+  teiginys: 'Apie 1601 metus Goštautų ir Filipovo namai Albrechto Radvilos laikais buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Maždaug tuo metu vienas didžiausių Vil­ niaus namų, iki tol vadintas Kardinalija, statytas kunigaikš­ čio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis, iškilo tarp senų mūrinių namų ir medinių dvarų70.'
+  teiginys: 'Kardinalija buvo vienas didžiausių Vilniaus namų, pastatytas kunigaikščio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kardinalija buvo vienas didžiausių Vilniaus namų, pastatytas kunigaikščio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 314
@@ -82,6 +83,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Apie 1601 metus Goštautų ir Filipovo namai Albrechto Radvilos laikais buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kardinolas Radvila
@@ -104,6 +106,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Jurgis Radvila su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     70
@@ -133,5 +136,6 @@ Nenurodyta
 - [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Albrechtas Radvila]]
 - [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Albrechtas Radvila]]

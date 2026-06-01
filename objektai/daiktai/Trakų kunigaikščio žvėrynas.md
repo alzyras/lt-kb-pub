@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia.'
+  teiginys: 'Vytauto privilegijoje Trakams minima, kad už Galvės ežero, skalaujančio pilį, buvo kunigaikščio žvėrynas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto privilegijoje Trakams minima, kad už Galvės ežero, skalaujančio pilį, buvo kunigaikščio žvėrynas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas

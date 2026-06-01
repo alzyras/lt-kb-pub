@@ -25,13 +25,14 @@ Dusburgietis teigia, kad mayhoff.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mayhoff.'
+  teiginys: 'C. Mayhoffas redagavo Plinijaus „Naturalis historiae“ V tomą, apimantį XXXI–XXXVII knygas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'C. Mayhoffas redagavo Plinijaus „Naturalis historiae“ V tomą, apimantį XXXI–XXXVII knygas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Plinius C. Secundus Naturalis historiae libri XXXVII/Ed. C. Mayhoff. Vol. V. Libri XXXI—

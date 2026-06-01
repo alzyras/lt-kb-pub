@@ -45,9 +45,9 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
     - c-002
 
 - t-003
-  teiginys: 'Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­ raliaus akyse liejo grėsmingus pabūklus pagal geriausius pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­ niaus gatvėmis traukė į stovyklą Svyre, šis didysis.'
+  teiginys: '1579 m. rengiantis žygiui į Livoniją, Vilniaus ginklų liejykla liejo pabūklus pagal geriausius pavyzdžius.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -68,26 +68,7 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
     - t-001
 
 - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IV KNYGA
-    jo žmonai palikta išimtinė privilegija supirkinėti stiklą, o
-    po jų mirties palikuonims skirta teisė atiteko miestui56.
-    Pirmasis Stepono Batoro atvykimas į Vilnių 1579 metų
-    pavasarį buvo įsimintinas miestui. Kuo rimčiausiai rengian­
-    tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­
-    raliaus akyse liejo grėsmingus pabūklus pagal geriausius
-    pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­
-    niaus gatvėmis traukė į stovyklą Svyre, šis didysis karalius,
-    lecki Loik i Statysta [pasaulietis ir
-    valstybės veikėjas], gim.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
+  santrauka: '1579 m. rengiantis žygiui į Livoniją, Vilniaus ginklų liejykla liejo pabūklus pagal geriausius pavyzdžius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Smig-
@@ -111,3 +92,4 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002

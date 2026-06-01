@@ -46,4 +46,3 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/Rusiškosios raidės]]

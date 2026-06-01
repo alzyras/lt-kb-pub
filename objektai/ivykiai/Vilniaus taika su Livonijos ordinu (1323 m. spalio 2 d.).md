@@ -44,7 +44,7 @@ Nenurodyta
 - t-001
   teiginys: '1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo Gedimino sostinė.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-002
   teiginys: '1323 m. spalio 2 d. Vilniuje Livonijos ordino ir vyskupų pasiuntiniai sudarė taiką, kurioje buvo nustatyti Rygai svarbūs prekybos reikalai.'
@@ -54,42 +54,42 @@ Nenurodyta
 - t-003
   teiginys: 'Dusburgietis teigia, kad kryžiuočių ordinas visaip stengėsi sužlugdyti minėtąją 1323 m. spalio 2 d. sutartį: jau spalio 24 d. Livonijos ordinas raginamas ją nutraukti, po to imtasi žygių, kad nutrauktų sutartį Rygos miestas ir t.'
   pagrindžia:
-    - c-009
+    - c-006
 
 - t-004
   teiginys: '1323 m. spalio 2 d. Vilniuje Livonijos ordino ir Livonijos vyskupų pasiuntiniai sudarė taiką su Gediminu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-005
   teiginys: '1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo miestas ir Gedimino sostinė.'
   pagrindžia:
-    - c-004
+    - c-005
 
 - t-006
   teiginys: 'Prūsų ordinas Vilniaus taikos nepripažino ir skatino siekti su Gediminu pasirašytos sutarties anuliavimo.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-007
-  teiginys: 'Nedrįsdamas tačiau atvirai stoti prieš Gediminą, Livo­ nijos ordinas drauge su Livonijos vyskupais siuntė pasiuntinius Vilniun, kur 1323.X.2 buvo padaryta taika, kurioje buvo nustatyti ir Rygai svarbus prekybos reikalai^14.'
+  teiginys: '1323 m. spalio 2 d. Vilniuje Livonijos ordinas ir Livonijos vyskupai sudarė taiką, kurioje aptarti ir Rygai svarbūs prekybos reikalai.'
   pagrindžia:
-    - c-008
+    - c-001
 
 - t-008
-  teiginys: 'Tuo metu kryžiuo­ čiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios taikos, ir karą tepradėjo 1328 m. Prūsų ordinas, nepripažindamas tos sutarties, skatino savo vyskupus ir jų kapitulas pareikšti Livo­ nijos dvasininkams protestą, reikalaujant.'
+  teiginys: 'Po 1323 m. Vilniaus taikos Livonijos kryžiuočiai laikėsi oficialios taikos, nors Prūsų ordinas siekė sutarties anuliavimo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-009
   teiginys: 'Dusburgietis teigia, kad gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-010
   teiginys: '1323 m. Vilniaus taikoje buvo nustatyti ir Rygai svarbūs prekybos reikalai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -109,26 +109,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jeigu tuose žodžiuose ir galėjo būti šiek tiek perdėjimo, yra
-    tikra, kad Gedimino laiškų išsiuntimo laikotarpyje Lietuvą puldi­
-    nėjo Prūsų kryžiuočiai, kuriems iš šono atėjęs pagonių pakrikštiji­
-    mas būtų reiškęs galą jų pretenzijų į Lietuvą (taip ir įvyko po
-    1387 m.). Nedrįsdamas tačiau atvirai stoti prieš Gediminą, Livo­
-    nijos ordinas drauge su Livonijos vyskupais siuntė pasiuntinius
-    Vilniun, kur 1323.X.2 buvo padaryta taika, kurioje buvo nustatyti
-    ir Rygai svarbus prekybos reikalai^14.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
     - t-010
+    - t-007
 
-- c-003
+- c-002
+  santrauka: 'Po 1323 m. Vilniaus taikos Livonijos kryžiuočiai laikėsi oficialios taikos, nors Prūsų ordinas siekė sutarties anuliavimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuo metu kryžiuo­
@@ -150,32 +136,7 @@ Nenurodyta
   pagrindžia:
     - t-008
 
-- c-004
-  santrauka: '1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo miestas ir Gedimino sostinė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    (Žr. Il priedą).
-    21
-
-    ## Puslapis 38
-
-    VILNIAUS Ml L  STO ISTORIJA / TOMAS
-    daugiau galimybių stebėti jų gynybą ir užbėgti už akių jų
-    puolimams. Pirmąjį Vilniaus paminėjimą, pirmą autentišką
-    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
-    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
-    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
-    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
-    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
-    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
-    kitos12.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Išvykdami iš Livonijos, popiežiaus legatai įsakė
@@ -192,7 +153,7 @@ Nenurodyta
   pagrindžia:
     - t-006
 
-- c-006
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
@@ -205,7 +166,7 @@ Nenurodyta
   pagrindžia:
     - t-009
 
-- c-007
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS Ml L  STO ISTORIJA / TOMAS
@@ -228,25 +189,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-005
 
-- c-008
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jeigu tuose žodžiuose ir galėjo būti šiek tiek perdėjimo, yra
-    tikra, kad Gedimino laiškų išsiuntimo laikotarpyje Lietuvą puldi­
-    nėjo Prūsų kryžiuočiai, kuriems iš šono atėjęs pagonių pakrikštiji­
-    mas būtų reiškęs galą jų pretenzijų į Lietuvą (taip ir įvyko po
-    1387 m.). Nedrįsdamas tačiau atvirai stoti prieš Gediminą, Livo­
-    nijos ordinas drauge su Livonijos vyskupais siuntė pasiuntinius
-    Vilniun, kur 1323.X.2 buvo padaryta taika, kurioje buvo nustatyti
-    ir Rygai svarbus prekybos reikalai^14.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-009
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kryžiuočių ordinas visaip stengėsi sužlugdyti minėtąją 1323 m. spalio 2 d. sutartį: jau

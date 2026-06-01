@@ -26,13 +26,14 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad samalavičius S., Ambramauskas S.'
+  teiginys: 'S. Samalavičiaus ir S. Ambramausko straipsnis „Naujas XIII a. šaltinis apie baltus“ paskelbtas „Kultūros baruose“ 1984 m., Nr. 6.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Samalavičiaus ir S. Ambramausko straipsnis „Naujas XIII a. šaltinis apie baltus“ paskelbtas „Kultūros baruose“ 1984 m., Nr. 6.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros

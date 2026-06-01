@@ -31,13 +31,14 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
     - c-002
 
 - t-002
-  teiginys: 'Galingą są­ jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos vaivada.'
+  teiginys: 'Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet tai nė akimirkai nesustab­

@@ -45,38 +45,21 @@ Nenurodyta
 - t-001
   teiginys: 'Mūšis 1919 m. lapkričio 20 d. fronto vadas plk.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 22 dieną Panevėžio batalionas išmušė bermontininkus iš Meškuičių, Vilniaus batalionas iš Pašiaušės ir iš Padubysio.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Tą pačią lapkričio 22 d. lietuviai išmušė bermontininkus iš Meškuičių, Pašiaušės ir Padubysio; lapkričio 27 d. atsiėmė Joniškį, o plk. Bermontas kapituliavo.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tą pačią lapkričio 22 dieną Panevė-
-
-    žio batalionas išmušė bermontininkus
-
-    iš Meškuičių, Vilniaus batalionas iš
-    Pašiaušės ir iš Padubysio. Lapkričio 27 d.
-    lietuviai atsiėmė Joniškį. Plk. Bermontas
-    buvo priverstas kapituliuoti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -101,7 +84,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Užvirė jami bermontininkai
@@ -120,6 +103,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

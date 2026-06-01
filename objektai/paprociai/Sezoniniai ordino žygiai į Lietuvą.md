@@ -62,7 +62,7 @@ Nenurodyta
 - t-004
   teiginys: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -106,6 +106,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -120,20 +121,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
-    mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
-    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
-    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
-    kryžiuočių ir 30—iš Livonijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

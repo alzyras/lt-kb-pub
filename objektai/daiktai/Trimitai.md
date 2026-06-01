@@ -60,6 +60,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Gudai]]
 - [[objektai/asmenys/Kopčius]]
-- [[objektai/paprociai/Kovų vietų neliečiamumas]]
 - [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/zodynas/Sutartinės|sutartinės]]

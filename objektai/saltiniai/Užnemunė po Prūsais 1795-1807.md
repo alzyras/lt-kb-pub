@@ -27,18 +27,19 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­ munė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).'
+  teiginys: 'Augustinas Janulaitis 1928 m. parašė veikalą „Užnemunė po Prūsais 1795-1807“.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: '„Užnemunė po Prūsais 1795-1807“ išleista 1928 m.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Augustinas Janulaitis 1928 m. parašė veikalą „Užnemunė po Prūsais 1795-1807“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Poliublininius Lietuvos istorijos
@@ -54,20 +55,4 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Poliublininius Lietuvos istorijos
-    kursus (XVII-XVIII amž.) skaitė Janulaitis ir Humanitarinių
-    mokslų fakultete.
-    Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923),
-    «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­
-    munė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).
-    Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų
-    veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

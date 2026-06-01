@@ -26,18 +26,19 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją Tais 1295 metais Boleslovas, Mazovijos kunigaikštis, apie kurį jau kalbėta, sielodamasis Tacito minimus germanus lemovius (Lemonii ar Lemovii — Tacitas P.'
+  teiginys: 'P. K. Tacito „Rinktinių raštų“ 29 puslapyje minimi germanai lemoviai.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad tacitas P.'
+  teiginys: 'P. K. Tacito „Rinktiniai raštai“ išleisti Vilniuje 1972 m.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P. K. Tacito „Rinktinių raštų“ 29 puslapyje minimi germanai lemoviai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie penktąją atskalūnybę ir apie bausmę už ją
@@ -56,6 +57,7 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
     - t-001
 
 - c-002
+  santrauka: 'P. K. Tacito „Rinktiniai raštai“ išleisti Vilniuje 1972 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tacitas P. K. Rinktiniai raštai.—V., 1972.

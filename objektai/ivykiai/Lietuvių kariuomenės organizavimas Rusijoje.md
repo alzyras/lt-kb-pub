@@ -35,7 +35,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuvių kariuomenės organizavimas Rusijoje.'
+  teiginys: 'Po revoliucijos Rusijoje lietuviai pradėjo telkti lietuvius karininkus ir kareivius į atskiras kariuomenės dalis.'
   pagrindžia:
     - c-002
 
@@ -65,6 +65,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Po revoliucijos Rusijoje lietuviai pradėjo telkti lietuvius karininkus ir kareivius į atskiras kariuomenės dalis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Lietuvių kariuomenės organizavimas Rusijoje.** Kilus Ru-

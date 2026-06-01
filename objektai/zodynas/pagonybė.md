@@ -29,44 +29,26 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - t-001
   teiginys: 'Lietuvos pagonių valdovų laikysena rodo, kad pagonybė jiems buvo lygiavertė krikščionybei.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Lietuvos pagonybės tema sukėlė daug ginčytinų teiginių ir vertinimų dėl šaltinių informacijos skurdumo.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-003
-  teiginys: '1 skyrius • S E N O J I L I E T U VA 23 Pagonybė ir Lietuvos vardo paminėjimas 1009 metais Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės tema.'
+  teiginys: 'Lietuvos pagonybės vertinimai buvo ginčytini dėl romantinio aukso amžiaus mito ir skurdžios istorijos šaltinių informacijos priešpriešos.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-005
   teiginys: 'Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės tema.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagonybė ir Lietuvos vardo paminėjimas
-    1009 metais
-    Daugiausia ginčytinų teiginių ir vertinimų yra pasaky-
-    ta Lietuvos pagonybės tema. Taip atsitiko dėl prieštaros tarp pirmojoje
-    XIX a. pusėje sukurto pagoniškos epochos kaip lietuvių aukso amžiaus
-    mito ir istorijos šaltinių teikiamos informacijos skurdumo. Romantikai
-    ieškojo antropomorfinių dievų įvaizdžių, stabų, rašto, žynių, šventyklų,
-    taigi siekė rasti tai, kas būdinga ikikrikščioniškai Romai ar graikų ir ro-
-    mėnų religinėms sistemoms.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitų valstybių valdovai
@@ -80,7 +62,7 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1 skyrius •  S E N O J I  L I E T U VA
@@ -99,27 +81,9 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1 skyrius •  S E N O J I  L I E T U VA
-    23
-    Pagonybė ir Lietuvos vardo paminėjimas
-    1009 metais
-    Daugiausia ginčytinų teiginių ir vertinimų yra pasaky-
-    ta Lietuvos pagonybės tema. Taip atsitiko dėl prieštaros tarp pirmojoje
-    XIX a. pusėje sukurto pagoniškos epochos kaip lietuvių aukso amžiaus
-    mito ir istorijos šaltinių teikiamos informacijos skurdumo. Romantikai
-    ieškojo antropomorfinių dievų įvaizdžių, stabų, rašto, žynių, šventyklų,
-    taigi siekė rasti tai, kas būdinga ikikrikščioniškai Romai ar graikų ir ro-
-    mėnų religinėms sistemoms.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
     - t-003
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -143,7 +107,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - [[objektai/asmenys/Birutė]]
 - [[objektai/asmenys/Dobrogostas]]
 - [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/ivykiai/Durbės mūšis]]
 - [[objektai/asmenys/Engelhardas Rabė]]
 - [[objektai/grupes/Gediminaičių dinastija]]
@@ -152,10 +115,8 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - [[objektai/posakiai/Iki gyvos galvos]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Jokūbas I]]
 - [[objektai/asmenys/Jonas Švitrigaila]]
-- [[objektai/autoriai/Jucevičius L. A]]
 - [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
 - [[objektai/asmenys/Jėzus Kristus]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
@@ -179,11 +140,9 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
-- [[objektai/asmenys/Liubartas]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/zodynas/Magdeburgo teisės vokiečių teisės normos]]
-- [[objektai/asmenys/Mantautas]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/asmenys/Mindaugas]]
@@ -193,7 +152,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - [[objektai/ivykiai/Mindaugo nužudymas]]
 - [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje]]
 - [[objektai/asmenys/Mykolas Skirgaila]]
-- [[objektai/paprociai/Naujakrikščių slėpimasis įtvirtintuose priebėgos būstuose]]
 - [[objektai/posakiai/Ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių. Todėl pasiliksiu prie pagonybės]]
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/zodynas/Ordino maršalas didysis maršalas]]
@@ -217,7 +175,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - [[objektai/paprociai/Senjoro atsakomybė už pavaldinio tikėjimą]]
 - [[objektai/autoriai/Simono Grunau]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas]]
 - [[objektai/autoriai/Stasys Šalkauskis]]
 - [[objektai/autoriai/Stryjkowski Strijkovskis]]
 - [[objektai/asmenys/Sudimantas]]
@@ -255,10 +212,8 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - [[objektai/zodynas/konsistorija]]
 - [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/zodynas/prūsiškos grivenos]]
-- [[objektai/zodynas/turma]]
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
 - [[objektai/zodynas/vaivada kaštelionas]]
-- [[objektai/posakiai/Čia pirmoji yra lietuvių tautos vieta]]
 - [[objektai/grupes/Škotai]]
 - [[objektai/asmenys/Šv. Stanislovas]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]

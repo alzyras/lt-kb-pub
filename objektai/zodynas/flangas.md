@@ -73,7 +73,6 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/grupes/13-asis ulonų pulkas]]
 - [[objektai/grupes/8-asis pėstininkų pulkas]]
 - [[objektai/asmenys/Antoine Gramont]]

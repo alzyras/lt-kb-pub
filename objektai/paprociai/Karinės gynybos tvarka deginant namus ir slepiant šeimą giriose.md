@@ -31,31 +31,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Artėjant stipriam priešui gyventojai išnešdavo turtą į girias, ten suvesdavo šeimas ir gyvulius, javus įkasdavo, o namus sudegindavo.'
+  teiginys: 'Sudeginus namus, priešams po degėsius ieškant lietuvių, Kęstutis puolė iš Palangos girių, o Algirdas užėjo iš Žaliosios girios.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kai priešai vaikščiojo po degėsius ieškodami lietuvių, Kęstutis išpuolė iš Palangos girių, o Algirdas užėjo jiems už nugaros iš Žaliosios girios.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kartais, turėdami su daugiu nuožmių neprietelių kariauti savo krašte, lig neištraukę ant jų į karę,
-        pirma savo pelnelį, beje, kubilėlį su drabužiais, iš namų į neišžengiamas girias toli tolesniai išnešę ir
-        tenai pačias, vaikus ir gyvulius suvedę, javus į žemę įkasę, namus sudegino, idant neprieteliai atėję
-        nei duonos, nei pastogės, nei gyvulio niekame nerastų ir per tą patį badu ir vargais išgaištų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Sudeginus namus, priešams po degėsius ieškant lietuvių, Kęstutis puolė iš Palangos girių, o Algirdas užėjo iš Žaliosios girios.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tuo tarpu, jiems po degėsius bevaikščiojant ir beieškant lietuvių, Kęstutis, su 15 tūkstančių joties išpuolęs
@@ -66,7 +49,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

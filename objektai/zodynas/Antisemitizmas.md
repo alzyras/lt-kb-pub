@@ -22,7 +22,7 @@ tags:
     - c-001
 
 - t-002
-  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 167 Lietuvos piliečiai žydai ir lenkai Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus.'
+  teiginys: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.'
   pagrindžia:
     - c-003
 
@@ -71,6 +71,7 @@ tags:
     - t-003
 
 - c-003
+  santrauka: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     balandį atleido jį iš pareigų.

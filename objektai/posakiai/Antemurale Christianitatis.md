@@ -35,61 +35,21 @@ amziai:
 - t-001
   teiginys: '„Antemurale Christianitatis“ siejama su gilia Lietuvos kovos Vakarų civilizacijos vertybių pusėje tradicija.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Jau pirmieji krikščioniški Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes christiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: 'Pirmieji krikščioniški Lietuvos valdovai formavo „antemurale Christianitatis“ ideologiją.'
-  pagrindžia:
-    - c-002
-
-- t-004
-  teiginys: 'Po Oršos mūšio Lenkija ir Lietuva buvo vaizduojamos kaip Europos forpostas prieš „schizmatikus“ maskvėnus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Propagandos kampanija po mūšio leido
-    Žygimantui spręsti tarptautinius klausi-
-    mus. Kai kurie žymesni belaisviai buvo
-    išsiuntinėti į Europos valdovų dvarus
-    demonstruojant lietuvių ginklo pergalę
-    ir maskvėnų egzotiką. Lenkija ir Lietuva
-    buvo vaizduojamos kaip Europos forpostas
-    prieš „schizmatikus“ maskvėnus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-
-    zaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai palikę tik
-    barjero tarp Rytų ir Vakarų vaidmenį. Jau pirmieji krikščioniški
-    Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
-    tiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,
-    formuodami „antemurale Christianitatis“ ideologiją. Garsiajame
-    Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
-    Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
-    imperijos keliamo pavojaus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti
@@ -109,8 +69,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
-- c-004
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Antemurale Christianitatis“! Lietuvos kova Vakarų civiliza-
@@ -129,11 +90,8 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
 - [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]

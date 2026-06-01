@@ -27,7 +27,7 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­ damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­ muno, žemiau Dubysos įtakos, Naują Marienburgo pilį.'
+  teiginys: 'Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
     - t-002
 
 - c-002
+  santrauka: 'Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
@@ -204,4 +205,9 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
+- [[objektai/asmenys/Albinas (Vilniaus sufraganas)]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/zodynas/Jus Patronatus]]
+- [[objektai/asmenys/Kristupas Varševickis]]
+- [[objektai/grupes/Vilniaus akademijos kolegija]]
+- [[objektai/zodynas/sufraganas kleras arkipresbiteris]]

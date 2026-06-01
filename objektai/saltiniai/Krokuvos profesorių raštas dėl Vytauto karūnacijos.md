@@ -24,13 +24,14 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     - c-002
 
 - t-002
-  teiginys: 'Tuo tarpu ir susipažinsim nors trumpai su ta raštų kova, kuri buvo pavartota minėtam klausimui išspręsti.'
+  teiginys: 'Krokuvos profesoriai rašte teigė, kad karūnuoti gali tik popiežius, o Romos karalius Zigmantas tokios teisės neturi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krokuvos profesoriai rašte teigė, kad karūnuoti gali tik popiežius, o Romos karalius Zigmantas tokios teisės neturi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo tarpu ir susipažinsim nors trumpai su ta raštų kova,

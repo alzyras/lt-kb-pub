@@ -26,13 +26,14 @@ Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill 1953, 39-52
 ## Teiginiai
 
 - t-001
-  teiginys: 'Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill 1953, 39-52 p. (^244) II skyrius: valstybės iškilimas gaikštijos gyventojams, kai religinis priklausomumas politikoje ėmė vaidinti svarbią rolę, kliudė rytinėse žemėse išlaikyti Vilniaus dvaro.'
+  teiginys: 'Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^12) **LUB, VI, 140. Plg. J. Adamus :** **_O tytule panującego,_** **KH, 1930,

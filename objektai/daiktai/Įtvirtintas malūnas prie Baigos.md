@@ -60,4 +60,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Malūnas]]
-- [[objektai/autoriai/Kšivickis L]]

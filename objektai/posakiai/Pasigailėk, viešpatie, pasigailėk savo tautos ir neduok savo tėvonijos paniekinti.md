@@ -20,13 +20,14 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę drauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes, kurių pridarė Sventopelkas su savo kariauna, ir, mušdamiesi į krūtinę, su ašaromis meldė dievą, sakydami: „Pasigailėk.'
+  teiginys: 'Kulmo broliai, kilmingieji ir miestiečiai meldėsi žodžiais „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kulmo broliai, kilmingieji ir miestiečiai meldėsi žodžiais „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę

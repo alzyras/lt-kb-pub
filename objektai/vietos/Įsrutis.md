@@ -28,7 +28,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jis kiek sutrumpėjo, kai reikšmingais 1336 metais, prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­ tyta didelė keturių bokštų pilis Įsrutis (Insterburg).'
+  teiginys: '1336 m. nadruvių plote buvo pastatyta didelė keturių bokštų Įsruties pilis.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1336 m. nadruvių plote buvo pastatyta didelė keturių bokštų Įsruties pilis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais

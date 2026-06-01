@@ -99,5 +99,6 @@ periodo_grupes:
 - [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/daiktai/Šventojo kryžiaus relikvija]]
 - [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]
-- [[objektai/asmenys/Fridrichas (Austrijos kunigaikštis)]]
-- [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
+- [[objektai/asmenys/Albertas (Brandenburgo markgrafas)]]
+- [[objektai/ivykiai/Liudviko iš Bavarijos ir Fridricho Austriečio dviguba elekcija bei konfliktas (1314–1324 m.)]]
+- [[objektai/zodynas/Papilys suburbium]]

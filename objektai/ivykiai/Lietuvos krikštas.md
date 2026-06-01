@@ -45,18 +45,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Daugiau Jogaila Lie­ tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos didikai.'
+  teiginys: 'Lietuvos krikšto metu Vytautas aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Taigi feodaliniai santykiai įgijo idėjinį pagrindą, 1 skyrius • S E N O J I L I E T U VA 43 Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių žygyje prie kryžiaus.'
+  teiginys: 'Alegoriniame Europos šalių žygyje prie kryžiaus Lietuva vaizduota kaip paskutinė ir pėsčia valstybė.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos krikšto metu Vytautas aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Daugiau Jogaila Lie­
@@ -75,7 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Taigi feodaliniai santykiai įgijo idėjinį pagrindą, 1 skyrius • S E N O J I L I E T U VA 43 Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių žygyje prie kryžiaus.'
+  santrauka: 'Alegoriniame Europos šalių žygyje prie kryžiaus Lietuva vaizduota kaip paskutinė ir pėsčia valstybė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savaip transformuota artimo meilės idėja atsispindi
@@ -97,13 +98,12 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/senjoras]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/posakiai/`rex` `bazileus`]]
 - [[objektai/posakiai/rex` `bazileus]]
-- [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/asmenys/Vytautas Didysis]]

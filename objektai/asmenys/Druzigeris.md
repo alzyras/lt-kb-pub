@@ -25,11 +25,6 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­ jos [vyrų] Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės.'
-  pagrindžia:
-    - c-001
-
-- t-003
   teiginys: 'Dusburgietis teigia, kad tuo tarpu stalininkas Druzigeris, su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo žemėje ir Lenkijoje kilo toks baisus krikščionių.'
   pagrindžia:
     - c-002
@@ -37,6 +32,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1246 m. Austrijos kunigaikštis pasiuntė stalininką Druzigerį su didele kariuomene talkinti Prūsijos žemei.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     55 (54). Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
@@ -50,8 +46,6 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,7 +62,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

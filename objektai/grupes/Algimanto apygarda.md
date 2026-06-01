@@ -131,7 +131,6 @@ amziai:
 ### Susiję objektai
 - [[objektai/grupes/Agentai-smogikai]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Slučka-Šarūnas]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
 - [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]

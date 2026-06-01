@@ -27,13 +27,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­ dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų, pusę to činšo, 400.'
+  teiginys: '1632 m. sausio 2 d. Akademijos rektorius Frizijus nupirko mūrinį namą, kitados vadintą Eljaševičiaus, o tada Vaito vardu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1632 m. sausio 2 d. Akademijos rektorius Frizijus nupirko mūrinį namą, kitados vadintą Eljaševičiaus, o tada Vaito vardu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­

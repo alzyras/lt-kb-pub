@@ -31,22 +31,22 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą Tais pačiais metais per velykas lietuviai pastatė Junigedos valsčiuje pilį533, kurią 531 Žr.'
   pagrindžia:
-    - c-011
+    - c-008
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 metais Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės pilis ir iki pamatų sudegino jų.'
   pagrindžia:
-    - c-009
+    - c-006
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie Junigedos papilio sudeginimą 1315 m. spalio 12 Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe ir sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją išvaduoti.'
   pagrindžia:
-    - c-003
+    - c-005
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.'
   pagrindžia:
-    - c-010
+    - c-007
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
@@ -61,27 +61,27 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
 - t-007
   teiginys: 'Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies, laivą pagriebė smarkus vėjas ir nubloškė prie kranto.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-008
   teiginys: 'Dusburgietis teigia, kad po to broliai nuplaukė beveik iki Junigedos pilies.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-009
   teiginys: 'Dusburgietis teigia, kad kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos papilį, nukovė daug žmonių, 78 paėmė į nelaisvę, o jį sudegino ligi pamatų.'
   pagrindžia:
-    - c-008
+    - c-005
 
 - t-010
   teiginys: 'Dusburgietis teigia, kad 533 Junigedos, Junigėdos (Veliuonos) pilis greičiausiai buvo rytiniame Veliuonos piliakalnyje, kuris vadinamas Gedimino kapu (LAA, 2, p. 179, Nr. 804).'
   pagrindžia:
-    - c-005
+    - c-008
 
 - t-011
-  teiginys: 'Dusburgietis teigia, kad 532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius ir pilis (žr.'
+  teiginys: 'Junigeda minima kaip valsčius ir pilis, vėlesnėse kronikose tapatinta su Veliuona.'
   pagrindžia:
-    - c-007
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -105,6 +105,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   statusas: verified
   pagrindžia:
     - t-006
+    - t-013
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -126,24 +127,9 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   statusas: verified
   pagrindžia:
     - t-005
+    - t-012
 
 - c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    325 (318). Apie Junigedos papilio sudeginimą 1315 m. spalio 12
-
-      Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir
-    sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
-    išvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus
-    šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos
-    papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     317 (310). Apie vieną brolių karo laivą
@@ -158,19 +144,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   pagrindžia:
     - t-007
 
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    533 Junigedos, Junigėdos (Veliuonos)  pilis greičiausiai buvo rytiniame Veliuonos
-    piliakalnyje, kuris vadinamas Gedimino kapu (LAA, 2, p. 179, Nr. 804). Prie pilies buvo du
-    papiliai — ant kalno ir slėnyje (D. III, 252). Pirmajam priklausė į vakarus nuo Gedimino
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-006
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
@@ -183,21 +157,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   pagrindžia:
     - t-008
 
-- c-007
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius  ir  pilis  (žr.
-    paaiškinimus D. III, 244, 1); vėliau, kitose kronikose, jau Veliuona (Zajączkowski S.,
-    Studya..., p. 38— 39). Dusburgietis, matyt, valsčiaus vardu vadinęs ir jo centrą, t. y.
-    Veliuoną (SZM, p. 215—216, 239—241), įsikūrusį deš. Nemuno krante prie Veliuonos
-    upelio.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-008
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Junigedos papilio sudeginimą 1315 m. spalio 12
@@ -213,8 +173,9 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   statusas: verified
   pagrindžia:
     - t-009
+    - t-003
 
-- c-009
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     271 (264). Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
@@ -231,7 +192,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   pagrindžia:
     - t-002
 
-- c-010
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
@@ -252,7 +213,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   pagrindžia:
     - t-004
 
-- c-011
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą
@@ -279,42 +240,10 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   statusas: verified
   pagrindžia:
     - t-001
+    - t-011
+    - t-010
 
-- c-012
-  santrauka: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
-
-      1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
-    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
-    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino. Šitai padarę, patraukė į
-    Junigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų
-    nuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-013
-  santrauka: 'Dusburgietis teigia, kad apie Junigedos pilies papilių sudeginimą 1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių, nevengdamas nei didelių rūpesčių, nei gausių išlaidų, visados pasiryžęs aukštinti tikėjimą ir tikinčiuosius, sutelkė visą savo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    252 (245). Apie Junigedos pilies papilių sudeginimą
-
-      1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių,
-    nevengdamas nei  didelių rūpesčių, nei gausių  išlaidų, visados pasiryžęs  aukštinti
-    tikėjimą ir tikinčiuosius, sutelkė visą savo kariuomenę, patraukė prie Junigedos pilies ir
-    ją smarkiai užpuolė. Daug žmonių išžudęs, pavertė pelenais du šios pilies papilius, vieną
-    — ant kalno, kitą — slėnyje.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-014
+- c-009
   santrauka: 'Dusburgietis teigia, kad po to broliai nuplaukė beveik iki Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

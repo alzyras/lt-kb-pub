@@ -57,32 +57,32 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-002
   teiginys: 'Krokuva Lešekui Juodajam buvo skolinga už svarbias privilegijas, svetimtaučių antplūdį ir gerai sutvirtintas mūro sienas.'
   pagrindžia:
-    - c-002
+    - c-006
 
 - t-003
   teiginys: '1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė) Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
-  teiginys: 'Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui.'
+  teiginys: 'Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-006
-  teiginys: 'Taip kūrėsi Vilnius, kuris tuo­ met, regis, buvo panašesnis į keletą didelių kaimų, sujungtų į vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą miestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­ kiais Kazimieras Didysis puošė ir tvirtino.'
+  teiginys: 'Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-007
   teiginys: '1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -109,25 +109,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    ĮVADAS
-    Lenkijos miestų, jau XII amžiuje dėl savo prekybinių ryšių bu­
-    vo žinoma net Rytuose. Benjaminas iš Tudelio, žydų kilmės ke­
-    liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne
-    tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau
-    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
-    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
-    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
-    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
-    dajam.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę
     aprimę, karalius savo sprendimu atleido Vilniaus gyvento­
     jus nuo karo tarnybos vieneriems metams, su sąlyga, kad
@@ -145,7 +126,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Rygos miesto sugriovimą
@@ -166,7 +147,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
+  santrauka: 'Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau nemažai įvairių tenykš­
@@ -185,7 +167,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   pagrindžia:
     - t-006
 
-- c-006
+- c-005
   santrauka: '1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -210,7 +192,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   pagrindžia:
     - t-007
 
-- c-007
+- c-006
+  santrauka: 'Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7
@@ -232,6 +215,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -261,9 +245,11 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - [[objektai/posakiai/ius Teutonicum quod Magdeburiense dicitur denuo darnus]]
 - [[objektai/zodynas/oktava]]
 - [[objektai/zodynas/prekymečiai ir turgūs]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
 - [[objektai/daiktai/Mūro sienos]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]
 - [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]

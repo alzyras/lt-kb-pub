@@ -26,11 +26,6 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'GusTransatlantiniai lakūnai Steponas Darius ir Stasys Girėnas 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 175 taičio, 1934 m.'
-  pagrindžia:
-    - c-002
-
-- t-002
   teiginys: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
   pagrindžia:
     - c-001
@@ -52,33 +47,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
-    buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
-    tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
-    pirmųjų raidžių). 66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
-    jos dirbtuvėse. Trijų ANBO IV lėktuvų grupė, vadovaujama A.  Gus-
-    Transatlantiniai lakūnai
-    Steponas Darius ir Stasys Girėnas
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    175
-    taičio, 1934 m. aplankė faktiškai visas Europos sostines, nuskrido per
-    10  000  km.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Lėktuvai]]
-- [[objektai/posakiai/„Antanas nori būti ore“]]
 - [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
 - [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]
 - [[objektai/grupes/JAV lietuviai]]

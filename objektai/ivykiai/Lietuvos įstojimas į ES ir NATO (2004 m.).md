@@ -47,17 +47,17 @@ Nenurodyta
 - t-001
   teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-002
-  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 259 Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
+  teiginys: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-003
   teiginys: 'Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
-    - c-007
+    - c-008
 
 - t-004
   teiginys: '2004 Lietuva tampa ES ir NATO nare.'
@@ -67,17 +67,17 @@ Nenurodyta
 - t-005
   teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-006
   teiginys: 'Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
-    - c-003
+    - c-007
 
 - t-007
   teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-008
   teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
@@ -85,14 +85,14 @@ Nenurodyta
     - c-001
 
 - t-009
-  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 261 Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
+  teiginys: 'Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
-    - c-010
+    - c-008
 
 - t-010
   teiginys: '1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -126,21 +126,6 @@ Nenurodyta
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie
-    Šiaurės Atlanto bendradarbiavimo tarybos. 1994 m. sausį Lietuvos Res-
-    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
-    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
-    dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
-    prie Partnerystės taikos labui iniciatyvos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Tų pačių metų sausį Lietuva prisijungė
     prie Partnerystės taikos labui iniciatyvos. 1999 m. balandį NATO šalių
     vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą
@@ -154,7 +139,7 @@ Nenurodyta
   pagrindžia:
     - t-010
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2003 m. kovą
@@ -167,7 +152,7 @@ Nenurodyta
   pagrindžia:
     - t-007
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo oficialių diplomatinių
@@ -182,23 +167,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių
-    gamybos apimtys. Tai padidino Lietuvos eksportą į kitas šalis, skatino už-
-    sienio kapitalo investicijas į Lietuvos ekonomiką, paaštrino konkurenciją,
-    leido racionaliau naudoti ir paskirstyti ekonominius veiksnius (darbo ir
-    kapitalo). Narystė ES apribojo Lietuvos vyriausybės galimybes tiesiogiai
-    ir netiesiogiai kištis į ūkio funkcionavimą ir suteikė daugiau laisvių ir ga-
-    limybių Lietuvos įmonėms bei vartotojams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-008
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-
@@ -214,7 +183,8 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-009
+- c-007
+  santrauka: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
@@ -230,8 +200,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-006
 
-- c-010
+- c-008
+  santrauka: 'Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
@@ -248,23 +220,20 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-009
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Ateitis]]
-- [[objektai/zodynas/ES pilietis]]
 - [[objektai/asmenys/Manfredas]]
 - [[objektai/grupes/NATO]]
 - [[objektai/zodynas/peticija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
-- [[objektai/asmenys/Algirdas Brazauskas]]
 - [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]
 - [[objektai/ivykiai/Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)]]
-- [[objektai/asmenys/Manfredas Verneris]]
 - [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
-- [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]

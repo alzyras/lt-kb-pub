@@ -24,13 +24,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1255 m. šešiasdešimt miestų pa­ našiu tikslu įsteigė Reino konfederaciją, vadovaujamą aukščiau­ siųjų dvasininkų.'
+  teiginys: '1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie karinės sąjungos, 1241 m.

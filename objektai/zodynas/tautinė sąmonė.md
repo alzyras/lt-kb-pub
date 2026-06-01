@@ -48,17 +48,12 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
 - t-001
   teiginys: 'Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų.'
   pagrindžia:
     - c-001
-
-- t-003
-  teiginys: 'Stryjkovskis ne­ galėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri teišsivystė XIX amžiuje.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -81,6 +76,7 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
     - t-002
 
 - c-002
+  santrauka: 'Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Mozūras Stryjkovskis
@@ -97,23 +93,6 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Mozūras Stryjkovskis
-    ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­
-    binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
-    Didžiosios Lietuvos Kunigaikštystės gyventojus. Stryjkovskis ne­
-    galėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri
-    teišsivystė XIX amžiuje. Nuo 1578 metų gyvendamas Varniuose
-    pas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris
-    Stryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­
-    dotas »^20 nuoširdžiai persiėmė Lietuvos reikalais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

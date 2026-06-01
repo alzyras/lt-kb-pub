@@ -17,16 +17,10 @@ tags:
 
 Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
 
-## Teiginiai
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rudolfas buvo Tiberiados valdovas, paminėtas tarp Jeruzalės karalystės didikų, pritarusių ligoninės patvirtinimo siekiui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors
@@ -57,8 +51,6 @@ Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -69,5 +61,4 @@ Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]

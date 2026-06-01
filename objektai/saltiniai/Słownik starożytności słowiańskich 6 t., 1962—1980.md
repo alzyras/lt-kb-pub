@@ -27,13 +27,14 @@ Dusburgietis teigia, kad słownik starożytności słowiańskich: 6 t., 1962—1
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad słownik starożytności słowiańskich: 6 t., 1962—1980.—Wrocław—Warszawa— Kraków.— T.'
+  teiginys: '„Słownik starożytności słowiańskich“ sudaro šeši tomai, leisti 1962–1980 m. Vroclave, Varšuvoje ir Krokuvoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Słownik starożytności słowiańskich“ sudaro šeši tomai, leisti 1962–1980 m. Vroclave, Varšuvoje ir Krokuvoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Słownik  starożytności  słowiańskich:  6   t.,  1962—1980.—Wrocław—Warszawa—

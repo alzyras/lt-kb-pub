@@ -24,7 +24,7 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo susigėdęs atstojo ir nebedrįso daugiau rodytis. 234 (227).'
+  teiginys: 'Brolis Volframas Saksas metus priešinosi velnio pagundoms, kol šis nuo jo atstojo.'
   pagrindžia:
     - c-002
 
@@ -49,6 +49,7 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
     - t-001
 
 - c-002
+  santrauka: 'Brolis Volframas Saksas metus priešinosi velnio pagundoms, kol šis nuo jo atstojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl pirmąją
@@ -68,4 +69,3 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
-- [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]

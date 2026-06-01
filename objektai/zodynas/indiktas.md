@@ -36,18 +36,19 @@ amziai:
     - c-003
 
 - t-002
-  teiginys: 'Rašyta Vilniuje Viešpa­ ties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.'
+  teiginys: 'Vilniuje rašytas dokumentas datuotas 1533 m. spalio 23 d., 7 indiktu.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: '33 Peremire Korola Kazimira z Opskowem u Wilni meseca dekabra trydcataho dnia, 1440 Indykt 4 [Karaliaus Kazi­ miero sutartis su Pskovu Vilniuje, 1440 metų gruodžio mėnesio 30 die­ ną, 4 indiktas]; iš D o g e l i o, MSS.'
+  teiginys: 'Karaliaus Kazimiero sutartis su Pskovu Vilniuje datuota 1440 m. gruodžio 30 d., 4 indiktu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniuje rašytas dokumentas datuotas 1533 m. spalio 23 d., 7 indiktu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -81,6 +82,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Karaliaus Kazimiero sutartis su Pskovu Vilniuje datuota 1440 m. gruodžio 30 d., 4 indiktu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     33
@@ -136,6 +138,7 @@ amziai:
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
@@ -151,4 +154,3 @@ amziai:
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]

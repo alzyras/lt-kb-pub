@@ -166,6 +166,5 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 - [[objektai/posakiai/„nuo jūros iki jūros“]]
 - [[objektai/zodynas/unija]]
 - [[objektai/daiktai/Didysis Lietuvos antspaudas]]
-- [[objektai/asmenys/Polis Himansas]]
 - [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė]]
 - [[objektai/zodynas/kantonas kantoninis principas]]

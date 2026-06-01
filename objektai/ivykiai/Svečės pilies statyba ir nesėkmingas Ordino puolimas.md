@@ -41,13 +41,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems.'
+  teiginys: 'Sventopelkas pradėjo statyti Svečės pilį priešais Kulmą, kad trukdytų broliams plaukioti Vysla aukštyn ir žemyn.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sventopelkas pradėjo statyti Svečės pilį priešais Kulmą, kad trukdytų broliams plaukioti Vysla aukštyn ir žemyn.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
@@ -103,6 +104,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/legatas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Sventopelkas]]

@@ -26,13 +26,14 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų ministras Antanas Valionis pasirašo stojimo į Europos Sąjungą sutartį L I E T U V O S I S T O R I J A 262 Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais.'
+  teiginys: 'Įstojusi į Europos Sąjungą Lietuva galėjo Briuselyje reikšti savo poziciją įvairiais klausimais ir veikti ES sprendimus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Įstojusi į Europos Sąjungą Lietuva galėjo Briuselyje reikšti savo poziciją įvairiais klausimais ir veikti ES sprendimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir

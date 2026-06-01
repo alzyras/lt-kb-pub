@@ -45,17 +45,17 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.).'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas Medenava, ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs į nelaisvę ir išžudęs, ten pat ir pernakvojo.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad viską tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai.'
@@ -113,23 +113,6 @@ Nenurodyta
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
-    sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos
-    karalių318, tikrai pamaldų vyrą  ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,
-    kuris šiame maldininkų žygyje buvo  jo maršalas, Austrijos  kunigaikštį, Moravijos
-    markgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą
-    su galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,
-    Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
-    atkeršyti už nukryžiuotojo viešpaties kančias.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Tada karalius įsibrovė  į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas
     Medenava,  ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs  į
     nelaisvę ir išžudęs, ten pat ir pernakvojo. Kitą dieną patraukė  į Rudavos valsčių ir ten
@@ -170,7 +153,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
@@ -185,7 +168,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie sembų pavergimą
@@ -209,7 +192,6 @@ Nenurodyta
 - [[temos/karvedys]]
 
 ### Susiję objektai
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/daiktai/Vežimai]]

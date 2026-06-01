@@ -27,51 +27,27 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 - t-001
   teiginys: 'Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Tačiau Versalyje Lietuvos delegacija iškėlė Rytų Prūsijos (kurioje tarp pusės milijono vokiečių gyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
-  teiginys: 'Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipėdoje.'
+  teiginys: 'Kaltinamieji teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas ir kiti nacių atstovai.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
   teiginys: '11 minučių ir įveikę 6 411 km, antrą tuo metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtme-
-    čio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prū-
-    sijos, lietuvių vadinamos Mažąja Lietuva, nevaldė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau Versalyje Lietu-
-    vos delegacija iškėlė Rytų Prūsijos (kurioje tarp pusės milijono vokiečių
-    gyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į
-    Baltijos jūrą per Klaipėdą klausimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
+  santrauka: 'Kaltinamieji teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas ir kiti nacių atstovai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dauguma kaltinamųjų sakė,
@@ -86,7 +62,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   pagrindžia:
     - t-003
 
-- c-004
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Nu-
@@ -99,7 +75,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   pagrindžia:
     - t-004
 
-- c-005
+- c-003
   santrauka: 'Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -115,8 +91,10 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002
+    - t-001
 
-- c-006
+- c-004
   santrauka: '11 minučių ir įveikę 6 411 km, antrą tuo metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

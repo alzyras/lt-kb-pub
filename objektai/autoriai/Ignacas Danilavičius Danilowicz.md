@@ -28,18 +28,19 @@ Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Teisės katedrai, Ignacas Dani­ la vičius, kuriam Lietuvos istorija ir teisės mokslas jau tiek skolin­ gi, mielai perleidęs man svarbius savo užrašus apie mažiau žinomas Vilniaus.'
+  teiginys: 'Ignacas Danilavičius perdavė M. Balinskiui užrašus apie mažiau žinomas Vilniaus miesto privilegijas.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui Malevskiui už gausius išrašus iš Lietuvos Metrikos.'
+  teiginys: 'M. Balinskis dėkojo Ignui Danilavičiui ir Ignui Onacevičiui už pagalbą istoriniais dokumentais.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ignacas Danilavičius perdavė M. Balinskiui užrašus apie mažiau žinomas Vilniaus miesto privilegijas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau jaučiu malonią pareigą prisipažinti sa­
@@ -59,6 +60,7 @@ Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pa
     - t-001
 
 - c-002
+  santrauka: 'M. Balinskis dėkojo Ignui Danilavičiui ir Ignui Onacevičiui už pagalbą istoriniais dokumentais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmoji knygos dalis užbaigia­

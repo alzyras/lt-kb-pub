@@ -31,7 +31,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 - t-003
   teiginys: 'Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzuitai stengėsi visur apsigyventi.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-004
   teiginys: 'XVIII a. į Lietuvą atsikraustęs Pijarų ordinas rūpinosi jaunuomenės auklėjimu ir kūrė dievobaimingąsias mokyklas.'
@@ -128,23 +128,6 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pijarai, niekuo daugiau neužsiimdami,
-    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
-    tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos
-    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
-    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
-    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
-    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
-
-    #### 6.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

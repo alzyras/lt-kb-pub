@@ -23,13 +23,14 @@ Dusburgietis teigia, kad vanagas A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vanagas A.'
+  teiginys: 'A. Vanago straipsnis apie vietovardžio Labguva darybą ir kilmę paskelbtas „Baltisticoje“ 1966 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Vanago straipsnis apie vietovardžio Labguva darybą ir kilmę paskelbtas „Baltisticoje“ 1966 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.

@@ -30,9 +30,9 @@ Kudzinowski, Cz.
     - c-001
 
 - t-002
-  teiginys: '), kurio, deja, neteko panaudoti.—Kudzinowski, Cz.'
+  teiginys: 'Cz. Kudzinowski parašė straipsnį „Jaćwingome w języku“, paskelbtą ABaSl I tome 1964 m.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -50,20 +50,6 @@ Kudzinowski, Cz.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Klimas, P. keliuose egz. mašinraštyje 1939 m. paruošė savo
-    numatytos daugiatomės Lietuvių tautos istorijos I tomą (iki 1200 m.),
-    kurio, deja, neteko panaudoti.—Kudzinowski, Cz. : _Jaćwingome w
-    języku,_ ABaSl, I, 1964, 217-225 p. — Kuraszkiewicz, W. : _Domnie­
-    many Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­
-    kiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T. : _Język polski.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

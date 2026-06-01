@@ -22,7 +22,7 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
     - c-001
 
 - t-002
-  teiginys: 'Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos laukiąs tik iš Dievo, o ne iš kitur.'
+  teiginys: 'Priėmęs Ordino pasiuntinių atneštus kardus Jogaila atsakė, kad kautynių vieta bus gera ten, kur ją paskirs Dievas.'
   pagrindžia:
     - c-002
 
@@ -43,7 +43,7 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
     - t-001
 
 - c-002
-  santrauka: 'Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos laukiąs tik iš Dievo, o ne iš kitur.'
+  santrauka: 'Priėmęs Ordino pasiuntinių atneštus kardus Jogaila atsakė, kad kautynių vieta bus gera ten, kur ją paskirs Dievas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo pat
@@ -57,3 +57,7 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila]]

@@ -47,7 +47,7 @@ Nenurodyta
 - t-001
   teiginys: 'Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Jojo nariai ( Schwertbrueder ) ant savo balto apsiausto, be raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją.'
@@ -71,21 +71,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagal Palestinoje
-    su turkais kovojančių templininkų statutą, vyskupo priklausomybėje
-    1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( _Fratres Militiae
-    Christi_ ). Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be
-    raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­
-    legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
-    ordino prieauglių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
@@ -94,6 +79,5 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]

@@ -24,12 +24,12 @@ Vartojamos formos: `ermyderių`.
 ## Teiginiai
 
 - t-001
-  teiginys: '`Ermyderiai` žymi gamtos, visuomenės ir politinės tvarkos suirutes.'
+  teiginys: 'Ermyderiai žemėje, vandenyje ir ore rodo pasaulyje buvusias atmainas, apie kurias raštai tyli.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Autorius jais apibūdina tiek žemės ir vandens pokyčius, tiek tikybos ir ūkės tvarkos krizes.'
+  teiginys: 'Ermyderiai apibūdina žemės, vandens ir oro reiškinius, liudijančius pasaulio atmainas.'
   pagrindžia:
     - c-001
 

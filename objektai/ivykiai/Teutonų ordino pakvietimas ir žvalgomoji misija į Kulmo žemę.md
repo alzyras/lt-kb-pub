@@ -38,39 +38,21 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią ir tokią šlovę.'
   pagrindžia:
-    - c-004
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė prūsų kariuomenė ir ją nuniokojo gaisrais ir grobstymais. Minėtieji broliai, valdovės Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip
-    didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią  ir tokią
-    šlovę, kad jo didžios garbės atgarsiai, skersai ir išilgai paplitę, galop pasiekė ir minėtojo
-    kunigaikščio ausį. Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo  į širdį, jog jis
-    sumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad
-    broliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės. Sušaukęs savo
-    vyskupus ir kilminguosius, jis atskleidė jiems savo sumanymą, prašydamas šiuo reikalu
-    patarti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl kunigaikštis pasiuntė pas
@@ -89,7 +71,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
@@ -106,7 +88,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams
@@ -124,26 +106,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-005
-  santrauka: 'Dusburgietis teigia, kad apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią ir tokią šlovę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    5. Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams
-
-      Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip
-    didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią  ir tokią
-    šlovę, kad jo didžios garbės atgarsiai, skersai ir išilgai paplitę, galop pasiekė ir minėtojo
-    kunigaikščio ausį. Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo  į širdį, jog jis
-    sumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad
-    broliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-004
 
-- c-006
+- c-004
   santrauka: 'Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -171,6 +136,5 @@ Nenurodyta
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Fridrichas II]]
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
 - [[objektai/asmenys/Konradas iš Landsbergo]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

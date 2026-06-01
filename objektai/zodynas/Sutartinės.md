@@ -24,11 +24,6 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sutartiniais vadinti ir trimitai, nes vieni jais trūbijo, o kiti sueigose dainavo atlieptinai.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Sutartinės vadintos dainomis, kurias sueigose dainuodavo atlieptinai.'
   pagrindžia:
     - c-001
@@ -43,7 +38,6 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
     - t-001
 
 ## Ryšiai
@@ -52,4 +46,3 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
 - [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/paprociai/Kovų vietų neliečiamumas]]

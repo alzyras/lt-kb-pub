@@ -20,12 +20,12 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­ jos [vyrų] Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės.'
+  teiginys: 'Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie įvairias Sventopelko derybas ir sutartis Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė: „Esu pasirengęs paisyti teisingumo ir.'
+  teiginys: 'Sventopelkas paprašė atsiųsti Henriką iš Lichtenšteino ir jam išdėstė nusiskundimus broliais dėl įkaitu laikomo sūnaus.'
   pagrindžia:
     - c-001
 
@@ -37,6 +37,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sventopelkas paprašė atsiųsti Henriką iš Lichtenšteino ir jam išdėstė nusiskundimus broliais dėl įkaitu laikomo sūnaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     60 (59). Apie įvairias Sventopelko derybas ir sutartis
@@ -72,6 +73,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     - t-003
 
 - c-003
+  santrauka: 'Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
@@ -116,3 +118,6 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - [[objektai/zodynas/stalininkas]]
 - [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo]]

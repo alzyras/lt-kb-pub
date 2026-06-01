@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ir vos tik magistras prie Vilniaus įsirengė stovyklą, bemat turėjo siųsti keturis pulkus apsau­ goti daliniams, išleistiems parūpinti maisto.'
+  teiginys: 'Prie Vilniaus stovyklą įsirengęs magistras turėjo siųsti keturis pulkus saugoti maisto parūpinti išleistų dalinių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Vilniaus stovyklą įsirengęs magistras turėjo siųsti keturis pulkus saugoti maisto parūpinti išleistų dalinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Matydamas šitai, lietuvių vadas din­

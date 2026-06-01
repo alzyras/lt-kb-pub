@@ -23,13 +23,14 @@ Dusburgietis teigia, kad toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M.'
+  teiginys: '„Toruń dawny i dzisiejszy: Zarys dziejów“, redaguotas M. Biskupo, išleistas 1983 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Toruń dawny i dzisiejszy: Zarys dziejów“, redaguotas M. Biskupo, išleistas 1983 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M. Bisköpa.— Warszawa—Poznań—

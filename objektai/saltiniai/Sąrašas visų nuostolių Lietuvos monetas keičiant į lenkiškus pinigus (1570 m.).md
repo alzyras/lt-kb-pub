@@ -33,7 +33,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     - c-003
 
 - t-002
-  teiginys: 'In Anno 1572 ad Diem 17 Aprilis [1572 metais iki balandžio 17 dienos] A die 1 Januarii ad 9 Februarii [nuo sausio 1 iki vasario 9 dienos] per tą laiką Varšuvoje pakeičiau lietuviškas mone­ tas į lenkiškus pinigus - 164 zl., 36 gr.'
+  teiginys: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo pakeistos į 164 auksinus ir 36 grašius lenkiškų pinigų.'
   pagrindžia:
     - c-001
 
@@ -45,6 +45,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo pakeistos į 164 auksinus ir 36 grašius lenkiškų pinigų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     In Anno 1572 ad Diem 17 Aprilis

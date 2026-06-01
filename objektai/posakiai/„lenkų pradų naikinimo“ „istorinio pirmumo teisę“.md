@@ -25,27 +25,14 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     - c-001
 
 - t-002
-  teiginys: 'L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.'
+  teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Neva po Liublino unijos LDK
-    tebuvo Lenkijos valda. Taigi, „susigrąžinusi“ tai, kas jai priklauso pagal
-    „istorinio pirmumo teisę“, Rusija turi teisę, kad ir prievarta, „atkurti is-
-    torinį teisingumą“. Todėl naikintos institucijos, kurios skyrė šį kraštą nuo
-    likusios Rusijos, vietos administracijoje neleidžiama vartoti lenkų kalbos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -72,6 +59,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

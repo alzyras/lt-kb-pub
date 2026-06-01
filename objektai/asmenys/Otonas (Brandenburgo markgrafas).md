@@ -29,13 +29,14 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad otonas (Brandenburgo markgrafas) deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių ir gausybės karių, gelbėti šios žemės ir tramdyti prūsų sukilimo: 1265 viešpaties metais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo markgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos karalius398.'
+  teiginys: '1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     125 (120). Apie daugybės maldininkų atvykimą
@@ -64,5 +65,3 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 ### Susiję objektai
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/markgrafas]]
-- [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją]]

@@ -17,13 +17,14 @@ Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje, specialiuose raitininkų, vadinamuosiuose totorių ulonų pulkuose, kiti yra tarnautojai, o vargingesni dirba pas privačius as­ menis arba turi menkus žemės plo­ telius, po tėvų mirties.'
+  teiginys: 'Lietuvos totoriai tarnavo specialiuose raitininkų pulkuose, vadinamuose totorių ulonų pulkais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos totoriai tarnavo specialiuose raitininkų pulkuose, vadinamuose totorių ulonų pulkais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Seniau totoriai vertėsi
@@ -72,3 +73,4 @@ Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje,
 - [[objektai/grupes/Trakų sukilėlių daliniai]]
 - [[objektai/zodynas/murza]]
 - [[objektai/zodynas/ulonas]]
+- [[objektai/grupes/Lietuvos totoriai]]

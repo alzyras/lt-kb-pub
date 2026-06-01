@@ -20,17 +20,17 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
-  pagrindžia:
-    - c-002
-
-- t-002
   teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: '„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sistemos keitimą, o tautiniu klausimu pasisakyta atsargiai.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
   pagrindžia:
     - c-003
 
@@ -52,28 +52,9 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Giedrius Reimeris, Algimantas
-    Nasvytis)
-    Laisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač
-    1939–1940 m. įvykiais Lietuvoje, pagyvėjo gamtos ir paminklų apsaugos są-
-    jūdžiai, didžiulę įtaką darė Rusijos spauda. Pradiniame etape Sąjūdis iš es-
-    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
-    pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
-    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
-    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
-    Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
@@ -89,9 +70,9 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   santrauka: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -107,9 +88,9 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-005
+- c-004
   santrauka: '„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sistemos keitimą, o tautiniu klausimu pasisakyta atsargiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -128,7 +109,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -146,8 +127,6 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
 - [[objektai/asmenys/Antanas Buračas]]
 - [[objektai/asmenys/Kazimiera Prunskienė]]
 - [[objektai/asmenys/Kazimieras Antanavičius]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
 - [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
-- [[objektai/zodynas/pertvarka perestroika]]
 - [[objektai/zodynas/suverenitetas suverenumas]]

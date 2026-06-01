@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 21.
+Objektų skaičius: 20.
 
 ## Kaip naudoti
 
@@ -30,7 +30,6 @@ Objektų skaičius: 21.
 ### Autoriai
 - [[objektai/autoriai/A. Dambrauskas-Jakštas]]
 - [[objektai/autoriai/Giovanni Villani]]
-- [[objektai/autoriai/Jucevičius L. A]]
 - [[objektai/autoriai/Motiejus Stryjkovskis]]
 - [[objektai/autoriai/Pskovo metraštininkas]]
 - [[objektai/autoriai/Tarvydas S]]

@@ -37,13 +37,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex officio suo [paruoštų pagal savo pareigas] medikamentų, eidami dar ir gydytojo pareigas, ne tik ex Pharmacis [vaistų] vaistinės pajamas padidindavo, juk ir pa­ tys gydydavo.'
+  teiginys: 'Vaistininkai didindavo vaistinės pajamas eidami ir gydytojo pareigas bei patys gydydami.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vaistininkai didindavo vaistinės pajamas eidami ir gydytojo pareigas bei patys gydydami.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­

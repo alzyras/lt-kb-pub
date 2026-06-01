@@ -43,23 +43,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigimą 1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė
-    švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol. 22,3).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie švenčiausiosios Marijos gimimo oktavos įsteigimą
@@ -75,19 +63,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigimą 1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    30. Apie švenčiausiosios Marijos gimimo oktavos įsteigimą
-
-      1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė
-    švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol. 22,3).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

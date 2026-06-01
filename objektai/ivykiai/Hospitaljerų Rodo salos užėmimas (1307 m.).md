@@ -41,23 +41,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas salas (Mart.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas
-    salas (Mart. p. 442).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     103. Apie tai, kaip hospitaljerai užėmė Rodo salą
@@ -69,8 +57,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Joanitų ordinas]]
-- [[objektai/grupes/Švento Jono ligoninės ordinas]]

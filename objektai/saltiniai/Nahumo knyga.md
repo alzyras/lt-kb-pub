@@ -19,13 +19,14 @@ Dusburgietis teigia, kad vis dėlto dievas, būdamas ir geras, ir pakantus, ir g
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vis dėlto dievas, būdamas ir geras, ir pakantus, ir gailestingas, galėdamas kantriai laukti ir daug atleisti, pasak pranašo Nahumo, esąs taip pat „dievas pavydus ir keršijąs, viešpats yra keršytojas savo nedraugams, ir jis rūstinasi ant savo priešų” (Nah 1.'
+  teiginys: 'Nahumo knygos 1,2 eilutė cituojama teigiant, kad Dievas yra pavydus, keršijantis ir rūstaujantis ant priešų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nahumo knygos 1,2 eilutė cituojama teigiant, kad Dievas yra pavydus, keršijantis ir rūstaujantis ant priešų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl, kai vengrai

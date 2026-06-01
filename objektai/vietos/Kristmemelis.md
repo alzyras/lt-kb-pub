@@ -31,17 +31,17 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - t-001
   teiginys: 'Dusburgietis teigia, kad rugsėjo 30—spalio 11 Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad į vakarines prūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III, 315), t.'
-  pagrindžia:
-    - c-006
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie Bisenės pilies puolimą 1313 metais 567 D.— edificavit castrum Cristmemelam, Jer.— Cristmemil; Kirsmemela — SRP, 1, p. 280; Kirsmomel — SRP, 2, p. 478, plg. pr. kirsa ‘virš’ ir vok. Memel (Nemunas), XV a. šnekamoje kalboje pavirto Skirsnemune (1449 —.'
+  teiginys: 'Kristmemelis panemunyje buvo pastatytas siekiant praplėsti krikščionių žemes.'
   pagrindžia:
     - c-005
+
+- t-003
+  teiginys: 'Kristmemelio pilis greičiausiai stovėjo Maštaičių arba Norkūnų piliakalnyje kairiajame Nemuno krante žemiau dabartinio Gelgaudiškio.'
+  pagrindžia:
+    - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad po to jie nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.'
@@ -50,11 +50,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino lietuviai146.'
-  pagrindžia:
-    - c-003
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad dieną puldinėjo lietuviai; tose kovose netikėliai neteko daug vyrų nukautaisiais ir sunkiai sužeistaisiais, o broliai — 18 karių sužeistaisiais. Nieko šiuo būdu nepešę, galop jie 17 dieną, kai jau ketino pasitraukti, sužinoję, kad artėja magistras su didele.'
   pagrindžia:
     - c-002
 
@@ -80,22 +75,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    dieną puldinėjo lietuviai; tose kovose netikėliai neteko daug vyrų nukautaisiais ir sunkiai
-    sužeistaisiais, o broliai — 18 karių sužeistaisiais. Nieko šiuo būdu nepešę, galop jie 17
-    dieną, kai jau ketino pasitraukti, sužinoję, kad artėja magistras su didele kariuomene,
-    priėjo pilies gynybinį griovį ir ten prinešė malkų, šieno, stagarų ir šiaudu, norėdami žūt
-    būt pilį sudeginti. Tokia galybė benešiojančių ir bepuldinėjančių netikėlių buvo nukauta ir
-    mirtinai sužeista, kad net nežinau, kiek iš tikrųjų, todėl jie, nepasiekę tikslo, ir pasitraukė
-    sudeginę apgulos mašinas.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
     m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
     lietuviai146. Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
@@ -107,7 +86,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   pagrindžia:
     - t-005
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
@@ -125,7 +104,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   pagrindžia:
     - t-001
 
-- c-005
+- c-004
+  santrauka: 'Kristmemelio pilis greičiausiai stovėjo Maštaičių arba Norkūnų piliakalnyje kairiajame Nemuno krante žemiau dabartinio Gelgaudiškio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bisenės pilies puolimą 1313 metais
@@ -142,7 +122,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
+  santrauka: 'Kristmemelis panemunyje buvo pastatytas siekiant praplėsti krikščionių žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,

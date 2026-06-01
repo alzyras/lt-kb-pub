@@ -95,7 +95,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
-- [[objektai/asmenys/Jonušas Radvila]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
@@ -106,5 +105,4 @@ Nenurodyta
 - [[objektai/ivykiai/Tvanas]]
 - [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]

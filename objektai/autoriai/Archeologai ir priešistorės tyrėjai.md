@@ -29,7 +29,7 @@ periodo_grupes:
 - t-001
   teiginys: 'Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasinės visuomenės susidarymas Lietuvoje {Remiantis archeologinių kasinėjimų duomenimis ) (VUMD, t.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“.'
@@ -56,23 +56,6 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^76) ĮVADAS
-    pins^95. R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai
-    IX-XII amžiais_ (VoKL), _Klasinės visuomenės susidarymas Lietuvoje
-    {Remiantis archeologinių kasinėjimų duomenimis_ ) (VUMD, t. 5,
-    1955)^96. A. Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje
-    (AkMD, t. 1, 1955, 87-97 p.), Kapitoniškiuose (AkMD, t. 2, 1957,
-    95-108 p.), Vilniaus žemutinės pilies teritoriją 1955-1960 m. (AkMD,
-    t. 4, 1958, 91-110 p. ; t. 6, 1959, 115-133 p. ; t. 11, 1961, 103-123 p.),
-    rašęs _Lietuvių ir jotvingių genčių gyventų plotų ribų klausimu_ 97.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

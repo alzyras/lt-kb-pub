@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Ordinui pulti lietuvius, kaipo neofitus. Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiėmę ir klausimai: popiežius ar susirinkimas — nejau­ dina taip jų, kaip vakariečių — jie žiūri šalčiau, ypač kad jie neofitai daugiau iš reikalo, negu iš įsitikinimo. Taigi neofitą Vytautą Bažnyčios ganytojas gerbė ir rėmė, kaip kovotoją su katalikų priešais.
+Ordinui pulti lietuvius, kaipo neofitus. Lietuvos katalikai buvo laikomi neofitais, nes į tikėjimą žiūrėjo šalčiau ir labiau iš reikalo negu iš įsitikinimo. Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais.
 
 ## Teiginiai
 
@@ -28,18 +28,19 @@ Ordinui pulti lietuvius, kaipo neofitus. Lie­ tuvoje bažnyčia vos tik prigiju
     - c-002
 
 - t-002
-  teiginys: 'Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiėmę ir klausimai: popiežius ar susirinkimas — nejau­ dina taip jų, kaip vakariečių — jie žiūri šalčiau, ypač kad jie neofitai daugiau iš reikalo, negu iš įsitikinimo.'
+  teiginys: 'Lietuvos katalikai buvo laikomi neofitais, nes į tikėjimą žiūrėjo šalčiau ir labiau iš reikalo negu iš įsitikinimo.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Taigi neofitą Vytautą Bažnyčios ganytojas gerbė ir rėmė, kaip kovotoją su katalikų priešais.'
+  teiginys: 'Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos katalikai buvo laikomi neofitais, nes į tikėjimą žiūrėjo šalčiau ir labiau iš reikalo negu iš įsitikinimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Naujai įėjusią į vakarų Europos tautų šeimą Lietuvą tik
@@ -71,6 +72,7 @@ Ordinui pulti lietuvius, kaipo neofitus. Lie­ tuvoje bažnyčia vos tik prigiju
     - t-001
 
 - c-003
+  santrauka: 'Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bonifacas

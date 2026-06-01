@@ -71,7 +71,6 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Liudvikas]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/šeimynykštis]]
 - [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]]
 - [[objektai/daiktai/Karo pabūklai]]

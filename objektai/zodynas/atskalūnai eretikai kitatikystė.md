@@ -25,13 +25,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šis Vilniuje 1542 metais išleistas dekretas patvirtino jau ankstesniais raštais Vilniaus ir kitiems Lietuvos vysku­ pams suteiktą valdžią: įsigilinti į atskalūnų veiksmus pagal kanonus, įspėti eretikus ir juos atitinkamai bausti pagal sak­ ralinės teisės.'
+  teiginys: '1542 m. Vilniuje išleistas dekretas suteikė Vilniaus ir kitiems Lietuvos vyskupams valdžią tirti ir bausti atskalūnus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1542 m. Vilniuje išleistas dekretas suteikė Vilniaus ir kitiems Lietuvos vyskupams valdžią tirti ir bausti atskalūnus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     282

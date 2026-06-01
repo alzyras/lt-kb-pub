@@ -102,5 +102,6 @@ Nenurodyta
 - [[objektai/grupes/Atskiri Lietuvos seimai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Vladislovas Vaza]]

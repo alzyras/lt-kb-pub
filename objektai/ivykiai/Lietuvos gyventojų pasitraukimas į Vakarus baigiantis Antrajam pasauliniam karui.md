@@ -42,7 +42,7 @@ Nenurodyta
 - t-001
   teiginys: 'Lietuvos diplomatinė tarnyba ir išeivija Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai.'
@@ -52,23 +52,11 @@ Nenurodyta
 - t-004
   teiginys: 'Tarp lietuvių dipukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų sąjungos narių, tūkstančiai mokytojų, inžinierių.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pabėgėlių gretas pa-
-    pildė nacių okupacijos metais prievarta išvežti į Vokietiją dirbti lietuviai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos diplomatinė tarnyba ir išeivija
@@ -86,8 +74,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
+    - t-002
 
-- c-003
+- c-002
   santrauka: 'Tarp lietuvių dipukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų sąjungos narių, tūkstančiai mokytojų, inžinierių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

@@ -27,7 +27,7 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  teiginys: 'Vytautas Didysis Volkoviske pastatė bažnyčią.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas Didysis Volkoviske pastatė bažnyčią.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pane­

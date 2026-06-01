@@ -70,7 +70,6 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/egzekucija]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/jakobinizmas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

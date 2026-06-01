@@ -29,27 +29,27 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
 - t-001
   teiginys: 'Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio iš miesto į Užupį, už Vilnelės.'
   pagrindžia:
-    - c-006
+    - c-002
 
 - t-002
   teiginys: '1493 m. Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui pievą Užupyje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Nuo sklypų Užupyje buvo skaičiuojami 168 auksinai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
-  teiginys: 'Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą palei tavo malūną prie kelio, vedan­ čio iš miesto į Užupį, už Vilnelės.'
+  teiginys: 'Aleksandras dovanojo Maksimui Vasiljevičiui pievą prie kelio iš Vilniaus į Užupį už Vilnelės.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-006
   teiginys: 'Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau daliai pavyko prasiveržti ir užimti Paupį bei Užupį, pastarasis buvo padegtas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -76,33 +76,10 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-002
-  santrauka: '1493 m. Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui pievą Užupyje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Teodoras Sku­
-    minas, LDK iždininkas.
-    Šiame laiške po parašais yra penki antspaudai.
-    356
-
-    ## Puslapis 373
-
-    IV KNYGA
-    ALEKSANDRO JOGAILAIČIO DOVANOJIMAS
-    VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI
-    PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE
-    1493 METAIS
-    (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
-    Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
-    4to, puikiausiai išsilaikęs.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
+  santrauka: 'Aleksandras dovanojo Maksimui Vasiljevičiui pievą prie kelio iš Vilniaus į Užupį už Vilnelės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     PATS ALEKSANDRAS,
@@ -119,8 +96,9 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo mūrinių pastatų iš gyventojų - 200 auks.
@@ -132,7 +110,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gen. ltn. B. Knorringas, norėdamas ap-
@@ -153,21 +131,3 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    PATS ALEKSANDRAS,
-    DIEVO MALONE DIDYSIS LIETUVOS,
-    RUSIOS, ŽEMAIČIŲ IR KITŲ
-    KUNIGAIKŠTIS
-    Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­
-    vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
-    čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
-    čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
-    vaikams visiems laikams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001

@@ -17,13 +17,14 @@ Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laikydama esant nut
 ## Teiginiai
 
 - t-001
-  teiginys: 'A. Smetona manė, kad lenku virtęs lietuvis gali vėl atvirsti lietuviu.'
+  teiginys: 'Valdžia siekė lituanizuoti lenkus, laikydama juos nutautėjusiais lietuviais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valdžia siekė lituanizuoti lenkus, laikydama juos nutautėjusiais lietuviais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vaikas galėjo lankyti lenkų mokyklą, jeigu jo abu tėvai buvo
@@ -41,3 +42,4 @@ Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laikydama esant nut
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]

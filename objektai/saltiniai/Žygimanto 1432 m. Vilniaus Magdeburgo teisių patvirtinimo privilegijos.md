@@ -28,28 +28,29 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 17 Apie tai didžiajam magistrui pra­ neša komtūras iš Lealio, iš Rygos, laiške, datuotame 1432 metų rugpjū­ čio 19 d. Ind. Cod. Hist.'
+  teiginys: '1432 m. Vilnius gavo Magdeburgo teisių atnaujinimą ir patvirtinimą dviem privilegijomis lotynų ir rusų kalbomis.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno.'
+  teiginys: 'Žygimantas privilegijose Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, midaus ir alaus smuklių, tačiau už šią privilegiją pasilikdamas tam tikrą mokestį kunigaikščio iž­ dui, kadangi pagal seną paprotį miestas privalėjo kasmet jį surinkti.'
+  teiginys: 'Žygimantas garantavo Vilniui pajamas iš vyno, midaus ir alaus smuklių, palikdamas mokestį kunigaikščio iždui.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Taigi vaitui buvo suteikta tokia galia, kad niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­ tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­ dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­ sakyti ir aiškintis dėl.'
+  teiginys: 'Žygimanto privilegijos nustatė, kad Vilniaus vaitą į teismą galėjo kviesti tik pats kunigaikštis raštu su valdovo antspaudu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimanto privilegijos nustatė, kad Vilniaus vaitą į teismą galėjo kviesti tik pats kunigaikštis raštu su valdovo antspaudu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš vaivadų ir visų karališ­
@@ -72,6 +73,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
     - t-004
 
 - c-002
+  santrauka: 'Žygimantas privilegijose Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jas magistratas priėmė viešai iš didžiojo kuni­
@@ -90,6 +92,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
     - t-002
 
 - c-003
+  santrauka: '1432 m. Vilnius gavo Magdeburgo teisių atnaujinimą ir patvirtinimą dviem privilegijomis lotynų ir rusų kalbomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau, po ketu­
@@ -132,6 +135,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
     - t-001
 
 - c-004
+  santrauka: 'Žygimantas garantavo Vilniui pajamas iš vyno, midaus ir alaus smuklių, palikdamas mokestį kunigaikščio iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar Žygimantas

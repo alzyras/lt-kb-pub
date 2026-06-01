@@ -41,13 +41,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m. (t.'
+  teiginys: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m., tai yra 1209-1210 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m., tai yra 1209-1210 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
@@ -68,5 +69,5 @@ Nenurodyta
 - [[objektai/asmenys/Popiežius Honorijus II]]
 - [[objektai/zodynas/priešmindauginė Lietuva]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]

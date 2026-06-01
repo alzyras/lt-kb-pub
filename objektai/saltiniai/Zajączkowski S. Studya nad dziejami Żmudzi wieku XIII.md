@@ -34,12 +34,12 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - c-005
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72; Makarevičius A., Vilkijos..., p. 62).'
+  teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.'
   pagrindžia:
     - c-007
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad zajączkowski S..'
+  teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima lyginant Ordino pilies vietą prie Maštaičių piliakalnio.'
   pagrindžia:
     - c-004
 
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - c-003
 
 - t-006
-  teiginys: 'Dusburgietis teigia, kad laukas, buvęs į vakarus nuo Veliuonos (Zajączkowski S., Studya..., p. 37—38; SZM, p. 216).'
+  teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ siejama su Kalsheimo lauko lokalizavimu į vakarus nuo Veliuonos.'
   pagrindžia:
     - c-008
 
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - c-001
 
 - t-008
-  teiginys: 'Dusburgietis teigia, kad iII, 244, 1); vėliau, kitose kronikose, jau Veliuona (Zajączkowski S., Studya..., p. 38— 39).'
+  teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima aiškinant, kad Junigedos valsčiaus centras buvo Veliuona.'
   pagrindžia:
     - c-002
 
@@ -84,6 +84,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-007
 
 - c-002
+  santrauka: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima aiškinant, kad Junigedos valsčiaus centras buvo Veliuona.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius  ir  pilis  (žr.
@@ -110,6 +111,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-005
 
 - c-004
+  santrauka: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima lyginant Ordino pilies vietą prie Maštaičių piliakalnio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ordino pilis buvusi greičiausiai Maštaičių (Norkūnų) piliakalnyje kair. Nemuno krante
@@ -150,6 +152,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-004
 
 - c-007
+  santrauka: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau
@@ -164,6 +167,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-002
 
 - c-008
+  santrauka: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ siejama su Kalsheimo lauko lokalizavimu į vakarus nuo Veliuonos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     560 D.— in campo Calsheim, ad campum Calsen, Jer. — zu Kalsem ûf daz velt,

@@ -31,17 +31,17 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams. Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra.'
+  teiginys: 'Broliai ir ginklanešiai perplaukė Aismares, ieškodami vietos piliai prie Varmės žemės kranto.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.'
+  teiginys: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Aismares nuo netikėlių.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
+  teiginys: '1237 m. Elbingo pilis buvo pastatyta saloje ties vieta, kur Elbingo upė įteka į Aismares.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
     - t-001
 
 - c-002
+  santrauka: '1237 m. Elbingo pilis buvo pastatyta saloje ties vieta, kur Elbingo upė įteka į Aismares.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
@@ -79,6 +80,7 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
     - t-004
 
 - c-003
+  santrauka: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Aismares nuo netikėlių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
@@ -91,6 +93,7 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
     - t-003
 
 - c-004
+  santrauka: 'Broliai ir ginklanešiai perplaukė Aismares, ieškodami vietos piliai prie Varmės žemės kranto.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė

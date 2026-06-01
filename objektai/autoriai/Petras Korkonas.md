@@ -28,13 +28,14 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkvietė, dar prieš 80 metų iki Jogailos viešpatavimo; o vienas medis, liepa, priešais seno­ sios bažnyčios duris, kurią pats Goš­ tautas savo rankomis buvo pasodinęs, kaip 1621 metais rašė.'
+  teiginys: 'Petras Korkonas 1621 m. rašė, kad Petras Goštautas į Vilnių atkvietė Šv. Pranciškaus vienuolius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Korkonas 1621 m. rašė, kad Petras Goštautas į Vilnių atkvietė Šv. Pranciškaus vienuolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Petro, vardui pašventė. Čia pirmiau­
@@ -67,3 +68,4 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/daiktai/Goštauto liepa]]

@@ -32,12 +32,12 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 - t-001
   teiginys: 'Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.'
   pagrindžia:
-    - c-017
+    - c-011
 
 - t-002
-  teiginys: 'Suvažiavus gausiam kryžiuočių aukštų pareigūnų būriui, kuriam vadovavo Prūsų ordino maršalas Konradas von Wallenrod ir Livonijos magistras Vilhel­ mas von Vrimersheim, Dubysos žiočių saloje 1382.X.31 d., po šešių dienų derybų buvo surašytos trys sutartys^19.'
+  teiginys: 'Dubysos žiočių saloje 1382 m. spalio 31 d. po šešių dienų derybų buvo surašytos trys sutartys.'
   pagrindžia:
-    - c-012
+    - c-007
 
 - t-003
   teiginys: 'Ordino kapitula pavedė Vytautui valdyti Naująją Marienburgo pilį prie Nemuno, žemiau Dubysos įtakos.'
@@ -47,87 +47,77 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 - t-004
   teiginys: 'Vytautas Dubysos žiotyse, Seredžiuje, atstatė Peštvę, nuo XIX a. žinomą Palemono kalno vardu.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
   teiginys: 'Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala.'
   pagrindžia:
-    - c-003
-
-- t-006
-  teiginys: 'Tuo pat metu, kai kryžiuočiai įrodinėjo, kad dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje) atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.'
-  pagrindžia:
-    - c-016
+    - c-002
 
 - t-007
-  teiginys: 'Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­ ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­ grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­ jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje sudarė su jais paliaubas.'
+  teiginys: '1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.'
   pagrindžia:
-    - c-011
+    - c-003
 
 - t-008
-  teiginys: 'Ankstybesniu susitarimu Dubysos salon išsirengė vyriausias magis­ tras Konradas Zöllner von Rotenstein, o su juo drauge daug kom­ tūrų ir du vyskupai, kurie turėjo lietuvių kunigaikščius krikštyti.'
+  teiginys: 'Į Dubysos salą vyko magistras Konradas Zöllneris von Rotensteinas, komtūrai ir du vyskupai, turėję krikštyti lietuvių kunigaikščius.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-009
   teiginys: 'Priešui įsiveržus į Dubysos aukštupį, buvo aktyvuotas antrasis gynybos variantas.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-010
   teiginys: 'Žygio į Žemaitiją metu kelias Nemunu vedė iki Dubysos upės ir toliau iki Aukokalnio.'
   pagrindžia:
-    - c-020
+    - c-014
 
 - t-011
-  teiginys: '(^27) SRP, II, 511, 513 p. (^256) n skyrius: valstybės iškilimas Atrodo, kad Dubysos žemupyje toji suverstų medžių užtvara, ski­ rianti dykrą nuo toliau prasidedančių gyvenviečių, buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo (1363).'
+  teiginys: 'Dubysos žemupyje suverstų medžių užtvara veikiausiai buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo 1363 m.'
   pagrindžia:
-    - c-014
+    - c-004
 
 - t-012
   teiginys: 'Po Peštvės ir Veliuonos pilių sunaikinimo 1363 m. Dubysos žemupyje, atrodo, buvo padaryta suverstų medžių užtvara.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-013
   teiginys: 'Jogaila turėjo Prūsų kryžiuočiams užleisti Žemaičių plotą tarp Livonijos ir Prūsų iki Dubysos upės.'
   pagrindžia:
-    - c-013
-
-- t-014
-  teiginys: '1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.'
-  pagrindžia:
-    - c-004
+    - c-010
 
 - t-015
   teiginys: 'Konradas Zöllneris von Rotensteinas su komtūrais ir dviem vyskupais išsirengė į Dubysos salą krikštyti lietuvių kunigaikščių.'
   pagrindžia:
-    - c-019
+    - c-009
 
 - t-016
-  teiginys: 'Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­ damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­ muno, žemiau Dubysos įtakos, Naują Marienburgo pilį.'
+  teiginys: 'Naujoji Marienburgo pilis stovėjo prie Nemuno, žemiau Dubysos įtakos.'
   pagrindžia:
-    - c-018
+    - c-013
 
 - t-017
   teiginys: 'Lietuva Žemaičiuose apėmė Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-018
   teiginys: '1382 m. spalio 31 d. Dubysos žiočių saloje po šešių dienų derybų buvo surašytos trys sutartys.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-019
-  teiginys: 'Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala.'
+  teiginys: '1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.'
   pagrindžia:
     - c-002
 
 - t-020
   teiginys: 'Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose pilis.'
   pagrindžia:
-    - c-015
+    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -147,6 +137,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - t-003
 
 - c-002
+  santrauka: '1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau Vytautas dar dvejus metus už­
@@ -161,24 +152,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   statusas: verified
   pagrindžia:
     - t-019
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tačiau Vytautas dar dvejus metus už­
-    truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
-    ir tiktai 1413 metų rudenį kartu su Jogaila atvyko į Žemaitiją.
-    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
-    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
-    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
-    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
@@ -205,8 +181,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   statusas: verified
   pagrindžia:
     - t-014
+    - t-007
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^27) **SRP, II, 511, 513 p.**
@@ -225,8 +202,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   statusas: verified
   pagrindžia:
     - t-012
+    - t-011
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas teigė, jog pati Klaipėda priklausanti
@@ -242,7 +220,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindžia:
     - t-004
 
-- c-007
+- c-006
   santrauka: 'Priešui įsiveržus į Dubysos aukštupį, buvo aktyvuotas antrasis gynybos variantas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -283,7 +261,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindžia:
     - t-009
 
-- c-008
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Jogailos buvo gana daug užsiprašyta. Suvažiavus gausiam
@@ -296,8 +274,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   statusas: verified
   pagrindžia:
     - t-018
+    - t-002
 
-- c-009
+- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Beveik trečdalį savo
@@ -312,7 +291,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindžia:
     - t-017
 
-- c-010
+- c-009
+  santrauka: 'Į Dubysos salą vyko magistras Konradas Zöllneris von Rotensteinas, komtūrai ir du vyskupai, turėję krikštyti lietuvių kunigaikščius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     19) prie
@@ -326,50 +306,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   statusas: verified
   pagrindžia:
     - t-008
+    - t-015
 
-- c-011
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
-    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
-    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
-    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
-    neišvengiamos pražūties.
-    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
-    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
-    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
-    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
-    sudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­
-    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
-    36
-    Klausimas, ar Kęstutis pats pasirin­
-    kęs mirtį, - juk Skirgaila, važiavęs
-    jo aplankyti, netikėtai rado negyvą,
-    ar nužudytas, o jo žmona kunigaikš­
-    tienė Birutė paskandinta, - nėra iki
-    šiol aiškus ir rašantiesiems Lietuvos
-    istoriją dera jo imtis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-012
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš Jogailos buvo gana daug užsiprašyta. Suvažiavus gausiam
-    kryžiuočių aukštų pareigūnų būriui, kuriam vadovavo Prūsų ordino
-    maršalas Konradas von Wallenrod ir Livonijos magistras Vilhel­
-    mas von Vrimersheim, Dubysos žiočių saloje 1382.X.31 d., po šešių
-    dienų derybų buvo surašytos trys sutartys^19.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-013
+- c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet šio suverenumas buvo siauri­
@@ -387,27 +326,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindžia:
     - t-013
 
-- c-014
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^27) **SRP, II, 511, 513 p.**
-
-
-    (^256) n skyrius: valstybės iškilimas
-    Atrodo, kad Dubysos žemupyje toji suverstų medžių užtvara, ski­
-    rianti dykrą nuo toliau prasidedančių gyvenviečių, buvo padaryta
-    po Peštvės ir Veliuonos pilių sunaikinimo (1363). Tada jau visas
-    pietvakarių Žemaičių plotas, ištisai prijungiant ir Mituvos baseiną,
-    buvo virtęs tik bitininkų, medžiotojų ir žvejų lankoma dykra,
-    kurioje nebeliko pastovių sodybų ir kaimų. Tokių suverstų medžių
-    užtvarų buvo ir giliau Žemaičių krašte.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-015
+- c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     taip pat atsikvėpė po ilgų kovų dėl laisvės, nes po Žalgirio
@@ -424,8 +343,10 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   statusas: verified
   pagrindžia:
     - t-020
+    - t-001
 
-- c-016
+- c-012
+  santrauka: 'Vytautas Dubysos žiotyse, Seredžiuje, atstatė Peštvę, nuo XIX a. žinomą Palemono kalno vardu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuoj po Torno taikos Vytautas ėmė reikalauti, kad į Žemaitijos
@@ -441,25 +362,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindžia:
     - t-006
 
-- c-017
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    taip pat atsikvėpė po ilgų kovų dėl laisvės, nes po Žalgirio
-    karo buvo prijungti prie Lietuvos. Vytautas, norėdamas geriau
-    juose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­
-    ti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve­
-    liuoną, kuri vėliau buvo mėgiamiausia Vytauto ir Ordino pa­
-    sitarimų vieta po Kauno arba Trakų. Taigi Lietuvos ribos bu­
-    vo praplėstos toliau į vakarus, apimdamos didesnius tikrų lie­
-    tuviškų žemių plotus, kuriose vis didėjo Vytauto valdžia ir
-    autoritetas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-018
+- c-013
+  santrauka: 'Naujoji Marienburgo pilis stovėjo prie Nemuno, žemiau Dubysos įtakos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo pat vardu buvo ir jo krikš­
@@ -474,22 +378,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindžia:
     - t-016
 
-- c-019
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    19) prie
-    pernykščiai surašytų dokumentų turėjo būti pridėti antspaudai.
-    Ankstybesniu susitarimu Dubysos salon išsirengė vyriausias magis­
-    tras Konradas Zöllner von Rotenstein, o su juo drauge daug kom­
-    tūrų ir du vyskupai, kurie turėjo lietuvių kunigaikščius krikštyti.
-    Su kryžiuočiais drauge buvo ir Vytautas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-015
-
-- c-020
+- c-014
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­

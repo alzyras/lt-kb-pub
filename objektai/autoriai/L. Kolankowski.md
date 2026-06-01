@@ -39,7 +39,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     - c-002
 
 - t-002
-  teiginys: 'L. Kolankowski pateikiamas kaip istorikas, aiškinęs diarchiją ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.'
+  teiginys: 'L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.'
   pagrindžia:
     - c-003
 
@@ -70,6 +70,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     - t-001
 
 - c-003
+  santrauka: 'L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     (^1) ) Lenku istorikas Kolankovskis, tiesa, pareiškė nuomone (Kolan­
@@ -110,5 +111,4 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 ### Susiję objektai
 - [[objektai/zodynas/Diarchijos sistema]]
 - [[objektai/zodynas/diarchija]]
-- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Žemaičiai]]

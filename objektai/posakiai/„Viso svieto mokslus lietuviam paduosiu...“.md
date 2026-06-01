@@ -33,12 +33,12 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: 'Citata sieja lietuvių tautos ateitį su mokslu, raštija, knygų vertimu ir lietuvių kalba.'
+  teiginys: '1859 m. Antanas Baranauskas žadėjo lietuviams perduoti pasaulio mokslus ir lietuviškai versti pasaulio raštus bei knygas.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Ištraukoje ši poetinė formulė vadinama civilizuotos, savo aukštąją kultūrą turinčios tautos vizija.'
+  teiginys: 'Antano Baranausko žodžiai apie pasaulio mokslus lietuviams vadinami civilizuotos, aukštąją kultūrą turinčios tautos vizija.'
   pagrindžia:
     - c-001
 

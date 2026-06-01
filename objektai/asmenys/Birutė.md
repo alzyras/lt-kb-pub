@@ -43,17 +43,17 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - t-005
   teiginys: 'Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-007
-  teiginys: 'Tačiau ir tai negalėjo pasotinti go­ duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­ 36 Klausimas, ar Kęstutis pats pasirin­ kęs mirtį, - juk Skirgaila, važiavęs jo aplankyti, netikėtai rado negyvą, ar nužudytas, o jo žmona kunigaikš­ tienė Birutė.'
+  teiginys: 'Kunigaikštienės Birutės paskandinimo aplinkybės, kaip ir Kęstučio mirtis, šaltinyje vadinamos neaiškiomis.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -130,27 +130,9 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visų pirma atsirado
-    herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
-    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
-    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
-    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
-    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
-    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
-    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
-    pasakojimai užrašyti XV–XVI a., tačiau jie turėjo istorinį pagrindą – tai
-    patvirtina vienalaikiai rašytiniai šaltiniai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
@@ -163,7 +145,8 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   pagrindžia:
     - t-006
 
-- c-007
+- c-006
+  santrauka: 'Kunigaikštienės Birutės paskandinimo aplinkybės, kaip ir Kęstučio mirtis, šaltinyje vadinamos neaiškiomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
@@ -227,4 +210,3 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - [[objektai/asmenys/Patirgas]]
 - [[objektai/autoriai/Vygandas Marburgietis]]
 - [[objektai/asmenys/Vytautas Didysis]]
-- [[objektai/grupes/Birutės draugija]]

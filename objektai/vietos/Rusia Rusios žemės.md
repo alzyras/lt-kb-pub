@@ -28,52 +28,24 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prekyba su Rusia ir Prū­ sija seniai nutrūkusi, nuolatinis priešo pavojus Lietuvos sos­ tinę vertė pakaitomis čia karine stovykla, čia mūšio lauku.'
-  pagrindžia:
-    - c-004
-
-- t-002
-  teiginys: 'Į Trakus (1430 metais), kur didysis kunigaikštis paprastai gyvendavo di­ džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­ gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­ vos.'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: 'Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio ekspedicijos į Rusią, kokie būdavo kruvini mūšiai su Ordi­ nu.'
+  teiginys: 'Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi.'
   pagrindžia:
     - c-003
 
-- t-004
-  teiginys: 'Amžinai šio dalyko atminčiai mes, Žygimantas Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­ lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt.'
+- t-002
+  teiginys: '1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    V
-    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
-    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
-    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
-    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
-    PIRMADIENI, PRIEŠ TRIS KARALIUS
-    Viešpaties vardu Amen. Kad [įsivėlusi] klaida per nerū­
-    pestingumą dėl vykstančių reikalų kartais neatneštų kokios
-    nors skriaudos, atsirado protingas poreikis, kad tai būtų iš­
-    dėstyta raštu ir sutvirtinta ir patikimų liudytojų liudijimu
-    patvirtinta. Amžinai šio dalyko atminčiai mes, Žygimantas
-    Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
-    lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
-    nigaikštis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-002
+  santrauka: '1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, vienintelio
@@ -100,7 +72,8 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
+  santrauka: 'Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pranciškaus
@@ -131,7 +104,8 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
+  santrauka: 'Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     -- • —

@@ -35,13 +35,14 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
     - c-002
 
 - t-003
-  teiginys: 'Visų pirma – tai „tarpininkaujančios mažumos“ – katalikai armėnai ir judėjai žydai.'
+  teiginys: 'LDK katalikai armėnai buvo laikomi viena iš „tarpininkaujančių mažumų“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LDK katalikai armėnai buvo laikomi viena iš „tarpininkaujančių mažumų“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK taip pat išsiskyrė kitomis krikščioniškomis ir nekrikščioniško-

@@ -39,7 +39,7 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 - t-002
   teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: 'A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose.'
@@ -85,6 +85,7 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -98,44 +99,6 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Redakcinė kolegija:
-    Prof. dr. Raimundas Lopata – pirmininkas
-    Prof. dr. Alvydas Jokubaitis
-    Prof. dr. Vytautas Radžvilas
-    Dr. Inga Vinogradnaitė
-    Išleista Lietuvos Respublikos
-    užsienio reikalų ministerijos užsakymu
-    Antras leidimas
-    © Alfonsas Eidintas, 2013
-    © Alfredas Bumblauskas, 2013
-    © Antanas Kulakauskas, 2013
-    © Mindaugas Tamošaitis, 2013
-    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
-
-    TURINYS
-    Santrumpos  8
-    Redaktoriaus žodis  9
-    Į v a d a s
-    LIETUVA – VIDURIO EUROPOS DALIS  12
-    Geografinis Europos centras? 12;  Lietuvos vardo kilmė ir sampratos likimas 13;
-    Pagrindiniai Lietuvos istorijos metmenys 16;  Svarbiausios Lietuvos
-    istorijos datos 21
-    I s k y r i u s
-    SENOJI LIETUVA  22
-    SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS 22
-    Pagonybė ir Lietuvos vardo paminėjimas 1009 metais 23;
-    Mindaugas sukuria Lietuvos valstybę. Mindaugo karūnacija 1253 metais 27;
-    Gediminaičių dinastijos iškilimas 31
-    PAGONIŲ VALSTYBĖ.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

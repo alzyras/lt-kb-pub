@@ -31,22 +31,22 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-001
   teiginys: 'Ašmena kadaise buvo kaimas, išaugęs šalia kunigaikščio dvaro.'
   pagrindžia:
-    - c-011
+    - c-010
 
 - t-002
   teiginys: '1655 m. liepą Rusijos kariuomenė su kazokais sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.'
   pagrindžia:
-    - c-013
+    - c-001
 
 - t-003
   teiginys: 'Sąmokslininkai 1432 m. rugpjūčio 31 d. naktį užpuolė Švitrigailą Ašmenos dvare, kai jis vyko į derybas su lenkais Lietuvos Brastoje.'
   pagrindžia:
-    - c-016
+    - c-013
 
 - t-004
   teiginys: 'Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vykdamas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.'
   pagrindžia:
-    - c-014
+    - c-012
 
 - t-005
   teiginys: 'Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį.'
@@ -54,19 +54,19 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-002
 
 - t-006
-  teiginys: 'Vilnius, tiesa, turėdamas tvirtovėse labai stip­ rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­ ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­ kotos.'
+  teiginys: '1385 metų rugpjūtį didžiojo magistro Konrado Ciolnerio Rotenšteino pajėgos nuniokojo žemes iki pat Ašmenos.'
   pagrindžia:
     - c-005
 
 - t-007
   teiginys: 'Švitrigaila, remiamas Livonijos magistro ir totorių, vėl užėmė Ašmeną ir priartėjo prie Vilniaus.'
   pagrindžia:
-    - c-020
+    - c-015
 
 - t-008
   teiginys: 'Švitrigaila savo dvare prie Ašmenos miesto turėjo tik nedidelę sargybą.'
   pagrindžia:
-    - c-012
+    - c-011
 
 - t-009
   teiginys: 'Ašmenoje buvo sukviečiami vietiniai ir apylinkių žmonės, mokomi tikėjimo tiesų ir krikštijami.'
@@ -74,24 +74,24 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-004
 
 - t-010
-  teiginys: 'Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų.'
+  teiginys: 'Švitrigaila buvojo savo dvare prie Ašmenos miesto ir turėjo prie savęs tik nedidelę sargybą.'
   pagrindžia:
-    - c-022
+    - c-011
 
 - t-011
-  teiginys: 'Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­ tuvos ir daugelio kitų patikimų liudytojų, ten buvusių.'
+  teiginys: '1388 m. Lucke tarp liudytojų minimas Mangaila iš Ašmenos.'
   pagrindžia:
     - c-007
 
 - t-012
-  teiginys: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  teiginys: 'Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.'
   pagrindžia:
-    - c-018
+    - c-002
 
 - t-013
-  teiginys: '14 Dabartinė Ašmena, Vilniaus guber­ nijos apskrities miestas, nutolęs nuo Vilniaus per 7 mylias, anais laikais tebuvo kaimas, kitados išaugęs ša­ lia kunigaikščio dvaro, dabar Staroscino.-O pats miestas buvęs ten, kur dabar stovi pranciškonų vienuoly­ nas.'
+  teiginys: 'Dabartinė Ašmena anais laikais tebuvo kaimas, išaugęs šalia kunigaikščio dvaro.'
   pagrindžia:
-    - c-015
+    - c-010
 
 - t-014
   teiginys: '1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.'
@@ -99,14 +99,14 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-001
 
 - t-015
-  teiginys: 'Jis, remiamas Livoni­ jos magistro ir totorių, vėl užėmė Ašmeną ir vos per septy­ netą mylių priartėjo prie Vilniaus.'
+  teiginys: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-016
   teiginys: 'Dar 1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos.'
   pagrindžia:
-    - c-021
+    - c-016
 
 - t-017
   teiginys: 'Vieno žygio metu kryžiuočiai buvo pasiekę net Vilnių ir Ašmeną, o kiek vėliau livoniškė ordino šaka su pasidavusiu jai Polocko kunigaikščiu Andrium padarė kitą žygį.'
@@ -121,22 +121,22 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-019
   teiginys: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
   pagrindžia:
-    - c-019
+    - c-001
 
 - t-020
   teiginys: 'Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.'
   pagrindžia:
-    - c-017
+    - c-014
 
 - t-021
-  teiginys: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  teiginys: 'Prieš vyskupijos įkūrimą Jogaila rytų Lietuvoje aplankė Ašmeną, kur vietiniai žmonės buvo mokomi tikėjimo tiesų ir krikštijami.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-022
   teiginys: 'Apie rugpjūčio 28 d. Žygimantas slapta nužygiavo į Ašmeną ir įsiveržė į Švitrigailos dvarą, bet jo ten neberado.'
   pagrindžia:
-    - c-008
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -155,6 +155,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   statusas: verified
   pagrindžia:
     - t-014
+    - t-002
+    - t-019
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -170,6 +172,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   statusas: verified
   pagrindžia:
     - t-005
+    - t-012
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -202,6 +205,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - t-009
 
 - c-005
+  santrauka: '1385 metų rugpjūtį didžiojo magistro Konrado Ciolnerio Rotenšteino pajėgos nuniokojo žemes iki pat Ašmenos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­
@@ -244,8 +248,10 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   statusas: verified
   pagrindžia:
     - t-018
+    - t-022
 
 - c-007
+  santrauka: '1388 m. Lucke tarp liudytojų minimas Mangaila iš Ašmenos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
@@ -260,32 +266,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - t-011
 
 - c-008
-  santrauka: 'Apie rugpjūčio 28 d. Žygimantas slapta nužygiavo į Ašmeną ir įsiveržė į Švitrigailos dvarą, bet jo ten neberado.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Švitrigailos dvaras stovėjo
-    kaip tik toje vietoje, kur ir dabarti­
-    nis dvaras.
-    —  • —
-    215
-
-    ## Puslapis 232
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie
-    rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten
-    jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
-    do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­
-    gimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius
-    dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
-    do, bus vėl patyręs nesėkmių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-022
-
-- c-009
+  santrauka: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau garantavo Vilniui pelną nuo vadinamosios šin-
@@ -303,7 +284,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindžia:
     - t-015
 
-- c-010
+- c-009
+  santrauka: 'Prieš vyskupijos įkūrimą Jogaila rytų Lietuvoje aplankė Ašmeną, kur vietiniai žmonės buvo mokomi tikėjimo tiesų ir krikštijami.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Motiejus,
@@ -320,7 +302,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindžia:
     - t-021
 
-- c-011
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     14
@@ -342,8 +324,9 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   statusas: verified
   pagrindžia:
     - t-001
+    - t-013
 
-- c-012
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
@@ -368,24 +351,9 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   statusas: verified
   pagrindžia:
     - t-008
+    - t-010
 
-- c-013
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kazokų vadai supratę, kad patys ukrainiečiai neįstengs išsivaduoti
-    iš Lenkijos valdžios, 1654 m. sudarė sąjungą su Maskva. Tais pa-
-    čiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors
-    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
-    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
-    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
-    priartėjo prie Vilniaus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-014
+- c-012
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip sąmokslas buvo
@@ -404,29 +372,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindžia:
     - t-004
 
-- c-015
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    6 9 .
-    14
-    Dabartinė Ašmena, Vilniaus guber­
-    nijos apskrities miestas, nutolęs nuo
-    Vilniaus per 7 mylias, anais laikais
-    tebuvo kaimas, kitados išaugęs ša­
-    lia kunigaikščio dvaro, dabar Staros-
-    cino.-O pats miestas buvęs ten, kur
-    dabar stovi pranciškonų vienuoly­
-    nas bei mažas kaimelis, priklausan­
-    tis vienuolynui, čia pat, už dabarti­
-    nio miesto, vadinamas Senąja
-    Ašmena.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-016
+- c-013
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo pat metu buvo
@@ -445,7 +391,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindžia:
     - t-003
 
-- c-017
+- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
@@ -491,38 +437,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindžia:
     - t-020
 
-- c-018
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Per sostinę įgydamas didžiojo kunigaikščio titulą, t. y. vyres­
-    niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
-    valdančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­
-    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
-    Ukmerge, Breslauja (Braslaw).
-    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-019
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kazokų vadai supratę, kad patys ukrainiečiai neįstengs išsivaduoti
-    iš Lenkijos valdžios, 1654 m. sudarė sąjungą su Maskva. Tais pa-
-    čiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors
-    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
-    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
-    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
-    priartėjo prie Vilniaus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-019
-
-- c-020
+- c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuos pirmuosius Žygimanto potvarkius Vytauto soste
@@ -540,7 +455,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindžia:
     - t-007
 
-- c-021
+- c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Veltui kryžiuočiai dar bandė sutrukdyti sau
@@ -553,29 +468,3 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   statusas: verified
   pagrindžia:
     - t-016
-
-- c-022
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
-    tu sugebėta išlaikyti gilioje paslaptyje. Jogaila, kad greičiau
-    įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­
-    raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­
-    imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių
-    didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam
-    į Vilnių13.
-    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
-    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
-    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
-    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
-    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
-    13
-    Tą patvirtina Slaptajame Karaliau­
-    čiaus archyve esantis Švitrigailos
-    laiškas, rašytas iš Vilniaus didžiajam
-    magistrui 1432 metų sausio 5 dieną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010

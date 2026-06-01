@@ -19,13 +19,14 @@ Dusburgietis teigia, kad vad., ir čia ryški tendencija susieti savo tautos pra
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vad., ir čia ryški tendencija susieti savo tautos praeitį su tikrais ar menamais senovės Romos istorijos įvykiais (Ročka M.'
+  teiginys: 'M. Ročka cituojamas aiškinant tendenciją lietuvių praeitį sieti su tikrais ar menamais senovės Romos įvykiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Ročka cituojamas aiškinant tendenciją lietuvių praeitį sieti su tikrais ar menamais senovės Romos įvykiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viduramžių tradicijai artima humanizmo epochos versija, radusi atgarsio Kazimiero

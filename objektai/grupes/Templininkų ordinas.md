@@ -26,16 +26,17 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - t-001
   teiginys: 'Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
-  teiginys: 'Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos virto kariaujančiųjų riterių ordinais.'
+  teiginys: 'Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš pradžių tokios brolijos
@@ -50,28 +51,12 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš pradžių tokios brolijos
-    globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
-    kelyje. Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
-    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
-    virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
-    ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
-    vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/žygis]]

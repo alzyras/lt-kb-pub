@@ -55,6 +55,7 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -71,22 +72,6 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
   pagrindžia:
     - t-002
 
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
-    XVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
-    vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
-    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
-    kartais laikomi Apšvietos epochos pradžia.
-    Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
-    sąjunga, sukurta Liublino unijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
@@ -94,11 +79,11 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
 - [[objektai/zodynas/Baroko epocha]]
+- [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Ketverių metų seimas]]
 - [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]
-- [[objektai/asmenys/Bžostovskis]]
 - [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]

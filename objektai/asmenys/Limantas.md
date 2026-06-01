@@ -27,13 +27,14 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­ tuvos ir daugelio kitų patikimų liudytojų, ten buvusių.'
+  teiginys: 'Limantas 1388 m. Lucke dalyvavo kaip Lietuvos kareivis arba bajoras tarp patikimų liudytojų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Limantas 1388 m. Lucke dalyvavo kaip Lietuvos kareivis arba bajoras tarp patikimų liudytojų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­

@@ -22,7 +22,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     - c-001
 
 - t-002
-  teiginys: 'Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Marijampolėje „Žiburys".'
+  teiginys: 'Vilniuje veikęs „Rytas“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     - t-001
 
 - c-002
-  santrauka: 'Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Marijampolėje „Žiburys".'
+  santrauka: 'Vilniuje veikęs „Rytas“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
@@ -104,7 +104,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - [[objektai/posakiai/Nebebuvo laiko slėptis, reikėjo ruoštis gynybai]]
 - [[objektai/grupes/P. Lukšio rinktinė]]
 - [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas]]
-- [[objektai/daiktai/Palapinės]]
 - [[objektai/asmenys/Pobravas]]
 - [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis]]
 - [[objektai/asmenys/Povilas Lukšys]]
@@ -113,7 +112,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]
 - [[objektai/asmenys/Samboras]]
-- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/asmenys/V. Vainauskas]]

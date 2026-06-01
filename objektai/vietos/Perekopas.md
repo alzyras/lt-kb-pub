@@ -4,7 +4,6 @@ pavadinimas: 'Perekopas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1443 m.'
   - '2026 m.'
@@ -28,33 +27,24 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 ## Teiginiai
 
 - t-001
-  teiginys: '61, 62, 293, 373, 378 Perejeslavlis 272 Perekopas (Krymo) 311 Peremišlis 313, 321 Perkūnas, dievas 143, 144, 146 Perlbach M.'
-  pagrindžia:
-    - c-004
-
-- t-002
   teiginys: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: 'Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Čia, Vilniuje (1443 metais), totorių pasiuntinių prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­ tas Perekopo chanu.'
   pagrindžia:
     - c-001
 
-- t-005
+- t-002
+  teiginys: 'Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis.'
+  pagrindžia:
+    - c-002
+
+- t-004
   teiginys: 'Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis).'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daug jų vyko
@@ -72,29 +62,10 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
+    - t-001
 
 - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Daug jų vyko
-    pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
-    mų, veikusių iki Lietuvos Statuto, paskelbimu visai valsty­
-    bei36. Čia, Vilniuje (1443 metais), totorių pasiuntinių
-    prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­
-    tas Perekopo chanu. Čia 1448 metais su Prūsijos ordinu su­
-    daryta37 garsi sutartis, o po dvidešimties metų (1468 me­
-    tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas
-    toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise
-    įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
-    tą38.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
@@ -107,28 +78,9 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    240
-    Pelkas, Gniezno arkiv. 174
-    Penkauskas Pb. 61, 62, 293, 373,
-    378
-    Perejeslavlis 272
-    Perekopas (Krymo) 311
-    Peremišlis 313, 321
-    Perkūnas, dievas 143, 144, 146
-    Perlbach M. 171, 198, 233
-    Permės univ.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-005
+- c-003
   santrauka: 'Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -143,4 +95,4 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004

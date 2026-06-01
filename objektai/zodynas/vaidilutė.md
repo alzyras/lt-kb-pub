@@ -39,4 +39,3 @@ Pav., lieka dar labai ginčytinas klausimas, ar Vytauto motina Birutė buvo vaid
 ### Susiję objektai
 - [[objektai/asmenys/Birutė]]
 - [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
-- [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai]]

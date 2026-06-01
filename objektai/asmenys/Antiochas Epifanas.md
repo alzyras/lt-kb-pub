@@ -50,6 +50,3 @@ Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malo
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/zodynas/talkininkas]]

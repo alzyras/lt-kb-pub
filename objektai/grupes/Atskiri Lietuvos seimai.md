@@ -19,7 +19,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet XVII amžiuje, kai, pradedant Vladislovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie atskiri Lietuvos seimai ėmė nykti.'
+  teiginys: 'XVII a., lietuviams pradėjus rinkti karalius bendrai su lenkais nuo Vladislovo Vazos, atskiri Lietuvos seimai ėmė nykti.'
   pagrindžia:
     - c-004
 
@@ -86,6 +86,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
     - t-003
 
 - c-004
+  santrauka: 'XVII a., lietuviams pradėjus rinkti karalius bendrai su lenkais nuo Vladislovo Vazos, atskiri Lietuvos seimai ėmė nykti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet XVII amžiuje, kai, pradedant Vladis-
@@ -103,8 +104,10 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
 - [[objektai/ivykiai/Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)]]
 - [[objektai/asmenys/Vladislovas Vaza]]
 - [[objektai/zodynas/atskiri seimai]]
+- [[objektai/grupes/Lenkai]]

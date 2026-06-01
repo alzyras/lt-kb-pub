@@ -25,32 +25,14 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mūšis Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su kitais broliais vykti į šį karą Kurše, švenčiausioji mergelė Marija, jam pasirodžiusi, tarė: „Hermanai, aš tave kviečiu į.'
+  teiginys: 'Broliui Hermanui, vadinamam Saracėnu, prieš žygį į Kuršą pasirodžiusi Mergelė Marija pakvietė jį į savo sūnaus puotą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su
-    kitais broliais vykti į šį karą Kurše, švenčiausioji mergelė Marija, jam pasirodžiusi, tarė:
-    „Hermanai, aš tave kviečiu  į savo sūnaus puotą“. Todėl brolis Hermanas išvykdamas
-    kai kuriems broliams pasakė: „Likite sveiki, nuo šiol manęs nebematysite, nes mergelė
-    dievo gimdytoja mane pasikvietė į amžinąją linksmybę“.
-
-
-
-
-                               86 (82).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Broliui Hermanui, vadinamam Saracėnu, prieš žygį į Kuršą pasirodžiusi Mergelė Marija pakvietė jį į savo sūnaus puotą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     85 (82). Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
@@ -65,10 +47,12 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- [[objektai/asmenys/Hermanas Saracėnas]]
+- [[objektai/asmenys/Marija]]
 - [[objektai/asmenys/Mergelė Marija]]
+- [[objektai/zodynas/žygis]]

@@ -60,4 +60,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Turkai]]

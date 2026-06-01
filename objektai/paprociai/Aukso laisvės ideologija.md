@@ -43,13 +43,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Aukso laisvės ideologija: kiek vėliau įėjo į madą posakis: „Respublika laikosi netvarka" (t. y. netvarkos dėka): esą, laisva bajorų Respublika esanti netvarkinga, užtat niekam ir nepavojinga, — todėl jos niekas nepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo.'
+  teiginys: 'Aukso laisvės ideologai netvarką laikė Respublikos saugumo sąlyga, nes manė, kad tokia valstybė niekam nepavojinga.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aukso laisvės ideologai netvarką laikė Respublikos saugumo sąlyga, nes manė, kad tokia valstybė niekam nepavojinga.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nie-

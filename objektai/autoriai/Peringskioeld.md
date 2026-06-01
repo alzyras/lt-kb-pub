@@ -26,13 +26,14 @@ Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žem�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žemės ru­ tulys, pirmiausia atspausdintas iš rankraščio, pasirodė 1697 metais Stokholme, in folio, Peringskioeld o išleistas trimis kalbomis: islan­ dų, švedų ir lotynų.'
+  teiginys: 'Peringskioeld 1697 m. Stokholme išleido „Heimskringlą“ islandų, švedų ir lotynų kalbomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Peringskioeld 1697 m. Stokholme išleido „Heimskringlą“ islandų, švedų ir lotynų kalbomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Užsimo­

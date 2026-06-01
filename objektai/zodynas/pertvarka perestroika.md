@@ -104,6 +104,3 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/posakiai/Viešumas, demokratija, suverenumas]]
-- [[objektai/zodynas/baltosios dėmės]]
-- [[objektai/zodynas/suverenitetas suverenumas]]
-- [[objektai/zodynas/suverenumas suverenitetas]]

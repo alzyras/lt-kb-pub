@@ -25,13 +25,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '1452 metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­ venimas buvo sudrumstęs pusę Europos, vienus papiktin­ damas, kitiems keldamas gailestį, užbaigė savo klajokliškas dienas Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vil­ niaus katedroje.'
+  teiginys: 'Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1452
@@ -48,3 +49,7 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Švitrigaila]]

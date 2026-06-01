@@ -27,7 +27,7 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­ mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­ ja su Jotvingija (Dzūkija) yra tokie.'
+  teiginys: 'Vytautas rašte Zigmantui teigė, kad Sūdavija su Jotvingija, arba Dzūkija, yra lietuvių kraštai, dėl kurių ginčo negali kilti.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas rašte Zigmantui teigė, kad Sūdavija su Jotvingija, arba Dzūkija, yra lietuvių kraštai, dėl kurių ginčo negali kilti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas ir Jogaila, išgirdę iš savo pasiuntinių tokį sprendimą,

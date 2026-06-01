@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vandenis leido vamzdžiais po visus namus iš­ vedžioti.'
+  teiginys: 'Žygimantas leido iš miesto šaltinio vandenį vamzdžiais išvedžioti po Vilniaus namus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas leido iš miesto šaltinio vandenį vamzdžiais išvedžioti po Vilniaus namus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai sukėlė nesiliaujančius vaidus
@@ -73,4 +74,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Vamzdžiai]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Senasis]]

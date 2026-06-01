@@ -17,7 +17,7 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po to prasidėjo baisūs Krimo totorių puolimai; ypač jie puolė Kijevo, Podolės ir Galicijos sritis.'
+  teiginys: 'Krimo totoriai pradėjo smarkius puolimus, ypač prieš Kijevo, Podolės ir Galicijos sritis.'
   pagrindžia:
     - c-001
 
@@ -26,9 +26,15 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Aleksandras, Jonas Albrechtas ir Vladislovas buvo sutarę bendrai kariauti su turkais ir išardyti Krimo ordą.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krimo totoriai pradėjo smarkius puolimus, ypač prieš Kijevo, Podolės ir Galicijos sritis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet nuo 1466 m. ėmęs valdyti Mengli-Girėjas, užsi-
@@ -55,7 +61,7 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
     - t-002
 
 - c-003
-  santrauka: 'Po to prasidėjo baisūs Krimo totorių puolimai; ypač jie puolė Kijevo, Podolės ir Galicijos sritis.'
+  santrauka: 'Aleksandras, Jonas Albrechtas ir Vladislovas buvo sutarę bendrai kariauti su turkais ir išardyti Krimo ordą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mat, Jo-
@@ -82,3 +88,7 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Albrechtas]]
+- [[objektai/grupes/Krimo totoriai]]
+- [[objektai/asmenys/Vladislovas]]

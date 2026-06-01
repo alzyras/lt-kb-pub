@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1251 m. liepos 17 d. Inocentas IV suteikė Lietuvos vyskupijai Apaštalų Sosto globą, o Mindaugas tapo „ypatinguoju Romos Bažnyčios sūnumi“.'
+  teiginys: '1251 m. liepos 17 d. Inocentas IV suteikė Lietuvos vyskupijai Apaštalų Sosto globą, o Mindaugas tapo filius specialis sanctae Romanas Ecclesiae.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1251 m. liepos 17 d. Inocentas IV suteikė Lietuvos vyskupijai Apaštalų Sosto globą, o Mindaugas tapo filius specialis sanctae Romanas Ecclesiae.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Įkurdamas atskirą Lietuvos vyskupiją ( _dioecesis Lethoviensis_ ),

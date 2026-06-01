@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, todėl totoriai pasitraukė iš lietuvių pajėgų.'
+  teiginys: 'Prieš Pilypavo mūšį po pergalės ties Prostkais totoriai dėl konflikto dėl belaisvių pasitraukė iš lietuvių pajėgų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prieš Pilypavo mūšį po pergalės ties Prostkais totoriai dėl konflikto dėl belaisvių pasitraukė iš lietuvių pajėgų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-

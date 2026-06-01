@@ -46,13 +46,14 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Todėl kai 1578 m. Vilniaus jėzuitai per vysk.'
+  teiginys: '1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją, Steponas Batoras sutiko ir davė privilegijos raštą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją, Steponas Batoras sutiko ir davė privilegijos raštą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl kai 1578 m. Vilniaus
@@ -104,3 +105,5 @@ Nenurodyta
 - [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Valavičiai]]
 - [[objektai/autoriai/Petras Skarga]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas Batoras]]

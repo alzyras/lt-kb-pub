@@ -25,7 +25,7 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
     - c-001
 
 - t-002
-  teiginys: 'Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro, mūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­ to auksakalių cechui duotai ir mūsų patvirtintai privilegi­ jai, nebijodamas toje.'
+  teiginys: 'Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
     - t-001
 
 - c-002
+  santrauka: 'Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skel­
@@ -105,5 +106,5 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
 ### Susiję objektai
 - [[objektai/zodynas/Cechas]]
 - [[objektai/asmenys/Steponas]]
-- [[objektai/zodynas/senjoras]]
+- [[objektai/asmenys/Steponas Genseris]]
 - [[objektai/zodynas/civilinė teisė ir pasaulietinė civilinė teisė]]

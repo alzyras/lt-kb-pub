@@ -20,13 +20,14 @@ Dusburgietis teigia, kad prūsai tikėjo, kad kūnas prisikelia iš numirusiųj�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad nobilis, Jer.— di hêren.'
+  teiginys: 'Dusburgiečio kronikoje nobilis žymi prūsų ir lietuvių visuomenės socialines viršūnes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgiečio kronikoje nobilis žymi prūsų ir lietuvių visuomenės socialines viršūnes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     207 D. nobilis, Jer.— di hêren. Kilmingųjų (t. y. garsios giminės vyrų — viros preclaros
@@ -53,7 +54,6 @@ Dusburgietis teigia, kad prūsai tikėjo, kad kūnas prisikelia iš numirusiųj�
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/kilmingieji nobilis]]

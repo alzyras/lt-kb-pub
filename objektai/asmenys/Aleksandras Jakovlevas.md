@@ -45,5 +45,4 @@ LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lie
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]
-- [[objektai/daiktai/Lietuvos trispalvė]]
 - [[objektai/posakiai/„inteligentija – liaudies savimonės išraiška“]]

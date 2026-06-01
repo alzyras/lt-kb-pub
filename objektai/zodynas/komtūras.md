@@ -30,7 +30,7 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo pat vardu buvo ir jo krikš­ tatėvis, Ragainės komtūras.'
+  teiginys: 'Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą.'
   pagrindžia:
     - c-001
 
@@ -40,13 +40,14 @@ amziai:
     - c-002
 
 - t-003
-  teiginys: 'Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­ meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­ pavykus staiga užimti gerai ginamo miesto, grįžo atgalios plėšti aplinkinių žemių23.'
+  teiginys: 'Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
@@ -75,7 +76,7 @@ amziai:
     - t-002
 
 - c-003
-  santrauka: 'Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­ meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­ pavykus staiga užimti gerai ginamo miesto, grįžo atgalios plėšti aplinkinių žemių23.'
+  santrauka: 'Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
@@ -101,7 +102,6 @@ amziai:
 - [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Albertas (Karaliaučiaus komtūras)]]
-- [[objektai/autoriai/Ambrassat A]]
 - [[objektai/grupes/Anglai]]
 - [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]
 - [[objektai/grupes/Bartai]]
@@ -147,7 +147,6 @@ amziai:
 - [[objektai/paprociai/Karaliaučiaus pilies blokada kuorais, laivais ir tiltu|Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)]]
 - [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
 - [[objektai/ivykiai/Karaliaučiaus, arba Tvankstės, pilies pastatymas (1255 m.)]]
-- [[objektai/autoriai/Karamzino]]
 - [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]
 - [[objektai/asmenys/Kazimieras Karigaila]]
 - [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
@@ -212,7 +211,6 @@ amziai:
 - [[objektai/grupes/Valakai]]
 - [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]
 - [[objektai/asmenys/Valteris Goldinas]]
-- [[objektai/grupes/Varmiai]]
 - [[objektai/ivykiai/Vernerio iš Orzelno išrinkimas didžiuoju magistru (1324 m. liepos 6 d.)]]
 - [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]
 - [[objektai/asmenys/Vilhelmas fon Helfelšteinas]]
@@ -235,13 +233,15 @@ amziai:
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/vyskupo teisėjas]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
-- [[objektai/daiktai/Šarvinės pirštinės]]
 - [[objektai/daiktai/Šventojo kryžiaus ženklas]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/asmenys/Gotfridas Lindenas]]
 - [[objektai/asmenys/Albertas iš Meiseno]]
+- [[objektai/asmenys/Folradas]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
 - [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/asmenys/Gotfridas Lindenas]]
+- [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
+- [[objektai/asmenys/Pinas]]
 - [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]

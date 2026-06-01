@@ -18,7 +18,7 @@ Bumblauskas A.
 ## Teiginiai
 
 - t-001
-  teiginys: '62, „ANONIMO LAIŠKAS“, Bumblauskas A.'
+  teiginys: 'A. Bumblausko veikalas „Senosios Lietuvos istorija 1009-1795“ išleistas Vilniuje 2005 m.'
   pagrindžia:
     - c-002
 
@@ -42,6 +42,7 @@ Bumblauskas A.
     - t-002
 
 - c-002
+  santrauka: 'A. Bumblausko veikalas „Senosios Lietuvos istorija 1009-1795“ išleistas Vilniuje 2005 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 62, „ANONIMO LAIŠKAS“, Bumblauskas A. Senosios Lietuvos istorija 1009-1795,

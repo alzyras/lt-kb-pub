@@ -45,18 +45,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Per Rygą Lietuva traukėsi sau iš Vakarų būtiniausius dalykus, būtent, druską, vilnones medžiagas, geležį (ginklus).'
+  teiginys: 'Per Rygą Lietuva iš Vakarų gaudavo būtinų prekių, tarp jų druskos, vilnonių medžiagų ir geležies.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Per Rygą Lietuva iš Vakarų gaudavo būtiniausių dalykų, tarp jų druską, vilnones medžiagas ir geležį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Rygą Lietuva iš Vakarų gaudavo būtinų prekių, tarp jų druskos, vilnonių medžiagų ir geležies.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo Vytenio ir
@@ -70,20 +71,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nuo Vytenio ir
-    Gedimino laikų Ryga išsivystė Lietuvai ypatingai svarbiu prekybos
-    centru. Per Rygą Lietuva traukėsi sau iš Vakarų būtiniausius
-    dalykus, būtent, druską, vilnones medžiagas, geležį (ginklus). O ji
-    galėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­
-    portuojamų prekių (vaško ir kailių) neišsenkančius kiekius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

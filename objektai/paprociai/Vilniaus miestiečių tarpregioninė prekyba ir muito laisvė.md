@@ -46,18 +46,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.'
+  teiginys: '1440 m. Kazimiero IV privilegija leido katalikams ir stačiatikiams Vilniaus miestiečiams laisvai prekiauti be muito visoje Lietuvos valstybėje.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba, plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­ rė gyvą.'
+  teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1440 m. Kazimiero IV privilegija leido katalikams ir stačiatikiams Vilniaus miestiečiams laisvai prekiauti be muito visoje Lietuvos valstybėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi yra ir
@@ -100,6 +101,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,

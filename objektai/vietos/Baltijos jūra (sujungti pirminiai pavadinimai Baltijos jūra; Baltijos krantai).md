@@ -31,17 +31,17 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
 ## Teiginiai
 
 - t-001
-  teiginys: 'XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmis.'
+  teiginys: 'XII amžiuje buvo geriau susipažinta su tolimesnėmis Baltijos jūros pakrantėmis.'
   pagrindžia:
     - c-007
 
 - t-002
-  teiginys: 'Ta lietuvių tauta, išsis­ kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­ šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos iki Vyslos, o į žemyno gilumą buvo.'
+  teiginys: 'Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
   pagrindžia:
     - c-006
 
 - t-003
-  teiginys: 'Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę.'
+  teiginys: 'Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.'
   pagrindžia:
     - c-005
 
@@ -56,18 +56,19 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - c-002
 
 - t-006
-  teiginys: 'Esant tokiai Europos miestų padėčiai, Lietuva, ilgiausiai at­ siribojusi nuo krikščionybės, valdydama nedidelį ir uostų sto­ kojantį Baltijos pakrantės ruožą, dar su vargana žemdirbyste ir prekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje jau.'
+  teiginys: 'XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą.'
   pagrindžia:
     - c-004
 
 - t-007
-  teiginys: 'Teutonų ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­ gonybę, Baltijos pakrantėse pagausino miestų ir pilių.'
+  teiginys: 'XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Revelis [Talinas] už savo
@@ -156,6 +157,7 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - t-004
 
 - c-004
+  santrauka: 'XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visi
@@ -175,6 +177,7 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - t-006
 
 - c-005
+  santrauka: 'Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors jau V amžiaus pabaigoje,
@@ -206,6 +209,7 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - t-003
 
 - c-006
+  santrauka: 'Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tokio
@@ -230,6 +234,7 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - t-002
 
 - c-007
+  santrauka: 'XII amžiuje buvo geriau susipažinta su tolimesnėmis Baltijos jūros pakrantėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokios gynybos sistemos globoje atsivėrė ke­

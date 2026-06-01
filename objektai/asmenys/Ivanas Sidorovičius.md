@@ -28,13 +28,14 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro.'
+  teiginys: 'Ivanas Sidorovičius buvo Pskovo bojarinas, atvykęs į Vilnių prašyti Vytauto paleisti belaisvius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ivanas Sidorovičius buvo Pskovo bojarinas, atvykęs į Vilnių prašyti Vytauto paleisti belaisvius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,

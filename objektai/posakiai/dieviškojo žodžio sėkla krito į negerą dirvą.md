@@ -20,13 +20,14 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
+  teiginys: 'Vyskupas Kristijonas dažnai ragino prūsus atsisakyti stabų, tačiau dieviškojo žodžio sėkla tarp jų krito į negerą dirvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vyskupas Kristijonas dažnai ragino prūsus atsisakyti stabų, tačiau dieviškojo žodžio sėkla tarp jų krito į negerą dirvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip prūsai niokojo Kulmo žemę
@@ -43,3 +44,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kristijonas]]

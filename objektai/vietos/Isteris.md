@@ -38,16 +38,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Dunojus šiame fragmente yra konkreti upė.'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: 'Dunojus siejamas su Lietuvos pietine riba ir kariniu spaudimu.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,31 +53,3 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    rubežių į pietus lig Uksinės, arba Juodosios, jūros, upės Dunojaus ir Vengrų žemės, į rytus lig
-        Možaisko ir Putivlio pilių, tad Lietuvos prekyba, kaip sakiau, tuose kraštuose prasiplatino. Druską
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: Citata kandidatų registre pažymėta kaip neaptikta darbiniame šaltinyje.
-    - santrauka: Totoriai šiame fragmente pereina nuo partnerystės prie karo prieš Lietuvą.
-    - pagrindzia:
-    - pastaba: Šiame žingsnyje nelaikoma pakankamu viešu įrodymu.
-      citata_originali: |
-        Nuo to regimai Lietuvos ūkė pradėjo irti; lig šiol totoriai, talkininkai ir tarnai lietuvių, nugis atstoję nuo jų, pasidavė turkams ir pradėjo pačius lietuvius kariauti, užgulė Uksinę jūrą įr Dunojų, arba Istrupį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

@@ -24,13 +24,14 @@ Dusburgietis teigia, kad pakarklis P.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pakarklis P.'
+  teiginys: 'P. Pakarklio „Kryžiuočių valstybės santvarkos bruožai“ išleistas 1948 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P. Pakarklio „Kryžiuočių valstybės santvarkos bruožai“ išleistas 1948 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pakarklis P. Kryžiuočių valstybės santvarkos bruožai.— K., 1948.

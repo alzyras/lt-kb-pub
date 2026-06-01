@@ -24,13 +24,14 @@ Dusburgietis teigia, kad lietuvių karas su kryžiuočiais / Redagavo J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad lietuvių karas su kryžiuočiais / Redagavo J.'
+  teiginys: '„Lietuvių karas su kryžiuočiais“, redaguotas J. Jurginio, išleistas Vilniuje 1964 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Lietuvių karas su kryžiuočiais“, redaguotas J. Jurginio, išleistas Vilniuje 1964 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvių karas su kryžiuočiais / Redagavo J. Jurginis.—V., 1964.

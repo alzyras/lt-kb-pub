@@ -34,27 +34,27 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - t-001
   teiginys: 'Žiemgaliai vėl sukilo nepakęsdami griežtos kryžiuočių valdžios.'
   pagrindžia:
-    - c-017
+    - c-009
 
 - t-002
   teiginys: 'Traidenis varžėsi su Livonijos ordinu dėl žiemgalių žemės, kurią buvo pasidaliję kryžiuočiai ir Rygos arkivyskupas.'
   pagrindžia:
-    - c-019
+    - c-008
 
 - t-003
   teiginys: 'Žiemgala minima tarp atskiras kalbas turėjusių duoklinių tautų.'
   pagrindžia:
-    - c-014
+    - c-003
 
 - t-004
-  teiginys: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus, kuršius, žiemgalius.'
+  teiginys: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradėjo minėti žiemgalius.'
   pagrindžia:
-    - c-016
+    - c-011
 
 - t-005
   teiginys: '1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai negalėjo įveikti.'
   pagrindžia:
-    - c-015
+    - c-006
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad traidenis (1269—1282 m.), remdamas žiemgalius, telkė jėgas ir kovai Prūsijoje.'
@@ -79,10 +79,10 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - t-010
   teiginys: 'Pietines žiemgalių ir sėlių sritis asimiliavo lietuviai.'
   pagrindžia:
-    - c-018
+    - c-002
 
 - t-011
-  teiginys: 'Tarp kitų duokli­ ninkių tautų yra minimos — vis savo atskiras kalbas turinčios — «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai».'
+  teiginys: 'Žiemgaliai Nestoro „Povestyje“ minimi tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų.'
   pagrindžia:
     - c-003
 
@@ -99,7 +99,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - t-014
   teiginys: 'Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią puolė žemaičiai.'
   pagrindžia:
-    - c-012
+    - c-007
 
 - t-015
   teiginys: 'Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai.'
@@ -109,7 +109,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - t-016
   teiginys: '1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.'
   pagrindžia:
-    - c-011
+    - c-001
 
 - t-017
   teiginys: 'Tuomet žiemgaliai vėl sukilo, nepakęsdami kryžiuočių kietos valdžios.'
@@ -119,7 +119,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - t-018
   teiginys: 'Kronikininkai mini spindinčius metalo ginklus pas žiemgalius ir kuršius.'
   pagrindžia:
-    - c-013
+    - c-005
 
 - t-019
   teiginys: 'Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.'
@@ -129,12 +129,12 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - t-020
   teiginys: 'Dusburgietis teigia, kad tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams padauguvyje27.'
   pagrindžia:
-    - c-020
+    - c-012
 
 - t-021
   teiginys: 'Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą.'
   pagrindžia:
-    - c-021
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -156,6 +156,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-013
+    - t-016
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -174,8 +175,10 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-015
+    - t-010
 
 - c-003
+  santrauka: 'Žiemgaliai Nestoro „Povestyje“ minimi tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nepa­
@@ -189,6 +192,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-011
+    - t-003
 
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -216,6 +220,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-009
+    - t-018
 
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -233,6 +238,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-019
+    - t-005
 
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -249,6 +255,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-007
+    - t-014
 
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -265,6 +272,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-008
+    - t-002
 
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -280,6 +288,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-017
+    - t-001
 
 - c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -295,86 +304,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     - t-006
 
 - c-011
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kadangi Prūsų kryžiuočiai porai dešimtmečių buvo užimti
-    krašto viduje (sukilimas galutinai buvo numalšintas 1274 m.), Trai­
-    denio ir jo įpėdinių valdžioje spėjusi sutvirtėti, vėliau per eilę gene­
-    racijų Lietuva pajėgė sėkmingai vesti įtemptas kovas prieš riterius.
-    Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą
-    prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.)
-    nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo
-    sukilusios tautos : estai, kuršiai, žiemgaliai. Kuršas buvo pajungtas
-    tik po 7 metų kovos (1267 m.), o kol žiemgaliai buvo nugalėti, praėjo
-    30 metų (1290).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-012
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tų žygių įtakoje jau 1259 m. sukilo žiemgaliai, išvarydami or­
-    dino ir Rygos arkivyskupo pastatytus viršininkus. Kai kryžiuočiams
-    nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 ,
-    jie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami,
-    puolė žemaičiai^165. Nepasisekus pilies paimti, jie persimetė į pietus
-    prie Georgenburgo ir, pasistatę sau pilį kaimynystėje, iš jos puldi­
-    nėjo nykstančią ir maisto trūkstančią vokiečių įgulą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-013
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    8345). Spindinčius metalo ginklus kronikininkai randa ir pas
-    kuršius bei žiemgalius.
-    Puikų lietuvių apginklavimą paliudija ir faktas, kad po per­
-    galės Livonijoje vokiečių kariuomenė dalinosi lietuvių ginklais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-018
-
-- c-014
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nepa­
-    duodama tikslios chronologijos, Nestoro « Povest » paminėjo kaimy­
-    nines tautas, kurios mokėjusios rusams duoklę. Tarp kitų duokli­
-    ninkių tautų yra minimos — vis savo atskiras kalbas turinčios —
-    «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai». Dauguva norma­
-    nams buvo svarbus vandens kelias į rytus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-015
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Per trumpą laiką (nuo 1253 m.) kryžiuočiai Žemaičiuose ir jų
-    pasienyje beveik kasmet turėjo naujų teritorinių laimėjimų ir aplink
-    statėsi svarbias pilis. Betarpiškame ryšyje su Georgenburgo įkūrimu
-    reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
-    Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
-    Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
-    jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
-    tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-016
+  santrauka: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradėjo minėti žiemgalius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau Ptolema-
@@ -388,56 +318,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - t-004
 
-- c-017
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Viena Livonija sunkiai galėjo atsilaikyti prieš
-    lietuvius.
-    Tuomet žiemgaliai vėl sukilo, nepakęsdami kryžiuočių kietos
-    valdžios. Panašiai kaip prūsų sukilimo vadas Herkus Mantas, žiem­
-    galių sukilėlių vadas Nameisė taip pat iki tol buvo tarnavęs ordi-
-    nui^242.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-018
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kai kurie
-    tyrinėtojai, išeidami iš amžių bėgyje susidariusio vienalytiško latvių
-    kalbos ploto, išnykusias kuršių, žiemgalių ir sėlių kiltis tenorėjo
-    laikyti geografinėmis sąvokomis. Latvių ten atliktas asimiliacijos
-    faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių
-    sritis yra asimiliavę lietuviai.
-    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
-    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
-    mi kaip Liet’gola.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-019
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Netrukus kitame susirėmime su įpuolusiais
-    i Livoniją lietuviais žuvo vicemagistras Andrius iš Vestfalijos ir
-    20 riterių^234.
-    Traidenis varžėsi su Livonijos ordinu dėl žiemgaliu žemės, kurią
-    buvo pasidalinę kryžiuočiai ir Rygos arkivyskupas. Kaip reikalingą
-    bazę savo žygiams ordinas 1265 m. pastatė Mintaujos (Jelgavos)
-    pilį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-020
+- c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos  ir Jotvingių jėgos puolė vieną  iš minėtos antiprūsiškosios
@@ -451,7 +332,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - t-020
 
-- c-021
+- c-013
   santrauka: 'Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -465,7 +346,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - t-021
 
-- c-022
+- c-014
   santrauka: 'Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -517,6 +398,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - [[objektai/asmenys/Visvaldis]]
 - [[objektai/zodynas/donacija]]
 - [[objektai/zodynas/kuopiniai kaimai]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
 - [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
+- [[objektai/grupes/Žemaičiai]]

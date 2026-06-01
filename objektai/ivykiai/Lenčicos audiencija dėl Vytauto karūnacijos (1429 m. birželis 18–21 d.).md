@@ -47,7 +47,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Tada lietuvių delegacija Vytauto vardu griežtai pareiškė: ar Jogailai patiks ar nepatiks — Vytautas vis tiek karūną priims ir ant savo galvos užsidės^3 ).'
+  teiginys: 'Lenčicoje lietuvių delegacija Vytauto vardu pareiškė, kad Vytautas priims karūną nepaisydamas Jogailos pritarimo.'
   pagrindžia:
     - c-002
 
@@ -70,7 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Tada lietuvių delegacija Vytauto vardu griežtai pareiškė: ar Jogailai patiks ar nepatiks — Vytautas vis tiek karūną priims ir ant savo galvos užsidės^3 ).'
+  santrauka: 'Lenčicoje lietuvių delegacija Vytauto vardu pareiškė, kad Vytautas priims karūną nepaisydamas Jogailos pritarimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila dar kartą pasitaręs su savo didikais,

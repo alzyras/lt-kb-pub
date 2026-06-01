@@ -23,13 +23,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '9 Kotzebue Switrigail, p. 83, cituo­ ja Slaptajame archyve esantį Švitrigai­ los laišką didžiajam magistrui, rašy­ tą iš Trakų, trečiadienį prieš Švč.'
+  teiginys: 'Kotzebue veikale „Switrigail“ cituojamas Švitrigailos laiškas didžiajam magistrui, rašytas iš Trakų 1432 m. rugpjūčio 13 d.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kotzebue veikale „Switrigail“ cituojamas Švitrigailos laiškas didžiajam magistrui, rašytas iš Trakų 1432 m. rugpjūčio 13 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ibid.

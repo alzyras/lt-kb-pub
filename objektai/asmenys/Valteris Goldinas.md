@@ -33,26 +33,6 @@ Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenbu
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai
-    įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar
-    pagrobė viską, ką ten rado gyvą. Šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo
-    komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo
-    žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę,  ir, stojęs  į mūsų, nukovė visus,
-    išskyrus tris.
-
-
-
-
-            276 (269).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę, ir, stojęs į mūsų, nukovė visus, išskyrus tris.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -74,6 +54,7 @@ Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenbu
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -83,4 +64,3 @@ Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenbu
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vyskupystė]]
 - [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

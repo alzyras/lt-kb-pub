@@ -30,12 +30,12 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - t-001
   teiginys: 'TAUTOS TAPSMAS Lietuva įgyja jūrų uostą – Klaipėdos prisijungimas T autinės valstybės prioritetas – lietuvių tauta, todėl nemažai dėmesio skirta Ryprūsiams, kur daug vietos gyventojų vartojo lietuvių kalbą, ėjo lietuviški laikraščiai, į tą sritį kažkada.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-002
   teiginys: 'Paradoksas – svetima valstybė, o lietuviškos raštijos kur kas daugiau nei pačioje Lietuvoje.'
   pagrindžia:
-    - c-014
+    - c-005
 
 - t-003
   teiginys: 'Šalia istorinės Lietuvos (buvusios LDK) sampratos vis stiprėjo modernioji, Lietuvos vardą siejanti su lietuvių kalbos vartojimu.'
@@ -43,19 +43,19 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-004
 
 - t-004
-  teiginys: 'Tuo pat metu protestantizmas labai uoliai buvo platinamas ir Mažojoje Lietuvoje.'
+  teiginys: 'Mažojoje Lietuvoje buvo uoliai platinamas protestantizmas ir spausdinamos lietuviškos protestantiškos knygos.'
   pagrindžia:
     - c-001
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje.—K., 1935.'
   pagrindžia:
-    - c-017
+    - c-014
 
 - t-006
   teiginys: 'O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rinkimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo.'
   pagrindžia:
-    - c-011
+    - c-009
 
 - t-007
   teiginys: 'Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750).'
@@ -65,7 +65,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - t-008
   teiginys: 'Dusburgietis teigia, kad kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.'
   pagrindžia:
-    - c-015
+    - c-012
 
 - t-009
   teiginys: 'Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų.'
@@ -80,27 +80,27 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - t-011
   teiginys: 'Dusburgietis teigia, kad mažosios Lietuvos apgyvendinimas iki XVII amžiaus pabaigos.— Roma, 1970.'
   pagrindžia:
-    - c-013
+    - c-011
 
 - t-012
-  teiginys: 'Šia samprata rėmėsi naujosios Lietuvos valstybės – Lietuvos Respublikos kūrėjai, siekę prie Lietuvos prijungti Mažąją Lietuvą, bet atsisakę pretenzijų į nelietuviškai kalbančias istorinės Lietuvos žemes.'
+  teiginys: 'Lietuvos Respublikos kūrėjai siekė prie Lietuvos prijungti Mažąją Lietuvą.'
   pagrindžia:
-    - c-012
+    - c-010
 
 - t-013
   teiginys: 'Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
   pagrindžia:
-    - c-010
+    - c-015
 
 - t-014
   teiginys: 'Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva (visa kita Lietuva vėliau – atrodo, XIX a.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-015
-  teiginys: '), plėtojosi meno saviveikla, buvo kuriami chorai, JAV lietuviai finansiškai rėmė Lietuvos kultūrinį gyvenimą, rengė politines akcijas, atkreipdami dėmesį į tautinius suvaržymus Rusijos imperijoje.'
+  teiginys: 'Georgas Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-016
   teiginys: 'Lietuviškai protestantizmas tebuvo skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judėjimas buvo labai silpnas ir trumpas.'
@@ -110,11 +110,12 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - t-017
   teiginys: 'Pademonstruota vienybė su Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
   pagrindžia:
-    - c-016
+    - c-013
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mažojoje Lietuvoje buvo uoliai platinamas protestantizmas ir spausdinamos lietuviškos protestantiškos knygos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo pat metu protestantizmas labai uoliai buvo platinamas
@@ -205,6 +206,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   statusas: verified
   pagrindžia:
     - t-007
+    - t-002
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -226,29 +228,9 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   statusas: verified
   pagrindžia:
     - t-010
-
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    jas, atspindėjusias socialistines ir krikščionių demokratų idėjas (pirmasis
-    vietos lietuviškas laikraštis JAV išėjo 1879 m.), plėtojosi meno saviveikla,
-    buvo kuriami chorai, JAV lietuviai finansiškai rėmė Lietuvos kultūrinį
-    gyvenimą, rengė politines akcijas, atkreipdami dėmesį į tautinius suvar-
-    žymus Rusijos imperijoje.
-    Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, po-
-    liglotas Georgas (liet. Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už
-    lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame
-    buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą
-    garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
-    rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
-    tvirtai tikėdami, kad tikrai nebepražus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-015
 
-- c-008
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į dykra paverstas jotvingių,
@@ -267,7 +249,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   pagrindžia:
     - t-014
 
-- c-009
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     TAUTOS TAPSMAS
@@ -286,20 +268,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   pagrindžia:
     - t-001
 
-- c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    betgi dar išgyveno daugiau, kaip 50 metų. Atitekusi Branden-
-    burgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir to-
-    liau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.
-    **6.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-011
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į Steigiamąjį Seimą buvo išrinktos ir penkios moterys. Tad
@@ -313,7 +282,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   pagrindžia:
     - t-006
 
-- c-012
+- c-010
+  santrauka: 'Lietuvos Respublikos kūrėjai siekė prie Lietuvos prijungti Mažąją Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
@@ -328,7 +298,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   pagrindžia:
     - t-012
 
-- c-013
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jakštas J. Mažosios Lietuvos apgyvendinimas iki XVII amžiaus pabaigos.— Roma,
@@ -340,20 +310,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   pagrindžia:
     - t-011
 
-- c-014
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Paradoksas – svetima valstybė, o lietuviškos raštijos kur
-    kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
-    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
-    laičio poema „Metai“ (apie 1750). Nors XVIII a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-015
+- c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.
@@ -363,7 +320,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   pagrindžia:
     - t-008
 
-- c-016
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vasario 16 Aktas, skelbė,
@@ -381,7 +338,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   pagrindžia:
     - t-017
 
-- c-017
+- c-014
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos
@@ -393,7 +350,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   pagrindžia:
     - t-005
 
-- c-018
+- c-015
   santrauka: 'Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -409,8 +366,9 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   statusas: verified
   pagrindžia:
     - t-018
+    - t-013
 
-- c-019
+- c-016
   santrauka: 'O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rinkimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

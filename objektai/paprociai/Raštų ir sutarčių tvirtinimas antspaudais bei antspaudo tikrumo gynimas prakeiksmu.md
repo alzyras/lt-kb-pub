@@ -40,18 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­ sų laiške Popiežiui uždėjome, tad pirma geležis į vašką, o vanduo į plieną pavirs, nei mes savo žodį sulaužysime ar atšauksime.'
+  teiginys: 'Raštas buvo tvirtinamas antspaudu, o jo tikrumu netikintys asmenys laiškuose skelbti tiesos nedraugais ir tikėjimo priešais.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Contradictores huius sigilli tanquam maliciosos, fi­ dei destructores, hereticos, mendaces repudiamus et omni honore privatos in hiis scriptis [Šio antspaudo niekintojus šiuo savo laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, ereti­ kus, melagius ir.'
+  teiginys: 'Trijuose laiškuose antspaudo niekintojai buvo pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Trijuose laiškuose antspaudo niekintojai buvo pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po šių paaiškinimų apie antspaudą visuose trijuose
@@ -68,6 +69,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Raštas buvo tvirtinamas antspaudu, o jo tikrumu netikintys asmenys laiškuose skelbti tiesos nedraugais ir tikėjimo priešais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visiems svetimšaliams yrs atviri pas

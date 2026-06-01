@@ -23,13 +23,14 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z.'
+  teiginys: 'R. Odoj straipsnis „Dorobek archeologii na Warmii i Mazurach“ paskelbtas 1965 m. žurnalo „Z otchłani wieków“ 2 sąsiuvinyje, p. 95–105.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Odoj straipsnis „Dorobek archeologii na Warmii i Mazurach“ paskelbtas 1965 m. žurnalo „Z otchłani wieków“ 2 sąsiuvinyje, p. 95–105.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z. 2, s.

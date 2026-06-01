@@ -20,7 +20,7 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
     - c-001
 
 - t-002
-  teiginys: 'Frazė priskirta Robert Gordon Latham veikalui „Descriptive Ethnology“.'
+  teiginys: 'Posakis apie sanskrito giminingumą su lietuvių kalba priskiriamas Robertui Gordonui Lathamui.'
   pagrindžia:
     - c-001
 
@@ -56,3 +56,4 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Robert Gordon Latham]]
 - [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]
+- [[objektai/asmenys/Robertas (Sicilijos karalius)]]

@@ -20,18 +20,19 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me­ tais energingai darbavosi, kaldama lietuviškus grašius ir pusgrašius11.'
+  teiginys: 'Jogailos Vilniuje įkurta monetų kalykla Švitrigailos valdymo metais kaldino lietuviškus grašius ir pusgrašius.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Atrodo, kad ir lietu­ viški rubliai, tai yra, sidabrinės laz­ delės, arba liejinukai, šioje kalykloje buvo daromi rusiškų pavyzdžiu.'
+  teiginys: 'Lietuviški rubliai, vadinti sidabrinėmis lazdelėmis arba liejinukais, šioje kalykloje greičiausiai buvo daromi rusišku pavyzdžiu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailos Vilniuje įkurta monetų kalykla Švitrigailos valdymo metais kaldino lietuviškus grašius ir pusgrašius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  « —
@@ -55,6 +56,7 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
     - t-001
 
 - c-002
+  santrauka: 'Lietuviški rubliai, vadinti sidabrinėmis lazdelėmis arba liejinukais, šioje kalykloje greičiausiai buvo daromi rusišku pavyzdžiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     11

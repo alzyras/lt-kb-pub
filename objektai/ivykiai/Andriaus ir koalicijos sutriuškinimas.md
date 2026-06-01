@@ -36,7 +36,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Andriaus ir koalicijos sutriuškinimas: tuo būdu nuo Algirdo laikų atsipalaida- vęs Smolenskas vėl pateko Lietuvos įtakai, ir buvo paruoštas kelias jam prijungti prie Lietuvos. Tatai atliko jau Vytautas. Trečiasis koalicijos narys ir Andriaus suverenas, Livonijos ordinas, mažai tedalyvavo kare..'
+  teiginys: 'Po Andriaus ir jo koalicijos sutriuškinimo Smolenskas vėl pateko Lietuvos įtakai, o Jogaila Lietuvoje nebeturėjo priešų.'
   pagrindžia:
     - c-001
 
@@ -48,6 +48,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Andriaus ir jo koalicijos sutriuškinimo Smolenskas vėl pateko Lietuvos įtakai, o Jogaila Lietuvoje nebeturėjo priešų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu nuo Algirdo laikų atsipalaida-
@@ -85,3 +86,4 @@ Nenurodyta
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Jogaila]]

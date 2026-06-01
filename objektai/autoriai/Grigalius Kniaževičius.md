@@ -25,13 +25,14 @@ Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atlik
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atliktas kunigo Gri­ galiaus Kniaževičiaus, yra išspaus­ dintas periodiniame leidinyje: Dzieje dobroczynności, 1822, N 32, p. 770, kuris redaguojamas mokslininko Mikalojaus Malinovskio.'
+  teiginys: 'Grigalius Kniaževičius iš lotynų kalbos išvertė Vilniaus vyskupijos dotacijos nuorašą, išspausdintą 1822 m. „Dzieje dobroczynności“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Grigalius Kniaževičius iš lotynų kalbos išvertė Vilniaus vyskupijos dotacijos nuorašą, išspausdintą 1822 m. „Dzieje dobroczynności“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojaus kapinių netoli Rūdninkų vartų,

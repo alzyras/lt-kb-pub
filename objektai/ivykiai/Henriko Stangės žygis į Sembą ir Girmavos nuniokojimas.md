@@ -42,12 +42,12 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro tikras brolis, didžiai susijaudino dėl jo likimo. Negalėdamas ramiai matyti, kad jo brolis vienas užsikrovė ant pečių smurtingos mirties naštą, pats stojo į kovą, ir galop abu, ilgai gynęsi ir daugybę.'
+  teiginys: 'Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A.'
+  teiginys: 'Sembos puolimas datuojamas 1252–1253 m. žiema arba 1254 m. pradžia.'
   pagrindžia:
     - c-003
 
@@ -76,6 +76,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai šitai išvydo, brolis Hermanas, minėtojo
@@ -95,6 +96,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Sembos puolimas datuojamas 1252–1253 m. žiema arba 1254 m. pradžia.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A. L., Die
@@ -110,5 +112,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Hermanas (Henriko Stange brolis)]]
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Wojtecki D]]

@@ -50,7 +50,7 @@ Nenurodyta
 - t-002
   teiginys: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Teresboro stovykloje komandos buvo duodamos lietuvių kalba.'
@@ -96,21 +96,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kunigas A. Mackevičius
-    stovykloje laikė mišias, atlikinėjo naujokų
-    įšventinimo apeigas. Stovykloje veikė karo
-    lauko ligoninė, mokymai vyko lietuviškai,
-    komandos buvo duodamos lietuvių kalba.
-    Netrukus nenumatyti įvykiai pri-
-    vertė koreguoti planus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

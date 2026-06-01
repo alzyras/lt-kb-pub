@@ -25,13 +25,14 @@ Dusburgietis teigia, kad valikonytė J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad valikonytė J.'
+  teiginys: 'J. Valikonytė parašė straipsnį apie dvigubą išpirką už moterį Lietuvos Didžiojoje Kunigaikštystėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Valikonytė parašė straipsnį apie dvigubą išpirką už moterį Lietuvos Didžiojoje Kunigaikštystėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Valikonytė  J. Dviguba išpirka už moterį Lietuvos Didžiojoje Kunigaikštystėje XVI

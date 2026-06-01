@@ -47,7 +47,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - c-004
 
 - t-004
-  teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
+  teiginys: 'Žygimantas Augustas, pasigailėjęs Lietuvos Didžiosios Kunigaikštystės pavaldinių, paskelbė lietuviškos monetos vertės taisyklę.'
   pagrindžia:
     - c-003
 
@@ -105,6 +105,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - t-001
 
 - c-003
+  santrauka: 'Žygimantas Augustas, pasigailėjęs Lietuvos Didžiosios Kunigaikštystės pavaldinių, paskelbė lietuviškos monetos vertės taisyklę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  369-
@@ -179,9 +180,10 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/grupes/Rygos vyskupija]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/daiktai/Monetos]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/grupes/Lietuvos ponų taryba]]
 - [[objektai/grupes/Livonijos konfederacija]]
-- [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]
 - [[objektai/zodynas/rusinimas Vakarų Rusija Šiaurės Vakarų kraštas|rusinimas Vakarų Rusija Šiaurės Vakarų kraštas (kraštas)]]
 - [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]

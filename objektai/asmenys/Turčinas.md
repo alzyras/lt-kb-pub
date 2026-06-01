@@ -23,7 +23,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
     - c-001
 
 - t-002
-  teiginys: 'Die 5 Augusti [rugpjūčio 5 dieną] per Turčiną, kai jo kara­ liškajai didenybei pinigus nuvežė į Leipcigą, pakeisdamas liet.'
+  teiginys: 'Rugpjūčio 5 d. Turčinas nuvežė karališkajai didenybei pinigus į Leipcigą.'
   pagrindžia:
     - c-002
 
@@ -44,6 +44,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
     - t-001
 
 - c-002
+  santrauka: 'Rugpjūčio 5 d. Turčinas nuvežė karališkajai didenybei pinigus į Leipcigą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Die 5 Augusti [rugpjūčio 5 dieną] per Turčiną, kai jo kara­

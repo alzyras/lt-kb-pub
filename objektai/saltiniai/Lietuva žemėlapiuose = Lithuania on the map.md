@@ -33,7 +33,7 @@ Lietuva žemėlapiuose: = Lithuania on the map: paroda, Vilnius, 1999 09 26–19
 - t-002
   teiginys: 'Aldona Bieliūnienė ir kiti parengė leidinį „Lietuva žemėlapiuose = Lithuania on the map“.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -61,16 +61,4 @@ Lietuva žemėlapiuose: = Lithuania on the map: paroda, Vilnius, 1999 09 26–19
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 2011; Lietuva žemėlapiuose:
-    = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
-    Aldona Bieliūnienė ir kiti. Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
-    Lithuanian Churches.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

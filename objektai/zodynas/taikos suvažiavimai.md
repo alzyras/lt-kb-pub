@@ -27,7 +27,7 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
 - t-001
   teiginys: 'Taikos suvažiavimai buvo visų taikos tarpininkų susirinkimai, skirti didesniems valstiečių reformos nesusipratimams spręsti.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Reformai atlikti buvo sudarytos apskrityse valstiečių komisijos, apskritys padalintos į apylinkes, kurių priešaky buvo pastatyti taikos tarpininkai, o didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadinami taikos suvažiavimais.'
@@ -53,23 +53,6 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Caras Aleksandras II
-    (1855-1881 m.).
-    Reformai atlikti buvo sudarytos apskrityse valstiečių ko-
-    misijos, apskritys padalintos į apylinkes, kurių priešaky bu-
-    vo pastatyti taikos tarpininkai, o didesniesiems nesu-
-    sipratimams spręsti — visų tarpininkų suvažiavimai, vadinami
-    taikos suvažiavimais.
-    Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
-    rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
@@ -78,4 +61,3 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
 - [[objektai/asmenys/Aleksandras II]]
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
-- [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]

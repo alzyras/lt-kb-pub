@@ -29,7 +29,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 - t-001
   teiginys: 'Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikęs chanas Devletberdi.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: '1427 m. pabaigoje Vytauto remiamas Machmetas pavaldė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
@@ -37,12 +37,12 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - c-001
 
 - t-003
-  teiginys: 'Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B.'
+  teiginys: 'Po pergalės ties Prostkais totoriai pasitraukė iš lietuvių pajėgų kilus konfliktui dėl belaisvių, ypač B. Radvilos.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo totorius.'
+  teiginys: '1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo ir suėmė valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   pagrindžia:
     - c-001
 
@@ -71,6 +71,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -87,6 +88,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-005
 
 - c-003
+  santrauka: 'Po pergalės ties Prostkais totoriai pasitraukė iš lietuvių pajėgų kilus konfliktui dėl belaisvių, ypač B. Radvilos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
@@ -113,20 +115,6 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-006
 
 - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
-    rasdavo net keli „saarai“ (pav. 1427 mt. pradžioje jų buvo dar
-    5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­
-    lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
-    marių pakraščio ir Krymo totorius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi paskutiniais savo valdymo metais Vytautas
@@ -157,5 +145,6 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/asmenys/Vladislovas Vaza]]
 - [[objektai/asmenys/Devletberdi]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/grupes/Krimo totoriai]]
 - [[objektai/zodynas/saar]]

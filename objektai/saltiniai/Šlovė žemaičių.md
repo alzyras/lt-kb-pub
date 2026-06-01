@@ -34,7 +34,7 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
 - t-002
   teiginys: 'Eilėraštis „Šlovė žemaičių“ laikytas kone šio sąjūdžio himnu ar poetiniu manifestu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -58,24 +58,4 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ši grupelė ir lai-
-    koma etninių lietuvių tautinio
-    kultūrinio sąjūdžio pradininkais.
-    Parašytas ir išleistas tiems lai-
-    kams novatoriškas elementorius
-    lietuvių kalba (žemaičių tarme),
-    poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje
-    buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis
-    manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-
-    vyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
-    parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
-    plito nuorašais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

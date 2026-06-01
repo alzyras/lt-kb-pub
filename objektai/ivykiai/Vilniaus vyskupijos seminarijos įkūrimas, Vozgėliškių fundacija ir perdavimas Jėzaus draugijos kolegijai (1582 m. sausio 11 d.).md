@@ -42,18 +42,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
+  teiginys: 'Vilniaus Jėzaus draugijos kolegijai buvo suteikta ekonominė ir administracinė valdžia seminarijai valdyti.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
+  teiginys: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus Jėzaus draugijos kolegijai buvo suteikta ekonominė ir administracinė valdžia seminarijai valdyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kadangi no­
@@ -88,6 +89,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
@@ -129,6 +131,8 @@ Nenurodyta
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
 - [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
 - [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]

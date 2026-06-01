@@ -19,13 +19,14 @@ Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažes
 ## Teiginiai
 
 - t-001
-  teiginys: 'Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažesniesiems broliams (minoritams) ir Šiaurės Vokietijos pajūrio miestams; laiškas pajūrio mies­ tams įdėtas dar irDreyerio veikale (Specimen Juris pubi.'
+  teiginys: 'Dreyerio veikale buvo paskelbtas Gedimino laiškas Šiaurės Vokietijos pajūrio miestams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dreyerio veikale buvo paskelbtas Gedimino laiškas Šiaurės Vokietijos pajūrio miestams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     (Vertimas iš F o i g t o

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad kolendo J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kolendo J.'
+  teiginys: 'J. Kolendo darbas „Wyprawa po bursztyn bałtycki za Nerona“ paskelbtas leidinyje „Pomorania antiqua“ 1981 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Kolendo darbas „Wyprawa po bursztyn bałtycki za Nerona“ paskelbtas leidinyje „Pomorania antiqua“ 1981 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kolendo J. Wyprawa po bursztyn bałtycki za Nerona.— Pomorania antiqua, Wrocław—

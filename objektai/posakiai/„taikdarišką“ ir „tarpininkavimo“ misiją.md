@@ -27,7 +27,7 @@ amziai:
 - t-001
   teiginys: '1715 m., rusų paskatinta, susidarė prieš karalių Augustą 1 nukreipta Tarnogrodo konfederacija, ji tapo pretekstu į šalį įvesti Rusijos kariuomenę, kuri turėjo atlikti „taikdarišką“ ir „tarpininkavimo“ misiją.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Rusų paskatinta Tarnogrodo konfederacija tapo pretekstu į šalį įvesti Rusijos kariuomenę, turėjusią atlikti „taikdarišką“ ir „tarpininkavimo“ misiją.'
@@ -49,19 +49,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusija siekė išlaikyti vidinį ATR susiskaldymą, neleisdama susti-
-    prėti nė vienai partijai. 1715 m., rusų paskatinta, susidarė prieš
-    karalių Augustą 1 nukreipta Tarnogrodo konfederacija, ji tapo
-    pretekstu į šalį įvesti Rusijos kariuomenę, kuri turėjo atlikti „taik-
-    darišką“ ir „tarpininkavimo“ misiją. Po to 1717 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

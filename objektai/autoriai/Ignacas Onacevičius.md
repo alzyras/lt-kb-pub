@@ -38,34 +38,29 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - c-003
 
 - t-004
-  teiginys: 'Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, išskyrus mūrinę da­ lį, sudeginta; Aukštutinė tvirtovė pagaliau per daugybę išardų susilpninta; tiktai neįveikiamas Moskoževskis su dar ir Onacevičiaus pastabą, prie Hlebovičiaus.'
+  teiginys: 'M. Balinskis dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais.'
   pagrindžia:
-    - c-009
+    - c-002
 
 - t-005
-  teiginys: 'Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui Malevskiui už gausius išrašus iš Lietuvos Metrikos.'
-  pagrindžia:
-    - c-006
-
-- t-006
-  teiginys: 'V ir pastabomis, kurias mums itin ge­ ranoriškai pareiškė mokslininkas Lietuvos istorijos žinovas Ignacas Onacevičius.'
+  teiginys: 'Ignacas Onacevičius pateikė pastabų, kuriomis M. Balinskis rėmėsi taisydamas žygio į Vilnių aprašymą.'
   pagrindžia:
     - c-004
 
-- t-007
-  teiginys: 'Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­ rašė M.'
+- t-006
+  teiginys: 'Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo.'
   pagrindžia:
-    - c-005
+    - c-001
+
+- t-007
+  teiginys: 'Profesorius Onacevičius 1823 m. Varšuvoje išleido Albertrandžio rankraščiais paremtą veikalą „Stepono Batoro valdymas“.'
+  pagrindžia:
+    - c-006
 
 - t-008
-  teiginys: 'Ignacas Onacevičius nusipelnė Vilniui ir visai diecezijai iš vys­ kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą dvasiškai jaunuomenei lavintis, vadinamą seminarija59.'
+  teiginys: 'Ignacas Onacevičius perdavė M. Balinskiui pastabas ir įdomias žinias, tinkamas Vilniaus istorijos darbui.'
   pagrindžia:
-    - c-008
-
-- t-009
-  teiginys: 'Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Teisės katedrai, Ignacas Dani­ la vičius, kuriam Lietuvos istorija ir teisės mokslas jau tiek skolin­ gi, mielai perleidęs man svarbius savo užrašus apie mažiau žinomas Vilniaus.'
-  pagrindžia:
-    - c-007
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -88,6 +83,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   statusas: verified
   pagrindžia:
     - t-001
+    - t-006
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -104,6 +100,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -125,6 +122,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - t-003
 
 - c-004
+  santrauka: 'Ignacas Onacevičius pateikė pastabų, kuriomis M. Balinskis rėmėsi taisydamas žygio į Vilnių aprašymą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Galop ta galinga kariauna išsiruošė į
@@ -148,45 +146,10 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1841 m. jis tapo vienu iš enciklopedinio
-    pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir
-    J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
-    apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
-    dinį leidinį Senovės Lenkija. Be to, rengė astronomo Mikalojaus Ko­
-    perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
-    mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
-    Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
-    torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
-    rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
-    mokslo būklę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmoji knygos dalis užbaigia­
-    ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje
-    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
-    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
-    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
-    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
-    Malevskiui už gausius išrašus iš Lietuvos Metrikos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-007
+- c-005
+  santrauka: 'Ignacas Onacevičius perdavė M. Balinskiui pastabas ir įdomias žinias, tinkamas Vilniaus istorijos darbui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai buvęs Vilniaus Universiteto profeso­
@@ -208,9 +171,10 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-008
+- c-006
+  santrauka: 'Profesorius Onacevičius 1823 m. Varšuvoje išleido Albertrandžio rankraščiais paremtą veikalą „Stepono Batoro valdymas“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Protasevičiaus pėdomis sekė ir
@@ -233,29 +197,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
-
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Didelė dalis gyventojų žuvo per kautynes prie Žemuti­
-    nės pilies, o kiti, netekę prieglobsčio ir mieste, ir
-    aplinkinėse pilyse, kryžiuočių nuožmiai nudriokotose, iš­
-    sibėgiojo po visą kraštą36. Pats miestas tiesiog visai sunai­
-    kintas, Kreivoji, arba Žemutinė, pilis, išskyrus mūrinę da­
-    lį, sudeginta; Aukštutinė tvirtovė pagaliau per daugybę
-    išardų susilpninta; tiktai neįveikiamas Moskoževskis su
-    dar ir Onacevičiaus  pastabą,
-    prie Hlebovičiaus  Vytauto
-    gyvenimo aprašymo. Prūsai savo
-    nuostolius nurodo, esą tik 30 žmo­
-    nių netekę, kas visiškai prieštarauja
-    tikrovei.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai

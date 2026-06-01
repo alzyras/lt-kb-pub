@@ -39,27 +39,11 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-- t-001
-  teiginys: 'Gėrimo indą, vadinamą stotkeliu, senovėje dar vadino taure arba taurage.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pačius ragus žvėrių vienus ant kesčių^159 galų maustė ir ragotines^160 dirbo sau ginklui, nesgi
-        geležies dar nežinojo, iš kitų gėrė, nuo ko iki šiolei geriamą stotkelį senu įpročiu taure, arba
-        taurage^161 , tebvadina.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dar patvirkusio girtuoklio karaliaus Augusto II laikais didikai,
@@ -80,4 +64,3 @@ Nenurodyta
 - [[objektai/daiktai/Dievų stabai]]
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
 - [[objektai/daiktai/Torielius]]
-- [[objektai/daiktai/Ragotinė]]

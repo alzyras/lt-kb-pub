@@ -17,7 +17,7 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA. Iki šiol dar nė 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iki šiol dar nė vienos kirčiuotos chrestomatijos neturėjome, o kadangi taisyklingai kirčius tarti tegalima įprasti tik skaitant kir­ čiuotus tekstus, tai chrestomatija yra labai reikalinga kiekvienam no­ rinčiam gerai išmokti mūsų rašomosios kalbos.'
+  teiginys: 'Kirčiuota lietuvių literatūros chrestomatija pristatyta kaip reikalinga norintiems gerai išmokti rašomosios lietuvių kalbos kirčiavimo.'
   pagrindžia:
     - c-002
 
@@ -40,6 +40,7 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA. Iki šiol dar nė 
     - t-002
 
 - c-002
+  santrauka: 'Kirčiuota lietuvių literatūros chrestomatija pristatyta kaip reikalinga norintiems gerai išmokti rašomosios lietuvių kalbos kirčiavimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Skardžius.

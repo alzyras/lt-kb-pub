@@ -91,7 +91,6 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 - [[objektai/grupes/Pacai]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/asmenys/Radvila (maršalka)]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/grupes/Švedai]]

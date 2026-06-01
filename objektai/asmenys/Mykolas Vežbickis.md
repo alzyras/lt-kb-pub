@@ -25,13 +25,14 @@ Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­ reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po 100 auksinų kolegija duotų knygoms įsigyti; tad šie.'
+  teiginys: '1746 m. Mykolas Vežbickis su Kazimieru Vežbickiu skyrė Vilniaus akademijos bibliotekai lėšų knygoms gausinti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1746 m. Mykolas Vežbickis su Kazimieru Vežbickiu skyrė Vilniaus akademijos bibliotekai lėšų knygoms gausinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus

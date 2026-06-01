@@ -61,7 +61,6 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
 - [[objektai/asmenys/Jonas Švitrigaila]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
-- [[objektai/asmenys/Mantautas]]
 - [[objektai/asmenys/Mykolas Skirgaila]]
 - [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]

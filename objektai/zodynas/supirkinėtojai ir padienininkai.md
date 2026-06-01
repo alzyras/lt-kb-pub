@@ -25,13 +25,14 @@ Nepaprastas įvairaus maisto brangymetis 1547 me­ tais Vilniuje kilo dėl čion
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nepaprastas įvairaus maisto brangymetis 1547 me­ tais Vilniuje kilo dėl čionai atvykstančių karaliaus dvariš­ kių ir šiaip padaugėjus gyventojų; tai nulėmė reikšmingą Žygimanto Augusto potvarkį, liečiantį supirkinėtojus, už miesto superkančius visus iš kaimų.'
+  teiginys: '1547 m. potvarkis Vilniuje ribojo supirkinėtojus, kėlusius kainas, o padienininkams nurodė rinktis prie rotušės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1547 m. potvarkis Vilniuje ribojo supirkinėtojus, kėlusius kainas, o padienininkams nurodė rinktis prie rotušės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios bažnyčią stovin­

@@ -197,6 +197,5 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - [[objektai/zodynas/vyskupo teisėjas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/autoriai/M. Stryjkovskis]]
 - [[objektai/daiktai/Lankai]]
 - [[objektai/asmenys/Vygandas]]

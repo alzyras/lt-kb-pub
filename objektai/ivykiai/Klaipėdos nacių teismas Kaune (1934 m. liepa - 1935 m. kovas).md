@@ -41,21 +41,16 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis).'
+  teiginys: 'Po Klaipėdos nacių teismo prezidentas Antanas Smetona mirties bausmę pakeitė kalėjimu iki gyvos galvos.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 181 kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.'
+  teiginys: 'Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
-  pagrindžia:
-    - c-004
-
-- t-004
   teiginys: 'Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išrikiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų uniformomis, instrukcijomis, lapeliais, ginklais.'
   pagrindžia:
     - c-001
@@ -75,27 +70,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dauguma kaltinamųjų sakė,
-    kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
-    vo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems
-    davė nacių vadai Valteris R. Hesas (Walter R. Hess), Rytų Prūsijos ober-
-    prezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipė-
-    doje. Procesas baigėsi 1935 m. kovo 26 d. – nuteisti 76 hitlerininkai.
-    Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-
-    mą mažai kaimynei, todėl prezidentas A. Smetona mirties bausmę netru-
-    Klaipėdos nacių teismas Kaune (1934 m. gruodis)
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
+  santrauka: 'Po Klaipėdos nacių teismo prezidentas Antanas Smetona mirties bausmę pakeitė kalėjimu iki gyvos galvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dauguma kaltinamųjų sakė,
@@ -116,9 +94,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     126 asmenys patraukti teisminėn atsakomybėn,
@@ -131,7 +109,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -142,4 +120,6 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Ėrichas Kochas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/posakiai/Iki gyvos galvos]]
 - [[objektai/daiktai/Klaipėdos nacių organizacijų ginklai ir teismo įrodymai]]

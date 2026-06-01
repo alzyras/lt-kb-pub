@@ -20,18 +20,19 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.'
+  teiginys: 'Generaliniai seimeliai neišnyko įvedus bendrą Lietuvos ir Lenkijos seimą; Lietuvoje tokie suvažiavimai vykdavo Volkoviske, vėliau Slanime.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
+  teiginys: 'Išnykus atskiriems suvažiavimams, provincijų sesijos perėmė darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Generaliniai seimeliai neišnyko įvedus bendrą Lietuvos ir Lenkijos seimą; Lietuvoje tokie suvažiavimai vykdavo Volkoviske, vėliau Slanime.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tie generaliniai seimeliai neišnyko nė įvedus bend-
@@ -46,6 +47,7 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
     - t-001
 
 - c-002
+  santrauka: 'Išnykus atskiriems suvažiavimams, provincijų sesijos perėmė darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet, išnykus atskiriems suvažiavimams,

@@ -41,13 +41,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Išvijo jį iš Žemaičių krašto (1401 m.), vėl jam sumaišydamas kortas: nuo Mindau­ go laikų dėtos pastangos užkariauti Žemaitiją, kad galėtų sau­ sažemiu susijungti abu Ordinai, vėl liko sutrukdytos.'
+  teiginys: '1401 m. Vytautas išvijo Ordiną iš Žemaičių krašto ir sutrukdė jo siekiui sausuma sujungti abu Ordinus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1401 m. Vytautas išvijo Ordiną iš Žemaičių krašto ir sutrukdė jo siekiui sausuma sujungti abu Ordinus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tada Vytautas
@@ -65,3 +66,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

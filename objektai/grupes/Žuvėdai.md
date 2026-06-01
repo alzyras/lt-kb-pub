@@ -81,6 +81,5 @@ tags:
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Parusėnai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Valakai]]

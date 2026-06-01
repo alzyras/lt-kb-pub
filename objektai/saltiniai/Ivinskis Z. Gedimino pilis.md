@@ -28,7 +28,7 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad ivinskis Z.'
+  teiginys: 'Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“ 1940 m., aštuntame tome.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
     - t-002
 
 - c-002
+  santrauka: 'Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“ 1940 m., aštuntame tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ivinskis Z. Gedimino pilis.—LE, 1940, t. 8, p. 1139—1141.

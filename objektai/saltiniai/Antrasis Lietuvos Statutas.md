@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Čia paminėti įstatymai gali būti laikomi galutiniu išsi­ vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.'
+  teiginys: '1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA

@@ -28,7 +28,7 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
     - c-003
 
 - t-003
-  teiginys: 'Ona (Zigmanto Augusto sesuo): jis pasižadėjo vesti Zig- manto Augusto seserį Oną, nors jam tebebuvo tik 23 m., o jai 55 m.'
+  teiginys: 'Henrikas pasižadėjo vesti Zigmanto Augusto seserį Oną, kai jam buvo 23 metai, o jai 55 metai.'
   pagrindžia:
     - c-004
 
@@ -83,6 +83,7 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
     - t-002
 
 - c-004
+  santrauka: 'Henrikas pasižadėjo vesti Zigmanto Augusto seserį Oną, kai jam buvo 23 metai, o jai 55 metai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Henrikas** per savo atstovą elekciniam seime sutiko su viso-
@@ -110,3 +111,4 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
 - [[objektai/asmenys/Karolis IX]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

@@ -42,18 +42,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jei kas pagal šį įsakymą arba skelbimą mūsų lietuviškos mo­ netos imti nenorėtų, tuomet tarybą be jokio atidėjimo su­ rengti ir egzekuciją dėl šios aukščiau minėtos baudos su­ mokėjimo, kurios viena pusė, kuri bus instiguota, o antra pusė to miesto valdybai.'
+  teiginys: '1572 m. kovo 26 d. potvarkis numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
+  teiginys: 'Žygimantas Augustas įsakė lietuvišką monetą, vertą dviejų lietuviškų grašių, priimti už pustrečio lenkiško grašio.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1572 m. kovo 26 d. potvarkis numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo mūsų įsakymu norime, kad visi bendrai
@@ -83,6 +84,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Žygimantas Augustas įsakė lietuvišką monetą, vertą dviejų lietuviškų grašių, priimti už pustrečio lenkiško grašio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  369-
@@ -124,6 +126,6 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/zodynas/grašis]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos ponų taryba]]
-- [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]

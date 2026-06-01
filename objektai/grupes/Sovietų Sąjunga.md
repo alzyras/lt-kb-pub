@@ -47,9 +47,9 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
     - c-005
 
 - t-005
-  teiginys: 'L I E T U V O S I S T O R I J A 206 Nacių okupaciją keičia sovietinė 1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
+  teiginys: '1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-006
   teiginys: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą.'
@@ -153,23 +153,7 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
     - t-004
 
 - c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nacių okupaciją keičia sovietinė
-    1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą
-    iš nacių Vokietijos. Tačiau bėda ta, kad lygia greta, kone tuo pat metu
-    Lietuva buvo reokupuota, t. y. sovietų kariuomenė antrą kartą okupavo
-    Lietuvą, Latviją ir Estiją – grąžintas stalininis režimas, imtos vykdyti re-
-    kvizicijos, vyrai gaudyti darbams. Totalitariniam režimui vėl ėmė diri-
-    guoti komunistų partija, valstybės saugumo (NKGB ir NKVD) struktū-
-    ros, sovietų valdininkai ir okupacinė kariuomenė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-007
+  santrauka: '1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -187,8 +171,9 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002
 
-- c-008
+- c-007
   santrauka: 'Reali aukščiausioji valdžia atiteko ne šalyje likusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kartu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -214,7 +199,6 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/daiktai/Lėktuvai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/grupes/Vokiečiai]]
@@ -232,7 +216,5 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
 - [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
 - [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
-- [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m. vasara)]]
 - [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m.)]]
 - [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]
-- [[objektai/zodynas/reokupacija]]

@@ -41,7 +41,7 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Jau 1914 m. Filadelfijoje įvyko bendras lietuvių ir ukrainiečių mitingas, kuris reikalavo „išvyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams".'
+  teiginys: '1914 m. Filadelfijoje lietuvių ir ukrainiečių mitingas reikalavo palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams.'
   pagrindžia:
     - c-001
 
@@ -58,6 +58,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1914 m. Filadelfijoje lietuvių ir ukrainiečių mitingas reikalavo palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jau 1914 m. Filadelfijoje įvy-
@@ -121,7 +122,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
 - [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

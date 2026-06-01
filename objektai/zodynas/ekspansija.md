@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Tekstas teigia, kad ši rytinė plėtra prasidėjo dar prie Mindaugo.
+Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytuose prasidėjo dar Mindaugo valdymo laikais.
 
 ## Teiginiai
 
@@ -21,7 +21,7 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Tekstas teigia, kad ši 
     - c-002
 
 - t-002
-  teiginys: 'Tekstas teigia, kad ši rytinė plėtra prasidėjo dar prie Mindaugo.'
+  teiginys: 'Lietuvos ekspansija rytuose prasidėjo dar Mindaugo valdymo laikais.'
   pagrindžia:
     - c-001
 
@@ -72,7 +72,6 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Tekstas teigia, kad ši 
 - [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
 - [[objektai/asmenys/Pipinas]]
 - [[objektai/ivykiai/Pipino nukankinimas ir mirtis]]
-- [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/asmenys/Teodoras (Gedimino brolis)]]
@@ -83,3 +82,4 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Tekstas teigia, kad ši 
 - [[objektai/zodynas/komputas]]
 - [[objektai/posakiai/„narsią ir karingą tautą“]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
+- [[objektai/ivykiai/Kryžiuočių ordino nukariavimai Prūsuose]]

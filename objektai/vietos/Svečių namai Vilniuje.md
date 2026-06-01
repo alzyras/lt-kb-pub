@@ -20,7 +20,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje įsikurdavo22.'
+  teiginys: 'Nauji Vilniaus svečių namai buvo pastatyti miesto lėšomis toje vietoje, kurioje jie stovėjo šaltinio rašymo metu.'
   pagrindžia:
     - c-003
 
@@ -30,7 +30,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     - c-004
 
 - t-003
-  teiginys: 'Mat rašo, jog svečiai, tai yra, rusų pirkliai, atvykstantys su savo prekėmis į Vilnių, apsistoja įvairiuose namuose mieste, kur no­ ri, be jokio prisistatymo, o paskui, prekiaudami su vokiečiais ir kitais svetimšaliais pirkliais, niekam ne­ pranešę.'
+  teiginys: 'Aleksandras leido Vilniuje statyti svečių namus, nes rusų pirkliai mieste apsistodavo ir išvykdavo be prisistatymo.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandras leido Vilniuje statyti svečių namus, nes rusų pirkliai mieste apsistodavo ir išvykdavo be prisistatymo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Svečių namams skirta privilegija yra:
@@ -91,6 +92,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     - t-004
 
 - c-003
+  santrauka: 'Nauji Vilniaus svečių namai buvo pastatyti miesto lėšomis toje vietoje, kurioje jie stovėjo šaltinio rašymo metu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau savo kai­

@@ -5,7 +5,6 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1569 m.'
-  - '1893 m.'
   - '1932 m.'
   - '1935 m.'
 date_start: '1569'
@@ -31,29 +30,11 @@ Valstybinė santvarka po Liublino unijos. Šapoka, Senosios Lietuvos valstybės 
 - t-001
   teiginys: 'Valstybinė santvarka po Liublino unijos.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Šapoka, Senosios Lietuvos valstybės santvarkos bruožai (atsp. iš Židinio, 1935, Nr. 1—2); W.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    prava (1893); A. Šapoka,
-    Senosios Lietuvos valstybės santvarkos bruožai (atsp. iš Židinio, 1935, Nr.
-    1—2); W. Konopczyński, Liberum veto (1918); O. Balzer, Z zagadnień
-    ustrojowych Polski (1915); St. Kutrzeba, Skład sejmu polskiego (Przegl. hist.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XVIII. Valstybinė santvarka po Liublino unijos. 1. I. Lappo, Lietuva
@@ -68,7 +49,6 @@ Valstybinė santvarka po Liublino unijos. Šapoka, Senosios Lietuvos valstybės 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Liberum veto]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/1773—1775 m. seimas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
@@ -80,17 +60,13 @@ Valstybinė santvarka po Liublino unijos. Šapoka, Senosios Lietuvos valstybės 
 - [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Hipių judėjimas sovietinėje Lietuvoje]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/paprociai/Konstitucinė tautos teisė priešintis prievarta kėsinantis į valstybės nepriklausomybę]]
 - [[objektai/ivykiai/Kosciuškos sukilimas (1794 m.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
 - [[objektai/ivykiai/LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
-- [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/Lietuvos laisvės lyga]]
 - [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje]]
@@ -119,7 +95,6 @@ Valstybinė santvarka po Liublino unijos. Šapoka, Senosios Lietuvos valstybės 
 - [[objektai/grupes/Vazų dinastija]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
-- [[objektai/ivykiai/Voluinės ir Lietuvos kunigaikščių sutartis (1219 m.)]]
 - [[objektai/posakiai/`Rex Lethowye`]]
 - [[objektai/zodynas/ankstyvoji monarchija karinė monarchija]]
 - [[objektai/posakiai/aukso laisvė tikroji laisvė]]
@@ -138,6 +113,4 @@ Valstybinė santvarka po Liublino unijos. Šapoka, Senosios Lietuvos valstybės 
 - [[objektai/autoriai/J. Bardach]]
 - [[objektai/grupes/Ketverių metų seimas]]
 - [[objektai/asmenys/Petras I Didysis]]
-- [[objektai/zodynas/feodalizmas]]
-- [[objektai/zodynas/Rėda|rėda]]
 - [[objektai/asmenys/Šarlis Monteskjė]]

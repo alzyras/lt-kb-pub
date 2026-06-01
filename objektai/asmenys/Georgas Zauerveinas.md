@@ -50,6 +50,6 @@ Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas
 - [[objektai/grupes/JAV lietuviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/posakiai/„Lietuviais esame mes gimę...“]]
 - [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]
 - [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
-- [[objektai/posakiai/„Lietuviais esame mes gimę...“]]

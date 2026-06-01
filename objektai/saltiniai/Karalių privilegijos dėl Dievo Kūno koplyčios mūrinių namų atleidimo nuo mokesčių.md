@@ -26,13 +26,14 @@ Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nuo mokesčių atleido Lenkijos kara­ liai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­ nas Kazimieras -1664 m.'
+  teiginys: 'Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1577 metų gruodžio 19 dienos, o pirmesne 1539

@@ -25,7 +25,7 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskutinę valią pareikšdamas, užrašė Akademijos kolegijai, įpareigodamas, kad 25 metus činšo mokestis nuo jo eitų Dievo Kūno koplyčios naudai, o po 25 metų Akademijos kolegijai turėsiąs.'
+  teiginys: 'Akademijos kolegija vėlesniais laikais 1631 m. įgytą mūrinį namą ir sklypą pavertė spaustuve.'
   pagrindžia:
     - c-001
 
@@ -37,6 +37,7 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Akademijos kolegija vėlesniais laikais 1631 m. įgytą mūrinį namą ir sklypą pavertė spaustuve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­

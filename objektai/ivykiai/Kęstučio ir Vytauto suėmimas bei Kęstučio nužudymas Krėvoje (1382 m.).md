@@ -44,18 +44,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau, apsuptas išdavikų, buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­ tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių budelių pasmaugtas36.'
+  teiginys: 'Kęstutis su Vytautu buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir penktą naktį pasmaugtas pilies bokšte.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­ gaila, esą pasirengęs taikytis.'
+  teiginys: 'Jogailos atsiųstas Skirgaila atvyko į Kęstučio stovyklą ir pareiškė esąs pasirengęs taikytis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailos atsiųstas Skirgaila atvyko į Kęstučio stovyklą ir pareiškė esąs pasirengęs taikytis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
@@ -113,6 +114,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Kęstutis su Vytautu buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir penktą naktį pasmaugtas pilies bokšte.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     37

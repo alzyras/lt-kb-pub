@@ -20,13 +20,14 @@ Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios bažnyčios padangėje!'
+  teiginys: 'Brolių karo sėkmė Prūsijoje vadinama reikšmingu ženklu kovojančios bažnyčios padangėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolių karo sėkmė Prūsijoje vadinama reikšmingu ženklu kovojančios bažnyčios padangėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nieku būdu nereikia pamiršti ir to itin

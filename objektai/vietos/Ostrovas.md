@@ -31,7 +31,7 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: 'Jo sudarytąja su Jogaila Ostrovos sutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­ somybei atstatyti^1 ).'
+  teiginys: '1392 m. Vytauto ir Jogailos sudaryta Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: 'Jo sudarytąja su Jogaila Ostrovos sutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­ somybei atstatyti^1 ).'
+  santrauka: '1392 m. Vytauto ir Jogailos sudaryta Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šitų nepasitenkinusiųjų priešaky atsistojo pats

@@ -23,12 +23,12 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 ## Teiginiai
 
 - t-001
-  teiginys: 'Balins­ kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me­ džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė puikiu stiliumi.'
+  teiginys: 'Juozapas Ignas Kraševskis savo Vilniaus istorijoje panaudojo archyvinę medžiagą, kronikas ir metraščius.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ veik tuo pat metu rašė savo Vilniaus miesto istoriją.'
+  teiginys: 'Juozapas Ignas Kraševskis beveik tuo pat metu kaip M. Balinskis rašė savo Vilniaus miesto istoriją.'
   pagrindžia:
     - c-003
 
@@ -40,6 +40,7 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Juozapas Ignas Kraševskis savo Vilniaus istorijoje panaudojo archyvinę medžiagą, kronikas ir metraščius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant gana kritiško požiūrio į
@@ -74,6 +75,7 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
     - t-003
 
 - c-003
+  santrauka: 'Juozapas Ignas Kraševskis beveik tuo pat metu kaip M. Balinskis rašė savo Vilniaus miesto istoriją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     M. Balinskis buvo kruopštus, pedantiškas istorikas,

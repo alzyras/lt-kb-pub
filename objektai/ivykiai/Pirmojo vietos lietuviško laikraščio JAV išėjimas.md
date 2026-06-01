@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'lietuvių, kurie laisvi ir nevaržomi kūrė savo spaudą, draugijas ir organizaci- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 121 jas, atspindėjusias socialistines ir krikščionių demokratų idėjas (pirmasis vietos.'
+  teiginys: 'Pirmasis vietos lietuviškas laikraštis JAV išėjo 1879 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmasis vietos lietuviškas laikraštis JAV išėjo 1879 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1910 m. JAV (Pensilvanijoje, Čikagoje, Niujorke) gyveno 207 tūkst. lietu-

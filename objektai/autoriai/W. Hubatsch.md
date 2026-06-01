@@ -23,7 +23,7 @@ Hubatsch^158.
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad hubatsch.— Göttingen, 1948.'
+  teiginys: 'W. Hubatschas 1948 m. Getingene išleido „Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum“ antrąją dalį.'
   pagrindžia:
     - c-002
 
@@ -44,6 +44,7 @@ Hubatsch^158.
     - t-001
 
 - c-002
+  santrauka: 'W. Hubatschas 1948 m. Getingene išleido „Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum“ antrąją dalį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars

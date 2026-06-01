@@ -40,13 +40,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą, o liepos 12-ąją, spaudžiant V.'
+  teiginys: '1940 m. liepos 12 d., spaudžiant V. Dekanozovui, nutarta Sovietų Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1940 m. liepos 12 d., spaudžiant V. Dekanozovui, nutarta Sovietų Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė

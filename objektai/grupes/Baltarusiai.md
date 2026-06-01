@@ -20,33 +20,13 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '– baltarusiai, rusai ir ukrainiečiai kartu sudėjus.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Ji propagavo autonominės Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų tautų kalbos turėtų valstybinį statusą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nelegalioje lietuvių
-    spaudoje spausdinta kitų tautų, pirmiausia kaimynų grožinė kūryba, ypač
-    XIX a. pirmosios pusės lenkiškai rašiusių Lietuvos patriotų kūriniai.
-    1897 m. surašymo duomenimis, gyventojų skaičius maždaug da-
-    bartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln. Apie
-    1,6 mln.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
@@ -66,9 +46,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Ji propagavo autonominės Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų tautų kalbos turėtų valstybinį statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -86,7 +66,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -97,7 +77,6 @@ tags:
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/autoriai/Adomas Honorijus Kirkoras]]
 - [[objektai/ivykiai/Antrasis LLV padalijimas]]
-- [[objektai/grupes/Baltieji]]
 - [[objektai/asmenys/Bazilijus Ciapinskis]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/asmenys/Dominykas Semaško]]
@@ -126,8 +105,6 @@ tags:
 - [[objektai/zodynas/tuteišiai]]
 - [[objektai/paprociai/„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams|„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams (sukilimas)]]
 - [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]
 - [[objektai/zodynas/krajovcai]]
 - [[objektai/zodynas/krajovcai kraštiečiai]]

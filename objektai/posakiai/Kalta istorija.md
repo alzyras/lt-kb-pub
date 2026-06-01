@@ -18,9 +18,9 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
 ## Teiginiai
 
 - t-001
-  teiginys: 'Autoriai dėl tokių troškimų Lietuvą matyti kaip savo nuosavybę, taip pat dėl atkaklių lietuvių kovų už savarankiškumą, savo nepriklausomą valstybę, kurie jos tikrai nusipelnė, ją sukūrė ir kelis kartus atkūrė, jokios kaltės nejaučia, o ta kova didžiuojasi.'
+  teiginys: 'Posakis „Kalta istorija“ vartojamas aiškinant, kad dėl Lietuvos istorijos komplikuotumo nekalti Lietuvos istorikai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Pasakojimas apie Lietuvos istoriją galėjo atrodyti atveriantis daug aštrių prieštaravimų ir pernelyg kritiškas kaimynams.'
@@ -69,25 +69,6 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Au-
-    toriai dėl tokių troškimų Lietuvą matyti kaip savo nuosavybę, taip pat dėl
-    atkaklių lietuvių kovų už savarankiškumą, savo nepriklausomą valstybę,
-    kurie jos tikrai nusipelnė, ją sukūrė ir kelis kartus atkūrė, jokios kaltės
-    nejaučia, o ta kova didžiuojasi, juolab kad senų istorijos reiškinių neiš-
-    kraipo, nekuria, jų nepolitizuoja, o tik pabandė išdėstyti ir paaiškinti, kaip
-    tik sugebėdami aiškiau, naudodami visus naujausius mūsų istoriografijos
-    pasiekimus.
-    Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos
-    istorikai.
-    Kalta istorija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

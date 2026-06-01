@@ -23,13 +23,14 @@ Dusburgietis teigia, kad mažvydas M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mažvydas M.'
+  teiginys: 'M. Mažvydo „Pirmoji lietuviška knyga“ išleista 1974 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Mažvydo „Pirmoji lietuviška knyga“ išleista 1974 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mažvydas M. Pirmoji lietuviška knyga.— V., 1974.

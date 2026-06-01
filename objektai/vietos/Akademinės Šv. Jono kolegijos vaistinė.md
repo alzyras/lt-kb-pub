@@ -31,7 +31,7 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
     - c-001
 
 - t-002
-  teiginys: 'Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti­ nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui mokėti kasmet po 140 auksinų bažnyčios labui.'
+  teiginys: '1687 metais jėzuitai suremontuotą mūrinį namą atidavė Akademinės Šv. Jono kolegijos vaistinei.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
     - t-001
 
 - c-002
+  santrauka: '1687 metais jėzuitai suremontuotą mūrinį namą atidavė Akademinės Šv. Jono kolegijos vaistinei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas mūras per gaisrą in rudera [griuvėsiais] pa­

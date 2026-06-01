@@ -28,13 +28,14 @@ Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, Marija - už Boleslovo - Ru­ sios kunigaikščio; o ketvirtoji, bevaikė, - už Rusios didžiojo kuni­ gaikščio Dmitrijaus Michailovičiaus, 1326 metų spalio 15 dieną totorių chano Uzbeko.'
+  teiginys: 'Danmilė per krikštą buvo pavadinta Elžbieta ir ištekinta už Mazovijos kunigaikščio Vaclovo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Danmilė per krikštą buvo pavadinta Elžbieta ir ištekinta už Mazovijos kunigaikščio Vaclovo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, užsitikrinęs sau-

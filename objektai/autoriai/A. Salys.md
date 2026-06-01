@@ -35,7 +35,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 ## Teiginiai
 
 - t-001
-  teiginys: 'A. Salys šiame šaltinyje minimas tarp žurnalo „Kalba“ pirmojo sąsiuvinio straipsnių autorių.'
+  teiginys: 'Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais.'
   pagrindžia:
     - c-005
 
@@ -124,6 +124,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - t-003
 
 - c-005
+  santrauka: 'Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šiame numeryje yra įdėtas paskutinis prof. Jablonskio — Ry­
@@ -164,5 +165,4 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - [[objektai/grupes/Skandinavai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/prokalbė]]
-- [[objektai/ivykiai/Salyno taika]]
 - [[objektai/zodynas/prūsas Prūsa Prūsija]]

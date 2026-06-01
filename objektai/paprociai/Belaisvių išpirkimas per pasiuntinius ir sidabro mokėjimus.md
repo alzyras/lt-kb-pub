@@ -48,9 +48,9 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro.'
+  teiginys: 'Pskovo pasiuntiniai Vilniuje sumokėjo Vytautui 1 000 sidabro rublių už belaisvių paleidimą, o vėliau pridėjo dar 250 rublių.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Jie važiavę į Vilnių ir tapę Vytauto belaisviais ir sidabro praradę 1 000 rublių, o jis, niekšas, paėmė sidabrą ir belaisvius tvirtovėje pasodino.'
@@ -60,41 +60,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    [Pskoviečiai
-    pasiuntė pas didįjį kunigaikštį Jurgį
-    posadniką Timofejevičių ir bajorus,
-    kad siųstų savuosius bajorus pas Vy­
-    tautą ir nusilenktų už pskoviečius;
-    ir būsianti tada jam su kunigaikščiu
-    Jurgiu Didžiosios Kunigaikštystės
-    gynyba, bet tas visko atsisakė ir žie­
-    mai atsiuntė didysis kunigaikštis sa­
-    vo bajorus į Pskovą, ir pskoviečiai
-    su jais atsiuntė savo posadnikus Jo­
-    achimą Pavlovičių ir Ivaną Sidoro-
-    vičių, ir bojarinus ir davė jiems Vy­
-    tautui žadėtą sidabrą. Jie važiavę į
-    Vilnių ir tapę Vytauto belaisviais ir
-    sidabro praradę 1 000 rublių, o jis,
-    niekšas, paėmė sidabrą ir belaisvius
-    tvirtovėje pasodino. Likus trims sa­
-    vaitėms iki Velykų, pskoviečiai pa­
-    siuntė pas Vytautą posadniką Sil­
-    vestrą Levontjevičių ir valdovo
-    vietininką Parfėjų ir už belaisvius
-    davė puspenkto šimto rublių, o si­
-    dabrą davė per Marijos Užtarėjos
-    dieną (spalio pirmą pagal Grigaliaus
-    kalendorių)].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Pskovo pasiuntiniai Vilniuje sumokėjo Vytautui 1 000 sidabro rublių už belaisvių paleidimą, o vėliau pridėjo dar 250 rublių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
@@ -177,6 +143,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -188,9 +155,7 @@ Nenurodyta
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Parfėjus]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Silvestras Levontjevičius]]

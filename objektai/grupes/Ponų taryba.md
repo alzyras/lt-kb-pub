@@ -31,15 +31,15 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 - t-001
   teiginys: 'Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba ir seimai.'
   pagrindžia:
-    - c-009
+    - c-004
 
 - t-002
   teiginys: 'Be to, jis pasižadėjo, nepasitaręs su taryba, nebedalinti niekam valstybinių vietų.'
   pagrindžia:
-    - c-008
+    - c-003
 
 - t-003
-  teiginys: 'Tą balsą, kaip ir pirma dėl Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­ ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos reikalą^1 ).'
+  teiginys: 'Lenkijos ponų taryba prisidėjo prie 1398 m. protesto prieš Lietuvos ir Lenkijos santykių eigą ir buvo sumaniusi unijos reikalą.'
   pagrindžia:
     - c-001
 
@@ -51,10 +51,10 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 - t-005
   teiginys: 'Ponų taryba buvo nuolatinė aukštesniųjų valstybės urėdų grupė, sprendusi valstybės reikalus.'
   pagrindžia:
-    - c-010
+    - c-008
 
 - t-006
-  teiginys: 'Bet į senatą nepateko dalis didžiojo kunigaikščio tarybos narių — jo dvaro aukštieji dignitoriai, kokių Lenkijoje iš viso nebuvo arba kurie ten nebuvo senatoriais.'
+  teiginys: 'Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.'
   pagrindžia:
     - c-007
 
@@ -81,6 +81,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkijos ponų taryba prisidėjo prie 1398 m. protesto prieš Lietuvos ir Lenkijos santykių eigą ir buvo sumaniusi unijos reikalą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkai stengėsi pastoti tam kelią. 1398 m.
@@ -127,6 +128,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -141,6 +143,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   statusas: verified
   pagrindžia:
     - t-008
+    - t-001
 
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -175,6 +178,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-007
 
 - c-007
+  santrauka: 'Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet į senatą nepateko dalis
@@ -191,37 +195,6 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-006
 
 - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, jis pasižadėjo, nepasita-
-    ręs su taryba, nebedalinti niekam valstybinių vietų. Taryboje
-    buvo suteikta laisvė kiekvienam visiškai laisvai kal-
-    bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
-    patarimas būtų ir nemalonus jam. Vis dėlto šia privilegija ta-
-    ryba tebebuvo tik patariamasis organas: jos sprendimai nega-
-    lėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,
-    jis galėjo ir visiškai priešingai pasielgti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-009
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vieni žemes gaudavo amžinai,
-    kiti — iki savo ar vaikų gyvos galvos, o dar kiti — iki norėjo
-    didysis kunigaikštis. Visa tai jis galėjo daryti laisvai; tačiau
-    valstybės politikoje jį varžė įsigalėjusi ponų taryba ir
-    seimai (žiūr. 198—201 psl.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-010
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl tuo laiku at-
@@ -249,4 +222,5 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/zodynas/perdėtinis]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/urėdas]]

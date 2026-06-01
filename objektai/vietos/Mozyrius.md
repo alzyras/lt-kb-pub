@@ -33,7 +33,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 - t-002
   teiginys: 'Maišto vadui pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas jam nepasidavė.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė.'
@@ -78,23 +78,4 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, Lietuvos po-
-    nai, jo priešai, norėdami jį
-    pražudyti, grasino jam iš-
-    kelti bylą tarsi už Aleksan-
-    dro nužudymą. Visa tai
-    matydamas, jis sumanė už-
-    grobti kuo daugiausia Lie-
-    tuvos žemių ir pasiduoti Maskvos kunigaikščiui Vosyliui III
-    (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
-    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
-    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

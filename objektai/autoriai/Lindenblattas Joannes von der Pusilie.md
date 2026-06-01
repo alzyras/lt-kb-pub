@@ -19,12 +19,12 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mergelės Marijos bažnyčios Smėlynėje ir pran­ ciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­ siruošusias tvirtoves, antra, numanydami, jog bus neįma- 43 Lindenblatto kronikoje yra - Boparthen, pagal panašų skambėji­ mą, regis, tarsi būtų.'
+  teiginys: 'Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: '33 Lindenblatt Jahrbücher etc., p. 76, kryžiuočių persikėlimą per Viliją nu­ rodo buvus per Šv.'
+  teiginys: 'Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.'
   pagrindžia:
     - c-002
 
@@ -50,6 +50,7 @@ tags:
     - t-003
 
 - c-002
+  santrauka: 'Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     33
@@ -65,6 +66,7 @@ tags:
     - t-002
 
 - c-003
+  santrauka: 'Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Olesnickis,

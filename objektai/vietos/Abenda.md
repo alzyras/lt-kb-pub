@@ -25,7 +25,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 510 D.— duo territoria [...] Abendam et Pubetam, Jer.— Pobêtin unde Bêtin.'
+  teiginys: 'Abenda minima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     - t-003
 
 - c-002
+  santrauka: 'Abenda minima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     510 D.— duo territoria [...] Abendam et Pubetam, Jer.— Pobêtin unde Bêtin. Abenda

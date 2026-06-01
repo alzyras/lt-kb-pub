@@ -38,7 +38,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas, subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo juos į tris dalis437, kurių vieną nusiuntė prieš.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -56,22 +55,6 @@ Nenurodyta
     viename kuore.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas,
-    subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo
-    juos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias
-    žemes nusiaubė, grobdamas ir degindamas. Likę įsibrovė  į Kulmo žemę ir, neskaitant
-    kitų piktybių, ten pridarytų, paėmė Birgelavos pilį438, pagrobdami gyvulius bei visą mantą
-    brolių ir tų žmonių, kurie buvo subėgę į pilį. Broliai ir kiti žmonės išliko gyvi, gindamiesi
-    viename kuore.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

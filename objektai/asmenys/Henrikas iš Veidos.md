@@ -59,6 +59,7 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -79,36 +80,12 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    58 (57). Apie vienos pilies užkariavimą ir apie Kristburgo pilį
-
-       Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
-    yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
-    rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
-    ir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
-    ilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar
-    vadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir
-    ją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
-    daug ginklanešių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
-- [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]

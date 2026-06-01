@@ -68,6 +68,7 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Krokuvos profesoriai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/asmenys/Albrechtas (Romos karalius)]]
@@ -76,8 +77,6 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - [[objektai/asmenys/Inocentas V]]
 - [[objektai/asmenys/Vaclovas (Čekijos karalius)]]
 - [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]
-- [[objektai/asmenys/Zigmantas]]
-- [[objektai/ivykiai/Sicilijos prancūzų žudynės (1281 m.)]]
 - [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.)]]
 - [[objektai/grupes/Vienos universiteto profesoriai]]
 - [[objektai/asmenys/Dr. Baptistas Cigala]]

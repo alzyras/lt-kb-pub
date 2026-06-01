@@ -33,7 +33,7 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
 - t-002
   teiginys: 'Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio prekybos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -52,19 +52,4 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas dėl to net pasiskundė Vakarų Europos ku­
-    nigaikščiams, kad Ordinas neleidžia pirkliams susisiekti su Lie­
-    tuva ne tik per jo teritoriją, bet ir jūromis1 2).
-    Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties
-    (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
-    prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
-    aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

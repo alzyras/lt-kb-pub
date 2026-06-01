@@ -37,7 +37,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 - t-003
   teiginys: 'Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptautiniuose forumuose.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-004
   teiginys: 'Skirtingai nei katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.'
@@ -84,6 +84,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -117,24 +118,6 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     - t-001
 
 - c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sovietinė valdžia represijas prieš disidentus derino su dalinių
-    nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
-    nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
-    teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus). Skirtingai nei
-    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
-    Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
-    kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
-    politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
-    niuose forumuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-006
   santrauka: 'Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -160,7 +143,6 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 - [[objektai/ivykiai/Lietuvos laisvės lygos įkūrimas (1978 m.)]]
 - [[objektai/asmenys/Nijolė Sadūnaitė]]
 - [[objektai/asmenys/Petras Cidzikas]]
-- [[objektai/zodynas/rezistentas]]
 - [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

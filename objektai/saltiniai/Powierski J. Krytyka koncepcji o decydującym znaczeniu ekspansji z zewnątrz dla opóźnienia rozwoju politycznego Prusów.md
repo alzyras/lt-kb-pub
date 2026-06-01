@@ -23,13 +23,14 @@ Dusburgietis teigia, kad powierski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad powierski J.'
+  teiginys: 'J. Powierskio straipsnis apie išorinės ekspansijos reikšmę prūsų politinės raidos vėlavimui paskelbtas 1977 m. ABS 11 tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio straipsnis apie išorinės ekspansijos reikšmę prūsų politinės raidos vėlavimui paskelbtas 1977 m. ABS 11 tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Powierski J. Krytyka koncepcji o decydującym znaczeniu ekspansji z zewnątrz dla

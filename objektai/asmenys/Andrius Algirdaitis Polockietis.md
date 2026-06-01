@@ -40,7 +40,7 @@ Tverės kunigaikštis puolė Dmitrovą, o tuo metu Kęstutis ir Andrius Algirdai
 - t-003
   teiginys: 'Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaikščių: Andrius Algirdaitis Polockietis, Dmitrijus Algirdaitis Brenskietis, Dimitrijus (Voluinietis Karijotaitis), (LDK karo vadai, vadovavę ir 1380 m. Kulikovo mūšyje sumušant Aukso.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -67,6 +67,7 @@ Tverės kunigaikštis puolė Dmitrovą, o tuo metu Kęstutis ir Andrius Algirdai
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -91,31 +92,6 @@ Tverės kunigaikštis puolė Dmitrovą, o tuo metu Kęstutis ir Andrius Algirdai
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaikščių: Andrius Algirdaitis Polockietis, Dmitrijus Algirdaitis Brenskietis, Dimitrijus (Voluinietis Karijotaitis), (LDK karo vadai, vadovavę ir 1380 m. Kulikovo mūšyje sumušant Aukso.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „O Lietuvos
-    žemėje liko liūdesys ir ašaros“.
-
-    Mūšyje žuvo keliasdešimt (kartais nu-
-    rodoma net 74) žymių Lietuvos kuni-
-    gaikščių: Andrius Algirdaitis Polockietis,
-    Dmitrijus Algirdaitis Brenskietis, Dimit-
-    rijus (Voluinietis Karijotaitis), (LDK karo
-    vadai, vadovavę ir 1380 m. Kulikovo mū-
-    šyje sumušant Aukso ordos pajėgas),
-    dar du Karijotaičiai, kiti Gediminaičiai,
-    Kijevo, Smolensko kunigaikščiai, Joman-
-    tas - Smolensko vietininkas ir kiti Lietu-
-    vos, Rusios, lenkų, vokiečių vaivados,
-    didieji bajorai, žymūs kariai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
@@ -124,4 +100,3 @@ Tverės kunigaikštis puolė Dmitrovą, o tuo metu Kęstutis ir Andrius Algirdai
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/kunigaikščiai]]

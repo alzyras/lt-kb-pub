@@ -26,13 +26,14 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 17 Apie tai didžiajam magistrui pra­ neša komtūras iš Lealio, iš Rygos, laiške, datuotame 1432 metų rugpjū­ čio 19 d. Ind. Cod. Hist.'
+  teiginys: 'Lealio komtūro laiškas didžiajam magistrui datuotas 1432 m. rugpjūčio 19 d. Rygoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lealio komtūro laiškas didžiajam magistrui datuotas 1432 m. rugpjūčio 19 d. Rygoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau, po ketu­

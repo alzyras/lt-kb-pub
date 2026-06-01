@@ -25,21 +25,10 @@ periodo_grupes:
 
 Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti. Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti.
 
-## Teiginiai
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
-  pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Fridrichas, Austrijos kunigaikštis, ir Liudvikas iš Bavarijos spalio 21 dieną dėl nesantarvės vienu metu buvo išrinkti Romos karaliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
@@ -58,10 +47,9 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-002
 
 - c-002
+  santrauka: 'Austrijos kunigaikštis Fridrichas buvo tarp Vokietijos didikų, dalyvavusių svarstant ką tik įsteigtos ligoninės ateitį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors
@@ -92,27 +80,6 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    117. Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
-                               gaikštis, buvo išrinkti Romos karaliais
-
-      Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis,
-    dėl nesantarvės vienu metu buvo išrinkti Romos karaliais tada, kai apaštališkasis sostas
-    28 mėnesius buvo neužimtas, o ši juodviejų nesantarvė truko ligi 1322 viešpaties metų,
-    kol Liudvikas, Bavarijos kunigaikštis, po daugybės karų, vykusių tarp juodviejų, švento
-    Mykolo išvakarėse (rugsėjo 28) paėmė mūšyje į nelaisvę Fridrichą, Austrijos kunigaikštį,
-    ir išlaikė suimtą dvejus metus. Po to jiedu susitaikė.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -123,7 +90,5 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]
-- [[objektai/asmenys/Fridrichas]]
 - [[objektai/ivykiai/Liudviko iš Bavarijos ir Fridricho Austriečio dviguba elekcija bei konfliktas (1314–1324 m.)]]

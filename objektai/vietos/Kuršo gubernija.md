@@ -33,7 +33,7 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
 - t-002
   teiginys: 'Kitas svarbus sukilėlių uždavinys - paimti į savo rankas Kuršo gubernijos vakarinės dalies kontrolę, kad būtų užtikrintas laivo su ginklais priėmimas iš Vakarų Europos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -59,31 +59,9 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuomet žygiuoti carinės kariuomenės
-    tvirtovės Daugpilio link ir padedant ten
-    tarnaujantiems iš Lietuvos kilusiems kariš-
-    kiams, bandyti užimti šį svarbų strateginį
-    punktą. Kitas svarbus sukilėlių uždavi-
-    nys - paimti į savo rankas Kuršo guber-
-    nijos vakarinės dalies kontrolę, kad būtų
-    užtikrintas laivo su ginklais priėmimas iš
-    Vakarų Europos. Teofilio Lapinskio vado-
-    vaujama ekspedicija laivu turėjo atgabenti
-
-    Sukilėlių pajėgos
-    Sukilėlių galėjo būti nuo 1500 iki
-    2500 karių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

@@ -55,5 +55,4 @@ Jakubovskis : Tautiniai santykiai , Kaunas 1921. Jakubovskis : Tautybių santyki
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/Liubavskij, M]]
 - [[objektai/autoriai/M. Ljubavskij]]

@@ -40,7 +40,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Viename kambaryje laikydavo javus, kitame kybodavo drabužiai, todėl šis kambarys vadinosi svirnu.'
+  teiginys: 'Klėtyje viename kambaryje laikyti javai, kitame kabėjo drabužiai, todėl tas kambarys vadinosi svirnu.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Klėtyje viename kambaryje laikyti javai, kitame kabėjo drabužiai, todėl tas kambarys vadinosi svirnu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Visi tie kambariai, kaip sakiau, buvo luboti, ant tų lubų viskos^218 , kame laikė

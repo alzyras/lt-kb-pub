@@ -48,7 +48,7 @@ Nenurodyta
 - t-002
   teiginys: 'Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -74,28 +74,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    užmuštų ir šešių sužeistų karių.
-    Balandžio 24 d. Vilniuje,
-    Kovos Viln
-
-    Rotušės aikštėje, buvo paskelbtas
-
-    2328 sukilėlių pasirašytas sukilimo aktas
-
-    ir sudarytas vykdomosios valdžios orga-
-
-    nas - Lietuvos Tautinė aukščiausia taryba
-
-    (Roda Naididžiausia Naradaus Lietuvos).
-    Sukilimas apėmė visą Lietuvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

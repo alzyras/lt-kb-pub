@@ -19,13 +19,14 @@ Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.'
+  teiginys: 'Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mirusios žmonos atminimui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mirusios žmonos atminimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dažnas Žygimanto Augusto, jo

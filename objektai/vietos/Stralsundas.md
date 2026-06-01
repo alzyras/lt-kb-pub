@@ -33,7 +33,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - c-002
 
 - t-002
-  teiginys: 'Taip ir Hanzos miestai, kaip Anklamas, Stralsundas, Greifsval­ das, Greifenbergas suteikė lietuvių ir lenkų pirkliams panašias privilegijas^2 ).'
+  teiginys: 'Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.'
   pagrindžia:
     - c-001
 
@@ -45,6 +45,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai

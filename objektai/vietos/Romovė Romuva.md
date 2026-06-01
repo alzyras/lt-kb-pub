@@ -17,7 +17,7 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 204 Romovė resp. Romuva (D.'
+  teiginys: 'Romovė, arba Romuva, Dusburgiečio duomenimis buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   pagrindžia:
     - c-002
 
@@ -45,8 +45,10 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 - c-002
+  santrauka: 'Romovė, arba Romuva, Dusburgiečio duomenimis buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
@@ -67,15 +69,3 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos vieta apskritai nebeatsekama.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1—9). Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos
-    vieta apskritai nebeatsekama.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004

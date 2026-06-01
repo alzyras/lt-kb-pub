@@ -30,13 +30,14 @@ tags:
     - c-003
 
 - t-003
-  teiginys: 'Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J.'
+  teiginys: 'M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O

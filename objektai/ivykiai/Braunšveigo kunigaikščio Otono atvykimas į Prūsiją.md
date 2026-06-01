@@ -38,7 +38,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera žinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe maldininkų atvyko kilnusis ir pamaldusis Otonas.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -58,19 +57,6 @@ Nenurodyta
              26.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera
-    žinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe
-    maldininkų atvyko kilnusis  ir pamaldusis Otonas, šviesusis Braunšveigo valdovas  ir
-    kunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

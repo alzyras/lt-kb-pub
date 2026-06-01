@@ -28,13 +28,14 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ši frazė yra vilniečių šauksmas puolimo pradžioje.'
+  teiginys: 'Šūksnis „Prie ginklų!“ nuskambėjo Vilniuje kaip vilniečių raginimas pradėti puolimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šūksnis „Prie ginklų!“ nuskambėjo Vilniuje kaip vilniečių raginimas pradėti puolimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai buvo

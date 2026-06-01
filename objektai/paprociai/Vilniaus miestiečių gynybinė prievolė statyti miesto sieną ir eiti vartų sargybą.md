@@ -47,18 +47,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tad 1505 metais, kai tie barbarai buvo mažumėlę aprimę, karalius savo sprendimu atleido Vilniaus gyvento­ jus nuo karo tarnybos vieneriems metams, su sąlyga, kad apsaugojimui nuo priešų, ypač pagonių, antpuolių, apjuostų miestą mūro siena, kiekvienas pagal.'
+  teiginys: '1505 m. karalius metams atleido Vilniaus gyventojus nuo karo tarnybos su sąlyga, kad jie apjuos miestą mūro siena.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Miestiečiai prie jų dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė imti po vieną pinigą kas dveji metai, arba po vieną akmenį nuo kiekvieno vežimo, gabenančio javus ar kokius kitus pro­ duktus.'
+  teiginys: 'Vilniaus miestiečiai turėjo dieną ir naktį eiti sargybą prie miesto vartų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus miestiečiai turėjo dieną ir naktį eiti sargybą prie miesto vartų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miestiečiai prie jų
@@ -78,6 +79,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1505 m. karalius metams atleido Vilniaus gyventojus nuo karo tarnybos su sąlyga, kad jie apjuos miestą mūro siena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę
@@ -104,4 +106,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/asmenys/Vaitiekus Taboras]]

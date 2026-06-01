@@ -20,13 +20,14 @@ Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuit
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuitams.'
+  teiginys: 'Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar nupirko du sklypus
@@ -52,3 +53,4 @@ Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuit
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/sufraganas kleras arkipresbiteris]]
 - [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]
+- [[objektai/zodynas/kapitula]]

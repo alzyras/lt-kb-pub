@@ -9,7 +9,7 @@ import {
   parseFrontmatterPeriodRange,
   visiblePeriodDisplay,
 } from "../util/periodRange"
-import { CitationMetadata, collectCitationMetadata } from "../util/citationFilter"
+import { CitationMetadata, collectCitationMetadata, collectClaimCount } from "../util/citationFilter"
 import { tagKind } from "./TagList"
 // @ts-ignore
 import periodFilterScript from "./scripts/period-filter.inline"
@@ -119,6 +119,7 @@ const emptyCitationMetadata: CitationMetadata = {
 }
 
 const citationMetadataCache = new Map<string, CitationMetadata>()
+const claimCountCache = new Map<string, number>()
 
 function citationMetadataForPage(page: QuartzPluginData): CitationMetadata {
   const filePath = String(page.filePath ?? "")
@@ -135,6 +136,23 @@ function citationMetadataForPage(page: QuartzPluginData): CitationMetadata {
   const metadata = collectCitationMetadata(markdown)
   citationMetadataCache.set(filePath, metadata)
   return metadata
+}
+
+function claimCountForPage(page: QuartzPluginData): number {
+  const filePath = String(page.filePath ?? "")
+  if (!filePath || !page.frontmatter?.tipas || !page.slug?.startsWith("objektai/")) {
+    return 0
+  }
+
+  const cached = claimCountCache.get(filePath)
+  if (cached !== undefined) {
+    return cached
+  }
+
+  const markdown = fs.readFileSync(filePath, "utf8")
+  const count = collectClaimCount(markdown)
+  claimCountCache.set(filePath, count)
+  return count
 }
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
@@ -183,6 +201,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     const citationMetadata = isObjectPage ? citationMetadataForPage(page) : emptyCitationMetadata
     const quoteCount = citationMetadata.quoteCount
     const citationSourceIds = citationMetadata.sourceIds
+    const claimCount = isObjectPage ? claimCountForPage(page) : 0
 
     return (
       <li
@@ -193,6 +212,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         data-period-match="true"
         data-citation-filterable={isObjectPage ? "true" : "false"}
         data-quote-count={isObjectPage ? `${quoteCount}` : undefined}
+        data-claim-count={isObjectPage ? `${claimCount}` : undefined}
         data-citation-sources={isObjectPage ? citationSourceIds.join("|") : undefined}
       >
         <div class="section">

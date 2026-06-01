@@ -20,12 +20,12 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 12 Jablonskis K. Istorija ir jos šaltiniai, p. 132—136 (apie skalvių lietuviškumą); Jasas R. Didysis..., p. 13; Tautavičius A. Mūsų giminaičiai..., p. 17—22; MLTE, t. 3, p. 90; Matulevičius A. Dėl lietuvių Prūsijoje..., p. 106—108.'
+  teiginys: 'R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuviškumo klausimu.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k. S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei, filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.'
+  teiginys: 'Istorikas R. Jasas buvo vienas iš rankraštį recenzavusių asmenų.'
   pagrindžia:
     - c-001
 
@@ -37,6 +37,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Istorikas R. Jasas buvo vienas iš rankraštį recenzavusių asmenų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
@@ -49,6 +50,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
     - t-002
 
 - c-002
+  santrauka: 'R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuviškumo klausimu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     12  Jablonskis K. Istorija ir jos šaltiniai, p. 132—136 (apie skalvių lietuviškumą);

@@ -19,13 +19,14 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išvengė sutriuškinimo21.'
+  teiginys: 'Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės kartu su Švitrigaila išvengė sutriuškinimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės kartu su Švitrigaila išvengė sutriuškinimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Priešininkas, persekio­

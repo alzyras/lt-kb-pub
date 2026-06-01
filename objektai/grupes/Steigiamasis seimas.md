@@ -218,7 +218,6 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
 - [[objektai/grupes/Lietuvių krikščionių demokratų partija]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/zodynas/Tautinės mažumos]]
 - [[objektai/zodynas/autonominis vienetas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

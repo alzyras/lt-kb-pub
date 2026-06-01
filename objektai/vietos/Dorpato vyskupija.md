@@ -26,18 +26,19 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
 ## Teiginiai
 
 - t-001
-  teiginys: '[Taip pat pagonys lietuviai Viešpaties me­ tais 1323-iais per Užgavėnes įsiver­ žė į Danijos karalystės Revelio že­ mę Livonijos srityse ir net Dorpato vyskupiją, kurias piešdami ir degin­ dami iki pamatų sugriovę sunaiki­ no ir pagrobė 4 000 vyrų ir moterų.'
+  teiginys: '1323 m. per Užgavėnes lietuviai įsiveržė į Dorpato vyskupiją, ją plėšė ir degino.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­ čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę.'
+  teiginys: 'Lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1323 m. per Užgavėnes lietuviai įsiveržė į Dorpato vyskupiją, ją plėšė ir degino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     MCCCXXIII, in carniprivio
@@ -67,6 +68,7 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
     - t-001
 
 - c-002
+  santrauka: 'Lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas valdovas po pergalingų žygių, tikriausiai todėl, kad

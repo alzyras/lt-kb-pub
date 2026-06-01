@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
+  teiginys: '1582 m. sausio 11 d. Vilniuje klierikų mokymas ir vadovavimas seminarijai buvo patikėti Vilniaus Jėzaus draugijos kolegijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1582 m. sausio 11 d. Vilniuje klierikų mokymas ir vadovavimas seminarijai buvo patikėti Vilniaus Jėzaus draugijos kolegijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kadangi no­

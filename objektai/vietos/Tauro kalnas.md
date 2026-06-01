@@ -29,7 +29,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
 ## Teiginiai
 
 - t-001
-  teiginys: 'Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą.'
+  teiginys: 'Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
     - t-002
 
 - c-002
+  santrauka: 'Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     „Tad tenai Gedimi­

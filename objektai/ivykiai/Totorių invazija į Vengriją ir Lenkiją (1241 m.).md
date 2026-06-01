@@ -47,13 +47,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­ lio, ir Henriko, Vroclavo kunigaikščio, žūtį Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė į Vengriją ir Lenkiją, kur mūšyje nukovė Kolomaną, Vengrijos.'
+  teiginys: '1241 m. totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką ir nuniokojo tas šalis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1241 m. totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką ir nuniokojo tas šalis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
@@ -84,18 +85,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    22. Apie Vengrijos ir Lenkijos nusiaubimą
-
-       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

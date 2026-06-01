@@ -18,28 +18,29 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s. 78—79.'
+  teiginys: 'M. Poliakuvna parašė straipsnį „Galindia“, paskelbtą 1964 m. Vroclave, Varšuvoje ir Krokuvoje išleistame SSS tome.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad pollakówna M. Kronika Piotra z Dusburga.— Wrocław— Warszawa—Kraków, 1968.'
+  teiginys: 'M. Poliakuvna 1968 m. Vroclave, Varšuvoje ir Krokuvoje išleido darbą „Kronika Piotra z Dusburga“.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad poliakuvna).'
+  teiginys: 'M. Poliakuvna kėlė mintį, kad Petras Dusburgietis galėjo rašyti Marienburge.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy, Warszawa, 1958, s. 160—207.'
+  teiginys: 'M. Poliakuvna parašė darbą „Zanik ludności pruskiej“, paskelbtą 1958 m. Varšuvoje leidinyje „Pomorze średniowieczne“.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Poliakuvna parašė straipsnį „Galindia“, paskelbtą 1964 m. Vroclave, Varšuvoje ir Krokuvoje išleistame SSS tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
@@ -51,6 +52,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
     - t-001
 
 - c-002
+  santrauka: 'M. Poliakuvna 1968 m. Vroclave, Varšuvoje ir Krokuvoje išleido darbą „Kronika Piotra z Dusburga“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pollakówna M. Kronika Piotra z Dusburga.— Wrocław— Warszawa—Kraków, 1968.
@@ -61,6 +63,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
     - t-002
 
 - c-003
+  santrauka: 'M. Poliakuvna parašė darbą „Zanik ludności pruskiej“, paskelbtą 1958 m. Varšuvoje leidinyje „Pomorze średniowieczne“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy,
@@ -72,6 +75,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
     - t-004
 
 - c-004
+  santrauka: 'M. Poliakuvna kėlė mintį, kad Petras Dusburgietis galėjo rašyti Marienburge.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiuo metu žinomas dokumentas, rodantis, kad 1327 m. gruodžio
@@ -91,3 +95,4 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/autoriai/Petras Dusburgietis]]

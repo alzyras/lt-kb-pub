@@ -27,11 +27,6 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Balinskio veikale Vilnius iškyla kaip iš amžių glūdumos kylantis miestas, kurio gatvės, bažnyčios, kalnai, rūmai ir vienuolynai turi dokumentuotą praeitį.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Vilniaus miesto istorijos rašymo tradicijos atsiradimas siejamas su locus geni akcentavimu romantinėje pasaulėžiūroje.'
   pagrindžia:
     - c-001

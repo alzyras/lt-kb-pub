@@ -33,7 +33,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - c-005
 
 - t-002
-  teiginys: 'Abu jiedu įkūrė iki šiol patverusias sostines (Vilnių, Kremlių), į jų pamatus įmūrydami amžiną Gedimino sosti­ nės ir Maskvos antagonizmą, išlaikytą ne tik jų dinastijų, bet ir vėlybesnių palikuonių.'
+  teiginys: 'Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai.'
   pagrindžia:
     - c-004
 
@@ -48,7 +48,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - c-001
 
 - t-005
-  teiginys: 'Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,— pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo.'
+  teiginys: 'Riurikaičių dinastijos išsibaigimas 1598 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
   pagrindžia:
     - c-002
 
@@ -72,6 +72,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - t-004
 
 - c-002
+  santrauka: 'Riurikaičių dinastijos išsibaigimas 1598 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šituo atžvilgiu XV amž. gale
@@ -106,6 +107,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - t-003
 
 - c-004
+  santrauka: 'Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Abu jiedu įkūrė iki šiol patverusias sostines

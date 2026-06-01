@@ -27,7 +27,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,— pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo.'
+  teiginys: 'Romanovų dinastijos pradžia 1613 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Romanovų dinastijos pradžia 1613 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šituo atžvilgiu XV amž. gale
@@ -61,6 +62,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-001
     - t-001
 
 - c-002
@@ -99,23 +101,6 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   pagrindžia:
     - t-002
 
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    jos valdomas rytų slavų žemes. Šituo atžvilgiu XV amž. gale
-    Lietuvos ir Rusijos istorijos naujos epochos susiliečia.
-    Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
-    garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
-    Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
-    pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
-    mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
-    «abiejų tautų » respublikoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
@@ -126,8 +111,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mykolas]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/unija]]
@@ -135,4 +119,3 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 - [[objektai/grupes/Hohenzollernai]]
 - [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]
-- [[objektai/posakiai/sąmyšio metai]]

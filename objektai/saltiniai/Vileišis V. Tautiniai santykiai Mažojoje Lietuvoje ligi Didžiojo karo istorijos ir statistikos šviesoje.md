@@ -25,13 +25,14 @@ Dusburgietis teigia, kad vileišis V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vileišis V.'
+  teiginys: 'V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos

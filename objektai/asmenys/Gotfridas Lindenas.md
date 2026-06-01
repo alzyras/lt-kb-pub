@@ -28,18 +28,19 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu.'
+  teiginys: 'Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną su Redigeriu Elneriu užimti Vilniaus.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­ meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­ pavykus staiga užimti gerai ginamo miesto, grįžo atgalios plėšti aplinkinių žemių23.'
+  teiginys: 'Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir nesėkmingai veržėsi iki Vilniaus tvirtovių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir nesėkmingai veržėsi iki Vilniaus tvirtovių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
@@ -59,6 +60,7 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
     - t-002
 
 - c-002
+  santrauka: 'Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną su Redigeriu Elneriu užimti Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­

@@ -56,7 +56,7 @@ Nenurodyta
 - t-003
   teiginys: 'Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -78,22 +78,6 @@ Nenurodyta
     - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors egzis-
-    tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai,
-    vis labiau plito lenkiškasis, kurį skatino integraciniai procesai viešajame
-    gyvenime. Bene svarbiausias lenkiškojo modelio pradžios taškas buvo
-    1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-
-    tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-
-    rijos knyga. Lietuvos lenkėjimo procesas yra vienas svarbiausių Baroko
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -113,6 +97,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

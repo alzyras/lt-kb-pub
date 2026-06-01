@@ -44,9 +44,9 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 234 Atvyko į Prūsiją ir niokojo Pamedę 1236 m. (Ewald A.'
+  teiginys: 'Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie daugelio pilių sunaikinimą ir pamedėnų pavergimą Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė, kamuodamas grobstymais bei gaisrais ir.'
@@ -56,7 +56,7 @@ Nenurodyta
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -91,19 +91,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    234 Atvyko į Prūsiją ir niokojo Pamedę 1236 m. (Ewald A. L., Die Eroberung..., 1, p.
-    190—192).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Meiseno markgrafo atvykimą
@@ -122,21 +112,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    13. Apie Meiseno markgrafo atvykimą
-
-      Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas,
-    Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su
-    dideliais turtais. Šis vyras iš visos širdies ir iš visų jėgų ryžosi naikinti netikėlius ir plėsti
-    krikščionių žemes.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-004
 
 ## Ryšiai
@@ -146,8 +121,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/autoriai/Ewald A. L]]
+- [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]

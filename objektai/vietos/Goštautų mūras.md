@@ -25,18 +25,19 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '70 Detali Kardinalijos istorija yra tokia: kunigaikštis Jurgis Radvila, dar bū­ damas Vilniaus vyskupijos koadju­ torius, su broliu gavo palikimo mū­ rinį namą, Goštautų vardo, stovintį priešais Šv.'
+  teiginys: 'Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo Goštautų vardu vadintą mūrinį namą.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kurioje ilgai buvo lai­ komos pamaldos, ir pats kurį laiką gyveno, todėl jam duotas Kardinali­ jos vardas.'
+  teiginys: 'Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo Goštautų vardu vadintą mūrinį namą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mes cituojame tik tuos, kuriuos
@@ -56,6 +57,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Marijos Magdalenos baž­

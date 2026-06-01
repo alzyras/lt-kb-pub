@@ -28,7 +28,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 ## Teiginiai
 
 - t-001
-  teiginys: '5 Kojelavičius ir Nar a movsk i s klysta tą vyskupą Mikalojų va­ dindami Borkovskiu, tai buvo Gož­ kovskis, lenkas.'
+  teiginys: 'Kojelavičius ir Naramovskis klaidingai vadino vyskupą Mikalojų Borkovskiu, nors jis buvo Gožkovskis.'
   pagrindžia:
     - c-001
 
@@ -38,18 +38,19 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
     - c-004
 
 - t-003
-  teiginys: 'Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotekoje, kuriame trumpos panegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­ čiaus, jėzuito2.'
+  teiginys: 'Petras Kojelavičius parašė lotyniškas trumpas panegirikas Vilniaus vyskupams.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Petro Wiiuk Koja- łowicz, Societatis Jesu, in alma Uni­ versitate Vilnensi eiusdem Societatis tunc Eloquentiae deinde Logices ordi­ nario professore.'
+  teiginys: 'Petras Kojelavičius 1654 m. Vilniuje išleido „Elogia Episcoporum Vilnensium“.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kojelavičius ir Naramovskis klaidingai vadino vyskupą Mikalojų Borkovskiu, nors jis buvo Gožkovskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ant­
@@ -77,6 +78,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
     - t-001
 
 - c-002
+  santrauka: 'Petras Kojelavičius 1654 m. Vilniuje išleido „Elogia Episcoporum Vilnensium“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2
@@ -95,6 +97,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
     - t-004
 
 - c-003
+  santrauka: 'Petras Kojelavičius parašė lotyniškas trumpas panegirikas Vilniaus vyskupams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad nu­

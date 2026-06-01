@@ -26,13 +26,14 @@ Dusburgietis teigia, kad zurkalowski E.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad zurkalowski E.'
+  teiginys: 'E. Zurkalowskio straipsnis „In welches Jahr fällt die Belagerung Memels durch die Samländer?“ publikuotas 1907 m. Karaliaučiuje leistame AM 44 tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'E. Zurkalowskio straipsnis „In welches Jahr fällt die Belagerung Memels durch die Samländer?“ publikuotas 1907 m. Karaliaučiuje leistame AM 44 tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Zurkalowski E. In welches Jahr fällt die Belagerung Memels durch die Samländer? —

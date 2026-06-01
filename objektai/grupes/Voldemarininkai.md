@@ -55,7 +55,7 @@ Politinė grupuotė.
 - t-002
   teiginys: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-003
   teiginys: 'Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.'
@@ -85,6 +85,7 @@ Politinė grupuotė.
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -117,26 +118,11 @@ Politinė grupuotė.
   pagrindžia:
     - t-004
 
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Besąlyginis ulti-
-    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
-    jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
-    lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
-    ultraradikalieji voldemarininkai. Nuo 1938 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Jaunieji tautininkai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Šaulių sąjunga]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

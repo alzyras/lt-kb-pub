@@ -24,7 +24,7 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
     - c-002
 
 - t-002
-  teiginys: 'Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau.'
+  teiginys: 'Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet Vytautas su jais nedarė ilgų ce­

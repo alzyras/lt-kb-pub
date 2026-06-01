@@ -51,19 +51,19 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Avignone greičiausiai ne­ daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu krikštijimo monopolį, kliudė Lietuvai užmegzti ryšius su krikščio­ niškomis valstybėmis.'
+  teiginys: 'Kryžiuočiai kliudė Lietuvai užmegzti ryšius su krikščioniškomis valstybėmis, laikydami lietuvių krikštijimą savo monopoline teise.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-004
-  teiginys: 'Iš Avignono 1325 m. sugrįžęs Rygos arki­ vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
+  teiginys: '1325 m. iš Avignono sugrįžęs Rygos arkivyskupas paskelbė ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-005
-  teiginys: 'Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­ darytoji taika.'
+  teiginys: 'Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -82,6 +82,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -98,24 +99,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Avignone greičiausiai ne­
-    daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu
-    krikštijimo monopolį, kliudė Lietuvai užmegzti ryšius su krikščio­
-    niškomis valstybėmis. Iš Avignono 1325 m. sugrįžęs Rygos arki­
-    vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
-    Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­
-    darytoji taika.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
-- c-004
+- c-003
+  santrauka: 'Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Avignono 1325 m. sugrįžęs Rygos arki­
@@ -130,25 +117,10 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    žodžiuose, berods, atsispindi Gedimino anksčiau turėtos viltys,
-    kada jis, kreipdamasis į popiežių, buvo tikėjęsis, jog aukščiausias
-    Bažnyčios autoritetas sudraus ordiną. Avignone greičiausiai ne­
-    daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu
-    krikštijimo monopolį, kliudė Lietuvai užmegzti ryšius su krikščio­
-    niškomis valstybėmis. Iš Avignono 1325 m. sugrįžęs Rygos arki­
-    vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]

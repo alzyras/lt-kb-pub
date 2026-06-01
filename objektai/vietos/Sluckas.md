@@ -42,7 +42,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - t-003
   teiginys: 'Slucke buvo įkurta protestantų mokykla.'
   pagrindžia:
-    - c-011
+    - c-004
 
 - t-004
   teiginys: 'Slucke buvo įkurta jėzuitų kolegija, paremta sudėtine fundacija.'
@@ -57,12 +57,12 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - t-006
   teiginys: 'Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte.'
   pagrindžia:
-    - c-008
+    - c-001
 
 - t-007
   teiginys: 'Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-008
   teiginys: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
@@ -70,14 +70,9 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - c-002
 
 - t-009
-  teiginys: 'Tačiau šis karaliaus nurodymas gal taip greitai ne­ būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­ bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į Vilnių.'
-  pagrindžia:
-    - c-005
-
-- t-010
   teiginys: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   pagrindžia:
-    - c-007
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -97,6 +92,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-006
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -151,8 +147,10 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-005
+  santrauka: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miestiečiai prie jų
@@ -170,6 +168,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   statusas: verified
   pagrindžia:
     - t-009
+    - t-010
 
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -187,42 +186,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - t-005
 
 - c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Miestiečiai prie jų
-    dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė
-    imti po vieną pinigą kas dveji metai, arba po vieną akmenį
-    nuo kiekvieno vežimo, gabenančio javus ar kokius kitus pro­
-    duktus. Tačiau šis karaliaus nurodymas gal taip greitai ne­
-    būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
-    bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į
-    Vilnių. Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
-    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
-    limu, išmetę medinius statinius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-008
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1506 m. vasarą totoriai įsiveržė į LDK valdas
-    gerai nusiteikę. Prieš metus įvykęs jų žygis
-    leido jiems „smagintis“ Vilniaus ir Polocko,
-    Vitebsko ir Drucko, Naugarduko ir Slucko
-    apylinkėse - tikrajame LDK branduolyje,
-    tankiausiai apgyventame ir turtingiausiame
-    krašte. Totoriai neturėjo pagrindo įtarti, kad
-    sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, Lietuvos po-
@@ -241,36 +204,3 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, Lietuvos po-
-    nai, jo priešai, norėdami jį
-    pražudyti, grasino jam iš-
-    kelti bylą tarsi už Aleksan-
-    dro nužudymą. Visa tai
-    matydamas, jis sumanė už-
-    grobti kuo daugiausia Lie-
-    tuvos žemių ir pasiduoti Maskvos kunigaikščiui Vosyliui III
-    (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
-    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
-    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-011
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
-    žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
-    džios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų
-    šių mokyklų iš pradžių žymiausioji buvo vilniškė. Po protes-
-    tantų susidūrimų su katalikais, 1640 m. ji buvo panaikinta kartu su
-    kalvinų bažnyčia.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

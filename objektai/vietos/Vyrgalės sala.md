@@ -34,7 +34,7 @@ amziai:
 - t-002
   teiginys: 'Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -55,21 +55,4 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Situacija Kauno regione bei visoje
-    Lietuvoje ir toliau buvo labai sudėtinga.
-    Siekdamas atkurti gynybą Nemuno-
-    Neries-Nevėžio žiočių ruože, Kęstutis
-    statydino pilį Nevėžio žiočių Vyrgalės sa-
-    loje - Naująjį Kauną ir „tiltą per Nemuną“
-    (greičiausiai per Nemuno senvagę į salą).
-    Tiltas galuose turėjo du gynybinius bokš-
-    tus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

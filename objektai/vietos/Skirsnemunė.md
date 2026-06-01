@@ -37,7 +37,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 - t-002
   teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-003
   teiginys: 'Dėl vandens seklumo jie nuo Skirsnemunės nebegalėjo toliau plaukti, o Jogaila iš Dubysos žiočių salos, kur buvo atvykęs vėl su visa savo gimine, nutarė nesijudinti.'
@@ -47,22 +47,22 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 - t-004
   teiginys: 'Skirsnemunėje Švitrigaila sudarė sąjungą su ordinu ir sutiko atiduoti kryžiuočiams Palangą bei pajūrio ruožą.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
   teiginys: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo ją atlaikyti).'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
   teiginys: '1409 m. nuo Skirsnemunės pradėtos deginti kryžiuočių pilys, o kryžiuočiai buvo išvyti iš Žemaičių.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-007
   teiginys: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
-    - c-003
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -102,21 +102,6 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     - t-001
 
 - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Skirsnemunėje Švitrigaila ir Ordinas
-    patvirtino prieš metus pasirašytą sutartį,
-    taip pat Švitrigaila sustiprino ryšius su
-    Naugardu, Pskovu, Mozūrija, Odojevo ir
-    Tverės kunigaikščiais. Tuo tarpu Jogailos
-    Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kryžiuočiai, atslinkę prie Nemuno, tuojau
@@ -131,7 +116,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   pagrindžia:
     - t-005
 
-- c-005
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
@@ -150,8 +135,9 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   statusas: verified
   pagrindžia:
     - t-002
+    - t-007
 
-- c-006
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri or-
@@ -164,7 +150,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   pagrindžia:
     - t-004
 
-- c-007
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet
@@ -180,7 +166,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   pagrindžia:
     - t-006
 
-- c-008
+- c-007
   santrauka: 'Dėl vandens seklumo jie nuo Skirsnemunės nebegalėjo toliau plaukti, o Jogaila iš Dubysos žiočių salos, kur buvo atvykęs vėl su visa savo gimine, nutarė nesijudinti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

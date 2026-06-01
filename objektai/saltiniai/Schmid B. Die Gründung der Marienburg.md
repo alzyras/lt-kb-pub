@@ -23,13 +23,14 @@ Dusburgietis teigia, kad schmid B.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad schmid B.'
+  teiginys: 'B. Schmido „Die Gründung der Marienburg“ paskelbtas „Altpreussische Forschungen“ 1929 m. antrajame sąsiuvinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'B. Schmido „Die Gründung der Marienburg“ paskelbtas „Altpreussische Forschungen“ 1929 m. antrajame sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg

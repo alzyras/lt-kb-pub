@@ -26,13 +26,14 @@ Marijos Magdalenos baž­ nyčios, po dešine ranka Skapo gatvėje ant paties ka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Marijos Magdalenos baž­ nyčios, po dešine ranka Skapo gatvėje ant paties kampo esantį ir vadinamą Skapo vardu".'
+  teiginys: '1573 m. kunigaikštis Kristupas kapitulai perdavė Skapo vardu vadintą sklypą prie Šv. Marijos Magdalenos bažnyčios.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1573 m. kunigaikštis Kristupas kapitulai perdavė Skapo vardu vadintą sklypą prie Šv. Marijos Magdalenos bažnyčios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau 1573 metais

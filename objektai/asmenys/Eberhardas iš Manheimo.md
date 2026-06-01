@@ -28,13 +28,14 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė) Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė.'
+  teiginys: '1330 m. Rygos miestiečiai patikėjo miestą, šeimas, laisves ir privilegijas Livonijos magistrui Eberhardui iš Manheimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1330 m. Rygos miestiečiai patikėjo miestą, šeimas, laisves ir privilegijas Livonijos magistrui Eberhardui iš Manheimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     16. Apie Rygos miesto sugriovimą
@@ -58,5 +59,5 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Rygos miestiečiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

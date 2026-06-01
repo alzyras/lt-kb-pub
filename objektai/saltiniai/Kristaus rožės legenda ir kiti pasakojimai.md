@@ -17,13 +17,14 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Selmos Lagerlöf „Kristaus rožės legenda ir kiti pasakojimai“ buvo verstas J. T.'
+  teiginys: '„Kristaus rožės legenda ir kiti pasakojimai“ buvo Selmos Lagerlöf pasakojimų leidinys.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Kristaus rožės legenda ir kiti pasakojimai“ buvo Selmos Lagerlöf pasakojimų leidinys.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     3. Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­

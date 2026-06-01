@@ -28,13 +28,14 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­ medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
+  teiginys: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
@@ -62,3 +63,4 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 - [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
 - [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]
 - [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Žemaičiai]]

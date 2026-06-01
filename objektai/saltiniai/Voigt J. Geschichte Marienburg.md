@@ -25,13 +25,14 @@ Dusburgietis teigia, kad voigt J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad voigt J.'
+  teiginys: 'J. Voigto „Geschichte Marienburg“ išleista Karaliaučiuje 1824 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Voigto „Geschichte Marienburg“ išleista Karaliaučiuje 1824 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Voigt J. Geschichte Marienburg.— Königsberg, 1824.

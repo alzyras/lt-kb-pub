@@ -32,7 +32,7 @@ tags:
 - t-003
   teiginys: '1922 metų rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė komisiją būsimam Klaipėdos krašto statutui svarstyti.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -68,19 +68,6 @@ tags:
     jekto svarstymuose, kurių metu paaiškėjo, kad krašto prijun-
     gimas prie Lietuvos galėjo būti viena iš to projekto priėmimo
     perspektyvų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Klaipėdos krašto klausimas buvo iškeltas ir Hymanso pro-
-    jekto svarstymuose, kurių metu paaiškėjo, kad krašto prijun-
-    gimas prie Lietuvos galėjo būti viena iš to projekto priėmimo
-    perspektyvų.
     **Klaipėdos krašto prisijungimas prie Lietuvos.** 1922 metų
     rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė
     komisiją būsimam Klaipėdos krašto statutui svarstyti.
@@ -89,3 +76,4 @@ tags:
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001

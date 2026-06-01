@@ -32,7 +32,7 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
     - c-001
 
 - t-002
-  teiginys: 'Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­ dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­ šėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo ir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę.'
+  teiginys: 'Prūsai vokiečiams priešinosi puldami ir degindami ordino pilis bei vokiečių kolonistų sodybas.'
   pagrindžia:
     - c-002
 
@@ -40,6 +40,11 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
   teiginys: 'Visą savo nukariautą kraštą ordinas vadino Prūsais, nors prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino pavergtos.'
   pagrindžia:
     - c-003
+
+- t-004
+  teiginys: 'Prūsuose Vytautas išmoko vokiečių kalbos, kryžiuočių disciplinos, administracijos ir karo mokslų.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -59,6 +64,7 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
     - t-001
 
 - c-002
+  santrauka: 'Prūsai vokiečiams priešinosi puldami ir degindami ordino pilis bei vokiečių kolonistų sodybas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir
@@ -90,7 +96,7 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
     - t-003
 
 - c-004
-  santrauka: 'Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­ dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­ šėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo ir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę.'
+  santrauka: 'Prūsuose Vytautas išmoko vokiečių kalbos, kryžiuočių disciplinos, administracijos ir karo mokslų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tas kraštas jį ir politiškai iš­

@@ -28,7 +28,7 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juk randama, kad Vilniaus kapitulai 1390 metais Vladislovo Jo­ gailos duotoje privilegijoje, kuria do­ vanojami Paneriai, Vilija yra pava­ dinta Vigilia: obstaculum in superiori parte nostri obstaculi, in fluvio Vigilia situati [aukštutinėje dalyje mūsų už­.'
+  teiginys: '1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai Vilija buvo pavadinta Vigilia.'
   pagrindžia:
     - c-001
 
@@ -38,18 +38,19 @@ amziai:
     - c-004
 
 - t-003
-  teiginys: 'Tad, manau, jog lietuviai seniau vadino Vilija, Neris arba Neria to­ dėl, kad ši upė išrausė sau gilią va­ gą, suformuodama aukštas smėlin­ gas pakrantes.'
+  teiginys: 'Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Upė Nerige, dažnai minima senovi­ niame Lietuvos kelių aprašyme, esančiame Kryžiuočių archyve, yra dabartinė Vilija.'
+  teiginys: 'Kryžiuočių archyvo senajame Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai Vilija buvo pavadinta Vigilia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet jeigu upei Vili­
@@ -76,6 +77,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Kryžiuočių archyvo senajame Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anksčiau kitaip
@@ -100,6 +102,7 @@ amziai:
     - t-004
 
 - c-003
+  santrauka: 'Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau gali būti dar vie­

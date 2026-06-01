@@ -69,5 +69,4 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]

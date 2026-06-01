@@ -29,7 +29,7 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dalyvaujant didžiai gerbiamiems Kristu­ je tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­ lovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui Hlebavičiui, Naugarduko vaivadai Stanislovui.'
+  teiginys: 'Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų.'
   pagrindžia:
     - c-002
 
@@ -39,13 +39,14 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
     - c-003
 
 - t-003
-  teiginys: 'Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o pas­ kui jėzuitų, apie 1580 metus klestėjo: evangelikų reformatų - Danieliaus iš Lenčicos, globojama Minsko kašteliono Jono Hlebavičiaus bei Jono Karcano69, ir Kasparo Vilkovskio.'
+  teiginys: 'Minsko kaštelionas Jonas Hlebavičius apie 1580 m. globojo Danieliaus iš Lenčicos evangelikų reformatų spaustuvę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Minsko kaštelionas Jonas Hlebavičius apie 1580 m. globojo Danieliaus iš Lenčicos evangelikų reformatų spaustuvę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar prieš įžengiant karaliui Steponui į sostą, Lie­
@@ -67,6 +68,7 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
     - t-003
 
 - c-002
+  santrauka: 'Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota Vilniuje, penktadienį, rytojaus dieną po

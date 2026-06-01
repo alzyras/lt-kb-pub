@@ -52,4 +52,3 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Henrikas iš Plockės]]
-- [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]

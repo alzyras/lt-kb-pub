@@ -28,13 +28,14 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu.'
+  teiginys: 'Arkikomtūras Redigeris Elneris su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Arkikomtūras Redigeris Elneris su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­

@@ -36,7 +36,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 - t-002
   teiginys: 'Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos.'
   pagrindžia:
-    - c-008
+    - c-002
 
 - t-003
   teiginys: 'XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.'
@@ -98,6 +98,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   statusas: verified
   pagrindžia:
     - t-007
+    - t-002
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -170,18 +171,3 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   statusas: verified
   pagrindžia:
     - t-008
-
-- c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Viena priežasčių, dėl kurių Ispanija
-    ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
-    Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekono-
-    mikos. Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-
-    sėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
-    žygio Ispanija nekartojo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002

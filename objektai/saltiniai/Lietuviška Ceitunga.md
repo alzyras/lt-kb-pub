@@ -18,18 +18,19 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė tautiškus lietuvių reikalus, o nuo 1878 m. Šerno redaguojamoji „Lietuviška Ceitunga" net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat, joje buvo pradėję rašyti ir.'
+  teiginys: 'Nuo 1878 m. Šerno redaguojama „Lietuviška Ceitunga“ skelbė bendrumą su Didžiosios Lietuvos lietuviais.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Lietuviška Ceitunga: bet prieš radikalųjį jos tautiškumą kilo nepasitenkinimas, ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be jokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš- čių panašūs bandymai.'
+  teiginys: 'Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šerno redaguojamoji „Lietuviška Ceitunga"
@@ -46,6 +47,7 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
     - t-002
 
 - c-002
+  santrauka: 'Nuo 1878 m. Šerno redaguojama „Lietuviška Ceitunga“ skelbė bendrumą su Didžiosios Lietuvos lietuviais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vėliau

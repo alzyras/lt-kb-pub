@@ -17,13 +17,14 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.'
+  teiginys: 'Bagrationovskas anksčiau vadintas Prūsų Ylava.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bagrationovskas anksčiau vadintas Prūsų Ylava.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Bačkininkėliai

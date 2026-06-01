@@ -25,13 +25,14 @@ Koneczny : Jagiełło i Witołd, Lwów 1893, 147-149 p. rimtai svarstomas, rodė
 ## Teiginiai
 
 - t-001
-  teiginys: 'Koneczny : Jagiełło i Witołd, Lwów 1893, 147-149 p. rimtai svarstomas, rodė karaliaus pažadas besibaiminančiam Skir­ gailai — niekados niekam, «net savo broliui », neatiduoti Vilniaus ir kitų Lietuvos miestų.'
+  teiginys: 'F. Koneczny veikalas „Jagiełło i Witołd“ buvo išleistas Lvove 1893 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'F. Koneczny veikalas „Jagiełło i Witołd“ buvo išleistas Lvove 1893 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kad šitokis projektas buvo

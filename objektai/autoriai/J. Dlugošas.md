@@ -35,7 +35,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - t-002
   teiginys: 'Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, atvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-003
   teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais.'
@@ -55,7 +55,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - t-006
   teiginys: 'J. Dlugošas tvirtino, kad Vilniaus Žemutinės pilies dvejus vartus padegė kažkurie iš apgultųjų.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-007
   teiginys: 'Dlugošas mini, kad priešas, jau manęs esąs saugus, viename miške buvo apsuptas ir užblokuotas medžių užtvaromis, ir iš už jų priedangos gausiai strėlėmis apšaudomas, buvo priverstas pasiduoti.'
@@ -63,29 +63,24 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-004
 
 - t-008
-  teiginys: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
+  teiginys: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
   pagrindžia:
-    - c-011
+    - c-010
 
 - t-009
   teiginys: 'J. Dlugošas nurodė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-010
   teiginys: 'Šiame leidinyje J. Dlugošo raštai naudojami aprašant Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes.'
   pagrindžia:
     - c-002
 
-- t-011
-  teiginys: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
-  pagrindžia:
-    - c-012
-
 - t-012
   teiginys: 'Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“ VYTAUTAS RIKIUOJA PULKUS Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė.'
   pagrindžia:
-    - c-007
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -141,6 +136,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   statusas: verified
   pagrindžia:
     - t-003
+    - t-012
 
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -203,28 +199,6 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik
-    didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“
-
-    VYTAUTAS RIKIUOJA PULKUS
-
-    Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė
-    lietuvių kariuomenę:
-
-    „Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename
-    pulke raitelius ant žemesnių arklių arba pernelyg menkai apsiginklavusius sustatė viduryje,
-    o juos supo kiti, jojantys ant stipresnių žirgų ir puikiai ginkluoti. Ir tokiu būdu suglaudus
-    ir subūrus pulkus buvo išvengta gretų retumo, o vienas pulkas už kito išsitęsęs per savo
-    plotį užėmė nustatyto ilgio tarpą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-008
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
     Raitelio
     pėdas saugo metaliniai antbačiai —
     sabatonai. Aukštesnio rango kariai
@@ -249,7 +223,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   pagrindžia:
     - t-002
 
-- c-009
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, regis, toks stai­
@@ -271,7 +245,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   pagrindžia:
     - t-009
 
-- c-010
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     29
@@ -289,7 +263,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   pagrindžia:
     - t-006
 
-- c-011
+- c-010
+  santrauka: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Strijkovskis yra pasakęs, kad Gedimino pa­
@@ -306,23 +281,6 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   statusas: verified
   pagrindžia:
     - t-008
-
-- c-012
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nors Strijkovskis yra pasakęs, kad Gedimino pa­
-    laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,
-    žinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­
-    mino kalne, manytume greičiau jį esant čia palaidotą. Rau­
-    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
-    Kai dėl rūšies ginklo, nuo kurio žuvo
-    Gediminas: Dlugošas Lib. IX,
-    p. 923, nurodo, kad buvo ugninės
-    strėlės pervertas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-011
 
 ## Ryšiai
@@ -340,5 +298,4 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Dobeslavas Skoračevskis]]
-- [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

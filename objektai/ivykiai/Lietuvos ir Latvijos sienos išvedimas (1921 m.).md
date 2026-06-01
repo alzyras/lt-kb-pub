@@ -130,4 +130,3 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/gubernija]]
-- [[objektai/zodynas/etnografinė siena]]

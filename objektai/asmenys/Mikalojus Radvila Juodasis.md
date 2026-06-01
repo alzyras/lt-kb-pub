@@ -33,42 +33,42 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - t-001
   teiginys: 'Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
   pagrindžia:
-    - c-010
+    - c-006
 
 - t-002
   teiginys: 'Mikalojaus Radvilos Juodojo šarvų viršutinė dalis buvo pagaminta Niurnberge apie 1555 m.'
   pagrindžia:
-    - c-002
+    - c-007
 
 - t-003
-  teiginys: 'Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos, vadinamo Juoduoju.'
+  teiginys: 'Vilniaus vaivada Mikalojus Radvila Juodasis stipriai palaikė Vilniuje įsišaknijusį Martyno Liuterio ir Cvinglio mokslą.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Mikalojus Radvila Juodasis nuo 1541 metų iš kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
+  pagrindžia:
+    - c-006
+
+- t-005
+  teiginys: 'Žygimantas rašte pabrėžė Mikalojaus Radvilos Juodojo ištikimą tarnystę karo ir taikos metu bei nuopelnus Respublikai.'
   pagrindžia:
     - c-004
 
-- t-004
-  teiginys: 'Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį.'
-  pagrindžia:
-    - c-008
-
-- t-005
-  teiginys: 'Šiuo raštu skelbiame visiems ir kiekvienam, kam dabar ar ateityje derės žinoti, kad atidžiau žvelgdami į praeitį ir teisingomis proto svarstyklėmis pa­ sverdami ištikimą tarnystę karo ir taikos metu, kuria švie­ susis ir prakilnusis ponas Mikalojus Radvila.'
-  pagrindžia:
-    - c-005
-
 - t-006
-  teiginys: 'Taigi, išreikšdami jam didžiau­ sią mūsų palankumą, už akivaizdžius jo nuopelnus Respub­ likai ir jos valdovams, už tai, kad Radvilų šeima visada buvo labiausiai pasišventusi Respublikai ir vadovams, mes nu­ sprendėme jį - kurio pastovia ištikimybe jau nuo jo.'
+  teiginys: 'Mikalojui Radvilai Juodajam ir jo teisėtiems Nesvyžiaus kunigaikščių įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.'
   pagrindžia:
-    - c-007
+    - c-002
 
 - t-007
   teiginys: 'Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.'
   pagrindžia:
-    - c-012
+    - c-008
 
 - t-008
   teiginys: 'Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-010
   teiginys: 'Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.'
@@ -76,14 +76,14 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     - c-001
 
 - t-011
-  teiginys: 'Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­ vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas, vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­ muotą bažnyčią, buvusią savo namuose, uždarė, o savo spaustuvę, seniau skelbusią.'
+  teiginys: 'Mikalojus Radvila Juodasis iš pradžių galingai palaikė disidentų pusėje veikusį Volaną.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-012
   teiginys: 'Mikalojui Radvilai Juodajam ir jo teisėtiems Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -103,30 +103,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     - t-010
 
 - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    gaminti Niunberge meistro
-    Kunzo Lochnerio, XVI a.
-    6 dešimtmetyje
-
-    ## Puslapis 89
-
-    Viršutinė Lietuvos didžiojo kanclerio ir
-    maršalkos Mikalojaus Radvilos Juodojo
-    šarvų dalis, pagaminta Niurnberge, meis-
-    tro Kunzo Lochnerio, apie 1555 m.
-
-    Žygimanto Augusto pistoletas su
-    ratukine spyna (Puffer) su Lenkijos
-    ereliu ir raide S (Sigismundus)
-    Vokietija, XVI a. trečiasis ketvirtis
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -161,8 +137,10 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   statusas: verified
   pagrindžia:
     - t-012
+    - t-006
 
-- c-004
+- c-003
+  santrauka: 'Vilniaus vaivada Mikalojus Radvila Juodasis stipriai palaikė Vilniuje įsišaknijusį Martyno Liuterio ir Cvinglio mokslą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Viklifo sekėjas buvo ekskomuni­
@@ -207,7 +185,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
+  santrauka: 'Žygimantas rašte pabrėžė Mikalojaus Radvilos Juodojo ištikimą tarnystę karo ir taikos metu bei nuopelnus Respublikai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Testantur id multae bellorum occasio­
@@ -255,7 +234,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   pagrindžia:
     - t-005
 
-- c-006
+- c-005
+  santrauka: 'Mikalojus Radvila Juodasis iš pradžių galingai palaikė disidentų pusėje veikusį Volaną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto
@@ -277,43 +257,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   pagrindžia:
     - t-011
 
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IV KNYGA
-    didžiai nusipelnė mums ir Respublikai ir prie buvusių nuo­
-    pelnų pridėjo daugybę naujų. Taigi, išreikšdami jam didžiau­
-    sią mūsų palankumą, už akivaizdžius jo nuopelnus Respub­
-    likai ir jos valdovams, už tai, kad Radvilų šeima visada buvo
-    labiausiai pasišventusi Respublikai ir vadovams, mes nu­
-    sprendėme jį - kurio pastovia ištikimybe jau nuo jo jaunys­
-    tės laikų rėmėmės ir vėliau bet kokiu atveju tikimės remtis -
-    ir jo įpėdinius apdovanoti ypatingos malonės ženklu. Todėl
-    savo valia, karališkąja valdžia, kunigaikščio pastovia ir am­
-    žina galia duodame ir suteikiame tam pačiam anksčiau pa­
-    minėtam šviesiajam ir didingajam ponui Mikalojui Radvi­
-    lai, Olykos ir Nesvyžiaus kunigaikščiui, Vilniaus vaivadai,
-    mūsų didžiajam maršalkai ir kancleriui, ir visiems po jo bū­
-    siantiems Nesvyžiaus kunigaikščiams, teisėtiems jo įpėdi­
-    niams, pilną teisę, visišką ir tvirtą valdžią ir galią, visas ir
-    pavienes mūsų Lietuvos Kunigaikštystės privilegijas, lais­
-    ves ir imunitetus bei bet kokias malones ir prerogatyvas,
-    egzistuojančias toje pačioje Lietuvos Kunigaikštystėje, turė­
-    ti, naudotis, visiems laikams išsaugoti ir išlaikyti; tas [privi­
-    legijas], kurios bet kokiu būdu ir bet kada anksčiau švie­
-    siausiųjų ir prakilniausiųjų karalių ir didžiųjų kunigaikščių,
-    mūsų pirmtakų ponų Vladislovo, Žygimanto, Kazimiero,
-    Aleksandro ir vėl Žygimanto kadaise buvo duotos, pripa­
-    žintos ir mūsų ratifikuotos, patvirtintos ir taip pat mūsų ka­
-    raliaus ir kunigaikščio pasižadėjimu ir autoritetu atnaujin­
-    tos ir atgaivintos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-008
+- c-006
+  santrauka: 'Mikalojus Radvila Juodasis nuo 1541 metų iš kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O Jurgio brolis, kunigaikštis Mi­
@@ -341,61 +286,9 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-009
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    gaminti Niunberge meistro
-    Kunzo Lochnerio, XVI a.
-    6 dešimtmetyje
-
-    ## Puslapis 89
-
-    Viršutinė Lietuvos didžiojo kanclerio ir
-    maršalkos Mikalojaus Radvilos Juodojo
-    šarvų dalis, pagaminta Niurnberge, meis-
-    tro Kunzo Lochnerio, apie 1555 m.
-
-    Žygimanto Augusto pistoletas su
-    ratukine spyna (Puffer) su Lenkijos
-    ereliu ir raide S (Sigismundus)
-    Vokietija, XVI a. trečiasis ketvirtis
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O Jurgio brolis, kunigaikštis Mi­
-    kalojus Kristupas, Lietuvos Didžio­
-    sios Kunigaikštystės rūmų maršalka,
-    tapo savininku namų, vadintų Filipo-
-    vo namais, susidedančių iš keleto
-    medinių, moliu aplipdytų, pastatų,
-    užimančių dabartinį Kardinalijos
-    sparną nuo Didžiosios gatvės. Tą Fi-
-    lipovo namą kunigaikščio Kristupo
-    tėvas Mikalojus Radvila Juodasis,
-    Vilniaus vaivada, Lietuvos kancleris,
-    nuomojo iš kapitulos pagal sutartį
-    nuo 1541 metų ir kasmet mokėjo po
-    20 kapų lietuviškų grašių dėl to, kad
-    sujungęs su savo namu, turėtų erd­
-    vesnį būstą. Šis činšas buvo mokamas
-    vienuolika metų, bet paskui liautasi
-    mokėti, ir kapitula su kunigaikščiu
-    Kristupu pradėjo teismo procesą dėl
-    Filipovo namo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-011
+- c-007
   santrauka: 'Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -422,8 +315,10 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   statusas: verified
   pagrindžia:
     - t-009
+    - t-002
+    - t-008
 
-- c-012
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Ra-
@@ -462,6 +357,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Radvilų giminė]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
 - [[objektai/grupes/Vilniaus reformatai ir disidentai]]

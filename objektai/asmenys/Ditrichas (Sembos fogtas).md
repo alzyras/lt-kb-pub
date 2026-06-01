@@ -32,24 +32,24 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 217 Fogtu buvo 1278—1292 m. 218 D.'
+  teiginys: 'Ditrichas Sembos fogtu buvo 1278-1292 m.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene į kitą Nemuno krantą, tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių.'
   pagrindžia:
-    - c-004
+    - c-008
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
+  teiginys: 'Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
@@ -62,9 +62,9 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - c-001
 
 - t-008
-  teiginys: 'Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus; šitai nepatiko nei.'
+  teiginys: 'Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.'
   pagrindžia:
-    - c-008
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -118,26 +118,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-006
 
 - c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pasikliaudamas viešpačiu, žmogus drįsta imtis sunkių, rodos, jo prigimčiai tiesiog
-    neįmanomų dalykų, kai iš tam tikrų apraiškų bei požymių jaučia, jog dievas jam palankus.
-    Todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene  į kitą Nemuno krantą,
-    tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir
-    nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių paėmęs į nelaisvę,
-    o kitus išžudęs.
-
-
-
-
-                     184 (179).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-005
+  santrauka: 'Ditrichas Sembos fogtu buvo 1278-1292 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     217 Fogtu buvo 1278—1292 m.
@@ -149,7 +130,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   pagrindžia:
     - t-002
 
-- c-006
+- c-005
+  santrauka: 'Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
@@ -166,7 +148,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   pagrindžia:
     - t-005
 
-- c-007
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     190 (185). Apie daugybės pagudėnų išžudymą
@@ -180,7 +162,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   pagrindžia:
     - t-004
 
-- c-008
+- c-007
+  santrauka: 'Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai  broliai rengėsi  pulti anksčiau minėtąją Gardino  pilį, kurie ne kurie  bartai,
@@ -199,7 +182,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   pagrindžia:
     - t-008
 
-- c-009
+- c-008
   santrauka: 'Dusburgietis teigia, kad todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene į kitą Nemuno krantą, tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -221,6 +204,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   statusas: verified
   pagrindžia:
     - t-009
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -240,7 +224,5 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - [[objektai/zodynas/magistras]]
 - [[objektai/posakiai/Atėjo baisenybė, kurios bijojau]]
 - [[objektai/asmenys/Derska]]
-- [[objektai/ivykiai/Ketvirtosios atskalūnybės sąmokslas]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams]]

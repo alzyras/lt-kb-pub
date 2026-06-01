@@ -29,13 +29,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Čia 1448 metais su Prūsijos ordinu su­ daryta37 garsi sutartis, o po dvidešimties metų (1468 me­ tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise įžūliai griovė, žemai lenkėsi prieš.'
+  teiginys: 'Henrikas Plauenas 1468 m. Vilniuje lenkėsi prieš Kazimiero Jogailaičio sostą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Henrikas Plauenas 1468 m. Vilniuje lenkėsi prieš Kazimiero Jogailaičio sostą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia, Vilniuje (1443 metais), totorių pasiuntinių
@@ -63,5 +64,4 @@ periodo_grupes:
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]

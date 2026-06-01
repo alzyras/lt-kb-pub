@@ -20,13 +20,14 @@ Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse šalyse.'
+  teiginys: 'Lenkijos bajorai Varkoje nutarė siųsti pasiuntinius pas Švitrigailą reikalauti išlaisvinti karalių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkijos bajorai Varkoje nutarė siųsti pasiuntinius pas Švitrigailą reikalauti išlaisvinti karalių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kai ši jo nelaisvė gana ilgai užsi­
@@ -49,4 +50,6 @@ Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia
 ### Susiję objektai
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

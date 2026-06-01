@@ -25,13 +25,14 @@ C z a c k i Rozpra­ wa o żydach, p. 107, Vilniuje, Zavadzkio sp., 1807.
 ## Teiginiai
 
 - t-001
-  teiginys: 'C z a c k i Rozpra­ wa o żydach, p. 107, Vilniuje, Zavadzkio sp., 1807.'
+  teiginys: 'T. Czackio veikalas „Rozprawa o żydach“ 1807 m. buvo išspausdintas Vilniuje, Zavadzkio spaustuvėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'T. Czackio veikalas „Rozprawa o żydach“ 1807 m. buvo išspausdintas Vilniuje, Zavadzkio spaustuvėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Reikšminga pergalė prie Griunvaldo pirmą kar­

@@ -32,7 +32,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Zigmantas Vaza ir jo valdymas 298.'
+  teiginys: 'Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m.'
   pagrindžia:
     - c-005
 
@@ -144,6 +144,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - t-005
 
 - c-005
+  santrauka: 'Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Zigmanto Vazos laikai (1588—1632 m.)
@@ -236,7 +237,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 - [[objektai/grupes/Protestantai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/ivykiai/Zigmanto Vazos elekcija (1587 m.)]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/statutas]]

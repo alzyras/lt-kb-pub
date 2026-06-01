@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '28 Kaip matyti iš Metrikos sąrašo, Lie­ tuvos Metrikoje buvo: Listy na plac goły, które Król Zygmunt od niektóre­ go Zawiszy, do Apteki zbudowania w Wilnie, za sześć seth y sześć kop kupił, około roku 1510 [Raštai tuščiam skly­ pui, kurį karalius Žygimantas.'
+  teiginys: 'Lietuvos Metrikos sąraše buvo raštai apie sklypą, kurį karalius Žygimantas apie 1510 m. nupirko Vilniaus vaistinės statybai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos Metrikos sąraše buvo raštai apie sklypą, kurį karalius Žygimantas apie 1510 m. nupirko Vilniaus vaistinės statybai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmoji iki šiol žinoma Vilniuje

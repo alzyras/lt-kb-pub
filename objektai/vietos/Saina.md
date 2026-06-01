@@ -25,7 +25,7 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad — der Sainen; dab.'
+  teiginys: 'Saina, dar vadinama Sajna, yra kairysis Gubros intakas.'
   pagrindžia:
     - c-002
 
@@ -49,6 +49,7 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
     - t-001
 
 - c-002
+  santrauka: 'Saina, dar vadinama Sajna, yra kairysis Gubros intakas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     593 D.— Says, Jer. — der Sainen; dab. Saina (Sajna), kair. Gubros (Guberio) intakas

@@ -26,18 +26,19 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.'
+  teiginys: 'Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen, o prie Didlovos - Kreywutschen.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu.'
+  teiginys: 'Auksinės apylinkės siejamos su pagonišku kultu, remiantis vietovardžiais Juodkapis, Sernupė ir galbūt Auksinės upės vardu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen, o prie Didlovos - Kreywutschen.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.
@@ -54,6 +55,7 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
     - t-001
 
 - c-002
+  santrauka: 'Auksinės apylinkės siejamos su pagonišku kultu, remiantis vietovardžiais Juodkapis, Sernupė ir galbūt Auksinės upės vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu. Tai rodytų ir Auksinės

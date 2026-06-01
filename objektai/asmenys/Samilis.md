@@ -24,13 +24,14 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių, jei nebūtų spėjęs ateiti su pagalba vienas Pamedės.'
+  teiginys: 'Pamedės kilmingasis Samilis, Tusino tėvas, padėjo badaujančiai Kristburgo piliai ir slapta gerbė tikėjimą bei brolius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pamedės kilmingasis Samilis, Tusino tėvas, padėjo badaujančiai Kristburgo piliai ir slapta gerbė tikėjimą bei brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
@@ -67,7 +68,3 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas]]

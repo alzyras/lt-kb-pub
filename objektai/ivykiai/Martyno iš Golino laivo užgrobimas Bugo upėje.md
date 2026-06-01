@@ -37,27 +37,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tą patį Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui ir prikrautą prekių laivą, paskui kurį slaptai ir leidosi; kai.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs
-    per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui
-    ir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė
-    pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
-    laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
-    po 20 markių dalies.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     229 (224). Apie tą patį

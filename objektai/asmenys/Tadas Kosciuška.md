@@ -61,17 +61,17 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     - c-001
 
 - t-007
-  teiginys: 'Gimęs Lenkijos-Lie­ tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­ tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­ lų, M.'
+  teiginys: 'Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse.'
   pagrindžia:
     - c-003
 
 - t-008
-  teiginys: 'Tadas Kosciuška: kosciuška, norėdamas sukelti valstiečius, išleido atsišau- kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų).'
+  teiginys: 'Tadas Kosciuška, norėdamas sukelti valstiečius, leido atsišaukimus, žadėdamas laisvę prisidėjusiems prie sukilimo.'
   pagrindžia:
     - c-008
 
 - t-009
-  teiginys: 'Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, Jurgio Vašingtono draugas, 1794 m. suki- limo vadas, 1794—1796 m. Rusų belaisvis († 1817 m.).'
+  teiginys: 'Tadas Kosciuška pasižymėjo Amerikos nepriklausomybės kovose, buvo Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas.'
   pagrindžia:
     - c-006
 
@@ -105,6 +105,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     - t-001
 
 - c-003
+  santrauka: 'Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas Berenis
@@ -159,6 +160,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     - t-004
 
 - c-006
+  santrauka: 'Tadas Kosciuška pasižymėjo Amerikos nepriklausomybės kovose, buvo Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tadas Kosciuška,
@@ -197,6 +199,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     - t-005
 
 - c-008
+  santrauka: 'Tadas Kosciuška, norėdamas sukelti valstiečius, leido atsišaukimus, žadėdamas laisvę prisidėjusiems prie sukilimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Veikiai prie
@@ -231,7 +234,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Gardino seimas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]

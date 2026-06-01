@@ -45,39 +45,13 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po Gegužės trečiosios konstitucijos gegužės 16 d. priimtas įstatymas numatė kiekvieną trečią seimą Gardine ir atskiras Lietuvos atstovų sesijas.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Minimi ne tik bendri valdovai, bet ir Lietuvos didysis kuni-
-    gaikštis Vytautas ir jo privilegijos Lietuvos bajorams.
-    Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose
-    Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stipri-
-    nimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų). Gegužės
-    16 dieną buvo priimtas įstatymas dėl kiekvieno trečio seimo Gardine
-
-    L I E T U V O S  I S T O R I J A
-    92
-    ir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių
-    Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda
-    komisijų įvardijimuose, atskirai vyksta kodifikacijos darbai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -95,17 +69,14 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/daiktai/Karūna]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/autoriai/Tadas Korsakas]]
 - [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]

@@ -19,13 +19,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Švitrigai­ la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį, įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­ no.'
+  teiginys: 'Švitrigaila įsakė Vitebske nuo aukšto skardžio įmesti Alšėnų kunigaikštį į Dviną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švitrigaila įsakė Vitebske nuo aukšto skardžio įmesti Alšėnų kunigaikštį į Dviną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Abu jie niokojo

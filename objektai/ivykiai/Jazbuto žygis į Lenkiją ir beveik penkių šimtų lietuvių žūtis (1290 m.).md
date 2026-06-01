@@ -47,13 +47,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo šią vietą, voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia 530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok.'
+  teiginys: 'Grįžtančią lietuvių kariuomenę tarp Luko ir Narevo užpuolė broliai, nukovę 350 žmonių; kiti žuvo dykroje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Grįžtančią lietuvių kariuomenę tarp Luko ir Narevo užpuolė broliai, nukovę 350 žmonių; kiti žuvo dykroje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie, nužygiavę  į dykras, plytinčias tarp dviejų

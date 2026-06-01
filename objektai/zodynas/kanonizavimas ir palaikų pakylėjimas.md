@@ -24,13 +24,14 @@ Stanislo­ vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­ lyvavu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Stanislo­ vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­ lyvavusių buvęs Lietuvos vyskupas Vitas, dominikonas.'
+  teiginys: '1254 m. gegužės 8 d. Lietuvos vyskupas Vitas dalyvavo Krokuvoje skelbiant šv. Stanislovo kanonizavimą ir palaikų pakylėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1254 m. gegužės 8 d. Lietuvos vyskupas Vitas dalyvavo Krokuvoje skelbiant šv. Stanislovo kanonizavimą ir palaikų pakylėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lap. 245, tų pačių Didžiojoje Lenkijoje
@@ -46,4 +47,7 @@ Stanislo­ vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­ lyvavu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Vitas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Dominikonų ordinas]]

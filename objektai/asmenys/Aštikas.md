@@ -25,13 +25,14 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
 ## Teiginiai
 
 - t-001
-  teiginys: 'Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny­ bei ir pritariantiems: Vilniaus kašte­ lionui Aštikui, Vilniaus vaivadai Daugirdui, Trakų vaivadai Leliušiul, Kęsgailai iš Deltuvos, Petraš­ kai Montgirdaičiui, Chodkai.'
+  teiginys: '1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lelus-
@@ -68,3 +69,4 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
 ### Susiję objektai
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/kaštelionas]]

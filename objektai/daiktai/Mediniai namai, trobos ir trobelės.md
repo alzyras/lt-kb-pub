@@ -40,18 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo metu poreikis turėti savą gynybą ir per ne­ paliaujamus karus pažintis su kaimyninėmis šalimis, jau atsikračiusiomis netašyto barbariškumo, davė pradžią rastis Lietuvos žemėje medinėms pilims ir tvirtovėms.'
+  teiginys: 'XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Bet labai tikėtina, kad nuo seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­ kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų, supančių Vilnios srovę, būta medinės tvirtovės6.'
+  teiginys: 'Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     17
@@ -76,6 +77,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
@@ -101,7 +103,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Mediniai namai]]
-- [[objektai/daiktai/Medinės ir mūrinės pilys kaip fortifikacijos]]
-- [[objektai/daiktai/Medinės pilys ir tvirtovės]]
 - [[objektai/daiktai/Medžioklių trobelės]]

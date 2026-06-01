@@ -41,12 +41,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad šitai pastebėję, prūsai smarkiai ir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę.'
   pagrindžia:
     - c-001
-    - c-003
-    - c-004
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad galop, atžygiavę prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai atkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais ir kitais.'
-  pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
@@ -71,36 +65,6 @@ Nenurodyta
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Galop, atžygiavę
-    prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
-    atkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
-    neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais. Vienas sūduvių
-    karys, stiprus vyras, leidosi paskui vieną krikščionę, kuri tuo metu spruko į pelkes; kai
-    jau ketino ją nužudyti, ši, užmiršusi savo lyties trapumą, drąsiai pasipriešino.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri
-    vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,
-    miestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo
-    lauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,
-    manydami, kad svetima kariuomenė bus pasitraukusi. Šitai pastebėję, prūsai smarkiai
-    ir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Po to priėjo Torunę ir sudegino
     ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę
     prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
@@ -114,5 +78,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Sūduviai]]
 - [[objektai/ivykiai/Kulmenzės javapjūtės žudynės]]

@@ -19,7 +19,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 ## Teiginiai
 
 - t-001
-  teiginys: 'Urėdas šiame tekste reiškia valdžios pareigybę.'
+  teiginys: 'Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu ir buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas.'
   pagrindžia:
     - c-001
 
@@ -29,13 +29,14 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - c-002
 
 - t-003
-  teiginys: 'Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekanclerio urėdas, nusileido ir prispaudė antspaudą.'
+  teiginys: 'Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu ir buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pirmas lenkų urėdas atsiradęs Lietuvoje vadinosi seniūnu
@@ -61,6 +62,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - t-002
 
 - c-003
+  santrauka: 'Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Abudu
@@ -75,7 +77,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - t-003
 
 - c-004
-  santrauka: 'Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekanclerio urėdas, nusileido ir prispaudė antspaudą.'
+  santrauka: 'Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Galingasis Radvila nenusileido.
@@ -112,3 +114,4 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 - [[objektai/zodynas/statuto dėsniai]]
 - [[objektai/paprociai/Pavietų ir vaivadijų bajorų seimeliai]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/zodynas/vaivada]]

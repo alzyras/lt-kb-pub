@@ -28,24 +28,19 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
+  teiginys: 'Abiejų Tautų Respublika per Gdanską į Amsterdamą aprūpino Vakarus javais.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-002
   teiginys: 'Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą.'
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Abiejų Tautų Respublika per Gdanską į Amsterdamą aprūpino Vakarus javais.'
-  pagrindžia:
-    - c-003
-
 - t-004
   teiginys: 'Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad išliko keletas kronikos rankraštinių ištraukų, saugotų Gdanske (XVI a.'
@@ -60,7 +55,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 - t-007
   teiginys: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
   pagrindžia:
-    - c-008
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -92,6 +87,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   statusas: verified
   pagrindžia:
     - t-006
+    - t-008
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -121,6 +117,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -135,62 +132,6 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - t-005
 
 - c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVI a. vidu-
-    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
-    valstybė – Abiejų Tautų Respublika. Paprastai moksle laikoma, kad ši
-    valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
-    mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
-    cija, demokratija, konstitucija, barokas. Taigi Abiejų Tautų Respublika:
-    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
-    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
-    bajoriškosios demokratijos tradiciją,
-    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
-    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
-    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
-    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
-    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
-    šventųjų, poetų, retorikų ir logikų tradicijas,
-    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
-    tūros mokyklą,
-    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
-    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
-    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVI a. vidu-
-    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
-    valstybė – Abiejų Tautų Respublika. Paprastai moksle laikoma, kad ši
-    valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
-    mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
-    cija, demokratija, konstitucija, barokas. Taigi Abiejų Tautų Respublika:
-    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
-    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
-    bajoriškosios demokratijos tradiciją,
-    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
-    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
-    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
-    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
-    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
-    šventųjų, poetų, retorikų ir logikų tradicijas,
-    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
-    tūros mokyklą,
-    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
-    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
-    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik tada Švitrigaila
@@ -209,7 +150,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   pagrindžia:
     - t-004
 
-- c-008
+- c-006
   santrauka: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -228,17 +169,3 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-009
-  santrauka: 'Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
-    kė pretenzijas į Švedijos sostą. Kova dėl Livonijos daugiausia buvo suin-
-    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
-    uostą. 1605 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008

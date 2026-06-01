@@ -54,4 +54,3 @@ amziai:
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Chudandachas]]
 - [[objektai/asmenys/Machmetas]]
-- [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]

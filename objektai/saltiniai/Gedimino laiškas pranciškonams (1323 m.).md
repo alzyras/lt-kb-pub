@@ -26,18 +26,19 @@ Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų
 ## Teiginiai
 
 - t-001
-  teiginys: 'Laišką, kai perskaitys ministras ir kustodai, prašom pa­ siųsti į kitą provinciją, o visi broliai nuoširdžiai tepasimel­ džia už karalių, jo vaikus ir karalienes, o taip pat už visą kraštą, kad viešpats užbaigtų tą [darbą], kurį jis pradėjo.'
+  teiginys: 'Gedimino laiške pranciškonų prašyta perskaičius jį siųsti į kitą provinciją ir melstis už karalių, jo šeimą bei kraštą.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų didžiai prakilniam viešpačiui Jonui, apašta­ liškojo sosto aukščiausiajam kunigui, kad jis padėtų mums drauge su kitomis savo avimis [įeiti] į gausumo ganyklą; tuo reikalu gavome atsakymą.'
+  teiginys: 'Gediminas laiške pranciškonams pranešė, kad kreipėsi į popiežių Joną ir laukė jo pasiuntinių atvykimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas laiške pranciškonams pranešė, kad kreipėsi į popiežių Joną ir laukė jo pasiuntinių atvykimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     3) Gediminas, dieviškąja apvaizda lietuvių ir rusų kara­
@@ -68,6 +69,7 @@ Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų
     - t-002
 
 - c-002
+  santrauka: 'Gedimino laiške pranciškonų prašyta perskaičius jį siųsti į kitą provinciją ir melstis už karalių, jo šeimą bei kraštą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šio antspaudo niekintojus ir teksto klastotojus šiuo laiš­

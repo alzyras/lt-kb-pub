@@ -27,13 +27,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1539 metais kardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri­ jonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkibrolija, o 1573 metų vasario 3 dieną, valdant Žygimantui Au­ gustui, buvo funduota arkikonfratrija ir tais pačiais metais lapkričio 27.'
+  teiginys: '1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę dėl Dievo Kūno arkibrolijos steigimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę dėl Dievo Kūno arkibrolijos steigimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išlikę
@@ -58,3 +59,4 @@ amziai:
 - [[objektai/grupes/Dievo Kūno arkibrolija]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]

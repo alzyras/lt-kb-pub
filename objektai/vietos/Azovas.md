@@ -19,13 +19,14 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais Gediminu ir Algirdu61, bemaž tuo metu užka­ riavęs neramias šios tautos ordas, buvo užėmęs ištisą jų ulusą, palikęs jiems valią išpažinti senąjį tikėjimą, davęs daug žemės valdų ir.'
+  teiginys: 'Vytautas prie Azovo buvo užėmęs ištisą ulusą ir jo žmonėms paliko teisę išpažinti senąjį tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas prie Azovo buvo užėmęs ištisą ulusą ir jo žmonėms paliko teisę išpažinti senąjį tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     142

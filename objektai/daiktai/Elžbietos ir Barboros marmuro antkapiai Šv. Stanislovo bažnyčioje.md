@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Italai, čia nuolat dirbdami šešerius metus, iš brangaus marmuro pastatė du puikius antkapius kara­ liaus žmonoms - Elžbietai ir Barborai Šv.'
+  teiginys: 'Italų meistrai per šešerius metus Šv. Stanislovo bažnyčioje pastatė marmuro antkapius Elžbietai ir Barborai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Italų meistrai per šešerius metus Šv. Stanislovo bažnyčioje pastatė marmuro antkapius Elžbietai ir Barborai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     — • —

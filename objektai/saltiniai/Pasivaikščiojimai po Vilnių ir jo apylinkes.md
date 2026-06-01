@@ -25,18 +25,19 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1859 m. išleistame vadove po Vilnių autorius Adomas Ho­ norijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas miestas jau turi savo istorikus.'
+  teiginys: 'Adomas Honorijus Kirkoras 1859 m. išleistame vadove po Vilnių rašė, kad miestas jau turi savo istorikus.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums brangių Kraševskio ir Balinskio veikalų apie Vilnių, Vilniaus universiteto profesoriaus Mykolo Homolickio mokslinių straips­ nių, Narbuto, Kraševskio ir Jaroševičiaus Lietuvos istorijų <...'
+  teiginys: 'Kirkoras „Pasivaikščiojimuose po Vilnių ir jo apylinkes“ rėmėsi Kraševskio ir Balinskio veikalais apie Vilnių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Adomas Honorijus Kirkoras 1859 m. išleistame vadove po Vilnių rašė, kad miestas jau turi savo istorikus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1859 m. išleistame vadove po Vilnių autorius Adomas Ho­
@@ -53,6 +54,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Kirkoras „Pasivaikščiojimuose po Vilnių ir jo apylinkes“ rėmėsi Kraševskio ir Balinskio veikalais apie Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums

@@ -52,21 +52,6 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
-    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
-    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
-    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
-      Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
-    Henriko VI laikais (Dusb. I, 2).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -82,6 +67,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

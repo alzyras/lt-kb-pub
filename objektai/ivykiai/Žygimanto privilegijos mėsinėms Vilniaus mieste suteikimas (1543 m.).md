@@ -42,18 +42,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo.'
+  teiginys: '1543 m. privilegija leido Vilniaus vyskupui Povilui bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo Vilniaus turguje.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Visiems ir kiekvienam nurodome ir griežtai įsakome, kad saviems pi­ liečiams ir visiems Vilniaus miesto gyventojams ateiti į bet kurias minėtojo pono vyskupo įrengtas mėsines turguje ir čia pirkti mėsą yra neuždrausta ir leidžiama, kitu atveju [jei draustų].'
+  teiginys: '1543 m. privilegija leido Vilniaus miestiečiams ir gyventojams pirkti mėsą vyskupo įrengtose mėsinėse turguje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1543 m. privilegija leido Vilniaus miestiečiams ir gyventojams pirkti mėsą vyskupo įrengtose mėsinėse turguje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visiems ir
@@ -80,6 +81,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1543 m. privilegija leido Vilniaus vyskupui Povilui bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo Vilniaus turguje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi, kai šis

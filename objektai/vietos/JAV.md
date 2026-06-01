@@ -25,61 +25,43 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 ## Teiginiai
 
 - t-001
-  teiginys: 'Su stipriausiais finansiškai ir organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminingas politines organizacijas, profesiškai ar tiesiog asmeniškai.'
+  teiginys: 'Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
+  pagrindžia:
+    - c-004
+
+- t-002
+  teiginys: 'Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie 30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.'
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
-  pagrindžia:
-    - c-006
-
 - t-003
-  teiginys: 'Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie 30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.'
+  teiginys: 'Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.'
-  pagrindžia:
-    - c-003
-
-- t-005
-  teiginys: '5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 225 Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
-  pagrindžia:
-    - c-005
-
-- t-006
-  teiginys: 'Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais.'
-  pagrindžia:
-    - c-008
-
-- t-007
-  teiginys: 'Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.'
+  teiginys: '1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.'
   pagrindžia:
     - c-004
 
-- t-008
+- t-005
+  teiginys: 'Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais.'
+  pagrindžia:
+    - c-006
+
+- t-006
+  teiginys: 'Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.'
+  pagrindžia:
+    - c-003
+
+- t-007
   teiginys: 'JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasaulio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas.'
   pagrindžia:
-    - c-007
+    - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    remti. Ji rūpinosi, kad kolonijos gautų spaudos, siuntė kunigus ir mo-
-    kytojus, įsteigė kelias pradines mokyklas. Su stipriausiais finansiškai ir
-    organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminin-
-    gas politines organizacijas, profesiškai ar tiesiog asmeniškai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baltijos valstybių ir Lenkijos pa-
@@ -90,9 +72,9 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
@@ -107,9 +89,9 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sportas tapo
@@ -122,9 +104,10 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-005
+- c-004
+  santrauka: '1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
@@ -138,23 +121,10 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
+    - t-001
 
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti
-    savo požiūrį į dipukus. 1948 m. viduryje JAV Kongresas priėmė vadi-
-    namąjį Perkeltųjų asmenų įstatymą, kuriame buvo numatoma įsileisti
-    205 tūkst. dipukų (tarp jų – 40 proc. Baltijos valstybių ir Lenkijos pa-
-    bėgėlių bei tremtinių).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-007
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai padėjo
@@ -169,9 +139,9 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-008
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     taičio, 1934 m. aplankė faktiškai visas Europos sostines, nuskrido per
@@ -185,21 +155,5 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
-
-- c-009
-  santrauka: 'Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kūrybingai panaudodami vokiečių motorus ir prancūzų
-    fiuzelažus, lietuviai Kaune konstravo ir statė savo karo ir sporto lėktu-
-    vus, tarp jų ir lengvuosius bombonešius, gamino sklandytuvus sporto
-    reikalams.
-    Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lie-
-    tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
-    Rygoje tapo Europos čempionais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
+    - t-005
+    - t-008

@@ -48,7 +48,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir.'
   pagrindžia:
     - c-002
-    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -64,26 +63,6 @@ Nenurodyta
     - t-001
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
-    dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
-    kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas
-    sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo
-    komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
-    nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
-
-
-
-
-         136 (131).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė
@@ -106,4 +85,3 @@ Nenurodyta
 - [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/asmenys/Mantas]]
 - [[objektai/grupes/Notangai]]
-- [[objektai/asmenys/Henrikas iš Šenenbergo]]

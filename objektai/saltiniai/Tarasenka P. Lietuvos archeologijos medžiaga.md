@@ -32,7 +32,7 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad tarasenka P.'
+  teiginys: 'P. Tarasenkos „Lietuvos archeologijos medžiaga“ išleista 1928 m.; leidimo vieta citatoje nurodyta santrumpa „K.“.'
   pagrindžia:
     - c-002
 
@@ -54,6 +54,7 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
     - t-001
 
 - c-002
+  santrauka: 'P. Tarasenkos „Lietuvos archeologijos medžiaga“ išleista 1928 m.; leidimo vieta citatoje nurodyta santrumpa „K.“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928.

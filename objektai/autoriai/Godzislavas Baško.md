@@ -25,13 +25,14 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
 ## Teiginiai
 
 - t-001
-  teiginys: 'Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - lavo Baško (vert.'
+  teiginys: 'Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 205

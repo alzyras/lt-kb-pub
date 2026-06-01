@@ -24,7 +24,7 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
     - c-001
 
 - t-002
-  teiginys: 'Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis jau tris kartus esąs išdavęs ordiną; o ketvirtą kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių valdovus.'
+  teiginys: 'Derybose Markvardas Salzbaclias įžeidė Vytautą, sakydamas, kad šis jau tris kartus išdavė Ordiną.'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
     - t-001
 
 - c-002
-  santrauka: 'Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis jau tris kartus esąs išdavęs ordiną; o ketvirtą kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių valdovus.'
+  santrauka: 'Derybose Markvardas Salzbaclias įžeidė Vytautą, sakydamas, kad šis jau tris kartus išdavė Ordiną.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Didysis kunigaikštis juos paremsiąs, nes «jis pats nori

@@ -49,7 +49,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V (Ptol.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -70,32 +69,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią
-    vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V
-    (Ptol. 22, 23—25).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V (Ptol.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    45. Apie Kristaus kūno šventės įsteigimą
-
-      1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią
-    vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V
-    (Ptol. 22, 23—25).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

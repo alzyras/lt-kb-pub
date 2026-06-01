@@ -55,6 +55,5 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Buiničius]]
-- [[objektai/asmenys/Jacenka]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

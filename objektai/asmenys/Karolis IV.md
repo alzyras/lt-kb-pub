@@ -34,7 +34,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - c-001
 
 - t-002
-  teiginys: 'Tada Kazimieras ėmė rūpintis, kad Lietuvai pasiūlytų krikštytis patsai popiežius ir imperatorius Karolis IV.'
+  teiginys: 'Karolis IV buvo imperatorius, kurį Kazimieras siekė įtraukti į pasiūlymą Lietuvai krikštytis.'
   pagrindžia:
     - c-003
 
@@ -81,6 +81,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - t-004
 
 - c-003
+  santrauka: 'Karolis IV buvo imperatorius, kurį Kazimieras siekė įtraukti į pasiūlymą Lietuvai krikštytis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet Kęs-

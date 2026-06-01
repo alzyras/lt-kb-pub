@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vytauto palaikai buvo atvežti į Vilnių ir iškil­ mingai palaidoti85.'
+  teiginys: '1430 m. spalio 30 d. Trakuose mirusio Vytauto palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1430 m. spalio 30 d. Trakuose mirusio Vytauto palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien

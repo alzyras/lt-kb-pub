@@ -24,29 +24,24 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     - c-002
 
 - t-002
-  teiginys: 'Ziemovitas nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­ lezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų kunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­ vęs net dukart savo šalininkų išrinktas Lenkijos karalium. Vi­ sų tų kandidatų šalininkai kėlė krašte neramumų, ardė tvarką, viena partija kilo prieš kitą ir kiekviena jų naudojosi įvairiomis priemonėmis pakelti į sostą savo kandidatą, o iš oro pusės kraš­ tą naikino sileziečiai ir lietuviai^1 ).'
+  teiginys: 'Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.'
   pagrindžia:
-    - c-007
+    - c-001
 
 - t-003
-  teiginys: 'Viename dokumen­ te, apie kurį vėliau smulkiau kalbė­ sime, pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
-  pagrindžia:
-    - c-003
-
-- t-004
   teiginys: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.'
   pagrindžia:
-    - c-006
+    - c-001
 
 - t-006
   teiginys: 'Tarp karaliaus ir Mozūrų kunigaikščio Ziemovito kilusį nesusipratimą išsprendė Vytautas.'
   pagrindžia:
-    - c-005
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -70,6 +65,9 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  pagrindžia:
+    - t-005
+    - t-002
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -84,8 +82,10 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   statusas: verified
   pagrindžia:
     - t-001
+    - t-006
 
 - c-003
+  santrauka: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Spinta XI, Nr. 19 ir ten pat LIV, Nr.
@@ -104,86 +104,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Spinta XI, Nr. 19 ir ten pat LIV, Nr.
-    3 yra paminėję. Viename dokumen­
-    te, apie kurį vėliau smulkiau kalbė­
-    sime, pasakojama apie kunigaikščių
-    Ziemovito ir Traidenio įsiveržimą į
-    Dobrynės žemę. Qui prophanus dux
-    David paulo ante indictas treugas pre-
-    dictas Ingrediens cum valido exercitu
-    Litwanorum terram Dobrinens. sitam
-    in prenominata Plocendioc totam mise­
-    rabiliter devastavit.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet buvo ir tokių reikalų, kur Vytautas pasireikšdavo ne
-    vien patarėju, bet ir teisėju. Kartą buvo kilęs ginčas tarp Vloc­
-    lavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­
-    liaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­
-    spręstas ne keno kito, kaip Vytauto^2 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nors ji ir buvo sužieduota dar kūdikystėj (4 metų) su
-    Austrijos kun. Vilhelmu, bet mažlenkiams ši kandidatūra, kaipo
-    Habsburgo, labai nepatiko ir išeidami iš savo interesų, jie ryžosi
-    karaliaus pasiieškoti kur kitur, šiuo atveju Lietuvoj. Kandidatu į
-    jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo,
-    dar Vladislovas iš Opolijos, kadaise mylimas karaliaus Liudviko,
-    bet lenkams jis nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­
-    lezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų
-    kunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­
-    vęs net dukart savo šalininkų išrinktas Lenkijos karalium. Vi­
-    sų tų kandidatų šalininkai kėlė krašte neramumų, ardė tvarką,
-    viena partija kilo prieš kitą ir kiekviena jų naudojosi įvairiomis
-    priemonėmis pakelti į sostą savo kandidatą, o iš oro pusės kraš­
-    tą naikino sileziečiai ir lietuviai^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nors ji ir buvo sužieduota dar kūdikystėj (4 metų) su
-    Austrijos kun. Vilhelmu, bet mažlenkiams ši kandidatūra, kaipo
-    Habsburgo, labai nepatiko ir išeidami iš savo interesų, jie ryžosi
-    karaliaus pasiieškoti kur kitur, šiuo atveju Lietuvoj. Kandidatu į
-    jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo,
-    dar Vladislovas iš Opolijos, kadaise mylimas karaliaus Liudviko,
-    bet lenkams jis nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­
-    lezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų
-    kunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­
-    vęs net dukart savo šalininkų išrinktas Lenkijos karalium. Vi­
-    sų tų kandidatų šalininkai kėlė krašte neramumų, ardė tvarką,
-    viena partija kilo prieš kitą ir kiekviena jų naudojosi įvairiomis
-    priemonėmis pakelti į sostą savo kandidatą, o iš oro pusės kraš­
-    tą naikino sileziečiai ir lietuviai^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -193,5 +114,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/zodynas/pakancleris]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]]

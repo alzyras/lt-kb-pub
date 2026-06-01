@@ -30,7 +30,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
 - t-001
   teiginys: 'Vytautas buvo pašauktas būti karalaitės Jadvygos globėju ir nuo tada turėjo ryškią įtaką Lenkijos reikaluose.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Horodlėje karalaitė Jadvyga buvo pripažinta Lenkijos sosto įpėdine, o Vytautas paskirtas jos globėju.'
@@ -40,15 +40,15 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
 - t-003
   teiginys: 'Jogailos duktės Jadvygos vardu buvo įteiktas protestas prieš Žemaičių krašto atidavimą Ordinui po tėvų mirties.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Horodlės unijos kontekste Jogailos duktė Jadvyga buvo pripažinta Lenkijos karalaite ir jai duota ištikimybės priesaika.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-005
-  teiginys: 'Jadvyga (Jogailos duktė) buvo pašauktas būti karalaitės Jad­ vygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.'
+  teiginys: 'Karalaitė Jadvyga buvo pavesta Vytauto globai, nuo kurios prasidėjo ryški jo įtaka lenkų reikaluose.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
     - t-002
 
 - c-002
+  santrauka: 'Karalaitė Jadvyga buvo pavesta Vytauto globai, nuo kurios prasidėjo ryški jo įtaka lenkų reikaluose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
@@ -93,30 +94,9 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
-    davo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­
-    grindinių reikalų, kai ėjo klausimas apie karalijos santvarką,
-    apie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi
-    nuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­
-    vygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.
-    Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to
-    meto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­
-    davosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­
-    tarimo, dažniausiai jo paramos. Dėl jo energingos paramos
-    Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­
-    rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui
-    Vyt. dėkingas už Poznaniaus mitrą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordino pasiuntinys, žinoma, jo nepriėmė.
@@ -132,7 +112,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jadvygai mirus lenkai, nenorėdami, kad unija būtų nu­
@@ -162,10 +142,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
 - [[objektai/zodynas/Liberum veto]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
-- [[objektai/asmenys/Stanislovas Ciołek]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Ziemovitas]]
 - [[objektai/zodynas/pakancleris]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/šlėkta]]

@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kęstutis iš Trakų, savo valdos sostinės, turėjęs geriausių galimybių stebėti visus brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­ riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­ nigaikščio buveinę.'
+  teiginys: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo Jaunučio buveinę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo Jaunučio buveinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kivirčai tarp brolių da­

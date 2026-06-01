@@ -38,13 +38,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 167 Lietuvos piliečiai žydai ir lenkai Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus.'
+  teiginys: 'Lietuvoje lietuvių valstiečiai ir žydų pirkliai buvo ūkiškai priklausomi vieni nuo kitų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvoje lietuvių valstiečiai ir žydų pirkliai buvo ūkiškai priklausomi vieni nuo kitų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S

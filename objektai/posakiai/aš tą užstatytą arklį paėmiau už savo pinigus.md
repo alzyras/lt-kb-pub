@@ -18,13 +18,14 @@ O jeigu koks žirgas pas žydą pasirodytų vogtas ir pas kokį krikš­ čionį
 ## Teiginiai
 
 - t-001
-  teiginys: 'O jeigu koks žirgas pas žydą pasirodytų vogtas ir pas kokį krikš­ čionį atsirastų, žydas savo priesaika turi išsiginti, sakyda­ mas, aš tą užstatytą arklį paėmiau už savo pinigus, ir tas pats žydas už šias bylas bus tuoj pat išlaisvintas.'
+  teiginys: 'Formulė „aš tą užstatytą arklį paėmiau už savo pinigus“ buvo žydo priesaikos tekstas ginče dėl vogto žirgo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Formulė „aš tą užstatytą arklį paėmiau už savo pinigus“ buvo žydo priesaikos tekstas ginče dėl vogto žirgo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O jeigu jo liudininkai minėti ir jo

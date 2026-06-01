@@ -26,13 +26,14 @@ Dusburgietis teigia, kad miškinis A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad miškinis A.'
+  teiginys: 'A. Miškinio straipsnis „Klaipėdos genezė ir urbanistinė raida iki XVII a. pabaigos“ paskelbtas 1979 m. „Architektūros paminkluose“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Miškinio straipsnis „Klaipėdos genezė ir urbanistinė raida iki XVII a. pabaigos“ paskelbtas 1979 m. „Architektūros paminkluose“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Miškinis A. Klaipėdos genezė ir urbanistinė raida iki XVII a. pabaigos.—Architektūros

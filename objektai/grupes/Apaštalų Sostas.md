@@ -20,23 +20,24 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
 ## Teiginiai
 
 - t-001
-  teiginys: 'No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenktų bažnyčios, kurios globėjas mes esame, padė­ čiai ir kad tokios rūšies teiginiai, išdėstyti į artikulus, pritarus šventajam Apaštalų Sostui, būtų tvirti ir nekeičiami, nutarė­ me.'
+  teiginys: 'Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
+  teiginys: 'Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise, leista vyskupų ir patvirtinta Apaštalų Sosto.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
+  teiginys: 'Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     374
@@ -70,6 +71,7 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
     - t-001
 
 - c-002
+  santrauka: 'Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -101,6 +103,7 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
     - t-003
 
 - c-003
+  santrauka: 'Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise, leista vyskupų ir patvirtinta Apaštalų Sosto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi mes, pamatę [abiejų] pusių
@@ -133,5 +136,7 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/prelatai ir kanauninkai]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Motiejus (Vilniaus vyskupas)]]
 - [[objektai/zodynas/ekskomunikacija ekskomunika]]

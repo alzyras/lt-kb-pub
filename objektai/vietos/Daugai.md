@@ -30,7 +30,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - t-001
   teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-002
   teiginys: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
@@ -38,7 +38,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - c-001
 
 - t-003
-  teiginys: '28 Tas sandėris buvo sudarytas slapta girioje, prie dabartinių Daugų, Tra­ kų paviete, netoli nuo Alytaus, kaip manau (auf dem Felde Daudisken); tarp atvykusiųjų į tariamą medžiok­ lę buvo: Jogaila, lydimas Lietuvos kunigaikščių Vytauto ir Jono, bei Vaidilos.'
+  teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, netoli Alytaus, per tariamą medžioklę.'
   pagrindžia:
     - c-002
 
@@ -48,9 +48,9 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - c-004
 
 - t-005
-  teiginys: 'Kai šį sprendimą sužinojo Vytautas ir Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­ virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo girdėti.'
+  teiginys: 'Vytautas ir Jogaila viešėjo Dauguose, kai sužinojo apie jiems įžeidžiantį ir neteisingą sprendimą.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-006
   teiginys: 'Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduoti Daugus bei Žąslius.'
@@ -73,6 +73,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - t-002
 
 - c-002
+  santrauka: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, netoli Alytaus, per tariamą medžioklę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kitais
@@ -95,6 +96,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -130,30 +132,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - t-004
 
 - c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kitais
-    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
-    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
-    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
-    28
-    Tas sandėris buvo sudarytas slapta
-    girioje, prie dabartinių Daugų, Tra­
-    kų paviete, netoli nuo Alytaus, kaip
-    manau (auf dem Felde Daudisken);
-    tarp atvykusiųjų į tariamą medžiok­
-    lę buvo: Jogaila, lydimas Lietuvos
-    kunigaikščių Vytauto ir Jono, bei
-    Vaidilos, ir didysis komtūras, ku­
-    ris jiems iškėlė puikias vaišes. Žr.
-    Voigt, T. V, 355.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-006
+  santrauka: 'Vytautas ir Jogaila viešėjo Dauguose, kai sužinojo apie jiems įžeidžiantį ir neteisingą sprendimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Be to, jis neturėjo teisės tame krašte statyti pilių

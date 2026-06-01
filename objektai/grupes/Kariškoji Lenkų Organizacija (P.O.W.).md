@@ -25,7 +25,7 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
     - c-003
 
 - t-002
-  teiginys: 'centre (Kau- ne), kur buvo rastas organizacijos archyvas su narių sąrašais, šnipinėjimo, organizacijos ir kitais dokumentais.'
+  teiginys: 'P.O.W. centre Kaune buvo rastas organizacijos archyvas su narių sąrašais, šnipinėjimo ir kitais dokumentais.'
   pagrindžia:
     - c-002
 
@@ -37,7 +37,7 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
 - t-004
   teiginys: 'Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras.'
   pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -62,8 +62,10 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
 - c-002
+  santrauka: 'P.O.W. centre Kaune buvo rastas organizacijos archyvas su narių sąrašais, šnipinėjimo ir kitais dokumentais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mūsų saugumo organai susekė sąmokslininkus, tą pačią
@@ -102,28 +104,6 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš okupuoto Vil-
-    niaus instruktuojama ir pinigais aprūpinama, ta organizacija varė
-    labai platų darbą: šnipinėdama nuolat pranešinėjo lenkams apie
-    Lietuvos kariuomenės jėgas, apie krašto politinę būklę ir nuo-
-    taiką; atvažiuojančioms santarvės komisijoms teikė vyriausybę
-    šmeižiančius memorandumus, iš Vilniaus gabeno proklamacijas
-    ir knygutes, skleidė nepasitikėjimą ir verbavo sau narius ne tik
-    sulenkėjusių dvarininkų, bet ir nenusimanančių lietuvių tarpe.
-    Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva
-    buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po
-    3—4 tos organizacijos komendantūras. Viskas, žinoma, buvo
-    daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-
-    besnieji raštai buvo rašomi šifruoti (slapta, sutartine abėcėle).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

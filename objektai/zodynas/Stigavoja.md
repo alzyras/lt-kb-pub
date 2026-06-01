@@ -24,7 +24,7 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Terminas vartojamas gamtos būsenai, pasakojimams ir senovės raštų liudijimams nusakyti.'
+  teiginys: 'Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti.'
   pagrindžia:
     - c-002
     - c-003
@@ -47,6 +47,7 @@ Papildomos aiškios formos neišskirtos.
     - t-002
 
 - c-002
+  santrauka: 'Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     šiandien jau nebrasi, ką pačios pasakos, tarp žmonių tebesančios, stigavoja, kaipogi tebepasakoja: ten ežeras užrukęs, kitur po žeme palindęs, kitur nuo vienos vietos persikėlęs į kitą.
@@ -57,6 +58,7 @@ Papildomos aiškios formos neišskirtos.
     - t-001
 
 - c-003
+  santrauka: 'Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     - status: unused

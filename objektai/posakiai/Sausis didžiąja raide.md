@@ -37,7 +37,7 @@ amziai:
 - t-001
   teiginys: 'Posakis „Sausis didžiąja raide“ siejamas su Sausio 13-ąja ir 1991 metų naktimi, kai Lietuva laimėjo ištvermės mūšį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Formuluotė „Sausis didžiąja raide“ Lietuvoje siejama su Sausio 13-ąja ir 1991 metų nakties atmintimi.'
@@ -47,21 +47,6 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Kai rašoma Sausis didžiąja raide - tai atminties dar neprara-
-    dusioje Lietuvoje aišku: kalbėsim apie Sausio 13-ąją, apie tą 1991
-    metų naktį, kai Lietuva nepuldama laimėjo ištvermės ir istikimy-
-    bės mūšį. Ji liko savo kely tvirtai žengianti toliau į laisvę, pasau-
-    lio užjausta dėl sukeltų aukų ir gerbiama už drąsą; o užpuolikas,
-    daužęs ir šaudęs beginklius žmones, subyrėjo į dulkes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     AUKSCIAUSIOS TARYBOS GYNYBA 259
@@ -101,6 +86,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

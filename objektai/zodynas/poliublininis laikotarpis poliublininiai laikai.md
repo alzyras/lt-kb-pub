@@ -45,12 +45,12 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - t-004
   teiginys: 'Poliublininiai laikai tapo laikotarpiu, kuriame istorikas ieškojo lietuvių ir nuo 1931 m. skelbė straipsnius periodikoje.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Kojalavičius iki T. Narbuto laikų paliko tradiciją poliublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -102,25 +102,9 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Atidavęs savo duoklę dviem straipsniais «jaunųjų istorikų bū­
-    relio » rinkinyje apie Vytautą D., labiausiai Šapoka tyrinėjo valsty­
-    binius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­
-    damas studiją apie Jogailos aktus (JoŠ). Perėjęs pagrindinai į
-    poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę
-    straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
-    niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
-    po 1569 metų Liublino unijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Palyginti, objektyviai išdės­
@@ -141,7 +125,6 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]

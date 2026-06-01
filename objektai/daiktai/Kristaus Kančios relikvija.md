@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mas­ kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­ vanomis, auksu ir sidabru papuoštais paveikslais, net dalį Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­ bai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto negavo^3 ).'
+  teiginys: 'Maskvos kunigaikštienė iš Smolensko į Maskvą atsivežė dovanų ir dalį Kristaus Kančios relikvijos.'
   pagrindžia:
     - c-002
 
@@ -72,6 +72,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Maskvos kunigaikštienė iš Smolensko į Maskvą atsivežė dovanų ir dalį Kristaus Kančios relikvijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Per dvi savaiti Vytau­

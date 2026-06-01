@@ -34,13 +34,19 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     - c-002
 
 - t-002
-  teiginys: 'Bet reformuojamasis seimas dar nespėjo baigti savo darbo, kai Rusija suorganizavo reformų priešų konfederaciją ir, davusi jai savo kariuomenės, viską sugriovė.'
+  teiginys: '1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Targovicos konfederaciją suorganizavo Rusija, remdama reformų priešus savo kariuomene.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi lemtis nedavė Lenkijai ir Lietuvai XVIII  a. pabaigoje garbin-
@@ -79,7 +85,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     - t-001
 
 - c-003
-  santrauka: 'Bet reformuojamasis seimas dar nespėjo baigti savo darbo, kai Rusija suorganizavo reformų priešų konfederaciją ir, davusi jai savo kariuomenės, viską sugriovė.'
+  santrauka: 'Targovicos konfederaciją suorganizavo Rusija, remdama reformų priešus savo kariuomene.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet reformuoja-
@@ -100,7 +106,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 - [[objektai/asmenys/Jekaterina II]]
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/kunigaikštija]]

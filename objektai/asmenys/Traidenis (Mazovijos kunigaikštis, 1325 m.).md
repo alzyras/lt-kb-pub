@@ -57,5 +57,4 @@ periodo_grupes:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Spaustuvės]]
 - [[objektai/zodynas/kunigaikščiai]]

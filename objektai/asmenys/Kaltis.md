@@ -34,13 +34,14 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­ medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
+  teiginys: 'Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
@@ -79,5 +80,4 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 - [[objektai/grupes/Bartai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Pagudėnai]]

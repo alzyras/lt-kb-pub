@@ -19,13 +19,14 @@ Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos išleistų monetų ketverių metų ap­ skaitą: šešiasdešimt tūkstančių auk­ sinų ir tūkstantis auksinų ir devyni šimtai auksinų ir dvidešimt auksi­ nų, o auksinai po dvidešimt grašių ir po.'
+  teiginys: 'Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prūsi­
@@ -70,3 +71,4 @@ Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Liutauras Chreptavičius]]

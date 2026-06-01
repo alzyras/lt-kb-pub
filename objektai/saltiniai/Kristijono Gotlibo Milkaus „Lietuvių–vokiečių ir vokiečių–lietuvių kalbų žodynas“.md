@@ -33,12 +33,12 @@ amziai:
 - t-002
   teiginys: 'Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
-  teiginys: 'III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių pagyrimų kaip lietuvių kalba.'
+  teiginys: 'Immanuelio Kanto mintys apie lietuvių kalbą pateiktos Kristijono Gotlibo Milkaus žodyno pratarmėje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -69,31 +69,5 @@ amziai:
   pagrindžia:
     - t-004
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    III s k y r i u s
-    Rusijos imperijos
-    valdoma Lietuva
-    (1795–1915)
-    „Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių
-    pagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė
-    už tai, kad ji sukūrė, išdailino detales ir vartojimą aukščiausiai
-    išvystytos žmonių kalbos su savita gražia ir aiškia fonologija.
-    Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai
-    gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“
-    Immanuel Kant (1724–1804)
-    Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir
-     vokiečių–lietuvių kalbų žodyno“ pratarmės
-    Š
-    iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės)
-    priklausė autokratinei Rusijos imperijai (išskyrus pus-
-    mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
-    liudą“).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
     - t-003

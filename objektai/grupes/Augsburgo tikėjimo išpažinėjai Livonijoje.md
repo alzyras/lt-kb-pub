@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šiuo raštu skelbiame vi­ siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­ triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­ utonų ordino Livonijoje magistras, vildamasis mūsų ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­.'
+  teiginys: 'Ketlerio perduodamų Livonijos apskričių žmonėms buvo siūlyta leisti laisvai naudotis apeigomis, papročiais ir religija, išpažįstančia Augsburgo tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ketlerio perduodamų Livonijos apskričių žmonėms buvo siūlyta leisti laisvai naudotis apeigomis, papročiais ir religija, išpažįstančia Augsburgo tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skelbiame vi­

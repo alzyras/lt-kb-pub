@@ -151,6 +151,7 @@ Nenurodyta
 - [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
 - [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
 - [[objektai/zodynas/etmonas]]

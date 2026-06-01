@@ -27,7 +27,7 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskutinę valią pareikšdamas, užrašė Akademijos kolegijai, įpareigodamas, kad 25 metus činšo mokestis nuo jo eitų Dievo Kūno koplyčios naudai, o po 25 metų Akademijos kolegijai turėsiąs.'
+  teiginys: '1631 m. Akademijos kolegija įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
     - t-002
 
 - c-002
+  santrauka: '1631 m. Akademijos kolegija įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­

@@ -30,31 +30,14 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
     - c-001
 
 - t-002
-  teiginys: '(to meto atvirukas) L I E T U V O S I S T O R I J A 204 antinacinė agitacija, raginta nestoti į vokiečių organizuojamus karinius dalinius, nevykti darbams į Vokietiją, nevykdyti žemės ūkio prievolių, išsaugoti lietuvių kultūros ir švietimo įstaigas.'
+  teiginys: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių vienybės sąjūdį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    antinacinė agitacija, raginta nestoti į vokiečių organizuojamus karinius
-    dalinius, nevykti darbams į Vokietiją, nevykdyti žemės ūkio prievolių,
-    išsaugoti lietuvių kultūros ir švietimo įstaigas, demaskuoti kolaborantus.
-    Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė
-    į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę
-    tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-
-    do pogrindinius leidinius. 1943–1944 m. pogrindyje veikė Vyriausiasis
-    Lietuvos išlaisvinimo komitetas (VLIK’as), suvienijęs skirtingas lietuvių
-    politines jėgas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių vienybės sąjūdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pogrindis laikėsi neginkluotos rezistencijos taktikos: vykdyta
@@ -78,11 +61,11 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]

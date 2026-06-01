@@ -72,5 +72,4 @@ Nenurodyta
 - [[objektai/asmenys/Aleksandras Balinskis]]
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/autoriai/Mykolas Balinskis]]

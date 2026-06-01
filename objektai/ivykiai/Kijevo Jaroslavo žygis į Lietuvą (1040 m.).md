@@ -45,10 +45,10 @@ Nenurodyta
 - t-001
   teiginys: 'Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
-  teiginys: 'Štai, XII amž. pradžioje surašyta «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m. darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­ kyta.'
+  teiginys: 'XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.'
   pagrindžia:
     - c-001
 
@@ -60,6 +60,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pažymėjimas,
@@ -76,6 +77,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -91,24 +93,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pažymėjimas,
-    kad nužudymas įvykęs Lietuvos — Rusijos pasienyje (greičiausiai
-    prie Gardino — Nemuno, jotvingių žemėje), leidžia daryti išvadą,
-    jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
-    deda Lietuvos ribos. Tada Lietuvos vardas jau turėjo būti gerai
-    žinomas ir rytiniams slavams. Štai, XII amž. pradžioje surašyta
-    «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.
-    darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­
-    kyta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

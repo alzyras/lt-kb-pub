@@ -17,13 +17,14 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo šią vietą, voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia 530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok.'
+  teiginys: 'Lietuvių kariuomenei grįžtant, burtus metęs lietuvis sušuko: „Vargas mums, nes mūsų laukia nesėkmė.“'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvių kariuomenei grįžtant, burtus metęs lietuvis sušuko: „Vargas mums, nes mūsų laukia nesėkmė.“'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,

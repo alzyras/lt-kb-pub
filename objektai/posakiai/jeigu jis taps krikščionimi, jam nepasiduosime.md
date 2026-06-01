@@ -26,13 +26,14 @@ Jeigu kronikininkas Wigandas teisingai užrašė, jie dar vidaus karo metu 1382 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jeigu kronikininkas Wigandas teisingai užrašė, jie dar vidaus karo metu 1382 Jogailą buvo įspė­ ję : «jeigu jis taps krikščionimi, jam nepasiduosime »^16.'
+  teiginys: 'Wigando kronikos duomenimis, 1382 m. vidaus karo metu žemaičiai įspėjo Jogailą, kad jam tapus krikščionimi nepasiduos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Wigando kronikos duomenimis, 1382 m. vidaus karo metu žemaičiai įspėjo Jogailą, kad jam tapus krikščionimi nepasiduos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jeigu kronikininkas Wigandas

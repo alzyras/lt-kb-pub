@@ -45,26 +45,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama apie Tepliavos ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė iš.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Petro  iš Dusburgo kronikoje ne viskas išdėstyta chronologine tvarka, pvz.,  pilių
-    statyba. Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
-    apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
-    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
-    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Netikslumai, tendencija

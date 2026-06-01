@@ -26,7 +26,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mano Petras negalėjo išsiteirauti apie Švitri­ gailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila su gausia kariauna, nemažais paramos pulkais ir dauge­ liu žmonių patraukė.'
+  teiginys: 'Petras pranešė Dinaburgo komtūrui, kad Švitrigaila su gausia kariauna ir paramos pulkais patraukė toliau.'
   pagrindžia:
     - c-004
 
@@ -36,7 +36,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     - c-002
 
 - t-003
-  teiginys: 'Kilmingasai ir malonusis magistrė, žinokite, kad buvau pasiun­ tęs iš Liksnos į Lietuvą Petrą viską susižinoti.'
+  teiginys: 'Dinaburgo komtūras iš Liksnos į Lietuvą pasiuntė Petrą surinkti žinių apie Švitrigailą.'
   pagrindžia:
     - c-003
 
@@ -46,13 +46,14 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     - c-005
 
 - t-005
-  teiginys: 'Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­ nausiąs ir 1.1.'
+  teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė, kad Švitrigaila išėjo iš nelaisvės, o Vilniuje griuvo Pilies kalnas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dinaburgo komtūras Livonijos magistrui pranešė, kad Švitrigaila išėjo iš nelaisvės, o Vilniuje griuvo Pilies kalnas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dinaburgo komtūras praneša Livonijos magistrui, kad
@@ -85,6 +86,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     - t-002
 
 - c-003
+  santrauka: 'Dinaburgo komtūras iš Liksnos į Lietuvą pasiuntė Petrą surinkti žinių apie Švitrigailą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     164
@@ -110,6 +112,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     - t-003
 
 - c-004
+  santrauka: 'Petras pranešė Dinaburgo komtūrui, kad Švitrigaila su gausia kariauna ir paramos pulkais patraukė toliau.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mano Petras negalėjo išsiteirauti apie Švitri­

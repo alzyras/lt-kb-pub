@@ -26,7 +26,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - c-001
 
 - t-002
-  teiginys: 'O kaltina­ masis norėjo to teismo išvengti, taip pat tvirtino esąs Vil­ niaus vyskupijos valdinys ir pilietis, ir reikalaudamas siekė, kad ten į teismą būtų grąžintas.'
+  teiginys: 'Kaltinamasis teigė esąs Vilniaus vyskupijos valdinys ir pilietis, todėl siekė būti grąžintas į jos teismą.'
   pagrindžia:
     - c-002
 
@@ -36,7 +36,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - c-005
 
 - t-004
-  teiginys: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
+  teiginys: 'Jurgis Radvila, matydamas kunigų trūkumą Vilniaus vyskupijoje, nusprendė funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti.'
   pagrindžia:
     - c-003
 
@@ -73,6 +73,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - t-001
 
 - c-002
+  santrauka: 'Kaltinamasis teigė esąs Vilniaus vyskupijos valdinys ir pilietis, todėl siekė būti grąžintas į jos teismą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­
@@ -100,6 +101,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - t-002
 
 - c-003
+  santrauka: 'Jurgis Radvila, matydamas kunigų trūkumą Vilniaus vyskupijoje, nusprendė funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šven­

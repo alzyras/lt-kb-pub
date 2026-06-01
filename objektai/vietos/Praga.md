@@ -32,22 +32,22 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 - t-001
   teiginys: 'Henricus dux Lithuaniae ilgą laiką praleido imperatoriaus Karolio IV dvare ir 1380 m. baigė gyvenimą Pragoje.'
   pagrindžia:
-    - c-006
+    - c-002
 
 - t-002
-  teiginys: 'Ilgą laiką praleidęs imperatoriaus Karolio IV dvare, jis, kaip « Henri­ cus dux Lithuaniae », savo dienas baigė Pragoje (1380).'
+  teiginys: 'Būtautas, ilgai gyvenęs imperatoriaus Karolio IV dvare, 1380 m. mirė Pragoje.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Be abejo, Vytautui susiartinus su Praga, pa­ darius su ja uniją, apsikarūnavus jos karaliaus karūna, Lenkija jam nebebūtų buvusi taip reikalinga savo tikslams siekti.'
+  teiginys: 'Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.'
   pagrindžia:
     - c-004
 
 - t-004
   teiginys: 'J. Pfitznerio veikalas „Grossfürst Witold als Staatsmann“ 1930 m. buvo išleistas Pragoje.'
   pagrindžia:
-    - c-007
+    - c-001
 
 - t-005
   teiginys: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
@@ -55,19 +55,14 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - c-005
 
 - t-006
-  teiginys: '1930 m. Prahoje išleistame veikale „Grossfürst Witold als Staatsmann“ J. Pfitzneris reikalavo į Vytautą žiūrėti lietuvių požiūriu.'
-  pagrindžia:
-    - c-007
-
-- t-007
-  teiginys: 'Lietuviams kunigams rengti karalienė Jadvyga įsteigė Pragoję bendrabutį studentams, ku­ rie mokėsi teologijos Pragos universitete, o Jogaila tuo pat tikslu atnaujino ir praplatino Krokuvos universitetą (1400).'
+  teiginys: 'Karalienė Jadvyga Prahoje įsteigė bendrabutį lietuviams studentams, kurie Pragos universitete mokėsi teologijos.'
   pagrindžia:
     - c-003
 
-- t-008
+- t-007
   teiginys: 'Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante, ir laikydavosi vieningai.'
   pagrindžia:
-    - c-008
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -82,9 +77,10 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
 - c-002
+  santrauka: 'Būtautas, ilgai gyvenęs imperatoriaus Karolio IV dvare, 1380 m. mirė Pragoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kadangi Būtauto kėslai pačioje
@@ -98,8 +94,10 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-003
+  santrauka: 'Karalienė Jadvyga Prahoje įsteigė bendrabutį lietuviams studentams, kurie Pragos universitete mokėsi teologijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš pra­
@@ -114,9 +112,10 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-004
+  santrauka: 'Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Be abejo, Vytautui susiartinus su Praga, pa­
@@ -150,34 +149,6 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - t-005
 
 - c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kadangi Būtauto kėslai pačioje
-    Lietuvoje pritarimo nerado, jis ordinui tapo nebereikalingas. Ilgą
-    laiką praleidęs imperatoriaus Karolio IV dvare, jis, kaip « Henri­
-    cus dux Lithuaniae », savo dienas baigė Pragoje (1380).
-    Kryžiuočiai turėjo toliau ginklu tęsti savo prieš Lietuvą 1283
-    pradėtą kovą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-007
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    J. Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale
-    «Grossfürst Witold als Staatsmann» (lietuv. Jurgio Talmanto
-    vertimas, Kaunas 1930) reikalavo į šį didį valdovą žiūrėti lietuvių
-    požiūriu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-008
   santrauka: 'Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante, ir laikydavosi vieningai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -192,4 +163,4 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007

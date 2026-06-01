@@ -44,13 +44,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Medžiagų in crudo [žaliavų], užjūrio ir vietinių prepara­ tų, užėjus vargo metams, negalėjo būti gauta pakankamos quantitas, qualitas ir valor [kiekio, kokybės, vertės], kadangi geram dalykų vertinimui reikėjo atsikviesti prisiekusių me­ dikų, kurie būtų.'
+  teiginys: 'Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi pastaraisiais laikais, kelių vaisti­

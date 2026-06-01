@@ -89,4 +89,3 @@ Nenurodyta
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Šventaragis]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]

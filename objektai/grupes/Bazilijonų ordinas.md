@@ -32,7 +32,6 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginys: 'Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.'
   pagrindžia:
     - c-001
-    - c-004
 
 - t-002
   teiginys: 'Bazilijaus ordino vienuolius.'
@@ -40,14 +39,14 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - c-003
 
 - t-003
-  teiginys: 'Vėliau Mamoničių spaus­ tuvė, matyt, atiteko bazilijonams.'
+  teiginys: 'Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.'
   pagrindžia:
     - c-002
 
 - t-004
   teiginys: 'Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų bazi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių savo vienuolynų.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -67,6 +66,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - t-001
 
 - c-002
+  santrauka: 'Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mamoničių namai sto­
@@ -99,20 +99,6 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - t-002
 
 - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Daug geriau buvo sutvarkytas
-    unitų švietimas. Vilniuje šie turėjo net savą, popiežiaus iš-
-    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
-    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
-    savo vienuolynų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-005
   santrauka: 'Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų bazi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių savo vienuolynų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

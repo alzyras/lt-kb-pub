@@ -23,13 +23,14 @@ Dusburgietis teigia, kad šeliagovičius M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad šeliagovičius M.'
+  teiginys: 'M. Šeliagovičiaus „Senovės baltų atgarsis“ paskelbtas 1984 m. žurnalo MG 1 numeryje, 32-33 puslapiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Šeliagovičiaus „Senovės baltų atgarsis“ paskelbtas 1984 m. žurnalo MG 1 numeryje, 32-33 puslapiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šeliagovičius M. Senovės baltų atgarsis.— MG, 1984, Nr. 1, p. 32—33.

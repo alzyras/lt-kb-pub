@@ -25,13 +25,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '241) rašo, kad 1426 metais di­ dysis kunigaikštis Vytautas prašė di­ džiojo magistro rūmų gydytojo (Leibarzt), nes jo žmona Julijona, ku­ rią jis vadina savo mylima šeiminin­ ke (seine liebe Hausfrau), jau metai kaip serga, ir kad liga kaip tik šiuo metu taip.'
+  teiginys: 'Lenkijos karalius laiške dėkojo didžiajam magistrui už atsiųstą rūmų gydytoją ir gyrė jo patyrimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkijos karalius laiške dėkojo didžiajam magistrui už atsiųstą rūmų gydytoją ir gyrė jo patyrimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     F o i g t a s savo Marienburgo miesto

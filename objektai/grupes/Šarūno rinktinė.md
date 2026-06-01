@@ -31,17 +31,17 @@ amziai:
 - t-001
   teiginys: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Čekistai puolė Šarūno rinktinės štabo bunkerį, kurį jiems nurodė Balys.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, 1949 m.'
@@ -69,28 +69,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio padariniai
-    Didžiausias laisvės kovotojų ir NKVD susi-
-    rėmimas įvyko 1949 m. lapkričio 1-2 dieno-
-    mis, kai partizanų bunkeriai buvo išduoti.
-    Šimonių girioje sovietų kariai susprogdino
-    aštuonis partizanų bunkerius: žuvo 33 parti-
-    zanai, 10 laisvės kovotojų pateko į nelaisvę.
-    1949 m. rudenį buvo sunaikinti Algimanto
-    apygardos ir Šarūno rinktinės štabai,
-
-    1949 m. lapkričio 1-3 d. ŠIMONIŲ GIRIOS APGULTIS
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     nių, kurie priklausė Vytauto apygardai.
@@ -105,7 +86,7 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Partizanai išsprogdino požeminį

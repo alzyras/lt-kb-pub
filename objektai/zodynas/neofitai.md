@@ -33,13 +33,14 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
     - c-002
 
 - t-002
-  teiginys: 'Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­ kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­ nui statytis atiduotas platus slėnis su keletu namų ir pieva, 31 Šis Jachna jau 1435 metais buvo.'
+  teiginys: '1469 m. į Vilnių buvo pakviestas bernardinų ordinas, kad neofitai įsitvirtintų krikščionių tikėjime.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1469 m. į Vilnių buvo pakviestas bernardinų ordinas, kad neofitai įsitvirtintų krikščionių tikėjime.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­

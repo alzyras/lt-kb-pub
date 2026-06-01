@@ -72,27 +72,6 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Išsivadavusi Lietuva, kaip ir kitos kaimynės, siekė kuo greičiau inte-
-    gruotis į svarbiausias tarptautines demokratinio Vakarų pasaulio orga-
-    nizacijas ir tapti visateise valstybe. 1991 m. rugsėjo 17 d. Lietuva priimta
-    į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-
-    tas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO
-    (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
-    (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
-    sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą. Pir-
-    minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo
-    sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.
-    Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
-    Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
-    metropolitas Audrys Juozas Bačkis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -103,6 +82,5 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 - [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
 - [[objektai/posakiai/lietuviška Golgota]]
 - [[objektai/zodynas/metropolitas]]
-- [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]
 - [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]
 - [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]

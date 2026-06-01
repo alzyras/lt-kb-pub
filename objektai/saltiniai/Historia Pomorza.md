@@ -25,13 +25,14 @@ Dusburgietis teigia, kad historia Pomorza / Pod red. G.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad historia Pomorza / Pod red. G.'
+  teiginys: '„Historia Pomorza“ pirmojo tomo pirmąją dalį iki 1466 m. redagavo G. Labuda, ji išleista Poznanėje 1969 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Historia Pomorza“ pirmojo tomo pirmąją dalį iki 1466 m. redagavo G. Labuda, ji išleista Poznanėje 1969 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Historia Pomorza / Pod red. G. Labudy.— T. 1; do r. 1466, cz. 1.— Poznań, 1969.

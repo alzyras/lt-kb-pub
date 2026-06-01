@@ -24,13 +24,14 @@ Dusburgietis teigia, kad tautavičius A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tautavičius A.'
+  teiginys: 'A. Tautavičiaus straipsnis „Lietuvių tautos protėviai“ paskelbtas žurnalo „MG“ 1968 m. 8 numeryje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Tautavičiaus straipsnis „Lietuvių tautos protėviai“ paskelbtas žurnalo „MG“ 1968 m. 8 numeryje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17.

@@ -28,7 +28,7 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
     - c-001
 
 - t-002
-  teiginys: 'Šaltinis formulę paaiškina kaip teritorinę projekciją nuo Baltijos iki Juodosios jūros.'
+  teiginys: 'Formulė „nuo jūros iki jūros“ nusako teritorinę projekciją nuo Baltijos iki Juodosios jūros.'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
     - c-002
 
 - t-004
-  teiginys: 'Šis planas siejamas su Lietuvos pripažinimo reikalų strigimu.'
+  teiginys: 'Prancūzijos remtas didelės Lenkijos „nuo jūros iki jūros“ planas stabdė Lietuvos tarptautinio pripažinimo reikalus.'
   pagrindžia:
     - c-001
 

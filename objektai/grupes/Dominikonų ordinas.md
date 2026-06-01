@@ -29,27 +29,27 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jeigu su atida peržvelgsime laiškus, Gedimino vardu rašytus dominikonų ordinui, minoritams ir Vokietijos mies­ tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­ dijančių juos Rygos arkivyskupo prasimanymu ir klastote esant.'
+  teiginys: 'Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašyti laiškai laikyti Rygos arkivyskupo prasimanymu ir klastote.'
   pagrindžia:
     - c-005
 
 - t-002
-  teiginys: 'Aleksan­ dras, toje vietoje įkurdinęs dominikonus, Vingrių šaltinių nesugrąžino miestui, bet sutiko juos kartu su klebonija 6 Tai matyti iš Žygimanto Senojo 1536 metų rugpjūčio 29 dienos (Archiwum Miejs.'
+  teiginys: 'Aleksandras, įkurdinęs dominikonus, Vingrių šaltinių negrąžino Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Mes su krikščionimis ka­ riaujame ne dėl to, kad sunaikintume katalikų tikėjimą, bet kad pasipriešintume mums [daromoms] skriaudoms, kaip tai daro krikščionių karaliai bei valdovai; tai matyti iš to, kad mes pas save turime brolių iš pranciškonų ordino ir iš.'
+  teiginys: 'Gediminas teigė turįs dominikonų brolių ir suteikęs jiems visišką laisvę krikštyti, pamokslauti bei atlikti šventąsias apeigas.'
   pagrindžia:
     - c-014
 
 - t-004
-  teiginys: 'Dėl to mes norime sukviesti vyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­ siškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­ rališkajame mieste, vardu Vilnius, antrą Naugarduke; prie jų priskirkite mums šiais metais keturis brolius.'
+  teiginys: 'Gediminas kvietė dominikonus ir žadėjo netrukus duoti jiems bažnyčią.'
   pagrindžia:
     - c-011
 
 - t-005
-  teiginys: 'Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv.'
+  teiginys: 'Aleksandras 1501 metais pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
   pagrindžia:
     - c-006
 
@@ -59,48 +59,49 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-008
 
 - t-007
-  teiginys: 'Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominikonams, prie Vilniaus pilies pastatydino jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, leido naujai įkurtame mieste apsigyventi gausiems atėjū­ nams iš Vokietijos ir.'
+  teiginys: 'Gediminas suteikė prieglobstį Lietuvoje apaštalavusiems dominikonams ir prie Vilniaus pilies pastatydino jiems vienuolyną bei bažnyčią.'
   pagrindžia:
     - c-012
 
 - t-008
-  teiginys: 'Tuo tikslu, kad jūs mažiau abejotumėte dėl saugumo ir labiau pasitikėtumėte, [pranešame], jog esame pastatę dvi pranciš­ konų bažnyčias: vieną mūsų karališkajame mieste, vardu Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­ vienas pagal savo.'
+  teiginys: 'Gediminas nurodė pastatęs trečią bažnyčią dominikonams, kad kiekvienas pagal savo apeigas galėtų garbinti Dievą.'
   pagrindžia:
     - c-001
 
 - t-009
-  teiginys: 'Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv.'
+  teiginys: 'Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie dominikonų vienuolyno, buvusio prie Šv. Dvasios bažnyčios Vilniuje.'
   pagrindžia:
     - c-003
 
 - t-010
-  teiginys: 'Stanislo­ vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­ lyvavusių buvęs Lietuvos vyskupas Vitas, dominikonas.'
+  teiginys: 'Lietuvos vyskupas Vitas, dominikonas, 1254 m. gegužės 8 d. dalyvavo skelbiant Šv. Stanislovo kanonizavimą Krokuvos bažnyčioje.'
   pagrindžia:
     - c-002
 
 - t-011
-  teiginys: 'Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­ nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras, [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­ daro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo] sielas, ir iš.'
+  teiginys: 'Gediminas ketino kviesti dorus dominikonų ir pranciškonų vienuolius, bet nepageidavo vienuolynus plėšikų prieglobsčiu paverčiančių vienuolių.'
   pagrindžia:
     - c-009
 
 - t-012
-  teiginys: 'Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­ jekto - minėtos prieglaudos prie brolių pamokslininkų [dominikonų} vienuolyno.'
+  teiginys: 'Ulrikas Hozijus pradėjo statyti prieglaudą prie dominikonų vienuolyno ir spėjo išmūryti nemažą jos dalį.'
   pagrindžia:
     - c-007
 
 - t-013
-  teiginys: 'Gediminas laišku kreipėsi į dominikonų provincijų magistrus, priorus ir brolius, ypač Saksonijos provinciją.'
+  teiginys: 'Gediminas dominikonų magistrams, priorams ir broliams pranešė pasiuntęs laišką popiežiui Jonui dėl krikšto.'
   pagrindžia:
     - c-013
 
 - t-014
-  teiginys: 'Kryžiaus ir dominikonų ordino brolių, Algirdo laikais sugriautų, tebu­ vo išlikęs Gedimino, geranoriško krikščionybės atžvilgiu, atminimas.'
+  teiginys: 'Algirdo laikais sugriautos dominikonų ordino brolių bažnyčios griuvėsiai išlaikė Gedimino palankumo krikščionybei atminimą.'
   pagrindžia:
     - c-010
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas nurodė pastatęs trečią bažnyčią dominikonams, kad kiekvienas pagal savo apeigas galėtų garbinti Dievą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žemdirbiams, norintiems atvykti į mūsų karalystę ir čia
@@ -126,6 +127,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-008
 
 - c-002
+  santrauka: 'Lietuvos vyskupas Vitas, dominikonas, 1254 m. gegužės 8 d. dalyvavo skelbiant Šv. Stanislovo kanonizavimą Krokuvos bažnyčioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lap. 245, tų pačių Didžiojoje Lenkijoje
@@ -140,6 +142,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-010
 
 - c-003
+  santrauka: 'Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie dominikonų vienuolyno, buvusio prie Šv. Dvasios bažnyčios Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kai susigrąžins savo lėšas ir išlaidas, skirtas tilto staty­
@@ -158,6 +161,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-009
 
 - c-004
+  santrauka: 'Aleksandras, įkurdinęs dominikonus, Vingrių šaltinių negrąžino Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jų vandenys kadaise priklausė miestui, bet, laikui
@@ -224,6 +228,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-002
 
 - c-005
+  santrauka: 'Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašyti laiškai laikyti Rygos arkivyskupo prasimanymu ir klastote.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau viskas byloja, jog Gediminas per pasiun­
@@ -252,6 +257,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-001
 
 - c-006
+  santrauka: 'Aleksandras 1501 metais pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daugelis jų garsėjo su­
@@ -268,6 +274,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-005
 
 - c-007
+  santrauka: 'Ulrikas Hozijus pradėjo statyti prieglaudą prie dominikonų vienuolyno ir spėjo išmūryti nemažą jos dalį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis garbingasis Ulrikas Hozijus,
@@ -330,6 +337,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-006
 
 - c-009
+  santrauka: 'Gediminas ketino kviesti dorus dominikonų ir pranciškonų vienuolius, bet nepageidavo vienuolynus plėšikų prieglobsčiu paverčiančių vienuolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­
@@ -369,6 +377,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-011
 
 - c-010
+  santrauka: 'Algirdo laikais sugriautos dominikonų ordino brolių bažnyčios griuvėsiai išlaikė Gedimino palankumo krikščionybei atminimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau trys krikščionių baž­
@@ -387,6 +396,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-014
 
 - c-011
+  santrauka: 'Gediminas kvietė dominikonus ir žadėjo netrukus duoti jiems bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dėl to mes norime sukviesti
@@ -433,6 +443,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-004
 
 - c-012
+  santrauka: 'Gediminas suteikė prieglobstį Lietuvoje apaštalavusiems dominikonams ir prie Vilniaus pilies pastatydino jiems vienuolyną bei bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -462,7 +473,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-007
 
 - c-013
-  santrauka: 'Gediminas laišku kreipėsi į dominikonų provincijų magistrus, priorus ir brolius, ypač Saksonijos provinciją.'
+  santrauka: 'Gediminas dominikonų magistrams, priorams ir broliams pranešė pasiuntęs laišką popiežiui Jonui dėl krikšto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  Malignantes contra boc scriptum et
@@ -494,6 +505,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-013
 
 - c-014
+  santrauka: 'Gediminas teigė turįs dominikonų brolių ir suteikęs jiems visišką laisvę krikštyti, pamokslauti bei atlikti šventąsias apeigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau jie sako, jog tai daro dėl to,
@@ -532,13 +544,15 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Hanza]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Ulrikas Hozijus]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius]]
 - [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
 - [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]]
-- [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]
 - [[objektai/zodynas/kanonizavimas ir palaikų pakylėjimas]]

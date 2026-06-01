@@ -27,12 +27,12 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - t-001
   teiginys: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Baltarusija, su ja 1991 m. spalį pasirašė Deklaraciją dėl geros kaimynystės santykių principų, o po ketverių metų – sutartį dėl geros kaimynystės, Sutarties pasirašymas su Rusija – centre.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-003
   teiginys: 'Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva.'
@@ -42,17 +42,17 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - t-004
   teiginys: 'Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moderniosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina.'
   pagrindžia:
-    - c-002
+    - c-004
 
 - t-006
-  teiginys: 'Visa tai buvo ne kas Įvadas • L I E T U VA – V I D U R I O E U R O P O S D A L I S 19 kita, kaip ATR ir LDK erdvė, vadinasi, „Rusijos žydai“ – tai LDK – Lietuvos, Baltarusijos, Ukrainos ir Lenkijos – žydai.'
+  teiginys: 'LDK erdvė apėmė Lietuvos, Baltarusijos, Ukrainos ir Lenkijos žydus, vadintus „Rusijos žydais“.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -73,23 +73,9 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   statusas: verified
   pagrindžia:
     - t-003
+    - t-007
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    kita, kaip ATR ir LDK erdvė, vadinasi, „Rusijos žydai“ – tai LDK – Lietu-
-    vos, Baltarusijos, Ukrainos ir Lenkijos – žydai.
-    Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moder-
-    niosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina. O
-    kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
-    vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai šiek tiek primena frankus Galijoje,
@@ -107,7 +93,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     bendradarbiavimo ir dėl valstybės sienos. Gerai klostėsi ekonominiai san-
@@ -120,7 +106,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
+  santrauka: 'LDK erdvė apėmė Lietuvos, Baltarusijos, Ukrainos ir Lenkijos žydus, vadintus „Rusijos žydais“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visa tai buvo ne kas
@@ -138,8 +125,9 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   statusas: verified
   pagrindžia:
     - t-006
+    - t-005
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe –
@@ -158,19 +146,3 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-007
-  santrauka: 'Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
-    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
-    gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
-    rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
-    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
-    Lietuva, o šiandien ją vadiname istorine Lietuva. XVI–XVIII a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007

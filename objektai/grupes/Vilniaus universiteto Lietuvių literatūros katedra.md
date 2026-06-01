@@ -19,7 +19,7 @@ Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lie
 - t-001
   teiginys: 'Vengrijos revoliucijos ir tais pačiais metais Lenkijoje vykusio Poznanės darbininkų sukilimo Lietuvos valdžia leido suprasti, kad kultūros politika iš esmės nepasikeis.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas.'
@@ -29,21 +29,6 @@ Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lie
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po 1956 m. Vengrijos revoliuci-
-    jos ir tais pačiais metais Lenkijoje vykusio Poznanės darbininkų sukilimo
-    Lietuvos valdžia leido suprasti, kad kultūros politika iš esmės nepasikeis.
-    Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto
-    Lietuvių literatūros katedros darbuotojų, kai kurių kultūros veikėjų ide-
-    ologinis puolimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vengrijos revoliuci-
@@ -58,6 +43,7 @@ Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lie
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

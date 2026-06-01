@@ -26,18 +26,19 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką, kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę ir vėl.'
+  teiginys: 'Prie Pagansčių kaimo prūsai užpuolė krikščionis ir nukovė dvylika brolių bei penkis šimtus vyrų.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis Menthen).'
+  teiginys: 'Pagansčiai buvo kaimas prie Zirgūnos upės, vėliau vadintas Menthen.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Pagansčių kaimo prūsai užpuolė krikščionis ir nukovė dvylika brolių bei penkis šimtus vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šito įvykio išgąsdinti, raiteliai bei pėstininkai
@@ -57,6 +58,7 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
     - t-001
 
 - c-002
+  santrauka: 'Pagansčiai buvo kaimas prie Zirgūnos upės, vėliau vadintas Menthen.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis

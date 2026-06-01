@@ -26,7 +26,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mickevičius J.'
+  teiginys: 'J. Mickevičiaus straipsnis „Putvės pilis XIV amžiuje“ paskelbtas 1940 m. žurnalo „Gimtasai kraštas“ 3-4 numeryje.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
     - t-002
 
 - c-002
+  santrauka: 'J. Mickevičiaus straipsnis „Putvės pilis XIV amžiuje“ paskelbtas 1940 m. žurnalo „Gimtasai kraštas“ 3-4 numeryje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mickevičius J. Putvės pilis XIV amžiuje.— Gimtasai kraštas, 1940, Nr. 3—4, p. 286—

@@ -40,89 +40,74 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - c-001
 
 - t-003
-  teiginys: 'Tačiau Torunės seime, kilus ginčams su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­ tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo teises bei privilegijas, bet iškilus.'
-  pagrindžia:
-    - c-016
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M. Bisköpa.— Warszawa—Poznań— Toruń, 1983.'
-  pagrindžia:
-    - c-018
-
-- t-005
-  teiginys: 'Stepono Batoro dokumentas buvo duotas Torunėje 1576 m. gruodžio 20 d.'
+  teiginys: 'Torunės seime dėl ginčų su Gdansku ir kitų nesutarimų nebuvo numatyta nustatyti jokių rinkliavų.'
   pagrindžia:
     - c-012
 
-- t-006
-  teiginys: 'Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.'
-  pagrindžia:
-    - c-014
-
-- t-007
-  teiginys: 'Dusburgietis teigia, kad 1236 m. Torunės miestas perkeltas į dab.'
-  pagrindžia:
-    - c-005
-
-- t-008
-  teiginys: '1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai.'
-  pagrindžia:
-    - c-015
-
-- t-009
-  teiginys: 'Duota Torunėje, Viešpaties metais 1576, gruodžio 20 dieną.'
-  pagrindžia:
-    - c-007
-
-- t-010
-  teiginys: 'Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) padarytas iš Karaliaučiaus bibliotekos teksto.'
-  pagrindžia:
-    - c-011
-
-- t-011
-  teiginys: 'Ordino magistras persikėlė į Kulmo žemę ir pastatė Torunės pilį, po to prasidėjo sisteminga agresija prieš prūsus.'
-  pagrindžia:
-    - c-009
-
-- t-012
-  teiginys: 'Dusburgietis teigia, kad kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė traukti su kariuomene į šią vietą.'
-  pagrindžia:
-    - c-019
-
-- t-013
-  teiginys: 'Dusburgietis teigia, kad todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti į vienuolyną, ir šis pasiuntė į Torunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko, kas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių.'
-  pagrindžia:
-    - c-017
-
-- t-014
-  teiginys: 'Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.'
+- t-004
+  teiginys: 'Stepono Batoro dokumentas buvo duotas Torunėje 1576 m. gruodžio 20 d.'
   pagrindžia:
     - c-010
 
-- t-015
-  teiginys: 'Dusburgietis teigia, kad sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės, apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias kryžiuočių pilis Varmės žemėje, Rudino miesto užkariavimus ir kt.'
-  pagrindžia:
-    - c-013
-
-- t-016
-  teiginys: 'Dusburgietis teigia, kad „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat Torunės analai (originalios žinios prasideda XIV a.'
+- t-005
+  teiginys: 'Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.'
   pagrindžia:
     - c-008
 
-- t-017
+- t-006
+  teiginys: '1236 m. Torunės miestas buvo perkeltas į dabartinės Torunės vietą.'
+  pagrindžia:
+    - c-005
+
+- t-007
+  teiginys: 'Torunę 1235 m. pastatė kryžiuočiai, Teutonų ordinui gausinant miestus ir pilis Baltijos pakrantėse.'
+  pagrindžia:
+    - c-001
+
+- t-008
+  teiginys: 'Duota Torunėje, Viešpaties metais 1576, gruodžio 20 dieną.'
+  pagrindžia:
+    - c-006
+
+- t-009
+  teiginys: 'Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) padarytas iš Karaliaučiaus bibliotekos teksto.'
+  pagrindžia:
+    - c-009
+
+- t-010
+  teiginys: 'Ordino magistras persikėlė į Kulmo žemę ir pastatė Torunės pilį, po to prasidėjo sisteminga agresija prieš prūsus.'
+  pagrindžia:
+    - c-007
+
+- t-011
+  teiginys: 'Dusburgietis teigia, kad kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė traukti su kariuomene į šią vietą.'
+  pagrindžia:
+    - c-014
+
+- t-012
+  teiginys: 'Dusburgietis teigia, kad todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti į vienuolyną, ir šis pasiuntė į Torunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko, kas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių.'
+  pagrindžia:
+    - c-013
+
+- t-013
+  teiginys: 'Torunės gvardijonas kartu su kitais dvasininkais laiškuose popiežiui gynė kryžiuočius nuo Gedimino skundo.'
+  pagrindžia:
+    - c-008
+
+- t-014
+  teiginys: 'Dusburgietis teigia, kad sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės, apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias kryžiuočių pilis Varmės žemėje, Rudino miesto užkariavimus ir kt.'
+  pagrindžia:
+    - c-011
+
+- t-015
   teiginys: 'Dusburgietis teigia, kad po to priėjo Torunę ir sudegino ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų.'
   pagrindžia:
     - c-004
 
-- t-018
-  teiginys: 'Dusburgietis teigia, kad torunės pilies vietoje dar 1000—500 m. pr.'
+- t-016
+  teiginys: 'Dabartinės Torunės pilies vietoje 1000–500 m. pr. m. e. buvo lužitėnų kultūros gyvenvietė.'
   pagrindžia:
     - c-003
-
-- t-019
-  teiginys: 'Dusburgietis teigia, kad stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68.'
-  pagrindžia:
-    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -144,6 +129,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   statusas: verified
   pagrindžia:
     - t-002
+    - t-007
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -163,6 +149,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - t-001
 
 - c-003
+  santrauka: 'Dabartinės Torunės pilies vietoje 1000–500 m. pr. m. e. buvo lužitėnų kultūros gyvenvietė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
@@ -173,7 +160,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-016
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -188,9 +175,10 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-015
 
 - c-005
+  santrauka: '1236 m. Torunės miestas buvo perkeltas į dabartinės Torunės vietą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1236 m. Torunės miestas perkeltas į dab. Torunės vietą (SRP, 3, p. 58). Čia pradėta
@@ -200,19 +188,9 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-006
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-019
-
-- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Norime, kad kuo ilgiausiai tas darbas bei
@@ -223,28 +201,9 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-008
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat
-    Torunės analai (originalios žinios prasideda XIV a. pradžia, įvykiai pratęsti iki 1410 m.)102
-    bei su pastaraisiais susijusi „Prūsijos žemės kronika“ (pratęsta iki 1450 m.)103, sudaryta
-    Chelmžos vyskupo aplinkoje104.
-      Sembos kanauninko rinkinio105, turinčio ryšio su Dusburgiečio tekstu, tyrinėjimai106
-    rodo, kad čia taip pat esama žinių, išrašytų iš neišlikusio Seniausio Prūsijos metraščio,
-    kad Dusburgietis galėjęs žinoti ir Diunamiundės metraštį107. Apskritai visų šių šaltinių
-    ir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos
-    metraščiu, kuriame buvo kur kas daugiau žinių, negu išliko jo nuorašuose iki mūsų
-    dienų108.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-009
+- c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1231 m. Ordino magistras iš lenkų jam
@@ -259,9 +218,10 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
-- c-010
+- c-008
+  santrauka: 'Torunės gvardijonas kartu su kitais dvasininkais laiškuose popiežiui gynė kryžiuočius nuo Gedimino skundo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
@@ -286,9 +246,10 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
+    - t-005
 
-- c-011
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus
@@ -298,9 +259,9 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-012
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota Torunėje,
@@ -311,9 +272,9 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-013
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis, kaip  jis pats pažymi įvade, pasisėmė medžiagos ne tik iš rašytinių
@@ -328,55 +289,10 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
-- c-014
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tad atmeskite tą bedievišką sąjungą: o ka­
-    dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,
-    nesiliaukite kovoję su priešu ir tik po visiško jo sunaikinimo
-    pelnysite garbę žemėje, o danguje triumfo laurus"8.
-    Kai maždaug tuo metu sužinota, jog Gedimino skundas
-    tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­
-    sijos kustodas, to paties ordino Torunės, Kulmo, Braunsber-
-    go ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­
-    tai: Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti
-    kryžiuočių, tiesiogiai popiežiui dviejuose laiškuose pranešda­
-    mi, esą meilė tiesai ir pareiga jos laikytis verčianti juos pa­
-    reikšti Jo Šventenybei, kad Ordino brolių garbė tapo šmeiži­
-    kišku ir nedoru būdu suteršta, nes pavyduoliai jų priešai išdrįso
-    teigti, esą ordinas karštai priešinęsis Lietuvos karaliaus pa­
-    geidavimui priimti krikščionių tikėjimą*. Jie tad, esant tokiai
-    Minus ergo decet militantes domino,
-    genti peccatrici, populo nequam, filiis
-    sceleratis aliqua pactione conjungi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-015
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Teutonų
-    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
-    gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­
-    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
-    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
-    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
-    bemaž visi Varmės miestai.
-    Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
-    amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
-    kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-016
+- c-012
+  santrauka: 'Torunės seime dėl ginčų su Gdansku ir kitų nesutarimų nebuvo numatyta nustatyti jokių rinkliavų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Radvila užsistojo juos,
@@ -401,7 +317,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   pagrindžia:
     - t-003
 
-- c-017
+- c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neilgai trukus, stigdami pilyse maisto, beveik jau bado spiriami, broliai su savo
@@ -415,20 +331,9 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
 
-- c-018
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M. Bisköpa.— Warszawa—Poznań—
-    Toruń, 1983.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-019
+- c-014
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi
@@ -443,4 +348,4 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011

@@ -33,36 +33,21 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
 - t-001
   teiginys: 'Albertas Daugirdas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie AT rūmų gynybos ruožus bendraautoris.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Albertas Daugirdas 1971 m. gimė ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Albertas Daugirdas buvo AT gynybos dalyvis ir tyrė 1944–1953 m. rezistencinių kovų bei 1991 m. pasipriešinimo genezę.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Albertas Daugirdas (gimęs 1971 m.), baigė Vilniaus pedagoginio
-    universiteto Istorijos fakultetą, kur įgijo istorijos ir politologijos
-    mokytojo kvalifikaciją. AT gynybos dalyvis. Autorius domisi rezis-
-    tencinių kovų 1944-1953 m. ir 1991 m. sausio-rugpjūčio mėn. pa-
-    sipriešinimo geneze bei išmoktomis pamokomis. Ypatingą dėmesį
-    teikia karinių/taktikos aspektų analizavimui ir nušvietimui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     LIETUVOS ATSIKŪRIMAS
@@ -74,7 +59,7 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     264
@@ -94,6 +79,7 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -20,7 +20,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar XIV a.'
+  teiginys: 'Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     - t-003
 
 - c-002
+  santrauka: 'Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
@@ -101,4 +102,3 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - [[objektai/zodynas/žygis]]
 - [[objektai/posakiai/krikščioniškieji plėšikautojai]]
 - [[objektai/zodynas/latrunkuliai]]
-- [[objektai/grupes/Pamedėnai]]

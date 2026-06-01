@@ -24,13 +24,14 @@ Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX amžių rankraščių fondų trumpa apžvalga / Sudarė V.'
+  teiginys: 'V. Abramavičius sudarė „Rankraščių rinkinius“, išleistus Vilniuje 1963 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Abramavičius sudarė „Rankraščių rinkinius“, išleistus Vilniuje 1963 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX

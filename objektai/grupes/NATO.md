@@ -36,7 +36,7 @@ amziai:
 - t-003
   teiginys: 'Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -58,18 +58,6 @@ amziai:
     - t-001
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sovietų Sąjungos aneksiją ir perestroikos bei naujo Atgimimo sąlygomis
-    atkurti Nepriklausomybę.
-    Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -83,6 +71,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

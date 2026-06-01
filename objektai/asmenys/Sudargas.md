@@ -80,6 +80,4 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
 - [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
-- [[objektai/zodynas/pilėnas]]
-- [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]

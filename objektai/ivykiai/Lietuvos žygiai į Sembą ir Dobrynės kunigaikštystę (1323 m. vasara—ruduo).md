@@ -43,7 +43,7 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad tuo pat metu „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta išlaikyti savo pusėje56.'
@@ -69,6 +69,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,23 +90,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo pat metu
-    „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias
-    pilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
-    patraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo
-    pusėje56.
-      Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų  iš
-    Vokietijos, Čekijos  ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,
-    Ariogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

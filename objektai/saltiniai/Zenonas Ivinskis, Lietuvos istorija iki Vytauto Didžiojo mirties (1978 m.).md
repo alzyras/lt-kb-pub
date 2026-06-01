@@ -42,12 +42,12 @@ atnaujinta: ''
     - c-004
 
 - t-002
-  teiginys: 'Tikroji Lietuvos istorija šiame veikale pradedama XII amžiaus gale, kai lietuvių žygiai jau gali būti nuosekliai grindžiami rašytais šaltiniais.'
+  teiginys: 'Zenono Ivinskio veikale Lietuvos istorija pradedama XII a. pabaiga, kai lietuvių žygiai jau grindžiami rašytiniais šaltiniais.'
   pagrindžia:
     - c-005
 
 - t-003
-  teiginys: 'Autorius mirė 1971 m. gruodžio 24 d., nebaigė numatyto plano, o šį tomą, užpildydamas spragas, redagavo Paulius Jatulis.'
+  teiginys: 'Zenonas Ivinskis mirė 1971 m. gruodžio 24 d., nebaigęs numatyto plano, o tomą redagavo ir spragas užpildė Paulius Jatulis.'
   pagrindžia:
     - c-001
 
@@ -139,6 +139,7 @@ atnaujinta: ''
     - t-001
 
 - c-005
+  santrauka: 'Zenono Ivinskio veikale Lietuvos istorija pradedama XII a. pabaiga, kai lietuvių žygiai jau grindžiami rašytiniais šaltiniais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Reikia džiaugtis,

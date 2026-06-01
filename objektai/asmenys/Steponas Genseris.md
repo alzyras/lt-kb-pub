@@ -25,13 +25,14 @@ tags:
     - c-002
 
 - t-002
-  teiginys: 'Šiuo raštu skel­ biame visiems ir kiekvienam, kam dera žinoti, kad pas mus ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems senjorams ir visam mūsų Vilniaus miesto auksakalių ce­ chui, buvo pakviestas garsusis Steponas Genseris, auksaka­ lys, tiek.'
+  teiginys: 'Auksakalys Steponas Genseris buvo pašauktas į teismą Vilniaus miesto auksakalių cecho reikalavimu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Auksakalys Steponas Genseris buvo pašauktas į teismą Vilniaus miesto auksakalių cecho reikalavimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Transilvanijos kunigaikštis. Šiuo raštu skel­
@@ -83,3 +84,5 @@ tags:
 - [[objektai/zodynas/Cechas]]
 - [[objektai/grupes/Vilniaus miesto cechai]]
 - [[objektai/zodynas/jurisdikcija]]
+- [[objektai/zodynas/cechas contubernium]]
+- [[objektai/zodynas/civilinė teisė ir pasaulietinė civilinė teisė]]

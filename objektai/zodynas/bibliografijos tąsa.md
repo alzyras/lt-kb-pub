@@ -24,13 +24,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '2) Kitos keturios tos bibliografijos tąsos, apimančios 1939-1966 metus, yra išleistos Marburge (Lahn) 1953-1969 m. serijoje : Wissenschaftliche Bei­ trage zur Geschichte und Landeskunde Ostund Mitteleuropas, herausgegeb.'
+  teiginys: 'Keturios bibliografijos tąsos, apimančios 1939-1966 m., buvo išleistos Marburge 1953-1969 m. serijoje apie Rytų ir Vidurio Europą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Keturios bibliografijos tąsos, apimančios 1939-1966 m., buvo išleistos Marburge 1953-1969 m. serijoje apie Rytų ir Vidurio Europą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Geschichte von Ost- und Westpreußen für die Jahre

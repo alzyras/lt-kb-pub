@@ -31,32 +31,32 @@ rijenburgas.
 - t-001
   teiginys: 'Gavus žvalgų duomenis, koks pilies sienų aukštis, kryžiuočių sostinėje Marienburge buvo pagaminti atitinkamo aukščio šturmo bokštai.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: '1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-003
   teiginys: '1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą.'
   pagrindžia:
-    - c-011
+    - c-008
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad marienburgo pilis Nogato deš.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės jau nebeįstengė paimti.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad apie Marienburgo pilies pastatymą 1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten, kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios šlovei bei garbei ji čia ir buvo perkelta500.'
   pagrindžia:
-    - c-013
+    - c-011
 
 - t-007
   teiginys: 'Vaidyla, turimomis žiniomis, kelis kartus slaptai keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį.'
@@ -66,51 +66,52 @@ rijenburgas.
 - t-008
   teiginys: 'Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas žinojo arba nujautė jo pasiuntinystės tikslus.'
   pagrindžia:
-    - c-012
+    - c-010
 
 - t-009
-  teiginys: '52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną.'
+  teiginys: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, paskui per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-010
   teiginys: 'Dusburgietis teigia, kad jo nuorašas su kitais Ordino dokumentais į Marienburgą galėjo pakliūti defektuotas, nepilnas, tuo iš dalies paaiškinamos ir Dusburgiečio klaidos.'
   pagrindžia:
-    - c-016
+    - c-013
 
 - t-011
   teiginys: 'Dusburgietis teigia, kad ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m —Marienburgas.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-012
   teiginys: 'Vytauto kariuomenė buvo stipriai išretinta ne tik Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.'
   pagrindžia:
-    - c-015
+    - c-012
 
 - t-013
-  teiginys: 'Viename tų laiškų, rašytame iš Marienburgo 1576 metų rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­ tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­ lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­ to tarybos, prie jo.'
+  teiginys: '1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške Steponas Batoras sutiko atidėti muito rinkimą iki seimo.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-014
-  teiginys: 'Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­ sintą «išdavystę» (Verrat), Vytautas, vikriai užsimaskavęs, sude­ gino Nemuno Marienburgą ir sunaikino dar kitas dvi jam valdyti pavestas pilis (Jurgenburgą, Naująjį Bajerburgą = Neuhaus)^24.'
+  teiginys: 'Nuo 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino dar dvi jam valdyti pavestas pilis.'
   pagrindžia:
     - c-001
 
 - t-015
   teiginys: 'Slaptai suruošto žygio metu didysis magistras iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
-    - c-014
+    - c-006
 
 - t-016
-  teiginys: 'Yra žinių, kad Vaidyla keletą kartų slaptai kelia­ vęs į Marienburgą ir iš Vokiečių Ordino magistro gavęs suti­ kimą sudaryti naują sutartį.'
+  teiginys: 'Vaidyla kelis kartus slapta keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nuo 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino dar dvi jam valdyti pavestas pilis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­
@@ -139,25 +140,9 @@ rijenburgas.
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Į šitą luomą jis pateko vesdamas Jogailos seserį
-    Mariją; iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo
-    kunigaikščio rūmininku, o vėliau Julijonos malone— ir vyno
-    pilstytoju. Yra žinių, kad Vaidyla keletą kartų slaptai kelia­
-    vęs į Marienburgą ir iš Vokiečių Ordino magistro gavęs suti­
-    kimą sudaryti naują sutartį.
-    Norėdamas paslėpti nuo Kęstučio savo paskutinius suma­
-    nymus, Jogaila padarė Dovydiškiuose neva medžioklę^4 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-016
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     500 Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
@@ -170,7 +155,7 @@ rijenburgas.
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žygiui ruoštasi visus metus. Gavus žvalgų duomenis, koks pilies sienų aukštis, kryžiuočių sostinėje Marienburge buvo pag-
@@ -181,7 +166,7 @@ rijenburgas.
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
@@ -197,7 +182,8 @@ rijenburgas.
   pagrindžia:
     - t-011
 
-- c-007
+- c-006
+  santrauka: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, paskui per jūros įlanką įplaukė į Nemuną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
@@ -216,8 +202,9 @@ rijenburgas.
   statusas: verified
   pagrindžia:
     - t-009
+    - t-015
 
-- c-008
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po
@@ -234,7 +221,8 @@ rijenburgas.
   pagrindžia:
     - t-005
 
-- c-009
+- c-008
+  santrauka: '1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške Steponas Batoras sutiko atidėti muito rinkimą iki seimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius ŽYGIMANTAS AUGUSTAS
@@ -268,8 +256,9 @@ rijenburgas.
   statusas: verified
   pagrindžia:
     - t-013
+    - t-003
 
-- c-010
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1400 m. Kalėdoms į Karaliaučių nuvykę
@@ -284,38 +273,7 @@ rijenburgas.
   pagrindžia:
     - t-002
 
-- c-011
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    VII
-    DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ,
-    RAŠYTŲ RADVILOMS, TURINYS:
-    APIE MUITUS IR MOKESČIUS
-    VILNIAUS PIRKLIAMS IR MIESTIEČIAMS
-    Autentiškų karaliaus Stepono laiškų, rašytų Radviloms,
-    rinkinyje, saugomame Radvilų archyve, Kardinalijoje, yra
-    du laiškai, atskleidžiantys, kad vis dėlto karalius, nenoriai
-    ir tai tik atkakliai prašomas Lietuvos senatorių ir protestuo­
-    jant Vilniaus pirkliams, laikinai juos atleido nuo naujai nu­
-    statyto muito mokesčio.
-    Viename tų laiškų, rašytame iš Marienburgo 1576 metų
-    rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­
-    tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­
-    lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­
-    to tarybos, prie jo esančios ir žinančios skubiausiai
-    tvarkytinus Respublikos reikalus, sutikimu. Tačiau sutinkąs
-    atidėti šio muito rinkimą iki būsimo seimo, įsakęs Lietuvos
-    iždininkui įrašyti tik į sąrašus tai, kas priklausys nuo pre­
-    kių, kad vėliau, po seimo sprendimo, būtų žinoma, ko gali­
-    ma reikalauti iš pirklių, o ko reikėtų atsisakyti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-012
+- c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Naujų galimumų akivaizdoje Jogaila pasiuntė į Vakarų Eu­
@@ -331,7 +289,7 @@ rijenburgas.
   pagrindžia:
     - t-008
 
-- c-013
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     208 (203). Apie Marienburgo pilies pastatymą
@@ -350,27 +308,7 @@ rijenburgas.
   pagrindžia:
     - t-006
 
-- c-014
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lindenblatt Jahrbücher, p. 9 4 .
-    52
-    Tas žygis buvo paskubomis ir slap­
-    ta suruoštas, ir todėl didysis magist­
-    ras tuokart mažai teturėjo svetimša­
-    lių, juk nesigarsino po visą Europą,
-    o slapčia iš Marienburgo išplaukė
-    Vysla laivais, paskui jūros įlanka
-    įplaukė į Nemuną. Mūsų istorikai
-    bendrais bruožais ir ne taip išsamiai
-    apie šitai pasakoja.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-015
-
-- c-015
+- c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Yra duomenų spręsti, kad Jogaila ir Vytautas yra veikę drauge
@@ -384,7 +322,7 @@ rijenburgas.
   pagrindžia:
     - t-012
 
-- c-016
+- c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     pažymėtos vienodai (I, 2, 3, 4, 5; IV, 33; III, 309, 314). iš to daroma išvada, kad jau

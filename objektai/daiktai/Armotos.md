@@ -38,13 +38,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Skir­ gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­ lių armotų.'
+  teiginys: 'Skirgaila Trakų piliai ginti iš vokiečių kariuomenės maršalkos dovanų gavo keletą didelių armotų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skirgaila Trakų piliai ginti iš vokiečių kariuomenės maršalkos dovanų gavo keletą didelių armotų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Patvirtinus tą aktą savo antspaudomis Baigos, Bran­

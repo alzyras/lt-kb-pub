@@ -57,27 +57,27 @@ Nenurodyta
 - t-002
   teiginys: 'Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Dalis medikamentų buvo skiriama kolegijoje sergantiems asmenims, kuriems vaistininkai turėjo be užmokesčio duoti vaistų.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
-  teiginys: 'Nors jų ginčai dėl karaliaus gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­ nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­ miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
+  teiginys: 'Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
-  teiginys: 'Betgi pastaraisiais laikais, kelių vaisti­ ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip dabar (1780 metais).'
+  teiginys: '1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
   teiginys: 'Aleksandro laikais Vilnius pirmą kartą pažino gydytoją ir vaistinę.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -106,31 +106,6 @@ Nenurodyta
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Medžiagų in crudo [žaliavų], užjūrio ir vietinių prepara­
-    tų, užėjus vargo metams, negalėjo būti gauta pakankamos
-    quantitas, qualitas ir valor [kiekio, kokybės, vertės], kadangi
-    geram dalykų vertinimui reikėjo atsikviesti prisiekusių me­
-    dikų, kurie būtų padarę teisingą apskaitą; vis dėlto po tų
-    medžiagų surašymo, kiek sugebėta, persverta ir įvertinta, ir
-    tų visų medikamentų bei medžiagų vertė buvo mažesnė 28
-    707 auksinais ir 12 grašių.
-    Metinės pajamos, kaip kad įsitikinta peržiūrėjus kelioli­
-    kos metų darbą, buvo nevienodos ir priklausė nuo įvairių
-    aplinkybių, būtent: kol vaistinėje buvo leidžiama laikyti ir
-    pardavinėti degtinę, tol metinės pajamos galėdavo pasiekti
-    quantum 30 000 auksinų; seimo sprendimu buvo uždrausta
-    vaistinėse pardavinėti degtinę, tad pajamos tiesiog in tertio
-    sorte krito. Dabar pajamos priklauso vien tik nuo medika­
-    mentų, žmonių sveikatos ar ligų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
     Kas sudaro puri lucri [gryno pelno] 3 170 auk. 2 gr.
     Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­
     žymėtina], kad nemaža medikamentų dalis buvo išleista in
@@ -142,7 +117,8 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
+  santrauka: '1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi pastaraisiais laikais, kelių vaisti­
@@ -168,8 +144,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002
 
-- c-005
+- c-004
   santrauka: 'Aleksandro laikais Vilnius pirmą kartą pažino gydytoją ir vaistinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -201,7 +178,8 @@ Nenurodyta
   pagrindžia:
     - t-006
 
-- c-006
+- c-005
+  santrauka: 'Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik kai Aleksandrą kelerius metus nuolat ka­
@@ -249,6 +227,7 @@ Nenurodyta
 - [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]
 - [[objektai/zodynas/špitolė prieglauda]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
+- [[objektai/zodynas/farmacinės lotyniškos sąvokos vaistinės kronikoje]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
 - [[objektai/asmenys/Paulius Rusdorfas]]

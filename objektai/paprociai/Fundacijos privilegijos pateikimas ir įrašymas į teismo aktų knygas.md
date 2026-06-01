@@ -45,7 +45,7 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Po šiuo Jo Didenybės karaliaus Žygimanto parašu Uk­ mergės pavieto teismo akto ištrauka su parašu, tokiais žodžiais išreikšta: Metais tūkstantis šeši šimtai keturias­ dešimt devintais, gruodžio mėnesio dvidešimt devintą die­ ną, maloningas Dievuje Jo Malonybė.'
+  teiginys: '1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po šiuo Jo Didenybės karaliaus Žygimanto parašu Uk­
@@ -209,4 +210,6 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Jonas Kazimieras]]
+- [[objektai/asmenys/Kazimieras]]
 - [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės]]

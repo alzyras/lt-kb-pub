@@ -22,7 +22,7 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 492 D.— territorium dictum Meruniskam, Jer.— gebît[...] Meruniskin; Mėrūniškis (dab.'
+  teiginys: 'Mėrūniškis buvo to paties vardo valsčiaus įtvirtintas centras apie 29 km į šiaurės vakarus nuo Suvalkų.'
   pagrindžia:
     - c-002
 
@@ -48,8 +48,10 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-002
+  santrauka: 'Mėrūniškis buvo to paties vardo valsčiaus įtvirtintas centras apie 29 km į šiaurės vakarus nuo Suvalkų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     492 D.— territorium dictum Meruniskam, Jer.— gebît[...] Meruniskin; Mėrūniškis (dab.
@@ -60,20 +62,3 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492, kur nukovė 18 šio valsčiaus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    197 (192). Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą
-
-       Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą
-    raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492,
-    kur nukovė 18 šio valsčiaus žymių viešpačių [dominos], o kitus [karius] paliko prie
-    įeigos  į minėtąją žemę493. Jis šį valsčių smarkiai nusiaubė, degindamas ir plėšdamas,
-    nukaudamas ar paimdamas į nelaisvę šešis šimtus vyrų ir moterų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003

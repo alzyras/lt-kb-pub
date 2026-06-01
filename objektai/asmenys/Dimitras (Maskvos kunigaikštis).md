@@ -24,7 +24,7 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
     - c-001
 
 - t-002
-  teiginys: 'Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algirdo ir Maskvos kunigaikščio Dimitro.'
+  teiginys: 'Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.'
   pagrindžia:
     - c-002
 
@@ -44,7 +44,7 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
     - t-001
 
 - c-002
-  santrauka: 'Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algirdo ir Maskvos kunigaikščio Dimitro.'
+  santrauka: 'Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Daugelis rusų

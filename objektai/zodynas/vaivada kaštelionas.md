@@ -26,13 +26,14 @@ Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarn
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarnybos ir tiksliai apibrėžtos jų pareigos miestui tarsi suteikė naujo pra­ kilnumo71.'
+  teiginys: 'Po Horodlės unijos akto Lietuvoje pagal Lenkijos pavyzdį buvo įvestos vaivados ir kašteliono tarnybos, apibrėžus jų pareigas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Horodlės unijos akto Lietuvoje pagal Lenkijos pavyzdį buvo įvestos vaivados ir kašteliono tarnybos, apibrėžus jų pareigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - 4-oji privilegija, 1412,feria

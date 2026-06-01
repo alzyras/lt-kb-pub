@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio duktė Julijo­ na -išpažino graikų apeigų tikėjimą ir Trakų pilyje, dar prieš Lietuvos krikštą, turėjo savo koplyčią, kurios pėdsakų šios pilies vienos sienos se­ novinėje tapyboje yra.'
+  teiginys: 'Vytauto žmonos Ona ir Julijona išpažino graikų apeigų tikėjimą ir dar prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto žmonos Ona ir Julijona išpažino graikų apeigų tikėjimą ir dar prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš
@@ -86,5 +87,6 @@ Nenurodyta
 - [[objektai/grupes/Graikai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/asmenys/Ona (Vytauto žmona)]]

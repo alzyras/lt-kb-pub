@@ -30,23 +30,24 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 ## Teiginiai
 
 - t-001
-  teiginys: 'Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­ nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas 34 Privilegija, duota Paleckiui steigti šią liejyklą, yra rašyta.'
+  teiginys: '1547 m. gegužės 22 d. privilegija Martynui Paleckiui steigti fabriką skyrė sklypą prie Vilniaus už Vilijos upės.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­ šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­ tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig- 32 33 Žr.'
+  teiginys: 'Martynas Paleckis iš karaliaus gavo sklypą prie Vilniaus už Vilijos ir leidimą steigti pirmąjį miesto stiklo fabriką.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: '1619 m. 56 Miesto aktuose yra: karaliaus Stepo­ no patvirtinimas sutarties tarp po­ no Martyno Paleckio ir jo žmonos, dabar ponios Rainos Sluščiankos, ir miesto dėl stiklo liejyklos ir stiklo su­ pirkimo.'
+  teiginys: 'Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1572, mir.
@@ -70,6 +71,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     - t-003
 
 - c-002
+  santrauka: '1547 m. gegužės 22 d. privilegija Martynui Paleckiui steigti fabriką skyrė sklypą prie Vilniaus už Vilijos upės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trys į
@@ -98,6 +100,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     - t-001
 
 - c-003
+  santrauka: 'Martynas Paleckis iš karaliaus gavo sklypą prie Vilniaus už Vilijos ir leidimą steigti pirmąjį miesto stiklo fabriką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat, kad miesto
@@ -125,4 +128,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 - [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vaitas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]
+- [[objektai/ivykiai/Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.)]]
 - [[objektai/daiktai/1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas]]

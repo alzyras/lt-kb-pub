@@ -76,7 +76,6 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/flangas]]
 - [[objektai/zodynas/magistras]]

@@ -29,19 +29,19 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­ sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­ navos pradėjo užimti sukilusį kraštą.'
+  teiginys: 'Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­ siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­ num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­ poldum).'
+  teiginys: 'Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­ siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­ num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­ poldum).'
+  santrauka: 'Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai sužinojo, kad kryžiuočių
@@ -57,6 +57,7 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
     - t-002
 
 - c-002
+  santrauka: 'Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Grūdų sulaikymas Vytautui akivaizdžiai parodė, ką reiškė

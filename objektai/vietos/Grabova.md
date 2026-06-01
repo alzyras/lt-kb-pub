@@ -27,7 +27,7 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 ## Teiginiai
 
 - t-001
-  teiginys: 'Toliau Vytautas prekybos reikalus gynė beveik visose su Ordinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­ rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­ (^1) ) Hirt.'
+  teiginys: '1414–1418 m. paliaubų pasitarimuose Grabovoje Vytautas gynė prekybos reikalus su Ordinu.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1414–1418 m. paliaubų pasitarimuose Grabovoje Vytautas gynė prekybos reikalus su Ordinu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Darydamas su jais atskiras sutartis, jis didino savo iždą

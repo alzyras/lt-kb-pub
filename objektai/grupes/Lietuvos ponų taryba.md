@@ -26,28 +26,29 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato raštininkų namai ir butai kartą ir visiems laikams bu­ vo atleisti nuo bet kokios nakvynės ir apsistojimo prievolės.'
+  teiginys: '1560 m. Vilniuje vykusiame Lietuvos Didžiosios Kunigaikštystės Ponų Tarybos seime karalius leido bajorams rinkti delegatus.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
+  teiginys: 'Žygimantas Augustas Lietuvos ir Lenkijos ponų tarybų patarimu įsakė nustatyti lietuviškos monetos vertę lenkiškais grašiais.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'O kadangi sulig mūsų valdovo mirtimi mūsų nelaimingą Res­ publiką užgriuvo galybė pavojų, kuriems laiku užbėgti už akių ir, atsižvelgiant į aplinkybes, priimti sprendimą yra Jūsų Malonybės ir ponų tarybos pareiga, nieko išmintingesnio nematytume, jeigu Jūsų.'
+  teiginys: 'Po valdovo mirties ponų tarybos nariai buvo kviečiami atvykti prie mirusio valdovo kūno ir spręsti Respublikai kilusius pavojus.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Nors ir yra pinigų, paimtų už Mask­ vos kalinius bei ką tik iš Gdansko atgabentų, vis dėlto pa­ tartume tą sumą dvarui sulaikyti iki Jų Malonybių ponų tarybos narių suvažiavimo.'
+  teiginys: 'Pinigus, gautus už Maskvos kalinius ir atgabentus iš Gdansko, siūlyta sulaikyti iki ponų tarybos narių suvažiavimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pinigus, gautus už Maskvos kalinius ir atgabentus iš Gdansko, siūlyta sulaikyti iki ponų tarybos narių suvažiavimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nes, tarp kitko, mūsų mi­
@@ -77,6 +78,7 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
     - t-004
 
 - c-002
+  santrauka: 'Žygimantas Augustas Lietuvos ir Lenkijos ponų tarybų patarimu įsakė nustatyti lietuviškos monetos vertę lenkiškais grašiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  369-
@@ -112,6 +114,7 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
     - t-002
 
 - c-003
+  santrauka: '1560 m. Vilniuje vykusiame Lietuvos Didžiosios Kunigaikštystės Ponų Tarybos seime karalius leido bajorams rinkti delegatus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vaito,
@@ -132,6 +135,7 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
     - t-001
 
 - c-004
+  santrauka: 'Po valdovo mirties ponų tarybos nariai buvo kviečiami atvykti prie mirusio valdovo kūno ir spręsti Respublikai kilusius pavojus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gi tuo laiku
@@ -165,8 +169,9 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/daiktai/Monetos]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės Ponų Taryba]]
 - [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]
 - [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]

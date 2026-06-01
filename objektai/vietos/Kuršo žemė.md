@@ -27,13 +27,14 @@ Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 1
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
+  teiginys: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės dalį, grobdami, degindami ir išsivesdami belaisvius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės dalį, grobdami, degindami ir išsivesdami belaisvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­

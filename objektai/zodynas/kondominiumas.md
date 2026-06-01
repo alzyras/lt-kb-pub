@@ -17,35 +17,14 @@ Panašu, kad LDK rusiškosios žemės buvo Lietuvos ir Aukso ordos kondominiumas
 ## Teiginiai
 
 - t-001
-  teiginys: 'Gediminas ir Algirdas už teisę valdyti prisijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.'
+  teiginys: 'LDK rusiškosios žemės laikytos Lietuvos ir Aukso ordos kondominiumu, tai yra bendra valda.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Panašu, kad LDK rusiškosios žemės buvo Lietuvos ir Aukso ordos kondominiumas – bendra L I E T U V O S I S T O R I J A 38 valda.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Paprastai perimama ir žlu-
-    gusios imperijos administracinė struktūra bei kultūros paveldas.
-    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
-    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
-    Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
-    das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
-    Vytautas nustojo mokėti mongolams duoklę).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Panašu, kad LDK rusiškosios žemės buvo Lietuvos ir Aukso ordos kondominiumas – bendra L I E T U V O S I S T O R I J A 38 valda.'
+  santrauka: 'LDK rusiškosios žemės laikytos Lietuvos ir Aukso ordos kondominiumu, tai yra bendra valda.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
@@ -62,7 +41,7 @@ Panašu, kad LDK rusiškosios žemės buvo Lietuvos ir Aukso ordos kondominiumas
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -73,6 +52,3 @@ Panašu, kad LDK rusiškosios žemės buvo Lietuvos ir Aukso ordos kondominiumas
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Aukso orda]]
-- [[objektai/grupes/Mongolų imperija]]

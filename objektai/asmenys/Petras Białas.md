@@ -26,13 +26,14 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­ tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­ lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­ kė Vilniuje, iš Maskvos atvykusių pasiuntinių.'
+  teiginys: '1494 m. balandžio 18 d. Petras Białas Maskvoje kaip Lietuvos pasiuntinys pasirašė amžinos taikos sutartį su caru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1494 m. balandžio 18 d. Petras Białas Maskvoje kaip Lietuvos pasiuntinys pasirašė amžinos taikos sutartį su caru.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS

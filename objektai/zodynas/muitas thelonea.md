@@ -36,13 +36,14 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
     - c-002
 
 - t-003
-  teiginys: 'Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­ ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­ čius.'
+  teiginys: 'Dėl Vilniaus Batoras pareikalavo, kad vaivada Radvila ragintų mokėti nustatytus muitus ir iš miestiečių išreikalautų Czopowe bei Szosowe mokesčius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dėl Vilniaus Batoras pareikalavo, kad vaivada Radvila ragintų mokėti nustatytus muitus ir iš miestiečių išreikalautų Czopowe bei Szosowe mokesčius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Torunės seime, kilus ginčams
@@ -141,6 +142,7 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/grupes/Vilniaus pirkliai]]

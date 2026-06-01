@@ -25,13 +25,14 @@ Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­ čio dvare9.'
+  teiginys: '1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
@@ -52,4 +53,3 @@ Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo 
 ### Susiję objektai
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Bomannas]]
-- [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]

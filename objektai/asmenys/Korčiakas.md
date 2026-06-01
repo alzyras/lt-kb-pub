@@ -28,18 +28,19 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą.'
+  teiginys: 'Šv. Dvasios dominikonų bažnyčioje priešais karaliaus Aleksandro portretą buvo kunigo Korčiako paveikslas.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv.'
+  teiginys: 'Kunigas Korčiakas buvo Aleksandro kapelionas; po Korčiako mirties Aleksandras Šv. Dvasios kleboniją perdavė dominikonams.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šv. Dvasios dominikonų bažnyčioje priešais karaliaus Aleksandro portretą buvo kunigo Korčiako paveikslas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pa-
@@ -62,6 +63,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     - t-001
 
 - c-002
+  santrauka: 'Kunigas Korčiakas buvo Aleksandro kapelionas; po Korčiako mirties Aleksandras Šv. Dvasios kleboniją perdavė dominikonams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daugelis jų garsėjo su­
@@ -83,3 +85,4 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 - [[objektai/daiktai/Aleksandro portretas ir kunigo Korčiako paveikslas]]
 - [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
 - [[objektai/grupes/Dominikonų ordinas]]
+- [[objektai/zodynas/klebonija]]

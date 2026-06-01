@@ -20,13 +20,14 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jau, pasak mūsų kronikų, Lietuvos kunigaikštis Germantas XIII amžiuje pirmasis toje vietoje turėjo būti įkurdinęs vaidik Č a c k i s, gavęs išrašą iš tos Snorro kelionės aprašymo rankraščio, esan­ čio Kopenhagos bibliotekoje, pirma­ sis apie tai užsiminė.'
+  teiginys: 'Čackis pirmasis užsiminė apie Snorro kelionės aprašymo rankraščio išrašą iš Kopenhagos bibliotekos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Čackis pirmasis užsiminė apie Snorro kelionės aprašymo rankraščio išrašą iš Kopenhagos bibliotekos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau,

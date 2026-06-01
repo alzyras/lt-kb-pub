@@ -148,4 +148,3 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 - [[objektai/grupes/Švento Jono ligoninės ordinas]]
 - [[objektai/ivykiai/Bonifaco VIII Albrechto paskelbimas imperatoriumi ir Prancūzijos karalystės atidavimas (1303 m.)]]
 - [[objektai/ivykiai/Klemenso V mirtis (1314 m. balandžio 20 d.)]]
-- [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]

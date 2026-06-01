@@ -24,13 +24,14 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mamoničių namai sto­ vėjo, rodos, toje vietoje, kur dabar Sledzinskio namai, Nr. 203, o šalia, kampiniame name, seniau buvo cerkvelė.'
+  teiginys: 'Mamoničių namai, pasak autoriaus, stovėjo dabartinių Sledzinskio namų Nr. 203 vietoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mamoničių namai, pasak autoriaus, stovėjo dabartinių Sledzinskio namų Nr. 203 vietoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1822. Mamoničių namai sto­

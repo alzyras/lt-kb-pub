@@ -43,7 +43,7 @@ Nenurodyta
 - t-001
   teiginys: 'Jo kelionės išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žingsnis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-002
   teiginys: '1939 m. spalio 10 d., agresyviai spaudžiant J. Stalinui ir V. Molotovui, pasirašyta Vilniaus perdavimo ir SSRS-Lietuvos savitarpio pagalbos sutartis.'
@@ -81,6 +81,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+    - t-001
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -133,21 +134,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
-    pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
-    nis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.
-    Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
-    pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
-    dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

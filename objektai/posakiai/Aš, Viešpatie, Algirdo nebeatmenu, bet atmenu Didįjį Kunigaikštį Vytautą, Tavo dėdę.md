@@ -19,13 +19,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Štai yra užsi­ likęs vienas dokumentas iš Kazimiero laikų (artimų Vytautui), kur vienas valstietis dėl imamų jų kaime mokesčių pasisako: „Aš, Viešpatie, Algirdo nebeatmenu, bet atmenu Didįjį Kuni­ gaikštį Vytautą, Tavo dėdę, o taip pat, Viešpatie, atmenu, kad.'
+  teiginys: 'Kazimiero laikų dokumente valstietis dėl kaimo mokesčių sakė nebeatsimenantis Algirdo, bet atsimenantis Vytautą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kazimiero laikų dokumente valstietis dėl kaimo mokesčių sakė nebeatsimenantis Algirdo, bet atsimenantis Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kadangi Vytauto laikais vyko persilaužimas tarp natūrali­

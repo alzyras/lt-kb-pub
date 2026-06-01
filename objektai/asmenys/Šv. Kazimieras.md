@@ -40,13 +40,14 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
     - c-004
 
 - t-004
-  teiginys: 'pradžioje karalaitis Kazimieras garbintas Vilniaus apylinkėse, o šv.'
+  teiginys: 'XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus

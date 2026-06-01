@@ -32,7 +32,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš Zalcos, miręs 1239 m.113, tuo tarpu „Pranešimo...“ pabaigoje aprašomi vėlesni įvykiai, Ordino magistro Henriko iš Hohenlohės (1244—1249 m.) valdymo laikotarpio.'
+  teiginys: 'Henrikas iš Hohenlohės buvo Ordino magistras 1244–1249 metais.'
   pagrindžia:
     - c-001
 
@@ -49,6 +49,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Henrikas iš Hohenlohės buvo Ordino magistras 1244–1249 metais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai, rodos, leistų manyti, kad minimas Hermanas iš Zalcos, miręs 1239

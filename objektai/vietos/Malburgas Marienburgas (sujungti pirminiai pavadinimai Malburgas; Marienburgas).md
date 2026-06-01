@@ -29,23 +29,24 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną.'
+  teiginys: 'Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: '1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai.'
+  teiginys: 'Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Viename tų laiškų, rašytame iš Marienburgo 1576 metų rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­ tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­ lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­ to tarybos, prie jo.'
+  teiginys: '1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Teutonų
@@ -65,6 +66,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
@@ -85,6 +87,7 @@ amziai:
     - t-001
 
 - c-003
+  santrauka: '1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius ŽYGIMANTAS AUGUSTAS

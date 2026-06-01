@@ -25,13 +25,14 @@ Jakštas „Ryto” Nr. 25, 1930 m. rašo:...
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jakštas „Ryto” Nr. 25, 1930 m. rašo:...'
+  teiginys: 'A. Jakštas 1930 m. „Ryto“ 25-ajame numeryje palankiai įvertino švedų autorės knygelę apie Vytautą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Jakštas 1930 m. „Ryto“ 25-ajame numeryje palankiai įvertino švedų autorės knygelę apie Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     A. Jakštas „Ryto” Nr. 25, 1930 m. rašo:... „Autorė, garsi švedų

@@ -28,33 +28,34 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo kalvų 38 V o i g t, V, 415 į savo istoriją yra įdėjęs labai svarbų Jogailos laišką di­ džiajam magistrui, kur teisingai ir pabrėžtinai prikaišioja kryžiuočiams nedorus Ordino poelgius.'
+  teiginys: 'Prie miesto, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.'
   pagrindžia:
     - c-005
 
 - t-002
-  teiginys: 'Aleksandro Jogailaičio nerūpestingumas ir išlaidumas vė­ liau, valdant Žygimantui, sukėlė diskusiją apie Vilniaus sau­ gumui ir patogumui svarbų objektą, kurio vardas - Vingrių šaltiniai.'
+  teiginys: 'Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.'
+  teiginys: 'Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.'
+  teiginys: 'Kelias iš Žemutinės pilies vakarinių vartų ėjo per tiltą per Vingrių upokšnį, kuris greta Vilnios įtekėjo į Viliją.'
   pagrindžia:
     - c-004
 
 - t-005
-  teiginys: 'Iš priešingos, vakarų, pusės atitekėjęs Vingrių upokšnis vi­ siškai greta Vilnios žiočių įtekėjo į Vi­ liją.'
+  teiginys: 'Iš vakarų atitekėjęs Vingrių upokšnis įtekėjo į Viliją visai greta Vilnios žiočių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iš vakarų atitekėjęs Vingrių upokšnis įtekėjo į Viliją visai greta Vilnios žiočių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     4
@@ -79,6 +80,7 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
     - t-005
 
 - c-002
+  santrauka: 'Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aleksandro Jogailaičio nerūpestingumas ir išlaidumas vė­
@@ -93,6 +95,7 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
     - t-002
 
 - c-003
+  santrauka: 'Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia jų,
@@ -111,6 +114,7 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
     - t-003
 
 - c-004
+  santrauka: 'Kelias iš Žemutinės pilies vakarinių vartų ėjo per tiltą per Vingrių upokšnį, kuris greta Vilnios įtekėjo į Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šalimais jo apvalus bokštas, iš plytų
@@ -133,6 +137,7 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
     - t-004
 
 - c-005
+  santrauka: 'Prie miesto, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didysis magistras į Vilnių išsiuntė

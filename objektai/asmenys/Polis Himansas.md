@@ -54,20 +54,6 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
     - t-001
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Per tris savaites P. Himansas Šveicarijos pavyzdžiu paruošė Lietuvos
-    federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
-    Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
-    ir ekonominę konvencijas. Abi šalys sutarė priimti tą planą kaip „bazę
-    diskusijom“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -86,12 +72,10 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Tautų Sąjungos Taryba|Tautų Sąjungos Taryba (institucija)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„bazę diskusijom“]]
-- [[objektai/zodynas/federacija federacinė valstybė]]
-- [[objektai/zodynas/kantonas kantoninis principas]]

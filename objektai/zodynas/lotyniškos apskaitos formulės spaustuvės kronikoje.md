@@ -23,13 +23,14 @@ Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas
 ## Teiginiai
 
 - t-001
-  teiginys: 'Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­ doms] - spaudmenims, popieriui, atlyginimams, rinkėjams ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau kaip 20 žmonių maitinimui.'
+  teiginys: 'Lotyniškos apskaitos formulės nurodo spaustuvės išlaidas spaudmenims, popieriui, atlyginimams, išlaikymui ir remontui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lotyniškos apskaitos formulės nurodo spaustuvės išlaidas spaudmenims, popieriui, atlyginimams, išlaikymui ir remontui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nėra jokių kitų įsipareigojimų, išskyrus visuomenei tei­
@@ -60,5 +61,4 @@ Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas
 
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
-- [[objektai/daiktai/Spaustuvės]]
 - [[objektai/zodynas/oxeft]]

@@ -53,75 +53,42 @@ Nenurodyta.
 - t-001
   teiginys: 'Gediminui nepasisekė išlaikyti Lietuvos metropolijos.'
   pagrindžia:
+    - c-008
     - c-001
     - c-002
     - c-003
     - c-004
     - c-005
     - c-006
-    - c-007
 
 - t-002
   teiginys: 'Kijevo metropolijos rezidencija buvo perkelta į Vladimirą Maskvos žemėse.'
   pagrindžia:
-    - c-001
+    - c-008
 
 - t-003
-  teiginys: 'Algirdas ir Maskvos kunigaikštis siekė savo valstybės ribose išlaikyti atskirą arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
+  teiginys: '1389 m. Lietuvos metropolija nutrūko, o 1415 m. buvo trumpam atnaujinta.'
   pagrindžia:
-    - c-001
+    - c-008
 
 - t-004
-  teiginys: '1354 m. Konstantinopolio patriarchas paskyrė atskirą Lietuvos žemių metropolitą Romaną.'
+  teiginys: 'Vytautas tą savos metropolijos svarbą suprato labai gerai ir po visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho priešinimosi 1415 met.'
   pagrindžia:
-    - c-001
+    - c-007
 
 - t-005
-  teiginys: '1375 m. patriarchas Lietuvos metropolitu paskyrė vienuolį Kiprijoną.'
+  teiginys: '1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos, didindamas pavojų Lietuvos stačiatikių plotams.'
   pagrindžia:
     - c-001
 
 - t-006
-  teiginys: '1389 m. Lietuvos metropolija nutrūko, o 1415 m. buvo trumpam atnaujinta.'
-  pagrindžia:
-    - c-001
-
-- t-007
-  teiginys: 'Vytautas tą savos metropolijos svarbą suprato labai gerai ir po visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho priešinimosi 1415 met.'
+  teiginys: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
   pagrindžia:
     - c-008
-
-- t-008
-  teiginys: 'Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko 1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­ tikių plotuose augino rimtą pavojų.'
-  pagrindžia:
-    - c-009
-
-- t-009
-  teiginys: 'Lietuvos metropolijos Gediminui nepasisekė išlai­ kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo metropolito Teognosto.'
-  pagrindžia:
-    - c-010
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos metropolijos Gediminui nepasisekė išlai­
-    kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo
-    metropolito Teognosto. Šio intrygų ir sudarytų kliūčių siūlai vedė
-    į Maskvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-    - t-005
-    - t-006
-
-- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šio intrygų ir sudarytų kliūčių siūlai vedė
@@ -137,8 +104,9 @@ Nenurodyta.
   statusas: verified
   pagrindžia:
     - t-001
+    - t-005
 
-- c-003
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kiekvienas iš veiklių varžovų, norėdamas nurungti
@@ -153,7 +121,7 @@ Nenurodyta.
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagaliau jam pasi­
@@ -166,7 +134,7 @@ Nenurodyta.
   pagrindžia:
     - t-001
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Konstan­
@@ -183,7 +151,7 @@ Nenurodyta.
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Algirdas 1370 smarkiai
@@ -198,7 +166,7 @@ Nenurodyta.
   pagrindžia:
     - t-001
 
-- c-007
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Maskvos Dimitras Kiprijono nepripažino ir dėjo pastangų Lietuvai
@@ -212,7 +180,7 @@ Nenurodyta.
   pagrindžia:
     - t-001
 
-- c-008
+- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lie­
@@ -233,26 +201,10 @@ Nenurodyta.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
-- c-009
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šio intrygų ir sudarytų kliūčių siūlai vedė
-    į Maskvą.
-    Tinkamai nesutvarkytas Lietuvos rytinių žemių bažnytinis
-    priklausomumas prie Gedimino įpėdinių sudarė valstybei įvairių
-    rūpesčių. Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos
-    perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko
-    1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­
-    tikių plotuose augino rimtą pavojų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-010
+- c-008
+  santrauka: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
@@ -264,7 +216,10 @@ Nenurodyta.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-006
+    - t-001
+    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -289,7 +244,6 @@ Nenurodyta.
 - [[objektai/autoriai/Grigorijus Camblakas]]
 - [[objektai/asmenys/Jurgis Cemblakas]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/grupes/Katalikų bažnyčia katalikai]]
 - [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]
 - [[objektai/grupes/Lietuvos stačiatikiai]]
 - [[objektai/grupes/Maskvos metropolitai]]
@@ -302,3 +256,4 @@ Nenurodyta.
 - [[objektai/zodynas/metropolitas metropolija]]
 - [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
 - [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]
+- [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]

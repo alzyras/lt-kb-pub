@@ -103,3 +103,4 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 - [[objektai/zodynas/elektorius]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Vaclovas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

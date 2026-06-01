@@ -33,12 +33,12 @@ amziai:
     - c-004
 
 - t-002
-  teiginys: '12 000 žmonių vedini, pakeliui sudeginę Trakų mies­ tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti, 1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­ mis prie Vilniaus.'
+  teiginys: '1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.'
   pagrindžia:
     - c-005
 
 - t-003
-  teiginys: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
+  teiginys: '1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.'
   pagrindžia:
     - c-002
 
@@ -79,6 +79,7 @@ amziai:
     - t-005
 
 - c-002
+  santrauka: '1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakuose jo sušauktas seimas, turėjęs parengti pasku­
@@ -138,6 +139,7 @@ amziai:
     - t-001
 
 - c-005
+  santrauka: '1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     12 000 žmonių vedini, pakeliui sudeginę Trakų mies­

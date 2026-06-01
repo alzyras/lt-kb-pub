@@ -28,12 +28,12 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad górnowicz R., Średniowieczne..., p. 99—100; Nazwy miast Pomorza Gdańskiego, p. 199—202 (Górnowicz H.); Vanagas A., Lietuvių hidronimų..., p. 100).'
+  teiginys: 'H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbingo upėvardžiu.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., Toponimia..., p. 85—86, 11, 13).'
+  teiginys: 'H. Górnowiczius nagrinėjo Marienverderio ir Kvidzino vietovardžių medžiagą.'
   pagrindžia:
     - c-003
 
@@ -58,6 +58,7 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
     - t-003
 
 - c-002
+  santrauka: 'H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbingo upėvardžiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Manoma, kad upėvardis Elbingas esąs baltiškas, tos pačios šaknies kaip ir lie. Elbentas
@@ -71,6 +72,7 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
     - t-001
 
 - c-003
+  santrauka: 'H. Górnowiczius nagrinėjo Marienverderio ir Kvidzino vietovardžių medžiagą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     225 Kvedino (plg. pr. Quidin — GAO, p. 78) sala buvo Vyslos ir Senojo Nogato tėkmėje

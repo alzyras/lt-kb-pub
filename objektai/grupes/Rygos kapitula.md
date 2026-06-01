@@ -20,7 +20,7 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos kapitulos, Eželio vyskupo, Dorpato vyskupo ir paties miesto vyskupo, Danijos karaliaus ginkluoto būrio vado, Vokiečių ordinom ir Rygos miesto pusės ir be nurodymo žemių, kurias tos.'
+  teiginys: 'Rygos kapitula minima tarp 1323 m. Vilniuje sudarytos taikos sutarties tarpininkų.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rygos kapitula minima tarp 1323 m. Vilniuje sudarytos taikos sutarties tarpininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Popiežiui buvo įteiktas nuorašas tos sutarties,

@@ -18,13 +18,14 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos vardai (šios kn.'
+  teiginys: 'Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Agota

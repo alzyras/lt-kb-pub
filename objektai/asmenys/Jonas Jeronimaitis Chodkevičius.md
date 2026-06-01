@@ -53,7 +53,7 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     - c-003
 
 - t-006
-  teiginys: 'Jonas Jeronimaitis Chodkevičius teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti.'
+  teiginys: 'Jonas Jeronimaitis Chodkevičius kreipdamasis į Žygimantą Augustą teigė, kad lietuviai priversti nusileisti su didžiu skausmu.'
   pagrindžia:
     - c-005
 
@@ -118,7 +118,7 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     - t-001
 
 - c-005
-  santrauka: 'Jonas Jeronimaitis Chodkevičius teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti.'
+  santrauka: 'Jonas Jeronimaitis Chodkevičius kreipdamasis į Žygimantą Augustą teigė, kad lietuviai priversti nusileisti su didžiu skausmu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kreipda-
@@ -145,4 +145,3 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas (seimas)]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]

@@ -95,3 +95,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/zodynas/žalvario amžius]]
+- [[objektai/daiktai/Karinė ginkluotė]]

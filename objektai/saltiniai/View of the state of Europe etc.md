@@ -24,13 +24,14 @@ Jau veikiau tai netvirtas ir varganas būvis, a) Ši nuomonė, įžvalgiausių i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jau veikiau tai netvirtas ir varganas būvis, a) Ši nuomonė, įžvalgiausių istorikų vi­ suotinai pripažįstama, pirmą kartą sutiko pasipriešinimą anglų auto­ riaus H a 1 1 a m o asmenyje, kuris savo kūrinyje View of the state of Eu­ rope etc.'
+  teiginys: 'Hallamas veikale „View of the state of Europe etc“ miestų kūrimosi prielaidas siejo su kiekvienos šalies vietinėmis sąlygomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hallamas veikale „View of the state of Europe etc“ miestų kūrimosi prielaidas siejo su kiekvienos šalies vietinėmis sąlygomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nebuvo jie, galima sakyti, nei tikrai laisvi, nei vi­

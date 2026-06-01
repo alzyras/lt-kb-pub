@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau daugiausia įtakos amatininkų gerovei ir tobulėji­ mui turėjo didžiosios ginklų liejyklos įkūrimas prie Vilniaus pilies.'
+  teiginys: 'Vilniaus ginklų liejykloje buvo išlieta daug pabūklų, gamintos bombos ir kiti karo reikmenys.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus ginklų liejykloje buvo išlieta daug pabūklų, gamintos bombos ir kiti karo reikmenys.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau daugiausia įtakos amatininkų gerovei ir tobulėji­

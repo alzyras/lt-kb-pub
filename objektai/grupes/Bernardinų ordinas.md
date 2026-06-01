@@ -27,18 +27,19 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­ kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­ nui statytis atiduotas platus slėnis su keletu namų ir pieva, 31 Šis Jachna jau 1435 metais buvo.'
+  teiginys: '1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
+  teiginys: 'Vilniaus vaivada Mikalojus Radvila dosniai prisidėjo prie Bernardinų bažnyčios permūrijimo, kai jai dėl menkų pamatų grėsė griūtis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vaivada Mikalojus Radvila dosniai prisidėjo prie Bernardinų bažnyčios permūrijimo, kai jai dėl menkų pamatų grėsė griūtis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dva­
@@ -56,6 +57,7 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
     - t-002
 
 - c-002
+  santrauka: '1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
@@ -114,6 +116,9 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/neofitai]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
 - [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]
 - [[objektai/asmenys/Mikalojus Radvila II]]

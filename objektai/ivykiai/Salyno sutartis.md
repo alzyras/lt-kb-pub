@@ -252,5 +252,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/činšas]]
 - [[objektai/ivykiai/Salyno suvažiavimas ir jo reikšmė]]
+- [[objektai/zodynas/dykra]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Konradas Jungingenas]]

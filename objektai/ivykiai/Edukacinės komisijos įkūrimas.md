@@ -70,20 +70,6 @@ Nenurodyta
     - t-001
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai pirmoji Europoje švie-
-    timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
-    švietimo sistemą. Edukacinė komisija ėmėsi permainų ir stengėsi sukur-
-    ti vientisą švietimo sistemą. Valstybė buvo padalyta į Lenkijos ir Lietuvos
-    švietimo provincijas, o šios – į apygardas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -99,6 +85,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -107,6 +94,7 @@ Nenurodyta
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
 - [[objektai/zodynas/Baroko epocha]]
+- [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
 - [[objektai/grupes/Edukacinė Komisija]]
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]

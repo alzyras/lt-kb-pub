@@ -76,34 +76,6 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
     - t-002
 
 - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Blokeliuose su skyriaus spalvos
-    juostele pateikiamos įvykių
-    liudininkų, amžininkų ar tų
-    laikų dokumentų citatos
-
-    Ryškesniu šriftu
-
-    išskirtos citatoje
-    aptariamų įvykių
-    aplinkybės
-
-    Ištrauka iš Hermano Vartbergės „Livonijos
-    kronikos“ apie Ordino brolių sumušimą prie
-
-    Karusės.
-
-    „Betgi magistrą Otto su 52 ordino broliais ir
-    600 krikščionių Viko krašte (in Maritima) prie
-    Karuzo šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
   santrauka: 'Blokeliuose su skyriaus spalvos juostele pateikiamos įvykių liudininkų, amžininkų ar tų laikų dokumentų citatos Ryškesniu šriftu išskirtos citatoje aptariamų įvykių aplinkybės Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ apie Ordino brolių sumušimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -135,3 +107,4 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003

@@ -19,13 +19,14 @@ Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai lietuvių tauta turėtų užimti pirmą vietą tarp Europos tautų“ Benjamin W.'
+  teiginys: 'Benjamin W. Dwightas „Moderniojoje filologijoje“ aukštino lietuvių kalbos grožį ir maloninių bei mažybinių žodžių gausą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Benjamin W. Dwightas „Moderniojoje filologijoje“ aukštino lietuvių kalbos grožį ir maloninių bei mažybinių žodžių gausą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     IV s k y r i u s

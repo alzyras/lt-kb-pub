@@ -18,13 +18,14 @@ Kiek vėliau padary­ tas jo nuorašas aprašo keturias antspaudas, tarp kurių 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vėlesnis nuorašas aprašė keturis antspaudus, o pirmuoju nurodė Vytauto Trakų kunigaikščio antspaudą.'
+  teiginys: 'Vėlesniame akto nuoraše įrašas „Sigillum Vitowdi ducis in Tracken“ nurodė Vytauto, Trakų kunigaikščio, antspaudą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vėlesniame akto nuoraše įrašas „Sigillum Vitowdi ducis in Tracken“ nurodė Vytauto, Trakų kunigaikščio, antspaudą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Prie šito akto Vytauto antspauda neišliko. Kiek vėliau padary­

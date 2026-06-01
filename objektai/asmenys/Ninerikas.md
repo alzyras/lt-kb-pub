@@ -35,20 +35,6 @@ Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
-    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
-    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
-    Kai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei
-    antrą kartą papūtė savo ragą, duodamas sutartą ženklą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -65,6 +51,7 @@ Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

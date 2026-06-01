@@ -28,13 +28,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
+  teiginys: '1440 m. balandį Vilniaus vaivada Daugirdas laikinai užėmė žemutinę Vilniaus pilį Švitrigailai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1440 m. balandį Vilniaus vaivada Daugirdas laikinai užėmė žemutinę Vilniaus pilį Švitrigailai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakuose jo sušauktas seimas, turėjęs parengti pasku­
@@ -67,3 +68,4 @@ periodo_grupes:
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - [[objektai/grupes/Podolės bajorai]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/asmenys/Švitrigaila]]

@@ -20,18 +20,19 @@ Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant l
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Te- gyvuoja gegužės 3 d. konstitucija!" (mat, ši reforminio seimo konstitucija lenkų ir Lietuvos bajorijos buvo laiko- ma siektinu idealu ir laisvės garantija).'
+  teiginys: '1823 m. Vilniaus gimnazijos mokinys ant lentos užrašė šūkį „Tegyvuoja gegužės 3 d. konstitucija!“.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tegyvuoja gegužės 3 d. konstitucija!: tuojau po to prasi- dėjo kratos ir areštai mokinių ir studentų tarpe.'
+  teiginys: 'Po šūkio „Tegyvuoja gegužės 3 d. konstitucija!“ užrašymo prasidėjo mokinių ir studentų kratos bei areštai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po šūkio „Tegyvuoja gegužės 3 d. konstitucija!“ užrašymo prasidėjo mokinių ir studentų kratos bei areštai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Te-
@@ -46,6 +47,7 @@ Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant l
     - t-002
 
 - c-002
+  santrauka: '1823 m. Vilniaus gimnazijos mokinys ant lentos užrašė šūkį „Tegyvuoja gegužės 3 d. konstitucija!“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik visai netikėtai beplintantį judėjimą 1823 m. išardė rusai.

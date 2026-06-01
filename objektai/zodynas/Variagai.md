@@ -36,53 +36,26 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - t-001
   teiginys: 'IX a. Rusioje pirmieji normanai iš Skandinavijos buvo žinomi variagų vardu.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Riurikas ir jo variagai, Balinskio aiškinimu, į Rusią galėjo būti atblokšti Petro Olai aprašyto įvykio.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
-  teiginys: 'Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam tikros pažangos tiems varganiems gyventojams, panašiai kaip ir į Rusios kraštus už Dvinos.'
+  teiginys: 'IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I  KNYGA
-    Visame tame plote, nuo senų senovės apaugusiame girio­
-    mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
-    ganos medžioklių trobelės. Pirmieji normanai iš Skandina­
-    vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję
-    plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam
-    tikros pažangos tiems varganiems gyventojams, panašiai
-    kaip ir į Rusios kraštus už Dvinos. Tikriausiai tie žygiai iš
-    Švedijos, Norvegijos ir Danijos, dažnai kartojami į Baltijos
-    pakrantes, davė pradžią legendiniam pasakojimui apie Pa­
-    lemono ir jo Romos riterių3 atvykimą iš Italijos.
-    šakoja Vytautas, - est et semper fuit
-    unum et idem cum terra Littwanie, nam
-    unum ydeoma et uni homines, sed quia
-    terra Samaytarum est terra inferior ad
-    terram Littwanie, ideo Szomoyth voca­
-    tur, quod in Littwanico, terra inferior,
-    interpretatur.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­
@@ -105,7 +78,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -134,7 +107,8 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
+  santrauka: 'IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2
@@ -172,6 +146,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -180,8 +155,9 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - [[objektai/asmenys/Kanutas]]
 - [[objektai/grupes/Normanai]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/autoriai/Ibrahim ibn Jakūb]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/asmenys/Riurikas]]
+- [[objektai/grupes/Skandinavai]]
 - [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]
 - [[objektai/autoriai/Petras Olai]]

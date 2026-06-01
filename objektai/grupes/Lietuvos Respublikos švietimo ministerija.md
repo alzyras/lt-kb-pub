@@ -42,10 +42,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/autoriai/Adolfas Šapoka]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Kazimieras Masiliūnas]]
 - [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]
-- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]

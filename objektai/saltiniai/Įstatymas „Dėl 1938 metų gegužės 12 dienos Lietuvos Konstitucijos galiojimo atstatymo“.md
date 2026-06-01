@@ -33,31 +33,11 @@ Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seim
 - t-002
   teiginys: 'Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tam reikė-
-    jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
-    ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
-    nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą. Todėl
-    priimtas įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitu-
-    cijos galiojimo atstatymo“. Tačiau šios konstitucijos veikimas visa apim-
-    timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
-    kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
-    susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
-    bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
-    teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -79,3 +59,4 @@ Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seim
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

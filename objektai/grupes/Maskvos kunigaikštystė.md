@@ -40,7 +40,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     - c-001
 
 - t-003
-  teiginys: 'Į Trakus (1430 metais), kur didysis kunigaikštis paprastai gyvendavo di­ džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­ gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­ vos.'
+  teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
   pagrindžia:
     - c-006
 
@@ -55,24 +55,19 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     - c-002
 
 - t-006
-  teiginys: 'Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­ tijoje ir valdysiu visą Rusiją^2 ).'
+  teiginys: 'Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštystėje.'
   pagrindžia:
     - c-005
-
-- t-007
-  teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
-  pagrindžia:
-    - c-010
 
 - t-008
   teiginys: 'Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-009
   teiginys: 'Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.'
   pagrindžia:
-    - c-011
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -149,6 +144,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     - t-004
 
 - c-005
+  santrauka: 'Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštystėje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas
@@ -167,6 +163,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     - t-006
 
 - c-006
+  santrauka: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, vienintelio
@@ -192,6 +189,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   statusas: verified
   pagrindžia:
     - t-003
+    - t-007
 
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -208,6 +206,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   statusas: verified
   pagrindžia:
     - t-001
+    - t-008
 
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -226,49 +225,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     - t-001
 
 - c-009
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Čia jam pasidavė Liubutsko,
-    Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
-    kunigaikštijos^2 ). Kad ir po didelių pastangų, bet į gyvenimo galą
-    jam pasisekė paimti savo įtakon ir Pskovą su išdidžiuoju Nau­
-    gardu^3 ), nes Didž. Maskvos kunigaikštija, kurioje viešpatavo
-    nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos
-    sūnus Vosylius, atsparumo nerodė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytautas, vienintelio
-    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
-    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
-    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
-    metais), kur didysis kunigaikštis paprastai gyvendavo di­
-    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
-    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
-    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
-    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
-    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
-    magistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­
-    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
-    karalių Zigmantą nuo ketinimo ka­
-    rūnuoti Vytautą, ir Nr. 101, kuria­
-    me, rašydamas Vytautui, reiškia
-    džiaugsmą dėl jo susitaikymo su Jo­
-    gaila ir todėl dedąs viltis, jog čekų
-    eretikai būsią šiek tiek apmalšinti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-011
   santrauka: 'Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -299,7 +255,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
 - [[objektai/asmenys/Vosylius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/kunigaikščiai]]

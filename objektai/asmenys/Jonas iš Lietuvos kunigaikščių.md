@@ -20,13 +20,14 @@ Be to, sinodas kuo įsakmiausiai įsako vi­ siems klebonams miestuose ir kai­ 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be to, sinodas kuo įsakmiausiai įsako vi­ siems klebonams miestuose ir kai­ muose laikyti tokius vikarus, kurie gerai moka lietuvių kalbą.'
+  teiginys: 'Jonas iš Lietuvos kunigaikščių, Vilniaus vyskupas, patvirtino Vilniaus diecezijos nuostatus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas iš Lietuvos kunigaikščių, Vilniaus vyskupas, patvirtino Vilniaus diecezijos nuostatus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to,

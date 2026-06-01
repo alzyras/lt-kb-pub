@@ -30,12 +30,12 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - t-001
   teiginys: 'Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
-  teiginys: 'LDK slavai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu.'
+  teiginys: 'LDK rusėnai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-003
   teiginys: 'LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.'
@@ -55,32 +55,27 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - t-006
   teiginys: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-007
   teiginys: 'Pastarųjų erdvėje toliau į rytus (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda, tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių ūkis).'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-008
-  teiginys: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir Lenkijos valstybėse gyvenusius rytų slavus.'
+  teiginys: 'Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.'
   pagrindžia:
-    - c-010
+    - c-007
 
 - t-009
-  teiginys: 'Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.'
+  teiginys: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje.'
   pagrindžia:
     - c-008
 
 - t-010
-  teiginys: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje.'
-  pagrindžia:
-    - c-004
-
-- t-011
   teiginys: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   pagrindžia:
-    - c-011
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -133,24 +128,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     - t-004
 
 - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pastarųjų erdvėje toliau į rytus
-    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
-    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
-    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
-    ūkis). Dėl šio pažangesnio ūkininkavimo ir nuosavybės santykių būdo
-    neatsitiktinai į XV–XVI a. Lietuvos Metrikos rusėnų kalbą pateko ir buvo
-    vartojamos net Ukrainoje lietuviškos tokios to meto ūkio sąvokos: dal-
-    gio tipas „litovka“, dailidė („doilida“) ar jauja („jevje“), svirnas („sviren“),
-    kluonas („klunia“), aruodas („orud“), priemenė („primen“).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-005
+  santrauka: 'LDK rusėnai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVI a. rusėnai pasijuto visai atskira tauta, kitokia nei Mas-
@@ -164,7 +142,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   pagrindžia:
     - t-002
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi rusėnai atsiskyrė nuo Rusijos rusų. Tik XVII a. rusėnai
@@ -179,7 +157,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   pagrindžia:
     - t-001
 
-- c-007
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
@@ -194,7 +172,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   pagrindžia:
     - t-006
 
-- c-008
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
@@ -206,9 +184,9 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-009
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pastarųjų erdvėje toliau į rytus
@@ -226,28 +204,9 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   statusas: verified
   pagrindžia:
     - t-007
+    - t-009
 
-- c-010
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Filologų manymu, LDK raštinėse
-    vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir
-    Lenkijos valstybėse gyvenusius rytų slavus. Juk pusė senosios Kijevo Ru-
-    sios valstybės pateko į Lietuvos ir Lenkijos sudėtį, ir nuo XIV a. senrusių
-    bajorijos, kunigaikščių savimonė buvo veikiama šiose valstybėse vykstan-
-    čių procesų. XVI a. rusėnai pasijuto visai atskira tauta, kitokia nei Mas-
-    kvos valstybės rusai. LDK rytų slavai Rusijos žmones vadino maskvėnais, o
-    maskvėnai savo ruožtu LDK rytų slavus – lietuviais. Patys LDK slavai save
-    vadino rusais, save suvokė kaip vieną etninę grupę, o Lietuvos valdovą laikė
-    savu valdovu. Taigi rusėnai atsiskyrė nuo Rusijos rusų. Tik XVII a. rusėnai
-    skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-011
+- c-009
   santrauka: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -263,7 +222,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -279,7 +238,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/alodas alodinė nuosavybė|alodas / alodinė nuosavybė]]
-- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/metrika]]
 - [[objektai/posakiai/„nuo jūros iki jūros“]]
 - [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
@@ -322,6 +280,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - [[objektai/grupes/Oginskiai]]
 - [[objektai/grupes/Tiškevičiai]]
 - [[objektai/grupes/Valavičiai]]
+- [[objektai/autoriai/Włodarski B]]
 - [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Žemaičiai]]

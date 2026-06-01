@@ -47,7 +47,7 @@ Nenurodyta
 - t-001
   teiginys: 'Rusų administracija pripažino, kad lietuviai graždankos nepriėmė.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Ji siūlė todėl panaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų raidžių (vad. graždankos) neprisiėmę.'
@@ -57,7 +57,7 @@ Nenurodyta
 - t-003
   teiginys: 'Graždanka vadintos rusų raidės, kurias lietuviai atsisakė priimti lietuviškai spaudai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -73,23 +73,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    inteligentai. Bet visų svarbiausias tuo reikalu palankus balsas
-    buvo Lietuvoje veikiančios Rusų administracijos. Ji siūlė todėl
-    panaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų
-    raidžių (vad. graždankos) neprisiėmę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Rusiškosios raidės]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]

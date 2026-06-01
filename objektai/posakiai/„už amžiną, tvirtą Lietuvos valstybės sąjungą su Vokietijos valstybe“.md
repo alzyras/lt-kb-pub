@@ -88,6 +88,5 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Oberostas]]
 - [[objektai/zodynas/separatinės taikos derybos]]

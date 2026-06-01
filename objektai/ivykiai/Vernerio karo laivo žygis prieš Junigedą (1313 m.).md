@@ -84,4 +84,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]
-- [[objektai/asmenys/Verneris (Ragainės komtūras)]]

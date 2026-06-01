@@ -45,13 +45,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos scenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir mokęsis smuiko virtuozas Jascha Heifetz (Jaša.'
+  teiginys: 'JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
@@ -84,6 +85,7 @@ Nenurodyta
 - [[objektai/asmenys/Jascha Heifetz]]
 - [[objektai/asmenys/Victor David Brenner]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Monetos]]
 - [[objektai/asmenys/Donatas Katkus]]
 - [[objektai/asmenys/Gintaras Rinkevičius]]
 - [[objektai/asmenys/Jurgis Mačiūnas]]

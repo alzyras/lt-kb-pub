@@ -27,7 +27,7 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytprūsių apylinkėse buvę daug burtininkų (tiek vyrų, tiek moterų), pas kuriuos žmonės miniomis plūsdavę (Vėlius N., Mitinės..., p. 233—252).'
+  teiginys: 'N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burtininkus ir pas juos ėjusius žmones.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burtininkus ir pas juos ėjusius žmones.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     202 D. prophetissa — tai burtininkė, žynė, padedanti žmonėms; gydanti žmones

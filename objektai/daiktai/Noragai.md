@@ -58,6 +58,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Ratai ant dviejų tekinių]]
-- [[objektai/zodynas/storasta]]
 - [[objektai/autoriai/Guagnini]]

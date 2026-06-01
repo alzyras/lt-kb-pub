@@ -36,18 +36,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas, tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­ vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo neišvengiamos.'
+  teiginys: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas, bet išvengė pražūties.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: '37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.'
+  teiginys: 'Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti rūbai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas, bet išvengė pražūties.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, apsuptas išdavikų,
@@ -68,6 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti rūbai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
@@ -111,6 +113,7 @@ Nenurodyta
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/autoriai/Vygandas Marburgietis]]

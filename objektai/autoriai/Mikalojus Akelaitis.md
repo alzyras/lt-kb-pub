@@ -27,13 +27,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija turi būti kiekvieno piliečio lūpose, ir.'
+  teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jas įsi-

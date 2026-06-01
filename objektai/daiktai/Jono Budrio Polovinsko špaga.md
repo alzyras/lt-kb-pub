@@ -87,5 +87,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/LCVA]]
 - [[objektai/asmenys/Steponas Batoras]]

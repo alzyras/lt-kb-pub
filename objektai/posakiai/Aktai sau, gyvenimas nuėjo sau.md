@@ -29,32 +29,22 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
 - t-001
   teiginys: 'Unijos dokumentas liko juridiniu aktu, o politinis gyvenimas savo raida nuėjo kitu keliu.'
   pagrindžia:
+    - c-003
     - c-001
-    - c-002
 
 - t-002
-  teiginys: 'Pastarosios unijos dokumentas, nors ir labai skambių žo­ džių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos raida nuėjo kitu keliu.'
+  teiginys: 'Pastarosios unijos dokumentas liko dokumentu, o gyvenimas savo logikos raida nuėjo kitu keliu.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Aktai sau, gyvenimas nuėjo sau.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Aktai sau, gyvenimas nuėjo sau.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Baigiant ir čia reikia pasakyti, kad unijos likimas glūdėjo
@@ -71,7 +61,8 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
+  santrauka: 'Pastarosios unijos dokumentas liko dokumentu, o gyvenimas savo logikos raida nuėjo kitu keliu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     O tai parėjo nuo Lietuvos ir Lenkijos jėgų santykio: katra
@@ -87,7 +78,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   santrauka: 'Aktai sau, gyvenimas nuėjo sau.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -100,6 +91,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

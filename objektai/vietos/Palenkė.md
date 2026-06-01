@@ -39,7 +39,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 - t-002
   teiginys: '165 psl.), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
   pagrindžia:
-    - c-014
+    - c-007
 
 - t-003
   teiginys: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
@@ -47,7 +47,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-005
 
 - t-004
-  teiginys: 'Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų.'
+  teiginys: 'Goštautui išvykus į Tikociną Palenkėje, apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną.'
   pagrindžia:
     - c-010
 
@@ -74,7 +74,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 - t-009
   teiginys: 'Apie 1345 m. Goštautas šalies reikalais išvyko į Tikociną Palenkėje.'
   pagrindžia:
-    - c-015
+    - c-010
 
 - t-010
   teiginys: 'Jis paveldėjo Trakus ir Gardiną su Palenke (Liet.'
@@ -84,7 +84,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 - t-011
   teiginys: 'Tad Vytautas tegalėjo gauti Gardiną su Palenkė.'
   pagrindžia:
-    - c-018
+    - c-013
 
 - t-012
   teiginys: 'Gediminas čia glaudžiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pagirį ir gretimąsias sritis, o be to, dar užėmė didelę dalį Voluinės, prijungė po Mindaugo išsivaduvusį Vitebską su gretimaisiais miestais ir paėmė į savo įtaką tolimąjį Kijevą.'
@@ -99,30 +99,30 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 - t-014
   teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
   pagrindžia:
-    - c-017
+    - c-009
 
 - t-015
   teiginys: 'Sudėtingai klostėsi santykiai su Lenkija, ši stengėsi išnaudoti Lietuvos politinę krizę, siekdama paversti ją politiškai priklausoma, o teritoriniai ginčai dėl Palenkės žemės buvo pasiekę ir karinės konfrontacijos lygį.'
   pagrindžia:
-    - c-019
+    - c-014
 
 - t-016
   teiginys: 'Palenkėje tarp vietos žmonių sklido padavimas, kad senovėje iš ten eidavo į Vilnių kalnų kasti.'
   pagrindžia:
-    - c-016
+    - c-012
 
 - t-017
   teiginys: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės vaivadijas.'
   pagrindžia:
-    - c-012
+    - c-008
 
 - t-018
-  teiginys: 'Vakarinė valstybės dalis, būtent, Trakų kunigaikštija, Gar­ dino ir Palenkės sritys buvo Kęstučio dalis.'
+  teiginys: 'Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai.'
   pagrindžia:
-    - c-013
+    - c-004
 
 - t-019
-  teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  teiginys: 'Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Palenkę ir kitas LDK teritorijas.'
   pagrindžia:
     - c-008
 
@@ -182,6 +182,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   statusas: verified
   pagrindžia:
     - t-013
+    - t-018
 
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -232,8 +233,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002
 
 - c-008
+  santrauka: 'Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Palenkę ir kitas LDK teritorijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
@@ -247,6 +250,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   statusas: verified
   pagrindžia:
     - t-019
+    - t-017
 
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -264,8 +268,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   statusas: verified
   pagrindžia:
     - t-006
+    - t-014
 
 - c-010
+  santrauka: 'Goštautui išvykus į Tikociną Palenkėje, apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     T. Il,
@@ -292,6 +298,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   statusas: verified
   pagrindžia:
     - t-004
+    - t-009
 
 - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -305,70 +312,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - t-010
 
 - c-012
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
-    Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
-    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
-    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
-    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
-    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-017
-
-- c-013
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kiekvienas valdančiosios giminės kunigaikštis turėjo savo
-    dalį. Vakarinė valstybės dalis, būtent, Trakų kunigaikštija, Gar­
-    dino ir Palenkės sritys buvo Kęstučio dalis. Jon tačiau betarpiškai
-    nepriklausė Žemaičiai, kurie, kaip ir kai kurios kitos sritys, įgijo
-    savo žemės privilegijas ir klausė didžiojo kunigaikščio.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-018
-
-- c-014
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip Vy-
-    tauto (žiūr. 165 psl.), taip ir Kazimiero laikais tankiau buvo
-    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
-    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
-    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
-    linkes, buvo beveik negyvenamos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-015
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    sykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant
-    Vilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
-    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
-    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
-    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
-    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
-    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
-    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
-    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
-    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19. Šios
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, statydindamas pilį
@@ -395,24 +338,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   pagrindžia:
     - t-016
 
-- c-017
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
-    nės pilies renesansas, tačiau gotikos tradicija, perimta vietos meistrų, dar
-    reikšis iki pat XVII a. pradžios.
-    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
-    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
-    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
-    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
-    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-018
+- c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kryžiuočių stovykloje veikiąs Vytautas, kurį palaikė dalis
@@ -425,7 +351,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   pagrindžia:
     - t-011
 
-- c-019
+- c-014
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rūpesčių ir toliau kėlė Ordino livoniškoji atšaka,
@@ -438,7 +364,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   pagrindžia:
     - t-015
 
-- c-020
+- c-015
   santrauka: 'Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

@@ -25,7 +25,7 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
     - c-001
 
 - t-002
-  teiginys: 'Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo žirgus/'''' 32 Hanulas tasai, keletą kartu paminė­ tas ano meto Lietuvos istorijos įvvkiuose, iš tikrųjų buvo vardu Han­ ka, nes Vladislovo Jogailos auten­ tiškame laiške: Datum in Krewferia.'
+  teiginys: 'Vytauto byloje su Jogaila Hanulas tapatinamas su Hanka, paminėtu autentiškame Vladislovo Jogailos laiške.'
   pagrindžia:
     - c-002
 
@@ -64,6 +64,7 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
     - t-001
 
 - c-002
+  santrauka: 'Vytauto byloje su Jogaila Hanulas tapatinamas su Hanka, paminėtu autentiškame Vladislovo Jogailos laiške.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Hanulas, arba Hanka32,

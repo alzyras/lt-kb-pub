@@ -23,13 +23,14 @@ Dusburgietis teigia, kad massalski R.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad massalski R.'
+  teiginys: 'R. Massalskio „Zamek elbląski w świetle badań architektonicznych“ paskelbtas „Rocznik Elbląski“ 8 tome 1979 m., p. 39–87.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Massalskio „Zamek elbląski w świetle badań architektonicznych“ paskelbtas „Rocznik Elbląski“ 8 tome 1979 m., p. 39–87.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Massalski R. Zamek elbląski w świetle badań architektonicznych.— Rocznik Elbląski,

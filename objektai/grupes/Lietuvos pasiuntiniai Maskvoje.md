@@ -24,13 +24,14 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­ tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­ lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­ kė Vilniuje, iš Maskvos atvykusių pasiuntinių.'
+  teiginys: '1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai Petras Białas ir Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai Petras Białas ir Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
@@ -56,8 +57,8 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/asmenys/Elena]]
-- [[objektai/grupes/Maskvos pasiuntiniai]]
+- [[objektai/asmenys/Goštautas]]
 - [[objektai/asmenys/Petras Białas]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Stanislovas Goštautas]]
+- [[objektai/grupes/Maskvos pasiuntiniai]]

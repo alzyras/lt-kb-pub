@@ -34,7 +34,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­ dvikas antrą kartą pakliuvo į nelaisvę Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule.'
+  teiginys: 'Konradas iš Tirbergo su didele kariuomene įsiveržė į Sūduvos Zilijos valsčių, sudegino pastatus ir išsigabeno grobį.'
   pagrindžia:
     - c-001
 
@@ -46,6 +46,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konradas iš Tirbergo su didele kariuomene įsiveržė į Sūduvos Zilijos valsčių, sudegino pastatus ir išsigabeno grobį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­

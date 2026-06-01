@@ -33,7 +33,7 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Gedimino laiško vertime adresatams priekaištaujama, kad ankstesni pasiuntiniai, laiškai ir atvertas kraštas nesulaukė atsako.'
+  teiginys: 'Gedimino laiške priekaištauta, kad į ankstesnius pasiuntinius, laiškus ir atvertą kraštą net nė šuo su padėka neatsiliepė.'
   pagrindžia:
     - c-001
 

@@ -47,42 +47,11 @@ Nenurodyta
 - t-003
   teiginys: 'Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė valią nevaržomai gyventi krikščionių vienuoliams bei laisvai išpažinti tikėjimą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I  KNYGA
-    paskutinės iš Europos besitraukiančios stabmeldystės, sto­
-    jusios prieš Romos tikėjimo skelbėjus, pastangos buvo be­
-    vaisės. Algirdas viešai nubaudė to žiauraus poelgio vadei­
-    vas ir liepė paskelbti visame krašte valią nevaržomiems
-    gyventi visiems krikščionių vienuoliams ir laisvę išpažinti
-    savo tikėjimą. Šis netikėtas ir liūdnas įvykis nė kiek neatšal­
-    dė Goštauto uolumo. Nukankintuosius palaidojęs, tos pa­
-    čios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl
-    to, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi
-    liūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­
-    nuolyną pastatydino naujoje vietoje, savo naujų medinių rū­
-    mų teritorijoje, netoli nuo Vingrių šaltinių, Smėlynėje, ir pa­
-    vadino Mergelės Marijos vardu20.
-    lyno archyvas, išskyrus nuplėštus
-    nuo įvairių senų pergamentų ant­
-    spaudus, per 1812 metų karą yra be­
-    veik visai praradęs vertingiausius
-    dokumentus, kurie galėtų ano meto
-    įvykius iš tamsos į ryškią šviesą iš­
-    kelti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
   santrauka: 'Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė valią nevaržomai gyventi krikščionių vienuoliams bei laisvai išpažinti tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -117,6 +86,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

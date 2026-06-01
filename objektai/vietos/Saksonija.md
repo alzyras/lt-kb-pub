@@ -31,12 +31,12 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - t-001
   teiginys: 'Saksonija buvo nuo Lenkijos netolima teritorija.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
@@ -44,7 +44,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
     - c-001
 
 - t-004
-  teiginys: 'Žinodami gausią globą ir ypatingas privilegijas, o krikščio­ nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­ kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­ zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie pasidarė.'
+  teiginys: 'Į Vilnių atvykę amatininkai iš Saksonijos kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto gyventojų sluoksniu.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
     - t-003
 
 - c-002
+  santrauka: 'Į Vilnių atvykę amatininkai iš Saksonijos kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto gyventojų sluoksniu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietu­
@@ -87,29 +88,9 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lietu­
-    vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
-    įgyvendino savo dvariškius bei tarnus, žinoma, dar reikė­
-    tų pridurti ir nemažai paimtų į nelaisvę lenkų bei rusinu.
-    Žinodami gausią globą ir ypatingas privilegijas, o krikščio­
-    nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­
-    kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­
-    zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie
-    pasidarė turtingiausias Vilniaus gyventojų sluoksnis. Savo
-    ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
-    dimino dvare, statydinosi ties pilimi medinius savo rūmus,
-    o aplink kurdino savo valdinius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Augustas irgi pasi-

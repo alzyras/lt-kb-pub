@@ -23,13 +23,14 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     - c-002
 
 - t-002
-  teiginys: 'Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdninkuose smagiai leisdavo laiką medžiodami.'
+  teiginys: 'Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kazimieras pamėgo Rūdninkus ir dažnai juose

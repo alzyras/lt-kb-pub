@@ -18,18 +18,19 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tais pačiais metais Mikalojus Rad­ vila II, Goniondzo ir Medilo kuni­ gaikštis, Vilniaus vaivada, sugriovus tuos pastatus, savo lėšomis naujai pamūrijo bernardinų bažnyčią, pa­ vadintą Šv.'
+  teiginys: 'Mikalojus Radvila II savo lėšomis naujai pamūrijo Šv. Pranciškaus ir Bernardo vardu pavadintą bernardinų bažnyčią.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
+  teiginys: 'Vilniaus vaivada Mikalojus Radvila II dosniai prisidėjo prie Bernardinų bažnyčios perstatymo, kai dėl silpnų pamatų jai grėsė griūtis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vaivada Mikalojus Radvila II dosniai prisidėjo prie Bernardinų bažnyčios perstatymo, kai dėl silpnų pamatų jai grėsė griūtis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dva­
@@ -47,6 +48,7 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
     - t-002
 
 - c-002
+  santrauka: 'Mikalojus Radvila II savo lėšomis naujai pamūrijo Šv. Pranciškaus ir Bernardo vardu pavadintą bernardinų bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tais pačiais metais Mikalojus Rad­

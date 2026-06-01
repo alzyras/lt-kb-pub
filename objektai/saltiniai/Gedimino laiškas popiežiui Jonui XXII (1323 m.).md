@@ -26,7 +26,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 ## Teiginiai
 
 - t-001
-  teiginys: 'IV, p. 393, jau esame išsakę nuo­ monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­ nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­ dimino, bet nei su jo žinia, nei jo valia parašyti.'
+  teiginys: 'Balińskis teigė, kad laiškas popiežiui ir kiti laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino žinia ar valia.'
   pagrindžia:
     - c-004
 
@@ -41,18 +41,19 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     - c-005
 
 - t-004
-  teiginys: 'Laiškų autorius, baimindamasis, kad neišaiškė­ tų, kaip yra iš tikrųjų, turėjo stengtis visoms dvejonėms už­ bėgti už akių, todėl radosi priedas, kad kryžiuočiai tikrąjį, jo paties, valdovo, antspaudą į ugnį įmetę; ar tikra, ar išgal­ vota būtų toji.'
+  teiginys: 'Balińskis aiškino, kad pasakojimas apie kryžiuočių sudegintą valdovo antspaudą buvo įterptas siekiant išsklaidyti abejones dėl laiškų tikrumo.'
   pagrindžia:
     - c-001
 
 - t-005
-  teiginys: 'Tai ir yra priežastis, kad jūsų kilnybei šiuo laišku pareiš­ kiame, jog mūsų pirmtakas karalius Mindaugas su visa sa­ vo karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl bro­ lių iš teutonų namo magistro [daromų] žiaurių nuoskaudų ir nesuskaičiuojamų.'
+  teiginys: 'Gedimino laiške popiežiui Jonui XXII teigiama, kad Mindaugas su karalyste buvo priėmęs krikščionybę, bet dėl Teutonų ordino nuoskaudų nuo jos atkrito.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Balińskis aiškino, kad pasakojimas apie kryžiuočių sudegintą valdovo antspaudą buvo įterptas siekiant išsklaidyti abejones dėl laiškų tikrumo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Laiškų autorius, baimindamasis, kad neišaiškė­
@@ -75,6 +76,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     - t-004
 
 - c-002
+  santrauka: 'Gedimino laiške popiežiui Jonui XXII teigiama, kad Mindaugas su karalyste buvo priėmęs krikščionybę, bet dėl Teutonų ordino nuoskaudų nuo jos atkrito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau seniai esame girdėję, kad visi krikščionių tikėjimo iš­
@@ -132,6 +134,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     - t-002
 
 - c-004
+  santrauka: 'Balińskis teigė, kad laiškas popiežiui ir kiti laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino žinia ar valia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie visa tai, garbingasis tėve, mes rašome tuo tikslu,

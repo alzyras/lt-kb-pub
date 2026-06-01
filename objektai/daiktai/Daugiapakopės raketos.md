@@ -52,44 +52,21 @@ Nenurodyta
 - t-001
   teiginys: 'Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'K. Semenavičiaus veikale buvo išdėstyta daugiapakopių raketų teorija.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
-  teiginys: 'K. Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
-  pagrindžia:
-    - c-001
-
-- t-004
   teiginys: 'K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
-    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
-    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
-    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
-    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
-    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
-    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
-    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
-    orija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Yra ir kitas senojo Vilniaus universiteto
@@ -99,9 +76,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
@@ -119,7 +96,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė

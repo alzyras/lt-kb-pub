@@ -46,51 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
+  teiginys: 'Gediminas užmezgė ryšius su krikščioniškąja Europa, globojo pranciškonus ir dominikonus, o Vilniuje leido kurtis atėjūnams iš Vokietijos ir Lenkijos.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Jis, pirmasis iš visų Lietuvos kuni­ gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­ šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Strijkovskis, 1. 406, pri­
-    simena dar vieną Gedimino dukrą,
-    kuri esą buvusi anuomet garbingo
-    riterio Dovydo, Gardino kašteliono,
-    arba tiksliau kunigaikščio, viešpata­
-    vusio Gardino valdoje, žmona.
-    Il
-    Gedimino laiškuose, rašytuose do­
-    minikonų ir Mažesniųjų brolių, ar­
-    ba pranciškonų, ordinams bei Han­
-    zos miestams, kurių autentiškas
-    1323 metais notaro parengtas doku­
-    mentas yra Karaliaučiaus Slaptaja-
-    -  •  -
-    20
-
-    ## Puslapis 37
-
-    I  KNYGA
-    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
-    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
-    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
-    me archyve ir kuriuos Kotzebue
-    išspausdino savo Prūsijos istorijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Gediminas užmezgė ryšius su krikščioniškąja Europa, globojo pranciškonus ir dominikonus, o Vilniuje leido kurtis atėjūnams iš Vokietijos ir Lenkijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     -  •  -
@@ -122,17 +85,12 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/autoriai/Kotzebue]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Dominikonų ordinas]]
-- [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
-- [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
-- [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]

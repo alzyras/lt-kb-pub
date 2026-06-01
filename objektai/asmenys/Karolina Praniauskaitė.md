@@ -18,13 +18,14 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
 ## Teiginiai
 
 - t-001
-  teiginys: 'Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­ rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.'
+  teiginys: 'M. Balinskis skaitytojams pristatė Karolinos Praniauskaitės poeziją kartu su Žemaitijos kultūriniu sąjūdžiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Balinskis skaitytojams pristatė Karolinos Praniauskaitės poeziją kartu su Žemaitijos kultūriniu sąjūdžiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­

@@ -29,45 +29,26 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
 - t-001
   teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun. Antano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos žygiams iki Vytauto Didžiojo mirties.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-003
   teiginys: 'Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
-  teiginys: 'Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.'
+  teiginys: 'Maironis buvo vienas lietuvių literatūros klasikų, tuo metu dar vaikščiojusių Kauno gatvėmis.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kultūros suvienodinimas
-    J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
-    griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kul-
-    tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo
-    komunistų partija: primesta marksistinė-lenininė filosofija, skiepijama ko-
-    munistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant
-    komunistinės ideologijos autoritetus, susidorojama su nepriklausomos
-    Lietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų
-    Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
-    gos, tautinio pobūdžio literatūra.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
@@ -88,7 +69,8 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
+  santrauka: 'Maironis buvo vienas lietuvių literatūros klasikų, tuo metu dar vaikščiojusių Kauno gatvėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
@@ -110,7 +92,7 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
   pagrindžia:
     - t-004
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     J. Botyriaus nuotrauka
@@ -133,6 +115,7 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -26,18 +26,19 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiuntėme savo pasiuntinius su laišku mū­ sų tėvui, garsingajam viešpačiui popiežiui Jonui, kad jis mus apvilktų pirmuoju krikšto rūbu; jo pasiuntinių diena iš die­ nos laukiame su dideliu.'
+  teiginys: 'Gedimino laiške dominikonams rašoma, kad valdovas pasiuntė popiežiui Jonui laišką dėl krikšto ir laukė jo pasiuntinių.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Perskaitę ir nurašę, Saksonijos magistras ir priorai tepa­ siunčia šį laišką toliau, kiek galima greičiau, kad Dievas sa­ vo garbei užbaigtų tai, ką pradėjo.'
+  teiginys: 'Gedimino laiške dominikonams Saksonijos magistrui ir priorams nurodyta perskaičius ir nurašius laišką kuo greičiau siųsti toliau.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino laiške dominikonams Saksonijos magistrui ir priorams nurodyta perskaičius ir nurašius laišką kuo greičiau siųsti toliau.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Perskaitę ir nurašę, Saksonijos magistras ir priorai tepa­
@@ -60,6 +61,7 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
     - t-002
 
 - c-002
+  santrauka: 'Gedimino laiške dominikonams rašoma, kad valdovas pasiuntė popiežiui Jonui laišką dėl krikšto ir laukė jo pasiuntinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Hac littera lecta et exscripta a magistro et prioribus

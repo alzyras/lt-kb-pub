@@ -20,13 +20,14 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos krante, kur pastarai­ siais metais buvo agronomijos institutas, dabar priklauso buvusiam to instituto direktoriui ponui Fričinskiui, yra vie­ na iš seniausių įtvirtintų vietovių prie.'
+  teiginys: 'Pilaitė, buvusi jėzuitų valda dešiniajame Vilijos krante, Balińskio laikyta viena seniausių įtvirtintų vietovių prie Vilniaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pilaitė, buvusi jėzuitų valda dešiniajame Vilijos krante, Balińskio laikyta viena seniausių įtvirtintų vietovių prie Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     51

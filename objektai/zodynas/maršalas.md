@@ -39,7 +39,7 @@ amziai:
 - t-003
   teiginys: '1348 m. Ordino maršalas Zygfridas iš Dahnfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -98,18 +98,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: '1348 m. Ordino maršalas Zygfridas iš Dahnfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Strėvos mūšį.
-    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
-    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -126,7 +114,6 @@ amziai:
 - [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi]]
 - [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]
-- [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]
 - [[objektai/daiktai/Bombardos]]
 - [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]
 - [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
@@ -228,6 +215,7 @@ amziai:
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
 - [[objektai/asmenys/B. P. Sapiega]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/asmenys/Frydrichas fon Valenrodas]]
 - [[objektai/asmenys/J. P. Sapiega]]
 - [[objektai/asmenys/Kerskorfas]]

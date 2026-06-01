@@ -84,6 +84,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Balnakilpės]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]

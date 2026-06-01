@@ -31,7 +31,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Baigusi kruvinus darbus, ginkluota palyda kitą die­ ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.'
+  teiginys: 'Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.'
   pagrindžia:
     - c-003
 
@@ -46,7 +46,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - c-005
 
 - t-004
-  teiginys: 'Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­ žiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas Žemaičių vietas.'
+  teiginys: 'Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras.'
   pagrindžia:
     - c-006
 
@@ -56,7 +56,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - c-001
 
 - t-006
-  teiginys: 'Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­ tinėnų, Knituvos, Kražių, Medingėnų, Raseinių ir Viduklės) darė taiką su Vytautu ir ordinu.'
+  teiginys: 'Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu.'
   pagrindžia:
     - c-002
 
@@ -76,7 +76,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-005
 
 - c-002
-  santrauka: 'Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­ tinėnų, Knituvos, Kražių, Medingėnų, Raseinių ir Viduklės) darė taiką su Vytautu ir ordinu.'
+  santrauka: 'Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Viso Žemaičių krašto vardu pavardėmis surašyti
@@ -94,6 +94,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-006
 
 - c-003
+  santrauka: 'Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vaikių krašte buvo šventoji giria, ku­
@@ -154,7 +155,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-003
 
 - c-006
-  santrauka: 'Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­ žiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas Žemaičių vietas.'
+  santrauka: 'Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Prie jų prisidėjo taip pat ir uolesni seno

@@ -19,13 +19,14 @@ Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Gri
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Grigalių Čiškovičių, statyti­ nį, o vaitas atvyko pats.'
+  teiginys: 'Eustachijus Sidorovičius buvo vienas iš graikų tikėjimo Vilniaus pirklių įgaliotinių byloje prieš vaitą Stanislovą Sabiną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Eustachijus Sidorovičius buvo vienas iš graikų tikėjimo Vilniaus pirklių įgaliotinių byloje prieš vaitą Stanislovą Sabiną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Graikų ti­

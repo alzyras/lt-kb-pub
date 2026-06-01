@@ -24,13 +24,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Geležinkelio linija tarp Klaipėdos ir Šiaulių, ėjusi per Kretingą ir Kužius, buvo baigta tiesti tik 1936 m.'
+  teiginys: 'Geležinkelio linija Kretinga-Kužiai, jungusi Klaipėdą ir Šiaulius, buvo baigta tiesti 1936 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Geležinkelio linija Kretinga-Kužiai, jungusi Klaipėdą ir Šiaulius, buvo baigta tiesti 1936 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ Geležinkelio linija tarp Klaipėdos ir Šiaulių

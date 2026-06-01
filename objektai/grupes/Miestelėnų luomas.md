@@ -40,7 +40,7 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
     - c-002
 
 - t-003
-  teiginys: 'Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­ syvesniam gyvenimui potencijos sudarydamas tam tikrą, iš tos visuomenės produktų cirkuliacijos gyvenantį, visuomenės luomą.'
+  teiginys: 'Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų apyvartos ir stiprinusį prekybos bei ekonominio gyvenimo galimybes.'
   pagrindžia:
     - c-003
 
@@ -79,7 +79,7 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
     - t-002
 
 - c-003
-  santrauka: 'Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­ syvesniam gyvenimui potencijos sudarydamas tam tikrą, iš tos visuomenės produktų cirkuliacijos gyvenantį, visuomenės luomą.'
+  santrauka: 'Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų apyvartos ir stiprinusį prekybos bei ekonominio gyvenimo galimybes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietuva gi tuo

@@ -23,13 +23,14 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
     - c-002
 
 - t-002
-  teiginys: 'Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs apkal­ tinti Ordiną nauja piktadarystė, kaip kad buvo įpratęs.'
+  teiginys: 'Kotzebue tikėjosi rasti laiškų originalus Ordino archyve ir apkaltinti Ordiną dar viena piktadaryste.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kotzebue tikėjosi rasti laiškų originalus Ordino archyve ir apkaltinti Ordiną dar viena piktadaryste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tų laiškų originalai turėjo

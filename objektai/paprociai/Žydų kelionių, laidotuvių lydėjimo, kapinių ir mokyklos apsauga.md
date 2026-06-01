@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat jeigu krikščionis jų kapinėse kokią nors žalą darytų ar pultų, norime, kad pagal mūsų žemės paprotį būtų nubaustas ir visą savo [turtą] turi mū­ sų iždui atiduoti, kad ir kaip tai vadintųsi.'
+  teiginys: 'Krikščionis, padaręs žalą žydų kapinėse ar jas užpuolęs, turėjo būti nubaustas pagal žemės paprotį ir netekti turto iždo naudai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krikščionis, padaręs žalą žydų kapinėse ar jas užpuolęs, turėjo būti nubaustas pagal žemės paprotį ir netekti turto iždo naudai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O

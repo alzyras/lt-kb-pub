@@ -25,13 +25,14 @@ Dusburgietis teigia, kad plinius C.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad plinius C.'
+  teiginys: 'C. Pliniaus Secundus veikalo „Naturalis historiae“ penktasis tomas, apimantis XXXI–XXXVII knygas, C. Mayhoffo parengtas Leipcige 1897 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'C. Pliniaus Secundus veikalo „Naturalis historiae“ penktasis tomas, apimantis XXXI–XXXVII knygas, C. Mayhoffo parengtas Leipcige 1897 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Plinius C. Secundus Naturalis historiae libri XXXVII/Ed. C. Mayhoff. Vol. V. Libri XXXI—

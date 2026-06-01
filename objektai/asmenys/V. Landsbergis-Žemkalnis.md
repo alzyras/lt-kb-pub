@@ -25,13 +25,14 @@ Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Litua
 ## Teiginiai
 
 - t-001
-  teiginys: 'Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
+  teiginys: 'V. Landsbergis-Žemkalnis buvo Kaune stovėjusio „Pienocentro“ pastato architektas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Landsbergis-Žemkalnis buvo Kaune stovėjusio „Pienocentro“ pastato architektas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.

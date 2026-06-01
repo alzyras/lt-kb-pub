@@ -41,14 +41,13 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas jam šios laimės, ėmė regzti visokiausių.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.'
   pagrindžia:
     - c-001
     - c-002
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -66,21 +65,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.
-    Jie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis
-    budėjo ir klūpojo bažnyčioje. Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios
-    pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie kito brolio gyvenimą toje pačioje pilyje
@@ -98,61 +85,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
-    Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
-    jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti. Todėl pirmąją
-    naktį, kai brolis Volframas pakilo iš lovos maldai, jam ir pasirodė velnias, o šitai kartojosi
-    kas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais  ir trikdė jam
-    ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
-    dievui. Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo
-    susigėdęs atstojo ir nebedrįso daugiau rodytis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
-
-- c-005
-  santrauka: 'Dusburgietis teigia, kad apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    230 (225). Apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje
-
-      Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.
-    Jie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis
-    budėjo ir klūpojo bažnyčioje.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-006
-  santrauka: 'Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas jam šios laimės, ėmė regzti visokiausių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    233 (226). Apie kito brolio gyvenimą toje pačioje pilyje
-
-      Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
-    Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
-    jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti. Todėl pirmąją
-    naktį, kai brolis Volframas pakilo iš lovos maldai, jam ir pasirodė velnias, o šitai kartojosi
-    kas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais  ir trikdė jam
-    ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
-    dievui.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
 - [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Albertas iš Meiseno]]
-- [[objektai/asmenys/Volframas Saksas]]

@@ -25,14 +25,14 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród — dab.'
+  teiginys: 'Višogrudas tapatinamas su dabartiniu Fordonu kairiajame Vyslos krante prie Bidgoščiaus, kur išliko piliakalnis.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad todėl magistras minėtųjų metų vasarą, subūręs didelę kariuomenę, pasiuntė ją į Lenkiją ir apsupo Višogrudą, Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -52,32 +52,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - t-001
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
-    ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
-    Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
-    ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas. Todėl magistras minėtųjų
-    metų vasarą, subūręs didelę kariuomenę, pasiuntė ją  į Lenkiją ir apsupo Višogrudą,
-    Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie
-    plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o juos pačius ėmė į nelaisvę
-    ar žudė,  ir niekas negalėjo nuo jų išsigelbėti, nepatyręs skriaudos, o šitaip jie darė
-    ilgus metus, sunkiai skriausdami ir brolius, ir saviškius; po daugybės antpuolių jie galop
-    smarkiai įsiveržė  į pilį602; įniršę išgalabijo nusidėjėlius, nelabus vyrus, kėlusius jiems
-    apmaudą, vienus paėmę į nelaisvę, o kitus išžudę, iš pasipiktinimo iki pamatų sudegino
-    pilį.
-
-
-
-
-                     13.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
+  santrauka: 'Višogrudas tapatinamas su dabartiniu Fordonu kairiajame Vyslos krante prie Bidgoščiaus, kur išliko piliakalnis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród
@@ -88,7 +63,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   santrauka: 'Dusburgietis teigia, kad todėl magistras minėtųjų metų vasarą, subūręs didelę kariuomenę, pasiuntė ją į Lenkiją ir apsupo Višogrudą, Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -113,3 +88,4 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003

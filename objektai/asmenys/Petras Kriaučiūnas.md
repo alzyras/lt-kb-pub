@@ -31,18 +31,19 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
     - c-003
 
 - t-002
-  teiginys: 'Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.'
+  teiginys: 'Petras Kriaučiūnas buvo vienas iš lietuvių veikėjų, išėjusių iš tautiškoje dvasioje augusių mokinių.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V.'
+  teiginys: 'Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet ir čia
@@ -57,6 +58,7 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
     - t-003
 
 - c-002
+  santrauka: 'Petras Kriaučiūnas buvo vienas iš lietuvių veikėjų, išėjusių iš tautiškoje dvasioje augusių mokinių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia net buvo mokoma lie-

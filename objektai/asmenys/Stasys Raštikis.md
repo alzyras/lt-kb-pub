@@ -45,7 +45,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - t-004
   teiginys: 'Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.'
   pagrindžia:
-    - c-009
+    - c-006
 
 - t-005
   teiginys: 'Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.'
@@ -182,6 +182,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   statusas: verified
   pagrindžia:
     - t-010
+    - t-004
 
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -211,22 +212,6 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   pagrindžia:
     - t-008
 
-- c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Krikščionys demokratai ir liaudininkai, prieš tai su-
-    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
-    krikščionims demokratams gen. S. Raštikį. Tai buvo dar vienas smūgis
-    A. Smetonai – ultimatumo akivaizdoje opozicija verčia jo paskirtą prem-
-    jerą, nors S. Raštikio kandidatūrai jis pritarė. Tačiau ministro pirmininko
-    Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
-    tikio kandidatūrą atmetė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
@@ -236,7 +221,6 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/diplomatija]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

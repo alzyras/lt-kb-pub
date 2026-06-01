@@ -30,7 +30,7 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
 - t-002
   teiginys: 'Prie 1270 m. ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis ».'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Traidenis apibūdintas kaip pašėlęs, nedorovingas, prakeiktas ir negailestingas Lietuvos valdovas.'
@@ -54,21 +54,6 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagal
-    Ipatijų, keturi Traidenio broliai (Borza, Sirputis, Lesis, Svilkenis)
-    esą buvę krikščionys, kilnus ir geri vyrai^225 Bet toji kronika nepa­
-    gailėjo piktų žodžių pačiam Traideniui. Prie 1270 m. ji pradžioje
-    pažymi : « Lietuvoje pradėjo valdyti pašėlęs _(okajauyj),_ nedorovingas,
-    prakeiktas ir negailestingas Traidenis ». Jis ten lyginamas su žiau­
-    ruoliais : « Sirijos Antiochu, Jeruzalės Erodu, Romos Neronu »^227.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

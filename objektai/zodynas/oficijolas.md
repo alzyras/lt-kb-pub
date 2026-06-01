@@ -19,13 +19,14 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­ reigas oficijolo paprastai būdavo iškviečiami, teisiami ir ekskomunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­ mą, kadangi.'
+  teiginys: 'Vilniaus miesto gyventojus anksčiau paprastai iškviesdavo, teisdavo ir ekskomunikuodavo Vilniaus vyskupas, vikaras arba oficijolas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus miesto gyventojus anksčiau paprastai iškviesdavo, teisdavo ir ekskomunikuodavo Vilniaus vyskupas, vikaras arba oficijolas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad mus

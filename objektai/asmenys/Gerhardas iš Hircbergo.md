@@ -41,20 +41,6 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Prūsijos žemės magistras brolis Gerhardas iš Hircbergo vadovavo dvejus metus340.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    78 (77). Apie brolį Gerhardą, Prūsijos magistrą
-
-       Ketvirtas Prūsijos žemės magistras brolis Gerhardas iš Hircbergo vadovavo dvejus
-    metus340. Daug gera padaręs Prūsijos žemėje, jis sugrįžo į Vokietiją, kur, tapęs Vokietijos
-    žemės magistru, mirė ir buvo palaidotas.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

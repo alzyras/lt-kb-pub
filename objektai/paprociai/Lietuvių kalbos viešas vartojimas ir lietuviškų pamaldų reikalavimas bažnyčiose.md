@@ -47,7 +47,7 @@ Nenurodyta
 - t-002
   teiginys: 'Būsimų tautininkų grupuotė apie „Vilties“ žurnalą kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Viešas kalbėjimas lietuviškai ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.'
@@ -55,14 +55,14 @@ Nenurodyta
     - c-001
 
 - t-004
-  teiginys: 'Iš lietuvių grupuočių stipriausias pozicijas įgijo krikščionys demokratai, daugiausia katalikų dvasininkai, apsisprendę pritarti etninių lietuvių tautiniam sąjūdžiui, galėję veikti per Bažnyčią, jos globojamas kultūros ir švie- 3 skyrius • R U S I J O S I M P.'
+  teiginys: 'Krikščionys demokratai ir būsimi tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
     - c-002
 
 - t-005
   teiginys: '„Vilties“ žurnalo aplinkos tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -82,6 +82,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Krikščionys demokratai ir būsimi tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš lietuvių grupuočių stipriausias pozicijas įgijo krikščionys demokratai,
@@ -100,19 +101,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    timo organizacijas, gausią spaudą. Daugiausia dėmesio jie skyrė katalikišką
-    doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su
-    būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
-    no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
-    bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -121,5 +109,3 @@ Nenurodyta
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautininkai]]
-- [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]]

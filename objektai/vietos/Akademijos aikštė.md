@@ -25,18 +25,19 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų.'
+  teiginys: 'Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o kiti jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­ nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, - kolegijos sienų, iš trečio ir.'
+  teiginys: 'Akademijos aikštė buvo netaisyklingas ketvirtainis, apsuptas bažnyčios, kolegijos sienų ir mokymosi patalpų kolonadų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o kiti jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš Joniškio - neturtingiems studentams kasdien Olia Cha-
@@ -57,6 +58,7 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
     - t-001
 
 - c-002
+  santrauka: 'Akademijos aikštė buvo netaisyklingas ketvirtainis, apsuptas bažnyčios, kolegijos sienų ir mokymosi patalpų kolonadų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d.

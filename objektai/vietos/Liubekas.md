@@ -31,95 +31,63 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 metų liepos 18 dieną Liubeko miesto rotušėje, dalyvaujant imperatoriaus kancleriui Janui fon Bremenui, daugeliui Liu­ beko katedros kanauninkų, dominikonų ordino vienuoliams ir.'
+  teiginys: '1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
-  teiginys: 'Žinodami gausią globą ir ypatingas privilegijas, o krikščio­ nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­ kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­ zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie pasidarė.'
+  teiginys: 'Iš Liubeko ir kitų Hanzos miestų į Vilnių atvykę amatininkai kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto sluoksniu.'
   pagrindžia:
-    - c-009
+    - c-004
 
 - t-003
   teiginys: 'Gediminas laiške Liubekui ir kitiems miestams pranešė, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto teise.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-004
-  teiginys: '14 Gedimino laiške Liubeko, Rostoko, Zundo, Greifsvaldo, Štetino mies­ tams ir Gotlando salos gyventojams šis valdovas praneša, kad į Vilnių at­ vykę kolonistai galės vadovautis ci­ viline teise, kokia naudojasi Rygos miestas, kol teisėtvarkininkai nesu­ kurs.'
+  teiginys: 'Gedimino laiške Liubeko ir kitų miestų gyventojams skelbta, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto civiline teise.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Dėl to rygiečiai kėlė balsą Hanzos sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
   pagrindžia:
-    - c-010
+    - c-007
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai, kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos kilmingųjų.'
   pagrindžia:
-    - c-011
+    - c-008
 
 - t-007
-  teiginys: 'Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi litteris appensum erat rotundum cereum, continens circulum duodecim angulorum et in medio circuli ymaginem viri capillati residentis in Cathedra, continentis in manu dextra.'
+  teiginys: '1323 m. Liubeke parengtame notariniame akte aprašytas prie Gedimino laiškų prikabintas apvalus vaškinis antspaudas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-008
   teiginys: '1241 m. Hamburgas sudarė karinę sąjungą su Liubeku, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-009
   teiginys: 'Į Vilnių atvykę amatininkai iš Liubeko ir kitų Hanzos miestų kartu su pirkliais tapo turtingu miesto gyventojų sluoksniu.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-010
   teiginys: 'Prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.'
   pagrindžia:
-    - c-008
+    - c-001
 
 - t-011
   teiginys: '1261 m. balandžio 27 d. Livonijos ordino vicemagistras prašė Liubeko miesto pagalbos dėl ordino patirtų nuostolių.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Rygos miestas buvo įkurtas 1200
-    metais, ant kalno, vadinto Righe,
-    Dvinos pakrantėje, vyskupo Alber­
-    to fon Apeldemo, pasiųsto skleisti
-    krikščioniškąjį tikėjimą Livonijoje,
-    bet ten dar prieš aštuonerius metus
-    Bremeno pirkliai jau buvo pastaty­
-    dinę keletą namų.
-    14
-    Gedimino laiške Liubeko, Rostoko,
-    Zundo, Greifsvaldo, Štetino mies­
-    tams ir Gotlando salos gyventojams
-    šis valdovas praneša, kad į Vilnių at­
-    vykę kolonistai galės vadovautis ci­
-    viline teise, kokia naudojasi Rygos
-    miestas, kol teisėtvarkininkai nesu­
-    kurs geresnių įstatymų. Jure civili
-    utantur Rigensis Civitatis, omnis vul­
-    gus, nisi tunc melius fuerit inuentum
-    de sano consilio discretorum [tad visi
-    [tie] žmonės tesinaudoja civiline Ry­
-    gos miesto teise, jei paskui geriau ne­
-    bus sumanyta išmintingųjų tarybos].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   santrauka: '1241 m. Hamburgas sudarė karinę sąjungą su Liubeku, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -137,8 +105,10 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-008
+    - t-010
 
-- c-003
+- c-002
+  santrauka: '1323 m. Liubeke parengtame notariniame akte aprašytas prie Gedimino laiškų prikabintas apvalus vaškinis antspaudas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To ant­
@@ -156,7 +126,8 @@ amziai:
   pagrindžia:
     - t-007
 
-- c-004
+- c-003
+  santrauka: 'Gedimino laiške Liubeko ir kitų miestų gyventojams skelbta, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto civiline teise.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
@@ -192,8 +163,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
-- c-005
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietu­
@@ -213,8 +185,10 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-009
+    - t-002
 
-- c-006
+- c-005
+  santrauka: '1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tikriausiai Kotzebue
@@ -234,7 +208,7 @@ amziai:
   pagrindžia:
     - t-001
 
-- c-007
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Turėdami
@@ -250,46 +224,7 @@ amziai:
   pagrindžia:
     - t-011
 
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
-    tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
-    Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė
-    D
-
-    ## Puslapis 22
-
-    ĮVADAS
-    Krokuva, Kališas ir Naugardas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lietu­
-    vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
-    įgyvendino savo dvariškius bei tarnus, žinoma, dar reikė­
-    tų pridurti ir nemažai paimtų į nelaisvę lenkų bei rusinu.
-    Žinodami gausią globą ir ypatingas privilegijas, o krikščio­
-    nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­
-    kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­
-    zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie
-    pasidarė turtingiausias Vilniaus gyventojų sluoksnis. Savo
-    ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
-    dimino dvare, statydinosi ties pilimi medinius savo rūmus,
-    o aplink kurdino savo valdinius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-010
+- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas sutiko jas grąžinti tik ta sąlyga, jei magistras
@@ -303,7 +238,7 @@ amziai:
   pagrindžia:
     - t-005
 
-- c-011
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     2. Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­

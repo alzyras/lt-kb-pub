@@ -42,7 +42,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-001
 
 - t-004
-  teiginys: 'Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu ir iš jos garbin­ go valdovo rankų priimtų įvesdinimą, po to, globojamas maršalkos Radvilos, buvo išsiųstas į.'
+  teiginys: 'Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir iš Vytauto rankų priimtų įvesdinimą.'
   pagrindžia:
     - c-002
 
@@ -79,6 +79,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - t-003
 
 - c-002
+  santrauka: 'Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir iš Vytauto rankų priimtų įvesdinimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     150

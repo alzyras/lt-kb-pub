@@ -20,7 +20,7 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuvoje rašto poreikis sparčiai didėjo, o jį Vakarų Europoje tenkinusių vienuolijų trūko.'
+  teiginys: 'Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Maskva XV–XVI a. gyveno bizantine

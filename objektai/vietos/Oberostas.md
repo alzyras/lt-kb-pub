@@ -24,7 +24,7 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
     - c-001
 
 - t-002
-  teiginys: 'Nuostabiausia tai, kad žemėlapyje į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m. LDK ribomis, kai, anot A.'
+  teiginys: 'Į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m. ribomis.'
   pagrindžia:
     - c-003
 
@@ -71,6 +71,7 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
     - t-003
 
 - c-003
+  santrauka: 'Į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m. ribomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m.

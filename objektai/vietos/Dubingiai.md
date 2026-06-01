@@ -32,7 +32,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - c-003
 
 - t-002
-  teiginys: '1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o 1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­ niaus.'
+  teiginys: '1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami iki keturių mylių nuo Vilniaus.'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - t-005
   teiginys: 'Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -64,6 +64,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -103,18 +104,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - t-001
 
 - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
-    1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
-    niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
   santrauka: 'Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

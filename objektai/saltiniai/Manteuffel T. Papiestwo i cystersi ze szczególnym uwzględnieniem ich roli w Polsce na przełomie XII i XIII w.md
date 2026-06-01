@@ -23,13 +23,14 @@ Dusburgietis teigia, kad manteuffel T.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad manteuffel T.'
+  teiginys: 'T. Manteuffelio „Papiestwo i cystersi“ išleista Varšuvoje 1955 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'T. Manteuffelio „Papiestwo i cystersi“ išleista Varšuvoje 1955 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Manteuffel T. Papiestwo i cystersi ze szczególnym uwzględnieniem ich roli w  Polsce

@@ -50,17 +50,17 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­ liovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj karūnas ir jomis karūnuotis.'
+  teiginys: 'Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­ siūlė Vytautui Jogailos karūną^2 ).'
+  teiginys: 'Po ilgo pamokslo Olesnickis pasiūlė Vytautui Jogailos karūną.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Tada dar kartą nutarta kreiptis į likusią Lenkijoj karališką tarybą^3 ) ir, matyt, jau tikrai tikėtasi gauti iš jos su­ tikimą, nes tuo laiku Vytautas viename savo laiške Zigmantui rašo, kad jis dabar galėsiąs jam siųsti karūną tiesiog per Lenkiją^4 ).'
+  teiginys: 'Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją.'
   pagrindžia:
     - c-001
 
@@ -79,14 +79,10 @@ Nenurodyta
   pagrindžia:
     - c-006
 
-- t-007
-  teiginys: 'Visu savo veikimu jis reiškėsi kaip didis kara­ lius, bet mirtis sutrukdė jam užsidėti karališką karūną.'
-  pagrindžia:
-    - c-007
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kitus Jogailos pa­
@@ -103,6 +99,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo tarpu atvyko į Vilnių ir lenkų dele­
@@ -116,6 +113,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Po ilgo pamokslo Olesnickis pasiūlė Vytautui Jogailos karūną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tad ir kilęs karas, galvojant taip, kaip galvojo Olesnic­
@@ -176,32 +174,14 @@ Nenurodyta
   pagrindžia:
     - t-006
 
-- c-007
-  santrauka: 'Visu savo veikimu jis reiškėsi kaip didis kara­ lius, bet mirtis sutrukdė jam užsidėti karališką karūną.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dar labiau lietuvio dėmesį nuo seno traukia garsas ir
-    darbai kito valdovo. Visu savo veikimu jis reiškėsi kaip didis kara­
-    lius, bet mirtis sutrukdė jam užsidėti karališką karūną. Abu tuos du
-    valdovus jungia vienas bendras bruožas : judviejų politikos ir vei­
-    kimo klausimais istorikai, nors apie abu yra gana daug rašę, iki šiol
-    dar tebesiginčija, nepajėgdami suderinti kai kurių prieštaravimų,
-    negalėdami pasakyti galutino žodžio dėl kai kurių problemų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/karūnacija karūnuotis]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]
-- [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
@@ -258,7 +238,6 @@ Nenurodyta
 - [[objektai/asmenys/Zbignevas Olesnickis]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/asmenys/Ziemovitas III]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas Kaributas]]
 - [[objektai/zodynas/applicare]]
 - [[objektai/zodynas/civilizacinė monada]]
@@ -273,11 +252,16 @@ Nenurodyta
 - [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“]]
+- [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/grupes/Krokuvos profesoriai]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
 - [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
+- [[objektai/ivykiai/Vytauto karūnacijos sumanymo žlugimas po Olesnickio atsakymo]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/inkorporacija]]
+- [[objektai/posakiai/ne tik tavo galvą, bet ir tavo tėvynę Lietuvą]]
 - [[objektai/ivykiai/Mindaugo karūnacija]]

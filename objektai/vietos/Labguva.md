@@ -26,16 +26,11 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau, 1925.'
+  teiginys: 'Dusburgietis teigia, kad dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189.'
-  pagrindžia:
-    - c-003
-
-- t-003
   teiginys: 'Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.'
   pagrindžia:
     - c-001
@@ -56,20 +51,9 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
-    1925.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
@@ -78,4 +62,4 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

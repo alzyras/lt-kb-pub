@@ -26,13 +26,14 @@ Gedimi­ nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne regėjo 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Gedimi­ nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­ vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.'
+  teiginys: 'Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas atrodė toks galingas, tarsi staugtų šimtas vilkų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas atrodė toks galingas, tarsi staugtų šimtas vilkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     48

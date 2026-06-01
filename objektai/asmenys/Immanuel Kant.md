@@ -24,13 +24,14 @@ Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti ats
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“ Immanuel Kant (1724–1804) Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės Š iuo.'
+  teiginys: 'Immanuelis Kantas Kristijono Gotlibo Milkaus žodyno pratarmėje aukštai įvertino lietuvių kalbą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Immanuelis Kantas Kristijono Gotlibo Milkaus žodyno pratarmėje aukštai įvertino lietuvių kalbą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     III s k y r i u s

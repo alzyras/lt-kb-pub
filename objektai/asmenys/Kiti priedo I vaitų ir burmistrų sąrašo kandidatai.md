@@ -31,14 +31,14 @@ periodo_grupes: []
     - c-004
 
 - t-002
-  teiginys: '1620 m. burmistrais nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.'
+  teiginys: '1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.'
   pagrindžia:
     - c-006
 
 - t-003
   teiginys: 'Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-004
   teiginys: 'Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėtai gauna privilegiją Vilniaus vaitystei, bet ją Jonas Kazimieras panaikina sausio 15 d. dekretu - 1667 15.'
@@ -166,7 +166,7 @@ periodo_grupes: []
     - t-005
 
 - c-006
-  santrauka: '1620 m. burmistrais nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.'
+  santrauka: '1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     9. Motiejus (arba Matas) Božiminskis, iš bajorų,
@@ -194,24 +194,6 @@ periodo_grupes: []
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    9. Motiejus (arba Matas) Božiminskis, iš bajorų,
-    paskirtas karaliaus Zigmanto Vazos raštu,
-    rašytu spalio 30 d. iš Varšuvos -
-    Burmistras Kuzma Mamoničius -
-    10. Aleksandras Chaleckis, karaliaus dvariškis,
-    iš bajorų, Zigmanto Vazos lapkričio 10 d.
-    privilegija -
-    1597 m.
-    1600 m.
-    1610 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

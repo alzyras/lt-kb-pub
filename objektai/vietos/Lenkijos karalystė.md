@@ -28,12 +28,12 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.'
+  teiginys: 'Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
+  teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.'
   pagrindžia:
     - c-009
 
@@ -45,10 +45,10 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-004
   teiginys: 'Lenkijos Karalystėje esantys pabūklai, arkebuzos, muškietos ir kita karo amunicija buvo atiduoti Karalystei.'
   pagrindžia:
-    - c-010
+    - c-003
 
 - t-005
-  teiginys: 'Jeigu kredenso pritrūktų, prašo­ me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš valstybės iždo, kaip Karalystės, taip ir Lietuvos, kiekvienam būtų sumokėta, kad būtų dievobaimingai už ištikimą savo tarnystę atlyginti, o jeigu šis mūsų kredensas būtų.'
+  teiginys: 'Testamente nurodyta, kad Lenkijos Karalystėje esantys pabūklai, muškietos ir kita karo amunicija atiduodami Karalystei.'
   pagrindžia:
     - c-003
 
@@ -73,7 +73,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-005
 
 - t-010
-  teiginys: 'Amžinai šio dalyko atminčiai mes, Žygimantas Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­ lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt.'
+  teiginys: 'Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi.'
   pagrindžia:
     - c-007
 
@@ -111,6 +111,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-008
 
 - c-003
+  santrauka: 'Testamente nurodyta, kad Lenkijos Karalystėje esantys pabūklai, muškietos ir kita karo amunicija atiduodami Karalystei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jeigu kredenso pritrūktų, prašo­
@@ -134,8 +135,10 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   statusas: verified
   pagrindžia:
     - t-005
+    - t-004
 
 - c-004
+  santrauka: 'Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dėl to norime, kad mūsų kū­
@@ -208,6 +211,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-006
 
 - c-007
+  santrauka: 'Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad [įsivėlusi] klaida per nerū­
@@ -258,6 +262,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-007
 
 - c-009
+  santrauka: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogaila taip pat
@@ -274,28 +279,3 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jeigu kredenso pritrūktų, prašo­
-    me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš
-    valstybės iždo, kaip Karalystės, taip ir Lietuvos, kiekvienam
-    būtų sumokėta, kad būtų dievobaimingai už ištikimą savo
-    tarnystę atlyginti, o jeigu šis mūsų kredensas būtų didesnis,
-    negu reikalinga tarnų atlyginimams, tegu bus leista jų dide­
-    nybėms mūsų seserims paimti ir tarpusavyje pasidalinti su­
-    sidėjus mūsų tarnų algoms po tiek, po kiek kiekvieno daliai
-    teks, apskaičiavus sumas, kokio dydžio jų mūsų dvaro atly­
-    ginimui prireiks. Visus bet kokio pavadinimo pabūklus, ar-
-    kebuzas, muškietas, pėstininkų ginklus ir kitą karo amunici­
-    ją bei įrangą, kokie yra Lenkijos Karalystėje - atiduodame
-    Karalystei. Taip pat Lietuvoje esančius ir kur kitur paveda­
-    me Lietuvos Kunigaikštystei, bet tie, kurie yra Tikocine ir
-    visi ginklai bei karinė amunicija privalo ten likti kaip mūsų
-    nuosavoje pilyje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004

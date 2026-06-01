@@ -48,13 +48,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus nieko nežinąs, išskyrus vienui vieną, būtent, kai su didele kariuomene buvo įsibrovęs į Lenkiją, vienas sūduvis išsivežęs švenčiausiosios mergelės Marijos su kūdikėliu ant rankų.'
+  teiginys: 'Ruseinis teigė išgelbėjęs Marijos su kūdikiu paveikslą nuo sūduvių išniekinimo ir atidavęs jį krikščioniui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ruseinis teigė išgelbėjęs Marijos su kūdikiu paveikslą nuo sūduvių išniekinimo ir atidavęs jį krikščioniui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus
@@ -95,22 +96,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    207 (202). Apie vieno sūduvio atsivertimą ir nuostabų įvykį
-
-      Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
-    šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs,
-    dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo
-    šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį
-    pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -119,6 +104,6 @@ Nenurodyta
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/asmenys/Ruseinis]]
 - [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
 - [[objektai/daiktai/Medinis kryžius]]
-- [[objektai/asmenys/Ruseinis]]

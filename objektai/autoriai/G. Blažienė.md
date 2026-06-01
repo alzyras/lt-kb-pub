@@ -17,13 +17,14 @@ Dusburgietis teigia, kad blažienei, filol.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad blažienei, filol.'
+  teiginys: 'G. Blažienė teikė dalykinių patarimų rengiant Petro Dusburgiečio kronikos leidimą spaudai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'G. Blažienė teikė dalykinių patarimų rengiant Petro Dusburgiečio kronikos leidimą spaudai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.

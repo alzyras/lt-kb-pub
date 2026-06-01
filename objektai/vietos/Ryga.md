@@ -36,12 +36,12 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - c-002
 
 - t-002
-  teiginys: 'Ryga: be to, čia kryžiuo- čiams buvo priešingas Rygos arkivyskupas, kuris, kovodamas su ordinu drauge su rygiečiais, ne kartą eidavo išvien su Lie- tuva (Vytenio ir Gedimino laikais, — žiūr. 65, 68 psl.). Arkivys- kupo ir rygiečių dėka dažnai būdavo sudaromos.'
+  teiginys: 'Vytenio ir Gedimino laikais Rygos arkivyskupas, kovodamas su ordinu drauge su rygiečiais, ne kartą veikė išvien su Lietuva.'
   pagrindžia:
     - c-009
 
 - t-003
-  teiginys: 'Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k.'
+  teiginys: 'Vytauto laikais Ryga buvo vienas iš prekybos centrų, buvusių netoli Lietuvos.'
   pagrindžia:
     - c-013
 
@@ -61,22 +61,22 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - c-003
 
 - t-007
-  teiginys: 'LPS staigus populiarumas ir masiškumas (Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar Gyvasis Baltijos kelias – rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d. A.'
+  teiginys: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sudarė rankomis susikibusių žmonių grandinę Vilnius-Ryga-Talinas.'
   pagrindžia:
     - c-007
 
 - t-008
-  teiginys: 'Priėjimas prie Rygos Dauguvos upe taip pat buvo ga- na sunkus, — čia irgi trukdė tie patys kryžiuočiai, — vis dėlto čia buvo kiek lengviau: mat, Ryga buvo laisvas miestas, kuris, no- rėdamas pasipelnyti, buvo sukalbamesnis.'
+  teiginys: 'XIII-XIV a. Ryga buvo svarbiausias Lietuvos prekybos punktas, nes laisvas miestas buvo sukalbamesnis už kryžiuočius.'
   pagrindžia:
     - c-008
 
 - t-009
   teiginys: 'Ryga: tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu.'
   pagrindžia:
-    - c-015
+    - c-014
 
 - t-010
-  teiginys: 'Ryga: ją ėjo prekyba su visais Lietuvai priklausiusiais ir dar nepriklau- siusiais Dauguvos ir Dniepro upyno miestais.'
+  teiginys: 'Per Rygą ėjo prekyba su Dauguvos ir Dniepro upyno miestais, priklausiusiais ir dar nepriklausiusiais Lietuvai.'
   pagrindžia:
     - c-011
 
@@ -86,17 +86,17 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - c-005
 
 - t-012
-  teiginys: 'Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu.'
+  teiginys: '1201 m. vyskupas Albertas pastatė Rygos pilį, vėliau tapusią valstybės centru ir didžiausiu Livonijos miestu.'
   pagrindžia:
     - c-014
 
 - t-013
-  teiginys: 'Ryga: pas ir miestiečiai buvo priversti padaryti taiką su ordinu ir nu- traukti sąjungą su Vyteniu.'
+  teiginys: '1313 m. Rygos arkivyskupas ir miestiečiai buvo priversti taikytis su ordinu ir nutraukti sąjungą su Vyteniu.'
   pagrindžia:
     - c-006
 
 - t-014
-  teiginys: 'Ryga: šitos sutarties nepripažino tik Rygos miestas; jis liko nepri- klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.'
+  teiginys: 'Ryga nepripažino 1561 m. Livonijos pasidavimo sutarties ir liko nepriklausoma iki 1582 m., kai ją nukariavo Steponas Batoras.'
   pagrindžia:
     - c-012
 
@@ -178,6 +178,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-011
 
 - c-006
+  santrauka: '1313 m. Rygos arkivyskupas ir miestiečiai buvo priversti taikytis su ordinu ir nutraukti sąjungą su Vyteniu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau sudarytoji sąjunga nenutrūko. Arkivysku-
@@ -193,6 +194,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-013
 
 - c-007
+  santrauka: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sudarė rankomis susikibusių žmonių grandinę Vilnius-Ryga-Talinas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau tų
@@ -219,6 +221,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-007
 
 - c-008
+  santrauka: 'XIII-XIV a. Ryga buvo svarbiausias Lietuvos prekybos punktas, nes laisvas miestas buvo sukalbamesnis už kryžiuočius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre-
@@ -235,6 +238,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-008
 
 - c-009
+  santrauka: 'Vytenio ir Gedimino laikais Rygos arkivyskupas, kovodamas su ordinu drauge su rygiečiais, ne kartą veikė išvien su Lietuva.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, čia kryžiuo-
@@ -264,6 +268,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-005
 
 - c-011
+  santrauka: 'Per Rygą ėjo prekyba su Dauguvos ir Dniepro upyno miestais, priklausiusiais ir dar nepriklausiusiais Lietuvai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, šita sąjunga buvo labai naudinga Lietuvai ir ekono-
@@ -277,6 +282,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-010
 
 - c-012
+  santrauka: 'Ryga nepripažino 1561 m. Livonijos pasidavimo sutarties ir liko nepriklausoma iki 1582 m., kai ją nukariavo Steponas Batoras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po ilgų derybų buvo
@@ -296,6 +302,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-014
 
 - c-013
+  santrauka: 'Vytauto laikais Ryga buvo vienas iš prekybos centrų, buvusių netoli Lietuvos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tad Vytautas čia labiau pareida­
@@ -316,6 +323,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-003
 
 - c-014
+  santrauka: '1201 m. vyskupas Albertas pastatė Rygos pilį, vėliau tapusią valstybės centru ir didžiausiu Livonijos miestu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna,
@@ -330,19 +338,4 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   statusas: verified
   pagrindžia:
     - t-012
-
-- c-015
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna,
-    ir pagonys labai dažnai ją išnaikindavo, gyventojus išžudydavo,
-    jų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos
-    vyskupas, Albertas (1199—1229 m.), ėmė organizuoti gin-
-    kluotą savo tikinčiųjų apsaugą. Kad būtų lengviau gintis, jis pasta-
-    tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru
-    ir didžiausiu Livonijos miestu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-009

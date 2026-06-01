@@ -34,7 +34,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - t-001
   teiginys: 'Dusburgietis teigia, kad skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius nuo dab.'
   pagrindžia:
-    - c-017
+    - c-016
 
 - t-002
   teiginys: 'Pav., Ragainės komtūras vienu puolimu išsivedė 100 žmonių nelaisvėn.'
@@ -44,12 +44,12 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - t-003
   teiginys: 'Dusburgietis teigia, kad 1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto tėvonija40.'
   pagrindžia:
-    - c-011
+    - c-010
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
   pagrindžia:
-    - c-016
+    - c-015
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m —Marienburgas.'
@@ -59,42 +59,42 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - t-006
   teiginys: 'Ordino pilis iš pradžių vadinta Landishute / Landeshute, o vėliau įsigalėjo baltiškasis Ragainės vardas.'
   pagrindžia:
-    - c-007
+    - c-009
 
 - t-007
-  teiginys: 'Dusburgietis teigia, kad apie ilgą vienos pilies apgulą ir vieną nuostabų įvykį Skalviai prie Ragainės ant kalno turėjo pilį465, kurią siautė didelė rutėnų kariuomenė466, 465 D.'
+  teiginys: 'Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-008
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
   pagrindžia:
-    - c-019
+    - c-017
 
 - t-009
   teiginys: 'Dusburgietis teigia, kad paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.'
   pagrindžia:
-    - c-014
+    - c-013
 
 - t-010
   teiginys: '1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.'
   pagrindžia:
-    - c-018
+    - c-010
 
 - t-011
-  teiginys: '387); anot jos, Ragainės komtūras Fridri­ chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė jos užimti, o tik sudegino papilį.'
+  teiginys: '1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
   pagrindžia:
-    - c-013
+    - c-012
 
 - t-012
   teiginys: 'Dusburgietis teigia, kad apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie jo gyvenimą Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas Karaliaučiaus brolių komtūru.'
   pagrindžia:
-    - c-020
+    - c-018
 
 - t-013
   teiginys: 'Tą pačią žiemą kryžiuočiai iš Ragainės du kartus ėjo „prieš stabmeldžius“, žudė, degino ir plėšė.'
   pagrindžia:
-    - c-012
+    - c-011
 
 - t-014
   teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
@@ -109,22 +109,22 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - t-016
   teiginys: 'Dusburgietis teigia, kad apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus.'
   pagrindžia:
-    - c-015
+    - c-014
 
 - t-017
   teiginys: 'Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna.'
   pagrindžia:
-    - c-021
+    - c-013
 
 - t-018
   teiginys: 'Dusburgietis teigia, kad nuo 1289 m., kuriais buvo pastatyta Ragainės pilis (III, 235), kronikoje pasirodo daugiau smulkmenų, nurodomos įvykių dienos (142-ose III dalies skyreliuose, aprašančiuose karą prieš Lietuvą, 204 kartus jos pateiktos tiksliai), nors tarpais pasakomas tik metų.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-019
-  teiginys: 'Šalia paties Vytauto būrių iš tikrosios Lietuvos ir rusiškųjų žemių, dalyvavo būrelis lenkų riterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­ chas^30.'
+  teiginys: 'Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-020
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užpuolimą 1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė.'
@@ -234,21 +234,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-015
 
 - c-007
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    465 D. — Raganita, Jer. — Ragnîtin, Rangnîte, Ragnîte, Ragnît (SRP, 1, p. 488, 489,
-    519, 523, 535); vėliau — Ragnit, lie. Ragainė (dab. Nemanas).
-      Ordino pilis iš pradžių vadinosi Landishute (1291 m.— PUB, 1, 2, Nr. 576, p. 363),
-    Landeshute (D. III, 235), vėliau įsigali baltiškasis vardas: lotyniškuose dokumentuose —
-    Raganitie (1300 m — PUB, 1, 2, Nr. 745, p. 463), o vokiškuose — Raug-[nit], Rangnith,
-    Rangnithe (1302 m. ir vėliau — ten pat, Nr. /77, 778 791 879).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-008
+  santrauka: 'Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kijeve jau birželio mėn. prie gausių stalų
@@ -263,7 +249,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindžia:
     - t-019
 
-- c-009
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nuo 1289 m., kuriais buvo pastatyta Ragainės pilis (III, 235), kronikoje pasirodo daugiau
@@ -277,7 +263,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindžia:
     - t-018
 
-- c-010
+- c-009
+  santrauka: 'Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie ilgą vienos pilies apgulą ir vieną nuostabų įvykį
@@ -307,8 +294,9 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   statusas: verified
   pagrindžia:
     - t-007
+    - t-006
 
-- c-011
+- c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ryškūs lietuvių
@@ -321,8 +309,9 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   statusas: verified
   pagrindžia:
     - t-003
+    - t-010
 
-- c-012
+- c-011
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1361 m. pradžioje, žiemą Ordino mar-
@@ -344,7 +333,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindžia:
     - t-013
 
-- c-013
+- c-012
+  santrauka: '1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitai vyko viešpataujant Lie­
@@ -359,7 +349,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindžia:
     - t-011
 
-- c-014
+- c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
@@ -374,8 +364,9 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   statusas: verified
   pagrindžia:
     - t-009
+    - t-017
 
-- c-015
+- c-014
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
@@ -394,8 +385,9 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   statusas: verified
   pagrindžia:
     - t-016
+    - t-022
 
-- c-016
+- c-015
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiuo metu žinomas dokumentas, rodantis, kad 1327 m. gruodžio
@@ -410,7 +402,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindžia:
     - t-004
 
-- c-017
+- c-016
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius
@@ -428,21 +420,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindžia:
     - t-001
 
-- c-018
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ryškūs lietuvių
-    tautos siekimai atgauti Ordino užgrobtas vakarinių lietuvių bei prūsų žemes ir XV a.
-    pradžioje. 1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir
-    Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto
-    tėvonija40.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-019
+- c-017
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
@@ -457,7 +435,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindžia:
     - t-008
 
-- c-020
+- c-018
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     236 (229). Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
@@ -471,30 +449,3 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   statusas: verified
   pagrindžia:
     - t-012
-
-- c-021
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
-    Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-017
-
-- c-022
-  santrauka: 'Dusburgietis teigia, kad apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    261 (254). Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
-                                     sudeginimą
-
-       Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
-    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
-    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-022

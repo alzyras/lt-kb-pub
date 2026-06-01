@@ -28,13 +28,14 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą Ašmenoje, esą jis neįstengęs iš­ sivežti kartu - tai nėra tikslu, nes tais pat 1432 metais lapkričio 30 dieną Švitrigaila, rašydamas Livonijos ma­ gistrui, užsimena, kad žmona jam.'
+  teiginys: 'Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi
@@ -67,3 +68,4 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
 - [[objektai/asmenys/Eugenijus IV]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]

@@ -18,18 +18,19 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 ## Teiginiai
 
 - t-001
-  teiginys: 'Griežčiausiai neigiamai atsakė Krokuvoje išleista brošiūra, pavadinta „Niekad, niekados" (Przenigdy").'
+  teiginys: 'Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „Niekad, niekados".'
+  teiginys: 'Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toji lietuvių brošiūra, nors ir sulaukė lenkų spaudoje gyvo at-
@@ -46,6 +47,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     - t-001
 
 - c-002
+  santrauka: 'Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuviai veikėjai, nepaisydami tokio nepalankaus bajorijos

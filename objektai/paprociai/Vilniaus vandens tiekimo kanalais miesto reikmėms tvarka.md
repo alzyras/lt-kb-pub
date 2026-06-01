@@ -47,13 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tai sukėlė nesiliaujančius vaidus tarp šio ordino ir miestiečių, tad Žygimantas, kad paten­ kintų pirmąją sąlygą ir aprūpintų Vilnių vandeniu, kaip kad buvo aprūpinta Krokuva, atidavė miestui nuosavą sa­ vo šaltinį netoli miesto, už Subačiaus vartų, prie.'
+  teiginys: 'Žygimantas miestui atidavė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas miestui atidavė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai sukėlė nesiliaujančius vaidus

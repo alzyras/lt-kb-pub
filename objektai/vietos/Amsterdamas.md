@@ -25,11 +25,6 @@ Amsterdamas, 1650 m.
 - t-001
   teiginys: 'Abiejų Tautų Respublika per Gdanską į Amsterdamą aprūpino Vakarus javais.'
   pagrindžia:
-    - c-003
-
-- t-002
-  teiginys: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
-  pagrindžia:
     - c-002
 
 - t-003
@@ -52,6 +47,7 @@ Amsterdamas, 1650 m.
     - t-003
 
 - c-002
+  santrauka: 'Abiejų Tautų Respublika per Gdanską į Amsterdamą aprūpino Vakarus javais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVI a. vidu-
@@ -79,32 +75,4 @@ Amsterdamas, 1650 m.
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVI a. vidu-
-    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
-    valstybė – Abiejų Tautų Respublika. Paprastai moksle laikoma, kad ši
-    valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
-    mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
-    cija, demokratija, konstitucija, barokas. Taigi Abiejų Tautų Respublika:
-    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
-    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
-    bajoriškosios demokratijos tradiciją,
-    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
-    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
-    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
-    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
-    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
-    šventųjų, poetų, retorikų ir logikų tradicijas,
-    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
-    tūros mokyklą,
-    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
-    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
-    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001

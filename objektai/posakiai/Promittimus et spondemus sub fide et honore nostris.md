@@ -26,13 +26,14 @@ Warschaviensis et Wilnensis, promittimus et spondemus sub fide et honore nostris
 ## Teiginiai
 
 - t-001
-  teiginys: 'Warschaviensis et Wilnensis, promittimus et spondemus sub fide et honore nostris, quod fideliter totis viri­ bus, procurabimus, instabimus et effi­ cere consilio et persuasionibus curabi­ mus, quod praefati Domini nostri pacem hanc perpetuam in omnibus suis.'
+  teiginys: 'Formule „promittimus et spondemus sub fide et honore nostris“ Vilnius su kitais miestais įsipareigojo rūpintis amžinosios taikos laikymusi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Formule „promittimus et spondemus sub fide et honore nostris“ Vilnius su kitais miestais įsipareigojo rūpintis amžinosios taikos laikymusi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Foe- [Amžinosios vienybės ir santarvės

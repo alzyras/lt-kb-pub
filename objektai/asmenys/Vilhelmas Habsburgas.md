@@ -28,12 +28,12 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­ joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą.'
+  teiginys: 'Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Abi jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­ go markagrafu, vėliau tapusiu ciesorium Zigmantu.'
+  teiginys: 'Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu.'
   pagrindžia:
     - c-002
 
@@ -45,6 +45,7 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     tą, paskirti vyskupą, kapitulą. Tuo reikalu pas popiežių buvo
@@ -62,6 +63,7 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
     - t-001
 
 - c-002
+  santrauka: 'Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet jam pavyko dvi savo karalystes — Vengrų ir Len­

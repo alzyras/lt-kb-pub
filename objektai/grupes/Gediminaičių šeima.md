@@ -32,7 +32,7 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 - t-003
   teiginys: 'Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl to susitarimo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -50,24 +50,6 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
     - t-002
 
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    pagalbos; tad nebuvo jokios naudos dėtis į uniją su Lenkija.
-    Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių
-    šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir
-    jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl
-    to susitarimo. Nors lietuviai jau nuo Švitrigailos laikų rinkosi
-    sau kunigaikščius, tačiau Jogailos palikuonys manė, kad bent
-    Lietuva jiems turinti tekti paveldėtinai; o tuo susitarimu buvo
-    norima įvesti elekciją, taigi visai nebuvo atsižvelgiama į jų tei-
-    ses.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl to susitarimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -90,6 +72,7 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -99,6 +82,7 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 - [[objektai/ivykiai/Karas su Maskva (1609–1613 m.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Švitrigaila]]

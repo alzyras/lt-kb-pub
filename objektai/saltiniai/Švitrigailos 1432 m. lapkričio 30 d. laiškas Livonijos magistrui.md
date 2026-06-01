@@ -26,13 +26,14 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą Ašmenoje, esą jis neįstengęs iš­ sivežti kartu - tai nėra tikslu, nes tais pat 1432 metais lapkričio 30 dieną Švitrigaila, rašydamas Livonijos ma­ gistrui, užsimena, kad žmona jam.'
+  teiginys: '1432 m. lapkričio 30 d. laiške Livonijos magistrui Švitrigaila užsiminė, kad žmona Sofija jam pagimdė sūnų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1432 m. lapkričio 30 d. laiške Livonijos magistrui Švitrigaila užsiminė, kad žmona Sofija jam pagimdė sūnų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi

@@ -34,7 +34,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - c-001
 
 - t-002
-  teiginys: 'Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut''''u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.'
+  teiginys: 'Prancūzai, vadovaujami Boucicaut''o, per kautynes pridarė nemažai žalos apgultiesiems.'
   pagrindžia:
     - c-002
 
@@ -44,7 +44,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - c-004
 
 - t-004
-  teiginys: 'Kai rug­ pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­ ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­ pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę jų esant.'
+  teiginys: 'Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.'
   pagrindžia:
     - c-003
 
@@ -92,6 +92,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - t-001
 
 - c-002
+  santrauka: 'Prancūzai, vadovaujami Boucicaut''o, per kautynes pridarė nemažai žalos apgultiesiems.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  •  —
@@ -116,6 +117,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - t-002
 
 - c-003
+  santrauka: 'Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto rūpesčiu žemaičiai Karaliaučiuje
@@ -249,7 +251,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika]]
 - [[objektai/posakiai/„Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba lietuvis valstietis.“]]
 - [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]
-- [[objektai/posakiai/„nė trijų dienų“]]
 - [[objektai/posakiai/„tėvyninė“ šalis]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Oskaras Milašius]]
+- [[objektai/paprociai/Riterių garbės puota prieš karo žygį]]
 - [[objektai/grupes/Anglai]]

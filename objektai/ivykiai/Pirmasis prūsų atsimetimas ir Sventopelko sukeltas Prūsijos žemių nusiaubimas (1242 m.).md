@@ -58,7 +58,7 @@ Nenurodyta
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 80—81; Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis.., p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342).'
+  teiginys: 'Pirmojo prūsų atsimetimo pradžia dažniausiai datuojama 1242 m., nors kai kas ją sieja su 1243 m. pabaiga.'
   pagrindžia:
     - c-002
 
@@ -85,6 +85,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Pirmojo prūsų atsimetimo pradžia dažniausiai datuojama 1242 m., nors kai kas ją sieja su 1243 m. pabaiga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
@@ -143,25 +144,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-005
-  santrauka: 'Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    32. Sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje
-
-      Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių  ir
-    pragaišties, pasak šventojo rašto, be galo klastingos  ir suktos širdies; prūsų tautą,
-    neseniai priėmusią Kristaus tikėjimą, jis pradėjo taikiais žodžiais raginti griebtis klastos,
-    sudarė sąjungą su ta sąlyga, kad jie išvarysią jėga iš Prūsijos žemės Teutonų ordino
-    brolius ir kitus krikščionis266; jiems ši kalba rodėsi esanti gera, daug kas persimetė į jo
-    pusę, ir beveik visi jam prijautė. Kai šitai įvyko, šis kunigaikštis sutvirtino savo pilis Vyslos
-    pakrantėse  ir jose įkurdino nuodėmingus žmones, nedoringus vyrus  ir nusikaltėlius,
-    kurie tapo broliams nelyginant kilpa po kaklu.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-005
 
 ## Ryšiai

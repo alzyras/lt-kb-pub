@@ -23,13 +23,14 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad [Prätorius M.] Proetorius M.'
+  teiginys: 'M. Prätoriaus „Proetorius M. Deliciae Prussiae oder Preussische Schaubühne“ rankraštis nurodytas MAB RS fonde F 129-1338.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Prätoriaus „Proetorius M. Deliciae Prussiae oder Preussische Schaubühne“ rankraštis nurodytas MAB RS fonde F 129-1338.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [Prätorius  M.]  Proetorius  M.  Deliciae  Prussiae  oder  Preussische  Schaubühne

@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Aplink miestą su savo palyda palapinėse klajojo Šach Achmedas, o Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­ kuriavo karaliaus45.'
+  teiginys: 'Šach Achmedas su palyda palapinėse klajojo aplink Vilnių, o Krymo ir Nogajaus ordų pasiuntiniai laukė karaliaus už miesto sienų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šach Achmedas su palyda palapinėse klajojo aplink Vilnių, o Krymo ir Nogajaus ordų pasiuntiniai laukė karaliaus už miesto sienų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atrodo, kad tais metais bu­
@@ -73,5 +74,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Šach Achmedas]]
 - [[objektai/grupes/Krymo orda]]
 - [[objektai/grupes/Nogajaus orda]]

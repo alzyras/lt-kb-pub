@@ -37,13 +37,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad broliai, paženklinę save šv.'
+  teiginys: 'Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui

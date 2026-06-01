@@ -25,20 +25,6 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    – viešojoje (tvarkos) policijoje. Be jų, dirbo šimtai
-    seniūnų, garbės policininkų, mokesčių rinkėjų, inspektorių ir kitokių
-    pareigūnų, kurie nori nenori tarnavo vokiečiams ir padėjo jiems išnau-
-    doti kraštą. Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių
-    leistą savivaldą vadino „savismauga“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -55,6 +41,7 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

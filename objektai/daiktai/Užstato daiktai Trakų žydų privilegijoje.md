@@ -72,7 +72,7 @@ Nenurodyta
     - c-004
 
 - t-005
-  teiginys: 'Taip pat jei žydas krikščioniui be liudi­ ninkų pasakytų, kad užstato davęs, o anas gintųsi, už tai krikščionis turi sumokėti; arba su priesaika priėmęs žydas gali užstato vardu priimti visokius daiktus, kurie tik jam bū­ tų atnešti ir bet kokių pavadinimų.'
+  teiginys: 'Trakų žydų privilegijoje leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.'
   pagrindžia:
     - c-005
 
@@ -159,6 +159,7 @@ Nenurodyta
     - t-004
 
 - c-005
+  santrauka: 'Trakų žydų privilegijoje leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O jei krikščionis žydui ir jo žodžiams
@@ -200,3 +201,4 @@ Nenurodyta
 - [[objektai/paprociai/Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka]]
 - [[objektai/paprociai/Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka]]
 - [[objektai/daiktai/Rykai]]
+- [[objektai/grupes/Žydai]]

@@ -25,7 +25,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, Sventopelkas sutelkė didelę kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo brolių palapinės, pririšdamas savo kovos žirgus.'
+  teiginys: 'Sventopelkas drąsino saviškius, teigdamas, kad pomeranai ir prūsai galės visiems laikams nusikratyti teutonų jungo.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sventopelkas drąsino saviškius, teigdamas, kad pomeranai ir prūsai galės visiems laikams nusikratyti teutonų jungo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu, kai šitai dėjosi, Sventopelkas

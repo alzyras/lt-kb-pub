@@ -33,12 +33,12 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai.'
+  teiginys: 'Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad tada perpykę prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą; vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais. Po.'
+  teiginys: 'Prūsai užėmė Štarkenbergo pilį, išžudė jos brolius ir gyventojus, o pačią pilį sudegino.'
   pagrindžia:
     - c-003
 
@@ -63,6 +63,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
     - t-001
 
 - c-002
+  santrauka: 'Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     149 (144). Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
@@ -79,6 +80,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
     - t-002
 
 - c-003
+  santrauka: 'Prūsai užėmė Štarkenbergo pilį, išžudė jos brolius ir gyventojus, o pačią pilį sudegino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tada perpykę

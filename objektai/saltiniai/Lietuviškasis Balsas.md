@@ -17,7 +17,7 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuviškasis Balsas: per 4 metus, padedamas Lietuvoje ir Rusijoje gy- venančių lietuvių inteligentų, savo laikraštyje jis kėlė lietuvių susipratimą, ragino pačius lietuvius tvarkyti savo gyvenimą, o nesiglausti prie lenkų.'
+  teiginys: '„Lietuviškasis Balsas“ ketverius metus kėlė lietuvių susipratimą ir ragino lietuvius patiems tvarkyti savo gyvenimą.'
   pagrindžia:
     - c-002
 
@@ -27,9 +27,9 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
     - c-001
 
 - t-003
-  teiginys: 'Lietuviškasis Balsas: 1885 m. jau ėmė leisti savo laikraštį „Lietuviškąjį Bal- są", kurį jam tekdavo beveik vienam ir prirašyti, ir išspausdinti ir išplatinti.'
+  teiginys: '1885 m. pradėtas leisti laikraštis „Lietuviškasis Balsas“, kurį leidėjui teko beveik vienam rašyti, spausdinti ir platinti.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -48,6 +48,7 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
     - t-002
 
 - c-002
+  santrauka: '„Lietuviškasis Balsas“ ketverius metus kėlė lietuvių susipratimą ir ragino lietuvius patiems tvarkyti savo gyvenimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš pradžių jis ėmė dirbti čia atrastoje lietuvių
@@ -63,15 +64,4 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1885 m. jau ėmė leisti savo laikraštį „Lietuviškąjį Bal-
-    są", kurį jam tekdavo beveik vienam ir prirašyti, ir išspausdinti
-    ir išplatinti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003

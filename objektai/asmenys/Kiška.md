@@ -20,13 +20,14 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuomenei vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­ kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­ nių.'
+  teiginys: 'Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau neilga buvo karaliaus vieš­
@@ -57,3 +58,4 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 - [[objektai/posakiai/brangią žinių kasyklą]]
 - [[objektai/zodynas/litvomanija]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
+- [[objektai/grupes/Totoriai]]

@@ -28,13 +28,14 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta vadinama Castrum Gedemini, yra visiškai atmestina.'
+  teiginys: 'Hartknocho prielaida, kad Vilnius buvo vadinamas Castrum Gedemini, Balińskio tekste atmetama.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hartknocho prielaida, kad Vilnius buvo vadinamas Castrum Gedemini, Balińskio tekste atmetama.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje

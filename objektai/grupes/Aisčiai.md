@@ -32,11 +32,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
     - c-001
 
 - t-002
-  teiginys: 'Visi aisčiai, pagal kalbos tarmę, kalbininkų skirstomi į tris grupes — prūsus, lietuvius ir latvius.'
-  pagrindžia:
-    - c-003
-
-- t-003
   teiginys: 'Kalbininkai aisčius pagal kalbos tarmę skirsto į tris grupes: prūsus, lietuvius ir latvius.'
   pagrindžia:
     - c-002
@@ -70,19 +65,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visi aisčiai, pagal kalbos tarmę, kalbininkų skirstomi į tris
-    grupes — prūsus, lietuvius ir latvius. Tarminiai kalbos skirtumai
-    tarp jų istorinių laikų pradžioje dar buvo nežymūs. Kultūros at-
-    žvilgiu visi aisčiai nesiskyrė tarp savęs.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -106,7 +88,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 - [[objektai/ivykiai/Kryžiuočių ordino nukariavimai Prūsuose]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lybiai]]
-- [[objektai/autoriai/Maтузова В. Я]]
 - [[objektai/daiktai/Muštiniai]]
 - [[objektai/ivykiai/Polocko pavergimas Mindaugo laikais]]
 - [[objektai/grupes/Skandinavai]]

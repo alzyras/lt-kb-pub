@@ -48,7 +48,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš mus sunaikinti mūsų ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti mūsų tautos ir.'
+  teiginys: 'Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes.'
   pagrindžia:
     - c-003
     - c-001
@@ -95,6 +95,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite
@@ -111,7 +112,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/grupes/Romos kurija]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/asmenys/Grigalius IX]]

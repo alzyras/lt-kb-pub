@@ -33,13 +33,14 @@ amziai:
     - c-002
 
 - t-002
-  teiginys: 'Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą palei tavo malūną prie kelio, vedan­ čio iš miesto į Užupį, už Vilnelės.'
+  teiginys: '1493 m. sausio 13 d. Aleksandras Jogailaitis Vilniuje dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą Užupyje už Vilnelės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1493 m. sausio 13 d. Aleksandras Jogailaitis Vilniuje dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą Užupyje už Vilnelės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     PATS ALEKSANDRAS,

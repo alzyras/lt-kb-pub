@@ -40,12 +40,12 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.'
+  teiginys: 'Kronikos lotyniškas terminas „territorium castri“ reiškia pilies apygardą.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas tik lotyniškas šio teritorinio vieneto vardas (Jer —geblt), plg.'
+  teiginys: 'Prūsų žemė kronikoje skirstoma į mažesnes teritorijas, kurioms istoriografijoje taikomas valsčiaus terminas.'
   pagrindžia:
     - c-001
 
@@ -62,6 +62,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsų žemė kronikoje skirstoma į mažesnes teritorijas, kurioms istoriografijoje taikomas valsčiaus terminas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D. žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium
@@ -113,6 +114,7 @@ Nenurodyta
     - t-003
 
 - c-004
+  santrauka: 'Kronikos lotyniškas terminas „territorium castri“ reiškia pilies apygardą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D. territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.

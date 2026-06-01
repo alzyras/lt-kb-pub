@@ -38,7 +38,7 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
 - t-003
   teiginys: 'Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabineto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo viršenybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus (įsteigta Valstybės Taryba turėjo teisę tik.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -58,23 +58,6 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
     - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    A. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabi-
-    neto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo virše-
-    nybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus
-    (įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),
-    Seimui nesant, vykdyti jo teises. Prezidentą renka septyneriems metams
-    ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus. Konstitu-
-    cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos
-    valdymą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabineto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo viršenybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus (įsteigta Valstybės Taryba turėjo teisę tik.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -93,3 +76,4 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001

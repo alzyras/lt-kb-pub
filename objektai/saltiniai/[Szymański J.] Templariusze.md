@@ -23,13 +23,14 @@ Dusburgietis teigia, kad [Szymański J.] Templariusze —SSS, Wrocław—Warszaw
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad [Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977, t.'
+  teiginys: 'J. Szymańskio straipsnis „Templariusze“ paskelbtas 1977 m. leidinio SSS šešto tomo pirmoje dalyje, 48-49 puslapiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Szymańskio straipsnis „Templariusze“ paskelbtas 1977 m. leidinio SSS šešto tomo pirmoje dalyje, 48-49 puslapiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977,

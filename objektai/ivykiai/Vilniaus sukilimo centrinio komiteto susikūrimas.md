@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas.'
+  teiginys: '1830 m. vėlyvą rudenį Vilniuje susikūręs sukilimo centrinis komitetas turėjo organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1830 m. vėlyvą rudenį Vilniuje susikūręs sukilimo centrinis komitetas turėjo organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to,
@@ -68,9 +69,9 @@ Nenurodyta
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]
 - [[objektai/asmenys/Antanas Goreckis]]
 - [[objektai/asmenys/Edvardas Riomeris]]
 - [[objektai/asmenys/Justinas Hrebnickis]]
 - [[objektai/asmenys/Leonas Rogalskis]]
 - [[objektai/asmenys/Stanislovas Šumskis]]
-- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]

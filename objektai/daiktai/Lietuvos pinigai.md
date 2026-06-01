@@ -54,7 +54,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Kapų įkirtimai greičiausiai buvo daromi sidabro kokybei tikrinti, o jas galėjo lieti ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės.'
+  teiginys: 'Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės.'
   pagrindžia:
     - c-002
 
@@ -109,64 +109,59 @@ Nenurodyta
     - c-013
 
 - t-013
-  teiginys: 'Vytautas Jogailai davė 20.000 kapų grašių kariuomenei užsieniuose samdyti.'
+  teiginys: 'Vytauto laikais rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.'
   pagrindžia:
     - c-014
 
 - t-014
-  teiginys: 'Vytauto laikais rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.'
+  teiginys: 'Lietuviški denariukai atsirado 1387-1390 m., o jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai.'
   pagrindžia:
     - c-015
 
 - t-015
-  teiginys: 'Lietuviški denariukai atsirado 1387-1390 m., o jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai.'
+  teiginys: 'Vytauto įsakymu Kaune kalti K pinigėliai turėjo Gedimino stulpus ir raidę K, o mokesčiai turėjo būti mokami Lietuvoje kaltais sidabriniais pinigais.'
   pagrindžia:
     - c-016
 
 - t-016
-  teiginys: 'Vytauto įsakymu Kaune kalti K pinigėliai turėjo Gedimino stulpus ir raidę K, o mokesčiai turėjo būti mokami Lietuvoje kaltais sidabriniais pinigais.'
+  teiginys: 'Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.'
   pagrindžia:
     - c-017
 
 - t-017
-  teiginys: 'Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.'
+  teiginys: 'Jono Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai, o variniai šilingai buvo pirmieji lietuviški vario pinigai.'
   pagrindžia:
     - c-018
 
 - t-018
-  teiginys: 'Jono Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai, o variniai šilingai buvo pirmieji lietuviški vario pinigai.'
+  teiginys: 'Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai nėjo, nes palaikė Ordiną.'
   pagrindžia:
     - c-019
 
 - t-019
-  teiginys: 'Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai nėjo, nes palaikė Ordiną.'
-  pagrindžia:
-    - c-020
-
-- t-020
   teiginys: 'Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksinais.'
-  pagrindžia:
-    - c-023
-
-- t-021
-  teiginys: 'Viename Jogailos ir Vytauto dokumen­ te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­ dabriniais pinigais; matyt, grašiais arba denariukais.'
-  pagrindžia:
-    - c-025
-
-- t-022
-  teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
   pagrindžia:
     - c-022
 
-- t-023
-  teiginys: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
+- t-020
+  teiginys: 'Jogailos ir Vytauto dokumente nurodyta mokesčius mokėti Lietuvoje kaltais sidabriniais pinigais, tikriausiai grašiais arba denariukais.'
+  pagrindžia:
+    - c-024
+
+- t-021
+  teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
   pagrindžia:
     - c-021
 
-- t-024
-  teiginys: 'Šis pareikalavo, kad totoriai pripažintų jį savo tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­ se.'
+- t-022
+  teiginys: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
   pagrindžia:
-    - c-024
+    - c-020
+
+- t-023
+  teiginys: 'Vytautas pareikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir kaldintų jo atvaizdą savo piniguose.'
+  pagrindžia:
+    - c-023
 
 ## Reikšmingi paminėjimai
 
@@ -188,6 +183,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Apie jas nėra jokių ra-
@@ -377,20 +373,6 @@ Nenurodyta
 - c-014
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kunigaikštis Kaributas buvo jau seniau
-    išsiųstas su kariuomenės būriu pas Jogailą. Vytautas dar davė
-    Jogailai 20.000 kapų grašių kariuomenei užsieniuose samdyti.
-    Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai
-    nėjo, nes palaikė Ordiną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-015
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
     Pinigai, kuriais buvo mokami mokesčiai Vytauto valdymo
     laikais, taip pat buvo įvairūs. Jogailos ir Vytauto rūmuose bu­
     vo kartais mokama rubliais, patekusiais iš slavų kraštų; bet tai
@@ -403,9 +385,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
-- c-016
+- c-015
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390
@@ -422,9 +404,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
-- c-017
+- c-016
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kiti Vytauto pinigai, kurie
@@ -438,9 +420,9 @@ Nenurodyta
   teiginio_tipas: interpretacija
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
-- c-018
+- c-017
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo tikslu
@@ -452,9 +434,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-016
 
-- c-019
+- c-018
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     K pinigėliai buvo
@@ -469,9 +451,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
-- c-020
+- c-019
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kunigaikštis Kaributas buvo jau seniau
@@ -483,9 +465,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-018
 
-- c-021
+- c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1922 m. spalio 1 d. Lietuvoje
@@ -498,9 +480,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-022
 
-- c-022
+- c-021
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
@@ -513,9 +495,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-021
 
-- c-023
+- c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
@@ -529,9 +511,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-019
 
-- c-024
+- c-023
+  santrauka: 'Vytautas pareikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir kaldintų jo atvaizdą savo piniguose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kad išloštų laiką, Edyga pradėjo su Vy­
@@ -543,9 +526,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-023
 
-- c-025
+- c-024
+  santrauka: 'Jogailos ir Vytauto dokumente nurodyta mokesčius mokėti Lietuvoje kaltais sidabriniais pinigais, tikriausiai grašiais arba denariukais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Viename Jogailos ir Vytauto dokumen­
@@ -560,7 +544,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-020
 
 ## Ryšiai
 ### Susiję objektai
@@ -584,6 +568,7 @@ Nenurodyta
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/litas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/rublis]]
@@ -591,7 +576,6 @@ Nenurodyta
 - [[objektai/grupes/Čekai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
 - [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]

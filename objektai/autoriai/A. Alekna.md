@@ -35,41 +35,42 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 - t-001
   teiginys: 'Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Aleknos «Katalikų Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai ir objektyviai vertinti.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-003
   teiginys: 'A. Alekna išleido « Žemaičiu vysk.'
   pagrindžia:
-    - c-002
+    - c-005
 
 - t-004
   teiginys: 'A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
-  teiginys: 'Alekna buvo pirmasis (1922-1930) Lie­ tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­ tojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­ rijos katedros vedėjas.'
+  teiginys: 'Antanas Alekna 1922–1930 m. buvo pirmasis Lietuvos istorijos, jos šaltinių ir istorinės geografijos dėstytojas Teologijos-Filosofijos fakultete.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-006
   teiginys: 'Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-007
-  teiginys: 'AlBL = Alekna, A.'
+  teiginys: 'A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gause, Karaliaučius - Marburgas 1936-
@@ -83,22 +84,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
     - t-007
 
 - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jau 1911 m. jis išleido «Lietuvos istoriją»,
-    jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
-    daugiau šaltinių ir mokslinių tyrinėjimų. A. Aleknos «Katalikų
-    Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai
-    ir objektyviai vertinti. Plačiai pasiremdamas Kauno vyskupijos
-    kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
-    čius » (1923) 81a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kartu taip pat norėtume padėti mūsų platesnei vi­
@@ -115,7 +100,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Alekna, A., Lietuvos istorija. Antras leidimas. Tilžė, 1923.
@@ -125,7 +110,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytauto Didžiojo 500 jubiliejaus metu proga „Sakalo“ B-vė išleido apie
@@ -138,7 +123,8 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   pagrindžia:
     - t-006
 
-- c-006
+- c-005
+  santrauka: 'Antanas Alekna 1922–1930 m. buvo pirmasis Lietuvos istorijos, jos šaltinių ir istorinės geografijos dėstytojas Teologijos-Filosofijos fakultete.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kanauninkas Ant. Alekna buvo pirmasis (1922-1930) Lie­
@@ -156,21 +142,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-007
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jau 1911 m. jis išleido «Lietuvos istoriją»,
-    jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
-    daugiau šaltinių ir mokslinių tyrinėjimų. A. Aleknos «Katalikų
-    Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai
-    ir objektyviai vertinti. Plačiai pasiremdamas Kauno vyskupijos
-    kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
-    čius » (1923) 81a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
+    - t-003
     - t-002
 
 ## Ryšiai

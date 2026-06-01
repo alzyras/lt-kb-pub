@@ -115,4 +115,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/žiogriai statinių tvoros palisadai]]
 - [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/grupes/Krimo orda]]
+- [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/ivykiai/Vladislovo žygis į Maskvą (1617 m.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -26,18 +26,14 @@ Dusburgietis teigia, kad toppen M. Dusburgietis teigia, kad toeppen M. Historisc
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad toppen M.'
+  teiginys: 'M. Toppenas 1853 m. Berlyne išleido veikalą apie Prūsijos istoriografiją nuo Petro Dusburgiečio iki K. Schützo.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Toppenas 1853 m. Berlyne išleido veikalą apie Prūsijos istoriografiją nuo Petro Dusburgiečio iki K. Schützo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
@@ -47,13 +43,3 @@ Dusburgietis teigia, kad toppen M. Dusburgietis teigia, kad toeppen M. Historisc
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002

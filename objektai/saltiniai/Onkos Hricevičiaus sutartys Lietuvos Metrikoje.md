@@ -25,13 +25,14 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­ tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52.'
+  teiginys: 'Daug sutarčių su Onka Hricevičiumi buvo Lietuvos Metrikos V knygoje prie 1505 metų įrašų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Daug sutarčių su Onka Hricevičiumi buvo Lietuvos Metrikos V knygoje prie 1505 metų įrašų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus mo­

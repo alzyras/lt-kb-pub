@@ -28,12 +28,12 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, L I E T U V O S I S T O R I J A 138 greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, padedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją.'
+  teiginys: 'Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitai kūrė Lietuvos karines pajėgas.'
   pagrindžia:
     - c-007
 
 - t-002
-  teiginys: 'Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautininkui A.'
+  teiginys: 'Prezidentas Kazys Grinius, spaudžiamas perversmininkų, atstatydino Mykolo Sleževičiaus vyriausybę.'
   pagrindžia:
     - c-005
 
@@ -43,12 +43,12 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     - c-006
 
 - t-004
-  teiginys: 'Sleževičiaus vaidmuo L I E T U V O S I S T O R I J A 144 nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą, konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pakvietė priešintis įsiveržėliams ir tautines mažumas, dėl.'
+  teiginys: 'Mykolas Sleževičius nepriklausomybės kovose konsolidavo centrinę administraciją ir kvietė tautines mažumas priešintis įsiveržėliams.'
   pagrindžia:
     - c-003
 
 - t-005
-  teiginys: 'Sleževičiumi priešakyje.'
+  teiginys: 'Mykolas Sleževičius vadovavo vyriausybei, kurioje dominavo valstiečiai liaudininkai.'
   pagrindžia:
     - c-001
 
@@ -63,13 +63,14 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     - c-004
 
 - t-008
-  teiginys: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
+  teiginys: 'Mykolas Sleževičius laikėsi šūkio „Kova eina, ji eis iki Seimas bus sušauktas“.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mykolas Sleževičius vadovavo vyriausybei, kurioje dominavo valstiečiai liaudininkai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prezidentu išrinktas valstiečių liaudininkų
@@ -83,6 +84,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     - t-005
 
 - c-002
+  santrauka: 'Mykolas Sleževičius laikėsi šūkio „Kova eina, ji eis iki Seimas bus sušauktas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     sąjungą (LTS), kuriai A. Smetona neleido persitvarkyti į partiją, o tik
@@ -99,6 +101,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     - t-008
 
 - c-003
+  santrauka: 'Mykolas Sleževičius nepriklausomybės kovose konsolidavo centrinę administraciją ir kvietė tautines mažumas priešintis įsiveržėliams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
@@ -144,6 +147,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     - t-007
 
 - c-005
+  santrauka: 'Prezidentas Kazys Grinius, spaudžiamas perversmininkų, atstatydino Mykolo Sleževičiaus vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     diktatoriumi, tačiau netrukus pasiūlė šį savo postą pirmajam Lietuvos
@@ -178,6 +182,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     - t-003
 
 - c-007
+  santrauka: 'Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitai kūrė Lietuvos karines pajėgas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokietija pateikė
@@ -218,12 +223,12 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
 - [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/grupes/Ministerių kabinetas]]

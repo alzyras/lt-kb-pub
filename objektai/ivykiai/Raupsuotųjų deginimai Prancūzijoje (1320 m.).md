@@ -42,7 +42,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie raupsuotųjų deginimų Prancūzijoje 1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -62,28 +61,4 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji. Mat sklido kalbos,
-    kad jie nuodija vandenis, o nuo to žūva daug žmonių ir gyvulių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie raupsuotųjų deginimų Prancūzijoje 1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    120. Apie raupsuotųjų deginimų Prancūzijoje
-
-      1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji. Mat sklido kalbos,
-    kad jie nuodija vandenis, o nuo to žūva daug žmonių ir gyvulių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002

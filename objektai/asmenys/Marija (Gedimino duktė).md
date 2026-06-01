@@ -27,7 +27,7 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 ## Teiginiai
 
 - t-001
-  teiginys: 'Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, Marija - už Boleslovo - Ru­ sios kunigaikščio; o ketvirtoji, bevaikė, - už Rusios didžiojo kuni­ gaikščio Dmitrijaus Michailovičiaus, 1326 metų spalio 15 dieną totorių chano Uzbeko.'
+  teiginys: 'Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, užsitikrinęs sau-
@@ -81,5 +82,6 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Marija]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Uzbeko]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]

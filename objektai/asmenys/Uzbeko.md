@@ -55,4 +55,5 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/ekspansija]]
+- [[objektai/asmenys/Marija (Gedimino duktė)]]
 - [[objektai/asmenys/Teodoras (Gedimino brolis)]]

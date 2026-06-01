@@ -29,28 +29,29 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šach Achmedas baigė sa­ vo dienas kalėjime toje pačioje Lietuvoje.'
+  teiginys: 'Šach Achmedas baigė gyvenimą kalėjime Lietuvoje.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Su­ gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­ darė nemažai rūpesčių karaliui ir seimui.'
+  teiginys: 'Sugautas ir Vilniuje įkalintas Šach Achmedas kėlė rūpesčių karaliui ir seimui.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Aplink miestą su savo palyda palapinėse klajojo Šach Achmedas, o Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­ kuriavo karaliaus45.'
+  teiginys: 'Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir.'
+  teiginys: 'Šach Achmedas, Perekopo ordos chanas ir Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šach Achmedas, Perekopo ordos chanas ir Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Krymo totorių
@@ -74,6 +75,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - t-004
 
 - c-002
+  santrauka: 'Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po tokių sostinės apsaugos priemonių karalius, į Vilnių
@@ -91,6 +93,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - t-003
 
 - c-003
+  santrauka: 'Sugautas ir Vilniuje įkalintas Šach Achmedas kėlė rūpesčių karaliui ir seimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Su­
@@ -107,6 +110,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - t-002
 
 - c-004
+  santrauka: 'Šach Achmedas baigė gyvenimą kalėjime Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šach Ach­
@@ -159,6 +163,9 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/grupes/Perekopo orda]]
+- [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Mendli Girėjus]]
-- [[objektai/grupes/Perekopo orda]]

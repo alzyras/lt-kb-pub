@@ -26,7 +26,7 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
 - t-002
   teiginys: 'Dusburgietis teigia, kad tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.'
@@ -61,27 +61,9 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau
-    priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
-    matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
-    davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
-
-
-
-
-    18.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]
 - [[objektai/paprociai/Pasidavimas tikėjimui ir broliams davus įkaitį]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]

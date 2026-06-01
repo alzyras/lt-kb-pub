@@ -27,14 +27,14 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bona Sforca įsakė, pri­ tariant karalienei Bonai, paskelbti naujus miesto įstatymus.'
+  teiginys: 'Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.'
   pagrindžia:
     - c-002
 
 - t-002
   teiginys: '1536 m. rugsėjo 9 d. nauji Vilniaus miesto įstatymai buvo paskelbti pritariant karalienei Bonai Sforcai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, o Žygimantą Augustą išugdė Renesanso dvasia.'
@@ -58,6 +58,7 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
     - t-003
 
 - c-002
+  santrauka: 'Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netvarka ir apsileidimas, įsitvirtinę miesto administra­
@@ -72,21 +73,6 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Netvarka ir apsileidimas, įsitvirtinę miesto administra­
-    cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat
-    kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų
-    privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką. 1536
-    metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
-    tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
-    Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

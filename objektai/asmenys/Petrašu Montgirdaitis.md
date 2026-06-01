@@ -28,13 +28,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų.'
+  teiginys: 'Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
@@ -95,3 +96,4 @@ periodo_grupes:
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/žygis]]

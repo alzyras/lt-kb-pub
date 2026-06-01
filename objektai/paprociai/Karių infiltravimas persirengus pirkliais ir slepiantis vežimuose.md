@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Trejetą šimtų narsių ir ištikimų jam riterių iš Žemaitijos išsiuntė pirm, kad persirengę, tarsi nauji at­ vykėliai pirkliai, prasigavę į miestą issiskirstytų po įvairias smukles; po t° keletą šimtų vežimų, kailių ir šieno prikrautų, su šešiais šimtais gin­.'
+  teiginys: 'Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis, 1.465, o juo sekda­
@@ -76,7 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Trejetą šimtų narsių ir ištikimų jam riterių iš Žemaitijos išsiuntė pirm, kad persirengę, tarsi nauji at­ vykėliai pirkliai, prasigavę į miestą issiskirstytų po įvairias smukles; po t° keletą šimtų vežimų, kailių ir šieno prikrautų, su šešiais šimtais gin­.'
+  santrauka: 'Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trejetą šimtų narsių ir ištikimų

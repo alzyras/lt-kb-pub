@@ -39,7 +39,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Gyventojų išlaidų normuojamojo įstatymo priėmimas (1776 m.): tad, norėdamas sumažinti im- portą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą (lex sumptuaria).'
+  teiginys: '1776 m. seimas priėmė gyventojų išlaidų normuojamąjį įstatymą, siekdamas mažinti importą ir remti vietinę pramonę.'
   pagrindžia:
     - c-002
 
@@ -64,6 +64,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1776 m. seimas priėmė gyventojų išlaidų normuojamąjį įstatymą, siekdamas mažinti importą ir remti vietinę pramonę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi visas aukštesnysis sluoksnis buvo užsikrėtęs vakarų

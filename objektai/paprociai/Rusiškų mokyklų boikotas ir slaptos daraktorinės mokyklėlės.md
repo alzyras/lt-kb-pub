@@ -50,12 +50,12 @@ Nenurodyta
 - t-001
   teiginys: 'Daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'XIX a. pabaigoje Kauno gubernijoje pradžios mokyklas lankė 21 proc. berniukų ir 4 proc. mergaičių.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija.'
@@ -63,9 +63,9 @@ Nenurodyta
     - c-001
 
 - t-004
-  teiginys: '3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 117 Etninės Lietuvos teritorija visoje europinėje Rusijos imperijos dalyje išsiskyrė bene mažiausiu mokyklinio amžiaus vaikų, lankančių oficialias pradžios mokyklas.'
+  teiginys: 'XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-005
   teiginys: 'Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis išliko ir susiformavo tokio mokymo tradicija.'
@@ -80,7 +80,7 @@ Nenurodyta
 - t-007
   teiginys: 'Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti.'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -100,33 +100,7 @@ Nenurodyta
     - t-005
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Etninės Lietuvos teritorija vi-
-    soje europinėje Rusijos imperijos
-    dalyje išsiskyrė bene mažiausiu
-    mokyklinio amžiaus vaikų, lan-
-    kančių oficialias pradžios mo-
-    kyklas, procentu – europinėje
-    Rusijos imperijos dalyje XIX a.
-    pabaigoje pradžios mokyklas lan-
-    kė vidutiniškai 66 proc. berniukų
-    ir 18 proc. mergaičių, o Kauno
-    gubernijoje tie skaičiai buvo ati-
-    tinkamai 21 proc. ir 4 proc. Ta-
-    čiau pirmasis visuotinis Rusijos
-    imperijos gyventojų surašymas
-    1897 m. parodė, kad tarp etninių
-    lietuvių mokančių skaityti yra be-
-    maž pusė – 48 proc., o rusiškai iš
-    jų tepaskaitė tik kas penktas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-003
+  santrauka: 'XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
@@ -154,23 +128,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-006
 
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po 1863–
-    1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų
-    rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias
-    mokyklas neleisti. O kad neliktų beraščiai, patiems kaimuose organizuoti
-    slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis.
-    Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-005
+- c-003
   santrauka: 'Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -187,6 +147,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

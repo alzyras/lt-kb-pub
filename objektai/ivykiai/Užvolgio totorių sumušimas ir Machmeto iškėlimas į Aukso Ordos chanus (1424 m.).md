@@ -45,32 +45,14 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Vytauto pa­ siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie, vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­ jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.'
+  teiginys: '1424 m. Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1424 m. Vytauto pa­
-    siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie,
-    vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­
-    jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu
-    tapo Vytauto palaikomas Machmetas. Jis savo sūnų pasiuntė
-    auklėtis į Vytauto Didžiojo dvarą, o pačiam didžiajam kuni­
-    gaikščiui davė paramos jo žygiams į Pskovą bei Naugardą, ir
-    per savo pasiuntinius teikė jam dovanų Smolenske ir Lucko su­
-    važiavime1 2).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vytauto pa­ siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie, vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­ jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.'
+  santrauka: '1424 m. Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytauto pa­
@@ -88,6 +70,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -95,5 +78,3 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Machmetas]]
-- [[objektai/asmenys/Chudandachas]]
-- [[objektai/grupes/Užvolgio totoriai]]

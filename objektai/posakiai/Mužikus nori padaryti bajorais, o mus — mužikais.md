@@ -19,7 +19,7 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '„Mužikus nori padaryti bajorais, o mus — mužikais", — šaukė bajorija.'
+  teiginys: 'Bajorija šūkiu „Mužikus nori padaryti bajorais, o mus — mužikais“ protestavo prieš valstiečiams numatytus palengvinimus.'
   pagrindžia:
     - c-001
 
@@ -31,6 +31,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bajorija šūkiu „Mužikus nori padaryti bajorais, o mus — mužikais“ protestavo prieš valstiečiams numatytus palengvinimus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jame buvo nuostatų, palengvinančių valstiečių būklę

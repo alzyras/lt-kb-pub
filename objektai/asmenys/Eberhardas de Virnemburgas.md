@@ -26,13 +26,14 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip brolis Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­ provise intravit territorium Lettoviae, dictum Pograuden [neti­ kėtai įsiveržė į Lietuvos.'
+  teiginys: '1304 m. Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudene.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1304 m. Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudene.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau atkreipus dėmesį į tai, ką Dus-

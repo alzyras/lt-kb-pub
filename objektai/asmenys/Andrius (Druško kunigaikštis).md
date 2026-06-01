@@ -28,13 +28,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '3-oji privilegija rašyta Trakuose, datuota 1411 m., kuria di­ dysis kunigaikštis Vytautas, atsi­ liepdamas į vyskupo Mikalojaus ir Vilniaus kapitulos pareiškimus mainais už dvasininkijos Vechatnicos kaimą Volkovisko paviete, esantį kapitulai netinkamoje.'
+  teiginys: 'Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aktuota ir

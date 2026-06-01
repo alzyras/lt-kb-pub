@@ -28,18 +28,19 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vienas tik Sudimantas, lietuvių vadas, sučiuptas per puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­ das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė nuteisdami jį pakarti kaip išdaviką.'
+  teiginys: 'Per puolimą sučiuptas lietuvių vadas Sudimantas prūsų buvo nuteistas pakarti kaip išdavikas.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
+  teiginys: 'Sudimantas vadovavo pilies sargybai ir sutrukdė Vytauto šalininkams užimti Vilnių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sudimantas vadovavo pilies sargybai ir sutrukdė Vytauto šalininkams užimti Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pastarieji, gurguolei atvykus iki Žemu­
@@ -63,6 +64,7 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
     - t-002
 
 - c-002
+  santrauka: 'Per puolimą sučiuptas lietuvių vadas Sudimantas prūsų buvo nuteistas pakarti kaip išdavikas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau veltui Švit­

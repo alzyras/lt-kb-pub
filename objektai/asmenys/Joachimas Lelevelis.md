@@ -28,7 +28,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lelevelis, priverstinai atsistatydino iš globėjo posto A.'
+  teiginys: 'Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Caro administracija ėmėsi tyrimo,

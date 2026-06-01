@@ -33,12 +33,12 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šležas, P.'
+  teiginys: 'P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė straipsnį „Lietuvos krikštas“.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Šležas, 1930), Jogailą (1935) ir stambią Lietuvos istoriją (red. A.'
+  teiginys: 'P. Šležas 1930 m. redagavo kolektyvinę monografiją apie Vytautą Didįjį.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     - t-003
 
 - c-002
+  santrauka: 'P. Šležas 1930 m. redagavo kolektyvinę monografiją apie Vytautą Didįjį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos
@@ -83,6 +84,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     - t-002
 
 - c-003
+  santrauka: 'P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė straipsnį „Lietuvos krikštas“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1923. — Sužiedėlis, S. :
@@ -101,3 +103,4 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 ### Susiję objektai
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/christianizacija]]
+- [[objektai/zodynas/monografija]]

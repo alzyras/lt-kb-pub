@@ -32,13 +32,14 @@ amziai:
     - c-002
 
 - t-002
-  teiginys: '1424 metais buvo dar padaryta prekybos sutar­ tis Niešavo miestelyje.'
+  teiginys: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tiktai po Melno taikos, prasidėjus geriems Vytauto

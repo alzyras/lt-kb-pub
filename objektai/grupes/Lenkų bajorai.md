@@ -33,15 +33,15 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
 - t-002
   teiginys: 'Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais dokumentais: atskirais dokumentais jį patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-003
-  teiginys: 'Iš savo pusės Lenkų ba- jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be lietuvių ir be Vytauto žinios.'
+  teiginys: 'Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų bajorai.'
+  teiginys: '1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
   pagrindžia:
     - c-003
 
@@ -83,6 +83,7 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
     - t-001
 
 - c-003
+  santrauka: '1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas tam nesiprie-
@@ -99,8 +100,10 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-004
+  santrauka: 'Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl šis susitarimas yra vadinamas Vilniaus
@@ -115,24 +118,6 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytautas tam nesiprie-
-    šino; jis ir dabar prisipažino gavęs Lietuvą iš Jogailos, bet tuo
-    tarpu neketino jos grąžinti. Po ilgų derybų, 1401 m. buvo pa-
-    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
-    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
-    gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
-    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
-    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
-    rašė Radome.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

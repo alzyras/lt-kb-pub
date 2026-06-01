@@ -29,7 +29,7 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
     - c-001
 
 - t-002
-  teiginys: 'Isaakas ben Abrahamas iš Trakų šaltinyje pristatomas kaip tolerancijos tyrėjų dažnai minimas asmuo.'
+  teiginys: 'Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.'
   pagrindžia:
     - c-001
 
@@ -59,5 +59,3 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
-- [[objektai/grupes/Sentikiai]]

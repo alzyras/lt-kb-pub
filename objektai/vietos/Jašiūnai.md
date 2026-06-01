@@ -40,7 +40,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     - c-002
 
 - t-004
-  teiginys: 'Seniau Rūdninkų girios išties buvo ne­ peržengiamos ir žmonių neištirtos, nes žemvaldžių miškuo­ se, nuo Rūdninkų link Ašmenos ir Lydos besidriekiančiuo­ se, kaip ir pas mane, Jašiūnuose, kur ne kur stūkso pilkapiai - nenuginčijami žmonių gyvenimo nuo.'
+  teiginys: 'Jašiūnų miškuose kur ne kur stūksojo pilkapiai, laikomi seniausių žmonių gyvenimo pėdsakais.'
   pagrindžia:
     - c-004
 
@@ -87,6 +87,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     - t-002
 
 - c-004
+  santrauka: 'Jašiūnų miškuose kur ne kur stūksojo pilkapiai, laikomi seniausių žmonių gyvenimo pėdsakais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pati vietovė, su­

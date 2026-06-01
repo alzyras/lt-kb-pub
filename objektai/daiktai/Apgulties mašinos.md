@@ -45,7 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '“ Rytojaus dieną atvyko karalius Skirgaila su didele kariuomene ir [su] dviem mašinomis ir tankiai svaido [akmenis] į pilį.'
+  teiginys: '1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.'
   pagrindžia:
     - c-002
 
@@ -76,6 +76,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O 1272 m. jis iš žiemgalių atsiėmė porą per sukilimą kri­
@@ -96,4 +97,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/grupes/Žiemgaliai]]
-- [[objektai/asmenys/Skirgaila]]

@@ -41,24 +41,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie potvynį 1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią nuo tvano.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią
-    nuo tvano. Paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi
-    patyrė baisybę nuostolių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie potvynį
@@ -75,20 +62,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie potvynį 1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią nuo tvano.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    97. Apie potvynį
-
-      1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią
-    nuo tvano. Paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi
-    patyrė baisybę nuostolių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

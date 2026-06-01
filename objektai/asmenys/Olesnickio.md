@@ -46,4 +46,5 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/ivykiai/Astravos sutartis]]
 - [[objektai/paprociai/Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas]]
+- [[objektai/ivykiai/Vytauto karūnacijos sumanymo žlugimas po Olesnickio atsakymo]]
 - [[objektai/asmenys/Zbignievo Olesnickio]]

@@ -105,7 +105,6 @@ tags:
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Petras Skopas]]
 - [[objektai/asmenys/Stanislovas Skopas]]
 - [[objektai/asmenys/Stanislovas Vaitkavičius]]
 - [[objektai/zodynas/Rygos miesto teisė]]

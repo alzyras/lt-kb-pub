@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Čia žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­ lavijuočių riterių ordino magistras.'
+  teiginys: 'Kalavijuočių riterių ordino magistras Frankas Kirskorffas žuvo mūšyje, kuriame žuvo daug livoniečių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kalavijuočių riterių ordino magistras Frankas Kirskorffas žuvo mūšyje, kuriame žuvo daug livoniečių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mūšis buvo įnirtingas ir žiaurus, kol pagaliau pralaužtos
@@ -46,4 +47,6 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Livonijos ordinas]]

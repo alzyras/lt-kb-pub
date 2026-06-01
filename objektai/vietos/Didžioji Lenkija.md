@@ -38,7 +38,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     - c-002
 
 - t-003
-  teiginys: 'Galingą są­ jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos vaivada.'
+  teiginys: '1431 m. Didžiojoje Lenkijoje kilo karas su Kryžiuočių ordinu.'
   pagrindžia:
     - c-001
 
@@ -50,6 +50,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1431 m. Didžiojoje Lenkijoje kilo karas su Kryžiuočių ordinu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Galingą są­

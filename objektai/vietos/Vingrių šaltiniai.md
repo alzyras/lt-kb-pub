@@ -29,18 +29,19 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo kalvų 38 V o i g t, V, 415 į savo istoriją yra įdėjęs labai svarbų Jogailos laišką di­ džiajam magistrui, kur teisingai ir pabrėžtinai prikaišioja kryžiuočiams nedorus Ordino poelgius.'
+  teiginys: 'Prie miesto, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Aleksandro Jogailaičio nerūpestingumas ir išlaidumas vė­ liau, valdant Žygimantui, sukėlė diskusiją apie Vilniaus sau­ gumui ir patogumui svarbų objektą, kurio vardas - Vingrių šaltiniai.'
+  teiginys: 'Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aleksandro Jogailaičio nerūpestingumas ir išlaidumas vė­
@@ -55,6 +56,7 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
     - t-002
 
 - c-002
+  santrauka: 'Prie miesto, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didysis magistras į Vilnių išsiuntė

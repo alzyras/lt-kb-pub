@@ -43,13 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kurioje ilgai buvo lai­ komos pamaldos, ir pats kurį laiką gyveno, todėl jam duotas Kardinali­ jos vardas.'
+  teiginys: 'Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Marijos Magdalenos baž­

@@ -18,7 +18,7 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 251 Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir D.'
+  teiginys: 'Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir Parteinių bei Skrando kalno prūsų įtvirtinimų.'
   pagrindžia:
     - c-001
 
@@ -30,6 +30,7 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir Parteinių bei Skrando kalno prūsų įtvirtinimų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     251 Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir D. III, 23 minimų

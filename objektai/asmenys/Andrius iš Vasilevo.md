@@ -27,13 +27,14 @@ Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­ no, lenkas, Aro 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­ no, lenkas, Aro ženklo herbo, pirmasis Vilniaus vyskupas, iškeltas į tas pareigas 1387 m., mirė 1399 m.'
+  teiginys: 'Andrius iš Vasilevo buvo pirmasis Vilniaus vyskupas, į pareigas iškeltas 1387 m. ir miręs 1399 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Andrius iš Vasilevo buvo pirmasis Vilniaus vyskupas, į pareigas iškeltas 1387 m. ir miręs 1399 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kitas žinomas platus istorinis veikalas, taip

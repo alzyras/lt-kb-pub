@@ -22,7 +22,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     - c-001
 
 - t-002
-  teiginys: 'Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vadinamoji „aukso laisvė": kas tik buvo galingas, galėjo nieko neklausyti ir elgtis kaip tinkamas.'
+  teiginys: 'Zigmanto laikais Lenkijoje ir Lietuvoje įsigalėjo vadinamoji „aukso laisvė“, leidusi galingiesiems nieko neklausyti ir elgtis kaip tinkama.'
   pagrindžia:
     - c-002
 
@@ -45,7 +45,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     - t-001
 
 - c-002
-  santrauka: 'Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vadinamoji „aukso laisvė": kas tik buvo galingas, galėjo nieko neklausyti ir elgtis kaip tinkamas.'
+  santrauka: 'Zigmanto laikais Lenkijoje ir Lietuvoje įsigalėjo vadinamoji „aukso laisvė“, leidusi galingiesiems nieko neklausyti ir elgtis kaip tinkama.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip tik Zigmanto laikais tiek Lenkijoje, tiek Lietuvoje įsi-
@@ -64,6 +64,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/posakiai/aukso laisvė tikroji laisvė]]

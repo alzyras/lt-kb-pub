@@ -30,40 +30,26 @@ periodo_grupes:
 - t-001
   teiginys: 'Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Brunonas Bonifacijus apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-003
   teiginys: 'Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Čia apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio brolio rankos.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai
-    vystėsi iš visų baltų genčių, todėl 1009 m. Vakarų misionierius, būsima-
-    sis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Čia
-    apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
-    brolio rankos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiausia tiki-
@@ -79,7 +65,7 @@ periodo_grupes:
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paminėkime tokią grandinę: Lenkijos valdovo
@@ -95,7 +81,7 @@ periodo_grupes:
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   santrauka: 'Čia apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio brolio rankos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -110,6 +96,7 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

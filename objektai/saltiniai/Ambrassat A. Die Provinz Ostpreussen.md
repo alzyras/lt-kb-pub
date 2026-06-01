@@ -38,34 +38,17 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
 - t-001
   teiginys: 'Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen..., p. 473; Ambrassat A., Die Provinz..., p. 421).'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p. 389).'
+  teiginys: 'A. Ambrassato veikalas „Die Provinz Ostpreussen“ išleistas Karaliaučiuje 1912 m.'
   pagrindžia:
     - c-001
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad ambrassat A.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    594 D.— Lunenburgk, Jer.— Lûnenburc (plg. lie. liūnas, Liūnai — GAO, p. 92); vėliau
-    vok. Leunenburg, dab. Sontočnas (Sątoczno)   į pietryčius nuo Sempopolio.  Išlikęs
-    piliakalnis (CV, t. 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p.
-    389).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'A. Ambrassato veikalas „Die Provinz Ostpreussen“ išleistas Karaliaučiuje 1912 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ambrassat A. Die Prowinz Ostpreussen —Königsberg i. Pr., 1912.
@@ -73,9 +56,9 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,

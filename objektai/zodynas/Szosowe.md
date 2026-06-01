@@ -19,18 +19,19 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­ ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­ čius.'
+  teiginys: 'Batoras reikalavo, kad Vilniaus miestiečiai mokėtų Czopowe ir Szosowe mokesčius.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Vestra in Urbė Vilnensi, ex officio suo civibus et mercatoribus Vilnensibus haec thelonea, nec non et exactiones Czopowe et Szosowe nuncu­ patas, perinde quemadmodum anno praesenti ex omnibus Oppi­ dis nostris solvebant, pendere et solvere irrecusabiliter.'
+  teiginys: 'Szosowe buvo viena iš rinkliavų, kurias Vilniaus piliečiai ir pirkliai turėjo mokėti kartu su nustatytais muitais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Szosowe buvo viena iš rinkliavų, kurias Vilniaus piliečiai ir pirkliai turėjo mokėti kartu su nustatytais muitais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     329
@@ -53,6 +54,7 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
     - t-002
 
 - c-002
+  santrauka: 'Batoras reikalavo, kad Vilniaus miestiečiai mokėtų Czopowe ir Szosowe mokesčius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dėl Vilniaus Batoras pareikalavo
@@ -79,8 +81,8 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
-- [[objektai/grupes/Radvilų giminė]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/muitas thelonea]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]

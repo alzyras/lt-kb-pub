@@ -19,10 +19,10 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 - t-001
   teiginys: 'Rusai tuo tarpu atgabeno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebeįmanoma buvo kariauti.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
-  teiginys: 'Dembinskio rinktinė: tačiau jis neketino pasiduoti. Padaręs tikrai didelį žygį, nugalėjęs daugybę kliūčių, jis laimingai pra- simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo- pelnus paskirtas Varšuvos gubernatorium.'
+  teiginys: 'Dembinskis su savo rinktine prasimušė iki Varšuvos, kur buvo iškilmingai sutiktas ir paskirtas Varšuvos gubernatoriumi.'
   pagrindžia:
     - c-001
 
@@ -34,6 +34,7 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dembinskis su savo rinktine prasimušė iki Varšuvos, kur buvo iškilmingai sutiktas ir paskirtas Varšuvos gubernatoriumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rusai tuo tarpu atga-
@@ -47,6 +48,7 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -62,21 +64,6 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Rusai tuo tarpu atga-
-    beno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebe-
-    įmanoma buvo kariauti. Tačiau jis neketino pasiduoti. Padaręs
-    tikrai didelį žygį, nugalėjęs daugybę kliūčių, jis laimingai pra-
-    simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo-
-    pelnus paskirtas Varšuvos gubernatorium.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

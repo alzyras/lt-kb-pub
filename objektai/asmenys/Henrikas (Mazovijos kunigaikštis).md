@@ -20,13 +20,14 @@ Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henrik�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henriką, su slaptu Vladislovo Jogailos pavedimu atvykusį pas Vytautą, kad, nepaisydamas padėties, kurią jau turėjo būdamas nomi­ nuotas į Plocko vyskupus, nė kiek nedvejojo imdamas į žmo­ nas.'
+  teiginys: 'Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     133

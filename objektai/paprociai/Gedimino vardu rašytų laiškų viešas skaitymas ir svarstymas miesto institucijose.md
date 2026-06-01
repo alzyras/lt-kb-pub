@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 metų liepos 18 dieną Liubeko miesto rotušėje, dalyvaujant imperatoriaus kancleriui Janui fon Bremenui, daugeliui Liu­ beko katedros kanauninkų, dominikonų ordino vienuoliams ir.'
+  teiginys: '1323 m. liepos 18 d. Liubeko rotušėje Gedimino vardu rašyti laiškai buvo perskaityti ir aptarti miesto tarybos aplinkoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1323 m. liepos 18 d. Liubeko rotušėje Gedimino vardu rašyti laiškai buvo perskaityti ir aptarti miesto tarybos aplinkoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rygos miesto tarė­
@@ -84,7 +85,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas fon Calmaras]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/asmenys/Gotfridas fon Ustas]]

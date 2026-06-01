@@ -58,9 +58,9 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: 'Nepaisant įnirtingos gynybos, kelias dienas užsi­ tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­ versta pasiduoti.'
+  teiginys: '1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-004
   teiginys: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
@@ -145,17 +145,7 @@ Nenurodyta
     - t-004
 
 - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O 1384 m. rudenį abu
-    pusbroliai su bombardomis apgulė Kauno Marienwerderi. Viskuo
-    gerai aprūpinta pilis atlaikė keliolikos savaičių apgniimą ir tik
-    1384.XI.6 d. tekrito.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-006
+  santrauka: '1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kiti, 1383 metai, atnešė Vilniui dar
@@ -172,7 +162,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-007
+- c-006
   santrauka: 'Primityvus apgulos bombardų lafetas — nejudamai prie žemės pritvirtinta masyvi medinė dėžė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -207,5 +197,7 @@ Nenurodyta
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/autoriai/Olivos metraščiai]]
 - [[objektai/ivykiai/Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)]]
 - [[objektai/grupes/Vytauto šalininkai]]

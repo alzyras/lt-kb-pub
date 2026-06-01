@@ -20,13 +20,14 @@ Dalyvavusio sprendime raštininko Stanislo­ vo Veeno ranka.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dalyvavusio sprendime raštininko Stanislo­ vo Veeno ranka.'
+  teiginys: 'Stanislovas Veenas buvo raštininkas, dalyvavęs 1501 m. Baltramiejaus šventės metu priimtame sprendime.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stanislovas Veenas buvo raštininkas, dalyvavęs 1501 m. Baltramiejaus šventės metu priimtame sprendime.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Baltramiejaus šventės, tūkstan­

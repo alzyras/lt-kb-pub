@@ -28,13 +28,14 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
 ## Teiginiai
 
 - t-001
-  teiginys: 'Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo gerumą ir kuklumą, miršta nuo džio­ vos Žemutinėje pilyje kovo 4-ą dieną.'
+  teiginys: 'Karalaitis Kazimieras mirė nuo džiovos Žemutinėje pilyje kovo 4 d.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalaitis Kazimieras mirė nuo džiovos Žemutinėje pilyje kovo 4 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta­
@@ -55,3 +56,4 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Kazimieras]]

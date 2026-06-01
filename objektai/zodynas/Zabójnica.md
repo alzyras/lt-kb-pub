@@ -26,13 +26,14 @@ Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­ dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo metu vadintą Zabójnica (žudike), panaikindamas visas pri­ vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų.'
+  teiginys: '1492 m. Aleksandras suteikė Vilniui teisę laikyti vaško dirbtuvę, vadintą Zabójnica, ir panaikino daugumą privačių dirbtuvių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1492 m. Aleksandras suteikė Vilniui teisę laikyti vaško dirbtuvę, vadintą Zabójnica, ir panaikino daugumą privačių dirbtuvių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     III KNYGA
@@ -64,3 +65,4 @@ Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
+- [[objektai/asmenys/Aleksandras]]

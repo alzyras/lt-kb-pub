@@ -28,18 +28,19 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Protasevičiaus pėdomis sekė ir jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­ liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­ kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą dvasiškai jaunuomenei lavintis, vadinamą.'
+  teiginys: 'Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57.'
+  teiginys: 'Karalius balandžio 1 d. dekretais vyskupo Protasevičiaus funduotą jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalius balandžio 1 d. dekretais vyskupo Protasevičiaus funduotą jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     290
@@ -64,6 +65,7 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
     - t-002
 
 - c-002
+  santrauka: 'Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Protasevičiaus pėdomis sekė ir

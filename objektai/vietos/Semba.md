@@ -39,7 +39,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - c-003
 
 - t-002
-  teiginys: 'Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis.'
+  teiginys: '1324 m. Ragainės komtūras Tomas Aldenburgas su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį.'
   pagrindžia:
     - c-002
 
@@ -84,19 +84,19 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - c-011
 
 - t-011
-  teiginys: 'Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus).'
+  teiginys: 'Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu į šiaurę nuo Karaliaučiaus.'
   pagrindžia:
     - c-012
 
 - t-012
-  teiginys: 'Bet (1410.VIII.) Livonijos kariuomenė laivais atvyko Sembon.'
+  teiginys: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Bet (1410.VIII.) Livonijos kariuomenė laivais atvyko Sembon.'
+  santrauka: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet (1410.VIII.)
@@ -108,6 +108,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-012
 
 - c-002
+  santrauka: '1324 m. Ragainės komtūras Tomas Aldenburgas su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
@@ -312,7 +313,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-010
 
 - c-012
-  santrauka: 'Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus).'
+  santrauka: 'Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu į šiaurę nuo Karaliaučiaus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Drauge buvo ir Algirdas su savo būriais. Nuterioję

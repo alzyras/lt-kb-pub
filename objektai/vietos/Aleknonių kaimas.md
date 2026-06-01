@@ -25,20 +25,6 @@ Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkinink
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    patikrinti. Pritrūkus valčių, enkavėdistai
-    nulupo Aleknonių ir Žuvinto kaimų ūki-
-    ninkų kluonų duris ir jomis kaip plaustais
-    plaukė ežeru. Partizanai be paliovos juos
-    apšaudė ir granatomis skandino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė ežeru.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -55,3 +41,4 @@ Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkinink
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

@@ -25,13 +25,14 @@ Stanislovas Jasickis, vaistininkas, kuriam pabo­ do mokėti po 140 auksinų, u�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Stanislovas Jasickis, vaistininkas, kuriam pabo­ do mokėti po 140 auksinų, už 5 000 lenk.'
+  teiginys: '1699 metais vaistininkas Stanislovas Jasickis už 5 000 lenkiškų auksinų nupirko Švarco mūriniu vadintą namą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1699 metais vaistininkas Stanislovas Jasickis už 5 000 lenkiškų auksinų nupirko Švarco mūriniu vadintą namą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti­

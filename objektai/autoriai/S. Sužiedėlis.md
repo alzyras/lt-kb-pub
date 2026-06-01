@@ -38,10 +38,10 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 - t-002
   teiginys: '34, 1970, 57-74 p. — Sužiedėlis, S.: Apuolė , EnL, I, 112-113 p.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
-  teiginys: 'Sužiedėlis, S.'
+  teiginys: 'S. Sužiedėlis 1930 m. paskelbė darbą „Vytautas Didysis ir Lietuvos christianizacija“.'
   pagrindžia:
     - c-002
 
@@ -63,8 +63,10 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-002
+  santrauka: 'S. Sužiedėlis 1930 m. paskelbė darbą „Vytautas Didysis ir Lietuvos christianizacija“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Br. 1923. — Sužiedėlis, S. :
@@ -77,21 +79,6 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Senn, A. : _On the Kinship between
-    Slavic and Baltic_ , Slavonic and East European Revue, XX, 1941. —
-    (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
-    Zeitschr. für vergleichende Sprachforschung, t. 70, 1954. — Stankus, J. :
-    _Geležies dirbinių gamyklas Lietuvoje V-V III amžiais technologija_ , AkMD,
-    t. 34, 1970, 57-74 p. — Sužiedėlis, S.: _Apuolė_ , EnL, I, 112-113 p.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

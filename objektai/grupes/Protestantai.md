@@ -106,7 +106,6 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - [[objektai/paprociai/Jėzuitų viešos religinės kovos praktikos]]
 - [[objektai/grupes/Kalvinai]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/grupes/Katalikų bažnyčia katalikai]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/ivykiai/Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)]]
 - [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]

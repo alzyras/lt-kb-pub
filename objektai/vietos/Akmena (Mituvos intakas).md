@@ -19,29 +19,11 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
 - t-001
   teiginys: 'Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad akmena (Mituvos intakas), u.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Akmena (Mituvos intakas), u.
-      Akonas (Akra)
-      Alanga, u.
-      Alenburgas (Allenburg, dab.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ašeradė)

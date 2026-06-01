@@ -20,13 +20,14 @@ Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitul
 ## Teiginiai
 
 - t-001
-  teiginys: 'Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.'
+  teiginys: 'Vilniaus tarėjai reikalavo, kad miestas būtų atleistas nuo naujai kapitulos pasisavintos jurisdikcijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus tarėjai reikalavo, kad miestas būtų atleistas nuo naujai kapitulos pasisavintos jurisdikcijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     sit erecta, similibusque iuribus et

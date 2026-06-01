@@ -24,7 +24,7 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad lietuvos TSR istorija.—T.'
+  teiginys: 'Pirmasis „Lietuvos TSR istorijos“ tomas išleistas Vilniuje 1957 m.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmasis „Lietuvos TSR istorijos“ tomas išleistas Vilniuje 1957 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos TSR istorija.—T. 1,—V., 1957.

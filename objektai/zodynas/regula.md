@@ -19,13 +19,14 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nukankintuosius palaidojęs, tos pa­ čios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl to, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi liūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­ nuolyną pastatydino naujoje vietoje, savo.'
+  teiginys: 'Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių iš Lenkijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių iš Lenkijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Algirdas viešai nubaudė to žiauraus poelgio vadei­
@@ -63,3 +64,4 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 - [[objektai/autoriai/Waddyngas Luca Vaddingo]]
 - [[objektai/zodynas/vaitas ir tarėjai]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
+- [[objektai/asmenys/Goštautas]]

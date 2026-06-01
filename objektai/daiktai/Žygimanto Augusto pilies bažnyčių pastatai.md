@@ -48,18 +48,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad.'
+  teiginys: 'Dabartinė Šv. Onos bažnyčia prie bernardinų buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.'
+  teiginys: 'Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos atminimui.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dabartinė Šv. Onos bažnyčia prie bernardinų buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
@@ -93,6 +94,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos atminimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be kitų, Že­

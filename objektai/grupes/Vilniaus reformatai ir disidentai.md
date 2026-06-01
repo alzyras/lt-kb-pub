@@ -27,7 +27,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisant garbingiausių Lietuvos giminių prie­ lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­ telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos.'
+  teiginys: 'Vilniaus disidentai nepajėgė sutelkti tokių stiprių pajėgų kovai su jėzuitais, kokias turėjo šis ordinas.'
   pagrindžia:
     - c-001
 
@@ -37,13 +37,14 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
     - c-002
 
 - t-003
-  teiginys: 'Šis vyskupo žingsnis 1581 metais padrąsino viešosios rimties drumstėjus atvirai užpulti reformatų mal­ dos namus ir jų spaustuvę, buvusią Danieliaus Lenčickio žinioje.'
+  teiginys: '1581 m. Vilniuje buvo atvirai užpulti reformatų maldos namai ir Danieliaus Lenčickio prižiūrėta spaustuvė.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus disidentai nepajėgė sutelkti tokių stiprių pajėgų kovai su jėzuitais, kokias turėjo šis ordinas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jėzuitų apsigyvenimas Vil­
@@ -85,6 +86,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
     - t-002
 
 - c-003
+  santrauka: '1581 m. Vilniuje buvo atvirai užpulti reformatų maldos namai ir Danieliaus Lenčickio prižiūrėta spaustuvė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujuši-

@@ -26,13 +26,14 @@ Bet iki Vy­ tauto laikų nebuvo kreipta dėmesio į titulus: tas klausimas visu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet iki Vy­ tauto laikų nebuvo kreipta dėmesio į titulus: tas klausimas visu (^1) ) Pamiętniki Albrychta Stanisława Radziwiłła, kancl.'
+  teiginys: '„Pamiętniki Albrychta Stanisława Radziwiłła“ buvo 1839 m. Poznanėje išleistas rankraščio leidimas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Pamiętniki Albrychta Stanisława Radziwiłła“ buvo 1839 m. Poznanėje išleistas rankraščio leidimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet iki Vy­

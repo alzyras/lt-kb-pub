@@ -22,7 +22,7 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
     - c-001
 
 - t-002
-  teiginys: 'Tada lietuviai vėl kreipėsi į kaizerį su nauja peticija (1882 m.), bet šį kartą jau nebegavo net atsakymo.'
+  teiginys: '1882 m. lietuviai kreipėsi į kaizerį su nauja peticija, tačiau negavo net atsakymo.'
   pagrindžia:
     - c-003
 
@@ -74,6 +74,7 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
     - t-003
 
 - c-003
+  santrauka: '1882 m. lietuviai kreipėsi į kaizerį su nauja peticija, tačiau negavo net atsakymo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     leidimas. Tada lietuviai vėl kreipėsi į kaizerį su nauja peticija
@@ -90,7 +91,6 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/ES pilietis]]
 - [[objektai/grupes/Europos Parlamentas]]
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
 - [[objektai/ivykiai/Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)]]

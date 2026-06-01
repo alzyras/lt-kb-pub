@@ -33,12 +33,12 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: 'Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­ mene nusiuntė Zigmantą Kaributą padėti husitams kovose su ciesorium Zigmantu.'
+  teiginys: 'Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Lietuvos val­ dovas gavo progos įsikišti į husitų reikalus ir sudaryti Zigmantui sunkenybių Čekijoje, kurią šis stengėsi paveldėti po karaliaus Vaclovo mirties (1419).'
+  teiginys: 'Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.'
   pagrindžia:
     - c-003
 
@@ -60,7 +60,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: 'Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­ mene nusiuntė Zigmantą Kaributą padėti husitams kovose su ciesorium Zigmantu.'
+  santrauka: 'Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tada su tuo pačiu siūlymu jie kreipėsi į Vytautą Didįjį.
@@ -79,7 +79,7 @@ amziai:
     - t-002
 
 - c-003
-  santrauka: 'Lietuvos val­ dovas gavo progos įsikišti į husitų reikalus ir sudaryti Zigmantui sunkenybių Čekijoje, kurią šis stengėsi paveldėti po karaliaus Vaclovo mirties (1419).'
+  santrauka: 'Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O Vytautui pasisiūlė galimybė imperatoriui už neprie­

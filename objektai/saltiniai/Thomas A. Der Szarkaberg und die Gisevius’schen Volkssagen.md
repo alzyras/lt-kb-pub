@@ -25,13 +25,14 @@ Dusburgietis teigia, kad thomas A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad thomas A.'
+  teiginys: 'A. Thomaso „Der Szarkaberg und die Gisevius’schen Volkssagen“ paskelbtas 1882 m. Karaliaučiuje leisto AM 19 tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Thomaso „Der Szarkaberg und die Gisevius’schen Volkssagen“ paskelbtas 1882 m. Karaliaučiuje leisto AM 19 tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Thomas A. Der Szarkaberg und die Gisevius’schen Volkssagen.— AM, Königsberg in

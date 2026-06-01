@@ -20,13 +20,14 @@ Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo pajamų ir kapitulos, ir visokios rūšies vertybių, personatų, pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­ sų diecezijoje egzistuojančių.'
+  teiginys: 'Jurgis Radvila numatė klierikų kolegijai skirti dalį pajamų iš vyskupijos stalo, personatų, abatijų ir kitų beneficijų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jurgis Radvila numatė klierikų kolegijai skirti dalį pajamų iš vyskupijos stalo, personatų, abatijų ir kitų beneficijų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
@@ -64,6 +65,8 @@ Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad i
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/diecezija]]
+- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
 - [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]

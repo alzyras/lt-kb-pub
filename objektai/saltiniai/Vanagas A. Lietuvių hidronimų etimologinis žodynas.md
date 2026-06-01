@@ -23,13 +23,14 @@ Dusburgietis teigia, kad vanagas A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vanagas A.'
+  teiginys: 'A. Vanago „Lietuvių hidronimų etimologinis žodynas“ išleistas Vilniuje 1981 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Vanago „Lietuvių hidronimų etimologinis žodynas“ išleistas Vilniuje 1981 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981.

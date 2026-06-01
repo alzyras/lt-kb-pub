@@ -29,7 +29,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - t-001
   teiginys: 'Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisdešimtmečio karo plačiai taikyta ir lauko kautynėse.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-002
   teiginys: 'Ankstyvesnių laikų kartečės užtaisai buvo maišeliuose, aprišamuose virvėmis, vėliau atsirado kartečė cilindro formos metalinėse dėžutėse.'
@@ -39,12 +39,12 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - t-003
   teiginys: 'Ankstyvieji kartečės užtaisai buvo dedami į virvėmis aprišamus maišelius, o vėliau atsirado cilindro formos metalinėse dėžutėse laikoma kartečė.'
   pagrindžia:
-    - c-008
+    - c-003
 
 - t-004
   teiginys: 'Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudojama muškietų kulkų kartečė.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
   teiginys: 'Tačiau apskritai kartečė buvo skirta žeisti priešo karius gan nedideliu atstumu, nemaža kartečės kulkų sklaida neleido jos efektyviai naudoti tolimesniais atstumais.'
@@ -59,7 +59,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - t-007
   teiginys: 'Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida neleido jos efektyviai naudoti toliau.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-008
   teiginys: 'Kartečėmis šaudė visi pabūklų tipai, netgi mortyros, nepaisant jų aukštos šaudymo trajektorijos.'
@@ -98,6 +98,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   statusas: verified
   pagrindžia:
     - t-005
+    - t-007
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -124,6 +125,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -146,23 +148,6 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Tolimojo nuotolio kartečės kulkos buvo stambesnės ir dėl
-    to galėjo įveikti didesnį atstumą, bet pabūklo užtaise jų tilpdavo
-    mažiau. Tačiau apskritai kartečė buvo skirta žeisti priešo karius
-    gan nedideliu atstumu, nemaža kartečės kulkų sklaida neleido jos
-    efektyviai naudoti tolimesniais atstumais. Kartečės naudojimo
-    pradžioje jos trūkumas buvo ilgas pabūklų užtaisymas pavienėmis
-    kulkomis, vėliau ši problema buvo išspręsta panaudojant kulkų
-    ryšulius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-006
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
     Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės
     gynybos) buvo naudojama muškietų kulkų kartečė. Minkšto švino
     kulkų metalas dažnai šūvio iš patrankos metu deformuodavosi,
@@ -174,7 +159,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   pagrindžia:
     - t-004
 
-- c-007
+- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš pradžių kartečė buvo naudojama ginant arba šturmuojant tvir-
@@ -190,33 +175,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   pagrindžia:
     - t-001
 
-- c-008
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kartečės naudojimo
-    pradžioje jos trūkumas buvo ilgas pabūklų užtaisymas pavienėmis
-    kulkomis, vėliau ši problema buvo išspręsta panaudojant kulkų
-    ryšulius. Ankstyvesnių laikų kartečės užtaisai buvo maišeliuose,
-
-    aprišamuose virvėmis, vėliau atsirado kartečė cilindro formos
-    metalinėse dėžutėse.
-
-    Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir
-    apšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais svie-
-    diniais (iki raudonumo įkaitinti metali-
-    niai sviediniai arba iš ketaus pagaminti
-    tuščiaviduriai sviediniai, užpildyti pade-
-    gamuoju mišiniu - vadinamieji brandsku-
-    geliai, taip pat ir karkasai - ovalo formos
-    sviediniai su padegamuoju mišiniu, su-
-    daryti iš geležinių žiedų).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-009
+- c-007
   santrauka: 'Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudojama muškietų kulkų kartečė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

@@ -26,13 +26,14 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato raštininkų namai ir butai kartą ir visiems laikams bu­ vo atleisti nuo bet kokios nakvynės ir apsistojimo prievolės.'
+  teiginys: '1560 m. Vilniuje vykusiame Lietuvos Didžiosios Kunigaikštystės Ponų Tarybos seime karalius leido bajorams rinkti delegatus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1560 m. Vilniuje vykusiame Lietuvos Didžiosios Kunigaikštystės Ponų Tarybos seime karalius leido bajorams rinkti delegatus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vaito,

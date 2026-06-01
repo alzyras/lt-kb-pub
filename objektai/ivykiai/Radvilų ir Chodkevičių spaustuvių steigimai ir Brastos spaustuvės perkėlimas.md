@@ -62,4 +62,3 @@ Nenurodyta
 - [[objektai/zodynas/reformacija]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Ivanas Fiodorovas]]
-- [[objektai/daiktai/Spaustuvės]]

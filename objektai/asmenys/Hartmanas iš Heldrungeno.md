@@ -34,7 +34,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad pirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs 1282 m.).'
+  teiginys: 'Hartmanas iš Heldrungeno buvo didysis magistras, broliu tapęs prieš 1237 m. ir miręs 1282 m.'
   pagrindžia:
     - c-001
 
@@ -46,6 +46,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hartmanas iš Heldrungeno buvo didysis magistras, broliu tapęs prieš 1237 m. ir miręs 1282 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.

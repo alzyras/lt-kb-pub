@@ -68,22 +68,22 @@ Nenurodyta
 - t-005
   teiginys: 'Būtent ši samprata iškilo 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
   pagrindžia:
-    - c-008
+    - c-005
 
 - t-006
   teiginys: 'Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą, nebelaukė.'
   pagrindžia:
-    - c-007
+    - c-004
 
 - t-007
   teiginys: '1922 m. sausį Vidurinėje Lietuvoje surengti rinkimai, po kurių ji formaliai prisijungė prie Lenkijos.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-008
   teiginys: 'Lenkijos valia surengtuose rinkimuose Želigovskio užimtoje Vidurinėje Lietuvoje balsuota, kad ji taptų Lenkijos dalimi.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-009
   teiginys: '1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.'
@@ -93,7 +93,7 @@ Nenurodyta
 - t-010
   teiginys: 'Tiesa, nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų tautą, o Lietuvą laikė Lenkijos dalimi.'
   pagrindžia:
-    - c-006
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -111,6 +111,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-008
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -149,23 +150,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-010
 
 - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ši trijų dalių Lietuvos sampra-
-    ta, pasitelkiama neva siekiant atkurti LDK tradiciją, buvo tik deklaracija,
-    nebeatitinkanti istorinės tikrovės. Iš tikrųjų tai buvo lenkiška Lietuvos
-    samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
-    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
-    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Maskva, tai
@@ -181,40 +168,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tiesa,
-    nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
-    arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
-    tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
-    Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
-    suformuota „Vidurinė Lietuva“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Maskva, tai
-    įvertinusi kaip patį didžiausią savo diplomatijos laimėjimą.
-    Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
-    jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
-    vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
-    nebelaukė. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
-    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
-    karo, nei taikos“ situacijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
 
-- c-008
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būtent ši samprata iškilo 1920 m.

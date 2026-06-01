@@ -26,13 +26,14 @@ Dusburgietis teigia, kad ročka M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad ročka M.'
+  teiginys: 'M. Ročkos straipsnis „Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje“ 1966 m. paskelbtas leidinyje „Literatūra“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Ročkos straipsnis „Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje“ 1966 m. paskelbtas leidinyje „Literatūra“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ročka M. Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje (XV a. — XVI

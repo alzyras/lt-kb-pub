@@ -18,13 +18,14 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
 ## Teiginiai
 
 - t-001
-  teiginys: 'Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis I.'
+  teiginys: 'Kazimiero laikai 1440–1492 m. priskiriami didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpiui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kazimiero laikai 1440–1492 m. priskiriami didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpiui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bažnyčios suvažiavimas Bazely ir bažnytinės unijos
@@ -44,6 +45,7 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pereinamasis laikotarpis]]
 - [[objektai/zodynas/unija]]

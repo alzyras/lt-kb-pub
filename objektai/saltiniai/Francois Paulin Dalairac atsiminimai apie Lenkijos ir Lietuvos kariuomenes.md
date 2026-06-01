@@ -35,39 +35,21 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
 - t-001
   teiginys: 'Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Fiift Radeiviel begegnetim Mann: Lich, wiewel mit ebwas ver wirrhee, : E rs 46 G) Ištrauka iš Prancūzijos armijos kario Francois Paulin Dalairac (1699 m.) atsiminimų apie Lenkijos ir Lietuvos kariuomenes.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Karūnos, kaip ir Lietuvos, kariuomenė yra padalyta į dvi dalis: vieną sudaro vien ka-
-    valerija ir šalies vyrai, išskirstyti į laisvas ir ordonanso vėliavas, panašias į Prancūzijos
-    sunkiosios kavalerijos eskadronus; ji vadinasi lenkų autoramentu [Armee Polonoise], 0
-    ją sudaro du trečdaliai, tai yra 24 000 raitelių. Kitą dalį sudaro vien infantrija, dragūnai
-    ir šiek tiek lengvosios kavalerijos. Ji vadinama svetimšalių autoramentu [Armee etran-
-    gere], mat ji suformuota pagal svetimšalių pavyzdį, aprengta ir apginkluota vokiškai, jai
-    vadovauja generolai majorai [Generaux Majors], atitinkantys mūsiškius feldmaršalus
-    [Marechaux de Camp], ji padalyta į pulkus [Regimens]. O ne kuopas [compagnies]. Ji
-    sudaro paskutinį komputo trečdalį - 12 000 vyrų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lager, imine Vierfache Wagenlurg
@@ -92,7 +74,7 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -120,3 +102,4 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001

@@ -44,7 +44,7 @@ Nenurodyta
 - t-001
   teiginys: 'Niekas negali varžyti ar riboti Tautos suvereniteto arba savintis visai Tautai priklausančių suverenių galių.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Ta pati norma saugo teritorijos vientisumą ir konstitucinę santvarką.'
@@ -52,7 +52,7 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Lietuvos Respublikos Konstitucijos 3 straipsnis suteikia tautai ir kiekvienam piliečiui teisę priešintis prievarta kėsinantis į valstybės nepriklausomybę.'
+  teiginys: 'Konstitucinė teisė priešintis numato, kad Tauta ir kiekvienas pilietis gali priešintis kėsinimuisi į Lietuvos valstybės nepriklausomybę.'
   pagrindžia:
     - c-001
 
@@ -64,25 +64,6 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Niekas negali varžyti ar riboti Tautos suve-
-    reniteto, savintis visai Tautai priklausančių
-    suverenių galių.
-
-    Tauta ir kiekvienas pilietis turi teisę
-    priešintis bet kam, kas prievarta kėsinasi į
-    Lietuvos valstybės nepriklausomybę, terito-
-    rijos vientisumą, konstitucinę santvarką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-    - t-002
-    - t-004
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš dabartinės Lietuvos
@@ -103,10 +84,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
+    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Suverenitetas]]
-- [[objektai/zodynas/konstitucijos]]

@@ -35,7 +35,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis.'
+  teiginys: 'Pirmasis giriose gyvenusių žmonių trobesys vadintas nams, namas arba namaitis.'
   pagrindžia:
     - c-001
 
@@ -47,6 +47,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmasis giriose gyvenusių žmonių trobesys vadintas nams, namas arba namaitis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo
@@ -91,15 +92,11 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/Šaldros|šaldros]]
 - [[objektai/grupes/Žemaičiai]]
-- [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje]]
-- [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]
-- [[objektai/ivykiai/1506 m. Krymo totorių įsiveržimas į Lietuvą ir Aleksandro pasitraukimas iš Lydos]]
 - [[objektai/daiktai/Akademijos spaustuvės spaudmenys, popierius ir knygų egzemplioriai]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Andrejus Stankovičius]]
 - [[objektai/posakiai/Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]]
 - [[objektai/ivykiai/Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.)]]
@@ -128,18 +125,15 @@ Nenurodyta
 - [[objektai/autoriai/Kazimieras Semenavičius]]
 - [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]
 - [[objektai/paprociai/Kraujo keršto paprotys po žmogžudystės]]
-- [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]
 - [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]
 - [[objektai/asmenys/Kristupas Zalivskis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Kūtė]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/asmenys/Mangoldas [iš Šternbergo]]]
 - [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
 - [[objektai/asmenys/Mauricijus]]
 - [[objektai/asmenys/Mergelė Marija]]
-- [[objektai/asmenys/Merkelis Savickis]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
@@ -166,7 +160,6 @@ Nenurodyta
 - [[objektai/grupes/Savickiai]]
 - [[objektai/asmenys/Sebastijonas Vitinskis]]
 - [[objektai/daiktai/Skobnis]]
-- [[objektai/paprociai/Skurdo ištikto žmogaus savižudybė kaip paprotinis sprendimas]]
 - [[objektai/daiktai/Skydas]]
 - [[objektai/paprociai/Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu]]
 - [[objektai/daiktai/Spaustuvės išlaikymo alaus statinė ir duonos kepalai]]
@@ -216,7 +209,12 @@ Nenurodyta
 - [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]
 - [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]
+- [[objektai/asmenys/Jonas Hozijus]]
+- [[objektai/asmenys/Jonas Zabžezinskis]]
 - [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/daiktai/Kardinalijos namų kompleksas]]
+- [[objektai/asmenys/Merkelis Geiša Eljaševičius]]
+- [[objektai/asmenys/Pilypas Frizijus]]
 - [[objektai/asmenys/Skomantas]]
 - [[objektai/grupes/Vietinė rinktinė]]
 - [[objektai/zodynas/homo sovieticus]]

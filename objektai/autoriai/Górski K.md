@@ -34,7 +34,7 @@ Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K.'
+  teiginys: 'K. Górskis Dobrynės ordino įkūrimą siejo su 1228 m. dokumentuose išlikusiomis pirmosiomis žiniomis.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K
     - t-001
 
 - c-002
+  santrauka: 'K. Górskis Dobrynės ordino įkūrimą siejo su 1228 m. dokumentuose išlikusiomis pirmosiomis žiniomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmosios žinios apie Dobrynės ordiną išliko

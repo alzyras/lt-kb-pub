@@ -17,13 +17,14 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­ vos Didžiosios Kunigaikštystės arklidininkui Mikalojui Andriuševičiui ir.'
+  teiginys: 'Mikalojus Andriuševičius buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir tarybos narys.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mikalojus Andriuševičius buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir tarybos narys.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jonui, Polocko............................Stanislovui Jonui Da Vai­

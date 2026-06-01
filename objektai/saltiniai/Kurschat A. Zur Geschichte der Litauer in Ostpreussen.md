@@ -25,13 +25,14 @@ Dusburgietis teigia, kad kurschat A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kurschat A.'
+  teiginys: 'A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen

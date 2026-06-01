@@ -36,12 +36,12 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-007
 
 - t-002
-  teiginys: 'Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.'
+  teiginys: 'Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Jo dvaras Lukiškėse, prie Vilijos, nuo renkasi į savo sueigas Lukiškėse, Jo Didenybės Vilniaus vaivados Mika­ lojaus Radvilos rūmuose; nutaria (savo susirinkime 1557 m. spalio 11 d.) įspėti Vilniaus vyskupą, kaip Ga­ nytoją, kad pakankamai veiktų pa­ gal savo.'
+  teiginys: 'Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla.'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-005
 
 - t-005
-  teiginys: 'Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio.'
+  teiginys: 'Dabartinio Antakalnio užuomazgos buvo išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
   pagrindžia:
     - c-009
 
@@ -61,17 +61,17 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-008
 
 - t-007
-  teiginys: 'Jo įsa­ kymu, buvo kuo rūpestingiausiai garantuojama laisva laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­ niaus miestiečių laivams su prekėmis, o keliantis perkėla visur atleidžiama nuo bet kokių mokesčių41.'
+  teiginys: 'Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
   pagrindžia:
     - c-006
 
 - t-008
-  teiginys: 'Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.'
+  teiginys: 'Vingrių upokšnis šalia Vilnios įtekėjo į Viliją.'
   pagrindžia:
     - c-003
 
 - t-009
-  teiginys: 'Suteikdamas Hozijui teisę pasta­ tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­ kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­ gumui paskirti labdaringą ir Vilniui.'
+  teiginys: 'Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.'
   pagrindžia:
     - c-001
 
@@ -81,13 +81,14 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-010
 
 - t-011
-  teiginys: 'Iš žalio slėnio gilumos, ant paskutiniojo iš kal­ nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­ ta, saugoma aukštų sienų ir trijų bokštų.'
+  teiginys: 'Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.'
   pagrindžia:
     - c-011
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS
@@ -109,6 +110,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - t-009
 
 - c-002
+  santrauka: 'Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Viklifo sekėjas buvo ekskomuni­
@@ -154,6 +156,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - t-003
 
 - c-003
+  santrauka: 'Vingrių upokšnis šalia Vilnios įtekėjo į Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šalimais jo apvalus bokštas, iš plytų
@@ -176,6 +179,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - t-008
 
 - c-004
+  santrauka: 'Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia jų,
@@ -223,6 +227,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - t-004
 
 - c-006
+  santrauka: 'Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta pačia privilegija, kuria Vilniui buvo
@@ -339,6 +344,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - t-006
 
 - c-009
+  santrauka: 'Dabartinio Antakalnio užuomazgos buvo išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia buvo pats miesto centras - ten,
@@ -384,7 +390,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - t-010
 
 - c-011
-  santrauka: 'Iš žalio slėnio gilumos, ant paskutiniojo iš kal­ nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­ ta, saugoma aukštų sienų ir trijų bokštų.'
+  santrauka: 'Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar

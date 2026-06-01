@@ -45,7 +45,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
+  teiginys: 'Per apgultį prie Žemutinės pilies slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją praminė Krautuvių pilimi.'
   pagrindžia:
     - c-002
 
@@ -88,7 +88,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
+  santrauka: 'Per apgultį prie Žemutinės pilies slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją praminė Krautuvių pilimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš

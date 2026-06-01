@@ -17,13 +17,14 @@ Dusburgietis teigia, kad voigt J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad voigt J.'
+  teiginys: 'J. Voigto „Burgen-Karte von Preussen zur Zeit des Deutschen Ordens“ pateikta „Geschichte Preussens“ antrajame tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Voigto „Burgen-Karte von Preussen zur Zeit des Deutschen Ordens“ pateikta „Geschichte Preussens“ antrajame tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Voigt J. Burgen-Karte von Preussen zur Zeit des Deutschen Ordens.—oVigt J. Geschichte

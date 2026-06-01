@@ -40,7 +40,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kruvini bajorijos susibūrimai, ypač seimeliuose: tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia- vusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be- laisviui mirties.'
+  teiginys: 'Per vieną bajorų susibūrimą įsiaudrinusi minia po naktinių išgertuvių apsupo vienuolyną ir reikalavo belaisvio mirties.'
   pagrindžia:
     - c-002
 
@@ -66,6 +66,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Per vieną bajorų susibūrimą įsiaudrinusi minia po naktinių išgertuvių apsupo vienuolyną ir reikalavo belaisvio mirties.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.

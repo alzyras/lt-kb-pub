@@ -20,21 +20,22 @@ pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai 
 - t-001
   teiginys: 'pravoslavija: valdžia norėjo viską surusinti: įstaigas, mokyklas ir net bažnyčias. Bet lietuviai nepanoro nei virsti pravoslavais nei išsižadėti savo kalbos, ir pirmą kartą stojo ginti savo tautinių teisių.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
-  teiginys: 'pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr. 303 psl.).'
+  teiginys: 'Persekiojami unitai buvo varu suvaryti į pravoslaviją ir veikiai visai išnyko.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Persekiojami unitai buvo varu suvaryti į pravoslaviją ir veikiai visai išnyko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, buvo konfiskuoti ir visi dvasininkų dvarai (jiems
@@ -46,21 +47,9 @@ pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai 
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, buvo konfiskuoti ir visi dvasininkų dvarai (jiems
-    buvo palikti tik maži sklypeliai žemės). Dar smarkiau buvo
-    pradėti persekioti unitai, kurie veikiai visai išnyko — buvo
-    varu suvaryti į pravoslaviją (žiūr. 303 psl.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet jo
@@ -78,3 +67,4 @@ pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/rusinimas]]
+- [[objektai/grupes/Unitai]]

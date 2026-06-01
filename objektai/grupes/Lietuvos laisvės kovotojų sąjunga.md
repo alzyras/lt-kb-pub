@@ -27,39 +27,16 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 - t-001
   teiginys: 'Liberaliai nusistatę tautininkai susibūrė į Lietuvos laisvės kovotojų sąjungą, kuri leido pogrindinius leidinius.'
   pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: '(to meto atvirukas) L I E T U V O S I S T O R I J A 204 antinacinė agitacija, raginta nestoti į vokiečių organizuojamus karinius dalinius, nevykti darbams į Vokietiją, nevykdyti žemės ūkio prievolių, išsaugoti lietuvių kultūros ir švietimo įstaigas.'
-  pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: '1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės kovotojų sąjungos ir LLA grupes.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    antinacinė agitacija, raginta nestoti į vokiečių organizuojamus karinius
-    dalinius, nevykti darbams į Vokietiją, nevykdyti žemės ūkio prievolių,
-    išsaugoti lietuvių kultūros ir švietimo įstaigas, demaskuoti kolaborantus.
-    Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė
-    į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę
-    tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-
-    do pogrindinius leidinius. 1943–1944 m. pogrindyje veikė Vyriausiasis
-    Lietuvos išlaisvinimo komitetas (VLIK’as), suvienijęs skirtingas lietuvių
-    politines jėgas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai masiškiausia
@@ -81,7 +58,8 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
+  santrauka: 'Liberaliai nusistatę tautininkai susibūrė į Lietuvos laisvės kovotojų sąjungą, kuri leido pogrindinius leidinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pogrindis laikėsi neginkluotos rezistencijos taktikos: vykdyta
@@ -105,12 +83,12 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]

@@ -43,7 +43,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - c-004
 
 - t-004
-  teiginys: 'Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 101 klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Suvalkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos.'
+  teiginys: 'Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. - Suvalkų gubernija.'
   pagrindžia:
     - c-006
 
@@ -145,6 +145,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - t-001
 
 - c-006
+  santrauka: 'Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. - Suvalkų gubernija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo ketvirtojo dešimtmečio rusiška administracinio teritorinio val-

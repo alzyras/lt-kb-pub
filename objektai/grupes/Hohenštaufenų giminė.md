@@ -20,13 +20,14 @@ Dideli politinės padėties pokyčiai, radęsi Švabijoje ir Frankonijoje dėl H
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dideli politinės padėties pokyčiai, radęsi Švabijoje ir Frankonijoje dėl Hohenštaufenų giminės žlu­ gimo, miestams suteikė lemiamą persvarą.'
+  teiginys: 'Hohenštaufenų giminės žlugimo sukelti politiniai pokyčiai Švabijoje ir Frankonijoje suteikė miestams persvarą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hohenštaufenų giminės žlugimo sukelti politiniai pokyčiai Švabijoje ir Frankonijoje suteikė miestams persvarą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­

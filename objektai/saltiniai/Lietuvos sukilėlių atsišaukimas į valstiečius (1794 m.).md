@@ -24,7 +24,7 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sukilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S.'
+  teiginys: '1794 m. sukilėliai kreipėsi į valstiečius, ragino pradėti partizaninį karą prieš Rusijos kariuomenę ir žadėjo asmens laisvę.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
     - t-003
 
 - c-002
+  santrauka: '1794 m. sukilėliai kreipėsi į valstiečius, ragino pradėti partizaninį karą prieš Rusijos kariuomenę ir žadėjo asmens laisvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su-

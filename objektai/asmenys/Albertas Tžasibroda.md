@@ -18,13 +18,14 @@ Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­ tinę kviečių iš visų laukų; taip ir bajorė Ona Tarnavska iš savo dvaro nuo visų javų, o iš Stanislovo Vaitkavičiaus tik nuo kviečių....................Įprastą dešimtinę privalo mokė­ ti.'
+  teiginys: 'Albertas Tžasibroda turėjo žemę, iš kurios Sofija Simonovna privalėjo mokėti kviečių dešimtinę nuo visų laukų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Albertas Tžasibroda turėjo žemę, iš kurios Sofija Simonovna privalėjo mokėti kviečių dešimtinę nuo visų laukų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be tö, ir ba­

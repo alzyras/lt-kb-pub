@@ -35,12 +35,12 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - c-003
 
 - t-002
-  teiginys: 'Tas kunigaikštis, nepapras­ tai prisirišęs prie rusų tikėjimo ir tautos, turėjo daug draugų 53 jos išsaugotos Lindenblatt o, Visos tos smulkios aplinkybės mūp. 98-99, lietuvių istorijai nusipelsų metraštininkams nėra žinomos; niusio autoriaus.'
+  teiginys: 'Lindenblattas išsaugojo smulkias Vilniaus apgulties aplinkybes, nežinomas lietuvių metraštininkams.'
   pagrindžia:
     - c-006
 
 - t-003
-  teiginys: '33 Lindenblatt Jahrbücher etc., p. 76, kryžiuočių persikėlimą per Viliją nu­ rodo buvus per Šv.'
+  teiginys: 'Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.'
   pagrindžia:
     - c-001
 
@@ -50,7 +50,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - c-005
 
 - t-005
-  teiginys: 'Mergelės Marijos bažnyčios Smėlynėje ir pran­ ciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­ siruošusias tvirtoves, antra, numanydami, jog bus neįma- 43 Lindenblatto kronikoje yra - Boparthen, pagal panašų skambėji­ mą, regis, tarsi būtų.'
+  teiginys: 'Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     33
@@ -77,6 +78,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - t-003
 
 - c-002
+  santrauka: 'Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Olesnickis,
@@ -157,6 +159,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - t-004
 
 - c-006
+  santrauka: 'Lindenblattas išsaugojo smulkias Vilniaus apgulties aplinkybes, nežinomas lietuvių metraštininkams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš­

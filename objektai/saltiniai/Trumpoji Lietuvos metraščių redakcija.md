@@ -17,13 +17,14 @@ Trumpojoje Lietuvos metraščių redakcijoje (xv a.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Trumpojoje Lietuvos metraščių redakcijoje (xv a.'
+  teiginys: 'Trumpojoje Lietuvos metraščių redakcijoje įrašytas „Pasakojimas apie Podolę“ yra plačiausias šaltinis apie Mėlynųjų Vandenų temą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Trumpojoje Lietuvos metraščių redakcijoje įrašytas „Pasakojimas apie Podolę“ yra plačiausias šaltinis apie Mėlynųjų Vandenų temą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tas pats aprašyta vė-

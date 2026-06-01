@@ -44,7 +44,7 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Heilsbergo pilis Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis] bei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą.'
   pagrindžia:
     - c-001
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -65,24 +65,6 @@ Nenurodyta
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apsiaustieji iš bado suvalgė
-    250 arklių ir jų odas. Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo
-    miestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino
-    jų tėvams.
-
-
-
-
-           95 (90).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis]
     bei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą. Apsiaustieji iš bado suvalgė
     250 arklių ir jų odas. Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo
@@ -93,3 +75,4 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

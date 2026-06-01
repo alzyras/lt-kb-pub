@@ -34,7 +34,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - c-002
 
 - t-002
-  teiginys: 'Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­ čio dvare9.'
+  teiginys: '1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.'
   pagrindžia:
     - c-005
 
@@ -49,9 +49,9 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - c-003
 
 - t-005
-  teiginys: 'Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­ čiai ir Hanzos atstovai.'
+  teiginys: 'Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-006
   teiginys: 'Švitrigaila prašė garantijų savo dvariškiams Hansui Tscheizui ir Mikalojui Sachsei, vykusiems su reikalais į Sileziją.'
@@ -59,28 +59,29 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - c-006
 
 - t-007
-  teiginys: 'Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui ir jo svainiui Mikalojui Sachsei, taip pat savo dvariškiams, su reikalais vykstantiems į Sileziją.'
+  teiginys: 'Švitrigaila prašė garantijų savo dvariškiams, su reikalais vykstantiems į Sileziją.'
   pagrindžia:
-    - c-010
+    - c-006
 
 - t-008
   teiginys: 'Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.'
   pagrindžia:
-    - c-008
+    - c-001
 
 - t-009
-  teiginys: 'Tačiau netrukus į Vilnių at­ vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai grėsusio pilietinio karo.'
+  teiginys: 'Į Vilnių atvykęs Žygimantas buvo Glogovo kunigaikštis iš Silezijos ir mirusio karaliaus brolis.'
   pagrindžia:
     - c-007
 
 - t-010
-  teiginys: 'Žinodami gausią globą ir ypatingas privilegijas, o krikščio­ nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­ kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­ zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie pasidarė.'
+  teiginys: 'Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietu­
@@ -100,6 +101,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   statusas: verified
   pagrindžia:
     - t-010
+    - t-008
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -158,6 +160,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-003
 
 - c-005
+  santrauka: '1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
@@ -193,8 +196,10 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   statusas: verified
   pagrindžia:
     - t-006
+    - t-007
 
 - c-007
+  santrauka: 'Į Vilnių atvykęs Žygimantas buvo Glogovo kunigaikštis iš Silezijos ir mirusio karaliaus brolis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pastarosios pergalės iš­
@@ -213,27 +218,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-009
 
 - c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lietu­
-    vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
-    įgyvendino savo dvariškius bei tarnus, žinoma, dar reikė­
-    tų pridurti ir nemažai paimtų į nelaisvę lenkų bei rusinu.
-    Žinodami gausią globą ir ypatingas privilegijas, o krikščio­
-    nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­
-    kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­
-    zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie
-    pasidarė turtingiausias Vilniaus gyventojų sluoksnis. Savo
-    ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
-    dimino dvare, statydinosi ties pilimi medinius savo rūmus,
-    o aplink kurdino savo valdinius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-009
+  santrauka: 'Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Atvyko
@@ -252,23 +237,3 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Švit­
-    rigailos dvaro maršalka buvo Mzu-
-    sas, kuriam išduotas didžiojo kuni­
-    gaikščio garantinis raštas iki šiol
-    saugojamas Slaptajame archyve. Ki­
-    tame savo laiške Švitrigaila prašo
-    garantijų Hansui (Janui) Tscheizui ir
-    jo svainiui Mikalojui Sachsei, taip
-    pat savo dvariškiams, su reikalais
-    vykstantiems į Sileziją. Žr. K o t z e-
-    b u e Sivitrigail, p. 58-59 ir 61.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007

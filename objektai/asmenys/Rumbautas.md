@@ -28,13 +28,14 @@ Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­ raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­ imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam į.'
+  teiginys: 'Rumbautas buvo lietuvių didikas, patekęs į nelaisvę paskutiniame kare Voluinėje ir Jogailos išlaisvintas bei atsiųstas Švitrigailai į Vilnių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rumbautas buvo lietuvių didikas, patekęs į nelaisvę paskutiniame kare Voluinėje ir Jogailos išlaisvintas bei atsiųstas Švitrigailai į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­

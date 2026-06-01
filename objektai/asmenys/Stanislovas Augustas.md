@@ -27,13 +27,14 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 ## Teiginiai
 
 - t-001
-  teiginys: 'Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­ gusto III ir Stanislovo Augusto.'
+  teiginys: 'Stanislovas Augustas suteikė privilegiją, dėl kurios Akademijos spaustuvė turėjo karališkosios vardą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stanislovas Augustas suteikė privilegiją, dėl kurios Akademijos spaustuvė turėjo karališkosios vardą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi:
@@ -65,6 +66,7 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 - [[objektai/grupes/Prancūzijos steigiamasis susirinkimas]]
 - [[objektai/zodynas/dignitoriai]]
 - [[objektai/posakiai/„yra dar viena tauta Europoje“]]
+- [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
 - [[objektai/grupes/Saksų dinastija]]
 - [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]
 - [[objektai/paprociai/Privalomas naujai išspausdintų knygų egzempliorių davimas kancleriams ir Viešajai bibliotekai]]

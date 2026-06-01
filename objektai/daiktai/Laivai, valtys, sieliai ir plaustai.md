@@ -50,38 +50,34 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną.'
+  teiginys: 'Didysis magistras slapta iš Marienburgo išplaukė laivais Vysla, o per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.'
+  teiginys: 'Apie 880 metus iš Danijos išvaryti tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę.'
+  teiginys: 'Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd).'
+  teiginys: 'Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
   teiginys: 'Žemaičiai Memelyje sunaikino didelių ir mažų laivų, o kryžiuočių pilis išliko sveika.'
   pagrindžia:
     - c-003
 
-- t-006
-  teiginys: 'Prasidėjus Lietuvos ir Prūsijos prekybai, pirkliai į pirmąją kelionę leisdavosi sieliais.'
-  pagrindžia:
-    - c-005
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 880 metus iš Danijos išvaryti tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man vis dėlto atrodo,
@@ -109,6 +105,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Didysis magistras slapta iš Marienburgo išplaukė laivais Vysla, o per jūros įlanką įplaukė į Nemuną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
@@ -189,6 +186,7 @@ Nenurodyta
     - t-005
 
 - c-004
+  santrauka: 'Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors jau V amžiaus pabaigoje,
@@ -220,36 +218,7 @@ Nenurodyta
     - t-003
 
 - c-005
-  santrauka: 'Prasidėjus Lietuvos ir Prūsijos prekybai, pirkliai į pirmąją kelionę leisdavosi sieliais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    5
-    Žodį Vilija, jeigu jo kilmės imtume
-    ieškoti lietuvių kalboje, galima tarti
-    kilus nuo Wiloju [vilioju] - gundau,
-    arba nuo Wilius [vylius] - klasta, tad
-    tokiu atveju Vilija reikštų Vilioklė.
-    Gal dėl to, kad ta nuostabi upė vi­
-    liojo ir masino prie savo krantų vie­
-    nišus, klajojančius po gūdžias girias
-    senovės lietuvius ir jų vaidilas. Ar­
-    ba, priešingai, po vandeniu slypin­
-    čiais rifais klastingai prigaudavo pir­
-    16
-
-    ## Puslapis 33
-
-    I  KNYGA
-    klius, išdrįsusius, Lietuvai su Prūsi­
-    ja ėmus prekiauti, leistis į pirmąją
-    kelionę sieliais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-006
+  santrauka: 'Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7
@@ -288,10 +257,12 @@ Nenurodyta
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Anglai]]
 - [[objektai/autoriai/Benjaminas iš Tudelio]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/daiktai/Laivai Memelyje]]
 - [[objektai/daiktai/Memelio kryžiuočių pilis, apjuosta siena]]
 - [[objektai/daiktai/Mūro sienos]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/daiktai/Sieliai]]
 - [[objektai/daiktai/Valtys]]

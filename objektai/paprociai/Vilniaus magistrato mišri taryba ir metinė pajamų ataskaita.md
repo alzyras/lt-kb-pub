@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką.'
+  teiginys: '1536 m. Žygimantas Senasis nustatė, kad Vilniaus magistratą sudarytų po lygiai katalikų ir stačiatikių burmistrai bei tarybos nariai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1536 m. Žygimantas Senasis nustatė, kad Vilniaus magistratą sudarytų po lygiai katalikų ir stačiatikių burmistrai bei tarybos nariai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netvarka ir apsileidimas, įsitvirtinę miesto administra­
@@ -78,3 +79,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Senasis]]

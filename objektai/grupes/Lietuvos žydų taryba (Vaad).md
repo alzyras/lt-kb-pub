@@ -30,7 +30,7 @@ amziai:
 - t-002
   teiginys: 'Apskritai Lietuvos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje, žydai savanoriai dalyvavo nepriklausomybės kovose.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -50,22 +50,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
-    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
-    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją. Apskritai Lietu-
-    vos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje,
-    žydai savanoriai dalyvavo nepriklausomybės kovose. 1920 m. nacionali-
-    nėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-
-    ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
-    spręsti visus socialinius ir kultūrinius žydų reikalus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

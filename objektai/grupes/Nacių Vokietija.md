@@ -26,7 +26,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 ## Teiginiai
 
 - t-001
-  teiginys: 'Liepos 17-osios nutarimu iš Lietuvos, Latvijos, Estijos ir Gudijos sudarytas Rytų krašto, arba Ostlando, reicho komisariatas.'
+  teiginys: '1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą.'
   pagrindžia:
     - c-003
 
@@ -84,6 +84,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     - t-004
 
 - c-003
+  santrauka: '1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ištremtųjų

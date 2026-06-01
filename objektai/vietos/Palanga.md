@@ -35,7 +35,7 @@ amziai:
 - t-002
   teiginys: 'Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -53,23 +53,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Teoretiškai
-    jos buvo siekusios Žemaičių valdžioje esančių Minijos aukštupių.
-    Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo
-    Palangos iki Kuršo Šventosios. Bet tas siaurutis žemės lopelis —
-    Žemaičių žemės kylio pats smaigalys — negailestingai skėlė vokie­
-    čių ordino valstybę į dvi dalis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

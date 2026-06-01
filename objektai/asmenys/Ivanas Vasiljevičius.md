@@ -20,7 +20,7 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 ## Teiginiai
 
 - t-001
-  teiginys: 'Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Vasiljevičiaus užmačių.'
+  teiginys: 'Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Toks didžio­

@@ -58,7 +58,7 @@ Mokslinė ir kultūros institucija.
     - c-001
 
 - t-003
-  teiginys: 'Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė institucija, sutelkusi krašto visuomenę.'
+  teiginys: 'Eustachijaus Tiškevičiaus iniciatyva įkurtas Vilniaus Senienų muziejus sutelkė krašto visuomenę.'
   pagrindžia:
     - c-002
 
@@ -81,6 +81,7 @@ Mokslinė ir kultūros institucija.
     - t-002
 
 - c-002
+  santrauka: 'Eustachijaus Tiškevičiaus iniciatyva įkurtas Vilniaus Senienų muziejus sutelkė krašto visuomenę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­

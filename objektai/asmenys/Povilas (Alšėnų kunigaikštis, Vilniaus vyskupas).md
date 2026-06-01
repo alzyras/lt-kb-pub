@@ -29,19 +29,19 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi mes jo teisėtam prašymui pritardami ir, norėdami sustiprinti Die­ vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­ riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­ čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje.'
+  teiginys: 'Povilui ir jo įpėdiniams leista Vilniaus bažnyčios teritorijoje įrengti mėsininkų krautuves ir jas nuomoti.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Ir nors ponas vyskupas pagal savo pareigas ir valdžią, mūsų pirmtakų ir mūsų suteiktą, rem­ damasis kanonine teise ir mūsų duotais raštais, pats turėjo tei­ sę šį eretiką nubausti, tačiau, gerbdamas mūsų autoritetą ir ma­ tydamas mus esant šioje.'
+  teiginys: 'Vilniaus vyskupas Povilas turėjo teisę nubausti eretiką, bet prieš egzekuciją nusprendė apie bylą pranešti valdovui.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
+  teiginys: 'Povilas ginčijosi su Vilniaus vaitu, tarėjais ir miestiečių bendrija dėl turguje bei miesto aikštėje buvusių mėsinių.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-004
   teiginys: '1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.'
@@ -49,33 +49,29 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     - c-002
 
 - t-005
-  teiginys: 'Duota Vilniuje, penktadienį, rytojaus dieną po Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai keturiasdešimt antraisiais Viešpaties metais ir mūsų kara­ lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­ dešimt šeštaisiais.'
+  teiginys: 'Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-006
   teiginys: '14 Šios koplyčios fundacijos akte, 1543 metais išleistame to paties vyskupo (žr.'
   pagrindžia:
-    - c-006
-
-- t-007
-  teiginys: 'Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų...................'
-  pagrindžia:
     - c-005
 
-- t-008
-  teiginys: 'Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­ vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­ tydino nedidukę oratoriją, arba koplyčią14.'
+- t-007
+  teiginys: 'Vilniaus vyskupas Povilas savo sode pastatydino nedidelę Šv. Kryžiaus oratoriją vietoje, kur buvo palaidoti pranciškonai kankiniai.'
   pagrindžia:
     - c-003
 
-- t-009
+- t-008
   teiginys: 'Vilniaus vyskupas Povilas sustabdė karalių ir privertė jį atsisakyti ketinimo eiti kitur, nukreipdamas į katalikų katedrą.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Povilui ir jo įpėdiniams leista Vilniaus bažnyčios teritorijoje įrengti mėsininkų krautuves ir jas nuomoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi mes jo
@@ -131,6 +127,7 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     - t-004
 
 - c-003
+  santrauka: 'Vilniaus vyskupas Povilas savo sode pastatydino nedidelę Šv. Kryžiaus oratoriją vietoje, kur buvo palaidoti pranciškonai kankiniai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojaus bažnyčią. O po dvi­
@@ -145,9 +142,10 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-004
+  santrauka: 'Vilniaus vyskupas Povilas turėjo teisę nubausti eretiką, bet prieš egzekuciją nusprendė apie bylą pranešti valdovui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ubi
@@ -188,20 +186,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Dalyvaujant didžiai
-    gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­
-    kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­
-    pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus
-    ................Jonui, Jurgiui Astikaičiui, Trakų...................
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
     3.
     14
     Šios koplyčios fundacijos akte, 1543
@@ -221,7 +205,7 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   pagrindžia:
     - t-006
 
-- c-007
+- c-006
   santrauka: 'Vilniaus vyskupas Povilas sustabdė karalių ir privertė jį atsisakyti ketinimo eiti kitur, nukreipdamas į katalikų katedrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -239,9 +223,10 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-008
+- c-007
+  santrauka: 'Povilas ginčijosi su Vilniaus vaitu, tarėjais ir miestiečių bendrija dėl turguje bei miesto aikštėje buvusių mėsinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skelbiame visiems ir
@@ -267,7 +252,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   pagrindžia:
     - t-003
 
-- c-009
+- c-008
+  santrauka: 'Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota Vilniuje, penktadienį, rytojaus dieną po
@@ -363,6 +349,5 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.)]]
 - [[objektai/ivykiai/Žygimanto privilegijos mėsinėms Vilniaus mieste suteikimas (1543 m.)]]
-- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/zodynas/jurisdikcija]]

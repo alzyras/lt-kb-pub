@@ -27,18 +27,19 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pavyzdžiui, abatai iš Olivos ir Pelplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­ mus per presentes, eundem prefatum regem quasdam per piures mundi partes litteras direxisse, in quibus se cum suis et toto Reg­ no asseruit baptizari et conjungi.'
+  teiginys: '1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus, kuriuose jis teigė norįs krikštytis.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: '1), kurį magistras Fridrichas fon Vildenbergas Meve 1324 m., daly­ vaujant Pelplino abatui Jordanui, liepė parengti, yra Slapt.'
+  teiginys: '1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus, kuriuose jis teigė norįs krikštytis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2) Kurį laiką buvo manoma, kad Gediminas
@@ -60,6 +61,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: '1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mažesniųjų brolių laiškas, rašytas in

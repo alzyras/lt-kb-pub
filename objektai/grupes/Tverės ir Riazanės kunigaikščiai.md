@@ -64,6 +64,7 @@ Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiau
 - [[objektai/grupes/Mazovijos kunigaikščiai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]

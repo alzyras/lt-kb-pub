@@ -20,13 +20,14 @@ Tuo tarpu Vykintas, Tautvilas ir Erdvilas su savo jėgomis apsupo Mindaugą jo p
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo tarpu Vykintas, Tautvilas ir Erdvilas su savo jėgomis apsupo Mindaugą jo pilyje, kurią kronikos vadina Voruta.'
+  teiginys: 'Kronikose Voruta vadinta Mindaugo pilimi, kurią apsupo Vykintas, Tautvilas ir Erdvilas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kronikose Voruta vadinta Mindaugo pilimi, kurią apsupo Vykintas, Tautvilas ir Erdvilas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet už-

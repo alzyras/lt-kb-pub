@@ -41,14 +41,9 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
     - c-003
 
 - t-003
-  teiginys: 'K. Lohmeyer šiame šaltinyje minimas kaip vokiečių istorikas, Brockhauzo enciklopedijos straipsnyje „Litauen“ itin aukštai vertinęs Vytautą.'
+  teiginys: 'Karl Lohmeyer Brockhauzo enciklopedijos straipsnyje „Litauen“ Vytautą vadino vienu žymiausių vyrų pasaulio istorijoje.'
   pagrindžia:
     - c-002
-
-- t-004
-  teiginys: 'Lohmeyer, Brockhau­ zo enciklop., Litauen) sako, kad jis buvo ir vienas žymiausiųjų vyrų viso pasaulio istorijoje.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -64,6 +59,7 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
     - t-001
 
 - c-002
+  santrauka: 'Karl Lohmeyer Brockhauzo enciklopedijos straipsnyje „Litauen“ Vytautą vadino vienu žymiausių vyrų pasaulio istorijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi Vytautas buvo žymus asmuo visoje
@@ -75,6 +71,7 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -87,20 +84,3 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taigi Vytautas buvo žymus asmuo visoje
-    Europoje. Vienas vokiečiu istorikas (K. Lohmeyer, Brockhau­
-    zo enciklop., Litauen) sako, kad jis buvo ir vienas žymiausiųjų
-    vyrų viso pasaulio istorijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

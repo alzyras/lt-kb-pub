@@ -47,14 +47,9 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     - c-002
 
 - t-003
-  teiginys: 'Hanka 1385 m. Jogailos laiške buvo įvardytas kaip Hanko Capitaneus Vilnensis, tai yra Vilniaus seniūnas.'
-  pagrindžia:
-    - c-003
-
-- t-004
   teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro jau minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis, kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį, galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -103,26 +98,6 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     - t-002
 
 - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Hanulas tasai, keletą kartu paminė­
-    tas ano meto Lietuvos istorijos įvv-
-    kiuose, iš tikrųjų buvo vardu Han­
-    ka, nes Vladislovo Jogailos auten­
-    tiškame laiške: Datum in Krewferia
-    2da in vigilia assumptionis B . M. 1385
-    [Duota Krėvoje, pirmadienį Švč. Mer­
-    gelės Ėmimo į dangų išvakarėse,
-    1385], yra taip vadinamas: Hanko Ca-
-    pitaneus Vilnensis [Hanka - Vilniaus
-    seniūnas].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     75).
@@ -139,7 +114,7 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -173,3 +148,5 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
 - [[objektai/zodynas/Pilininkas capitaneus seniūnas]]
+- [[objektai/grupes/Rusų pirkliai]]
+- [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]

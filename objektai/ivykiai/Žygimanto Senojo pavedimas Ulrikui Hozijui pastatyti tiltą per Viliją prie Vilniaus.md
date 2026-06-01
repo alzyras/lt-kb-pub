@@ -36,13 +36,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
+  teiginys: 'Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai mes ankstesniais metais svarstėme mūsų LDK val­
@@ -93,3 +94,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Druska]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Senasis]]

@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­ lio; apie pastarąjį mūšį užsimena Strijkovskis.'
+  teiginys: 'Pilaitės dvaro lankose prie Sudervėlės upelio dunksojo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pilaitės dvaro lankose prie Sudervėlės upelio dunksojo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo neat­

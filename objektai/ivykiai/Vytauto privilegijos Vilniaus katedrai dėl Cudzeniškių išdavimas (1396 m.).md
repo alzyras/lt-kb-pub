@@ -44,13 +44,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466.'
+  teiginys: '1396 m. Vilniuje rašyta privilegija Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą prie Medininkų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1396 m. Vilniuje rašyta privilegija Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą prie Medininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų

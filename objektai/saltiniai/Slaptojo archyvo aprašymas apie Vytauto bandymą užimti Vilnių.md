@@ -17,13 +17,14 @@ Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojim�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojimą perteikėme pa­ gal vieną aprašymą, kuris yra S1 a p t.'
+  teiginys: 'Slaptojo archyvo aprašyme Vytautui priskirtas ketinimas ištekinti dukterį Sofiją už Mazovijos didžiojo kunigaikščio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Slaptojo archyvo aprašyme Vytautui priskirtas ketinimas ištekinti dukterį Sofiją už Mazovijos didžiojo kunigaikščio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, žlugus viltims, vėl buvo priverstas ieškoti

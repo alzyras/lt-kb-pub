@@ -40,18 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tie patys metraštinin­ kai pasakoja, kad 300 vežimų, įvai­ rios žvėrienos prikrauti, atvažiavę į miestą ir kad Vytauto bajorai suva­ žiavę į miestą iš įvairių pusių, bet vienas jų, matyt, išdavęs paslaptį, o apie Sudimantą nėra užsiminta.'
+  teiginys: 'Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Tuo tikslu paskleidęs gandą, esą turįs at­ vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­ kluotų žmonių būrį.'
+  teiginys: 'Vytautas į Vilnių pirmiausia pasiuntė daug dengtų rogių su atsargomis ir jose paslėptais ginkluotais žmonėmis.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogaila tam pasipriešino,
@@ -73,6 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Vytautas į Vilnių pirmiausia pasiuntė daug dengtų rogių su atsargomis ir jose paslėptais ginkluotais žmonėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -106,5 +108,5 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/kapitula]]
-- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
+- [[objektai/daiktai/Vežimai]]
 - [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]

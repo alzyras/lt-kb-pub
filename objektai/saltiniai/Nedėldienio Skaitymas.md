@@ -19,18 +19,19 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tų pačių metų pabaigoje Vilniuje pradėjo eiti „Lietuvos Ūkininkas", o kitais metais ten pat pradėjo eiti „Naujoji Gadynė", Seinuose „Šaltinis", o Kaune „Nedėldienio Skaitymas".'
+  teiginys: 'Kitais metais Kaune pradėjo eiti „Nedėldienio Skaitymas“.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado „Vienybė" ir „Draugija").'
+  teiginys: 'Šv. Kazimiero draugija leido „Nedėldienio Skaitymą“, iš kurio vėliau atsirado „Vienybė“ ir „Draugija“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šv. Kazimiero draugija leido „Nedėldienio Skaitymą“, iš kurio vėliau atsirado „Vienybė“ ir „Draugija“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     įkurta Šv. Kazimiero Draugija knygoms ir laikraš-
@@ -46,6 +47,7 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
     - t-002
 
 - c-002
+  santrauka: 'Kitais metais Kaune pradėjo eiti „Nedėldienio Skaitymas“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis ėjo Petrapily, o antrieji du Vilniuje. Tų

@@ -43,7 +43,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie jo vainikavimą Achene 1309 viešpaties metais šį išrinktąjį vainikavo Achene per tris karalius sausio 6 dieną (Mart.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -56,17 +55,6 @@ Nenurodyta
     (Mart. p. 444; Ptol. loc. cit.).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1309 viešpaties metais šį išrinktąjį vainikavo Achene per tris karalius sausio 6 dieną
-    (Mart. p. 444; Ptol. loc. cit.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

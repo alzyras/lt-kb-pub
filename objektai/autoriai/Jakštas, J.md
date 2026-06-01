@@ -20,32 +20,32 @@ Jakštas, J.
 - t-001
   teiginys: 'J. Jakštas parašė „Naujausi Gedimino dinastijos kilmės tyrinėjimai“ ir su I. Jonynu paskelbė straipsnį „Gediminas“.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-002
   teiginys: 'J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-003
   teiginys: 'J. Jakštas 1960 m. paskelbė straipsnį „Dlugošas apie Žalgirio mūšį“.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-004
   teiginys: 'J. Jakštas paskelbė studiją apie Vokiečių ordiną ir Lietuvą Vytenio bei Gedimino laikais ir nagrinėjo Jogailos bei Vytauto kovas su Ordinu.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-005
   teiginys: 'J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-006
   teiginys: 'J. Jakštas paskelbė darbus „Dlugošas apie Žalgirio mūšį“ ir „Žalgirio mūšis“.'
   pagrindžia:
-    - c-005
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -62,6 +62,7 @@ Jakštas, J.
   statusas: verified
   pagrindžia:
     - t-006
+    - t-003
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -110,20 +111,6 @@ Jakštas, J.
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Jakštas, J. : _Dlugošas apie Žalgirio
-    mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,
-    158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
-    mūšis,_ rinkiny : LKaKr, 1964. — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-
-    Grunwald) 15 July 1410,_ Chicago 1961.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

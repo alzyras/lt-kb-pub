@@ -47,7 +47,7 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai, pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų.'
   pagrindžia:
-    - c-007
+    - c-008
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis 373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos punkto, svarbą Ordinui.'
@@ -55,7 +55,7 @@ Nenurodyta
     - c-005
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
+  teiginys: 'Per Karaliaučiaus apgultį broliai po kovos išardė ir sunaikino prūsų pastatytą tiltą per Prieglių bei jo kuorus.'
   pagrindžia:
     - c-001
 
@@ -70,7 +70,7 @@ Nenurodyta
     - c-003
 
 - t-006
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­ lojaus kalvoje Aplink parapinę švento Mikalojaus bažnyčią, ant kalvos prie Karaliaučiaus pilies, broliai buvo įkūrę miestą376; kadangi jis nebuvo deramai sutvirtintas, sembai.'
+  teiginys: 'Sembai netikėtai užpuolė prie Karaliaučiaus pilies įkurtą miestą, jį sugriovė, o dalį žmonių paėmė į nelaisvę arba išžudė.'
   pagrindžia:
     - c-004
 
@@ -82,6 +82,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Karaliaučiaus apgultį broliai po kovos išardė ir sunaikino prūsų pastatytą tiltą per Prieglių bei jo kuorus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
@@ -137,6 +138,7 @@ Nenurodyta
     - t-005
 
 - c-004
+  santrauka: 'Sembai netikėtai užpuolė prie Karaliaučiaus pilies įkurtą miestą, jį sugriovė, o dalį žmonių paėmė į nelaisvę arba išžudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­
@@ -196,27 +198,6 @@ Nenurodyta
     - t-004
 
 - c-007
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai,
-    pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius
-    maistą  į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų. Susirūpinę šiuo reikalu,
-    broliai bei komtūras slapta pasiuntė vieną vyrą, kuris, kartą pragręžęs šiuos laivus grąžtu,
-    taip dažnai šitai kartojo, kad priešai, nukamuoti didelių įstangų ir išlaidų, turėjo liautis
-    puldinėję brolių laivus, kurių nemaža jau buvo sunaikinę, o įgulas paėmę nelaisvėn ir
-    išžudę.
-
-
-
-
-        103 (98).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-008
   santrauka: 'Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos tu globoji.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -238,7 +219,7 @@ Nenurodyta
   pagrindžia:
     - t-008
 
-- c-009
+- c-008
   santrauka: 'Dusburgietis teigia, kad matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai, pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -256,6 +237,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-009
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -265,7 +247,6 @@ Nenurodyta
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/posakiai/Eime, sakė, išnaikinsime juos]]
 - [[objektai/paprociai/Karaliaučiaus pilies blokada kuorais, laivais ir tiltu|Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)]]
 - [[objektai/daiktai/Tiltas per Prieglių]]
 - [[objektai/zodynas/kuoras propugnaculum pilaitė]]

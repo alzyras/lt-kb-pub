@@ -64,7 +64,7 @@ Nenurodyta
 - t-004
   teiginys: 'Algirdas prie Maskvos pasirodė su savo pajėgomis, išskleidęs vėliavas.'
   pagrindžia:
-    - c-019
+    - c-013
 
 - t-005
   teiginys: 'Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.'
@@ -107,9 +107,9 @@ Nenurodyta
     - c-016
 
 - t-013
-  teiginys: 'Kiekvienas rite­ ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
+  teiginys: 'Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti.'
   pagrindžia:
-    - c-020
+    - c-017
 
 - t-014
   teiginys: 'Vyriausioji Lenkijos vėliava pateko į priešų rankas.'
@@ -119,12 +119,12 @@ Nenurodyta
 - t-015
   teiginys: 'Lenkai patyrė didelį spaudimą tiek centre, tiek dešinėje, neatlaikiusi spaudimo net krito didžioji Krokuvos vėliava.'
   pagrindžia:
-    - c-018
+    - c-008
 
 - t-016
   teiginys: 'Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės vadovybė atiteko Vytautui.'
   pagrindžia:
-    - c-017
+    - c-006
 
 - t-017
   teiginys: '1410 m. rudenį Transilvanijos vaivada puolė Lenkiją su 10 vėliavų.'
@@ -139,7 +139,7 @@ Nenurodyta
 - t-019
   teiginys: 'Šis karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.'
   pagrindžia:
-    - c-021
+    - c-018
 
 - t-020
   teiginys: 'Pridengę jų kraštines pozicijas trimis Smolensko vėliavomis, lietuviai pradėjo manevrą atsitraukdami.'
@@ -236,6 +236,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-008
+    - t-016
 
 - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -269,6 +270,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-006
+    - t-015
 
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -352,6 +354,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-021
+    - t-004
 
 - c-014
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -400,53 +403,7 @@ Nenurodyta
     - t-012
 
 - c-017
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada karalius lenkų kariuomenės ve­
-    dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.
-    Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
-    vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
-    vadovybė atiteko Vytautui.
-    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
-    niku.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-018
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    kariuomenę iš lenkų dešinės ir juos ap-
-    supti. Lenkai patyrė didelį spaudimą tiek
-    centre, tiek dešinėje, neatlaikiusi spau-
-    dimo net krito didžioji Krokuvos vėliava.
-    Kryžiuočiai, pamanę, jog mūšis laimė-
-    tas, užtraukė pergalės giesmę „Kristus
-    prisikėlė“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-015
-
-- c-019
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kai ryte po pamaldų „Maskvos kuni-
-    gaikštis su bajorais ir su kunigaikščiais
-    išeina iš cerkvės, Algirdas su visomis savo
-    pajėgomis, išskleidęs savo vėliavas, pasi-
-    rodė ant Pasveikinimo kalno (Paklonaja
-    gara)“ prie Maskvos. Maskvos didysis
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-020
+  santrauka: 'Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Riteriai kovose, bendrai, būdavo mažai varžomi,
@@ -461,7 +418,7 @@ Nenurodyta
   pagrindžia:
     - t-013
 
-- c-021
+- c-018
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagal istorinę tradiciją Vytautas
@@ -480,7 +437,7 @@ Nenurodyta
   pagrindžia:
     - t-019
 
-- c-022
+- c-019
   santrauka: 'Vyriausioji Lenkijos vėliava pateko į priešų rankas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -550,6 +507,7 @@ Nenurodyta
 - [[objektai/grupes/ojo fuzilierių regimento]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Jeronimas]]
 - [[objektai/asmenys/Jonas Lonei]]
 - [[objektai/daiktai/Riterių vėliava]]
 - [[objektai/grupes/Smolenskiečiai]]

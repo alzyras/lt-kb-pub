@@ -29,7 +29,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 ## Teiginiai
 
 - t-001
-  teiginys: 'Beveik tuo pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką Dievui už puikią savo pergalę, ant kalvelės, netoli Medinin­ kų vartų, pastatė mūrinę Švč.'
+  teiginys: 'Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę ir įkurdino bazilijonus.'
   pagrindžia:
     - c-001
 
@@ -41,6 +41,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę ir įkurdino bazilijonus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Beveik tuo

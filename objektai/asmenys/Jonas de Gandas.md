@@ -26,13 +26,14 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu Ričardas II, ir prie Vilniaus bu­ vojo ne kas kitas, tik Henrikas Lan­ kasteris, pirm Derbio grafas, vėliau žinomas kunigaikščio Herfordo var­ du, Jono de Gando, Lankasterio ku­.'
+  teiginys: 'Jonas de Gandas buvo Lankasterio kunigaikštis, Ričardo II dėdė ir Henriko Lankasterio tėvas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas de Gandas buvo Lankasterio kunigaikštis, Ričardo II dėdė ir Henriko Lankasterio tėvas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis apsirinka nurody­
@@ -65,5 +66,6 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/asmenys/Ričardas (Kornvalijos grafas)]]
 - [[objektai/grupes/Škotai]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Henrikas Lankasteris]]
 - [[objektai/asmenys/Ričardas II]]

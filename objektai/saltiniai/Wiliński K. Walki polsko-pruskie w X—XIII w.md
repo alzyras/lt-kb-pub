@@ -23,13 +23,14 @@ Dusburgietis teigia, kad wiliński K.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad wiliński K.'
+  teiginys: 'K. Wilińskio straipsnis apie lenkų ir prūsų kovas X-XIII a. paskelbtas 1984 m. Lodzės universiteto istorijos leidinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. Wilińskio straipsnis apie lenkų ir prūsų kovas X-XIII a. paskelbtas 1984 m. Lodzės universiteto istorijos leidinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Wiliński K. Walki polsko-pruskie w X—XIII w.—Acta universitatis Lodziensis: Folia

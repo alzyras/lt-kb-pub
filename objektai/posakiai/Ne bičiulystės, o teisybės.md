@@ -28,13 +28,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Zigmantas vikriai teisinosi, jog jis sprendimą daręs žiūrėdamas ne bičiulystės, o teisybės.'
+  teiginys: 'Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas rašė, jog kol jis gyvas busiąs, o taip pat ir jo
@@ -56,4 +57,4 @@ amziai:
 
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

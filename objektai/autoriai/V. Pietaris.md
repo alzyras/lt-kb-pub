@@ -17,13 +17,14 @@ Pietaro.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pietaro.'
+  teiginys: 'V. Pietaris parašė „Lapės gyvenimą ir mirtį“, vadinamą originaliu vaikų literatūros šedevru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Pietaris parašė „Lapės gyvenimą ir mirtį“, vadinamą originaliu vaikų literatūros šedevru.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     26. V. Pietaro. LAPĖS GYVENIMAS IR MIRTIS. (Pagal senų žmo­

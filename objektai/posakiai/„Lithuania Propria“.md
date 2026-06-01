@@ -27,7 +27,7 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
 ## Teiginiai
 
 - t-001
-  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 129 Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ (Paryžius, 1920)) L I E T U V O S I S T O R I J A 130 KOVA DĖL.'
+  teiginys: '„Lituania Propria“ žemėlapyje rodė teritoriją, apie kurią lietuviai svajojo Lietuvos valstybės atkūrimo laikotarpiu.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
     - t-002
 
 - c-002
+  santrauka: '„Lituania Propria“ žemėlapyje rodė teritoriją, apie kurią lietuviai svajojo Lietuvos valstybės atkūrimo laikotarpiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad [Powierski J.] Nadrowia.— SSS, Wrocław—Warszawa—
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad [Powierski J.] Nadrowia.— SSS, Wrocław—Warszawa—Kraków, 1968, t.'
+  teiginys: 'J. Powierskio straipsnis „Nadrowia“ publikuotas SSS 1968 m. 3 tomo 2 dalyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio straipsnis „Nadrowia“ publikuotas SSS 1968 m. 3 tomo 2 dalyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [Powierski J.] Nadrowia.— SSS, Wrocław—Warszawa—Kraków, 1968, t. 3, cz. 2, s.

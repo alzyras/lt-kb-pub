@@ -47,6 +47,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/MINTIS]]
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Žygimantas]]

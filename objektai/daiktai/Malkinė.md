@@ -77,6 +77,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Brutenis]]
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
 - [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]

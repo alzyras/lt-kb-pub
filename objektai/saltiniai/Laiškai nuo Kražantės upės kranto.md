@@ -30,7 +30,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     - c-001
 
 - t-003
-  teiginys: 'Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­ tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultūrinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.'
+  teiginys: '„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį ir kultūrinį pagyvėjimą Lenkijoje bei Lietuvoje.'
   pagrindžia:
     - c-003
 
@@ -79,6 +79,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     - t-001
 
 - c-003
+  santrauka: '„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį ir kultūrinį pagyvėjimą Lenkijoje bei Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­

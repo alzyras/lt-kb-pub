@@ -50,12 +50,12 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: 'Senoviniai lietuvių papročiai ir teisėjų sąžiningumas gyventojams atstojo teisės normas ir vėliau parašytus įstatymus.'
+  teiginys: 'Vilniaus kilimo pradžioje pilininkai valdė miestą ir teisminę priežiūrą vykdė su bendruomenės parinktu seniūnu.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Vilnius, Gedimino dėka nuo mažos gyvenvie­ tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos karalystės sostine.'
+  teiginys: 'Gedimino dėka Vilnius iš mažos gyvenvietės iškilo iki miesto ir tapo Lietuvos sostine.'
   pagrindžia:
     - c-003
 
@@ -110,6 +110,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Gedimino dėka Vilnius iš mažos gyvenvietės iškilo iki miesto ir tapo Lietuvos sostine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilnius, Gedimino dėka nuo mažos gyvenvie­

@@ -39,7 +39,3 @@ Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir neb
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Naujasis klasikas ir prepozityvistai]]

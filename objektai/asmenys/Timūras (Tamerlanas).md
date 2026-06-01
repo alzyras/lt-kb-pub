@@ -54,7 +54,6 @@ pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
 - [[objektai/asmenys/Jagurčinas]]

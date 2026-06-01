@@ -19,13 +19,14 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio „karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.'
+  teiginys: 'Antrojo prūsų sukilimo karai aprašyti ne visada chronologine seka, nes daugelio įvykių laikas išblėso iš gyvųjų atminties.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Antrojo prūsų sukilimo karai aprašyti ne visada chronologine seka, nes daugelio įvykių laikas išblėso iš gyvųjų atminties.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pastarojo

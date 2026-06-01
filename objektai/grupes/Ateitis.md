@@ -158,7 +158,6 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
 - [[objektai/asmenys/Zemovitas]]
 - [[objektai/zodynas/bažnyčios visuotinybė]]
 - [[objektai/zodynas/ekskomunikacija ekskomunika]]
-- [[objektai/zodynas/etnocidas]]
 - [[objektai/zodynas/homo sovieticus]]
 - [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
 - [[objektai/zodynas/monopolis privati prekyba]]
@@ -177,3 +176,4 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
 - [[objektai/posakiai/„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“|„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“ (institucija)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]
+- [[objektai/asmenys/Skirgaila]]

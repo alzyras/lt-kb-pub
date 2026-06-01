@@ -73,6 +73,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -98,25 +99,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie didelį krikščionių kraujo praliejimą Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    90 (85). Apie didelį krikščionių kraujo praliejimą
-
-      Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
-    išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti. Jie šitai
-    ir padarė, nes visus krikščionis, kurie nespėjo Prūsijos žemėje pasislėpti už įtvirtinimų,
-    arba be gailesčio išžudė, arba išsivarė į amžinąją vergovę; degindami dievo bažnyčias,
-    koplyčias  ir kitus maldos namus, niekindami bažnyčios šventenybes, neleistiniems
-    tikslams pavartodami šventus rūbus ir šventas taures, jie be pasigailėjimo žudė kunigus
-    bei kitus bažnyčios tarnus.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -40,21 +40,16 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     - c-005
 
 - t-003
-  teiginys: 'Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­ tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo paklusti Lietuvos valdovui, ir Vytautas didžiosios.'
-  pagrindžia:
-    - c-006
-
-- t-004
   teiginys: 'Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 400 pavienių lenkų riterių, tokių kaip Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas bei kiti.'
   pagrindžia:
     - c-002
 
-- t-005
+- t-004
   teiginys: '1419 m. Vytautas Vilniaus pilyje didžiosios ordos chanu paskelbė Tochtamišo giminaitį Betsabutą.'
   pagrindžia:
     - c-004
 
-- t-006
+- t-005
   teiginys: 'Tochtamišas iš pradžių buvo Timuro globojamas, o 1391 m. buvo jo sumuštas.'
   pagrindžia:
     - c-003
@@ -92,7 +87,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -105,7 +100,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -134,7 +129,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -157,42 +152,12 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   pagrindžia:
     - t-002
 
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau Vilniaus vyskupas Petras tam
-    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
-    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
-    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
-    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
-    ti, ir kuris palaimino tą santuoką.
-    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
-    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
-    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
-    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
-    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
-    daugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­
-    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
-    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
-    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
-    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
-    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
-    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
-    73 nė Ona mirė Trakuose, o palaidota
-    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos jungtinės pajėgos]]
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
-- [[objektai/daiktai/Šarvinės pirštinės]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/asmenys/Janas Kropidła]]
@@ -216,3 +181,4 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - [[objektai/grupes/Totorių pajėgos]]
 - [[objektai/zodynas/emyras]]
 - [[objektai/grupes/Aukso orda]]
+- [[objektai/daiktai/Tochtamišo jarlykas]]

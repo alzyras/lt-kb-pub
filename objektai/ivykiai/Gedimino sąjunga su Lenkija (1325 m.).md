@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dar didesnis garsas apie Vilnių pasklido 1325 me­ tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­ ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­ nu, išvaduota 20 000.'
+  teiginys: '1325 m. Vilniuje Gediminas sudarė sutartį su Lokietka dėl bendros kovos su Prūsijos ordinu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1325 m. Vilniuje Gediminas sudarė sutartį su Lokietka dėl bendros kovos su Prūsijos ordinu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmąjį Vilniaus paminėjimą, pirmą autentišką
@@ -81,3 +82,4 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Lokietka]]

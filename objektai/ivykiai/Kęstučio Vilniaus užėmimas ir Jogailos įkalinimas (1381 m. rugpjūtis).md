@@ -43,18 +43,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šitą įvvkdes, pats vedinas tūkstančiu rinktinių raitelių ūmai at­ puolė iš Trakų į Vilnių ir, stojęs kar­ tu su paslėptais mieste kariais, ap­ supęs Žemutinę pilį, sučiupo patį Jogailą su motina ir seserimi Marija bei jos vyru.'
+  teiginys: 'Kęstutis iš Trakų atžygiavo į Vilnių, apsupo Žemutinę pilį ir sučiupo Jogailą su motina, seserimi Marija bei jos vyru.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dėl to sudarė slaptą, be Kęstučio žinios, sutartį su Livoni­ jos magistru, kad anas padėtų jam vykdyti tuos kėslus.'
+  teiginys: 'Jogaila be Kęstučio žinios sudarė slaptą sutartį su Livonijos magistru, kad šis padėtų vykdyti jo užmačias.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kęstutis iš Trakų atžygiavo į Vilnių, apsupo Žemutinę pilį ir sučiupo Jogailą su motina, seserimi Marija bei jos vyru.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis, 1.465, o juo sekda­
@@ -84,6 +85,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Jogaila be Kęstučio žinios sudarė slaptą sutartį su Livonijos magistru, kad šis padėtų vykdyti jo užmačias.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dėl to sudarė slaptą, be

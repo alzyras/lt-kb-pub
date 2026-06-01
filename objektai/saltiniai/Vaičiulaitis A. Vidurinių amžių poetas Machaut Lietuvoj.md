@@ -24,13 +24,14 @@ Dusburgietis teigia, kad vaičiulaitis A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vaičiulaitis A.'
+  teiginys: 'A. Vaičiulaičio „Vidurinių amžių poetas Machaut Lietuvoj“ paskelbta 1940 m. Kaune išleistų „Suvažiavimo darbų“ trečiame tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Vaičiulaičio „Vidurinių amžių poetas Machaut Lietuvoj“ paskelbta 1940 m. Kaune išleistų „Suvažiavimo darbų“ trečiame tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,

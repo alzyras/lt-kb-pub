@@ -49,50 +49,36 @@ Nenurodyta
 - t-001
   teiginys: 'Užimant Grupė Lietuvos partizanų 1947 m.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-003
-  teiginys: 'Nors partizaninis karas, kovojant vienų vieniems, ir pralaimėtas, jo reikšmė didelė.'
+  teiginys: '1944–1953 m. MGB organai sunaikino 2 353 Lietuvos partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-004
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
   pagrindžia:
-    - c-001
+    - c-004
 
 - t-005
   teiginys: 'Pereita prie įprasto partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir šnipų naikinimo.'
   pagrindžia:
-    - c-004
+    - c-006
 
 - t-006
   teiginys: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau prieš tai vyko kruvina kova.
-    Karas po karo – ginkluota rezistencija
-    Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
-    lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
-    dėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagalbos iš užsienio tikėtis nebuvo
@@ -107,7 +93,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Partizanai
@@ -125,21 +111,8 @@ Nenurodyta
   pagrindžia:
     - t-006
 
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Būriuose nebeliko romantikų ir atsitiktinių kovotojų, o tik
-    apsisprendę kautis iki galo žmonės. Daugybė aukų, persekiojimai suar-
-    dė būrių ir apygardų ryšius, silpnėjo būrių kontrolė. Pereita prie įprasto
-    partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir
-    šnipų naikinimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
+- c-003
+  santrauka: '1944–1953 m. MGB organai sunaikino 2 353 Lietuvos partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visuotinį šio karo mastą rodo okupantų baudžiamųjų ak-
@@ -157,7 +130,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-006
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau prieš tai vyko kruvina kova.
@@ -177,8 +150,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
-- c-007
+- c-005
   santrauka: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -196,7 +170,7 @@ Nenurodyta
   pagrindžia:
     - t-007
 
-- c-008
+- c-006
   santrauka: 'Pereita prie įprasto partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir šnipų naikinimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -215,6 +189,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-008
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -225,4 +200,3 @@ Nenurodyta
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
-- [[objektai/posakiai/„karas po karo“]]

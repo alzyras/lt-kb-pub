@@ -34,94 +34,43 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - t-001
   teiginys: 'Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
-  teiginys: 'T. Korsakas vadinamas Gegužės trečiosios konstitucijos pataisos autoriumi.'
+  teiginys: 'Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-003
   teiginys: 'T. Korsakas žuvo ginant Varšuvą.'
   pagrindžia:
-    - c-004
-
-- t-004
-  teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
-  pagrindžia:
     - c-001
 
 - t-005
-  teiginys: 'Korsakas.'
+  teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Remiantis šiuo
-    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
-    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
-    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
-    turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
-    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
-    Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
+    Vasarą rusų ir prūsų kariuomenės per-
+    ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
+    Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
+    gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
+    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
+    T. Korsakas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vasarą rusų ir prūsų kariuomenės per-
-    ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
-    Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
-    gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
-    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
-    T. Korsakas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
-    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Remiantis šiuo
-    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
-    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
-    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
-    turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
-    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vasarą rusų ir prūsų kariuomenės per-
-    ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
-    Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
-    gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
-    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
-    T. Korsakas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
     - t-003
 
-- c-005
+- c-002
   santrauka: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -139,7 +88,8 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -152,9 +102,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Sapiegos]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
-- [[objektai/grupes/Kariuomenės ir Iždo komisijos]]
 - [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]

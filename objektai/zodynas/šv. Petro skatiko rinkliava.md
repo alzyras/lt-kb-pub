@@ -20,13 +20,14 @@ Petro skatiko rinkliavų, arba su Rygos arki­ vyskupu, turint omenyje senus jo 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Petro skatiko rinkliavų, arba su Rygos arki­ vyskupu, turint omenyje senus jo skundus, arba su Lietuvos valdovu, už ir prieš kryžiuočius popiežiaus rūmuose Avinjo­ ne tieka priporinta, tad lengvai suprastume, kaip popiežiui bu­ vo neapsakomai sunku ir, žinia.'
+  teiginys: 'Lenkų vyskupų ginčai dėl dešimtinės ir šv. Petro skatiko rinkliavų buvo svarstyti popiežiaus rūmuose Avinjone.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkų vyskupų ginčai dėl dešimtinės ir šv. Petro skatiko rinkliavų buvo svarstyti popiežiaus rūmuose Avinjone.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     3 baigiamas

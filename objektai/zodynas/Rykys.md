@@ -24,13 +24,14 @@ Vartojamos formos: `rykius`.
 ## Teiginiai
 
 - t-001
-  teiginys: '`Rykys` šiame tekste reiškia valdovą arba vadą.'
+  teiginys: 'Decebalas citatoje vadinamas getų rykiu ir vaizduojamas kaip prieš romėnus kovojęs vadas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Decebalas citatoje vadinamas getų rykiu ir vaizduojamas kaip prieš romėnus kovojęs vadas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Decebalus, getų rykys, niekaip nenorėjo jiems pasiduoti ir lig paskuojo prieš rymionis stengė.
@@ -39,3 +40,7 @@ Vartojamos formos: `rykius`.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Romėnai]]

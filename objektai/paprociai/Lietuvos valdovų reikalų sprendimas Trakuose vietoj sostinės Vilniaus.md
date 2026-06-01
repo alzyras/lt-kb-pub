@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Beveik visą amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­ nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­ puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai, ežerų apsuptai Trakų piliai.'
+  teiginys: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius buvo Didžiosios Kunigaikštystės sostinė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius buvo Didžiosios Kunigaikštystės sostinė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Beveik visą

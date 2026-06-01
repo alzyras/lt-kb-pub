@@ -71,6 +71,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/zodynas/senjoras]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/tripartitio christiana luominė visuomenė]]

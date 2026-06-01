@@ -31,14 +31,14 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais.'
+  teiginys: 'Dusburgo kronikoje aprašomi totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad ši kronika, kaip ir atitinkami popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios vienodos, kad šios tautos turėjusios bendrą priešą71..'
+  teiginys: 'Petras iš Dusburgo kryžiaus žygių istorijoje aprašė totorių ir mongolų žygius prieš Siriją bei kitas musulmoniškąsias šalis.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -59,39 +59,5 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
-    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
-    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
-    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
-    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip  ir atitinkami
-    popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
-    ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
-    vienodos, kad šios tautos turėjusios bendrą priešą71.
-      Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Antisaracėniškos idėjos išreikštos
-    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
-    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
-    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
-    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
-    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip  ir atitinkami
-    popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
-    ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
-    vienodos, kad šios tautos turėjusios bendrą priešą71.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002

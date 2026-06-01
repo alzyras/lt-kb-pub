@@ -29,19 +29,19 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kad lietuvių nuosto­ liai nebuvo tokie dideli, reikšmingai patvirtina tai, jog tais pat metais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose puolė Ortelsburgą^22.'
+  teiginys: 'Tais pačiais metais Kęstutis Prūsuose puolė Ortelsburgą ir talkino Liubarto bei Algirdo žygiuose.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai.'
+  teiginys: 'Ortelsburgo apskritis buvo viena pietinės Prūsijos dalių, kurių lietuviai pasižadėjo nebepuldinėti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai.'
+  santrauka: 'Ortelsburgo apskritis buvo viena pietinės Prūsijos dalių, kurių lietuviai pasižadėjo nebepuldinėti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nauja sutartis buvo padaryta dešimčiai metų. Abu ma­
@@ -58,6 +58,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Tais pačiais metais Kęstutis Prūsuose puolė Ortelsburgą ir talkino Liubarto bei Algirdo žygiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Taip kronikose vėl atsi­

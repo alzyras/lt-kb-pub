@@ -54,11 +54,9 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]
 - [[objektai/asmenys/Henrikas iš Plockės]]
 - [[objektai/asmenys/Kviramas iš Valdavos]]
 - [[objektai/asmenys/Mindotė]]
 - [[objektai/asmenys/Rebodas iš Izenburgo]]
 - [[objektai/asmenys/Spagerotė]]
 - [[objektai/asmenys/Ulrichas iš Tetingeno]]
-- [[objektai/zodynas/pilėnas pilėnai]]

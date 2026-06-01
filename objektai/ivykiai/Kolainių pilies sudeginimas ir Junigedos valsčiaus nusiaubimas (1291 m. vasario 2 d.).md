@@ -42,26 +42,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
-    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
-    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino. Šitai padarę, patraukė į
-    Junigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų
-    nuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
@@ -81,27 +66,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
-
-      1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
-    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
-    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino. Šitai padarę, patraukė į
-    Junigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų
-    nuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Bertoldas]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

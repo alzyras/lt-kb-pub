@@ -50,27 +50,11 @@ Nenurodyta
 - t-003
   teiginys: 'Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva juk ne
-    kartą buvo okupuota ir prisijungta Rytų kaimynės.
-    Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pa-
-    kraščiams – Vidurio Europai. Lietuvoje, kaip ir Vidurio Europos šalyse
-    (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Vidu-
-    ramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavo-
-    si bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -93,6 +77,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

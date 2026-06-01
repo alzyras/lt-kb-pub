@@ -65,10 +65,10 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/asmenys/Dr. Baptistas Cigala]]
 - [[objektai/zodynas/Romos karalius]]
 - [[objektai/daiktai/Karūna]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]

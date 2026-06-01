@@ -39,18 +39,19 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     - c-003
 
 - t-003
-  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  teiginys: 'Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Kartu su Jogaila ir Vy­ tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­ gandas, Švitrigaila ir daug lietuvių didikų.'
+  teiginys: 'Karigaila kartu su Jogaila, Vytautu, Vygandu, Švitrigaila ir lietuvių didikais Krokuvoje priėmė katalikų tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karigaila kartu su Jogaila, Vytautu, Vygandu, Švitrigaila ir lietuvių didikais Krokuvoje priėmė katalikų tikėjimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kartu su Jogaila ir Vy­
@@ -66,6 +67,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     - t-004
 
 - c-002
+  santrauka: 'Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
@@ -138,3 +140,4 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Anglai]]
 - [[objektai/asmenys/Kazimieras Karigaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

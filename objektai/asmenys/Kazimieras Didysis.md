@@ -29,9 +29,9 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iš jų Aldona, arba Aldoina, per krikštą pavadinta Ona, buvo ištekin­ ta už Lenkijos karaliaus Kazimiero Didžiojo.'
+  teiginys: 'Kazimieras Didysis vedė Gedimino dukterį Aldoną, per krikštą pavadintą Ona.'
   pagrindžia:
-    - c-012
+    - c-008
 
 - t-002
   teiginys: '1325 m. Gedimino dukters Aldonos ir būsimojo Kazimiero Didžiojo jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.'
@@ -39,24 +39,24 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-003
 
 - t-003
-  teiginys: 'Taip kūrėsi Vilnius, kuris tuo­ met, regis, buvo panašesnis į keletą didelių kaimų, sujungtų į vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą miestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­ kiais Kazimieras Didysis puošė ir tvirtino.'
+  teiginys: 'Kazimieras Didysis puošė ir tvirtino Lenkiją XIV amžiuje kilusių mūro miestų pavyzdžiu.'
   pagrindžia:
-    - c-009
+    - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad 592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.'
   pagrindžia:
-    - c-010
+    - c-007
 
 - t-005
   teiginys: 'Kazimieras Didysis į naujai statomus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.'
   pagrindžia:
-    - c-013
+    - c-005
 
 - t-006
-  teiginys: 'Tikriausiai jau Algirdo laikais Vilnius juos bus pažinęs, bet Vytautas, kaip pavyzdį pri­ simindamas Kazimierą Didįjį, kuris žydų tautybės žmonių, ga­ nėtinai pasiturinčių, apsčiai pritelkė savo naujai pastatydintuo­ se miestuose, be to, išmanė, kiek naudos.'
+  teiginys: 'Kazimieras Didysis į savo naujai pastatydintus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-007
   teiginys: 'Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės.'
@@ -64,31 +64,26 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-002
 
 - t-008
-  teiginys: 'Koks Lenkijai bu­ vo Kazimieras Didysis, tokiu Lietuvai tapo Žygimantas Se­ nasis.'
+  teiginys: 'Kazimieras Didysis XIV a. puošė ir tvirtino Lenkijos miestus.'
   pagrindžia:
     - c-004
 
 - t-009
-  teiginys: 'Kazimieras Didysis XIV a. puošė ir tvirtino Lenkijos miestus.'
+  teiginys: 'Kazimiero Didžiojo politika siejo Lenkijos atsigręžimą į rytus su platesniais horizontais rytuose.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-010
-  teiginys: 'Šitą atsigręžimą lenkų istorikas Kocha­ novskis vadina nemirštama Kazimiero D.'
+  teiginys: 'Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią.'
   pagrindžia:
-    - c-011
+    - c-006
 
 - t-011
-  teiginys: 'Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią.'
+  teiginys: 'Aldona, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.'
   pagrindžia:
     - c-008
 
 - t-012
-  teiginys: 'Aldona, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.'
-  pagrindžia:
-    - c-014
-
-- t-013
   teiginys: 'Lenkų istorikas Kochanovskis Kazimiero Didžiojo politikos idėja vadino Lenkijos atsigręžimą į rytus.'
   pagrindžia:
     - c-001
@@ -109,7 +104,9 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
+    - t-007
+    - t-009
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -141,34 +138,9 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   statusas: verified
   pagrindžia:
     - t-002
+    - t-007
 
 - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Bet Lietuvos valdymą perėmė karalius
-    —  • —
-    257
-
-    ## Puslapis 274
-
-    258
-
-    ## Puslapis 275
-
-    IV KNYGA
-    Žygimantas Senasis, apdovanotas proto ir charakterio pri­
-    valumais ir tvirtai siekiantis įvesti tvarką. Koks Lenkijai bu­
-    vo Kazimieras Didysis, tokiu Lietuvai tapo Žygimantas Se­
-    nasis. Jis pirmas nukreipė Lietuvos valdymo mechanizmą
-    reikiama kryptimi, stipria ranka suėmė valdžios vadžias ir
-    apgalvotai ėmėsi veiklos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau nemažai įvairių tenykš­
@@ -185,9 +157,11 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
+    - t-003
 
-- c-006
+- c-005
+  santrauka: 'Kazimieras Didysis į savo naujai pastatydintus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žydai, dar XI am­
@@ -207,24 +181,9 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   statusas: verified
   pagrindžia:
     - t-006
+    - t-005
 
-- c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kalyšiaus sutartimi atsi­
-    sakė nuo Pamario ir kitų kraštų Ordino naudai. Jau anksčiau
-    prasidėjęs didelis spaudimas vakaruose lenkus dabar automatiš­
-    kai atgręžė į rytus. Šitą atsigręžimą lenkų istorikas Kocha­
-    novskis vadina nemirštama Kazimiero D. politikos idėja, nes
-    ji parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­
-    se^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ne mažiau jų davė ir santykiai su Lenkija. Rytų Europos
@@ -237,28 +196,9 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pagaliau nemažai įvairių tenykš­
-    čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
-    globsčio prie Vilniaus pilies. Taip kūrėsi Vilnius, kuris tuo­
-    met, regis, buvo panašesnis į keletą didelių kaimų, sujungtų
-    į vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą
-    miestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­
-    kiais Kazimieras Didysis puošė ir tvirtino Lenkiją. Gedimi­
-    no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,
-    kokia Lenkijai buvo Boleslovo Didžiojo, o Henriko Paukšti-
-    ninko - Vokietijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-010
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neumark, dab. Nowe Miasto
@@ -271,23 +211,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   pagrindžia:
     - t-004
 
-- c-011
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kalyšiaus sutartimi atsi­
-    sakė nuo Pamario ir kitų kraštų Ordino naudai. Jau anksčiau
-    prasidėjęs didelis spaudimas vakaruose lenkus dabar automatiš­
-    kai atgręžė į rytus. Šitą atsigręžimą lenkų istorikas Kocha­
-    novskis vadina nemirštama Kazimiero D. politikos idėja, nes
-    ji parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­
-    se^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-012
+- c-008
+  santrauka: 'Kazimieras Didysis vedė Gedimino dukterį Aldoną, per krikštą pavadintą Ona.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, užsitikrinęs sau-
@@ -308,67 +233,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-013
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Žydai, dar XI am­
-    žiuje paplitę kaimyninėje Lenkijoje, Lietuvoje irgi nuo seno
-    buvo ne naujiena, juk laisvai galėjo į ją atvykti, tiek Lenkijos
-    sieną kirsdami, tiek ir iš rytų pusės. Tikriausiai jau Algirdo
-    laikais Vilnius juos bus pažinęs, bet Vytautas, kaip pavyzdį pri­
-    simindamas Kazimierą Didįjį, kuris žydų tautybės žmonių, ga­
-    nėtinai pasiturinčių, apsčiai pritelkė savo naujai pastatydintuo­
-    se miestuose, be to, išmanė, kiek naudos gali duoti turtai, verslai
-    bei įgimti sugebėjimai prekiauti tos tautos, anuomet ne tokios
-    kenksmingos kaip dabar. Taigi siekdamas to, nes matė jau ga-
-    66
-    Žr. Vol.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-014
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gediminas, užsitikrinęs sau-
-    dybomis, buvo labai tvirti ir svarbūs.
-    Iš jų Aldona, arba Aldoina, per
-    krikštą pavadinta Ona, buvo ištekin­
-    ta už Lenkijos karaliaus Kazimiero
-    Didžiojo. Danmilė, pakrikštyta Elž­
-    bieta, už Vaclovo - Mazovijos kuni­
-    gaikščio, Marija - už Boleslovo - Ru­
-    sios kunigaikščio; o ketvirtoji,
-    bevaikė, - už Rusios didžiojo kuni­
-    gaikščio Dmitrijaus Michailovičiaus,
-    1326 metų spalio 15 dieną totorių
-    chano Uzbeko įsakymu nužudyto.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-015
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jau tada bekovodamas su Ordinu Lenkų kara­
-    lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­
-    žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­
-    daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir
-    Vladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)
-    jungtuvės^2 ). Bet ta sąjunga nieko gero nedavė. 1343 mt. Kališiaus
-    taika lenkų - Ordino ginčas kuriam laikui buvo išrištas. Už
-    gautą Kujavų ir Dobrynės žemę Kazimieras didysis sutiko
-    Pamarį palikti Ordinui^3 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai

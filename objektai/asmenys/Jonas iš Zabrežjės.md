@@ -25,13 +25,14 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
     - c-002
 
 - t-002
-  teiginys: 'Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems vyskupui Albertui, Vilniaus kaštelionui ir Gardino seniūnui Aleksandrui Jurgėvičiui, Trakų vaivadai ir LDK didžiajam maršalkai Jonui iš Zabrežjės, LDK pataurininkiui ir Bełsko.'
+  teiginys: 'Jonas iš Zabrežjės 1501 m. Gardine dalyvavo kaip Trakų vaivada ir LDK didysis maršalka.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas iš Zabrežjės 1501 m. Gardine dalyvavo kaip Trakų vaivada ir LDK didysis maršalka.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aktuota ir duota Gardine,

@@ -39,9 +39,9 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Padariniai Lojevo mūšis - pirmoji kunigaikščio J.'
+  teiginys: 'Lojevo mūšis buvo pirmoji svari kunigaikščio Jonušo Radvilos pergalė.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: '1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.'
@@ -117,28 +117,7 @@ Nenurodyta
     - t-003
 
 - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lojevo mūšis - pirmoji kunigaikščio J. Rad-
-    vilos svari pergalė. Kartu tai ir Vakarų Eu-
-    ropos karo meno pergalė prieš rytietišką
-    karybą. Galutinėje mūšio fazėje, turėdamas
-    tik apie 5500 karių, Radvila prieš save tu-
-    rėjo triskart didesnes priešo pajėgas. Kazokų
-    žuvo keli tūkstančiai (Radvilos tvirtinimu
-    apie 7000). Pergalė plačiai aptarinėta, garsas
-
-    letininkai
-    (pikinieriai)
-
-    apie ją pasklido ir visoje Europoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
+  santrauka: 'Lojevo mūšis buvo pirmoji svari kunigaikščio Jonušo Radvilos pergalė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Padariniai
@@ -161,6 +140,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -171,4 +151,5 @@ Nenurodyta
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/dragūnai]]
 - [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
 - [[objektai/grupes/Radvilos]]

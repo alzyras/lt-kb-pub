@@ -19,13 +19,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '335 ir Epito­ mator, Gadebusch Livl.'
+  teiginys: 'Gadebuscho „Livl. Jahrb.“ nurodytas kaip šaltinis, papildantis žinias apie nepaprastą šaltį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gadebuscho „Livl. Jahrb.“ nurodytas kaip šaltinis, papildantis žinias apie nepaprastą šaltį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Energingas Garteno (Gar­

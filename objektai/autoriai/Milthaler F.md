@@ -17,13 +17,14 @@ Dusburgietis teigia, kad 136 Milthaler F.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 136 Milthaler F.'
+  teiginys: 'Milthaler F. parašė darbą „Die Grossgebietiger“, cituojamą 59–69 puslapiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Milthaler F. parašė darbą „Die Grossgebietiger“, cituojamą 59–69 puslapiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     136 Milthaler F. Die Grossgebietiger..., S. 59—69.

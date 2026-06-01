@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai sugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­ dami viršenybę.'
+  teiginys: 'Gregoro Kierdėjaus vadovaujami Podolės bajorai sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gregoro Kierdėjaus vadovaujami Podolės bajorai sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     210
@@ -53,4 +54,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Podolės bajorai]]

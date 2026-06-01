@@ -42,14 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
+  teiginys: 'Stasys Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Smetonai slaptą memorandumą, kuriame išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus, mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
@@ -75,26 +75,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl 1934 m. pradėti megzti neoficialūs
-    Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
-    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
-    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
-    strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
-
-    L I E T U V O S  I S T O R I J A
-    178
-    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1935 m. balandį

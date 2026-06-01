@@ -45,13 +45,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
+  teiginys: 'Vilniuje karalius leido pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti ir sumokėti prekių muitą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniuje karalius leido pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti ir sumokėti prekių muitą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Aleksandro ir Elenos santuoka išplė­

@@ -28,19 +28,19 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 ## Teiginiai
 
 - t-001
-  teiginys: 'O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­ tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­ timis galį taikos ir nesilaikyti^1 ).'
+  teiginys: 'Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl kurių vokiečiai sutiko laikytis taikos.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais.'
   pagrindžia:
-    - c-008
+    - c-004
 
 - t-003
   teiginys: 'Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Vokiečiai įsipareigojo laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų Drohičinu.'
@@ -50,12 +50,12 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - t-005
   teiginys: 'Drohičino paviete buvę dideli valsčiai su renkamais mokesčiais buvo skirti Vilniaus katedrai aprūpinti.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Kęstučiui ruošiantis nubausti Jogailą, Vytautas išvyko į Drohičiną.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-007
   teiginys: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
@@ -65,12 +65,12 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - t-008
   teiginys: 'Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-009
   teiginys: 'Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną.'
   pagrindžia:
-    - c-009
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -93,6 +93,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -113,26 +114,6 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - t-007
 
 - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Abu ma­
-    gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­
-    čiais sutarė, kad pietinė Prūsijos dalis ir prie jos prieiną Lie­
-    tuvos kraštai nei vienų nei kitų nustatytų metų bėgy ne­
-    bebūtų puldinėjami. Lietuviai pasižadėjo nebeužpuldinėti pieti­
-    nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­
-    tenburgo ir Gunlaukeno apskričiai. O Vokiečiai apsiėmė tik su
-    krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­
-    kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­
-    tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
-    timis galį taikos ir nesilaikyti^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -154,7 +135,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
   santrauka: 'Drohičino paviete buvę dideli valsčiai su renkamais mokesčiais buvo skirti Vilniaus katedrai aprūpinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -176,8 +157,9 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002
 
-- c-006
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė
@@ -190,7 +172,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   pagrindžia:
     - t-006
 
-- c-007
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors Lenkija ir Vladislovas su šituo lietuvių žygiu ir ne-
@@ -206,29 +188,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   pagrindžia:
     - t-008
 
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    X, p. 112.
-    I1l
-
-    ## Puslapis 128
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
-    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
-    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
-    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
-    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
-    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
-    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-009
+- c-007
   santrauka: 'Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

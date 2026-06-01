@@ -27,13 +27,14 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui Vilhelmui, Dirsovijos grafams — vyresniajam ir.'
+  teiginys: 'Jaunesnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jaunesnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam

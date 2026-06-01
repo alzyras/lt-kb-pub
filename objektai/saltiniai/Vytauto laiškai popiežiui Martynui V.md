@@ -20,7 +20,7 @@ Dar prieš Kaributo iš­ siuntimą pranešė Martynui V, kad tai daro įsitikin
 - t-001
   teiginys: 'Vėlesniame laiške popiežiui Martynui V Vytautas teigė nenutraukiantis ryšių su Bažnyčia ir prašė sustabdyti kryžiaus karus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Vytautas laiške popiežiui Martynui V teigė, kad Kaributo siuntimas yra kelias husitams grąžinti į katalikų Bažnyčią.'
@@ -47,22 +47,4 @@ Dar prieš Kaributo iš­ siuntimą pranešė Martynui V, kad tai daro įsitikin
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dar prieš Kaributo iš­
-    siuntimą pranešė Martynui V, kad tai daro įsitikinęs, jog tai
-    vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų
-    Bažnyčią. Vėliau Vytautas popiežiui dar rašė, kad jis nenu­
-    traukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­
-    vengiant kraujo praliejimo; prašė sustabdyti kryžiaus karus ir
-    nuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­
-    vo tikslo; čekai yra pažadėję grįžti iš klaidos ir tuo reikalu pa­
-    siuntė pas popiežių savo pasiuntinius. Tą patį rašė ir Rygos
-    arkivyskupui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001

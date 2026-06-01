@@ -50,7 +50,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-007
 
 - t-005
-  teiginys: 'Taigi 1795-ieji yra visų pirma Stanislovo Augusto fiasko, o į tai nuosekliai vedė jo visa ankstesnė biografija ir asmens savybės.'
+  teiginys: 'Stanislovo Augusto veiksmai su Rusijos ambasada Varšuvoje prisidėjo prie jo politinio fiasko 1795 metais.'
   pagrindžia:
     - c-004
 
@@ -118,6 +118,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - t-002
 
 - c-004
+  santrauka: 'Stanislovo Augusto veiksmai su Rusijos ambasada Varšuvoje prisidėjo prie jo politinio fiasko 1795 metais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi 1795-ieji yra visų pirma Stanislovo Au-
@@ -196,7 +197,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/didysis maršalas]]
 - [[objektai/zodynas/dignitoriai]]
-- [[objektai/zodynas/kapituliacija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/santvarka]]

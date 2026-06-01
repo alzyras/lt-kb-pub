@@ -26,13 +26,14 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Totoraitis : Sūduvos-Suvalkijos istorija, t.'
+  teiginys: 'J. Totoraitis parašė „Sūduvos-Suvalkijos istorijos“ pirmą tomą, išleistą Kaune 1938 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Totoraitis parašė „Sūduvos-Suvalkijos istorijos“ pirmą tomą, išleistą Kaune 1938 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pr. Kuraitis, Kaunas 1925-

@@ -25,53 +25,49 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad nesavos pilyje įsikūrė Ordino konventas ir krašto magistras Hermanas Balkas (PUB, 1, 1, Nr. 76; Powierski J.'
+  teiginys: 'J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai kas mano, kad sukilimas galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204, 211).'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad (Powierski J.'
+  teiginys: 'J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad 12—16; Powierski J., Z badań nad mitologią..., p. 306—307).'
+  teiginys: 'J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.'
   pagrindžia:
     - c-001
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J.'
+  teiginys: 'J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu.'
   pagrindžia:
-    - c-003
+    - c-004
 
 - t-006
-  teiginys: 'Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J.'
-  pagrindžia:
-    - c-005
-
-- t-007
   teiginys: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
   pagrindžia:
     - c-002
 
-- t-008
-  teiginys: 'Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.'
+- t-007
+  teiginys: 'J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme.'
   pagrindžia:
-    - c-008
+    - c-007
 
-- t-009
+- t-008
   teiginys: 'Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281 m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m. (Powierski J., Chronologia..., p. 5—31).'
   pagrindžia:
-    - c-009
+    - c-008
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Perkūnas — baltiškasis audros, griaustinio dievas. Jis susijęs su kalnu, ąžuolu. Naujausi
@@ -99,21 +95,9 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    142 PKD, s. 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Przekaz..., s. 421
-
-    pabrėžti, jog prūsai griebiasi šitokio „nepaprasto ir pasaulyje negirdėto būdo“143.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
@@ -127,7 +111,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   pagrindžia:
     - t-002
 
-- c-005
+- c-004
+  santrauka: 'J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos
@@ -137,9 +122,10 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-006
+- c-005
+  santrauka: 'J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nesavos pilyje įsikūrė Ordino konventas ir krašto magistras Hermanas Balkas (PUB, 1,
@@ -152,7 +138,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   pagrindžia:
     - t-001
 
-- c-007
+- c-006
+  santrauka: 'J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
@@ -164,7 +151,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   pagrindžia:
     - t-003
 
-- c-008
+- c-007
+  santrauka: 'J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
@@ -177,9 +165,9 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-009
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
@@ -189,7 +177,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
@@ -199,8 +187,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 - [[objektai/zodynas/magistras]]
 - [[objektai/daiktai/Šventasis ąžuolas]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Kristijono kryžiaus žygio įteisinimas ir įvykdymas]]
 - [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]

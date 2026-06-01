@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Negalėjo didysis kunigaikštis atvirame mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­ ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­ lius užpuolikams gabentis maistą ir.'
+  teiginys: '1394 metų Vilniaus apgultyje didysis kunigaikštis įtvirtino įgulas abiejose pilyse ir mieste.'
   pagrindžia:
     - c-003
 
@@ -56,13 +56,14 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: 'Iš­ stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be paliovos treškindamas sienas ir bokštus, bet negalėjo jų užimti dėl didelių griovių ir perkasų aplink tvirtovę ir dėl Vytauto sumanumo mūšio lauke.'
+  teiginys: 'Magistras tris savaites ir dvi dienas prie Vilniaus pilių daužė sienas ir bokštus, bet jų neužėmė dėl griovių ir perkasų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Magistras tris savaites ir dvi dienas prie Vilniaus pilių daužė sienas ir bokštus, bet jų neužėmė dėl griovių ir perkasų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šis tiek netikėtas,
@@ -109,6 +110,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: '1394 metų Vilniaus apgultyje didysis kunigaikštis įtvirtino įgulas abiejose pilyse ir mieste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Matydamas šitai, lietuvių vadas din­

@@ -24,7 +24,7 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad minėtieji Numa ir 520 D.'
+  teiginys: 'Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.'
   pagrindžia:
     - c-002
 
@@ -50,6 +50,7 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     - t-001
 
 - c-002
+  santrauka: 'Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Minėtieji Numa ir

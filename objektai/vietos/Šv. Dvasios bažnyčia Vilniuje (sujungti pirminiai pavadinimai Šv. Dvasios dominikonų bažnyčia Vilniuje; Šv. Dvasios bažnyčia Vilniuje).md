@@ -27,7 +27,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą.'
+  teiginys: 'Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų.'
   pagrindžia:
     - c-004
 
@@ -37,23 +37,24 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     - c-002
 
 - t-003
-  teiginys: 'Dvasios vienuolyno tėvais reikalai taip susi­ klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­ tus pagalbinius jos pastatus būtų galima patogiai pastatyti.'
+  teiginys: 'Prieglaudos sklypo riba buvo žymima nuo vartų, esančių iš gatvės priešais Šv. Dvasios bažnyčios kapinių vartus.'
   pagrindžia:
     - c-005
 
 - t-004
-  teiginys: 'Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėtimo prie dominikonų vienuolyno Šv.'
+  teiginys: 'Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią.'
   pagrindžia:
     - c-001
 
 - t-005
-  teiginys: 'Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv.'
+  teiginys: '1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
@@ -90,6 +91,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     - t-002
 
 - c-003
+  santrauka: '1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daugelis jų garsėjo su­
@@ -106,6 +108,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     - t-005
 
 - c-004
+  santrauka: 'Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pa-
@@ -128,6 +131,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     - t-001
 
 - c-005
+  santrauka: 'Prieglaudos sklypo riba buvo žymima nuo vartų, esančių iš gatvės priešais Šv. Dvasios bažnyčios kapinių vartus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios vienuolyno tėvais reikalai taip susi­

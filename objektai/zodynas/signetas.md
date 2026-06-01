@@ -20,13 +20,14 @@ Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kar
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kartų perskai­ tę ir išklausę, jį, kaip mūsų nuoširdžia ir gera valia bei palie­ pimu parašytą, mūsų signetu, kuriuo paprastai antspauduo­ davome slaptus raštus, užantspaudavome ir, kad.'
+  teiginys: 'Testamentas buvo užantspauduotas signetu, kuriuo paprastai antspauduoti slapti raštai, ir pasirašytas ranka.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Testamentas buvo užantspauduotas signetu, kuriuo paprastai antspauduoti slapti raštai, ir pasirašytas ranka.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai mūsų paskutinioji valia, bet gana

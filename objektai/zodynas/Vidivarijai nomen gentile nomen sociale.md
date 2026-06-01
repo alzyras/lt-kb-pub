@@ -20,13 +20,14 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vidivarii [vidivarijai], duotas Jornandeso (De geticae gentis origine ac rebus ges­ tis Cap. 5 [apie gotų genties kilmę ir karo žygius]); yra ne kokios nors vie­ nos tautos nomen gentile.'
+  teiginys: 'Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kraštas, ku­

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad mažiulis V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mažiulis V.'
+  teiginys: 'V. Mažiulio „Dėl Neringos vardo“ paskelbtas „Lietuvių kalbotyros klausimų“ 3 tome 1960 m., p. 301–315.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Mažiulio „Dėl Neringos vardo“ paskelbtas „Lietuvių kalbotyros klausimų“ 3 tome 1960 m., p. 301–315.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mažiulis V. Dėl Neringos vardo.— Lietuvių kalbotyros klausimai, V., 1960, 3, p. 301—

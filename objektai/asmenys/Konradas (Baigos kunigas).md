@@ -18,13 +18,14 @@ Dusburgietis teigia, kad mirties patale gulėdamas, jis, paklaustas brolio Konra
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mirties patale gulėdamas, jis, paklaustas brolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti Kristumi, atsakė: „Prieš savo atsivertimą nieko gera nesu padaręs, gal tik tą vienui vieną darbą, kad, netikėliams pagrobus.'
+  teiginys: 'Baigos kunigas Konradas mirties patale paklausė Skomanto, kodėl šis gavęs malonę įtikėti Kristumi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Baigos kunigas Konradas mirties patale paklausė Skomanto, kodėl šis gavęs malonę įtikėti Kristumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai koks  iš aukščiausiojo malonės nuostabus atsivertimas  ir pasikeitimas,  štai
@@ -49,5 +50,5 @@ Dusburgietis teigia, kad mirties patale gulėdamas, jis, paklaustas brolio Konra
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/posakiai/Pasiimk šį savo dievo paveikslą]]
+- [[objektai/zodynas/kunigas]]
 - [[objektai/ivykiai/Skomanto mirtis]]

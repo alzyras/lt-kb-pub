@@ -25,13 +25,14 @@ Jį, dar būdama Stanislovienė Goštautienė, Trakų vaivadienė, našlė, išd
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jį, dar būdama Stanislovienė Goštautienė, Trakų vaivadienė, našlė, išda­ vė 1547 metų rugsėjo 10 dieną, 6 in­ dikte, tai yra, visai prieš pat tas sutuoktuves, kažkokiam Petrui Ivanovskiui pasiskolinus iš jo 128 ka­ pas grašių ir 8 dubenis medaus, už tai.'
+  teiginys: '1547 m. rugsėjo 10 d. Barbora Radvilaitė pasiskolino iš Petro Ivanovskio 128 kapas grašių ir 8 dubenis medaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1547 m. rugsėjo 10 d. Barbora Radvilaitė pasiskolino iš Petro Ivanovskio 128 kapas grašių ir 8 dubenis medaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mačiau originalų raštą ar­

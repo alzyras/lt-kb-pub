@@ -36,13 +36,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kryžiaus karai, kurie XI amžiuje buvo sumaišę protus be­ veik visoje Europoje, iš pradžių laikyti tik savotiškais žygiais, virto svarbiausiu įvykiu šios pasaulio dalies istorijoje.'
+  teiginys: 'XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiaus karai, kurie XI amžiuje buvo sumaišę protus be­

@@ -17,13 +17,14 @@ Draugijos narių leidžiamas humoristinis laikraštis Wiadomości brukowe (Grind
 ## Teiginiai
 
 - t-001
-  teiginys: 'Draugijos narių leidžiamas humoristinis laikraštis Wiadomości brukowe (Grindinio žinios), kuriame aktyviai bendradarbiavo ir M.'
+  teiginys: 'Humoristinį laikraštį „Wiadomości brukowe“ leido Šubravcų draugijos nariai, o jame aktyviai bendradarbiavo Michałas Balińskis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Humoristinį laikraštį „Wiadomości brukowe“ leido Šubravcų draugijos nariai, o jame aktyviai bendradarbiavo Michałas Balińskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Draugijos narių leidžiamas

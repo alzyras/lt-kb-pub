@@ -52,105 +52,86 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-001
   teiginys: 'Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.'
   pagrindžia:
-    - c-001
+    - c-010
 
 - t-002
   teiginys: '1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-007
   teiginys: '1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui.'
   pagrindžia:
-    - c-007
+    - c-013
 
 - t-008
   teiginys: 'Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-009
-  teiginys: 'Tarp jų kilo audringi vaidai ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­ tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­ džiąją kunigaikštytę Eleną.'
+  teiginys: 'Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus.'
+  pagrindžia:
+    - c-010
+
+- t-010
+  teiginys: 'Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui.'
   pagrindžia:
     - c-013
 
-- t-010
-  teiginys: 'Šiuo raštu skelbiame visiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­ damas į šviesiausiosios karalienės, mūsų brangiausiosios žmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir norėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė, jai.'
-  pagrindžia:
-    - c-016
-
 - t-011
-  teiginys: 'Taigi visą minėtą turtą ir aiškiai išvardintus dvarus didžiajai kunigaikštienei, mūsų brangiausiai žmonai švie­ siajai Elenai davėme, dovanojome ir šiuo raštu duodame, dovanojame, užrašome jai ir jos įpėdiniams amžinai ir vi­ sam laikui su visais žmonėmis ir.'
+  teiginys: 'Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais.'
   pagrindžia:
-    - c-014
+    - c-011
 
 - t-012
-  teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
+  teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   pagrindžia:
-    - c-012
+    - c-009
 
 - t-013
   teiginys: 'Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kopdalį Švč.'
   pagrindžia:
-    - c-011
+    - c-008
 
 - t-014
-  teiginys: 'O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­ tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­ sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, Mykolo Rusalkos ir.'
+  teiginys: '1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių.'
   pagrindžia:
-    - c-009
+    - c-001
 
 - t-015
-  teiginys: 'Šiuo raštu skelbiame visiems, kam dabar ar ateityje reikės žinoti, kad, kai mes įsitikinome šviesiausio­ sios ponios Elenos, Dievo malone didžiosios kunigaikštie­ nės, brangiausios mūsų žmonos, vedybine meile ir jos išti­ kimybe, norėdami ją mūsų malone ir.'
+  teiginys: 'Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas.'
   pagrindžia:
-    - c-015
+    - c-012
 
 - t-016
-  teiginys: 'Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­ tuokė didįjį kunigaikštį su Elena, virš jos galvos kunigaikš­ tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­ linę vyno42.'
+  teiginys: 'Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
   pagrindžia:
-    - c-010
+    - c-007
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
-    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
-    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
-    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
-    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.)
-    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
-    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
-    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
-    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia Maskvoje (1494 m.)
@@ -174,8 +155,9 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   statusas: verified
   pagrindžia:
     - t-002
+    - t-014
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tada Aleksandras šalia prašmatniose rogėse sėdin­
@@ -192,7 +174,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     III KNYGA
@@ -211,7 +193,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau neilga buvo karaliaus vieš­
@@ -230,7 +212,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - t-005
 
-- c-006
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet, kai totoriai didele
@@ -258,35 +240,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - t-006
 
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ponas
-    ir tėvonis. Amžinai dalykų atminčiai. Šiuo raštu skelbiame
-    visiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­
-    damas į šviesiausiosios karalienės, mūsų brangiausiosios
-    žmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir
-    norėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė,
-    jai dovanojome, užrašėme ir šiuo raštu duodame, užrašome
-    ir dovanojame tik tam laikui, kol bus gyva, Mogiliavo pilį,
-    stovinčią šalia Dniepro upės, su visomis žemėmis, ir kitas
-    valdas, prie šios pilies nuo seno esančias ir jai priklausan­
-    čias su žmonėmis ir jų patarnavimais bei darbais, činšais,
-    pajamomis, mokesčiais - ar grašiais, ar medumi, rinkliavo­
-    mis, dvareliais, dirvomis, laukais ir ganyklomis, gervuogių
-    krūmais, krūmynais, miškeliais, miškais, gojais, šilais, bity­
-    nais, bebrų, laukinių žvėrių ir paukščių medžiokle, miškų
-    aptvarais, krūmais, vandenimis, upėmis, tvenkiniais, eže­
-    rais, upeliais, upeliūkščiais, žuvingomis kūdromis, žūkla-
-    vimu, malūnais ir jų produktais, apskritai, su visais priklau-
-    siniais, priedėliais ir visais priedais, kad ir kokiu vardu jie
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tą gyvasties dvasią ir sielą Die­
@@ -326,32 +280,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - t-008
 
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmiausia Maskvoje (1494 m.)
-    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
-    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
-    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
-    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-    O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­
-    terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­
-    tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­
-    sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio,
-    Mykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei
-    daugybės kitų dvariškių, kambarinių, arklininkų ir boja­
-    rinų vaikų. Ją sutiko pats Aleksandras per pusę mylios nuo
-    miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos
-    ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­
-    tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
-    bėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-010
+- c-007
+  santrauka: 'Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stanislovo katedrą. Ten Vaitiekus Taboras, Vilniaus
@@ -368,7 +298,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - t-016
 
-- c-011
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės
@@ -390,7 +320,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - t-013
 
-- c-012
+- c-009
+  santrauka: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
@@ -408,7 +339,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - t-012
 
-- c-013
+- c-010
+  santrauka: 'Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     229
@@ -430,8 +362,10 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   statusas: verified
   pagrindžia:
     - t-009
+    - t-001
 
-- c-014
+- c-011
+  santrauka: 'Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat [dovanojame] turtą, va­
@@ -479,7 +413,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - t-011
 
-- c-015
+- c-012
+  santrauka: 'Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po­
@@ -501,7 +436,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - t-015
 
-- c-016
+- c-013
+  santrauka: 'Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ponas
@@ -542,6 +478,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   statusas: verified
   pagrindžia:
     - t-010
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -570,7 +507,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/zodynas/kustodas]]
-- [[objektai/ivykiai/1506 m. Krymo totorių įsiveržimas į Lietuvą ir Aleksandro pasitraukimas iš Lydos]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/paprociai/Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos]]
 - [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
@@ -591,4 +527,3 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - [[objektai/asmenys/Šach Achmedas]]
 - [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus]]
 - [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]
-- [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje]]

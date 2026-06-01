@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '31 Dar prieš kelerius metus Vilnių puo­ šė Barboros rūmų griuvėsiai, stovė­ ję tarp Katedros ir Šv.'
+  teiginys: 'Barboros Radvilaitės rūmų griuvėsiai stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos, kol 1828 m. buvo parduoti plytoms.'
   pagrindžia:
     - c-001
 
@@ -58,6 +58,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Barboros Radvilaitės rūmų griuvėsiai stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos, kol 1828 m. buvo parduoti plytoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     31

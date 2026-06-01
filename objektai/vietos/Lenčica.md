@@ -41,7 +41,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - c-001
 
 - t-004
-  teiginys: 'Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­ siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­ num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­ poldum).'
+  teiginys: '1429 m. birželio 18 d. Vytauto delegatai Gedgaudas ir Rumbaudas atvyko į Lenčicą ir įteikė Jogailai Vytauto laišką.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - t-003
 
 - c-002
+  santrauka: '1429 m. birželio 18 d. Vytauto delegatai Gedgaudas ir Rumbaudas atvyko į Lenčicą ir įteikė Jogailai Vytauto laišką.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai sužinojo, kad kryžiuočių

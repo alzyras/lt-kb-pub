@@ -45,7 +45,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: '1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.'
+  teiginys: '1219 m. Voluinės ir Lietuvos kunigaikščių sutartis buvo sudaryta ir dėl plėšiamųjų žygių į Lenkiją.'
   pagrindžia:
     - c-001
 
@@ -71,4 +71,3 @@ Nenurodyta
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/santvarka]]
-- [[objektai/ivykiai/Voluinės ir Lietuvos kunigaikščių sutartis (1219 m.)]]

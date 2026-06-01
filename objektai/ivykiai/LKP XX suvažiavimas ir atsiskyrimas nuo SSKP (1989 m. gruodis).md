@@ -47,26 +47,11 @@ Nenurodyta
 - t-002
   teiginys: 'Komunistų partijos veiklai didelę įtaką turėjo 1989 m. gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
-    gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc.
-    lietuviai) XX suvažiavimas. Suvažiavimo metu „už savarankišką LKP, tu-
-    rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-
-    skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
-    turinti reformuotą programą ir naują statutą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Komunistų partijos veiklai didelę įtaką turėjo 1989 m. gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -84,9 +69,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]
-- [[objektai/grupes/Sovietų Sąjungos komunistų partija]]

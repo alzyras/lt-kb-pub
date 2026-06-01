@@ -19,13 +19,14 @@ Beveik tuo pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką Dievu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Beveik tuo pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką Dievui už puikią savo pergalę, ant kalvelės, netoli Medinin­ kų vartų, pastatė mūrinę Švč.'
+  teiginys: 'Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Beveik tuo

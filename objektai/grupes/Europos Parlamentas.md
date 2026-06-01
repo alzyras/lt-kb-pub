@@ -24,9 +24,9 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
 ## Teiginiai
 
 - t-001
-  teiginys: 'Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų ministras Antanas Valionis pasirašo stojimo į Europos Sąjungą sutartį L I E T U V O S I S T O R I J A 262 Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais.'
+  teiginys: 'Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Lietuva, įstojusi į ES, Europos Parlamente turėjo 12 europarlamentarų.'
@@ -34,9 +34,9 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
     - c-001
 
 - t-003
-  teiginys: 'Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių narių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir konsulinių kiekvienos šalies.'
+  teiginys: 'ES piliečiai turi teisę balsuoti ir kandidatuoti Europos Parlamento rinkimuose toje šalyje, kurioje gyvena.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -59,28 +59,10 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir
-    užsienio reikalų ministras Antanas Valionis pasirašo stojimo į
-    Europos Sąjungą sutartį
-
-    L I E T U V O S  I S T O R I J A
-    262
-    Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
-    simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
-    mente – 12 europarlamentarų. Taigi, nors pavienės šalies įtaka ES spren-
-    dimams nedidelė, Vidurio ir Rytų Europos šalių pozicijoms tam tikrais
-    atvejais sutapus, jų kolektyvinė galia gali gerokai padidėti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
+  santrauka: 'ES piliečiai turi teisę balsuoti ir kandidatuoti Europos Parlamento rinkimuose toje šalyje, kurioje gyvena.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visų šalių narių piliečiai kartu yra ir ES piliečiai. Kiek­
@@ -103,6 +85,5 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
 - [[objektai/asmenys/Algirdas Brazauskas]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Valionis]]
-- [[objektai/zodynas/ES pilietis]]
 - [[objektai/zodynas/peticija]]
 - [[objektai/grupes/Europos Sąjunga]]

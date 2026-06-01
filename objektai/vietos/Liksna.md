@@ -26,7 +26,7 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kilmingasai ir malonusis magistrė, žinokite, kad buvau pasiun­ tęs iš Liksnos į Lietuvą Petrą viską susižinoti.'
+  teiginys: 'Iš Liksnos į Lietuvą buvo pasiųstas Petras surinkti žinių apie Švitrigailos padėtį.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
     - t-002
 
 - c-002
+  santrauka: 'Iš Liksnos į Lietuvą buvo pasiųstas Petras surinkti žinių apie Švitrigailos padėtį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     164

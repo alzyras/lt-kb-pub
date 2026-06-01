@@ -23,13 +23,14 @@ Dusburgietis teigia, kad pollakówna M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pollakówna M.'
+  teiginys: 'M. Pollakównos straipsnis „Galindia“ paskelbtas SSS 2 tomo 1 dalyje, 1964 m. Vroclave, Varšuvoje ir Krokuvoje, p. 78–79.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Pollakównos straipsnis „Galindia“ paskelbtas SSS 2 tomo 1 dalyje, 1964 m. Vroclave, Varšuvoje ir Krokuvoje, p. 78–79.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.

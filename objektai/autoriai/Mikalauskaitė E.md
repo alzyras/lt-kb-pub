@@ -14,16 +14,10 @@ tags:
 
 Dusburgietis teigia, kad mikalauskaitė E.
 
-## Teiginiai
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad mikalauskaitė E.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mikalauskaitė E. 1938 m. „Archivum philologicum“ paskelbė darbą apie priešreformacinių laikų prūsiško „Tėve mūsų“ nuotrupą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum
@@ -32,5 +26,3 @@ Dusburgietis teigia, kad mikalauskaitė E.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-001

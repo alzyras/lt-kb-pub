@@ -47,14 +47,14 @@ periodo_grupes:
     - c-002
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­ vimą 1272 viešpaties metais popiežiumi buvo Grigalius X.'
+  teiginys: 'Popiežius Grigalius X 1272 m. kanonizavo šventą Jadvygą, Lenkijos kunigaikštienę.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-006
   teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -116,23 +116,10 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    ABIEJŲ TAUTŲ RESPUBLIKA
-    Liublino unija
-    1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
-    ir Lenkijos suartėjimas. „Šventos santuokos“ metafora dažnai taikoma
-    visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino uni-
-    ja, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
 
-- c-006
+- c-005
+  santrauka: 'Popiežius Grigalius X 1272 m. kanonizavo šventą Jadvygą, Lenkijos kunigaikštienę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     54. Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­
@@ -146,7 +133,7 @@ periodo_grupes:
   pagrindžia:
     - t-005
 
-- c-007
+- c-006
   santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

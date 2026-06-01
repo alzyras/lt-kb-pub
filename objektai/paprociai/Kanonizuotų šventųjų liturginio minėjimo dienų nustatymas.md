@@ -52,12 +52,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą 1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.'
   pagrindžia:
     - c-001
-    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą 1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino, ir liepė švęsti jo gimimą penktą dieną po žolinės (Mart.'
   pagrindžia:
-    - c-004
     - c-002
 
 ## Reikšmingi paminėjimai
@@ -77,30 +75,6 @@ Nenurodyta
     - t-001
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus
-    Roberto brolį iš mažesniųjų brolių ordino,  ir liepė švęsti jo gimimą penktą dieną po
-    žolinės (Mart. p. 449).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą
-    Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.
-    p. 446; Ptol. p. 1240).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą

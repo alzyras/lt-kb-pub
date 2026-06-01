@@ -59,7 +59,7 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
     - c-001
 
 - t-002
-  teiginys: 'Daugelis gyventojų pardavė čekius ir nesugebėjo privatizuoti savo gyvenamojo būsto.'
+  teiginys: 'Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto.'
   pagrindžia:
     - c-002
 
@@ -83,6 +83,7 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
     - t-001
 
 - c-002
+  santrauka: 'Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
@@ -106,5 +107,4 @@ Nenurodyta
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
-- [[objektai/daiktai/Investiciniai čekiai]]
 - [[objektai/zodynas/Privatizacija ir išvalstybinimas]]

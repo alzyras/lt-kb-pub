@@ -17,13 +17,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '(^5) ) Bet minėtame akte Vytautas, kaip ir vėliau, save tituluoja: Ale­ xander alias Witowdus dei gracia magnus dux Litwanie.'
+  teiginys: 'Vytautas minėtame akte save titulavo „Alexander alias Witowdus dei gracia magnus dux Litwanie“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas minėtame akte save titulavo „Alexander alias Witowdus dei gracia magnus dux Litwanie“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     (^5) ) Bet minėtame akte Vytautas, kaip ir vėliau, save tituluoja: Ale­
@@ -39,3 +40,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

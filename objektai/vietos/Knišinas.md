@@ -28,12 +28,12 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos sostinę: užbaigti pradėtą statyti Šv.'
+  teiginys: 'Mirdamas Knišine, Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Pats numirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų am­ žiaus].'
+  teiginys: 'Žygimantas Augustas mirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų amžiaus.'
   pagrindžia:
     - c-001
 
@@ -45,6 +45,7 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Augustas mirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų amžiaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Testamentum Domini Sigismundi Augusti Regis Poloniae.
@@ -62,6 +63,7 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
     - t-002
 
 - c-002
+  santrauka: 'Mirdamas Knišine, Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mir­

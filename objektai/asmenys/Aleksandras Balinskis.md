@@ -60,22 +60,22 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - t-003
   teiginys: 'Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.'
   pagrindžia:
-    - c-003
+    - c-004
 
 - t-004
   teiginys: 'Aleksandras Balinskis siejamas su karališkosios vaistinės dalimi, kuri liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Sun- 47 kiai atkentėjo Balinskis už savo gydyStrijkovskis savo metraštyje, mo ir alchemijos aistrą; pirmiausia po 1.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-006
-  teiginys: 'Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­ dymo meną išmanantys: vienas - pagal profesiją fizikas, arba rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas; antras, pagarsėjęs alchemijos išmanymu.'
+  teiginys: 'Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -122,42 +122,7 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     - t-002
 
 - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Le Roi ir homeopatijos mėgėjai. Sun- 47
-    kiai atkentėjo Balinskis už savo gydy- Strijkovskis savo metraštyje,
-    mo ir alchemijos aistrą; pirmiausia po 1. 681-687, plačiai ir ganėtinai žais-
-    karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
-    niuje iki pat Žygimanto atvykimo, o pergalę.
-    paskui, sugrįžęs į Krokuvą, vėl bu-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA I I  TOMAS
-    Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­
-    niais laikais. Tik kai Aleksandrą kelerius metus nuolat ka­
-    mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­
-    dymo meną išmanantys: vienas - pagal profesiją fizikas, arba
-    rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas;
-    antras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­
-    dymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus
-    gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­
-    nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
-    miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
-    tapo nuolatinės miesto vaistinės pradžia.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
+  santrauka: 'Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Livoniae, T. I,
@@ -187,8 +152,9 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   statusas: verified
   pagrindžia:
     - t-006
+    - t-004
 
-- c-006
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Le Roi ir homeopatijos mėgėjai. Sun- 47
@@ -208,6 +174,7 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   statusas: verified
   pagrindžia:
     - t-005
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

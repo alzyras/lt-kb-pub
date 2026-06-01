@@ -20,18 +20,19 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų.'
+  teiginys: 'Vilniaus tarėjams nurodyta su valdinių turinčiais ponais susitarti dėl duonos dydžio, svorio ir miesto tvarkos.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
+  teiginys: 'Vilniaus vaitas ir tarėjai tvirtino, kad katedros kapitula nepagrįstai plečia jurisdikciją miesto gyventojams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vaitas ir tarėjai tvirtino, kad katedros kapitula nepagrįstai plečia jurisdikciją miesto gyventojams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skelbiame visiems, kam da­
@@ -61,6 +62,7 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
     - t-002
 
 - c-002
+  santrauka: 'Vilniaus tarėjams nurodyta su valdinių turinčiais ponais susitarti dėl duonos dydžio, svorio ir miesto tvarkos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir todėl patiems ar jų
@@ -101,5 +103,6 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
 - [[objektai/zodynas/oficijolas]]
 - [[objektai/zodynas/regula]]
 - [[objektai/zodynas/vaitas]]
+- [[objektai/zodynas/jurisdikcija]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]

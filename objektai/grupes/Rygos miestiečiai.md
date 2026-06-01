@@ -27,7 +27,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 ## Teiginiai
 
 - t-001
-  teiginys: '" Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui ir platino melagingą žinią, jog Gedimi­ nas norėjęs krikštytis.'
+  teiginys: 'Rygos miestiečiai ir arkivyskupas pajūrio miestuose bei Apaštalų Soste skelbė, kad Gediminas norėjęs krikštytis.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rygos miestiečiai ir arkivyskupas pajūrio miestuose bei Apaštalų Soste skelbė, kad Gediminas norėjęs krikštytis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Panašių
@@ -103,5 +104,6 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 - [[objektai/zodynas/magistras]]
 - [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]
 - [[objektai/autoriai/Jerošinas Jeroschin]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Eberhardas iš Manheimo]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

@@ -56,4 +56,3 @@ periodo_grupes:
 - [[objektai/zodynas/chanas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Užvolgio totoriai]]
-- [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]

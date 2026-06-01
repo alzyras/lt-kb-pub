@@ -72,6 +72,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -127,24 +128,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-005
-  santrauka: 'Dusburgietis teigia, kad 1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    539  Į Kujavijos Brestą.
-
-    1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai
-    rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę
-    ir patraukė prie lietuvių sienų. Čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir
-    pasakė: „Ir tu būsi išduotas, ir tavo broliai bus išduoti, jeigu įeisite  į lietuvių žemę;
-    jie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu
-    tučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

@@ -55,5 +55,4 @@ periodo_grupes:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/lauko stovykla]]
 - [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]

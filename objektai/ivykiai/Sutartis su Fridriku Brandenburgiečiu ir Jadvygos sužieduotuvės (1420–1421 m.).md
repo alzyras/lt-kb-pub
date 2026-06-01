@@ -93,4 +93,3 @@ Nenurodyta
 - [[objektai/zodynas/elektorius]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/markgrafas]]

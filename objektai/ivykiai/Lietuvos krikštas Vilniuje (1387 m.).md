@@ -67,13 +67,14 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
     - c-003
 
 - t-005
-  teiginys: 'Gniezno arkivyskupas Bodzanta pašventino katedrą, o karalienė Jadvyga ją apdovanojo brangiais rykais ir manta.'
+  teiginys: 'Per Lietuvos krikštą Vilniuje Gniezno arkivyskupas Bodzanta pašventino Šv. Stanislovo katedrą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Lietuvos krikštą Vilniuje Gniezno arkivyskupas Bodzanta pašventino Šv. Stanislovo katedrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iškil­

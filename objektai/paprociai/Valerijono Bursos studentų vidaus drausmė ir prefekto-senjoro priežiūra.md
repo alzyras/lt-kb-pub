@@ -96,5 +96,5 @@ Nenurodyta
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/senjoras]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/grupes/Valerijono Bursos studentų bendrija]]

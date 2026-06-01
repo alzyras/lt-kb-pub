@@ -32,7 +32,7 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
 - t-003
   teiginys: 'Nors chasidizmas buvo liberalesnė ir demokratiškesnė judaizmo atšaka, atsisakydamas griežtų religijos, dorovės ir apskritai gyvensenos normų, kėlė pavojų pačiam žydiškumui išlaikyti.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -51,6 +51,7 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -69,22 +70,6 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors chasidizmas buvo liberalesnė ir de-
-    mokratiškesnė judaizmo atšaka, atsisakydamas griežtų religijos, dorovės ir
-    apskritai gyvensenos normų, kėlė pavojų pačiam žydiškumui išlaikyti. Vil-
-    niaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus
-    esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
-    plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
-    jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

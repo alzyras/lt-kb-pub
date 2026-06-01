@@ -18,13 +18,14 @@ Grafas Ado­ mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Grafas Ado­ mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų biblio­ tekos turtus.'
+  teiginys: 'Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus praeities žinovas Mikalojus Malinovskis padėjo

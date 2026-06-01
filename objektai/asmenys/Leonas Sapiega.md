@@ -28,13 +28,14 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prikabin­ tas Lietuvos antspaudas, pasirašė Leonas Sapiega, Lietuvos Didžiosios Kunigaikštystės pakancleris.'
+  teiginys: '1585 m. Varšuvos seime išduotą privilegiją pasirašė Lietuvos Didžiosios Kunigaikštystės pakancleris Leonas Sapiega.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1585 m. Varšuvos seime išduotą privilegiją pasirašė Lietuvos Didžiosios Kunigaikštystės pakancleris Leonas Sapiega.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Paleckių mirties jų

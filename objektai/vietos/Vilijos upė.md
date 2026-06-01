@@ -20,18 +20,19 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
+  teiginys: 'Per Vilijos upę tarp Verkių ir Panerių buvo uždrausti perkėlimai plaustais, kad nebūtų kenkiama nustatytam muitui.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
+  teiginys: 'Prie Vilniaus per Vilijos upę naudota perkėla kėlė sunkumų, išlaidų ir nepatogumų LDK valdiniams bei kitiems žmonėms.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Vilijos upę tarp Verkių ir Panerių buvo uždrausti perkėlimai plaustais, kad nebūtų kenkiama nustatytam muitui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nederėtų, be
@@ -58,6 +59,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     - t-001
 
 - c-002
+  santrauka: 'Prie Vilniaus per Vilijos upę naudota perkėla kėlė sunkumų, išlaidų ir nepatogumų LDK valdiniams bei kitiems žmonėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu

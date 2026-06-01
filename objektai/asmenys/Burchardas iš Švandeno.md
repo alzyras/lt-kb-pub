@@ -57,27 +57,9 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis Mangoldas [iš Šternbergo], vienuoliktas Prūsijos magistras, vadovavo dvejus
-    metus. Anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs
-    Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,
-    kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o
-    grįždamas namo, kelyje ir pasimirė.
-
-
-
-
-                     204 (199).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą, kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -98,23 +80,7 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino didysis magistras.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    70. Apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą
-
-      Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino
-    didysis magistras. Nežinau, kas jį bus paskatinęs, bet tuo metu, kai turėjo patraukti ginti
-
-    šventosios žemės, jis, pasiprašęs leidimo ir jį gavęs, nusivilko Teutonų ordino apsiaustą
-    ir apsivilko hospitaljerų ordino abitą, kuriuo vilkėdamas vėliau ir mirė.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

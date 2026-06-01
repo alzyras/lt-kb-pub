@@ -24,7 +24,7 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: ': Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais, rink.'
+  teiginys: 'A. Šapokos „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdintas rinkinyje „Jogaila“ 1935 m., p. 185-266.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Šapokos „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdintas rinkinyje „Jogaila“ 1935 m., p. 185-266.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — (”) _O litewskich rodach

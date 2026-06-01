@@ -38,7 +38,7 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     - c-001
 
 - t-002
-  teiginys: 'Tas projektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­ tuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­ bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų nebegalėję būti, nes karūna su karūna negali bū­ ti.'
+  teiginys: 'Atskiros Lietuvos karalijos projektas būtų panaikinęs inkorporacijos klausimą, nes karūna su karūna negalėjo būti sujungta.'
   pagrindžia:
     - c-002
 
@@ -64,6 +64,7 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     - t-001
 
 - c-002
+  santrauka: 'Atskiros Lietuvos karalijos projektas būtų panaikinęs inkorporacijos klausimą, nes karūna su karūna negalėjo būti sujungta.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila pastaruoju projektu, jei būtų jis įvy­

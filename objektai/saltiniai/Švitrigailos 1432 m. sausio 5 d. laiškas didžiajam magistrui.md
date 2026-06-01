@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų.'
+  teiginys: '1432 m. sausio 5 d. laiške didžiajam magistrui Švitrigaila rašė, kad karalius išlaisvino Rampoldą ir Goštautą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1432 m. sausio 5 d. laiške didžiajam magistrui Švitrigaila rašė, kad karalius išlaisvino Rampoldą ir Goštautą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­

@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Salza tepasiuntė Livonijon du savo įgaliotinius, kad ištirtų kalavi­ juočių gyvenimą ir paruoštų planą jiems priimti.'
+  teiginys: 'Salza pasiuntė į Livoniją du įgaliotinius ištirti kalavijuočių gyvenimą ir parengti jų priėmimo planą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Salza pasiuntė į Livoniją du įgaliotinius ištirti kalavijuočių gyvenimą ir parengti jų priėmimo planą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Salza tepasiuntė Livonijon du savo įgaliotinius, kad ištirtų kalavi­

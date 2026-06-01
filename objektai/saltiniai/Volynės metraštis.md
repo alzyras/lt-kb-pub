@@ -31,7 +31,7 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis — Krismence (ПСРЛ, 2, стб.'
+  teiginys: 'Volynės metraštyje teritorija Crasim minima forma Krismence.'
   pagrindžia:
     - c-002
 
@@ -54,6 +54,7 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
     - t-001
 
 - c-002
+  santrauka: 'Volynės metraštyje teritorija Crasim minima forma Krismence.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis —

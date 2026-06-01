@@ -37,7 +37,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Vartenbergo pilies užkariavimą Pagonys, tiek kartų ir taip gausiai lieję krikščionių kraują, ir toliau nesiliovė jų persekioję.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -53,20 +52,6 @@ Nenurodyta
     brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pagonys, tiek kartų  ir taip gausiai  lieję krikščionių kraują,  ir toliau nesiliovė jų
-    persekioję. Jie iš paskutiniųjų stengėsi visiškai juos sunaikinti. Sūduviai, subūrę dar
-    didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
-    kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du
-    brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

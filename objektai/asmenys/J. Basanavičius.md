@@ -19,18 +19,19 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
 ## Teiginiai
 
 - t-001
-  teiginys: 'Basanavičius.'
+  teiginys: 'J. Basanavičius vadinamas tautos patriarchu ir siejamas su Lietuvos Respublikos ištakomis.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.'
+  teiginys: '1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Basanavičius vadinamas tautos patriarchu ir siejamas su Lietuvos Respublikos ištakomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O
@@ -49,6 +50,7 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
     - t-001
 
 - c-002
+  santrauka: '1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusija, Austrija ir Prūsija galutinai pasidalija Lenkijos ir Lietuvos valsty-
@@ -66,5 +68,6 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
 ### Susiję objektai
 - [[objektai/grupes/Aušrininkai]]
 - [[objektai/grupes/Lietuvių Mokslo Draugija]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]

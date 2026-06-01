@@ -25,13 +25,14 @@ Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui V
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui Vilčiopolskiui.'
+  teiginys: 'Vilniaus kanauninkas Vilčiopolskis iš Jono Neliubovičiaus įsigijo mūrinį namą su sklypu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus kanauninkas Vilčiopolskis iš Jono Neliubovičiaus įsigijo mūrinį namą su sklypu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jonas Neliubovičius mūrinį namą su sklypu par­

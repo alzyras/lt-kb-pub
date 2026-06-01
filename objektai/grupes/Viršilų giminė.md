@@ -20,13 +20,14 @@ Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vano
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vanota Viršilų giminei, paskui perėjo Glebavičių paveldui, po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­ versitetui.'
+  teiginys: 'Pilaitėje buvusi kunigaikščių pilis vėliau buvo dovanota Viršilų giminei.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pilaitėje buvusi kunigaikščių pilis vėliau buvo dovanota Viršilų giminei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pilaitė, jėzuitų buvusi, per mylią

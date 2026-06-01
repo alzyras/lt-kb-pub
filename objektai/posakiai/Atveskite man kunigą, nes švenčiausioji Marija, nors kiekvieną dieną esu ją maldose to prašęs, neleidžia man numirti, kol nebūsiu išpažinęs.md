@@ -24,13 +24,14 @@ Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu: „Atveskite man kunigą, nes švenčiausioji.'
+  teiginys: '1302 m. Perudžoje nukirsta plėšiko galva paprašė atvesti kunigą, nes Marija neleido jam mirti neišpažinus nuodėmių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1302 m. Perudžoje nukirsta plėšiko galva paprašė atvesti kunigą, nes Marija neleido jam mirti neišpažinus nuodėmių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieną švenčiausiosios mergelės stebuklą
@@ -50,23 +51,7 @@ Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu: „Atveskite man kunigą, nes švenčiausioji.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    92. Apie vieną švenčiausiosios mergelės stebuklą
-
-      1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai
-    gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu:
-    „Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose
-    to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs visų savo nuodėmių”. Šitaip ir
-    įvyko.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Marija]]
 - [[objektai/ivykiai/Perudžos stebuklas su nubausto plėšiko galva (1302 m.)]]

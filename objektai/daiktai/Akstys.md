@@ -35,7 +35,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Akstys buvo duriamieji ginklai su aštriais akmenimis vietoje iečių.'
+  teiginys: 'Akstys buvo ginklai, kurių galuose vietoj ietigalių buvo įtaisyti aštrūs akmenys.'
   pagrindžia:
     - c-001
 
@@ -47,6 +47,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Akstys buvo ginklai, kurių galuose vietoj ietigalių buvo įtaisyti aštrūs akmenys.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     It^1328 arti susirėmus, kibo į brūklius rendėtinius, ant galo puolė ant neprieteliaus su akmeniniais kirviais

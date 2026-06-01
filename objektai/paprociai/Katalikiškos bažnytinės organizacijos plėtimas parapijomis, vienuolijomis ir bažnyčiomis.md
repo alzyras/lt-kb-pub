@@ -39,7 +39,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Net toliausiai nuo vyskupijų centrų buvo kuriamos parapijos ir statomos bažnyčios.'
+  teiginys: 'Katalikiška bažnytinė organizacija plėtėsi kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.'
   pagrindžia:
     - c-001
 
@@ -51,6 +51,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Katalikiška bažnytinė organizacija plėtėsi kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iki XVI  a. vidurio susikūrė sep-

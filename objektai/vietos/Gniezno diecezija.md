@@ -20,13 +20,14 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam bet ir kai kuriais padavimais ar užuominomis, kurias aptikau Vil­ niaus kapitulos ar Karaliauč.'
+  teiginys: 'Vilniaus katedrai skirtų pajamų dalimi buvo turtinga Klodovo klebonija Gniezno diecezijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus katedrai skirtų pajamų dalimi buvo turtinga Klodovo klebonija Gniezno diecezijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius tuoj pat

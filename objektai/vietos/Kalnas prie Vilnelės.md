@@ -30,13 +30,14 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
     - c-002
 
 - t-002
-  teiginys: '62 Pagal vietinį Vilniaus paprotį, Beke­ šas dėl to turėjęs būti palaidotas ant kalno už miesto, kadangi buvęs arijonas.'
+  teiginys: 'Kasparas Bekešas buvo palaidotas ant kalno už Vilniaus miesto, po apvaliu bokštu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kasparas Bekešas buvo palaidotas ant kalno už Vilniaus miesto, po apvaliu bokštu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     62

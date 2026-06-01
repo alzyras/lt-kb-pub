@@ -64,18 +64,19 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     - c-009
 
 - t-008
-  teiginys: 'Aleksandras (didysis kunigaikštis): tad, rasit sekdamas tuo pavyz- džiu, Aleksandras 1495 m. tam tikru įsakymu išvarė žydus iš Lietuvos; jų turtus didysis kunigaikštis sau konfiskavo.'
+  teiginys: 'Aleksandras 1495 m. įsakymu išvarė žydus iš Lietuvos ir konfiskavo jų turtus.'
   pagrindžia:
     - c-005
 
 - t-009
-  teiginys: 'sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).'
+  teiginys: 'XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos bėda, kad
@@ -133,6 +134,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     - t-003
 
 - c-005
+  santrauka: 'Aleksandras 1495 m. įsakymu išvarė žydus iš Lietuvos ir konfiskavo jų turtus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jiems tuomet buvo įsiskolinę daug ba-

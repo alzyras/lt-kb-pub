@@ -49,24 +49,8 @@ Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies, laivą pagriebė smarkus vėjas ir nubloškė prie kranto.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    317 (310). Apie vieną brolių karo laivą
-
-      Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
-    sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,
-    laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
-    ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]

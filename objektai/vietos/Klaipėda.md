@@ -46,192 +46,187 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - t-001
   teiginys: 'Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos pilim jis jau nebeturėjo ryšio.'
   pagrindžia:
-    - c-031
+    - c-027
 
 - t-002
-  teiginys: 'Kovo 23-iąją d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį, karo laivu į Klaipėdą atplaukė A.'
+  teiginys: '1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį.'
   pagrindžia:
-    - c-035
+    - c-031
 
 - t-003
-  teiginys: 'Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje L I E T U V O S I S T O R I J A 218 Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietuviai sudarė apie 80 proc.'
+  teiginys: 'Sovietmečiu daug rusakalbių apsigyveno Klaipėdoje, Vilniuje ir Sniečkuje, dabartiniame Visagine.'
   pagrindžia:
-    - c-022
+    - c-020
 
 - t-004
   teiginys: 'Lietuvai suduotas ir didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc.'
   pagrindžia:
-    - c-025
+    - c-023
 
 - t-005
   teiginys: '1922 m. pradžioje Lietuvos atstovas Klaipėdoje Jonas Žilius pranešė vyriausybei, kad tėra viena galimybė pasiimti miestą – užimti jį karine jėga.'
   pagrindžia:
-    - c-040
+    - c-034
 
 - t-006
   teiginys: 'Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų.'
   pagrindžia:
-    - c-021
+    - c-019
 
 - t-007
   teiginys: 'Tuo metu žemaičiai puolė Klaipėdą.'
   pagrindžia:
-    - c-020
+    - c-018
 
 - t-008
   teiginys: 'Tačiau vėliau jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei Užnemunę.'
   pagrindžia:
-    - c-032
+    - c-028
 
 - t-009
   teiginys: 'Klaipėda slydo iš Lietuvos kontrolės.'
   pagrindžia:
-    - c-028
+    - c-025
 
 - t-010
   teiginys: 'Dusburgietis teigia, kad nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187.'
   pagrindžia:
-    - c-034
+    - c-030
 
 - t-011
   teiginys: '1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti lietuvių karo pergalių pavadinimai.'
   pagrindžia:
-    - c-036
+    - c-009
 
 - t-012
   teiginys: 'Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.'
   pagrindžia:
-    - c-019
+    - c-017
 
 - t-013
   teiginys: 'Dusburgietis teigia, kad tuo pat metu „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.'
   pagrindžia:
-    - c-024
+    - c-022
 
 - t-014
-  teiginys: 'Pažymėtini Šležo stambesni darbai (at­ spaudai) : 1) «Klaipėdos miesto istorija 1252-1466 » (MŽ, 1933); 2) «Mindaugas-Lietuvos karalius» (t.'
-  pagrindžia:
-    - c-002
-
-- t-015
   teiginys: 'Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai, lamatiečiai, dar toliau į šiaurę, Klaipėdos apylinkėse (dab.'
   pagrindžia:
-    - c-023
+    - c-021
 
-- t-016
+- t-015
   teiginys: 'Senoji tos vietos sodyba buvo vadinama Klaipėda; ordinas ją pavadino vokišku Nemuno vardu — Memel.'
   pagrindžia:
     - c-001
 
-- t-017
+- t-016
   teiginys: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
   pagrindžia:
-    - c-039
+    - c-017
 
-- t-018
+- t-017
   teiginys: 'Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.'
-  pagrindžia:
-    - c-018
-
-- t-020
-  teiginys: 'Tarp jų į Klaipėdą žygiavo 40 reguliariosios kariuomenės karininkų ir 584 kariai, kiti – šauliai, studentai ir apie 300 vietinių gyventojų, tarp jų keli vokiečiai, kaip įrodymas sąjungininkams, kad sukilo vietiniai.'
-  pagrindžia:
-    - c-038
-
-- t-021
-  teiginys: 'Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo.'
-  pagrindžia:
-    - c-015
-
-- t-022
-  teiginys: 'Tik Klaipėda atlaikė žemaičių puolimus^69.'
-  pagrindžia:
-    - c-006
-
-- t-023
-  teiginys: 'Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.'
-  pagrindžia:
-    - c-037
-
-- t-024
-  teiginys: 'Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti lietuvių karo pergalių pavadinimai.'
-  pagrindžia:
-    - c-029
-
-- t-025
-  teiginys: 'Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.'
   pagrindžia:
     - c-016
 
-- t-026
-  teiginys: 'Nors Klaipėdai nė iš tolo neteko suvaidinti tokios rolės, kuri buvo tekusi prieš lybius ir lat­ vius Rygai ar prie Priegliaus — Karaliaučiui (1254 m.), tačiau Klai­ pėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, juo labiau, kad Prūsų ordinas XIII amž..'
-  pagrindžia:
-    - c-003
-
-- t-027
-  teiginys: 'Jogailos ir Vytauto atstovai, prisimindami Žemaitijos sienų ginčus, pažymėjo, jog kryžiuočiai « tuo pačiu būdu laiko užėmę » Klaipėdos pilį, kuri esanti statyta Žemaičių žemėje^32.'
-  pagrindžia:
-    - c-008
-
-- t-028
-  teiginys: 'Vytautas teigė, jog pati Klaipėda priklausanti Žemaičių plotui^1.'
-  pagrindžia:
-    - c-007
-
-- t-029
-  teiginys: 'Nors Žemaičiai, savo įtakoje laikydami pajūrio plotą, tuojau pat ėmė puldinėti Klaipėdą^137 , tačiau jai, bent teoretiškai, Livo­ nijos ordinas tuoj gavo (1253 m.) platų užnugarį.'
-  pagrindžia:
-    - c-004
-
-- t-030
-  teiginys: 'Čia prekyba buvo daugiau suvaržyta tik 1629—1635 m., kai Prūsų pakrantės miestus, o jų tarpe ir Klaipėdą, valdė švedai.'
-  pagrindžia:
-    - c-014
-
-- t-031
-  teiginys: 'Nustojęs vilties veikiai nukariauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuočiams (1328 m.).'
-  pagrindžia:
-    - c-012
-
-- t-032
-  teiginys: 'Jis apvažiavo Že­ maičių kraštą, apklausė vietinių gyventojų, vokiečių liudininkų ir sudarė sienų raportą, kuriame į Žemaitijos ribas įskaitė ne tik Veliuoną, bet ir Klaipėdą.'
-  pagrindžia:
-    - c-009
-
-- t-033
-  teiginys: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva L I E T U V O.'
+- t-019
+  teiginys: 'Tarp jų į Klaipėdą žygiavo 40 reguliariosios kariuomenės karininkų ir 584 kariai, kiti – šauliai, studentai ir apie 300 vietinių gyventojų, tarp jų keli vokiečiai, kaip įrodymas sąjungininkams, kad sukilo vietiniai.'
   pagrindžia:
     - c-033
 
-- t-034
-  teiginys: 'Galima sakyti, kad dvi svarbiausios užsienio politikos problemos – Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį.'
-  pagrindžia:
-    - c-030
-
-- t-035
-  teiginys: 'Birželio 10 dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje.'
-  pagrindžia:
-    - c-026
-
-- t-036
-  teiginys: 'Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.'
-  pagrindžia:
-    - c-027
-
-- t-037
-  teiginys: 'Prūsijoje (ji, kaip Lenkijos lenas, buvo valdoma Brandenburgo elektoriaus) 6 metams buvo palikti švedams kai kurie uostai, jų tarpe ir Klaipėda.'
+- t-020
+  teiginys: 'Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo.'
   pagrindžia:
     - c-013
 
-- t-038
-  teiginys: 'Žemaičiai 1402 m. gegužės mėnesį sudegino Klaipėdą, o pats Vytautas Nevėžio žiotyse sugriovė Gotteswerderi^24.'
+- t-021
+  teiginys: 'Tik Klaipėda atlaikė žemaičių puolimus^69.'
   pagrindžia:
     - c-005
 
-- t-039
+- t-022
+  teiginys: 'Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.'
+  pagrindžia:
+    - c-032
+
+- t-023
+  teiginys: 'Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti lietuvių karo pergalių pavadinimai.'
+  pagrindžia:
+    - c-009
+
+- t-024
+  teiginys: 'Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.'
+  pagrindžia:
+    - c-014
+
+- t-025
+  teiginys: 'Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.'
+  pagrindžia:
+    - c-002
+
+- t-026
+  teiginys: 'Jogailos ir Vytauto atstovai, prisimindami Žemaitijos sienų ginčus, pažymėjo, jog kryžiuočiai « tuo pačiu būdu laiko užėmę » Klaipėdos pilį, kuri esanti statyta Žemaičių žemėje^32.'
+  pagrindžia:
+    - c-007
+
+- t-027
+  teiginys: 'Vytautas teigė, jog pati Klaipėda priklausanti Žemaičių plotui^1.'
+  pagrindžia:
+    - c-006
+
+- t-028
+  teiginys: 'Žemaičiai, laikydami savo įtakoje pajūrio plotą, netrukus ėmė puldinėti Klaipėdą.'
+  pagrindžia:
+    - c-003
+
+- t-029
+  teiginys: 'Čia prekyba buvo daugiau suvaržyta tik 1629—1635 m., kai Prūsų pakrantės miestus, o jų tarpe ir Klaipėdą, valdė švedai.'
+  pagrindžia:
+    - c-012
+
+- t-030
+  teiginys: 'Nustojęs vilties veikiai nukariauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuočiams (1328 m.).'
+  pagrindžia:
+    - c-010
+
+- t-031
+  teiginys: 'Makras sienų raporte į Žemaitijos ribas įskaitė ne tik Veliuoną, bet ir Klaipėdą.'
+  pagrindžia:
+    - c-008
+
+- t-032
+  teiginys: 'Maskva grasino prijungti lietuvišką Klaipėdos kraštą prie RSFSR Kaliningrado srities.'
+  pagrindžia:
+    - c-029
+
+- t-033
+  teiginys: 'Galima sakyti, kad dvi svarbiausios užsienio politikos problemos – Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį.'
+  pagrindžia:
+    - c-026
+
+- t-034
+  teiginys: 'Birželio 10 dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje.'
+  pagrindžia:
+    - c-024
+
+- t-035
+  teiginys: 'Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.'
+  pagrindžia:
+    - c-032
+
+- t-036
+  teiginys: 'Prūsijoje (ji, kaip Lenkijos lenas, buvo valdoma Brandenburgo elektoriaus) 6 metams buvo palikti švedams kai kurie uostai, jų tarpe ir Klaipėda.'
+  pagrindžia:
+    - c-011
+
+- t-037
+  teiginys: 'Žemaičiai 1402 m. gegužės mėnesį sudegino Klaipėdą, o pats Vytautas Nevėžio žiotyse sugriovė Gotteswerderi^24.'
+  pagrindžia:
+    - c-004
+
+- t-038
   teiginys: 'Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.'
   pagrindžia:
-    - c-017
+    - c-015
 
 ## Reikšmingi paminėjimai
 
@@ -247,28 +242,10 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
 - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Filosofijos skyrių (1929) ir su kelių metų pertrauka Kauno aukš­
-    tesnėse mokyklose nuo 1929 m. dėstęs istoriją, jis vis intensyviai
-    rašinėjo į žurnalus ne tik iš senosios Lietuvos istorijos, bet ir iš
-    vėlesnių šimtmečių.
-    Suredagavęs monografiją apie Vytautą D., jis pats ten rašė
-    du straipsnius apie Vytauto santykius su Lenkija ir apie jo kon­
-    fliktą dėl karūnacijos. Pažymėtini Šležo stambesni darbai (at­
-    spaudai) : 1) «Klaipėdos miesto istorija 1252-1466 » (MŽ, 1933);
-    2) «Mindaugas-Lietuvos karalius» (t. p. 1934), ir 3) «Kęstučio
-    šeima » (t. p. 1933).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-003
+  santrauka: 'Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pavaduodamas susirgusį Livonijos magistrą,
@@ -286,9 +263,10 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-026
+    - t-025
 
-- c-004
+- c-003
+  santrauka: 'Žemaičiai, laikydami savo įtakoje pajūrio plotą, netrukus ėmė puldinėti Klaipėdą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nors Klaipėdai nė iš tolo
@@ -304,9 +282,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-029
+    - t-028
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Žygiais atsimokėjo ir priešas. Žemaičiai 1402 m. gegužės
@@ -318,9 +296,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-038
+    - t-037
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Krito jo statytos pilys, kurių įgulos
@@ -331,9 +309,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-021
 
-- c-007
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuoj po Torno taikos Vytautas ėmė reikalauti, kad į Žemaitijos
@@ -347,9 +325,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-027
 
-- c-008
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Čia vėl buvo iškeltas Algirdo laikų reika­
@@ -362,9 +340,10 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
+    - t-026
 
-- c-009
+- c-008
+  santrauka: 'Makras sienų raporte į Žemaitijos ribas įskaitė ne tik Veliuoną, bet ir Klaipėdą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordino pasiuntinys grįžo į Malburgą
@@ -378,9 +357,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-032
+    - t-031
 
-- c-010
+- c-009
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mindaugo ir
@@ -399,25 +378,12 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-040
+    - t-039
+    - t-011
+    - t-018
+    - t-023
 
-- c-011
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės fragmentas, jame iškalti žymiausių lietuvių karo pergalių pavadinimai („1236
-
-    2 Mm,
-
-    Šiauliai“; „1260 Durbė“; „1410 Griunvaldas“; „1506 Kleckas": „1514 Orša“; „1554 Ula”; „
-
-    1605 Kircholmas”; „1649 Lojovas”; „1854 [klaidinga data turėtų būti 1654] Šklovas“).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-019
-
-- c-012
+- c-010
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nustojęs vilties veikiai nuka-
@@ -432,9 +398,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-031
+    - t-030
 
-- c-013
+- c-011
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visa Livonija, anapus Dauguvos, su Ryga
@@ -446,9 +412,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-037
+    - t-036
 
-- c-014
+- c-012
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi jis buvo Lenkijos karaliaus lenininkas, tai
@@ -460,9 +426,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-029
 
-- c-015
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-
@@ -477,9 +443,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-020
 
-- c-016
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pralaimėjusi karą Vokietija tam ener-
@@ -494,9 +460,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-024
 
-- c-017
+- c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Akcija pradėta laiku: Vakaruose
@@ -509,9 +475,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-039
+    - t-038
 
-- c-018
+- c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Memoran-
@@ -531,9 +497,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
-- c-019
+- c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
@@ -546,8 +512,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   statusas: verified
   pagrindžia:
     - t-012
+    - t-016
 
-- c-020
+- c-018
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo tar-
@@ -564,7 +531,7 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - t-007
 
-- c-021
+- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Ašies“ susidarymas kilus politinei krizei dėl užsienio intervencijos rodė
@@ -583,7 +550,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - t-006
 
-- c-022
+- c-020
+  santrauka: 'Sovietmečiu daug rusakalbių apsigyveno Klaipėdoje, Vilniuje ir Sniečkuje, dabartiniame Visagine.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     – atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į
@@ -603,7 +571,7 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - t-003
 
-- c-023
+- c-021
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Į šiaurę nuo Nemuno žiočių, Minijos
@@ -615,9 +583,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
-- c-024
+- c-022
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
@@ -637,7 +605,7 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - t-013
 
-- c-025
+- c-023
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O visa lietuvių
@@ -651,7 +619,7 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - t-004
 
-- c-026
+- c-024
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kadangi iniciatyvinę
@@ -665,26 +633,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-034
 
-- c-027
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    tarp šių dviejų pilių. Iš Dobės (šiaurėje),
-    Klaipėdos (vakaruose) ir Georgenburgo
-    (pietuose) Ordinas bandė spausti vakari-
-    nes lietuvių žemes. Vokiečiai siekė išsau-
-    goti lietuvių blokuojamą Georgenburgą
-    (Jurbarką), būrė dideles pajėgas Klaipė-
-    doje, rengdamiesi dideliam puolimui, kuris
-    galiausiai baigėsi mūšiu prie Durbės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-036
-
-- c-028
+- c-025
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Susikū-
@@ -700,23 +651,7 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - t-009
 
-- c-029
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės fragmentas, jame iškalti žymiausių lietuvių karo pergalių pavadinimai („1236
-
-    2 Mm,
-
-    Šiauliai“; „1260 Durbė“; „1410 Griunvaldas“; „1506 Kleckas": „1514 Orša“; „1554 Ula”; „
-
-    1605 Kircholmas”; „1649 Lojovas”; „1854 [klaidinga data turėtų būti 1654] Šklovas“).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-024
-
-- c-030
+- c-026
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau tai ir vieni, ir kiti darė savanaudiškai, nenu-
@@ -730,9 +665,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-034
+    - t-033
 
-- c-031
+- c-027
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet
@@ -747,7 +682,7 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - t-001
 
-- c-032
+- c-028
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Čia Vytautas pakartoja ankstesnių Lie-
@@ -762,7 +697,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - t-008
 
-- c-033
+- c-029
+  santrauka: 'Maskva grasino prijungti lietuvišką Klaipėdos kraštą prie RSFSR Kaliningrado srities.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau LKP pertvar-
@@ -783,9 +719,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-033
+    - t-032
 
-- c-034
+- c-030
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vysla — tai upė, atitekanti nuo
@@ -800,7 +736,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - t-010
 
-- c-035
+- c-031
+  santrauka: '1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į
@@ -817,28 +754,7 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - t-002
 
-- c-036
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mindaugo ir
-    vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-
-    dinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių
-    iki pat Žalgirio (1410). Nepaisant pavojų Vakaruose, Lietuvos
-
-    1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės fragmentas, jame iškalti žymiausių lietuvių karo pergalių pavadinimai („1236
-
-    2 Mm,
-
-    Šiauliai“; „1260 Durbė“; „1410 Griunvaldas“; „1506 Kleckas": „1514 Orša“; „1554 Ula”; „
-
-    1605 Kircholmas”; „1649 Lojovas”; „1854 [klaidinga data turėtų būti 1654] Šklovas“).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-037
+- c-032
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš Dobės (šiaurėje),
@@ -861,9 +777,10 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-022
+    - t-035
 
-- c-038
+- c-033
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sausio 9-ąją civiliai aprengti 1 050 Lietuvos savanorių, kurių
@@ -877,23 +794,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-019
 
-- c-039
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
-    nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
-    Lietuviams mainų principas netiko, nes Vilnius – senoji sostinė, tačiau
-    uostas labai rūpėjo. Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
-    nistracija, remiama bataliono prancūzų pėstininkų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-017
-
-- c-040
+- c-034
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ministras pirminin-
@@ -910,7 +813,7 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - t-005
 
-- c-041
+- c-035
   santrauka: 'Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -931,4 +834,4 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
+    - t-040

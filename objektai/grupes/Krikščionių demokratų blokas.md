@@ -28,50 +28,31 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 - t-001
   teiginys: 'Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir Lietuvos darbo federacija (LDF), joms.'
   pagrindžia:
-    - c-001
+    - c-004
 
 - t-002
   teiginys: 'Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruodžio 19 dieną sušaukė III Seimo nepaprastąjį posėdį.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
-  teiginys: 'L I E T U V O S I S T O R I J A 148 Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir.'
+  teiginys: 'Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo monopolizuoti ideologinės ir organizacinės erdvės.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
-    se, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos:
-    Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų są-
-    junga (LŪS) ir Lietuvos darbo federacija (LDF), joms atiteko 59 vietos).
-    Katalikiškame krašte tai nebuvo sensacija, nes tikinčios moterys balsa-
-    vo už kunigų partiją, be to, Katalikų bažnyčia, dvasininkai ėjo su aiškiais
-    antilenkiškais šūkiais ir, kas dar svarbiau, žadėjo nacionalizuoti arba ap-
-    karpyti dvarus ir išdalyti žemę valstiečiams. Kairysis valstiečių liaudinin-
-    kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
-    29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos politines jėgas veikė bendrieji Europos procesai – parla-
@@ -89,7 +70,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   pagrindžia:
     - t-005
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gąsdinamas pilietinio karo galimybe, kuria galėjo pasinaudoti Lenkija,
@@ -105,7 +86,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šia kons-
@@ -122,7 +103,8 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
+  santrauka: 'Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -142,8 +124,9 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
-- c-006
+- c-005
   santrauka: 'Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruodžio 19 dieną sušaukė III Seimo nepaprastąjį posėdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -168,14 +151,11 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 - [[objektai/grupes/Lietuvių krikščionių demokratų partija]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/grupes/Socialdemokratai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
-- [[objektai/asmenys/Aleksandras Stulginskis]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/grupes/III Seimas]]
 - [[objektai/grupes/Lietuvių tautininkų sąjunga]]

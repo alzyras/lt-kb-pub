@@ -42,7 +42,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M.'
+  teiginys: '1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje lietuvių inteligentų būrys įsteigė Lietuvos Persitvarkymo Sąjūdžio iniciatyvinę grupę.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje lietuvių inteligentų būrys įsteigė Lietuvos Persitvarkymo Sąjūdžio iniciatyvinę grupę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kritiškai mąstantys

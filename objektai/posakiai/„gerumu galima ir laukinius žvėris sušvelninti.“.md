@@ -18,13 +18,14 @@ Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto­ riams žeme
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto­ riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu galima ir laukinius žvėris sušvelninti.'
+  teiginys: 'Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai ant Dniepro
@@ -49,4 +50,5 @@ Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto­ riams žeme
 - [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti|gerumu galima ir laukinius žvėris sušvelninti.]]

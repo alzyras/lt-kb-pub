@@ -42,7 +42,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 - t-004
   teiginys: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
   teiginys: 'Lietuvos disidentinio judėjimo pradžia laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
@@ -144,23 +144,6 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sovietinė valdžia represijas prieš disidentus derino su dalinių
-    nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
-    nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
-    teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus). Skirtingai nei
-    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
-    Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
-    kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
-    politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
-    niuose forumuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
 ## Ryšiai
@@ -177,5 +160,3 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 - [[objektai/asmenys/Balys Gajauskas]]
 - [[objektai/ivykiai/Lietuvos laisvės lygos įkūrimas (1978 m.)]]
 - [[objektai/asmenys/Viktoras Petkus]]
-- [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai]]
-- [[objektai/zodynas/rezistentas]]

@@ -30,13 +30,14 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Lietuvos vardo.'
+  teiginys: 'Nuo Tacito aisčių paminėjimo iki Lietuvos vardo pasirodymo praėjo beveik tūkstantis metų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nuo Tacito aisčių paminėjimo iki Lietuvos vardo pasirodymo praėjo beveik tūkstantis metų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo

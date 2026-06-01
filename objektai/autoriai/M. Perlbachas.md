@@ -29,23 +29,24 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Prūsijoje.'
+  teiginys: 'M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 1.23 popiežiaus bulėmis (PUB 1, 1, Nr. 72, 87; Perlbach M.'
+  teiginys: 'M. Perlbachas nagrinėtas aiškinant Dusburgiečio pasakojimo ryšį su 1230 ir 1232 metų popiežiaus bulėmis.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad 597; Perlbach M.'
+  teiginys: 'M. Perlbachas rašė apie senesniąją Olivos kroniką.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Perlbachas nagrinėtas aiškinant Dusburgiečio pasakojimo ryšį su 1230 ir 1232 metų popiežiaus bulėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pasakojimą apie didžiojo magistro Hermano iš Zalcos išprašytą teisę skelbti kryžiaus
@@ -80,6 +81,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
     - t-002
 
 - c-002
+  santrauka: 'M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m. veikale randasi daugiau
@@ -92,6 +94,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
     - t-001
 
 - c-003
+  santrauka: 'M. Perlbachas rašė apie senesniąją Olivos kroniką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios
@@ -115,4 +118,3 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/autoriai/Perlbach M]]

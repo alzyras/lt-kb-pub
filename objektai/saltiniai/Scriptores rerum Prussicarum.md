@@ -26,13 +26,14 @@ Dusburgietis teigia, kad nuorašus parengė ir 1861 m. „Scriptores rerum Pruss
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad nuorašus parengė ir 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė M.'
+  teiginys: 'M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius

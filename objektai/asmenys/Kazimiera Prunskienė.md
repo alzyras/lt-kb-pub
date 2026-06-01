@@ -34,7 +34,7 @@ tags:
 - t-004
   teiginys: 'Promaskviniai būriai turėjo įsiveržti į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskirties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas) ir.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -70,6 +70,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 - c-003
   santrauka: 'Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi.'
@@ -90,24 +91,6 @@ tags:
   pagrindžia:
     - t-003
 
-- c-004
-  santrauka: 'Promaskviniai būriai turėjo įsiveržti į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskirties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas) ir.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus
-    ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vė-
-    liau – Vilniaus geležinkelio mazgą. Promaskviniai būriai turėjo įsiveržti
-    į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskir-
-    ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
-    Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas)
-    ir nuversti teisėtą Lietuvos valdžią. Įgyvendinti šį scenarijų sovietams
-    nepavyko.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
@@ -116,6 +99,5 @@ tags:
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/suma]]
-- [[objektai/ivykiai/M. Gorbačiovo ultimatumas ir sovietų kariuomenės veiksmai Lietuvoje (1991 m. sausio 10–11 d.)]]
 - [[objektai/zodynas/suverenitetas suverenumas]]
 - [[objektai/zodynas/suverenumas suverenitetas]]

@@ -20,13 +20,14 @@ Dusburgietis teigia, kad ditrichas (Meiseno markgrafas) sušakosiąs ir ateityje
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad ditrichas (Meiseno markgrafas) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
+  teiginys: 'Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors
@@ -69,5 +70,4 @@ Dusburgietis teigia, kad ditrichas (Meiseno markgrafas) sušakosiąs ir ateityje
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]

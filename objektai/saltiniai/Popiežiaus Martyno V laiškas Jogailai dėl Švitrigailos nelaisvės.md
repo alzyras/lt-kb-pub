@@ -24,13 +24,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '[Popiežiaus Martyno laiškas karaliui Vladislovui Jogailai jo buvimo Švitrigailos ne­ laisvėje reikalu.'
+  teiginys: 'Popiežiaus Martyno V laiškas Vladislovui Jogailai dėl jo nelaisvės pas Švitrigailą buvo datuotas 1430 m. vasario 27 d.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežiaus Martyno V laiškas Vladislovui Jogailai dėl jo nelaisvės pas Švitrigailą buvo datuotas 1430 m. vasario 27 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     5

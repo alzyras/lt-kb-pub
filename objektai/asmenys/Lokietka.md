@@ -53,3 +53,4 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/asmenys/Vladislovas Lokietka]]
 - [[objektai/asmenys/Kazimieras]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.)]]

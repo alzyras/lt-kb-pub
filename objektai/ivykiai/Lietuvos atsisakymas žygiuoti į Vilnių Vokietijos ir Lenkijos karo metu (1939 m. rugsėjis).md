@@ -38,7 +38,7 @@ Nenurodyta
 - t-001
   teiginys: 'Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų nedetalizavo.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Sovietai taip pat nepatarė Lietuvai imti Vilniaus.'
@@ -65,6 +65,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -81,27 +82,12 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų
-    nedetalizavo. O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
-    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
-    riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
-    žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Anglai]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Jaunieji tautininkai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Šaulių sąjunga]]
 - [[objektai/zodynas/žygis]]

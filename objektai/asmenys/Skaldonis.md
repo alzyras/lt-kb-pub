@@ -32,28 +32,6 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa
-    Lietuva; ilgai taręsi  ir visaip svarstę, kaip  jį sunaikinti, galop pasiuntė kilmingą bei
-    karingą vyrą Surminą su šimtu laivų, kuriuose buvo šeši šimtai ar daugiau vyrų, ir šimtą
-    raitelių; kai jie užpuolė laivą, jame buvę 4 šauliai, palikti jo saugoti, pradėjo drąsiai
-    gintis. Galop, nukirtus virvę, kuria buvo pririštas, laivas nuplaukė Nemunu žemyn; jį,
-    pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista,
-    o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus,
-    jį pavertė pelenais568.
-
-
-
-
-                319 (312).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas nuplaukė Nemunu žemyn; jį, pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista, o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus, jį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -77,9 +55,9 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Surminas]]
-- [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]

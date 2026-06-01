@@ -34,37 +34,37 @@ amziai:
 - t-001
   teiginys: 'Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su trisdešimt šešiais kariais nužudė8.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: 'Tais pačiais 1347 m. lietuvių karalius (rex) niokojo Ragainės ir Įsruties apylinkes, spalio pradžioje priėjo Vėluvą, tyliai įėjus buvo sudegintas miestas, po to lietuviai siaubė Unzatrapio žemę prie Alnos bei Girdavą.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-003
   teiginys: 'Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.'
   pagrindžia:
-    - c-008
+    - c-005
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami.'
   pagrindžia:
-    - c-011
+    - c-009
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.'
   pagrindžia:
-    - c-012
+    - c-010
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad vėluva, sietina su lie.'
   pagrindžia:
-    - c-013
+    - c-011
 
 - t-007
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių, skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat būgštavo, kad dėl tos.'
   pagrindžia:
-    - c-010
+    - c-008
 
 - t-008
   teiginys: 'Žygis Ordino žemėse pasiekė Įsručio ir Vėluvos apylinkes.'
@@ -74,17 +74,17 @@ amziai:
 - t-009
   teiginys: 'Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-010
-  teiginys: '(^16) SRP, II, 545-547 p. (^252) ii skyrius: valstybės iškilimas Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­ damas Įsručio ir Vėluvos apylinkes.'
+  teiginys: 'Ordino žemėse vykusio žygio metu buvo pasiektos Įsruties ir Vėluvos apylinkės.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-011
-  teiginys: 'Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis 1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m. sausio 18 d. bule (II, 6), žuvusia Sventopelko ir Ordino 1243 m. sutartimi (III, 39), kad galėjęs žinoti 1282.'
+  teiginys: '1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-012
   teiginys: 'Dusburgietis teigia, kad vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta išlaikyti savo pusėje56.'
@@ -94,7 +94,7 @@ amziai:
 - t-013
   teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -116,6 +116,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-008
+    - t-010
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -138,25 +139,6 @@ amziai:
     - t-012
 
 - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^14) **SRP, II, 533 (Algirdas « cum suis boyaribus et Smyrdens »); 534-
-    536 (Kęstučio dialogas su vyr. magistru).**
-    (^15) **Apie žuvusiųjų skaičius žr. A. Kučinskas,** **_Kęstutis_** **, 69, 73 p.**
-    (^16) **SRP, II, 545-547 p.**
-
-
-    (^252) ii skyrius: valstybės iškilimas
-    Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­
-    damas Įsručio ir Vėluvos apylinkes. O kitame žygyje (1365) paėmė
-    ir sunaikino Angerburgo pilį^17.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Valikonytė I. 78-79
@@ -214,7 +196,8 @@ amziai:
   pagrindžia:
     - t-013
 
-- c-005
+- c-004
+  santrauka: '1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais  ir kaip —
@@ -232,7 +215,7 @@ amziai:
   pagrindžia:
     - t-011
 
-- c-006
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     J a r o-
@@ -256,8 +239,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
-- c-007
+- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tais pačiais 1347 m. lietuvių karalius (rex)
@@ -273,27 +257,7 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I KNYGA
-    ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima
-    plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf. Tokios
-    didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
-    gavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis
-    kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su
-    trisdešimt šešiais kariais nužudė8.
-    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
-    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
-    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
-    linkės1 1 .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-009
+- c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tarp toliausiai į rytus įsiterpusių ir vakarinių pilių tinklo,
@@ -312,7 +276,7 @@ amziai:
   pagrindžia:
     - t-009
 
-- c-010
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     73 (72). Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
@@ -331,7 +295,7 @@ amziai:
   pagrindžia:
     - t-007
 
-- c-011
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Vėluvos pilies puolimą
@@ -349,8 +313,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
+    - t-014
 
-- c-012
+- c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Priešiškuose lietuviams
@@ -366,7 +331,7 @@ amziai:
   pagrindžia:
     - t-005
 
-- c-013
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     329 D. ir Jer.— Wilow; 1258 m.— Velowe (SU, 1, Nr. 58, p. 25) — lie. Vėluva, sietina
@@ -377,20 +342,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-014
-  santrauka: 'Dusburgietis teigia, kad apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    122 (117). Apie Vėluvos pilies puolimą
-
-      Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
-    su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
-    dienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo  į
-    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
-    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-014

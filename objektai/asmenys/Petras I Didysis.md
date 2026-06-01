@@ -20,7 +20,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė Narvą, Tartus ir Nevos paupy pradėjo statyti būsimąją Rusijos sostinę — Petrapilį (dabartinį Leningradą).'
+  teiginys: 'Petras I kariavo su švedais Estijoje, užėmė Narvą ir Tartu, o Nevos paupyje pradėjo statyti Petrapilį.'
   pagrindžia:
     - c-005
 
@@ -50,7 +50,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - c-002
 
 - t-007
-  teiginys: 'Tuo pat metu Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą.'
+  teiginys: 'Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.'
   pagrindžia:
     - c-003
 
@@ -93,6 +93,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-006
 
 - c-003
+  santrauka: 'Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo pat metu Maskvos caras Petras I Didysis ruošėsi pra-
@@ -121,6 +122,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-005
 
 - c-005
+  santrauka: 'Petras I kariavo su švedais Estijoje, užėmė Narvą ir Tartu, o Nevos paupyje pradėjo statyti Petrapilį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Karolio XII žygis į

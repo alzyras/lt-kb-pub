@@ -44,19 +44,14 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
 ## Teiginiai
 
 - t-001
-  teiginys: '1379 m. liepos pabaigoje Kęstutis su Ordino maršalu vyko į Kauną pasikeisti nelaisvėn patekusiais kariais, o Jogaila prašė leisti atsiųsti ten savo pasiuntinius.'
-  pagrindžia:
-    - c-003
-
-- t-002
   teiginys: 'Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.'
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -75,48 +70,11 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­
-    gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti
-    paliaubas. Čia reikia pastebėti, kad Vinrichas von Kniprodė,
-    būdamas gabus ir lankstus politikas, nuolat kariaudamas su
-    Kęstučiu, ėmėsi kitokios taktikos, negu jo pirmtakūnai. Nors
-    Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors
-    sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­
-    pukares, vienas kitą riteriškai pavaišinti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kada 1379 metais liepos mėn. pabaigoje Kęstutis su Ordino
-    maršalu vyko Kaunan pasikeisti patekusiais nelaisvėn karei­
-    viais, Jogaila prašės leisti ir jam atsiųsti savo pasiuntinius į
-    tuos pasitarimus. Po trijų dienų sunkių derybų Trakuose bu­
-    vo pasirašyta (1379—IX—29) sutartis. Tai buvo pirmas XIV
-    amž. Lietuvos istorijoje parašytas lietuvių susitarimas su kry­
-    žiuočiais, bet šitas dokumentas buvo ir paskutinis, kurį pasira­
-    šė drauge Kęstutis ir Jogaila, dar bent formaliai veikdami iš­
-    vien.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/maršalas]]

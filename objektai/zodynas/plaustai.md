@@ -20,13 +20,14 @@ Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ n
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
+  teiginys: 'Plaustais vadinti perkėlimai per Vilijos upę buvo uždrausti tarp Verkių ir Panerių kaimų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Plaustais vadinti perkėlimai per Vilijos upę buvo uždrausti tarp Verkių ir Panerių kaimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nederėtų, be

@@ -22,7 +22,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - t-001
   teiginys: 'Dusburgietis teigia, kad visa tai leidžia daryti išvadą ir nedvejojant tikėti, kad pats Kristus, be kurio valios nieko žemėje negali įvykti, užleido ant savo tautos šį buvusių ir būsimų atskalūnybių antkrytį, norėdamas, kad nukautieji gautų danguje pelnytą atpildą, o likę gyvi.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginimą Tuo metu, kai prūsai buvo įtariami atskalūnybe, brolis Volradas, Notangos ir Varmės fogtas, vadinamas Volradu Nuostabiuoju355 (jis iš tiesų toks buvo), vakarieniavo su minėtosios žemės kilmingaisiais.'
@@ -32,12 +32,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - t-003
   teiginys: 'Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik.'
   pagrindžia:
-    - c-004
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
-  pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -61,26 +56,6 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
-    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
-    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
-    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
-    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
-    bartai — Divaną361.
-
-
-
-
-                   90 (85). Apie didelį krikščionių kraujo praliejimą
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Šių dviejų vyrų regėjimai sutapo vienas su kitu net ir tuo, kad visos sielos, kurių kūnai
     krito tame Kuršo mūšyje, buvusios išganytos, išskyrus vieną. Nežinau, dėl ko ji buvo
     pasmerkta, vienas dievas tai žino. Visa tai leidžia daryti išvadą ir nedvejojant tikėti,
@@ -95,7 +70,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
@@ -116,7 +91,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
   santrauka: 'Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -133,23 +108,15 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bartai]]
 - [[objektai/daiktai/Drabužiai]]
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Noliubas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Sembai]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]
-- [[objektai/asmenys/Divanas]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]

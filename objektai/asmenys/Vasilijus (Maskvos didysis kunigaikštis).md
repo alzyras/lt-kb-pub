@@ -98,3 +98,4 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 - [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
 - [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
+- [[objektai/asmenys/Vasilijus Čartoriskis]]

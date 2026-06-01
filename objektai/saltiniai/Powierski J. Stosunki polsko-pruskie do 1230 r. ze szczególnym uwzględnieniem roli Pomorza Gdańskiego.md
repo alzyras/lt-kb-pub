@@ -25,13 +25,14 @@ Dusburgietis teigia, kad powierski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad powierski J.'
+  teiginys: 'J. Powierskio veikalas „Stosunki polsko-pruskie do 1230 r.“ išleistas Torunėje 1968 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio veikalas „Stosunki polsko-pruskie do 1230 r.“ išleistas Torunėje 1968 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Powierski J. Stosunki polsko-pruskie do 1230 r. ze szczególnym uwzględnieniem roli

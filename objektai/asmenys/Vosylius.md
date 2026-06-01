@@ -28,10 +28,10 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 - t-001
   teiginys: 'Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su kitais valdovais ir didikais.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
-  teiginys: 'Į iškilmes buvo pa­ kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­ to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­ nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug mažesnių chanų.'
+  teiginys: 'Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su Lietuvos vasalais.'
   pagrindžia:
     - c-001
 
@@ -43,6 +43,7 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su Lietuvos vasalais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     tėj, kuri turėjo dekoruoti „šviesiausius, tikruosius, garbinguo­
@@ -58,6 +59,7 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -76,29 +78,13 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   pagrindžia:
     - t-003
 
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    tėj, kuri turėjo dekoruoti „šviesiausius, tikruosius, garbinguo­
-    sius ir laisvuosius“ Lietuvos karalius^1 ). Į iškilmes buvo pa­
-    kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­
-    to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­
-    nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug
-    mažesnių chanų.
-    Tačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­
-    gabenančių karūnas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/grupes/Krimo totoriai]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/grupes/Pranciškonų ordinas]]

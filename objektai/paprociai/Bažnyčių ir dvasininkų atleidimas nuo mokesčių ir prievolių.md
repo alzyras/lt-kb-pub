@@ -39,7 +39,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tomis pat teisėmis naudojo­ si ir dvasininkai.'
+  teiginys: 'Bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių.'
   pagrindžia:
     - c-001
 
@@ -51,6 +51,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vi­

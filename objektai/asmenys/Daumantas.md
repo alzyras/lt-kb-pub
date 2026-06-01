@@ -50,12 +50,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-005
 
 - t-007
-  teiginys: 'Daumantas į Sinajaus kalną ir pakrikš­ tija vardan Tėvo ir Sūnaus ir Švento­ sios Dvasios ir mokosi iš šventųjų knygų ir nusikerpa pagal vienuoliš­ ką stotą Šventajame kalne ir, prabu­ vęs Šventajame kalne trejus metus, ir pareina į savo žemę ir grįžta iš Sina­ jaus kalno pas savo tėvą kunigaikštį Mindaugą ir įkuria sau vienuolyną.'
-  pagrindžia:
-    - c-008
-
-- t-008
-  teiginys: 'karo vadu dažniausiai skirdavo Gardino srities kunigaikštį Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavusio, o vėliau Pskovą valdžiusio, Daumanto sūnus).'
+  teiginys: 'Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.'
   pagrindžia:
     - c-004
 
@@ -104,6 +99,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - t-005
 
 - c-004
+  santrauka: 'Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kitas jo brolis, Vainys, val-
@@ -116,7 +112,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -178,47 +174,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   pagrindžia:
     - t-003
 
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ir Vilnia
-    [Vilnius] buvo priverstas duoti
-    duoklę Ugrų karaliui (tikriausiai Ha­
-    ličo) už saugojimą nuo didžiojo ku­
-    nigaikščio Mstislavo Rogvoldovi-
-    čiaus. Ir vilniečiai paėmę sau iš
-    Cargrado [Konstantinopolio] Poloc­
-    ko kunigaikščio Rostislavo Rogvol-
-    dovičiaus vaikus - kunigaikštį Do-
-    vilą ir jo brolį kunigaikštį Maukoldą
-    ir tai pirmasis Vilniuje kunigaikštis
-    Dovilas, didysis Maukoldo brolis, o
-    jo vaikai: Vidas, kurį žmonės Vilku
-    vadino, ir Erdenas kunigaikštis, o Er-
-    denas sūnus pasikrikštijo, buvo val­
-    dovas Tvėrėje, kuris prieš Petrą, prieš
-    stebukladarį, neramumą sukėlė, va­
-    dino jį Andriejumi, rašė prieš stebuk­
-    ladarį melagingus žodžius, o Mau­
-    koldo sūnus Mindaugas, o Mindaugo
-    kunigaikščio vaikai: Višlegas (ar tik
-    ne vienuolis Vaišelga) ir Daumantas.
-    Tą patį Vaišelgą pasirenka viešpats
-    ir eina jis į Sinajaus kalną ir pakrikš­
-    tija vardan Tėvo ir Sūnaus ir Švento­
-    sios Dvasios ir mokosi iš šventųjų
-    knygų ir nusikerpa pagal vienuoliš­
-    ką stotą Šventajame kalne ir, prabu­
-    vęs Šventajame kalne trejus metus, ir
-    pareina į savo žemę ir grįžta iš Sina­
-    jaus kalno pas savo tėvą kunigaikštį
-    Mindaugą ir įkuria sau vienuolyną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Estai]]
@@ -227,12 +182,10 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lybiai]]
-- [[objektai/asmenys/Maukoldas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Treniota]]
-- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]
 - [[objektai/ivykiai/Durbės mūšis]]
 - [[objektai/ivykiai/Mindaugo nužudymas]]

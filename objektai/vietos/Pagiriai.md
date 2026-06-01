@@ -31,7 +31,7 @@ tags:
 - t-003
   teiginys: '@ Tuo pat metu lenkų kavalerijos brigada užima Pagirius, jų judėjimą seka ir kolonas atakuoja lietuvių karo lėktuvai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -84,37 +84,4 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: '@ Tuo pat metu lenkų kavalerijos brigada užima Pagirius, jų judėjimą seka ir kolonas atakuoja lietuvių karo lėktuvai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuviai įsiveržia į miestą.
-
-    @ Tuo pat metu lenkų kavalerijos brigada užima Pagirius, jų judėjimą seka
-    ir kolonas atakuoja lietuvių karo lėktuvai. Naktį lenkai priartėja prie
-
-    )— Lietuvių pajėgų išdėsty-
-    mas ir puolimo kryptys
-    Lenkų pajėgų išdėsty-
-    J mas ir puolimo kryptys
-    = = = =a Lietuvių atsitraukimo
-
-    kryptys
-    St | me me p> Lenkų atsitraukimo
-
-    kryptys
-
-    a
-    ||
-
-    |
-
-    Kėdainių ir ketina susprogdinti tiltą per Nevėžį, tačiau 1-ojo pasienio pulko
-
-    Pao, ir Kėdainių komendantūros kariai sutrukdo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003

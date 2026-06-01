@@ -15,16 +15,11 @@ Valstybinė santvarka po Liublino unijos.
 ## Teiginiai
 
 - t-001
-  teiginys: '1401 m. sausio 18 d. aktu buvo atnaujinta Lietuvos priklausomybė Lenkijai.'
-  pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Bet apsisaugojęs nuo Lenkijos nauja unija, sutvar­ kęs reikalus rytuose ir viduje, ėmė trauktis nuo Ordino, dė­ damas pastangų atsiimti lietuvišką kraštą — Žemaitija.'
+  teiginys: 'Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė atsiimti Žemaitiją.'
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.'
   pagrindžia:
     - c-001
@@ -48,49 +43,13 @@ Valstybinė santvarka po Liublino unijos.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl jie pasiskubina jo sustiprėjimą sulai­
-    kyti. Lenkija tuojau pareikalavo iš Lietuvos Rusijos kunigaikš­
-    čių, kurie iki tol išimtinai priklausė Vytautui, priesaikos ir
-    pripažinimo savo sričių lėniškos priklausomybės Lenkijai. Ne­
-    trukus atėjo ir Vytautui eilė: 1401 m. sausio 18 d. buvo vėl at­
-    naujintas aktas Lietuvos priklausomybės Lenkijai, kas paskutinį
-    kartą buvo pareikšta 1392 m.^3 ) ir nuo to laiko toji priklausomy­
-    bė buvo gerokai apardyta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas, aptvarkęs šiek tiek santykius su Lenkija ir su­
-    stiprinęs savo padėtį viduje, vėl ėmė nesutikti su Ordinu. Tam
-    buvo priežasčių. Nors Vytautas, darydamas Salyno taiką ir
-    buvo jam pavedęs Žemaičius, bet jie geruoju naujiems šeiminin­
-    kams nepasidavė ir nemanė pasiduoti: reikėjo juos jėga užka­
-    riauti. Jie į tai atsakydavo sukilimais, kuriuos Ordinas žiau­
-    riai malšindavo. Tame darbe jiems iš pradžių talkininkavo ir
-    Vytautas. Bet apsisaugojęs nuo Lenkijos nauja unija, sutvar­
-    kęs reikalus rytuose ir viduje, ėmė trauktis nuo Ordino, dė­
-    damas pastangų atsiimti lietuvišką kraštą — Žemaitija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/santvarka]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
 - [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
 - [[objektai/ivykiai/1428 m. Lenčicos suvažiavimas]]
@@ -144,7 +103,6 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
 - [[objektai/autoriai/K. Chodynickis]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/grupes/Katalikų bažnyčia katalikai]]
 - [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]
@@ -274,7 +232,6 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/posakiai/„Šventos santuokos“]]
 - [[objektai/daiktai/Didysis Lietuvos antspaudas]]
 - [[objektai/grupes/Lietuvos didikai]]
-- [[objektai/autoriai/Liubavskij, M]]
 - [[objektai/ivykiai/Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)]]
 - [[objektai/ivykiai/Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.)]]
 - [[objektai/zodynas/federacija federacinė valstybė]]

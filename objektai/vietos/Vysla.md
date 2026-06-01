@@ -33,22 +33,22 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - t-001
   teiginys: '1231 m. Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.'
   pagrindžia:
-    - c-011
+    - c-010
 
 - t-002
   teiginys: 'Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.'
   pagrindžia:
-    - c-025
+    - c-018
 
 - t-003
-  teiginys: '52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną.'
+  teiginys: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, o paskui per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-004
   teiginys: 'Surinkę savo jėgas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos).'
   pagrindžia:
-    - c-028
+    - c-020
 
 - t-005
   teiginys: 'Pirmajame tūkstantmetyje baltų gentys gyveno plačioje teritorijoje nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
@@ -58,47 +58,47 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - t-006
   teiginys: 'Didysis magistras slapčia iš Marienburgo išplaukė Vysla laivais, o paskui jūros įlanka įplaukė į Nemuną.'
   pagrindžia:
-    - c-014
+    - c-009
 
 - t-007
   teiginys: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-008
-  teiginys: 'Ta lietuvių tauta, išsis­ kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­ šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos iki Vyslos, o į žemyno gilumą buvo.'
+  teiginys: 'Lietuvių tauta, pasak Balińskio, buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.'
   pagrindžia:
-    - c-017
+    - c-012
 
 - t-009
-  teiginys: 'Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+  teiginys: 'Treniotos vadovaujami žemaičiai žygiuose Prūsuose pasiekdavo net Vyslą.'
   pagrindžia:
-    - c-019
+    - c-015
 
 - t-010
   teiginys: 'Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.'
   pagrindžia:
-    - c-026
+    - c-010
 
 - t-011
   teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   pagrindžia:
-    - c-024
+    - c-021
 
 - t-012
   teiginys: 'Dusburgietis teigia, kad neradę laivų, jie supuolė į Vyslą ir visi paskendo, išskyrus Sventopelką ir kelis kitus, su juo čia atbėgusius, kai išvengė kalavijo282.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-013
   teiginys: 'Dusburgietis teigia, kad jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o visa kita pavertė pelenais bei degėsiais.'
   pagrindžia:
-    - c-016
+    - c-013
 
 - t-014
   teiginys: 'Dusburgietis teigia, kad neilgai trukus tas pats kunigaikštis prikalbino magistrą susitikti su Sventopelku vienoje Vyslos saloje302, kur po ilgų derybų, kurias vedė vienas su kitu, galop išsiskyrė nesudarę taikaus susitarimo.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-015
   teiginys: 'Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumose įkurti kuopiniai kaimai (Haufendoerfer).'
@@ -108,62 +108,62 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - t-016
   teiginys: 'Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-017
   teiginys: 'Svidrinės kultūros vardas siejamas su Svidrais prie Vyslos Lenkijoje.'
   pagrindžia:
-    - c-022
+    - c-007
 
 - t-018
   teiginys: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
   pagrindžia:
-    - c-021
+    - c-017
 
 - t-019
   teiginys: 'Tardamas, kad Jogaila puls kairiajame Vyslos krante, didysis magistras pagrindines ordino jėgas surinko prie Vyslos (Schwetz).'
   pagrindžia:
-    - c-027
+    - c-019
 
 - t-020
   teiginys: '1410 m. liepos pradžioje LDK kariuomenė prie Vyslos susijungė su Lenkijos kariuomene.'
   pagrindžia:
-    - c-020
+    - c-016
 
 - t-021
   teiginys: 'Dusburgietis teigia, kad autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes, niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-022
   teiginys: 'Dusburgietis teigia, kad todėl dviejų upių santakoje, būtent: Vyslos ir Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-023
   teiginys: 'Lietuvių tautos atšakos užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
   pagrindžia:
-    - c-013
+    - c-012
 
 - t-024
   teiginys: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius).'
   pagrindžia:
-    - c-018
+    - c-014
 
 - t-025
   teiginys: 'Lietuvoje buvo nemažai svidrinės kultūros židinių; jos vardas siejamas su Svidrais prie Vyslos Lenkijoje.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-026
   teiginys: 'Susijungusios Červinske prie Vyslos lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą^5.'
   pagrindžia:
-    - c-015
+    - c-008
 
 - t-027
   teiginys: 'Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
   pagrindžia:
-    - c-012
+    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -180,33 +180,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - t-015
 
 - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    AN
-    a!
-    2
-
-    ## Puslapis 19
-
-    [tuščias arba OCR neatpažino teksto]
-
-    ## Puslapis 20
-
-    NUO PAGONIŠKOSIOS IKI
-    VYTAUTO IMPERIJOS
-
-    Baltų gentys
-    Pirmajame tūkstantmetyje po Kristaus baltų gentys ir toliau gy-
-    veno plačioje teritorijoje - nuo maždaug Vyslos ir Dauguvos
-    žemupių iki dabartinės Maskvos. Didžiojo tautų kraustymosi epo-
-    choje joms tekdavo gintis nuo hunų ir kitų klajoklių puldinėjimų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-003
   santrauka: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -243,8 +216,9 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   statusas: verified
   pagrindžia:
     - t-007
+    - t-005
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
@@ -258,7 +232,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-022
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau nesulauksite, nedorieji, nesulauksite, nes esate nelyginant dulkės,
@@ -273,7 +247,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-012
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
@@ -293,7 +267,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-021
 
-- c-007
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi tiesa sukelia neapykantą,
@@ -315,7 +289,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-014
 
-- c-008
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug
@@ -331,8 +305,9 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   statusas: verified
   pagrindžia:
     - t-025
+    - t-017
 
-- c-009
+- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas ir Jogaila 1409 m.
@@ -345,8 +320,10 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   statusas: verified
   pagrindžia:
     - t-016
+    - t-026
 
-- c-010
+- c-009
+  santrauka: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, o paskui per jūros įlanką įplaukė į Nemuną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
@@ -365,8 +342,9 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   statusas: verified
   pagrindžia:
     - t-003
+    - t-006
 
-- c-011
+- c-010
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1231 m. Ordino magistras iš lenkų jam
@@ -382,8 +360,9 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   statusas: verified
   pagrindžia:
     - t-001
+    - t-010
 
-- c-012
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsijos žemės aprašymas
@@ -400,7 +379,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-027
 
-- c-013
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tokio
@@ -423,42 +402,9 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   statusas: verified
   pagrindžia:
     - t-023
+    - t-008
 
-- c-014
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lindenblatt Jahrbücher, p. 9 4 .
-    52
-    Tas žygis buvo paskubomis ir slap­
-    ta suruoštas, ir todėl didysis magist­
-    ras tuokart mažai teturėjo svetimša­
-    lių, juk nesigarsino po visą Europą,
-    o slapčia iš Marienburgo išplaukė
-    Vysla laivais, paskui jūros įlanka
-    įplaukė į Nemuną. Mūsų istorikai
-    bendrais bruožais ir ne taip išsamiai
-    apie šitai pasakoja.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-015
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytautas ir Jogaila 1409 m.
-    gruodžio mėn. sutarė _bendrą_ karinį planą, kuris už pusmečio buvo
-    įvykdytas. Susijungusios Červinske prie Vyslos lietuvių ir lenkų
-    jėgos turėjo žygiuoti į Marienburgą^5. Pusbrolių kariuomenės buvo
-    surinktos iš savų žemių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-026
-
-- c-016
+- c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     ——————————————————
@@ -480,31 +426,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-013
 
-- c-017
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš tokio
-    trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
-    radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­
-    vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje
-    Lietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­
-    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
-    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
-    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
-    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
-    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
-    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
-    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
-    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
-    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
-    išsaugojo gryniausius savo padermės bruožus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-018
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią
@@ -519,7 +441,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-024
 
-- c-019
+- c-015
+  santrauka: 'Treniotos vadovaujami žemaičiai žygiuose Prūsuose pasiekdavo net Vyslą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet, neatvykus Naugardo ka-
@@ -534,7 +457,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-009
 
-- c-020
+- c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jogaila į karą su Ordinu nesiveržė, nes pralaimėjęs galėjo
@@ -547,7 +470,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-020
 
-- c-021
+- c-017
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
@@ -565,68 +488,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-018
 
-- c-022
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug
-    titnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram­
-    dyti gremžtukų, rėžtukų, durklų, ietgalių, žeberklų, kirvių). Lie­
-    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­
-    drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių
-    yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
-    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
-    munės durpynuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-017
-
-- c-023
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytautas ir Jogaila 1409 m.
-    gruodžio mėn. sutarė _bendrą_ karinį planą, kuris už pusmečio buvo
-    įvykdytas. Susijungusios Červinske prie Vyslos lietuvių ir lenkų
-    jėgos turėjo žygiuoti į Marienburgą^5. Pusbrolių kariuomenės buvo
-    surinktos iš savų žemių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-024
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS
-    MIESTO
-    ISTORIJA
-    I
-    KNYGA
-    LAIKAI IKI KRIKŠČIONYBĖS ĮVEDIMO -
-    NUO MIESTO ĮKŪRIMO IKI PAT KRIKŠTO PRIĖMIMO
-    VILNIUJE 1387 METAIS
-    Lietuvių tautos kilmė —  Normanai —  Senoji gyvenvietė prie
-    Vilnios upės —  Šventaragis —  Vilnius tampa Gedimino miestu ir
-    sostine —  Įsikūrimas, pradinė padėtis ir miesto valdymas —
-    Jaunučio žlugimas —  Algirdas - Pranciškonų nukankinimas —
-    Kryžiuočių puldinėjimai Algirdo laikais —  Jogailos užmačios —
-    Kova su Kęstučiu —  Vilniaus miestiečių įtaka toje kovoje —
-    Kęstučio mirtis —  Vilniaus padėtis Jogailos laikais —  Mūšis su
-    kryžiuočiais prie miesto ir jo sudeginimas —  Nuniokojamos
-    Vilniaus apylinkės —  Išvejami kryžiuočiai—  Jogaila tampa Lenkijos
-    karaliumi —  Išvykimas į Krokuvą.
-    Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
-    venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos
-    žiočių iki pat Samlandijos (Sembos). Į rytus nuo Dvinos prie
-    jų šliejosi estų, gausios suomių padermės atšakos, gyven­
-    vietės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-025
+- c-018
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
@@ -640,24 +502,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-002
 
-- c-026
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1231 m. Ordino magistras iš lenkų jam
-    dovanotų žemių, savo pilių kairiajame
-    Vyslos krante, persikėlė per upę į Kulmo
-    žemę ir pastatė Torunės pilį, prasidėjo
-    sisteminga agresija prieš prūsus. Daug
-    kunigaikščių iš Vokietijos ir Lenkijos tal-
-    kindavo Ordinui, kuris niokojo baltiš-
-    kąją Prūsiją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-027
+- c-019
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kryžiuočiai savo kariuomenę
@@ -671,7 +516,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-019
 
-- c-028
+- c-020
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
@@ -689,7 +534,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-004
 
-- c-029
+- c-021
   santrauka: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -725,3 +570,4 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   statusas: verified
   pagrindžia:
     - t-028
+    - t-011

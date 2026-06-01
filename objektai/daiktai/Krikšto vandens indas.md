@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo 29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus gyventojus ir vieną kunigą, o moteris bei.'
+  teiginys: '1298 m. užpuolus Straisbergą, vienas lietuvis išniekino krikšto vandens indą, pridergdamas į jį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1298 m. užpuolus Straisbergą, vienas lietuvis išniekino krikšto vandens indą, pridergdamas į jį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Straisbergo miesto sugriovimą 1298 metais

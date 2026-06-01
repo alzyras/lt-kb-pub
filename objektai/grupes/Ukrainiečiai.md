@@ -17,13 +17,14 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.'
+  teiginys: 'Ukrainiečiai, kaip ir rusai, XVII-XVIII a. vertė Stryjkovskio kroniką ar jos dalis ir juo domėjosi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ukrainiečiai, kaip ir rusai, XVII-XVIII a. vertė Stryjkovskio kroniką ar jos dalis ir juo domėjosi.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Įvairūs lenkų autoriai į jį pažiurėjo kaip
@@ -65,4 +66,3 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
 - [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]
-- [[objektai/grupes/Baltarusiai]]

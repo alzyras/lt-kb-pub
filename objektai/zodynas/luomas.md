@@ -34,7 +34,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - t-001
   teiginys: 'Nuo Jekaterinos II laikų luomų institucijos buvo įtrauktos į vietinį valdymą kaip administracijos prižiūrimos pagalbinės valdžios šakos.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: 'Nuo Jekaterinos II laikų vietiniame valdyme veikė atskirų luomų savivaldos institucijos, prižiūrimos vietos administracijos.'
@@ -42,28 +42,29 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-005
 
 - t-003
-  teiginys: 'Paskui kai kas nors, Dievo Apvaizda, po mūsų į mūsų sostą įžengs ir taps įpėdiniu, taip pat ir visų abiejų valstybių luomų tarybų prašome, kad netrukdytų ir, priešingai, padėtų padalinti mūsų turtus že­ miau aprašytu papročiu, be gaišaties, delsimo, pokštų.'
+  teiginys: 'Valdovas prašė būsimo įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal aprašytą tvarką.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Ji gavo europeiško nobiliteto pažymius — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­ siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto luomu.'
+  teiginys: 'Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu.'
   pagrindžia:
     - c-003
 
 - t-005
-  teiginys: 'Tačiau Torunės seime, kilus ginčams su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­ tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo teises bei privilegijas, bet iškilus.'
+  teiginys: 'Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių.'
   pagrindžia:
     - c-004
 
 - t-006
-  teiginys: 'Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­ syvesniam gyvenimui potencijos sudarydamas tam tikrą, iš tos visuomenės produktų cirkuliacijos gyvenantį, visuomenės luomą.'
+  teiginys: 'Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas šioje srity padarė
@@ -80,6 +81,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-006
 
 - c-002
+  santrauka: 'Valdovas prašė būsimo įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal aprašytą tvarką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O jeigu kuri tauta būtų nedėkinga ir ieškotų kelių atsi­
@@ -122,6 +124,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-003
 
 - c-003
+  santrauka: 'Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jų vietą
@@ -141,6 +144,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - t-004
 
 - c-004
+  santrauka: 'Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Radvila užsistojo juos,
@@ -182,27 +186,10 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    100
-    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
-    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
-    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
-    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
-    vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
-    bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
-    gūnus, žemutinės teismų grandies teisėjus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-007
-  santrauka: 'Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­ syvesniam gyvenimui potencijos sudarydamas tam tikrą, iš tos visuomenės produktų cirkuliacijos gyvenantį, visuomenės luomą.'
+- c-006
+  santrauka: 'Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietuva gi tuo
@@ -265,7 +252,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/zodynas/Magdeburgo teisė]]
 - [[objektai/zodynas/Magdeburgo teisės vokiečių teisė]]
-- [[objektai/asmenys/Merkelis Savickis]]
 - [[objektai/grupes/Miestiečiai ir valstiečiai]]
 - [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas]]
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
@@ -304,9 +290,9 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - [[objektai/zodynas/municipalinės laisvės miestiečių luomas]]
 - [[objektai/zodynas/naujakrikštis]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
-- [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/asmenys/Jekaterina II]]
 - [[objektai/paprociai/Testamento vykdytojų pareiga padalyti turtą pagal testatoriaus valią]]

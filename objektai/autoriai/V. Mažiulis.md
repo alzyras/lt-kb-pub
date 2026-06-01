@@ -25,23 +25,24 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vietovardžių bei asmenvardžių rekonstrukcijų pateikė akad.'
+  teiginys: 'V. Mažiulis pateikė didelę dalį prūsiškųjų ir kitų baltiškųjų vietovardžių bei asmenvardžių rekonstrukcijų.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad lietuvių kalba težinojusi tokius Kuršių nerijos pavadinimus: Kopos (Kopai), Kalnai, Pajūriai (Pajūrės), Randavos (Mažiulis V., Dėl Neringos..., p. 301—315).'
+  teiginys: 'V. Mažiulio darbe „Dėl Neringos“ remiamasi aiškinant Kuršių nerijos pavadinimus.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad 191—197; Prūsų kalbos paminklai / Parengė Mažiulis V.; to paties, Baltų...; to paties, Seniausias baltų..., p. 125—131; Kuzavinis K.'
+  teiginys: 'V. Mažiulis parengė leidinį „Prūsų kalbos paminklai“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Mažiulis parengė leidinį „Prūsų kalbos paminklai“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...;
@@ -77,6 +78,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     - t-001
 
 - c-003
+  santrauka: 'V. Mažiulio darbe „Dėl Neringos“ remiamasi aiškinant Kuršių nerijos pavadinimus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kuršių  nerijos vardą pasidarė Ordino  raštininkai pagal Kuršo vyskupystės
@@ -91,6 +93,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     - t-003
 
 - c-004
+  santrauka: 'V. Mažiulis pateikė didelę dalį prūsiškųjų ir kitų baltiškųjų vietovardžių bei asmenvardžių rekonstrukcijų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Didelę  dalį  prūsiškųjų   ir  kitų  baltiškųjų  vietovardžių  bei  asmenvardžių
@@ -110,8 +113,6 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/vyskupystė]]
-- [[objektai/autoriai/Endzelins J]]
 - [[objektai/autoriai/F. Bopas]]
-- [[objektai/autoriai/G. H. F. Neselmanas]]
 - [[objektai/autoriai/J. Endzelynas]]
 - [[objektai/zodynas/vakariniai baltai]]

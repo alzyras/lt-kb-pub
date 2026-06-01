@@ -19,13 +19,14 @@ Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėju
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėjus prie upės pavadinimo priešdėlį -pa: pvz.: Paširvintys - nuo Širvintos upės; Pamerkys - nuo Mer­ kio upės; Pamusiai - nuo Musės upės; Panevėžys - nuo Nevėžio; Pa­ dubysis - nuo.'
+  teiginys: 'Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta

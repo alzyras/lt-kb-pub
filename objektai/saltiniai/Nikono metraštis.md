@@ -32,21 +32,16 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nors Voskresensko Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­ tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra apie Gedimino kilmę, mat rašė vos vienam amžiui.'
-  pagrindžia:
-    - c-002
-
-- t-002
   teiginys: 'Nikono metraštyje aprašyti Mėlynųjų Vandenų įvykiai, siejami su Algirdo žygiu į Mėlynuosius Vandenis ir Baltąją pakrantę.'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 'Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos.'
   pagrindžia:
     - c-003
 
-- t-004
+- t-002
+  teiginys: 'Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos.'
+  pagrindžia:
+    - c-002
+
+- t-003
   teiginys: 'Balińskis įdėjo visą Nikono metraščio vietą, kurioje kalbama apie tariamus Vilniaus kunigaikščius.'
   pagrindžia:
     - c-001
@@ -76,31 +71,9 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ar ga­
-    lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką
-    vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad
-    Vytenis, lietuvis pagonis, - jo vaikaitis? Nors Voskresensko
-    Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip
-    rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­
-    tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra
-    apie Gedimino kilmę, mat rašė vos vienam amžiui tepraė­
-    jus po Jogailos. Tačiau atsižvelgdami į tai, jog jis tikriausiai
-    buvo vienuolis, menkai nutuokęs apie jam svetimo krašto
-    praeitį, tik fragmentiškai aprašęs įvykius Rusioje, - neturė­
-    tume stebėtis, kad jis viską tempė ant savo kurpalio ir, ko
-    nebuvo matęs, tą pats prikūrė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Voskresensko
@@ -122,9 +95,9 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-
@@ -144,4 +117,4 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

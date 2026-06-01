@@ -20,13 +20,14 @@ Mes su savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­ 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mes su savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­ jų pusių ginčus, pamatę atneštas abiejų pusių privilegijas, mūsų pirmtako šv.'
+  teiginys: 'Karalius Vladislovas buvo suteikęs privilegijų Vilniaus katedros bažnyčiai ir tuometiniam vyskupui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalius Vladislovas buvo suteikęs privilegijų Vilniaus katedros bažnyčiai ir tuometiniam vyskupui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 455

@@ -26,7 +26,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 - t-001
   teiginys: 'Vasarį stovyklininkas Pavlikas buvo pasiųstas su pinigais, kad juos laiku nusiųstų Mlodyčiui į Leipcigą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.'
@@ -36,7 +36,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 - t-003
   teiginys: 'Rugpjūčio 5 d. Turčinas nuvežė karališkajai didenybei pinigus į Leipcigą.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Pavlikas turėjo laiku pasiųsti pinigus Mlodyčiui į Leipcigą ir ponui Plockiui skolai sumokėti.'
@@ -65,27 +65,6 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     - t-002
 
 - c-002
-  santrauka: 'Pavlikas turėjo laiku pasiųsti pinigus Mlodyčiui į Leipcigą ir ponui Plockiui skolai sumokėti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    320 flor. 21 gr.
-    Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
-    aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
-    443
-
-    ## Puslapis 460
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    juos laiku pasiųstų JMCPP* : Mlodyčiui į Leipcigą ir ponui
-    Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
-    lenkiškas, pridėjau 1310 flor.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
@@ -103,8 +82,9 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Die 5 Augusti [rugpjūčio 5 dieną] per Turčiną, kai jo kara­

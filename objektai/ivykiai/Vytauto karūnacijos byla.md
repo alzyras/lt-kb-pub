@@ -52,7 +52,7 @@ Nenurodyta
 - t-003
   teiginys: 'Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią, numatytą XIV a.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -73,6 +73,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -88,22 +89,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią, numatytą XIV a.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią,
-    numatytą XIV a. pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
-    chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
-    auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
-    Lucko suvažiavimas.
-    Dail. J. Mackevičius, 1934 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

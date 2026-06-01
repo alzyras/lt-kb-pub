@@ -17,13 +17,14 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Septintąjį-aštuntąjį dešimtmetį Lietuvoje pastatyta Jonavos azotinių trąšų gamykla.'
+  teiginys: 'Septintąjį–aštuntąjį dešimtmetį Jonavos azotinių trąšų gamykla buvo pastatyta vykstant sparčiai Lietuvos industrializacijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Septintąjį–aštuntąjį dešimtmetį Jonavos azotinių trąšų gamykla buvo pastatyta vykstant sparčiai Lietuvos industrializacijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai

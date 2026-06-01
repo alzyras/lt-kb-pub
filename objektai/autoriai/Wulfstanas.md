@@ -41,7 +41,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - t-005
   teiginys: 'Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII amž. Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies.'
   pagrindžia:
-    - c-005
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -80,6 +80,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   statusas: verified
   pagrindžia:
     - t-003
+    - t-005
 
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -108,23 +109,6 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jų metu žymioji dalis turto,
-    kuris į 5-6 dalis 5-6 mylių atstume išskirstomas, tekdavusi tam,
-    kuris su savo žirgu pirmasis pasiekdavęs toliausiai padėtą didžiąją
-    dalį. Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII
-    amž.
-    Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai
-    didelė, o joje esą daug medaus ir žuvies. Tarp savęs aisčiai daug
-    kariaują.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Susiję objektai

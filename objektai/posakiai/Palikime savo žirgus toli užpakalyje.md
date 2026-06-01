@@ -65,6 +65,5 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
 ### Susiję objektai
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/daiktai/Žirgai]]

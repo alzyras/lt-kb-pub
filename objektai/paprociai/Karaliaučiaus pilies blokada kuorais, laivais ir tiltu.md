@@ -42,46 +42,23 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai, pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų.'
   pagrindžia:
-    - c-005
+    - c-001
     - c-002
-    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kiekvieną pilį apsupo trimis stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.'
   pagrindžia:
-    - c-006
     - c-004
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
-
-      Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko  ir, apsvarstę visas
-    priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop  visi  it vienas sutarė
-    pastatyti  tiltą per Priegliaus upę, o abiejuose  tilto galuose įrengti tvirtus kuorus,
-    manydami galėsią šitaip trukdyti broliams plukdyti į Karaliaučiaus pilį visokius reikmenis.
-    Kai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei
-    laukti negailestingos bado mirties, todėl apsiginklavo ir susėdo į laivus, o kai priplaukė
-    netoli tilto, nuleido inkarus, tačiau pakilo smarkus vėjas ir nubloškė juos prie pat tilto,
-    Žinoma, šitai įvyko dėl dievo apvaizdos; kopdami ant tilto, jie užtiko daugybę ginkluotų
-    vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
-    kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
-    matęs vedant nedidelį karių būrį.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
@@ -99,7 +76,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko  ir, apsvarstę visas
@@ -121,8 +98,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo
@@ -136,28 +114,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai,
-    pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius
-    maistą  į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų. Susirūpinę šiuo reikalu,
-    broliai bei komtūras slapta pasiuntė vieną vyrą, kuris, kartą pragręžęs šiuos laivus grąžtu,
-    taip dažnai šitai kartojo, kad priešai, nukamuoti didelių įstangų ir išlaidų, turėjo liautis
-    puldinėję brolių laivus, kurių nemaža jau buvo sunaikinę, o įgulas paėmę nelaisvėn ir
-    išžudę.
-
-
-
-
-        103 (98).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-006
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
@@ -178,5 +135,4 @@ Nenurodyta
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/kuoras propugnaculum pilaitė]]

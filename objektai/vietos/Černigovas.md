@@ -33,12 +33,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-001
   teiginys: 'Švitrigaila paėmė į savo valdžią Černigovo sritį.'
   pagrindžia:
-    - c-009
+    - c-005
 
 - t-002
   teiginys: 'Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.'
   pagrindžia:
-    - c-012
+    - c-007
 
 - t-003
   teiginys: 'Valdymo pabaigoje kelios atskiros kunigaikštystės dar buvo likusios Černigovo krašte ir Maskvos pasienyje.'
@@ -46,24 +46,24 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-003
 
 - t-004
-  teiginys: 'Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro, Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­ tropolitų savo teises.'
+  teiginys: 'Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-005
   teiginys: 'Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.'
   pagrindžia:
-    - c-013
-
-- t-006
-  teiginys: 'Lietuva tuo laiku duoklę mokėjo Polocko kunigaikščiams, o valdoma savo etmonų, o Lietuvos miestai jau buvo valdomi Kijevo ku­ nigaikščių: vieni - Černigovo, kiti - Smolensko, kiti - Polocko.'
-  pagrindžia:
     - c-008
 
-- t-007
-  teiginys: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+- t-006
+  teiginys: 'Kai kurie Lietuvos miestai buvo valdomi Černigovo kunigaikščių.'
   pagrindžia:
-    - c-015
+    - c-004
+
+- t-007
+  teiginys: '1411 m. pavasarį Vytautas keliavo pro Černigovą iki Kijevo, o vietos kunigaikščiai jam reiškė paklusnumą.'
+  pagrindžia:
+    - c-002
 
 - t-008
   teiginys: 'Černigovo vyskupas dalyvavo stačiatikių vyskupų susirinkime, kuris išleido aplinkraštį dėl teisių gynimo nuo Rusijos metropolitų.'
@@ -71,14 +71,14 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-001
 
 - t-009
-  teiginys: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­ do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­ je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su Černigovu32.'
+  teiginys: 'Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams laisvę prekiauti su Černigovu be muito.'
   pagrindžia:
-    - c-016
+    - c-009
 
 - t-010
   teiginys: 'Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny.'
   pagrindžia:
-    - c-011
+    - c-003
 
 - t-011
   teiginys: 'Dalis Lietuvos miestų tuo metu buvo valdoma Černigovo kunigaikščių.'
@@ -88,7 +88,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-012
   teiginys: 'Valdymo pabaigoje Černigovo krašte dar buvo likusios kelios atskiros kunigaikštystės.'
   pagrindžia:
-    - c-007
+    - c-003
 
 - t-013
   teiginys: 'Vytautui vykstant pro Černigovą iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.'
@@ -98,17 +98,17 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-014
   teiginys: 'Černigove susidarė atskira kunigaikštija.'
   pagrindžia:
-    - c-010
+    - c-006
 
 - t-015
   teiginys: 'Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams muito laisvę prekiaujant su Černigovu.'
   pagrindžia:
-    - c-006
+    - c-009
 
 - t-016
   teiginys: 'Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.'
   pagrindžia:
-    - c-017
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -127,6 +127,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-008
+    - t-004
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -145,6 +146,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-013
+    - t-007
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -160,6 +162,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-003
+    - t-012
+    - t-010
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -191,88 +195,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-011
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada pats Naugarduko susirinkimas Cem­
-    blaką paskyrė Kijevo metropolitu. Susirinkusieji stačiatikių
-    vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro,
-    Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo
-    Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­
-    tropolitų savo teises. Taip Vytautas vėl atgaivino Kijeve at­
-    skirą Lietuvai stačiatikių metropoliją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    III KNYGA
-    toritetą, maždaug tuo laiku pagarsėjo vienas jų, vardu Jach­
-    na Laurinavičius, pasižymėjęs išmintimi, turtais ir įtakingu-
-    mu, o ir paties karaliaus didžiai gerbiamas31. Dar būdamas
-    didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­
-    do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­
-    je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su
-    Černigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė
-    visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-015
-
-- c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
-    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
-    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
-    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
-    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
-    valstybės vieningumui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Otcem
-    że jeho mnoho łaskasze i mukami pre-
-    tiasze, o że nikako łaskania i słuszasze,
-    ni preszczenja bojaszesia i zyviasze w
-    monastyri i sławia Swiatuju Troycu Ot­
-    ca i Syna i Swiatoho Ducha - ir t. t.
-    [Lietuvos valdovų pradžia - į Poloc­
-    ko kunigaikščius, j Rogvoldo vietą
-    atėjo didysis Mstislavas Vladimiro-
-    vičius ir užėmė Polocką, o Rogvol-
-    dovičiai išbėgo į Cargradą [Konstan­
-    tinopolį]. Lietuva tuo laiku duoklę
-    mokėjo Polocko kunigaikščiams, o
-    valdoma savo etmonų, o Lietuvos
-    miestai jau buvo valdomi Kijevo ku­
-    nigaikščių: vieni - Černigovo, kiti -
-    Smolensko, kiti - Polocko. Ir Vilnia
-    [Vilnius] buvo priverstas duoti
-    duoklę Ugrų karaliui (tikriausiai Ha­
-    ličo) už saugojimą nuo didžiojo ku­
-    nigaikščio Mstislavo Rogvoldovi-
-    čiaus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
 
-- c-009
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip sąmokslas buvo
@@ -290,8 +215,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-001
+    - t-016
 
-- c-010
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kurį laiką Padauguvio giminės net mo-
@@ -305,22 +231,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-014
 
-- c-011
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
-    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
-    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
-    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
-    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
-    valstybės vieningumui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-012
+- c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau amžinosios taikos
@@ -334,7 +245,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-002
 
-- c-013
+- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš viso Mindaugo laikotarpyje po Saulės kautynių
@@ -348,37 +259,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-005
 
-- c-014
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kurį laiką Padauguvio giminės net mo-
-    kėjo jam duoklę — buvo pripažinusios jo valdžią. Bet jau XII
-    amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
-    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
-    nigaikštijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-015
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tos žinios kėlė Vytauto
-    garbę, aukštino jį vietinių gyventojų akyse. Ir kada Vytautas,
-    norėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­
-    galės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­
-    sarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­
-    lionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,
-    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
-    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
-    klusnumą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-016
+- c-009
+  santrauka: 'Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams laisvę prekiauti su Černigovu be muito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. Il priede išsamią žinią apie Lie- je, kur aiškiai pasakyta: ius Teutoni-
@@ -405,21 +287,4 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-009
-
-- c-017
-  santrauka: 'Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
-    damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
-    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
-    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
-    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
-    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
-    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
-    Zigmanto ryšiai su Lenkija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
+    - t-015

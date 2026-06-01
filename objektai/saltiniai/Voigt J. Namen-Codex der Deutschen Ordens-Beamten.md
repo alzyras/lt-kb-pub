@@ -25,13 +25,14 @@ Dusburgietis teigia, kad voigt J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad voigt J.'
+  teiginys: 'J. Voigto „Namen-Codex der Deutschen Ordens-Beamten“ išleistas Karaliaučiuje 1843 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Voigto „Namen-Codex der Deutschen Ordens-Beamten“ išleistas Karaliaučiuje 1843 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Voigt J. Namen-Codex der Deutschen Ordens-Beamten — Königsberg, 1843.

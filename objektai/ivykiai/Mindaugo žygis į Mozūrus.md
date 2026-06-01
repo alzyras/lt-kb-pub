@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mindaugo jau turėta Lie­ tuvoje jei ne aukščiausia valdžia, tai bent pirmaujanti reikšmė, nes, kaip žinia, tais metais jis padaręs didelį žygį į Mozūrus.'
+  teiginys: '1236 m. Mindaugas turėjo Lietuvoje pirmaujančią reikšmę ir tais metais surengė didelį žygį į Mozūrus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1236 m. Mindaugas turėjo Lietuvoje pirmaujančią reikšmę ir tais metais surengė didelį žygį į Mozūrus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kaip vyko tas atskirų mažų vienetų jungimasis į stam­

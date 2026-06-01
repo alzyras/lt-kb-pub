@@ -45,24 +45,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos karaliumi Tais pačiais metais, šventos Kotrynos dieną (lapkričio 25), Vokietijos valdovai elektoriai vieningai išrinko Henriką, Liuksemburgo grafą, Romos karaliumi (Mart.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais, šventos Kotrynos dieną (lapkričio 25), Vokietijos valdovai elektoriai
-    vieningai išrinko Henriką, Liuksemburgo grafą, Romos karaliumi (Mart. p. 444; Ptol. p.
-    1230).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     105. Apie Henriko, Liuksemburgo grafo, išrinkimą Romos karaliumi

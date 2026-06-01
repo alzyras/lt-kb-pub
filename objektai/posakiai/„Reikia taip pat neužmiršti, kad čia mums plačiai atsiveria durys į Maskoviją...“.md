@@ -24,13 +24,14 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją, o iš jos per totorius galėsime pasiekti ir Kiniją.'
+  teiginys: 'Vilniaus akademiją steigęs jėzuitas rašė, kad iš Vilniaus atsiveria kelias į Maskoviją, o per totorius galima pasiekti Kiniją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus akademiją steigęs jėzuitas rašė, kad iš Vilniaus atsiveria kelias į Maskoviją, o per totorius galima pasiekti Kiniją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A

@@ -49,17 +49,17 @@ Nenurodyta
 - t-002
   teiginys: 'Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo etnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios Lietuvos koziriu bandydami jį internacionalizuoti.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
-  teiginys: 'Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnių pavadino gražiausiu Lenkijos karalystės perlu.'
+  teiginys: '1915 m. vokiečiai be mūšio paėmė Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.'
   pagrindžia:
     - c-002
 
 - t-004
   teiginys: 'Toje teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -82,8 +82,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-002
+  santrauka: '1915 m. vokiečiai be mūšio paėmė Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams
@@ -103,26 +105,6 @@ Nenurodyta
     - t-003
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Idėja skynėsi kelią ne tik Europo-
-    je – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje
-    (JAV). Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo
-    etnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios
-    Lietuvos koziriu bandydami jį internacionalizuoti.
-    Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams
-    nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-
-    vasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o
-    rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
-    teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
-    kariuomenių kontroliuojamoje zonoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
   santrauka: 'Toje teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

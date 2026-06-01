@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: ': Wnuk Kiejstuta, Jan książę drohiczyński , KH, t.'
+  teiginys: 'J. Fijałeko „Wnuk Kiejstuta, Jan książę drohiczyński“ išspausdintas KH 28 tome 1914 m., p. 181-197.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Fijałeko „Wnuk Kiejstuta, Jan książę drohiczyński“ išspausdintas KH 28 tome 1914 m., p. 181-197.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Fijałek, J. : _Wnuk Kiejstuta, Jan książę drohiczyński_ , KH, t. 28,

@@ -27,7 +27,7 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
     - c-003
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad ir Jer.— Dramenow; Dramenava (vėliau — Drebnau), kaimas į pietus nuo Pabečių (Sch-K; GAO, p. 30).'
+  teiginys: 'Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
     - t-001
 
 - c-002
+  santrauka: 'Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     380 D.  ir Jer.— Dramenow; Dramenava (vėliau — Drebnau), kaimas  į pietus nuo

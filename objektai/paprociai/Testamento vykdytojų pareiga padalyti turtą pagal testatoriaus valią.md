@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Paskui kai kas nors, Dievo Apvaizda, po mūsų į mūsų sostą įžengs ir taps įpėdiniu, taip pat ir visų abiejų valstybių luomų tarybų prašome, kad netrukdytų ir, priešingai, padėtų padalinti mūsų turtus že­ miau aprašytu papročiu, be gaišaties, delsimo, pokštų.'
+  teiginys: 'Testatorius prašė sosto įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal pareikštą valią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Testatorius prašė sosto įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal pareikštą valią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O jeigu kuri tauta būtų nedėkinga ir ieškotų kelių atsi­

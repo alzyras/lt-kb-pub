@@ -52,7 +52,7 @@ Nenurodyta
 - t-002
   teiginys: 'Įėjo Vengrijos ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem nuogais kardais nešini.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
@@ -62,12 +62,12 @@ Nenurodyta
 - t-004
   teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-005
-  teiginys: 'Ordino magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­ viram lauke, bet nesislapstyti giriose, kaip iki šiol.'
+  teiginys: 'Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -99,24 +99,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Įėjo Vengrijos
-    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
-    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
-    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
-    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
-    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
-    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-004
+- c-003
+  santrauka: 'Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pasiuntiniai pareiškė, kad šituos du
@@ -131,21 +117,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pasiuntiniai pareiškė, kad šituos du
-    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
-    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
-    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
-    viram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per
-    maža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti
-    ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
 ## Ryšiai

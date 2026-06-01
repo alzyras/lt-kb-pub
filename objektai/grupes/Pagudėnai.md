@@ -29,7 +29,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.'
   pagrindžia:
-    - c-019
+    - c-017
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
@@ -37,7 +37,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - c-008
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą 1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams, varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus, kad jie ateityje niekada.'
+  teiginys: '1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
   pagrindžia:
     - c-010
 
@@ -54,15 +54,15 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - t-006
   teiginys: 'Dusburgietis teigia, kad apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie Pagudės kilmingieji, tiesa, vos.'
   pagrindžia:
-    - c-016
+    - c-015
 
 - t-007
-  teiginys: 'Dusburgietis teigia, kad 193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113— 114). Žemės vardas gretinamas su pr. gudde, ‘krūmai’. Prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę.'
+  teiginys: 'Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.'
   pagrindžia:
     - c-006
 
 - t-008
-  teiginys: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
+  teiginys: 'Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.'
   pagrindžia:
     - c-003
 
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - c-012
 
 - t-011
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę ir ją nusiaubė, degindami bei piešdami, daugybę paėmė į nelaisvę ar nukovė, išskyrus keletą tų, kurie su savo šeimyna patraukė link Lietuvos į Gardino pilies apygardą [territorium], o.'
+  teiginys: 'Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę, ją nusiaubė ir daugelį pagudėnų paėmė į nelaisvę arba nukovė.'
   pagrindžia:
     - c-007
 
@@ -87,27 +87,22 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - c-011
 
 - t-013
-  teiginys: 'Dusburgietis teigia, kad konradas iš Tirbergo, magistras, ir broliai, subūrę didelę kariuomenę, įsiveržė į Pagudės žemę ir, išžudę nesuskaičiuojamą galybę vyrų, ugnimi nusiaubę visą žemę bei ją apiplėšę, išsivarė į nelaisvę moteris ir vaikus. Kai šitai vyko, ir vyrai, ir moterys.'
-  pagrindžia:
-    - c-015
-
-- t-014
   teiginys: 'Dusburgietis teigia, kad tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus ir juos išsivarė į nelaisvę.'
   pagrindžia:
     - c-002
 
-- t-015
+- t-014
   teiginys: 'Dusburgietis teigia, kad nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.'
   pagrindžia:
     - c-009
 
-- t-016
+- t-015
   teiginys: 'Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten.'
   pagrindžia:
-    - c-017
+    - c-016
 
-- t-017
-  teiginys: 'Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­ medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
+- t-016
+  teiginys: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
   pagrindžia:
     - c-014
 
@@ -147,9 +142,10 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
 - c-003
+  santrauka: 'Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
@@ -208,6 +204,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-005
 
 - c-006
+  santrauka: 'Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113—
@@ -220,6 +217,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-007
 
 - c-007
+  santrauka: 'Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę, ją nusiaubė ir daugelį pagudėnų paėmė į nelaisvę arba nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     191 (186). Dar apie tą patį
@@ -278,9 +276,10 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
 - c-010
+  santrauka: '1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
@@ -346,6 +345,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-005
 
 - c-014
+  santrauka: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
@@ -362,25 +362,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-016
 
 - c-015
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Konradas iš Tirbergo, magistras, ir broliai, subūrę didelę kariuomenę, įsiveržė į Pagudės
-    žemę ir, išžudę nesuskaičiuojamą galybę vyrų, ugnimi nusiaubę visą žemę bei ją apiplėšę,
-    išsivarė  į nelaisvę moteris  ir vaikus. Kai šitai vyko,  ir vyrai,  ir moterys paskutiniais
-    žodžiais keikė vieną sembą, vardu Bansas, Pabečių valsčiaus kamerarijų, tvirtindami,
-    jog jis esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas. Šis Bansas
-    norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik
-    visus prūsus sukurstė atsimesti nuo krikščionybės.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-016
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     168 (163). Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
@@ -401,7 +385,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   pagrindžia:
     - t-006
 
-- c-017
+- c-016
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
@@ -415,26 +399,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
-- c-018
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene
-    įsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti
-    susibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria
-    raitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios
-    tarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė
-    kažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar
-      416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m. (Voigt J., Namen..,
-    p. 24).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-017
-
-- c-019
+- c-017
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
@@ -456,7 +423,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
-- [[objektai/asmenys/Bansas]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/asmenys/Divanas]]
 - [[objektai/autoriai/Henrikas]]
@@ -464,7 +430,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - [[objektai/asmenys/Henrikas iš Svarcburgo]]
 - [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/autoriai/K. Būga]]
-- [[objektai/asmenys/Konradas]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Linkas]]
 - [[objektai/daiktai/Malūnas]]
@@ -479,7 +444,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/įkaitai]]
@@ -494,11 +458,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - [[objektai/ivykiai/Ketvirtosios atskalūnybės sąmokslas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]
-- [[objektai/ivykiai/Pagudėnų pavergimas bei didžiosios skerdynės ir krikščionims sugrąžinta taika]]
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]
 - [[objektai/asmenys/Skomantas (lietuvių vadas)]]
-- [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/posakiai/daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium]]
 - [[objektai/zodynas/fogtas]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
@@ -508,7 +470,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]
 - [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]
 - [[objektai/asmenys/Kaltis]]
-- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
 - [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
 - [[objektai/asmenys/Tirskas]]
 - [[objektai/zodynas/bažnyčios visuotinybė]]

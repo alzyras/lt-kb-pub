@@ -19,13 +19,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '21 Patvirtinimas Vilniaus burmistrui Charitonui Charotičiui žeanės Mai­ šiagalos ir Rudaminos pav. pagal Jo Malonybės karaliaus Aleksandro jo broliui duotą privilegiją - fol.'
+  teiginys: 'Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Fol. 113 ir pan.

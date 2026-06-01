@@ -29,13 +29,14 @@ Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka­ raliaus Žygimanto Augusto laiškas, rašytas rusų kalba iš Liublino, datuo­ tas 1538 metų rugsėjo 1 dieną, su Lietuvos antspaudu ir raštininko Ostafiejaus [Eustachijaus] parašu, įspė­.'
+  teiginys: 'Raštininkas Eustachijus pasirašė 1538 m. rugsėjo 1 d. Žygimanto Augusto laišką dėl Drujos vandens tiekimo į Vilnių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Raštininkas Eustachijus pasirašė 1538 m. rugsėjo 1 d. Žygimanto Augusto laišką dėl Drujos vandens tiekimo į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. Miesto archyve: Žygimanto Seno­

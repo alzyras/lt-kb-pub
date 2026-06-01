@@ -50,7 +50,7 @@ Mackevičius, vėliau K.
 - t-005
   teiginys: 'Antanas Mackevičius po Z. Sierakausko mirties buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-006
   teiginys: 'Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
@@ -58,7 +58,7 @@ Mackevičius, vėliau K.
     - c-006
 
 - t-007
-  teiginys: 'Mackevičių, kitą — Genujos-Cuneo karo mokyklos, ruošusios karininkus partizaninei kovai, absolventui B.'
+  teiginys: 'Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui.'
   pagrindžia:
     - c-004
 
@@ -68,9 +68,9 @@ Mackevičius, vėliau K.
     - c-003
 
 - t-009
-  teiginys: 'Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija) sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 109 nas Mackevičius.'
+  teiginys: 'Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
   pagrindžia:
-    - c-008
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -125,6 +125,7 @@ Mackevičius, vėliau K.
     - t-008
 
 - c-004
+  santrauka: 'Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Netrukus iš K. Maleckio žvalgy-
@@ -202,49 +203,7 @@ Mackevičius, vėliau K.
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pavasarį paskirtas vyriausiuoju Lietu-
-    vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas
-    Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
-    nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
-    mybę vienu smūgiu nuleisti sukilėliams daug kraujo. Gegužės pradžioje
-    prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
-    vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
-    Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija)
-    sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    109
-    nas Mackevičius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-009
-
-- c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pavasarį paskirtas vyriausiuoju Lietu-
-    vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas
-    Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
-    nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
-    mybę vienu smūgiu nuleisti sukilėliams daug kraujo. Gegužės pradžioje
-    prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
-    vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
-    Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija)
-    sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    109
-    nas Mackevičius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
 ## Ryšiai
@@ -256,8 +215,8 @@ Mackevičius, vėliau K.
 - [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
-- [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]
 - [[objektai/posakiai/Eikime, broliai, už vierą šventą]]
 - [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]
+- [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]
 - [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]
 - [[objektai/paprociai/Teresboro stovyklos mokymai lietuvių kalba]]

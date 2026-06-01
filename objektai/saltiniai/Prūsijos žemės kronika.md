@@ -36,12 +36,12 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 - t-001
   teiginys: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: 'Mikalojus iš Jarošino, versdamas Dusburgo kroniką į vokiečių kalbą, pridėjo nemažai savo papildymų ir paaiškinimų.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: 'Petras Dusburgas Prūsijos žemės kronikoje nurodė Žemaitijoje buvus net 70 tokių „karaliukų“.'
@@ -51,7 +51,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 - t-004
   teiginys: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ rašoma, kad 1311 m. Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-005
   teiginys: 'Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs.'
@@ -61,12 +61,12 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 - t-006
   teiginys: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ rašoma, kad 1292 m. Pukuveras pasiuntė Vytenį su kariuomene į Lenkiją.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-007
-  teiginys: 'Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės žemė ir kaimyninės Kulmo žemės] kentė­ jo per tą antpuolį.'
+  teiginys: 'Prūsijos žemės kronikoje minima tik Dobrynės kunigaikštystė, o kitame dokumente nurodoma ir kaimyninė Kulmo žemė.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -85,6 +85,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -104,22 +105,6 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     - t-003
 
 - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaip Wulfstano pasakojimai, taip ir visi kiti šaltiniai liudija,
-    kad mirusiųjų lavonus lietuviai sudegindavo. Tuo klausimu įdo­
-    mus yra pastebėjimas P. Dusburgo amžininko, Mikalojaus iš
-    Jarošino, kuris beversdamas kalbamą Dusburgo kroniką iš lo­
-    tynų į vokiečių kalbą, pridėjo nemaža papildymų ir paaiški­
-    nimų nuo savęs^1 ). Jis sako, kad lietuvių tautos tikėję į pomir­
-    tinį gyvenimą, „bet ne taip, kaip reikia.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
   santrauka: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ rašoma, kad 1292 m. Pukuveras pasiuntė Vytenį su kariuomene į Lenkiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -144,7 +129,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   pagrindžia:
     - t-006
 
-- c-005
+- c-004
   santrauka: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ rašoma, kad 1311 m. Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -170,7 +155,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   pagrindžia:
     - t-004
 
-- c-006
+- c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     XIII a. Šilainiai,
@@ -188,7 +173,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   pagrindžia:
     - t-001
 
-- c-007
+- c-006
+  santrauka: 'Prūsijos žemės kronikoje minima tik Dobrynės kunigaikštystė, o kitame dokumente nurodoma ir kaimyninė Kulmo žemė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Grigaliaus šven­

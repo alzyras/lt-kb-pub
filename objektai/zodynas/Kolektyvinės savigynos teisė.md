@@ -25,25 +25,11 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
 - t-002
   teiginys: 'Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuolimui.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-
-    tarties 5-ajame straipsnyje. Juo garantuojama individualios ar kolektyvi-
-    nės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuo-
-    limui. Tai reiškia, kad šalys narės ginkluoto puolimo prieš bet kurią iš
-    jų atveju ateis viena kitai į pagalbą – ir kiekviena atskirai, ir visos kartu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuolimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -59,6 +45,7 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

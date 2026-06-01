@@ -38,7 +38,7 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
 - t-003
   teiginys: 'Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -59,6 +59,7 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -76,27 +77,9 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
   pagrindžia:
     - t-001
 
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik čia
-    tuo atžvilgiu buvo sunkiau, nes kaip tik tuo metu Livonijos
-    valstybių žemes pradėjo smarkiai pulti Maskva, kuri norėjo
-    pasiekti jūrą. Livonijos valstybės vadams reikėjo ne tik ap-
-    sisaugoti nuo Maskvos, bet ir išspręsti bažnytinės valstybės pa-
-    naikinimo klausimą, nes krašte labai sparčiai plito protestantiz-
-    mas. Tačiau, nesant vieno valdovo, buvo sunku dėl to susitarti
-    ir sunku apsiginti nuo Maskvos; tad būtinai reikėjo šauktis į
-    pagalbą kaimynę Lietuvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Maskvos kariuomenė]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/zodynas/magistras]]

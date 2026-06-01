@@ -26,23 +26,24 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
 ## Teiginiai
 
 - t-001
-  teiginys: 'Alekna buvo pirmasis (1922-1930) Lie­ tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­ tojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­ rijos katedros vedėjas.'
+  teiginys: 'Antanas Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. parengė platesnį ketvirtąjį jos leidimą.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: '1936 m. „Lietuvos istoriją“ rašė penki autoriai, o jos redaktorius pats parengė didžiausią dalį ir vienodino kitų tekstus.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. ketvirtajam leidimui panaudojo daugiau šaltinių ir tyrinėjimų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Antanas Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. parengė platesnį ketvirtąjį jos leidimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kanauninkas Ant. Alekna buvo pirmasis (1922-1930) Lie­
@@ -56,23 +57,9 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kanauninkas Ant. Alekna buvo pirmasis (1922-1930) Lie­
-    tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­
-    tojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­
-    rijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,
-    jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
-    daugiau šaltinių ir mokslinių tyrinėjimų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ėmęs dėstyti Vilniaus universitete, Šapoka specialiau savo

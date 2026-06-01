@@ -129,4 +129,3 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - [[objektai/zodynas/separatizmas]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]
-- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

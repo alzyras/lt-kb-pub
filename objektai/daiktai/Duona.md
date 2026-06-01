@@ -87,7 +87,6 @@ Nenurodyta
 - [[objektai/asmenys/Henrikas iš Plockės]]
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
 - [[objektai/zodynas/Juris Civilis et Canonici civilinė ir kanonų teisė]]
-- [[objektai/paprociai/Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų]]
 - [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Melchizedekas|Melchizedekas (kunigas)]]

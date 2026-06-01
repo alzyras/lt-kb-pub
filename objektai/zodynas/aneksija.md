@@ -40,19 +40,19 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     - c-002
 
 - t-003
-  teiginys: 'Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lietuvos nuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­ vės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.'
+  teiginys: 'Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
   pagrindžia:
-    - c-003
+    - c-005
 
 - t-005
   teiginys: 'Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -88,21 +88,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     - t-002
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    patenkinti ir imperialistiniai sovietų siekiai. Kadangi okupantų paskirtas
-    Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų
-    panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo ne-
-    teisėti. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
-    prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
-    jų turtas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
+  santrauka: 'Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šitas tvirtinimas priešingas unijos nuosta­
@@ -117,7 +103,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
   santrauka: 'Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -139,7 +125,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   pagrindžia:
     - t-005
 
-- c-006
+- c-005
   santrauka: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -156,6 +142,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   statusas: verified
   pagrindžia:
     - t-006
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

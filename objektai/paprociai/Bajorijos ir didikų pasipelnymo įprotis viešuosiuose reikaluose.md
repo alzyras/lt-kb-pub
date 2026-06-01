@@ -40,7 +40,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: bet to meto bajorija ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel- nyti.'
+  teiginys: 'XVIII a. bajorija ir didikai buvo įpratę pasipelnyti iš viešųjų reikalų, prie kurių prisidėdavo.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XVIII a. bajorija ir didikai buvo įpratę pasipelnyti iš viešųjų reikalų, prie kurių prisidėdavo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso

@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tad visų pirmiausia skelbiame, kad dėl pinigų už kilnojamąjį arba nekilnojamąjį turtą arba krimina­ linėje byloje, kuri būtų susijusi su žydų tautybės asmeniu, joks krikščionis prieš žydą, nebent su krikščionimi ir su žy­ du būtų prileistas liudyti.'
+  teiginys: 'Bylose dėl žydo pinigų, turto ar kriminalinio kaltinimo krikščionis prieš žydą galėjo liudyti tik kartu su krikščioniu ir žydu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bylose dėl žydo pinigų, turto ar kriminalinio kaltinimo krikščionis prieš žydą galėjo liudyti tik kartu su krikščioniu ir žydu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad visų pirmiausia skelbiame, kad dėl

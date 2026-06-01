@@ -58,7 +58,7 @@ Nenurodyta
     - c-002
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad šitai išgirdę, broliai ir jų šeimyna, kitą dieną pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti. 392 Pateikiama kronikoje.'
+  teiginys: 'Bartenšteino pilį palikę broliai pasitraukė į Karaliaučių ir Elbingą, o priešai vėliau įsibrovė į pilį ir ją panaudojo puldinėjimams.'
   pagrindžia:
     - c-004
 
@@ -124,6 +124,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: 'Bartenšteino pilį palikę broliai pasitraukė į Karaliaučių ir Elbingą, o priešai vėliau įsibrovė į pilį ir ją panaudojo puldinėjimams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
@@ -152,5 +153,4 @@ Nenurodyta
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/kuoras propugnaculum pilaitė]]

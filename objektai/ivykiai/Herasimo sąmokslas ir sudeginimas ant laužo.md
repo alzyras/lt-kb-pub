@@ -57,5 +57,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Motiejus]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Švitrigaila]]

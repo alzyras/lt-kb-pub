@@ -26,13 +26,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '387); anot jos, Ragainės komtūras Fridri­ chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė jos užimti, o tik sudegino papilį.'
+  teiginys: '1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitai vyko viešpataujant Lie­

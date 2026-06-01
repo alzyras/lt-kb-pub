@@ -20,13 +20,14 @@ Dusburgietis teigia, kad konradas (Landsbergo markgrafas) sušakosiąs ir ateity
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad konradas (Landsbergo markgrafas) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
+  teiginys: 'Landsbergo markgrafas Konradas buvo tarp didikų, pritarusių pasiūlymui prašyti popiežiaus patvirtinti naują ligoninę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Landsbergo markgrafas Konradas buvo tarp didikų, pritarusių pasiūlymui prašyti popiežiaus patvirtinti naują ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors
@@ -69,6 +70,5 @@ Dusburgietis teigia, kad konradas (Landsbergo markgrafas) sušakosiąs ir ateity
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Konradas]]

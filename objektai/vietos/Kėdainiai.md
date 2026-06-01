@@ -37,7 +37,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - c-002
 
 - t-003
-  teiginys: 'Tada pražydo protestantų Radvilų centruose esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas Vilniaus mokyklos turtų.'
+  teiginys: 'Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.'
   pagrindžia:
     - c-003
 
@@ -84,7 +84,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-002
 
 - c-003
-  santrauka: 'Tada pražydo protestantų Radvilų centruose esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas Vilniaus mokyklos turtų.'
+  santrauka: 'Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada pražydo protestantų Radvilų centruose

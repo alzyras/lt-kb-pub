@@ -41,41 +41,11 @@ Nenurodyta
 - t-001
   teiginys: 'Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    vokiečių ordinas per daug buvo užsisklendęs savo siauruose sieki­
-    muose. Tad Gediminui politinės aplinkybės krikštui tapo gana
-    nepalankios, nes teisę krikštyti Lietuvą tik sau tepripažino kry­
-    žiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo.
-    Ryžtingai kovojančių pagonių jie iš viso neturėjo progos klaustis,
-    ar jie turi norą krikštytis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    vokiečių ordinas per daug buvo užsisklendęs savo siauruose sieki­
-    muose. Tad Gediminui politinės aplinkybės krikštui tapo gana
-    nepalankios, nes teisę krikštyti Lietuvą tik sau tepripažino kry­
-    žiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo.
-    Ryžtingai kovojančių pagonių jie iš viso neturėjo progos klaustis,
-    ar jie turi norą krikštytis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     vokiečių ordinas per daug buvo užsisklendęs savo siauruose sieki­

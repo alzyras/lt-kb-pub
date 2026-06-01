@@ -19,13 +19,14 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad joachim; Herausgegeben von W.'
+  teiginys: 'E. Joachimas prisidėjo rengiant Vokiečių ordino 1198-1525 m. privilegijų regestų antrąją dalį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'E. Joachimas prisidėjo rengiant Vokiečių ordino 1198-1525 m. privilegijų regestų antrąją dalį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars
@@ -37,3 +38,7 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]

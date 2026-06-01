@@ -28,38 +28,34 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 386 Ordino Laukstetai (D.— Locstete, vėliau — Lochstedt) — pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno (dab. Primorskas) Girmavos valsčiuje.'
+  teiginys: 'Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad viklandsortas (Wiclantsort, Witlandisort) (plg. Vitlandas) Vyko u.'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio].'
+  teiginys: 'Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje.'
+  pagrindžia:
+    - c-004
+
 - t-004
-  teiginys: 'Dusburgietis teigia, kad 315 D.— castrum Lochstete, Jer.— burc. Lôchstete; Laukstetų pilis Sembos pietvakarių kyšulyje (žr. paaiškinimus D. III, 112, 3).'
+  teiginys: 'Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama apie Tepliavos ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė iš.'
   pagrindžia:
     - c-005
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama apie Tepliavos ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė iš.'
-  pagrindžia:
-    - c-006
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo vieno ten.'
+  teiginys: 'Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
@@ -77,9 +73,10 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-002
+  santrauka: 'Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
@@ -94,9 +91,10 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
+  santrauka: 'Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     386 Ordino Laukstetai (D.— Locstete, vėliau — Lochstedt) — pilis Sembos pietvakarių
@@ -108,20 +106,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     - t-001
 
 - c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Viklandsortas (Wiclantsort, Witlandisort) (plg. Vitlandas)
-      Vyko u.
-      Vildenbergas
-      Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab. Vilbarkas,
-    piet.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
+  santrauka: 'Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     315 D.— castrum Lochstete, Jer.— burc. Lôchstete; Laukstetų pilis Sembos pietvakarių
@@ -130,9 +115,9 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petro  iš Dusburgo kronikoje ne viskas išdėstyta chronologine tvarka, pvz.,  pilių
@@ -144,4 +129,4 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004

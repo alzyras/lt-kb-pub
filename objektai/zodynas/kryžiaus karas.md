@@ -60,7 +60,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     - c-002
 
 - t-003
-  teiginys: 'Autorius kryžiaus karus sieja su intensyvesniu jų skelbimu prieš pagonis ir lietuvius.'
+  teiginys: 'Popiežiaus Aleksandro IV bulėmis įsakyta intensyviau skelbti kryžiaus karus prieš pagonis.'
   pagrindžia:
     - c-003
     - c-004
@@ -104,6 +104,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     - t-002
 
 - c-003
+  santrauka: 'Popiežiaus Aleksandro IV bulėmis įsakyta intensyviau skelbti kryžiaus karus prieš pagonis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pasveikęs magistras ėmė organizuoti didelę jėgą prieš Žemaičius.
@@ -117,6 +118,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     - t-003
 
 - c-004
+  santrauka: 'Popiežiaus Aleksandro IV bulėmis įsakyta intensyviau skelbti kryžiaus karus prieš pagonis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos valstybės istorija butų pasukusi visai kitu keliu, jeigu
@@ -157,8 +159,6 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Danieliaus vainikavimas karaliumi Drogičine (1253 m.)]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

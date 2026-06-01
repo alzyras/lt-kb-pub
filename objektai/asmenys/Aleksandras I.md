@@ -30,9 +30,9 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Damehl, 1846 m. L I E T U V O S I S T O R I J A 104 1830–1831 metų sukilimas Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad milžiniškų kariuomenių žygiavimas per kraštą du.'
+  teiginys: 'Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Aleksandras I nutarė nekeršyti jam priesaiką sulaužiusiai Lietuvos bajorijai, todėl padėtis iš esmės liko nepakitusi.'
@@ -44,15 +44,10 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   pagrindžia:
     - c-001
 
-- t-004
-  teiginys: 'Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką.'
-  pagrindžia:
-    - c-004
-
 - t-005
   teiginys: 'Lietuvos bajorija reiškė pageidavimus prisijungti prie šio darinio, tačiau Aleksandras I nesutiko.'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -76,42 +71,6 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1830–1831 metų sukilimas
-    Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam
-    sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad
-    milžiniškų kariuomenių žygiavimas per kraštą du kartus per pusę metų
-    turėjo skaudžių pasekmių ekonomikai. Kai 1815 m. Vienos kongreso nu-
-    tarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietu-
-    vos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė
-    Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai di-
-    nastijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    J. Damehl, 1846 m.
-
-    L I E T U V O S  I S T O R I J A
-    104
-    1830–1831 metų sukilimas
-    Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam
-    sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad
-    milžiniškų kariuomenių žygiavimas per kraštą du kartus per pusę metų
-    turėjo skaudžių pasekmių ekonomikai. Kai 1815 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     L I E T U V O S  I S T O R I J A
     104
     1830–1831 metų sukilimas
@@ -128,8 +87,10 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
+    - t-001
 
-- c-005
+- c-003
   santrauka: 'Lietuvos bajorija reiškė pageidavimus prisijungti prie šio darinio, tačiau Aleksandras I nesutiko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

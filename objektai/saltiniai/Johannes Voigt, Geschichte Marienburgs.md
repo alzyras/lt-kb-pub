@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '53 F o i g t a s savo Marienburgo miesto ir pilies istorijoje (Geschichte Marienburgs, der Stadt und des Haupthauses des deutschen Ritter Ordens in Preussen, p. 241) rašo, kad 1426 metais di­ dysis kunigaikštis Vytautas prašė di­ džiojo magistro rūmų gydytojo.'
+  teiginys: 'Johannesas Voigtas rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Johannesas Voigtas rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pasta­

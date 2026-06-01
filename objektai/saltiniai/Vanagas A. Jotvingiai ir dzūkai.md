@@ -23,13 +23,14 @@ Dusburgietis teigia, kad vanagas A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vanagas A.'
+  teiginys: 'A. Vanago straipsnis „Jotvingiai ir dzūkai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1979 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Vanago straipsnis „Jotvingiai ir dzūkai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1979 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36.

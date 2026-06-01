@@ -36,31 +36,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris
-    nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo
-    prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo
-    tvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius. Tris
-    kartus jis padarė šitokį bandymą ir kiekvieną kartą susilaukė tos pačios baigties. Ketvirtą
-    kartą fogtas nupirko jam ketvirtą baltą žirgą ir pareiškė, kad tiek sykių šitai kartosiąs,
-    iki tą prūsą atpratinsiąs nuo prietarų. Kadangi ketvirtojo arklio velnias nepasmaugė kaip
-    pirmųjų, Dargis įtikėjo, nuolankiai išpažino savo klaidą ir pasidarė uolus tikėjimo bei
-    tikinčiųjų šalininkas, karštas dievo bei šventųjų gerbėjas, sutvirtinęs tikėjimu daugeliui
-    klystančiųjų naujakrikščių širdis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieną stebuklą

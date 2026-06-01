@@ -26,13 +26,14 @@ Dusburgietis teigia, kad powierski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad powierski J.'
+  teiginys: 'J. Powierskio veikalas apie Vloclaveko vyskupijos Ostrovico ir Golubo valdas 1235–1308 m. išleistas Gdanske 1977 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio veikalas apie Vloclaveko vyskupijos Ostrovico ir Golubo valdas 1235–1308 m. išleistas Gdanske 1977 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków

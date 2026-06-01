@@ -34,7 +34,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-001
 
 - t-002
-  teiginys: 'Tūbelio ministrų kabinetas, premjerą pakeitė kitas A.'
+  teiginys: 'Priėmus Lenkijos ultimatumą atsistatydino Juozo Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas.'
   pagrindžia:
     - c-007
 
@@ -44,12 +44,12 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-003
 
 - t-004
-  teiginys: 'Tūbeliui, ir A.'
+  teiginys: 'Juozui Tūbeliui radus rinką Didžiojoje Britanijoje, Lietuvos prekyba su šia šalimi užėmė pirmą vietą.'
   pagrindžia:
     - c-008
 
 - t-005
-  teiginys: 'Smetona paskyrė ekonomistą Juozą Tūbelį, o A.'
+  teiginys: '1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį.'
   pagrindžia:
     - c-005
 
@@ -59,17 +59,17 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-006
 
 - t-007
-  teiginys: 'Tūbelio tandemas Ūkinių ir kooperatinių organizacijų kūrėjas ir vadovas J.'
+  teiginys: 'Juozas Tūbelis 1931–1938 m. ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai.'
   pagrindžia:
     - c-004
 
 - t-008
   teiginys: 'Tūbelis kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę veiklą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį.'
   pagrindžia:
-    - c-009
+    - c-002
 
 - t-009
-  teiginys: 'Tūbelis kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę veiklą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį L I E T U V O S I S T O R I J A 164 reguliavimą laikė naudingu ir reikalingu, taigi jo politiką kartais vadinama.'
+  teiginys: 'Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių ūkinę veiklą.'
   pagrindžia:
     - c-002
 
@@ -94,6 +94,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - t-001
 
 - c-002
+  santrauka: 'Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių ūkinę veiklą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naujieji 160 000 ūkininkų vykdė melioraciją, pavertė dirbama žeme
@@ -118,6 +119,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   statusas: verified
   pagrindžia:
     - t-009
+    - t-008
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -136,6 +138,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - t-003
 
 - c-004
+  santrauka: 'Juozas Tūbelis 1931–1938 m. ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
@@ -156,6 +159,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - t-007
 
 - c-005
+  santrauka: '1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būdamas ir premjeru, ir užsienio rei-
@@ -189,6 +193,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - t-006
 
 - c-007
+  santrauka: 'Priėmus Lenkijos ultimatumą atsistatydino Juozo Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
@@ -205,6 +210,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - t-002
 
 - c-008
+  santrauka: 'Juozui Tūbeliui radus rinką Didžiojoje Britanijoje, Lietuvos prekyba su šia šalimi užėmė pirmą vietą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bandant padėti ūkininkams visi valsty-
@@ -220,33 +226,12 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   pagrindžia:
     - t-004
 
-- c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Naujieji 160 000 ūkininkų vykdė melioraciją, pavertė dirbama žeme
-    tūkstančius hektarų ganyklų, krūmų ir miškų, pasėlių plotai padidėjo
-    trečdaliu, Lietuva pati apsirūpindavo maistiniais ir pašariniais grūdais,
-    o perteklių eksportuodavo (1938 m. – 132 000 tonų). Kooperatyvams ir
-    pavieniams ūkininkams įsivežus iš Danijos, Švedijos ir Vokietijos tūks-
-    tančius žalųjų bei juodmargių karvių, pieno išmilžiai pakilo nuo 700 iki
-    2 000 litrų ir lenkė daugelį šalių. Kai privati ekonominė iniciatyva dau-
-    geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis
-    kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę vei-
-    klą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/asmenys/J. Tūbelis]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Valstybės gynimo taryba|Valstybės gynimo taryba (institucija)]]
 - [[objektai/zodynas/diplomatija]]
 - [[objektai/zodynas/in corpore]]
@@ -254,7 +239,8 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vienvaldystė]]
 - [[objektai/grupes/Valstybės saugumo departamentas]]
-- [[objektai/grupes/Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/grupes/Lietuvių tautininkų sąjunga]]
 - [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]
 - [[objektai/asmenys/Stasys Raštikis]]

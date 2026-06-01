@@ -48,44 +48,42 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Gedimino sostinėje pirmiausia buvo krikštijami bajorai.'
+  teiginys: 'Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.'
+  pagrindžia:
+    - c-006
+
+- t-002
+  teiginys: 'Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
   pagrindžia:
     - c-007
 
-- t-002
-  teiginys: 'Jogailos įsakymu buvo naikinami pagoniški aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
-  pagrindžia:
-    - c-010
-
 - t-003
-  teiginys: 'Kiekvienas pakrikštytasis gaudavo baltą rūbą.'
+  teiginys: 'Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą.'
   pagrindžia:
-    - c-018
+    - c-013
 
 - t-004
   teiginys: 'Ši privilegija yra svarbiausias krikščionybės įvedimo Lietuvoje aktas.'
   pagrindžia:
-    - c-013
+    - c-010
 
 - t-005
-  teiginys: 'Per pagrindinį gyventojų krikštijimą Vilniuje vyrai ir moterys buvo suskirstomi į atskirus būrius, o pakrikštytiesiems duodami atskiri vardai.'
-  pagrindžia:
-    - c-017
-    - c-012
-
-- t-006
-  teiginys: 'Taip pat tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­ mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek vėliau ir kitose rytinės Lietuvos vietose.'
+  teiginys: 'Per Lietuvos krikšto apeigas žmonės buvo krikštijami būriais, atskirai vyrai ir moterys, kiekvienam būriui suteikiant vardą.'
   pagrindžia:
     - c-009
+
+- t-006
+  teiginys: 'Po Lietuvos krikšto bažnyčios pradėtos statyti Ukmergėje, Maišiagaloje, Medininkuose, Nemenčinėje ir kitose rytinės Lietuvos vietose.'
+  pagrindžia:
+    - c-001
 
 - t-007
   teiginys: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
   pagrindžia:
-    - c-015
-    - c-008
+    - c-014
 
 - t-008
-  teiginys: 'Bet atlikus krikšto apeigas ir suorganizavus Bažnyčią, pasauliui jau buvo galima skelbti, kad Lietuva esanti krikščioniškas kraštas, kad ordinas, nesiliaudamas ją pulti, nusikalstąs.'
+  teiginys: 'Atlikus Lietuvos krikšto apeigas ir suorganizavus Bažnyčią, buvo galima skelbti, kad Lietuva yra krikščioniškas kraštas.'
   pagrindžia:
     - c-002
 
@@ -93,22 +91,21 @@ Nenurodyta
   teiginys: '1387 metais krikšto teikimas neapsiribojo vien Vilniumi, o buvo tęsiamas ir kitose Lietuvos vietose.'
   pagrindžia:
     - c-001
-    - c-004
 
 - t-010
   teiginys: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-011
-  teiginys: 'Jogaila besi­ krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas — prie krikšto turėti baltą rūbą, nekaltybės simbolį.'
+  teiginys: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
   pagrindžia:
     - c-003
 
 - t-012
-  teiginys: 'Taip pat žmonės klausė kuni­ gų, aiškinančių katalikybės kilnumą, ir tai dėl to, kad anksčiau ar vėliau ji turės pakeisti seną lietuvių tikėjimą; tą jautė ir pa­ tys lietuviai, veržiantis krikščionybei iš Rytų ir Vakarų.'
+  teiginys: 'Lietuvos krikšto metu žmonės klausė kunigų, aiškinusių katalikybės kilnumą ir jos būsimą vietą vietoj senojo lietuvių tikėjimo.'
   pagrindžia:
-    - c-016
+    - c-012
 
 ## Reikšmingi paminėjimai
 
@@ -125,8 +122,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-009
+    - t-006
 
 - c-002
+  santrauka: 'Atlikus Lietuvos krikšto apeigas ir suorganizavus Bažnyčią, buvo galima skelbti, kad Lietuva yra krikščioniškas kraštas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tą iš lengvo atliko suorganizuotoji Bažnyčia.
@@ -141,6 +140,7 @@ Nenurodyta
     - t-008
 
 - c-003
+  santrauka: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     „Tėve mū­
@@ -157,20 +157,6 @@ Nenurodyta
     - t-011
 
 - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jono
-    bažnyčia statyta toje pat vietoje, kur ir dabar yra. Taip pat
-    tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­
-    mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek
-    vėliau ir kitose rytinės Lietuvos vietose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių. Kilmingieji bajorai
@@ -190,7 +176,7 @@ Nenurodyta
   pagrindžia:
     - t-010
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal Dlugošą, Vilniuje per pagrindinį gyventojų krikštijimą
@@ -204,7 +190,8 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-007
+- c-006
+  santrauka: 'Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pakeliui iš Lietuvos kunigaikščių paėmęs paklusnumo
@@ -221,34 +208,8 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila besi­
-    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
-    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
-    prie krikšto turėti baltą rūbą, nekaltybės simbolį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-009
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jono
-    bažnyčia statyta toje pat vietoje, kur ir dabar yra. Taip pat
-    tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­
-    mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek
-    vėliau ir kitose rytinės Lietuvos vietose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-010
+- c-007
+  santrauka: 'Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje
@@ -263,7 +224,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-011
+- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui
@@ -275,7 +236,8 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-012
+- c-009
+  santrauka: 'Per Lietuvos krikšto apeigas žmonės buvo krikštijami būriais, atskirai vyrai ir moterys, kiekvienam būriui suteikiant vardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl ir Vy­
@@ -292,7 +254,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-013
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-
@@ -310,7 +272,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-014
+- c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vėlesnėmis žiniomis 1387 m. buvę pakrikštyta apie 30.000, nes
@@ -324,20 +286,8 @@ Nenurodyta
   pagrindžia:
     - t-007
 
-- c-015
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila besi­
-    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
-    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
-    prie krikšto turėti baltą rūbą, nekaltybės simbolį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-016
+- c-012
+  santrauka: 'Lietuvos krikšto metu žmonės klausė kunigų, aiškinusių katalikybės kilnumą ir jos būsimą vietą vietoj senojo lietuvių tikėjimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip pat žmonės klausė kuni­
@@ -352,24 +302,8 @@ Nenurodyta
   pagrindžia:
     - t-012
 
-- c-017
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl ir Vy­
-    tautui D. su Jogaila teko mokyti žmones pagrindinių kataliky­
-    bės tiesų ne vien todėl, kad karališko žodžio žmonės labiau
-    klausė, bet nebuvo kam lietuviškai aiškinti naujo tikėjimo. Jo­
-    gaila šituo ar kuriuo kitu laiku išvertęs lietuvių k. „Tėve mū­
-    sų“ ir „Tikiu Dievą“^2 ).
-    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
-    moterys, kiekvienam būriui suteikiant vardą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-018
+- c-013
+  santrauka: 'Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vyrai ir moterys buvo
@@ -383,8 +317,8 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-019
-  santrauka: 'Jogaila besi­ krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas — prie krikšto turėti baltą rūbą, nekaltybės simbolį.'
+- c-014
+  santrauka: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
@@ -401,6 +335,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-013
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -416,7 +351,6 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Germanai]]
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]

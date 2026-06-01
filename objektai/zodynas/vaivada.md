@@ -26,18 +26,24 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis.'
+  teiginys: 'Unijos akte Jogaila ir Vytautas pažadėjo Vilniuje įsteigti vaivados ir kašteliono pareigybes.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 400 pavienių lenkų riterių, tokių kaip Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas bei kiti.'
+  teiginys: 'Lenkų karalystėje buvusios dignitorijos, kėdės ir urėdai turėjo būti įsteigti Vilniuje, įskaitant Vilniaus vaivadą.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkų karalystėje buvusios dignitorijos, kėdės ir urėdai turėjo būti įsteigti Vilniuje, įskaitant Vilniaus vaivadą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
@@ -66,6 +72,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     - t-003
 
 - c-003
+  santrauka: 'Unijos akte Jogaila ir Vytautas pažadėjo Vilniuje įsteigti vaivados ir kašteliono pareigybes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila su Vytautu unijos akto 11 § pažadėjo, kad
@@ -224,15 +231,15 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/zodynas/virvės ištempimas]]
 - [[objektai/asmenys/Čupurva]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
-- [[objektai/daiktai/Šarvinės pirštinės]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Žemaičių atvertimo į krikščionybę veikla iš Vilniaus]]
 - [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
 - [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/zodynas/urėdas]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
 - [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
-- [[objektai/asmenys/Petras Goštautas]]
-- [[objektai/asmenys/Zyndramas iš Moškovicų]]
+- [[objektai/asmenys/Mykolas Pacas]]
+- [[objektai/asmenys/Simonas Lengvenis]]

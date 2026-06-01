@@ -29,23 +29,24 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vytauto pa­ siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie, vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­ jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.'
+  teiginys: 'Machmetas pasiuntė savo sūnų auklėtis į Vytauto Didžiojo dvarą ir rėmė Vytauto žygius į Pskovą bei Naugardą.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan Vytauto pagalba atsisėdo Didysis Machmetas, kuris išsilaikė net iki 1437 ar 1438 metų, nors Timur Kotlogo ainiai jį pašalinti visaip dar vis stengėsi.'
+  teiginys: '1424 m. Didysis Machmetas Vytauto pagalba atsisėdo į Kipčako sostą ir išsilaikė iki 1437 ar 1438 m.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: '1424 m. Vytauto pa­ siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie, vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­ jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.'
+  teiginys: '1424 m. Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1424 m. Didysis Machmetas Vytauto pagalba atsisėdo į Kipčako sostą ir išsilaikė iki 1437 ar 1438 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1426 met. iš Konstantinopolio jis rašė Vytautui at­
@@ -61,6 +62,7 @@ periodo_grupes:
     - t-002
 
 - c-002
+  santrauka: 'Machmetas pasiuntė savo sūnų auklėtis į Vytauto Didžiojo dvarą ir rėmė Vytauto žygius į Pskovą bei Naugardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1424 m. Vytauto pa­
@@ -79,6 +81,7 @@ periodo_grupes:
     - t-001
 
 - c-003
+  santrauka: '1424 m. Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     O kada pabaigė 1422

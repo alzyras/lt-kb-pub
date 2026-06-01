@@ -47,7 +47,7 @@ Nenurodyta
 - t-002
   teiginys: 'Dusburgietis teigia, kad taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų bendradarbiavimas26.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -64,22 +64,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos  ir Jotvingių jėgos puolė vieną  iš minėtos antiprūsiškosios
-    koalicijos dalyvių — Lenkiją25. Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų
-    puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų
-    bendradarbiavimas26. Tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė
-    kalavijuočiams padauguvyje27.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė

@@ -46,4 +46,3 @@ LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudi
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Jakovlevas]]
 - [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]
-- [[objektai/daiktai/Lietuvos trispalvė]]

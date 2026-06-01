@@ -68,21 +68,6 @@ Nenurodyta
     - t-001
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1248 m. padėtis jam
-    tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
-    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
-    ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
-    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
-    Livonijos ordino magistrą Andrių Štirlandą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -99,6 +84,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -110,5 +96,4 @@ Nenurodyta
 - [[objektai/asmenys/Morta]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Andrius Štirlandas]]
 - [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]

@@ -19,7 +19,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada karalius kreipėsi į Kotryną, siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik ji paliktų seimo padarytąsias reformas.'
+  teiginys: 'Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.'
   pagrindžia:
     - c-004
 
@@ -105,6 +105,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     - t-004
 
 - c-004
+  santrauka: 'Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dabar tarp Prūsijos ir Rusijos jau ėjo derybos, ir

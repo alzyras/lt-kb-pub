@@ -31,12 +31,12 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - t-001
   teiginys: 'Dusburgietis teigia, kad 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291 m.) įsikūrusių šioje žemėje, procesas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
@@ -86,6 +86,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -101,21 +102,6 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     - t-005
 
 - c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
-    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
-    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
-    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
-      Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
-    Henriko VI laikais (Dusb. I, 2).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291

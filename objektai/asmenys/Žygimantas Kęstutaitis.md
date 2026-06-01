@@ -31,19 +31,19 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­ rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­ ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai, atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­ skandinti.'
+  teiginys: 'Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.'
   pagrindžia:
-    - c-011
+    - c-009
 
 - t-002
   teiginys: 'Žygimantas Kęstutaitis žudė jam įtartinus asmenis ir ištisas šeimas, prieš tai juos apiplėšęs.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-003
-  teiginys: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  teiginys: '1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje.'
   pagrindžia:
-    - c-010
+    - c-008
 
 - t-004
   teiginys: '1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė.'
@@ -55,44 +55,35 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   pagrindžia:
     - c-002
 
-- t-006
-  teiginys: 'Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.'
-  pagrindžia:
-    - c-005
-
 - t-007
   teiginys: 'Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-008
-  teiginys: 'Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22.'
+  teiginys: 'Žygimantas Kęstutaitis Pabaisko mūšio lauke pastatė parapijos bažnyčią ir pavadino per jį tekantį upelį Viktorija.'
   pagrindžia:
     - c-003
 
 - t-009
   teiginys: 'Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-010
   teiginys: 'Didysis kunigaikštis Žygimantas Kęstutaitis pergalei atminti pastatė parapinę bažnyčią (1436- 1440 m.), kuri daug kartų perstatyta ir šiandien tebestovi Pabaiske.'
   pagrindžia:
-    - c-012
+    - c-010
 
 - t-011
-  teiginys: 'Žygimantas Kęstutaitis po šios pergalės buvo lietuviškai pra­ mintas Dauggalis - galingas, didis.'
-  pagrindžia:
-    - c-009
-
-- t-012
-  teiginys: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
+  teiginys: '1440 m. balandį Žygimantas Kęstutaitis buvo sąmokslininkų nužudytas Trakų pilyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1440 m. balandį Žygimantas Kęstutaitis buvo sąmokslininkų nužudytas Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakuose jo sušauktas seimas, turėjęs parengti pasku­
@@ -108,7 +99,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -129,6 +120,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - t-005
 
 - c-003
+  santrauka: 'Žygimantas Kęstutaitis Pabaisko mūšio lauke pastatė parapijos bažnyčią ir pavadino per jį tekantį upelį Viktorija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
@@ -145,6 +137,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   statusas: verified
   pagrindžia:
     - t-008
+    - t-009
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -185,24 +178,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
-    gaikščiu Jurgiu, išvengė sutriuškinimo21. Žygimantas, no­
-    rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus
-    narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio
-    lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­
-    torija ir toje vietoje pastatė parapijos bažnyčią22. Ši svarbi
-    Pabaisko pergalė, apsaugojusi nuo naujo antpuolio Lietu­
-    vos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos
-    likimui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
     Tačiau šis Žygimanto galios išaugimas, matyt, bus lėmęs
     tai, kad greičiau atsiskleidė neigiami jo polinkiai: apiplėšus
     žudyti ne tik pavienius jam įtartinus asmenis, bet ir ištisas
@@ -217,7 +192,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   pagrindžia:
     - t-002
 
-- c-008
+- c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos didysis kunigaikštis Žygi-
@@ -233,30 +208,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   pagrindžia:
     - t-007
 
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jau turėjo prasidėti susirė­
-    mimas, kai kryžiuočių klasta rado kitą būdą tam kivirčui
-    užbaigti. Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
-    gaila, esą pasirengęs taikytis. Sūnėnų tvirtas laidavimo žo­
-    dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­
-    sį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo
-    vienas vėliau buvo Trakų vaivada,
-    o jo sūnus - Jonas Hanulaitis - Lie­
-    tuvos vėliavininkas; pastarasis Žy­
-    gimanto Kęstutaičio laikais pasižy­
-    mėjo mūšyje prie Pabaisko, iš jo
-    paėjo vadinami Daugėlos (nes jis po
-    šios pergalės buvo lietuviškai pra­
-    mintas Dauggalis - galingas, didis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-010
+- c-008
+  santrauka: '1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
@@ -301,7 +254,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   pagrindžia:
     - t-003
 
-- c-011
+- c-009
+  santrauka: 'Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Švitrigai­
@@ -320,7 +274,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   pagrindžia:
     - t-001
 
-- c-012
+- c-010
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai buvo
@@ -346,11 +300,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 - [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Hanulaitis]]
 - [[objektai/autoriai/Kotzebue]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mykolas]]

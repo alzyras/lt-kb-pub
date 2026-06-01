@@ -28,7 +28,7 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
+  teiginys: 'Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.'
   pagrindžia:
     - c-002
 
@@ -65,8 +65,10 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
   statusas: verified
   pagrindžia:
     - t-002
+    - t-005
 
 - c-002
+  santrauka: 'Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
@@ -109,21 +111,6 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
   pagrindžia:
     - t-003
 
-- c-005
-  santrauka: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    190 (185). Apie daugybės pagudėnų išžudymą
-
-      Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
-    sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
-    varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Konradas]]
@@ -139,4 +126,3 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
 - [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]
 - [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

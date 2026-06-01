@@ -25,13 +25,14 @@ Dusburgietis teigia, kad wojtkowiak Z.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad wojtkowiak Z.'
+  teiginys: 'Z. Wojtkowiak 1980 m. Poznanėje paskelbė darbą apie Užnerio Lietuvą XV a. ir XVI a. pirmojoje pusėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Z. Wojtkowiak 1980 m. Poznanėje paskelbė darbą apie Užnerio Lietuvą XV a. ir XVI a. pirmojoje pusėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w.—Poznań, 1980.

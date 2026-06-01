@@ -30,7 +30,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Significamus tenore pra­ esentium universis, quikus expedit praesentikus et futuris, quomodo considerata kenevolentia, et fide matrimoniali il­ lustrissimae D-nae Helenae Reginae consortis n-rae ckarissimae, volens eam consolatam et provisam keneficentia.'
+  teiginys: 'Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Significamus tenore pra­

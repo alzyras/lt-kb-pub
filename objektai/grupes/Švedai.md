@@ -32,12 +32,12 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - t-001
   teiginys: 'Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
   pagrindžia:
-    - c-002
+    - c-004
 
 - t-003
   teiginys: '1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.'
@@ -45,23 +45,24 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     - c-003
 
 - t-004
-  teiginys: 'Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos L I E T U V O S I S T O R I J A 88 apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius Lietuvos.'
+  teiginys: 'Švedai sugriovė nedidelius Lietuvos uostus Palangoje ir Šventojoje.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-005
-  teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 87 1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti.'
+  teiginys: '1655–1660 m. švedai kariavo Lietuvos ir Lenkijos teritorijose, bet Lietuvoje įsitvirtinti jiems nepavyko.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-006
-  teiginys: 'Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici).'
+  teiginys: 'Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva
@@ -75,50 +76,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     - t-006
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVII a. ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m.
-    Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
-    kė pretenzijas į Švedijos sostą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
-    Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
-    čiau švedams įsitvirtinti Lietuvoje nepavyko. Iškylanti Rusija Šiaurės karo
-    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
-    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
-    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
-    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
-    Lietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-
-    saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
-    apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
-    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
-    1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
-    nulems tolesnį ATR likimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-005
+  santrauka: 'Švedai sugriovė nedidelius Lietuvos uostus Palangoje ir Šventojoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
@@ -138,8 +96,10 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
-- c-006
+- c-003
+  santrauka: '1655–1660 m. švedai kariavo Lietuvos ir Lenkijos teritorijose, bet Lietuvoje įsitvirtinti jiems nepavyko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
@@ -156,8 +116,9 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   statusas: verified
   pagrindžia:
     - t-005
+    - t-003
 
-- c-007
+- c-004
   santrauka: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -171,6 +132,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   statusas: verified
   pagrindžia:
     - t-007
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -278,7 +240,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/zodynas/raitarai]]
 - [[objektai/zodynas/ratukinė-kibirkštinė spyna]]
 - [[objektai/zodynas/rotmistras]]
-- [[objektai/daiktai/Šalmas „Pappenheimer“]]
 - [[objektai/ivykiai/Šiaurės karas]]
 - [[objektai/ivykiai/Šiaurės karas (1700–1721 m.)]]
 - [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]

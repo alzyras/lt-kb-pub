@@ -25,14 +25,14 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kiek vėliau trys Komiteto delegatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kongresas pareikalavo visai nepriklausomos Lietuvos atstatymo.'
+  teiginys: '1916 m. birželį Lozanos pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti nepriklausomybę.'
   pagrindžia:
     - c-002
 
 - t-002
   teiginys: 'Kai 1916 m. birželį Lozanos pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo šalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti šia tema.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Gabrys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose kėlė Lietuvos nepriklausomybės reikalą.'
@@ -62,6 +62,7 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
     - t-003
 
 - c-002
+  santrauka: '1916 m. birželį Lozanos pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai kūrė ateities planus nuo Lietuvos autonomijos iki LDK
@@ -78,21 +79,4 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuviai kūrė ateities planus nuo Lietuvos autonomijos iki LDK
-    atkūrimo, netgi iki senosios Lenkijos ir Lietuvos Valstybės – Abiejų Tau-
-    tų Respublikos restauracijos, tačiau tokia turėjo esminį trūkumą – nega-
-    rantavo Lietuvos nepriklausomybės. Kadangi lietuvių lyderiai privalėjo
-    konformistiškai sietis su Vokietijos interesais, tai provokavo konfliktą
-    ne tik su lenkais, bet ir tarp pačių lietuvių. Kai 1916 m. birželį Lozanos
-    pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo
-    šalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti
-    šia tema.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

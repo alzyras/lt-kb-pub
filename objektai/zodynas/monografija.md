@@ -25,23 +25,11 @@ Monografijoje yra 320 puslapiu.
 - t-002
   teiginys: 'Monografijoje yra 320 puslapiu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Monografijoje yra 320 puslapiu. Išleista gerame popieriuje su Vytauto
-    Didžiojo portretu ir to laiko Lietuvos žemėlapiu.
-    1.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Monografijoje yra 320 puslapiu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -53,6 +41,7 @@ Monografijoje yra 320 puslapiu.
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -66,4 +55,5 @@ Monografijoje yra 320 puslapiu.
 - [[objektai/autoriai/W. Hubatsch]]
 - [[objektai/autoriai/Kryczyński, St]]
 - [[objektai/grupes/Lietuvos Karininkų Ramovė]]
+- [[objektai/autoriai/P. Šležas]]
 - [[objektai/autoriai/St. Kryczyński]]

@@ -49,7 +49,7 @@ Nenurodyta
 - t-002
   teiginys: 'Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“), oficialiąją Varšuvą rezultatai tenkino.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Po Lenkijos ultimatumo Lietuva turėjo apsikeisti pasiuntinybėmis, įsteigti konsulatą Vilniuje ir paleisti „Vilniui vaduoti sąjungą“.'
@@ -114,26 +114,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors tūkstančiai karštakošių Lenkijos
-    miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“),
-    oficialiąją Varšuvą rezultatai tenkino.
-    Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko
-    liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-
-    tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių
-    turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
-    Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
-    Lietuvos bendradarbiavimas nesusiklostė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-005
+- c-004
   santrauka: 'Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti santykius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

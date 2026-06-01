@@ -24,7 +24,7 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 413 D.— mons Glapponis, Jer.— Glappinberc (plg. SRP, 5, p. 100, 204), vėliau — Rollberg (Hennenberger C., Erclerung.., p. 43; SRP, 1, p. 118 (Toeppen M.); Ewald A. L., Die Eroberung.., 4, p. 109; Gause F., Geschichte..., 1, p. 23) buvęs į vakarus nuo pilies.'
+  teiginys: 'Glapo kalva, vėliau vadinta Rollbergu, buvo į vakarus nuo pilies, dabartinės Kaliningrado centrinės aikštės vakaruose.'
   pagrindžia:
     - c-002
 
@@ -45,6 +45,7 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
     - t-001
 
 - c-002
+  santrauka: 'Glapo kalva, vėliau vadinta Rollbergu, buvo į vakarus nuo pilies, dabartinės Kaliningrado centrinės aikštės vakaruose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     413 D.— mons Glapponis, Jer.— Glappinberc (plg. SRP, 5, p. 100, 204), vėliau —

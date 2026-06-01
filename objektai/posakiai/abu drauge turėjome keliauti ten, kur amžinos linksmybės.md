@@ -25,25 +25,6 @@ Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
-    nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
-    turėjome keliauti ten, kur amžinos linksmybės“. Nors jis ir nesirgo jokia kita liga, o tik
-    ta, kurią esu paminėjęs, vis dėlto, pasiprašęs kunigo ir priėmęs bažnyčios sakramentus,
-    tą pačią dieną laimingai atidavė viešpačiui sielą.
-
-
-
-
-           279 (272).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge turėjome keliauti ten, kur amžinos linksmybės“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -59,6 +40,7 @@ Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

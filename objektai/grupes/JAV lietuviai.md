@@ -27,9 +27,9 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 ## Teiginiai
 
 - t-001
-  teiginys: '1918 m. kovą įtakingiausios JAV 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 135 lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose pareikalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių konferencijose.'
+  teiginys: '1918 m. įtakingiausios JAV lietuvių katalikų ir tautininkų organizacijos pareikalavo Lietuvos nepriklausomybės.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.'
@@ -39,12 +39,12 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - t-003
   teiginys: 'JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
   teiginys: '00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
@@ -52,7 +52,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     - c-003
 
 - t-006
-  teiginys: 'Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezidentą V.'
+  teiginys: 'Amerikos lietuviai siuntė paramą karo aukoms ir prašė prezidento Woodrow Wilsono paskelbti Lietuvos karo aukų dieną.'
   pagrindžia:
     - c-002
 
@@ -83,6 +83,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     - t-002
 
 - c-002
+  santrauka: 'Amerikos lietuviai siuntė paramą karo aukoms ir prašė prezidento Woodrow Wilsono paskelbti Lietuvos karo aukų dieną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusijos revoliucija,
@@ -120,24 +121,10 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    lausomybės metais tūkstančiai emigrantų grįžo į Lietuvą, pirko žemę,
-    pradėjo verslus, atidarė pramonės įmones, bankus. T. Naruševičius,
-    Bronius Balutis, Jonas Žilius, Jonas Šliūpas, Steponas Darius ir kiti tapo
-    žinomais visuomenės veikėjais, diplomatais, kariškiais. JAV lietuvių siun-
-    čiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės
-    srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo
-    darbams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-005
+- c-004
+  santrauka: '1918 m. įtakingiausios JAV lietuvių katalikų ir tautininkų organizacijos pareikalavo Lietuvos nepriklausomybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 m. kovą įtakingiausios JAV
@@ -156,7 +143,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lie-
@@ -181,7 +168,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Darius]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]

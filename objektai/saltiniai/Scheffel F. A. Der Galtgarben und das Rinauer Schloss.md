@@ -23,13 +23,14 @@ Dusburgietis teigia, kad scheffel F.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad scheffel F.'
+  teiginys: 'F. A. Scheffelio „Der Galtgarben und das Rinauer Schloss“ paskelbtas 1934 m. leidinyje „Mitteilungen des Vereins für die Geschichte von Ost- u. West-pr.“'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'F. A. Scheffelio „Der Galtgarben und das Rinauer Schloss“ paskelbtas 1934 m. leidinyje „Mitteilungen des Vereins für die Geschichte von Ost- u. West-pr.“'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Scheffel F. A. Der Galtgarben und das Rinauer Schloss.— Mitteilungen des Vereins für

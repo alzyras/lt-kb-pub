@@ -72,4 +72,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/grivina, egzekucija, instigacija ir toties quoties]]

@@ -20,12 +20,12 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
 ## Teiginiai
 
 - t-001
-  teiginys: 'buvo pripažinta teisė žiūrėti, kad nebūtų pakeistos kardinalinės teisės, arba, kaip tada buvo sakoma, jai buvo pripažinta ga- rantija.'
+  teiginys: 'Kardinalinės teisės buvo surašytos atskirame įstatyme, o Rusijai pripažinta teisė prižiūrėti, kad jos nebūtų pakeistos.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'kardinalinės teisės: buvo patvirtintos 1768 m. vad. kardi- nalinės teisės, kurių garantu vėl tapo Rusija ir jos są- jungininkės. Jose buvo pakeistas tik vienas kitatikius (disi- dentus) lietęs punktas: jų teisės buvo suvaržytos, ir į seimą galėjo pakliūti tik 3 disidentų.'
+  teiginys: '1768 m. kardinalinės teisės buvo patvirtintos, o jų garantu vėl tapo Rusija ir jos sąjungininkės.'
   pagrindžia:
     - c-002
 
@@ -35,13 +35,14 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
     - c-004
 
 - t-004
-  teiginys: 'kardinalinės teisės: buvo palikta ir liberum veto, ir karalių elekcija ir bajorijos teisė neklausyti karaliaus, nevykdant pacta conventa punktų. Bet.'
+  teiginys: 'Kardinalinės teisės paliko liberum veto, karalių elekciją ir bajorijos teisę neklausyti karaliaus, jei nevykdomi pacta conventa punktai.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kardinalinės teisės buvo surašytos atskirame įstatyme, o Rusijai pripažinta teisė prižiūrėti, kad jos nebūtų pakeistos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu Rusijai
@@ -60,6 +61,7 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
     - t-001
 
 - c-002
+  santrauka: '1768 m. kardinalinės teisės buvo patvirtintos, o jų garantu vėl tapo Rusija ir jos sąjungininkės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau visi anarchijos
@@ -77,6 +79,7 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
     - t-002
 
 - c-003
+  santrauka: 'Kardinalinės teisės paliko liberum veto, karalių elekciją ir bajorijos teisę neklausyti karaliaus, jei nevykdomi pacta conventa punktai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jose buvo pakeistas tik vienas kitatikius (disi-

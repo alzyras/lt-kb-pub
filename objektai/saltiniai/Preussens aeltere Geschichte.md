@@ -28,18 +28,19 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
 ## Teiginiai
 
 - t-001
-  teiginys: 'Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­ nio valdovo pastangų ženklai pada­ ryti Lietuvą gausesne gyventojų ir pakelti jos gerovę atkviečiant iš sve­ tur įvairiais verslais besiverčiančius amatininkus, žemdirbius ir dvasi­.'
+  teiginys: 'Augustas Kotzebue veikale „Preussens aeltere Geschichte“ išspausdino Gedimino laiškus dominikonams, pranciškonams ir Hanzos miestams.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D.'
+  teiginys: 'Augustas Kotzebue į „Preussens aeltere Geschichte“ įdėjo tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Augustas Kotzebue į „Preussens aeltere Geschichte“ įdėjo tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il
@@ -59,6 +60,7 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
     - t-002
 
 - c-002
+  santrauka: 'Augustas Kotzebue veikale „Preussens aeltere Geschichte“ išspausdino Gedimino laiškus dominikonams, pranciškonams ir Hanzos miestams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     406, pri­

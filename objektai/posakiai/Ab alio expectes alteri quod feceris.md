@@ -36,12 +36,12 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
     - c-001
 
 - t-002
-  teiginys: 'Lietuviškas skliaustinis vertimas pateikia reikšmę: „Tai, ką padarei vienam, sulauksi iš kito“.'
+  teiginys: 'Posakis „Ab alio expectes alteri quod feceris“ reiškė: tai, ką padarei vienam, sulauksi iš kito.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Posakis vartojamas testamento vykdymo, ištikimybės ir atlygio už gerą elgesį kontekste.'
+  teiginys: 'Posakis „Ab alio expectes alteri quod feceris“ cituojamas paskutinės valios, testamento ar kodicilo galios aptarime.'
   pagrindžia:
     - c-001
 

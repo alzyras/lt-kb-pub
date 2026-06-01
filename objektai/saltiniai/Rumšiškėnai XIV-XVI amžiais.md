@@ -25,13 +25,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '(”) Rumšiškėnai XIV-XVI amžiais , Vilnius 1970.'
+  teiginys: '„Rumšiškėnai XIV-XVI amžiais“ buvo išleista Vilniuje 1970 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Rumšiškėnai XIV-XVI amžiais“ buvo išleista Vilniuje 1970 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Semkowicz, W. : _Pierwsze przywileje

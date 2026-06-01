@@ -43,3 +43,4 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Divanas]]
+- [[objektai/grupes/Bartai]]

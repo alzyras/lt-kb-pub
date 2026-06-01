@@ -18,13 +18,14 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pati fundaci­ jos privilegija parašyta ant pergamento, esančio daugiau negu uolekties ilgumo ir platumo, lotynų kalba, ir tik per jos su­ lenkimus ar sudūrimus ob vetustatem [dėl senumo] daugelis žodžių ir raidžių nusitrynė, todėl cum omissis spatiis [pralei­.'
+  teiginys: 'Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prašydamas Mus, Teismą, kad minėtoji fun­
@@ -54,5 +55,5 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 - [[objektai/posakiai/Aukščiausias dievas padarė manyje ženklų ir stebuklų]]
 - [[objektai/asmenys/Nabuchodonosaras]]
 - [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/zodynas/saikas uolektis sprindis]]
+- [[objektai/zodynas/fundacija]]
 - [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]

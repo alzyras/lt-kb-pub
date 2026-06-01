@@ -25,13 +25,14 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad iII, 91, 3; be to, Hennenberger C, Erclerung.., p. 33) prie Aismarių, deš.'
+  teiginys: 'C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo atkeršyta už šį sukilimą

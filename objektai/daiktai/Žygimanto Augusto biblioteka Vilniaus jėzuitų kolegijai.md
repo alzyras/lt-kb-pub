@@ -37,13 +37,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Trejybės prieglaudą ir ją geriau aprūpinti pave­ dė kelissyk testamente minimoms seserims ir respublikai, o turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą, atidavė Vilniaus jėzuitų kolegijai.'
+  teiginys: 'Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir jo paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir jo paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mir­
@@ -61,7 +62,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/MINTIS]]
 - [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/grupes/Vilniaus jėzuitų kolegija]]

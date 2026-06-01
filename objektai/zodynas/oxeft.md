@@ -23,13 +23,14 @@ Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skir
 ## Teiginiai
 
 - t-001
-  teiginys: 'Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skiriamos kolegijos prefekto ir padėjėjo maitinimui, et insu­ per [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­ nio alaus oxeftą duoti tenebatur [privalėjo].'
+  teiginys: 'Oxeftas šaltinyje minimas kaip alaus statinė, kurią kas savaitę privalėta duoti kolegijos prefektui ir jo padėjėjui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Oxeftas šaltinyje minimas kaip alaus statinė, kurią kas savaitę privalėta duoti kolegijos prefektui ir jo padėjėjui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nėra jokių kitų įsipareigojimų, išskyrus visuomenei tei­
@@ -57,7 +58,6 @@ Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skir
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
-- [[objektai/daiktai/Spaustuvės]]
 - [[objektai/paprociai/Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu]]
 - [[objektai/daiktai/Spaustuvės išlaikymo alaus statinė ir duonos kepalai]]
 - [[objektai/zodynas/lotyniškos apskaitos formulės spaustuvės kronikoje]]

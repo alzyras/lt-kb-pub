@@ -64,7 +64,7 @@ Nenurodyta
     - c-002
 
 - t-005
-  teiginys: 'Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­ lo fabrikas.'
+  teiginys: 'Martynas Paleckis Vilniuje gavo žemės sklypą, leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.'
   pagrindžia:
     - c-003
 
@@ -125,6 +125,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Martynas Paleckis Vilniuje gavo žemės sklypą, leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
@@ -157,4 +158,6 @@ Nenurodyta
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Skyrai]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
+- [[objektai/asmenys/Martynas Paleckis]]
 - [[objektai/ivykiai/Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.)]]

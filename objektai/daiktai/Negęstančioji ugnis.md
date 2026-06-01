@@ -62,5 +62,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/paprociai/Negęstančiosios ugnies garbinimas]]
 - [[objektai/posakiai/negęstančiąją ugnį]]

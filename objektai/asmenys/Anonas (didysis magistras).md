@@ -64,20 +64,6 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie brolį Anoną, septintą Teutonų namų ordino didįjį magistrą Tuo metu septintu Teutonų namų ordino didžiuoju magistru buvo brolis Anonas, žmogus itin dievotas, daug gera padaręs ordinui ir šventajai žemei.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    47. Apie brolį Anoną, septintą Teutonų namų ordino didįjį magistrą
-
-      Tuo metu septintu Teutonų namų ordino didžiuoju magistru buvo brolis Anonas,
-    žmogus itin dievotas, daug gera padaręs ordinui ir šventajai žemei. Jis mirė liepos 8
-    dieną.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -85,6 +71,4 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Poponas iš Osternos]]
-- [[objektai/zodynas/talkininkas]]
-- [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]
+- [[objektai/zodynas/pilėnas pilėnai]]

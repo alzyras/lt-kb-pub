@@ -34,7 +34,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-001
 
 - t-002
-  teiginys: 'Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziškai, ištremti, bažnyčias paversti sandėliais, o N.'
+  teiginys: 'J. Stalino laikais okupacinė valdžia siekė fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais.'
   pagrindžia:
     - c-006
 
@@ -66,7 +66,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 - t-008
   teiginys: 'Stalino statulų, prikabinėta komunistinių šūkių.'
   pagrindžia:
-    - c-007
+    - c-004
 
 - t-009
   teiginys: 'J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant išrauti bet kokį tautiškumą.'
@@ -141,6 +141,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   statusas: verified
   pagrindžia:
     - t-006
+    - t-008
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -173,21 +174,6 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   pagrindžia:
     - t-003
     - t-002
-
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
-    no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-
-    draustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“. Lietu-
-    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
-    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
-    kabinėta komunistinių šūkių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
 
 ## Ryšiai
 ### Susiję objektai

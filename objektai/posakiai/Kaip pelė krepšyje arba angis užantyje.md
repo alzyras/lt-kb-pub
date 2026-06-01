@@ -39,7 +39,7 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prūsijos vyskupų laiške sutartis vadinama velnio žabangomis ir krikščioniškojo pasaulio gėda.'
+  teiginys: 'Prūsijos vyskupų laiške taikos sutarties grėsmė lyginama su pele krepšyje arba angimi užantyje.'
   pagrindžia:
     - c-001
 
@@ -51,38 +51,11 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 - t-003
   teiginys: 'Vyskupų laiške perspėta, kad priešai kaip pelė krepšyje arba angis užantyje sunaikins jų žemes ir užtrauks pražūtį krikščionybei.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
-    pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­
-    kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo
-    miręs), kartu su savo diecezijos klebonais Elblionge bemat
-    surengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­
-    gos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­
-    gistrui ir visam Ordinui, Danijos karaliaus vietininkui ir
-    visiems Livonijos bei Estijos didikams ir vasalams, daly­
-    vavusiems taikos sutartį sudarant, ir paskelbė tą sutartį
-    esant velnio žabangomis, visam krikščioniškajam pasau­
-    liui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­
-    myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
-    tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
-    Ir kaip pelė krepšyje arba angis užantyje pirmiau mus ir
-    mūsų žemes su kaimyniniais kraštais, vėliau taip pat jus,
-    jūsų provincijas ir jūsų valdinius, sunaikins, baisią pražūtį
-    visai krikščionybei užtraukdami, juk laukiniai storžieviai.
-  citata_rodoma: ''
-  teiginio_tipas: vertinimas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
   santrauka: 'Vyskupų laiške perspėta, kad priešai kaip pelė krepšyje arba angis užantyje sunaikins jų žemes ir užtrauks pražūtį krikščionybei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -139,6 +112,8 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

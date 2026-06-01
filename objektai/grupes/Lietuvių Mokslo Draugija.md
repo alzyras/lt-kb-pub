@@ -43,10 +43,10 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 - t-004
   teiginys: 'Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizacijos.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-005
-  teiginys: 'Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą knygų.'
+  teiginys: '1915–1922 m. Lietuvių Mokslo Draugija leido vadovėlius tik ką įsikūrusioms lietuviškoms mokykloms.'
   pagrindžia:
     - c-002
     - c-001
@@ -54,6 +54,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1915–1922 m. Lietuvių Mokslo Draugija leido vadovėlius tik ką įsikūrusioms lietuviškoms mokykloms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Greta tų laikraščių, buvo leidžiama ir lietuviškų knygų, ta-
@@ -72,6 +73,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     - t-005
 
 - c-002
+  santrauka: '1915–1922 m. Lietuvių Mokslo Draugija leido vadovėlius tik ką įsikūrusioms lietuviškoms mokykloms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1913 m. į Ameriką atvyko dr. J. Basanavičius ir M.
@@ -122,6 +124,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -140,24 +143,6 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to, etnografi-
-    nės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po
-    1905 m. lenkų kalba nustūmė rusų kalbą į antrąją vietą.
-    Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-
-    jos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
-    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
-    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
-    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
-    telkusi lenkiškai kalbančiuosius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

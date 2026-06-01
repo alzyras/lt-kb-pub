@@ -172,6 +172,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 - [[objektai/asmenys/Stanislovas Goreckis]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Uršulė]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/zodynas/kahalas]]
 - [[objektai/zodynas/vaitas]]

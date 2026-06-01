@@ -28,13 +28,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1539 metais kardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri­ jonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkibrolija, o 1573 metų vasario 3 dieną, valdant Žygimantui Au­ gustui, buvo funduota arkikonfratrija ir tais pačiais metais lapkričio 27.'
+  teiginys: '1573 m. vasario 3 d., valdant Žygimantui Augustui, buvo funduota Vilniaus arkikonfratrija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1573 m. vasario 3 d., valdant Žygimantui Augustui, buvo funduota Vilniaus arkikonfratrija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1539 metais

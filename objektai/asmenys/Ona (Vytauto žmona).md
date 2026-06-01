@@ -20,13 +20,14 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio duktė Julijo­ na -išpažino graikų apeigų tikėjimą ir Trakų pilyje, dar prieš Lietuvos krikštą, turėjo savo koplyčią, kurios pėdsakų šios pilies vienos sienos se­ novinėje tapyboje yra.'
+  teiginys: 'Vytauto žmona Ona, Smolensko kunigaikštytė, išpažino graikų apeigų tikėjimą ir prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto žmona Ona, Smolensko kunigaikštytė, išpažino graikų apeigų tikėjimą ir prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš

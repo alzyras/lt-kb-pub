@@ -38,7 +38,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     - c-001
 
 - t-003
-  teiginys: 'Tačiau atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­ siartinus prie Strėvos upės Trakų paviete, tankiame miške iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių, 54 Stryjkowski, p. 464, aiškiai nurodo, kad Švitrigaila pilies užėmi­ mo.'
+  teiginys: 'Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną.'
   pagrindžia:
     - c-004
 
@@ -48,7 +48,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     - c-002
 
 - t-005
-  teiginys: 'Tačiau Strėvos kau­ tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet.'
+  teiginys: 'Strėvos kautynės, kuriose dalyvavo būriai iš kelių rytinių žemių, baigėsi lietuvių pralaimėjimu.'
   pagrindžia:
     - c-005
 
@@ -103,6 +103,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     - t-001
 
 - c-004
+  santrauka: 'Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau
@@ -153,7 +154,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     - t-003
 
 - c-005
-  santrauka: 'Tačiau Strėvos kau­ tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet.'
+  santrauka: 'Strėvos kautynės, kuriose dalyvavo būriai iš kelių rytinių žemių, baigėsi lietuvių pralaimėjimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuomet ir Algirdo valdos buvo ak­

@@ -20,7 +20,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 ## Teiginiai
 
 - t-001
-  teiginys: 'Svetimšalių ataka buvo smarki, tačiau ir lietuvių gynyba iš pradžių ne mažiau nar­ si; paskui ūmai keliose vietose nežinia kaip prasiveržė lieps­ na Žemutinėje pilyje ir pagavo medinius statinius, aptva­ rus, užkardas.'
+  teiginys: 'Per puolimą Žemutinėje pilyje liepsna apėmė medinius statinius, aptvarus ir užkardas.'
   pagrindžia:
     - c-002
 
@@ -47,6 +47,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     - t-002
 
 - c-002
+  santrauka: 'Per puolimą Žemutinėje pilyje liepsna apėmė medinius statinius, aptvarus ir užkardas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O

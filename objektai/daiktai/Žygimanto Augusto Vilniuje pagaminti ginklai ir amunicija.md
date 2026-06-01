@@ -51,18 +51,19 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.'
+  teiginys: 'Išvardyti pabūklai buvo naujai pagaminti ir išsiuntinėti Lietuvos provincijos tvirtovėms.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Bent jau vertingiausi ginklai (toliau rašo Golembiovskis) turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­ dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­ tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­ mantu Senuoju ir.'
+  teiginys: 'Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bent jau vertingiausi ginklai (toliau rašo Golembiovskis)
@@ -122,6 +123,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Išvardyti pabūklai buvo naujai pagaminti ir išsiuntinėti Lietuvos provincijos tvirtovėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­

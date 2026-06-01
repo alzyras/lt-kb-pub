@@ -26,13 +26,14 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
 ## Teiginiai
 
 - t-001
-  teiginys: '1413 m. sausio 28 d. Vytautas Ordino pasiuntinybei pareiškė, kad Veliuonos pilies neatiduos be kovos.'
+  teiginys: '1413 m. Salyno derybose Vytautas pareiškė, kad Ordinas nori išplėšti jo tėvų palikimą ir atimti Veliuonos pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1413 m. Salyno derybose Vytautas pareiškė, kad Ordinas nori išplėšti jo tėvų palikimą ir atimti Veliuonos pilį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagrindinis konfliktas su Vokiečių ordinu vyko dėl Žemaitijos. Šio

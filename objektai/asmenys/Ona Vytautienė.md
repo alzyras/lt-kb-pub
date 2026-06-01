@@ -26,13 +26,14 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ona Vytautienė dažniausiai naudoda­ vo37.'
+  teiginys: 'Ona Vytautienė savo meile padėjo išgelbėti Vytautą nuo neišvengiamos pražūties.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ona Vytautienė savo meile padėjo išgelbėti Vytautą nuo neišvengiamos pražūties.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To garbingo karžygio palaikai Skir­
@@ -76,3 +77,5 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]
 - [[objektai/posakiai/Žygimanto Augusto laikai Vilniui buvo aukso amžius]]
 - [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
+- [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]
+- [[objektai/asmenys/Julijona]]

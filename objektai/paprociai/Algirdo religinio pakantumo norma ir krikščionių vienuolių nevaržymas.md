@@ -40,18 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Algirdas viešai nubaudė to žiauraus poelgio vadei­ vas ir liepė paskelbti visame krašte valią nevaržomiems gyventi visiems krikščionių vienuoliams ir laisvę išpažinti savo tikėjimą.'
+  teiginys: 'Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė krikščionių vienuoliams laisvę nevaržomai gyventi bei išpažinti tikėjimą.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'To­ leravo Algirdas krikščionybę ir tik­ riausiai išmanė pravarčius jos padarinius esant; tačiau dar nebuvo atėjęs laikas Perkūno garbinimą už­ ginti, todėl pagonių šventyklos ne­ galėjo būti pakeistos krikščionių bažnyčiomis.'
+  teiginys: 'Algirdas toleravo krikščionybę, bet dar nedraudė Perkūno garbinimo ir nekeitė pagonių šventyklų krikščionių bažnyčiomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdas toleravo krikščionybę, bet dar nedraudė Perkūno garbinimo ir nekeitė pagonių šventyklų krikščionių bažnyčiomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Petro bažnyčią klystama
@@ -77,6 +78,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė krikščionių vienuoliams laisvę nevaržomai gyventi bei išpažinti tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus pranciškonų vienuo-

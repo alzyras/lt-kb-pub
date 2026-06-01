@@ -28,7 +28,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 ## Teiginiai
 
 - t-001
-  teiginys: 'Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­ bėje ir jo politikai.'
+  teiginys: 'Zbignievas Olesnickis, tapęs Krokuvos vyskupu, buvo priskirtas žmonėms, priešiškiems Vytauto persvarai ir politikai bendroje valstybėje.'
   pagrindžia:
     - c-009
 
@@ -48,14 +48,14 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-004
 
 - t-005
-  teiginys: 'Zbignievas Olesnickis — didelis nepriklauso­ mos Vytauto politikos priešas.'
+  teiginys: 'Krokuvos vyskupas Zbignievas Olesnickis karaliaus dvare įgijo daug įtakos ir buvo laikomas nepriklausomos Vytauto politikos priešininku.'
   pagrindžia:
-    - c-012
+    - c-011
 
 - t-006
   teiginys: 'Naujasis Krokuvos vyskupas Zbignievas Olesnickis buvo priešingas Vytauto persvarai bendroje valstybėje ir jo politikai.'
   pagrindžia:
-    - c-013
+    - c-009
 
 - t-007
   teiginys: 'Zbignievas Olesnickis tapo kancleriu be Vytauto žinios ir pritarimo ir užkirto kelią jo įtakai Lenkijoje.'
@@ -73,9 +73,9 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-008
 
 - t-010
-  teiginys: 'Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­ nę, atsakė Zigmanto pavedamas Dr.'
+  teiginys: 'Zbignievas Olesnickis, kaip Krokuvos universiteto rektorius, veikiausiai inspiravo profesorių nuomonę dėl Zigmanto teisės teikti karūną.'
   pagrindžia:
-    - c-014
+    - c-008
 
 - t-011
   teiginys: 'Zbignievas Olesnickis grįžo be pagalbos, bet vėliau ietimi nuvertė nuo arklio Jogailą puolusį riterį.'
@@ -85,7 +85,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 - t-012
   teiginys: 'Zbignievas Olesnickis buvo karūnos pasiuntinys, su kuriuo Vytautas pasiuntė savo sekretorių Mikalojų Cebulką pas Zigmantą.'
   pagrindžia:
-    - c-011
+    - c-007
 
 - t-013
   teiginys: 'Zbignievas Olesnickis buvo pasiųstas į mūšio lauką parūpinti kelias vėliavas Jogailos apsaugai.'
@@ -93,7 +93,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-005
 
 - t-014
-  teiginys: 'Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą, sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui nepasitenkinimą^3 ).'
+  teiginys: 'Zbignievas Olesnickis buvo karūnos pasiuntinys, kartu su kuriuo Vytautas pasiuntė Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą.'
   pagrindžia:
     - c-007
 
@@ -187,6 +187,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - t-003
 
 - c-007
+  santrauka: 'Zbignievas Olesnickis buvo karūnos pasiuntinys, kartu su kuriuo Vytautas pasiuntė Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai šį sprendimą sužinojo Vytautas ir
@@ -202,6 +203,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   statusas: verified
   pagrindžia:
     - t-014
+    - t-012
 
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -218,8 +220,10 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   statusas: verified
   pagrindžia:
     - t-009
+    - t-010
 
 - c-009
+  santrauka: 'Zbignievas Olesnickis, tapęs Krokuvos vyskupu, buvo priskirtas žmonėms, priešiškiems Vytauto persvarai ir politikai bendroje valstybėje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tada Ordinas kreipėsi tuo reikalu tie­
@@ -235,6 +239,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   statusas: verified
   pagrindžia:
     - t-001
+    - t-006
 
 - c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -251,23 +256,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - t-007
 
 - c-011
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai šį sprendimą sužinojo Vytautas ir
-    Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­
-    virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo
-    girdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas
-    suglaudė abi valstybes į bendrą kovą. Vytautas kartu su karū­
-    nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
-    sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
-    nepasitenkinimą^3 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-012
+  santrauka: 'Krokuvos vyskupas Zbignievas Olesnickis karaliaus dvare įgijo daug įtakos ir buvo laikomas nepriklausomos Vytauto politikos priešininku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo ir užsibaigė
@@ -284,39 +273,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-013
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada Ordinas kreipėsi tuo reikalu tie­
-    siog į Vytautą, kuris ir palaikė jų pusę. Lenkų užsispyrimas,
-    trukęs net ketverius metus, suerzino Vytautą dar labiau, kai
-    1422-23 m. skirstant į karūnos dignitorių vietas, nežiūrint tos
-    įtakos, kurią jis turėjo tame dalyke, aukščiausios vietos atiteko
-    žmonėms, kurie, kaip kad ir naujasis Krokuvos vyskupas Zb.
-    Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­
-    bėje ir jo politikai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-014
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­
-    leisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos
-    karalius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­
-    ra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­
-    rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
-    Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
-    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
 
 ## Ryšiai
 ### Susiję objektai

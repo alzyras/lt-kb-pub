@@ -50,5 +50,3 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 - [[objektai/asmenys/Antanas Gustaitis]]
 - [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]
 - [[objektai/grupes/Lietuvos karo aviacija]]
-- [[objektai/asmenys/Stasys Girėnas]]
-- [[objektai/asmenys/Steponas Darius]]

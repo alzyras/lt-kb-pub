@@ -50,7 +50,7 @@ Nenurodyta
     - c-006
 
 - t-002
-  teiginys: '1990 III 11 Lietuvos Respublikos Aukščiausioji Taryba paskelbia Lietuvos nepriklausomybės atkūrimą.'
+  teiginys: '1990 m. kovo 11 d. Lietuvos Respublikos Aukščiausioji Taryba paskelbė Lietuvos nepriklausomybės atkūrimą.'
   pagrindžia:
     - c-002
 
@@ -94,6 +94,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: '1990 m. kovo 11 d. Lietuvos Respublikos Aukščiausioji Taryba paskelbė Lietuvos nepriklausomybės atkūrimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     susikuria Helsinkio grupė.
@@ -239,7 +240,6 @@ Nenurodyta
 - [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas]]
 - [[objektai/asmenys/Bronislovas Kuzmickas]]
 - [[objektai/grupes/Europos Sąjunga]]
-- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
 - [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]

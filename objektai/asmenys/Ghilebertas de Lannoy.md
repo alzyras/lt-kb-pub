@@ -19,13 +19,14 @@ Pasak flamando riterio Ghileberto de Lannoy, jis buvęs įve­ dęs Lietuvos kun
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pasak flamando riterio Ghileberto de Lannoy, jis buvęs įve­ dęs Lietuvos kunigaikštijoje tokią tvarką, „kad joks svetimša­ lis į ją atvykęs arba ją pervažiuodamas neturėtų jokių išlaidų”^1 ).'
+  teiginys: 'Ghilebertas de Lannoy liudijo, kad Vytautas Lietuvos kunigaikštijoje buvo įvedęs svetimšaliams palankią tvarką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ghilebertas de Lannoy liudijo, kad Vytautas Lietuvos kunigaikštijoje buvo įvedęs svetimšaliams palankią tvarką.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Krašto viduje savo valstybės garsui jis visaip

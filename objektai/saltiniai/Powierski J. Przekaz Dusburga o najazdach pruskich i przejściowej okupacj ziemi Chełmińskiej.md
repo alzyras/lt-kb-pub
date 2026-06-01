@@ -23,13 +23,14 @@ Dusburgietis teigia, kad powierski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad powierski J.'
+  teiginys: 'J. Powierskio straipsnis apie Dusburgo žinią dėl prūsų antpuolių ir laikinos Kulmo žemės okupacijos paskelbtas 1971 m. Olsztyne.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio straipsnis apie Dusburgo žinią dėl prūsų antpuolių ir laikinos Kulmo žemės okupacijos paskelbtas 1971 m. Olsztyne.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Powierski J. Przekaz Dusburga o najazdach pruskich  i przejściowej okupacj  ziemi

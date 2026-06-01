@@ -29,27 +29,27 @@ amziai:
 - t-001
   teiginys: 'Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650 m.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
-  teiginys: 'Veikalas apibūdinamas kaip reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas.'
+  teiginys: 'Kazimiero Semenavičiaus „Artis magnae artilleriae“ 1650 m. tapo reikšmingiausiu Lietuvos karinės inžinerijos mokyklos darbu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Veikale išdėstyta daugiapakopių raketų teorija siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
   teiginys: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-005
   teiginys: 'Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas, 1650 m.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -70,28 +70,11 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
-    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
-    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
-    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
-    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
-    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
-    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
-    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
-    orija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
     - t-002
     - t-003
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baroko

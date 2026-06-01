@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad nieku būdu nereikia pamiršti ir to itin svarbaus įrodymo, jog šių brolių kovas lydėjusi tokia karo sėkmė, kad per vienuolika metų nuo tos dienos, kai įžengė į Prūsijos žemę, jie pajungė savo galiai ir palenkė krikščionių tikėjimui ir tas gentis, kurios valdė.'
+  teiginys: 'Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nieku būdu nereikia pamiršti ir to itin
@@ -84,7 +85,6 @@ Nenurodyta
 - [[objektai/grupes/Sembai]]
 - [[objektai/ivykiai/Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)]]
 - [[objektai/autoriai/St. Smolka]]
-- [[objektai/grupes/Unzatrapio žemės gyventojai]]
 - [[objektai/asmenys/Vasilijus III]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
@@ -94,4 +94,5 @@ Nenurodyta
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą]]
+- [[objektai/zodynas/kiemai habitaciones curia]]
 - [[objektai/zodynas/rikiai kunigai]]

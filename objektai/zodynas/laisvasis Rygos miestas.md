@@ -18,18 +18,19 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- tetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas.'
+  teiginys: '1298 m. praturtėjęs laisvasis Rygos miestas kartu su arkivyskupu priešinosi Livonijos ordinui ir pasikvietė Vytenį į talką.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'su savo viršininku arkivyskupu ir spaudžia laisvąjį krikščionišką miestą.'
+  teiginys: 'Laisvasis Rygos miestas buvo laikomas krikščionišku miestu, kurį spaudė savo galybės siekęs ordinas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Laisvasis Rygos miestas buvo laikomas krikščionišku miestu, kurį spaudė savo galybės siekęs ordinas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmiausia tai buvo vokiškojo ir katalikiškojo
@@ -48,6 +49,7 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
     - t-002
 
 - c-002
+  santrauka: '1298 m. praturtėjęs laisvasis Rygos miestas kartu su arkivyskupu priešinosi Livonijos ordinui ir pasikvietė Vytenį į talką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Livonijoje tebeėjo smarkios varžytynės tarp arkivyskupo ir
@@ -67,4 +69,5 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Rygiečiai]]

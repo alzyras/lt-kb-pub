@@ -29,7 +29,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 - t-001
   teiginys: 'Tuomet, kaip ir 1772 m., iš karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą; su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Gardino seimas: buvo atgaivinta Nuolatinė Taryba ir tada veikusios karo ir iždo komisijos.'
@@ -39,12 +39,12 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 - t-003
   teiginys: 'Gardino seimas: taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai padaryti.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
-  teiginys: 'Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai padaryti.'
+  teiginys: '1793 m. Gardino seime Rusija siekė sugrąžinti po pirmojo padalijimo buvusią valstybės tvarką.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-005
   teiginys: 'Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį. Tam tikslui Gardine buvo sušauktas seimas.'
@@ -66,6 +66,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   statusas: verified
   pagrindžia:
     - t-005
+    - t-001
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -84,20 +85,6 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Rusija sau tenkančias žemes tuo metu jau buvo užėmusi; Prū-
-    sija savąsias irgi tuojau okupavo. Tuomet, kaip ir 1772 m., iš
-    karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą;
-    su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
-    Tam tikslui Gardine buvo sušauktas seimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
     Tačiau Rusijai buvo patogiau, kad valstybės priešaky liktų ka-
     ralius: mat, laikant jį savo įtakoj, lengviau prižiūrėti visą vals-
     tybės politiką; palikus bajoriškąją demokratiją, tektų skaitytis
@@ -110,21 +97,6 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau Rusijai buvo patogiau, kad valstybės priešaky liktų ka-
-    ralius: mat, laikant jį savo įtakoj, lengviau prižiūrėti visą vals-
-    tybės politiką; palikus bajoriškąją demokratiją, tektų skaitytis
-    su daugybe ponų, o daugelį suvaldyti visada sunkiau. Todėl
-    Rusija norėjo sugrąžinti tokią tvarką, kokia buvo po I padali-
-    nimo. Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
-    padaryti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
 ## Ryšiai

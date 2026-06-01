@@ -47,12 +47,12 @@ amziai:
 - t-003
   teiginys: 'Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys žmonės »^14.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -97,21 +97,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pus­
-    broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
-    beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
-    Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati
-    lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys
-    žmonės »^14. Jis pabrėžė, jog Žemaičiai nuo senovės didžiųjų kuni­
-    gaikščių esą valdomi paveldėjimo teise.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

@@ -26,7 +26,7 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juraha to viderkafto mokestį nuo pas­ tarojo mūro nuėmęs priskyrė kahale investuotoms sumoms, nuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kahalo yra atiduodamas.'
+  teiginys: 'Akademijos rektorius Juraha viderkafto mokestį nuo mūrinio namo priskyrė kahale investuotoms sumoms.'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Akademijos rektorius Juraha viderkafto mokestį nuo mūrinio namo priskyrė kahale investuotoms sumoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1756. Akademijos Rektorius t. Juraha taip pat prie kole­
@@ -98,6 +99,7 @@ amziai:
 - [[objektai/asmenys/Stanislovas Goreckis]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Uršulė]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/zodynas/kapitula]]

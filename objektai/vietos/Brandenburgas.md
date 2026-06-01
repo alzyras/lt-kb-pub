@@ -19,36 +19,23 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
 ## Teiginiai
 
 - t-001
-  teiginys: 'Brandenburgas: atitekusi Branden- burgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir to- liau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
+  teiginys: 'Brandenburgo hercogams atitekusi valstybė išaugo į pavojingą kaimyną ir toliau germanizavo Mažosios Lietuvos lietuvius.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą su ordinu.'
+  teiginys: 'Lietuviai padėjo lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą su ordinu.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    betgi dar išgyveno daugiau, kaip 50 metų. Atitekusi Branden-
-    burgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir to-
-    liau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.
-    **6.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors ir merdėdamas, ordinas
@@ -63,8 +50,10 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
-- c-003
+- c-002
+  santrauka: 'Lietuviai padėjo lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą su ordinu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sutartis buvo sudaryta

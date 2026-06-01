@@ -24,13 +24,14 @@ Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime nereišk
 ## Teiginiai
 
 - t-001
-  teiginys: 'Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime nereiškė esminių pokyčių, kultūrines organizacijas kibiai prižiūrėjo sovietų 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 221 saugumas, išliko griežta cenzūra.'
+  teiginys: 'Politinio atšilimo metais dauguma užsienio ar ikikarinių leidinių tebebuvo laikomi vadinamuosiuose specfonduose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Politinio atšilimo metais dauguma užsienio ar ikikarinių leidinių tebebuvo laikomi vadinamuosiuose specfonduose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime ne-

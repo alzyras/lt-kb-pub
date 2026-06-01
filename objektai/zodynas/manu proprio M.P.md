@@ -17,13 +17,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '[manu proprio - savo ranka] Eustachijus Valavičius, Vilniaus kaštelionas.'
+  teiginys: 'Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [manu proprio -
@@ -46,4 +47,5 @@ tags:
 - [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
 - [[objektai/asmenys/Manvydas]]
 - [[objektai/asmenys/Teodoras]]
-- [[objektai/zodynas/kaštelionas]]
+- [[objektai/asmenys/Eustachijus Valavičius]]
+- [[objektai/grupes/Valavičiai]]

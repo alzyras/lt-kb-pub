@@ -47,19 +47,9 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
     - c-003
 
 - t-002
-  teiginys: 'Ši schema remiasi feodalizmo, baudžiavos, kapitalizmo ir imperializmo etapais.'
+  teiginys: 'Marksistinė Lietuvos istorijos periodizacija feodalizmo epochą skirstė į valstybės susidarymo ir baudžiavos įsigalėjimo laikotarpius.'
   pagrindžia:
     - c-001
-
-- t-003
-  teiginys: 'Autorius ją laiko svetima lietuvių tautos istorijos faktams.'
-  pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: 'Komunistinės istoriografijos nomenklatūra čia veikia kaip ideologinis istorijos skirstymo aparatas.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +69,6 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
   pagrindžia:
     - t-001
     - t-002
-    - t-003
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -97,7 +86,6 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
   statusas: verified
   pagrindžia:
     - t-001
-    - t-004
 
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

@@ -69,22 +69,4 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    33. Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino
-                                                  didįjį magistrą
-
-       Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis
-    magistras, mirė liepos 24 dieną, o palaidotas Markburge. Kai dar buvo pasaulietis, jis
-    kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti  į vienuolius, darė
-    atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame
-    mieste su procesija basomis ir plika galva, puolė kniūpsčias prieš bažnyčios duris, o
-    rykštę, kurią laikė rankoje, davė žmonėms, kad tiek jį plaktų, kiek kam širdis leidžia.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003

@@ -29,12 +29,12 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 ## Teiginiai
 
 - t-001
-  teiginys: '1930 m. veikale Julijona minima kaip Vitebske viešpatavusi Algirdo žmona; jai mirus 1392 m., Jogaila į jos vietą pasodino Feodorą Vesną.'
+  teiginys: 'Julijona, Algirdo žmona, viešpatavo Vitebske ir mirė 1392 m.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Julijona minima kaip Jogailos motina ir kaip figūra Žemaičių dovanojimo dokumento aplinkoje.'
+  teiginys: 'Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba.'
   pagrindžia:
     - c-006
 
@@ -49,12 +49,12 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - c-005
 
 - t-005
-  teiginys: '30 Tasai Andrius, Jogailai pavaldaus Polocko kunigaikštis, Algirdo sū­ nus, gimęs iš antros jo santuokos su Julijona, Vitebsko kunigaikštyte, ta­ čiau nebuvo palankus Jogailai, vei­ kiau linkęs į Kęstučio pusę; tad Jo­ gaila nusprendė jį išvyti iš jo dalinės.'
+  teiginys: 'Julijona, Vitebsko kunigaikštytė, buvo antroji Algirdo žmona ir Polocko kunigaikščio Andriaus motina.'
   pagrindžia:
     - c-007
 
 - t-006
-  teiginys: 'Lietuvos kunigaikš­ čiui Jogailai, Algirdo sūnui, kuris nebuvo priėmęs dar jokio krikšto, tiesesnis kelias buvo į Rytus, į savo motinos, daugelio brolių, dėdžių ir giminaičių tikėjimą.'
+  teiginys: 'Julijoną su Rytų Bažnyčia siejo praeitis, tradicijos, tautybė ir jos giminės stačiatikių šventieji.'
   pagrindžia:
     - c-002
 
@@ -76,6 +76,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Julijona, Algirdo žmona, viešpatavo Vitebske ir mirė 1392 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Greit atėjo eilė ir Vitebskui. Ten viešpatavo kunigaikš­
@@ -91,6 +92,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - t-001
 
 - c-002
+  santrauka: 'Julijoną su Rytų Bažnyčia siejo praeitis, tradicijos, tautybė ir jos giminės stačiatikių šventieji.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tad ir esančiam dabar didž. Lietuvos kunigaikš­
@@ -156,6 +158,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - t-004
 
 - c-006
+  santrauka: 'Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip kita­
@@ -176,6 +179,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - t-002
 
 - c-007
+  santrauka: 'Julijona, Vitebsko kunigaikštytė, buvo antroji Algirdo žmona ir Polocko kunigaikščio Andriaus motina.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota Viešpaties
@@ -236,18 +240,16 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 - [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
 - [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Julijona]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Julijona]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
-- [[objektai/asmenys/Sofija]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/asmenys/Vyguntas]]
 - [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]

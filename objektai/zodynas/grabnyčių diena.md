@@ -43,5 +43,4 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
-- [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]
 - [[objektai/asmenys/Mangoldas [iš Šternbergo]]]

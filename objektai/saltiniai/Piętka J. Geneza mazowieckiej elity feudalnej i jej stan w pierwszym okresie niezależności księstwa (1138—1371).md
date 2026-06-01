@@ -26,13 +26,14 @@ Dusburgietis teigia, kad piętka J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad piętka J.'
+  teiginys: 'J. Piętkos straipsnis apie Mazovijos feodalinės elito genezę paskelbtas 1979 m. „Rocznik mazowiecki“ septintame tome, p. 31–56.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Piętkos straipsnis apie Mazovijos feodalinės elito genezę paskelbtas 1979 m. „Rocznik mazowiecki“ septintame tome, p. 31–56.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Piętka  J. Geneza mazowieckiej  elity feudalnej   i  jej stan w pierwszym okresie

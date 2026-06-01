@@ -20,13 +20,14 @@ Dusburgietis teigia, kad gardolfas sušakosiąs ir ateityje duosiąs gausybę va
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad gardolfas sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
+  teiginys: 'Halberštato vyskupas Gardolfas buvo tarp Vokietijos dvasininkų ir didikų, svarstusių ką tik įsteigtos ligoninės ateitį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Halberštato vyskupas Gardolfas buvo tarp Vokietijos dvasininkų ir didikų, svarstusių ką tik įsteigtos ligoninės ateitį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors
@@ -68,7 +69,6 @@ Dusburgietis teigia, kad gardolfas sušakosiąs ir ateityje duosiąs gausybę va
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Albertas (Brandenburgo markgrafas)]]
 - [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi]]

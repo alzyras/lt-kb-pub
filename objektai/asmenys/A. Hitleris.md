@@ -30,12 +30,12 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
 - t-001
   teiginys: 'Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Hitleris ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai.'
@@ -43,23 +43,24 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
     - c-002
 
 - t-004
-  teiginys: 'Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 183 deleguotas.'
+  teiginys: '1939 m. kovo 23 d. Adolfą Hitlerį Klaipėdoje sveikino vietos vokiečių nacių simpatikai ir SA smogikai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-005
-  teiginys: 'Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje ir Latvijoje, regione A.'
+  teiginys: '1933 m. A. Hitleris atėjo į valdžią Vokietijoje.'
   pagrindžia:
     - c-001
 
 - t-006
   teiginys: 'Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendinimo gali išnaikinti pusę Europos.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1933 m. A. Hitleris atėjo į valdžią Vokietijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip renkant ypatinguo­sius tautos atstovus buvo labai sun-
@@ -77,21 +78,7 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
     - t-005
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau pokyčius vyriausybėje valdžia
-    ir opozicija suvokė skirtingai. Autoritarinės valdžios supratimu, bendras
-    darbas turėjo vykti ne partiniu principu, o kompetentingų personalijų ly-
-    giu. Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
-    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
-    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
+  santrauka: '1939 m. kovo 23 d. Adolfą Hitlerį Klaipėdoje sveikino vietos vokiečių nacių simpatikai ir SA smogikai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau pokyčius vyriausybėje valdžia
@@ -109,8 +96,9 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į
@@ -127,7 +115,7 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   pagrindžia:
     - t-002
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Neutralumo politika ir
@@ -149,7 +137,7 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Plebiscitas Saro krašte ir jo prijungimas prie Vokietijos išgąsdino

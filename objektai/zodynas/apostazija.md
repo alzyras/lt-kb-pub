@@ -46,38 +46,39 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - t-001
   teiginys: 'Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų.'
   pagrindžia:
-    - c-005
+    - c-001
     - c-004
 
 - t-002
   teiginys: 'Pagrindinės kronikos įsakmiai pažymi Mindaugo apostaziją.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-003
   teiginys: 'Apostazija šiame tekste reiškia Mindaugo atkritimą nuo krikščionybės.'
   pagrindžia:
-    - c-006
+    - c-005
     - c-002
 
 - t-004
-  teiginys: 'Sąvoka vartojama ginče tarp Mindaugo atkritimo šalininkų ir priešininkų.'
+  teiginys: 'Mindaugo apostazijos klausimas siejamas su ginču, ar Mindaugas po Žemaičių laimėjimo prie Durbės atsimetė nuo krikščionybės.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-005
-  teiginys: 'Autorius apostaziją sieja su naujakrikštų valdovų istorine patirtimi.'
+  teiginys: 'Naujakrikštų valdovų apostazijos buvo žinomos ir kitose tautose, kai valdovų nuovoka apie naująjį tikėjimą dar būdavo grubi.'
   pagrindžia:
     - c-003
 
 - t-006
-  teiginys: 'Nors daug Mindaugo apostazijos klausimu ra­ šyta, bet čia galima tarti kun. J.'
+  teiginys: 'J. Stakauskas pripažino, kad nuomonė apie Mindaugo apostaziją po Durbės mūšio turi tam tikro pagrindo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Stakauskas pripažino, kad nuomonė apie Mindaugo apostaziją po Durbės mūšio turi tam tikro pagrindo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kly­
@@ -97,6 +98,9 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   statusas: verified
   pagrindžia:
     - t-006
+    - t-001
+    - t-002
+    - t-004
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -118,6 +122,7 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     - t-003
 
 - c-003
+  santrauka: 'Naujakrikštų valdovų apostazijos buvo žinomos ir kitose tautose, kai valdovų nuovoka apie naująjį tikėjimą dar būdavo grubi.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vykstant deryboms dėl krikšto, Mindaugo santykiai su
@@ -156,29 +161,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kly­
-    menko, H. Lowmiański ir kt.) 20 * didelė dauguma, o gal ir visi Min­
-    daugo vardu išduoti dovanojimai reikią laikyti autentiškais dokumen­
-    tais.
-    Didelės svarbos yra penktoji problema, dėl kurios daug kas sau
-    yra laužęs galvą, būtent, ar Mindaugas iš tiesų iki mirties išliko krikš­
-    čionimi, tapdamas pagonių reakcijos kankiniu (toniu jį laiko J. Lat­
-    kowski), ar jis po didžiojo Žemaičių laimėjimo prie Durbės atsimetė
-    nuo krikščionyįės. Nors daug Mindaugo apostazijos klausimu ra­
-    šyta, bet čia galima tarti kun. J. Stakausko (Mindaugo krikščioniu
-    išlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­
-    goji nuomonė »^21.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-004
-
-- c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
     Šalia Mindaugo «sostinės» vietos, penkių jo dokumentų tikrumo
     mįslės ir kitų neišaiškintų problemų, tai yra pats svarbiausias kontro­
     versiškas klausimas, apie kurį tiek daug rašyta. Išskyrus pirmąjį
@@ -210,7 +192,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/ivykiai/Danieliaus vainikavimas karaliumi Drogičine (1253 m.)]]
 - [[objektai/ivykiai/Durbės mūšis]]
 - [[objektai/asmenys/Klemensas IV]]
 - [[objektai/ivykiai/Mindaugo nužudymas]]

@@ -94,6 +94,5 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 - [[objektai/grupes/Raudonoji armija]]
 - [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/etnocidas]]
 - [[objektai/zodynas/rusinimas dvikalbystė]]
 - [[objektai/posakiai/„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“|„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“ (institucija)]]

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad lasickis J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad lasickis J.'
+  teiginys: 'J. Lasickio veikalas „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“ išleistas 1969 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Lasickio veikalas „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“ išleistas 1969 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lasickis J. Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus.—V., 1969.

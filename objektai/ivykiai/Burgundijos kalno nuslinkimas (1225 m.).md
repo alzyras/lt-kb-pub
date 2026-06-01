@@ -42,7 +42,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Burgundijoje dėl žemės drebėjimo kalnas nuslinko į kitą vietą 1225 viešpaties metais Burgundijoje, Druskos kalnuose, vienas kalnas dėl žemės drebėjimo atsiskyrė nuo kitų kalnų ir nuslinko prie kalnų kitoje pusėje, užvertė visą slėnį ir nuslėgė.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -56,18 +55,6 @@ Nenurodyta
     ir nuslėgė penkis tūkstančius žmonių (Ptol. 21,26; Mart. p. 400).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1225 viešpaties metais Burgundijoje, Druskos kalnuose, vienas kalnas dėl žemės
-    drebėjimo atsiskyrė nuo kitų kalnų ir nuslinko prie kalnų kitoje pusėje, užvertė visą slėnį
-    ir nuslėgė penkis tūkstančius žmonių (Ptol. 21,26; Mart. p. 400).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

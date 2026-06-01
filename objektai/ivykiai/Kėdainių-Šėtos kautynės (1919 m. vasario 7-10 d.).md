@@ -50,17 +50,17 @@ Nenurodyta
     - c-003
 
 - t-004
-  teiginys: 'Vokiečių kulkosvaidininkas perėmė kulkosvaidį ir sustabdė bolševikų bandymą apsupti žvalgus; raudonarmiečiai ėmė trauktis.'
+  teiginys: 'Kėdainių-Šėtos kautynėse vokiečių kulkosvaidininkas perėmė kulkosvaidį ir sustabdė bolševikų mėginimą apsupti žvalgus.'
   pagrindžia:
     - c-005
 
 - t-005
-  teiginys: 'Prie Taučiūnų kaimo bolševikų kuopos ugnies užklupti žvalgai Lukšio paraginti išsiskleidė į grandį ir atidengė atsakomąją ugnį.'
+  teiginys: 'Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.'
   pagrindžia:
     - c-004
 
 - t-006
-  teiginys: 'P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro, o žvalgai atsitraukė.'
+  teiginys: 'Kėdainių-Šėtos kautynėse P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro.'
   pagrindžia:
     - c-006
 
@@ -134,6 +134,7 @@ Nenurodyta
     - t-003
 
 - c-004
+  santrauka: 'Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Važiuojant pro Taučiūnų kaimą,
@@ -156,6 +157,7 @@ Nenurodyta
     - t-005
 
 - c-005
+  santrauka: 'Kėdainių-Šėtos kautynėse vokiečių kulkosvaidininkas perėmė kulkosvaidį ir sustabdė bolševikų mėginimą apsupti žvalgus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tada Vainauskas, iš
@@ -174,6 +176,7 @@ Nenurodyta
     - t-004
 
 - c-006
+  santrauka: 'Kėdainių-Šėtos kautynėse P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau kitą akimirką į žval-

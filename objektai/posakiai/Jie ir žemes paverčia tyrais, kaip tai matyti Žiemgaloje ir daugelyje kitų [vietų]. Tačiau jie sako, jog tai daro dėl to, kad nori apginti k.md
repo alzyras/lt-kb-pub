@@ -31,7 +31,7 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų].'
+  teiginys: '1322 m. laiške popiežiui Gediminas kaltino kryžiuočius žemes paverčiant tyrais ir teigiant, kad taip jie gina krikščionis.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
     - t-001
 
 - c-002
+  santrauka: '1322 m. laiške popiežiui Gediminas kaltino kryžiuočius žemes paverčiant tyrais ir teigiant, kad taip jie gina krikščionis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti

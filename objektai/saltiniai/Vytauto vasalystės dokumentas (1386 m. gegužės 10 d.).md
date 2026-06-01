@@ -26,7 +26,7 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
 - t-001
   teiginys: 'Kitokios institucijos minėtais dokumentais nebuvo įsteigtos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Vytauto vasalystės dokumentas buvo išduotas 1386 m. gegužės 10 d.'
@@ -49,18 +49,4 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet Vytautui mirus, vėl
-    jo valdžia turėjo atitekti į Jogailos ir karūnos rankas. Kitokios
-    institucijos minėtais dokumentais nebuvo įsteigtos. Vilniaus -
-
-    (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, iš­
-    duotą 1386 m. gegužės 10 d. Žiūr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001

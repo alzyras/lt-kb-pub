@@ -31,7 +31,7 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 ## Teiginiai
 
 - t-001
-  teiginys: 'Protasevi­ čius šiam ordinui nupirko mūrinį namą netoli Švento Jono bažnyčios ir pritaikė jiems gyventi.'
+  teiginys: 'Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir pritaikė jį jiems gyventi.'
   pagrindžia:
     - c-003
 
@@ -46,12 +46,12 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - c-004
 
 - t-004
-  teiginys: 'Jono bažnyčios Vilniuje įkūrimą ir jos prijungimą prie Akademijos kolegijos Vladislovo Jogailos valdymo laikais lietuvių tautos at­ vertimui į šventąjį tikėjimą atminti Vilniuje 1386 m. įkurta Šv.'
+  teiginys: 'Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.'
   pagrindžia:
     - c-002
 
 - t-005
-  teiginys: 'Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82.'
+  teiginys: '1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.'
   pagrindžia:
     - c-005
 
@@ -77,6 +77,7 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-006
 
 - c-002
+  santrauka: 'Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     JONO BAŽNYČIĄ IR APIE TO PATIES VARDO
@@ -100,6 +101,7 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-004
 
 - c-003
+  santrauka: 'Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir pritaikė jį jiems gyventi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jų pastangos disputuoti su disidentais išties
@@ -133,6 +135,7 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-003
 
 - c-005
+  santrauka: '1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-

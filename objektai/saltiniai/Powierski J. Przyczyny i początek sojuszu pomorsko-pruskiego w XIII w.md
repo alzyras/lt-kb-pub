@@ -23,13 +23,14 @@ Dusburgietis teigia, kad powierski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad powierski J.'
+  teiginys: 'J. Powierskio straipsnis apie Pamario ir prūsų sąjungos priežastis bei pradžią XIII a. paskelbtas 1969 m. ABS 6 tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio straipsnis apie Pamario ir prūsų sąjungos priežastis bei pradžią XIII a. paskelbtas 1969 m. ABS 6 tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Powierski  J. Przyczyny   i początek sojuszu pomorsko-pruskiego w XIII w.—ABS,

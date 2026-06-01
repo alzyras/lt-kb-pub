@@ -70,6 +70,7 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/paprociai/Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Lietuviai]]

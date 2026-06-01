@@ -44,7 +44,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - t-001
   teiginys: '1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę.'
   pagrindžia:
-    - c-011
+    - c-003
 
 - t-002
   teiginys: 'Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
@@ -54,7 +54,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - t-003
   teiginys: '1244 m. Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su piliadaužėmis puolė Ordino anksčiau užvaldytą Embutės pilį, tačiau jos užimti nepavyko.'
   pagrindžia:
-    - c-016
+    - c-005
 
 - t-004
   teiginys: 'Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę^58.'
@@ -69,7 +69,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - t-006
   teiginys: 'Dusburgietis teigia, kad nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187.'
   pagrindžia:
-    - c-014
+    - c-012
 
 - t-007
   teiginys: '1435 m. spalį smogta Livonijai dar kartą, kai žemaičiai Kurše sudegino Durbės pilį.'
@@ -82,9 +82,9 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     - c-002
 
 - t-009
-  teiginys: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
+  teiginys: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.'
   pagrindžia:
-    - c-015
+    - c-013
 
 - t-010
   teiginys: 'Rimbertas pirmasis paminėjo kuršių vardą, o Hervararsaga Kuršo užvaldymą siejo su švedų karaliumi Ivaru.'
@@ -97,24 +97,24 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     - c-004
 
 - t-012
-  teiginys: 'Tuo tarpu žemaičiai puolė Kuršą ir niokojo jį 19 dienų, husitų ir Lenkijos kariuomenė įsiveržė į Ordino valdas birželio pradžioje, viską naikino ir degino.'
+  teiginys: 'Žemaičiai puolė Kuršą ir niokojo jį 19 dienų.'
   pagrindžia:
     - c-006
 
 - t-013
   teiginys: 'Dusburgietis teigia, kad apie prūsų susiskirstymą bei jų galybę Prūsijos žemė188 skirstoma į apie Nemuną, skiriantį Prūsiją nuo Kuršo.'
   pagrindžia:
-    - c-012
+    - c-011
 
 - t-014
   teiginys: 'Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.'
   pagrindžia:
-    - c-017
+    - c-014
 
 - t-015
   teiginys: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
   pagrindžia:
-    - c-018
+    - c-015
 
 - t-016
   teiginys: 'Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų suvežė svarbiausias vertybes į dominikonų vienuolyną, kuriame ir pernakvojo, o ryte, paskleidę gandą, kad vyksta į Drują bei Bychovo tvirtovę, iš tikrųjų suskubo trauktis į Kuršą - į.'
@@ -124,7 +124,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - t-017
   teiginys: 'Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedų naudai.'
   pagrindžia:
-    - c-013
+    - c-002
 
 - t-018
   teiginys: 'Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su piliadaužėmis puolė Ordino anksčiau užvaldytą Embutės pilį, tačiau jos užimti nepavyko.'
@@ -132,9 +132,9 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     - c-005
 
 - t-019
-  teiginys: 'Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo Kuršo.'
+  teiginys: 'Priešo kariuomenei traukiant į Karšuvą, žemaičiai įsibrovė naikinti ordino valdomo Kuršo.'
   pagrindžia:
-    - c-019
+    - c-016
 
 ## Reikšmingi paminėjimai
 
@@ -167,6 +167,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   statusas: verified
   pagrindžia:
     - t-008
+    - t-017
 
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -183,6 +184,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -214,8 +216,10 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   statusas: verified
   pagrindžia:
     - t-018
+    - t-003
 
 - c-006
+  santrauka: 'Žemaičiai puolė Kuršą ir niokojo jį 19 dienų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Magistras dar balandį prašė Švitrigailos
@@ -313,22 +317,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     - t-002
 
 - c-011
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tik vakarų Europoje
-    galingi ir nepriklausomi kunigaikščiai gaudavo karaliaus titulą^57.
-    Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai,
-    kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs
-    didelę kariuomenę^58. Poezijos rimams suderinti vis didelius skaičius
-    vartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten
-    atvedęs 30.000 karių^59.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     172) Dusburgiečio tekste kalbama
@@ -344,23 +332,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   pagrindžia:
     - t-013
 
-- c-013
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš
-    naujo švedams užvaldyti Kuršą. Jis nusiaubė ir sudegino Kuršių
-    Seeįurgą ir, po aštuonių dienų Apuolės apgulimo, privertė Kuršius
-    jam atiduoti danų grobį, padaryti taiką, mokėti ankstyvesnę duoklę,
-    be to, išreikalavo 30 įkaitų. Pagal vidurinių amžių kronikininkų
-    didelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo
-    (7000) ir Apuolės (15.000) pilyse.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-017
-
-- c-014
+- c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vysla — tai upė, atitekanti nuo
@@ -375,7 +347,8 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   pagrindžia:
     - t-006
 
-- c-015
+- c-013
+  santrauka: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
@@ -406,24 +379,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   pagrindžia:
     - t-009
 
-- c-016
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1244 m.
-    Mindaugo - „Lietuvos galingo karaliaus“
-    pajėgos įsiveržė į Kuršą, su piliadaužė-
-    mis puolė Ordino anksčiau užvaldytą
-    Embutės pilį, tačiau jos užimti nepa-
-    vyko. Kurše tarp lietuvių ir Ordino vyko
-    nuolatinės kovos, abi pusės jų metu pa-
-    tyrė didelių nuostolių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-017
+- c-014
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš XI-XII amž. danų šaltinių (Genealogia regum
@@ -438,7 +394,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   pagrindžia:
     - t-014
 
-- c-018
+- c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai nebuvo
@@ -458,8 +414,8 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   pagrindžia:
     - t-015
 
-- c-019
-  santrauka: 'Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo Kuršo.'
+- c-016
+  santrauka: 'Priešo kariuomenei traukiant į Karšuvą, žemaičiai įsibrovė naikinti ordino valdomo Kuršo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada priešais
@@ -475,7 +431,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   pagrindžia:
     - t-019
 
-- c-020
+- c-017
   santrauka: 'Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

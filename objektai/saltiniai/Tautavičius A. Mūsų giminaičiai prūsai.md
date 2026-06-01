@@ -24,13 +24,14 @@ Dusburgietis teigia, kad tautavičius A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tautavičius A.'
+  teiginys: 'A. Tautavičiaus „Mūsų giminaičiai prūsai“ paskelbtas 1968 m. žurnalo MG 6 numeryje, 17–22 puslapiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Tautavičiaus „Mūsų giminaičiai prūsai“ paskelbtas 1968 m. žurnalo MG 6 numeryje, 17–22 puslapiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tautavičius A. Mūsų giminaičiai prūsai.— MG, 1968, Nr. 6, p. 17—22.

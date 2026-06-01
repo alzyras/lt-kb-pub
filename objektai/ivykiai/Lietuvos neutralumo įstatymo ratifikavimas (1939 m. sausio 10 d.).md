@@ -42,38 +42,13 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '1938 m. vasarą trijų Baltijos šalių užsienio reikalų ministrai nutarė neleisti užsienio kariuomenėms kirsti jų teritorijų.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Neutralumo politika ir Molotovo–Ribentropo paktas Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti jų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tokią taktiką galima įvardyti kaip buvimą „tarp
-    valdžios ir opozicijos“, kaip „kompromisų politiką“. O tikros politinių
-    jėgų vienybės reikėjo, nes artėjo sunkūs laikai.
-    Neutralumo politika ir
-    Molotovo–Ribentropo paktas
-    Griūvant Versalio sistemos postulatams, Tautų Sąjungai
-    nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų
-    ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti
-    jų teritoriją, net jeigu to būtų pareikalauta pagal Tautų Sąjungos Statuto
-    16-ą straipsnį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O tikros politinių
@@ -93,7 +68,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

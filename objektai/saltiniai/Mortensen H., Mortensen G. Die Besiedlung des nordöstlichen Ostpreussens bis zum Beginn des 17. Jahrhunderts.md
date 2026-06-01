@@ -27,32 +27,27 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 97; plg.'
+  teiginys: 'Dusburgietis teigia, kad čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p. 35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).'
   pagrindžia:
     - c-005
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p. 35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).'
-  pagrindžia:
-    - c-006
-
-- t-003
   teiginys: 'Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile; Tarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185 ir žemėl.), tačiau dab.'
   pagrindžia:
     - c-001
 
-- t-004
-  teiginys: 'Dusburgietis teigia, kad pagraudės ieškota ir labiau į rytus (Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 205).'
+- t-003
+  teiginys: 'H. ir G. Mortensenų veikalas nurodomas kaip darbas, kuriame Pagraudės ieškota labiau į rytus.'
   pagrindžia:
     - c-003
 
-- t-005
-  teiginys: 'Dusburgietis teigia, kad mortensen H., Mortensen G.'
+- t-004
+  teiginys: 'H. Mortenseno ir G. Mortenseno „Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts“ išleista dviem dalimis 1937 ir 1938 m.'
   pagrindžia:
     - c-004
 
-- t-006
-  teiginys: 'Dusburgietis teigia, kad kolainių ieškota ir toliau į rytus už Bisenės (SZM, p. 218—219; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 212—213 ir 1 žemėl.).'
+- t-005
+  teiginys: 'H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės.'
   pagrindžia:
     - c-002
 
@@ -71,9 +66,10 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
+  santrauka: 'H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolio Ernekės, Ragainės pilies komtūro, žūtį
@@ -88,9 +84,10 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-003
+  santrauka: 'H. ir G. Mortensenų veikalas nurodomas kaip darbas, kuriame Pagraudės ieškota labiau į rytus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     544  D.— contra territorium [...] Pograudam, Jer.— Pograudin; valsčius Žemaičių
@@ -102,9 +99,10 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-004
+  santrauka: 'H. Mortenseno ir G. Mortenseno „Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts“ išleista dviem dalimis 1937 ir 1938 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum
@@ -113,23 +111,9 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    528 Žr. paaiškinimus D. III, 181, 1; Clasen-Sandt K., Zur Baugeschichte..., p. 197—
-    198. Skalvių pilis statyta 1293 m. (SRP, 1, 271, 280) kair. Nemuno krante žemiau
-    Ragainės, prie Skalvos upelio ties Paskalviais, dab. Dubki (Boetticher A., Die Bau..., 5,
-    p. 108; HE, p. 110; CV, t. 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung..., 2,
-    p. 97; plg. Тоерреn М., HCGP, p. 220).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos
@@ -140,4 +124,4 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

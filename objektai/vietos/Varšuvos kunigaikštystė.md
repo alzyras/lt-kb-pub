@@ -28,7 +28,7 @@ amziai:
 - t-001
   teiginys: 'Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidėsiančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kunigaikštystės.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: '1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės.'
@@ -36,9 +36,9 @@ amziai:
     - c-001
 
 - t-003
-  teiginys: 'Jean-Baptiste Madou, 1827 m. 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 103 1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos.'
+  teiginys: '1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė - pusiau nepriklausoma, Napoleono globojama valstybė.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes.'
@@ -75,24 +75,10 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Napoleonas leido Vilniuje
-    įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė
-    viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidė-
-    siančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kuni-
-    gaikštystės pulkai). Liepos mėn. Vilniaus katedroje, dalyvaujant Varšuvos
-    kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Len-
-    kija, susigrąžinant LDK prarastas žemes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-004
+- c-003
+  santrauka: '1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė - pusiau nepriklausoma, Napoleono globojama valstybė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dail. Jean-Baptiste Madou, 1827 m.

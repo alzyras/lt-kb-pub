@@ -35,12 +35,12 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
 - t-001
   teiginys: '„Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.)“ šiame veikale cituojamas chunk_0010: siauresnis to paties aprašymo išskyrimas apie artileriją.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Fulvio Ruggieri 1572 m. aprašė, kad kavalerijoje kapitonas vadovavo šimtui raitininkų, o pėstininkų kapitonas paprastai turėjo 200 pėstininkų.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Fulvio Ruggieri 1572 m. rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos.'
@@ -62,21 +62,9 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ralyžiavo“ Rusijos kariuomenę. Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo artileriją Vilniuje.
-    grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios artilerijos: sunkiosios jis turi šimtą aštuoniasdešimt
-    sa iii js Ai neleido išsiųsti vienetų, ir dar didelį skaičių lengvosios, labai gražiai padarytos, nes tai Jo Didenybei di-
-    reikiamos karinės paramos apsiaustam džiai patinka ir jo valia daug jos išliejama, ypač Lietuvoje, kuo patys lenkai skundžiasi,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Fulvio Ruggieri 1572 m. aprašė, kad kavalerijoje kapitonas vadovavo šimtui raitininkų, o pėstininkų kapitonas paprastai turėjo 200 pėstininkų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

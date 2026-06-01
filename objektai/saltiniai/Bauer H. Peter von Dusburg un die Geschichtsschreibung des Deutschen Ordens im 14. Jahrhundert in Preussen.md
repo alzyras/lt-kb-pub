@@ -23,13 +23,14 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pAPILDYMAS Bauer H.'
+  teiginys: 'H. Bauerio veikalas „Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen“ išleistas Berlyne 1935 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'H. Bauerio veikalas „Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen“ išleistas Berlyne 1935 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     PAPILDYMAS

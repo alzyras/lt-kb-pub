@@ -34,7 +34,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - c-005
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad kai pradėjo temti, penki šimtai brolių raitelių, ėjusių sargybą tarp Lietuvos Žemės bei šios pilies ir pailsusių nuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino paprastus karius, kad šie nudūmė prie laivų, manydami.'
+  teiginys: 'Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą.'
   pagrindžia:
     - c-002
 
@@ -59,7 +59,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - c-004
 
 - t-007
-  teiginys: 'Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį.'
+  teiginys: '1290 m. Ordino magistras su daugeliu riterių ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.'
   pagrindžia:
     - c-007
 
@@ -86,6 +86,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - t-004
 
 - c-002
+  santrauka: 'Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai pradėjo temti,
@@ -170,7 +171,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - t-005
 
 - c-007
-  santrauka: 'Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį.'
+  santrauka: '1290 m. Ordino magistras su daugeliu riterių ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kadangi Nemunas strateginiu atžvilgiu buvo

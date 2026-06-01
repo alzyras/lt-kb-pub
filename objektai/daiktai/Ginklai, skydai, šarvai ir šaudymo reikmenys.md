@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 gin­ kluotų skydais, Gnieznas - 1 500 šarvuotųjų ir 5 000 pėstininkų; Vladislavovo pilis - 800 šarvuotų­ jų, 2 000 su skydais, Gdečas - 300 pirmųjų ir 2 000 antrųjų.'
+  teiginys: 'Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
   pagrindžia:
     - c-003
 
@@ -56,7 +56,7 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: '37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.'
+  teiginys: 'Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti drabužiai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.'
   pagrindžia:
     - c-004
 
@@ -66,23 +66,24 @@ Nenurodyta
     - c-005
 
 - t-005
-  teiginys: 'Bent jau vertingiausi ginklai (toliau rašo Golembiovskis) turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­ dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­ tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­ mantu Senuoju ir.'
+  teiginys: 'Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas.'
   pagrindžia:
     - c-001
 
 - t-006
-  teiginys: 'Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.'
+  teiginys: 'Lietuvos provincijos tvirtovėms buvo siunčiami naujai pagaminti pabūklai, ginklai, kulkos ir apkasams reikalinga įranga.'
   pagrindžia:
     - c-007
 
 - t-007
-  teiginys: 'Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti, kad bendromis lėšomis išlaikomos patrankos ir arkebuzos bū­ tų gerai prižiūrimos.'
+  teiginys: 'Vilniaus miestiečiai gynybai turėjo turėti šarvus, muškietą ir ragotinę, o miesto taryba prižiūrėjo patrankas ir arkebuzas.'
   pagrindžia:
     - c-006
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bent jau vertingiausi ginklai (toliau rašo Golembiovskis)
@@ -137,6 +138,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Plg. Witichind I. 639.
@@ -156,6 +158,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: 'Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti drabužiai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     37
@@ -225,6 +228,7 @@ Nenurodyta
     - t-004
 
 - c-006
+  santrauka: 'Vilniaus miestiečiai gynybai turėjo turėti šarvus, muškietą ir ragotinę, o miesto taryba prižiūrėjo patrankas ir arkebuzas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gaisro atveju kiekvienas miestie­
@@ -246,6 +250,7 @@ Nenurodyta
     - t-007
 
 - c-007
+  santrauka: 'Lietuvos provincijos tvirtovėms buvo siunčiami naujai pagaminti pabūklai, ginklai, kulkos ir apkasams reikalinga įranga.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­
@@ -283,6 +288,7 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/įkaitai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/daiktai/Kęstučio laidotuvių rūbai ir ginklai]]
 - [[objektai/autoriai/Lukašas Golembiovskis]]

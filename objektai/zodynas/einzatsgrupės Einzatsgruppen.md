@@ -22,7 +22,7 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
     - c-001
 
 - t-002
-  teiginys: 'SD inspiruotuose pogromuose birželio 26 d. Vilijampolėje ir birželio 27 d. Kauno „Lietūkio“ garaže dalyvavo vietiniai talkininkai.'
+  teiginys: 'Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
     - t-001
 
 - c-002
+  santrauka: 'Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Specialiosios SD grupės (Tilžės gestapo būrys)
@@ -104,6 +105,7 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„kovos su judobolševizmu“]]
+- [[objektai/zodynas/akcijos]]
 - [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
 - [[objektai/ivykiai/Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.)]]
 - [[objektai/zodynas/valymo operacijos]]

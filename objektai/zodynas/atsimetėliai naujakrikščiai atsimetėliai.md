@@ -75,5 +75,3 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/asmenys/Henrikas iš Veidos]]
-- [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]

@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada Aleksandras šalia prašmatniose rogėse sėdin­ čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi mišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į Šv.'
+  teiginys: 'Aleksandras lydėjo rogėse sėdinčią Eleną į Vilnių, kur ji po graikų apeigų mišių buvo nuvesta į Šv. Stanislovo katedrą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandras lydėjo rogėse sėdinčią Eleną į Vilnių, kur ji po graikų apeigų mišių buvo nuvesta į Šv. Stanislovo katedrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ją sutiko pats Aleksandras per pusę mylios nuo

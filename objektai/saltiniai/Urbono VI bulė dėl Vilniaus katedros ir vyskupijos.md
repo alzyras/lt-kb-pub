@@ -33,13 +33,14 @@ Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigian
     - c-002
 
 - t-002
-  teiginys: 'Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą.'
+  teiginys: '1389 m. pabaigoje Poznanės vyskupas Dobrogostas Vilniuje paskelbė popiežiaus Urbono VI bulę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1389 m. pabaigoje Poznanės vyskupas Dobrogostas Vilniuje paskelbė popiežiaus Urbono VI bulę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rogėse pasislėpusiems žmonėms pavyko patekti į

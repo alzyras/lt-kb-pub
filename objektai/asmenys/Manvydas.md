@@ -28,12 +28,12 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 ## Teiginiai
 
 - t-001
-  teiginys: 'O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.'
+  teiginys: 'Manvydo rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės upės.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].'
+  teiginys: '1396 m. Vilniuje Manvydas minėtas kaip Vilniaus vaivada tarp dokumento liudytojų.'
   pagrindžia:
     - c-001
 
@@ -55,6 +55,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1396 m. Vilniuje Manvydas minėtas kaip Vilniaus vaivada tarp dokumento liudytojų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Actum et datum in Wilno, ipšo die pu­
@@ -91,6 +92,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-002
 
 - c-002
+  santrauka: 'Manvydo rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės upės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš žalio slėnio gilumos, ant paskutiniojo iš kal­

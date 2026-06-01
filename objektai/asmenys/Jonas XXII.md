@@ -41,11 +41,6 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
     - c-002
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo.'
-  pagrindžia:
-    - c-003
-
-- t-004
   teiginys: 'Dusburgietis teigia, kad apie popiežių Joną XXII ir išrinktus [karalius] 1316 viešpaties metais valdė Jonas XXII, popiežius, ir šie du per nesantarvę išrinkti karaliai.'
   pagrindžia:
     - c-004
@@ -94,7 +89,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
     - t-002
 
 - c-003
-  santrauka: 'Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo.'
+  santrauka: 'Popiežius Jonas XXII 1324 m. pasiuntė į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
@@ -116,8 +111,6 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-003
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad apie popiežių Joną XXII ir išrinktus [karalius] 1316 viešpaties metais valdė Jonas XXII, popiežius, ir šie du per nesantarvę išrinkti karaliai.'
@@ -135,7 +128,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

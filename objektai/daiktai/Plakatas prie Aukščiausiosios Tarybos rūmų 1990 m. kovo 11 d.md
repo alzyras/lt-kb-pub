@@ -96,4 +96,3 @@ Nenurodyta
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.)]]

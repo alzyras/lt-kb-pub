@@ -28,7 +28,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv.'
+  teiginys: 'Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII

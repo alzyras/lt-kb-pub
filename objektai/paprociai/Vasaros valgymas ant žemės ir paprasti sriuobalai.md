@@ -31,28 +31,13 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vaišėms buvo tiekiama juka, šiupinys, skilandis, lašiniai, dešros ir skobai, o grybus valgė slėgtus, džiovintus arba rūgščiai virtus.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Vasarą visi valgė ant žemės, prisikloję dembliais ar meškenomis.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Valgė dar pupas, žirnius, riaušius^361 , vėdarus, košę ir šautą^362 , lygia dalia diduomenė, kaip jei kiti ūkininkai, nesgi diduomenė toje gadynėj vadinos vyresnieji, kuriuos patys sau pakėlė, protu, išminčia, nuomone ir narsybe kitus vyrus pranokiančius. Tarp skaninių ir vaišės valgių buvo juka^363 , šiupinys, skilandis, lašiniai, dešros, skobai^364 , – šiandien dar tariama yra: „Nėr mėsos per kiaulieną“, – kuriuos tiekdami svečiams, jei mažumui, kepė ant iešmo ar ant anglių, jei daugiui, beje, svodboms, arba kozoms^365 , tad, kaip viršiau minavojau, spirgino liepos geldose ubladžių kakaliuose. Grybus taip pat valgė slėgtus ir džiovintus, užvis rūgštai virtus. Tokiu būdu misdami, visi didžiai ilgo amžiaus prilaukė^366 , kaipogi senieji šimtą, pusantro šimto metų sau skaitė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Valgė visi vasarą ant žemės pablaka ar išsitiesę, kaip šiandien dar tebdaro šienuodamies, ant
@@ -66,7 +51,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

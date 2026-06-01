@@ -39,7 +39,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Zigmantas II (Senasis), 1506—1548 m. d. Lietuvos kunigaikštis ir Lenkų karalius (taip jis atvaizduotas Krokuvos katedroje esančiam antkapy).'
+  teiginys: 'Krokuvos katedroje esančiame Zigmanto II antkapyje Zigmantas II Senasis pavaizduotas kaip Lietuvos didysis kunigaikštis ir Lenkijos karalius.'
   pagrindžia:
     - c-001
 
@@ -51,6 +51,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krokuvos katedroje esančiame Zigmanto II antkapyje Zigmantas II Senasis pavaizduotas kaip Lietuvos didysis kunigaikštis ir Lenkijos karalius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Zigmantas II (Senasis),
@@ -79,4 +80,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]

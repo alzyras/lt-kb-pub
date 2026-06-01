@@ -18,13 +18,14 @@ Po mūšio Kitą dieną po kautynių Mykolas Radvila Rudasis laiške savo pusbro
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kitą dieną po kautynių Mykolas Radvila Rudasis Radvilai Juodajam rašė, kad priešą sumušė ir persekiojo 5 mylias.'
+  teiginys: 'Posakiu „visur guli nukautas greta nukauto“ Mykolas Radvila Rudasis apibūdino po kautynių persekioto priešo žūtis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posakiu „visur guli nukautas greta nukauto“ Mykolas Radvila Rudasis apibūdino po kautynių persekioto priešo žūtis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po mūšio

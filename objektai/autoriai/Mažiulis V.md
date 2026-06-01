@@ -20,13 +20,14 @@ Dusburgietis teigia, kad lietuvių kalba težinojusi tokius Kuršių nerijos pav
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad lietuvių kalba težinojusi tokius Kuršių nerijos pavadinimus: Kopos (Kopai), Kalnai, Pajūriai (Pajūrės), Randavos (Mažiulis V., Dėl Neringos..., p. 301—315).'
+  teiginys: 'V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kuršių  nerijos vardą pasidarė Ordino  raštininkai pagal Kuršo vyskupystės

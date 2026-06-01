@@ -26,27 +26,11 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
 - t-001
   teiginys: 'Tėvūnija, arba pavietė, buvo maža Lietuvos ūkės apygarda.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: '`Pagastas` ir `dešimtinė` žymi mažesnius tos pačios sistemos vienetus.'
-  pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tos tėvūnijos dalijos į pagastus^1060 , kurių vyresniaisiais buvo vaitai; tie pagastai dalijos į dešimtines, jų vyresnieji vadinos pristovais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Visa Lietuvos ūkė buvo paskaidyta į mažas apygardas, tėvūnijomis, arba pavietėmis^1057 , vadinamas, nuo vardo vyresniojo, tėvūnu vadinamo, gudiškai Storasta^1058 , ar rasi nuo žodžio vieta, į kurią liuobėjo vyresnieji tos apygardos susirinkę sūdyti^1059 arba kitus ūkės reikalus atlikti: todėl vadinos paviete, gudiškai pavietu.
@@ -55,7 +39,6 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
   statusas: verified
   pagrindžia:
     - t-001
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

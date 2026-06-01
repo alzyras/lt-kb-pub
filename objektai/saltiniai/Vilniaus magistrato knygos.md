@@ -26,13 +26,14 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­ niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­ kai, taip pat.'
+  teiginys: 'Vilniaus magistrato knygose buvo išrašas apie 1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegiją rinkti muitą ant tilto per Viliją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus magistrato knygose buvo išrašas apie 1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegiją rinkti muitą ant tilto per Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota Vilniuje, liepos dvidešimt šeštąją, tūkstantis penki

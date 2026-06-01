@@ -27,13 +27,14 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) / Parengė J.'
+  teiginys: 'Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /

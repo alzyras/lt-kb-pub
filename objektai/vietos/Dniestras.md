@@ -25,7 +25,7 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
 ## Teiginiai
 
 - t-001
-  teiginys: '79 Kijevo kunigaikštystė ir Podolė, anais laikais nusidriekusi iki pat Dniepro ir Dniestro žiočių, priklau­ sė Lietuvai; Kafos miestas prie Juo­ dosios jūros buvo svarbiausias Lie­ tuvos prekybinis uostas, jungęs su Rytais, iš kur prekės būdavo gabe­ namos į.'
+  teiginys: 'Kijevo kunigaikštystė ir Podolė anuomet nusidriekė iki Dniepro ir Dniestro žiočių ir priklausė Lietuvai.'
   pagrindžia:
     - c-001
 
@@ -37,6 +37,7 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kijevo kunigaikštystė ir Podolė anuomet nusidriekė iki Dniepro ir Dniestro žiočių ir priklausė Lietuvai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     27.

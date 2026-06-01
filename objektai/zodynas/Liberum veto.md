@@ -49,16 +49,11 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Konopczyński, Liberum veto (1918); O.'
-  pagrindžia:
-    - c-003
-
-- t-002
   teiginys: 'Tatai vadinosi liberum veto, t.'
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Kubala, Wojna Moskiewska (1910); — Wojna Szwecka (1913); — Pierwsze liberum veto (Szkice hist.'
   pagrindžia:
     - c-002
@@ -80,7 +75,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -92,18 +87,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1—2); W. Konopczyński, Liberum veto (1918); O. Balzer, Z zagadnień
-    ustrojowych Polski (1915); St.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -121,7 +105,6 @@ Nenurodyta
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Unitai]]
 - [[objektai/grupes/Unitų bažnyčia unitai]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/paprociai/Aukso laisvės ideologija]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/paprociai/Konfederaciniai seimai kaip balsų daugumos tvarka]]

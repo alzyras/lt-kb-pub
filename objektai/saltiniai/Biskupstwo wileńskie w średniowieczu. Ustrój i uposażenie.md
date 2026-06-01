@@ -23,13 +23,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: ': Bis­ kupstwo wileńskie w średniowieczu.'
+  teiginys: 'J. Ochmańskio „Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie“ išleista Poznanėje 1972 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Ochmańskio „Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie“ išleista Poznanėje 1972 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1964, 122-170 p. — Ochmański, J. : _Bis­

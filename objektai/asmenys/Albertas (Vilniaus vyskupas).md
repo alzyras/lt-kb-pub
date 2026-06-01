@@ -25,7 +25,7 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
     - c-001
 
 - t-002
-  teiginys: 'Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems vyskupui Albertui, Vilniaus kaštelionui ir Gardino seniūnui Aleksandrui Jurgėvičiui, Trakų vaivadai ir LDK didžiajam maršalkai Jonui iš Zabrežjės, LDK pataurininkiui ir Bełsko.'
+  teiginys: 'Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.'
   pagrindžia:
     - c-002
 
@@ -54,6 +54,7 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
     - t-001
 
 - c-002
+  santrauka: 'Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aktuota ir duota Gardine,

@@ -47,38 +47,24 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Kovo 23-iąją d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį, karo laivu į Klaipėdą atplaukė A.'
+  teiginys: '1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Lietuvai suduotas ir didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
-  teiginys: 'Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 183 deleguotas.'
+  teiginys: '1939 m. kovo 23 d. Adolfas Hitleris Klaipėdoje sakė kalbą vietos vokiečiams iš teatro balkono.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau pokyčius vyriausybėje valdžia
-    ir opozicija suvokė skirtingai. Autoritarinės valdžios supratimu, bendras
-    darbas turėjo vykti ne partiniu principu, o kompetentingų personalijų ly-
-    giu. Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
-    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
-    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: '1939 m. kovo 23 d. Adolfas Hitleris Klaipėdoje sakė kalbą vietos vokiečiams iš teatro balkono.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau pokyčius vyriausybėje valdžia
@@ -96,8 +82,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O visa lietuvių
@@ -111,7 +98,8 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
+  santrauka: '1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į

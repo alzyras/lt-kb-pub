@@ -40,14 +40,14 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-003
 
 - t-005
-  teiginys: 'Pagalbos reikalas iš Lietu­ vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L.'
-  pagrindžia:
-    - c-009
-
-- t-006
-  teiginys: 'Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­ ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­ mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­ vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­ čionybę.'
+  teiginys: 'Zigmantui Liuksemburgiečiui tapus Romos imperatoriumi, Lenkijai dar labiau padidėjo Lietuvos pagalbos poreikis, nes jis buvo sąjungoje su Ordinu.'
   pagrindžia:
     - c-008
+
+- t-006
+  teiginys: 'Lucke Zigmantas Liuksemburgietis pasiūlė Jogailai karūnuoti suvažiavimo šeimininką Vytautą.'
+  pagrindžia:
+    - c-007
 
 - t-007
   teiginys: 'Zigmantas dažnai klausinėja Vytautą apie karūnacijos terminą ir skatina jį negaišt.'
@@ -60,14 +60,14 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-007
 
 - t-009
-  teiginys: 'Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­ mene nusiuntė Zigmantą Kaributą padėti husitams kovose su ciesorium Zigmantu.'
+  teiginys: 'Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.'
   pagrindžia:
     - c-005
 
 - t-010
-  teiginys: 'Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­ tus.'
+  teiginys: 'Zigmantas Liuksemburgietis pabijojo, kad Vytautas neįsitvirtintų Čekijoje ir jos neperimtų.'
   pagrindžia:
-    - c-010
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -139,6 +139,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - t-007
 
 - c-005
+  santrauka: 'Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet
@@ -189,26 +190,10 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   statusas: verified
   pagrindžia:
     - t-008
-
-- c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Atsitiko taip.
-    Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­
-    ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­
-    mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­
-    vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­
-    čionybę, bet ir visai Europai, sulaikydamas totorių užplūdimą
-    ir iškeldamas bažnyčių unijos problemą. Jogaila, išgirdęs, kad
-    Vytautas apie tą sumanymą nieko nežino, pasiuntė į jį patį Zig­
-    mantą apie tai pasikalbėti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
 
-- c-009
+- c-008
+  santrauka: 'Zigmantui Liuksemburgiečiui tapus Romos imperatoriumi, Lenkijai dar labiau padidėjo Lietuvos pagalbos poreikis, nes jis buvo sąjungoje su Ordinu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kaip tik tuo laiku
@@ -225,8 +210,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   pagrindžia:
     - t-005
 
-- c-010
-  santrauka: 'Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­ tus.'
+- c-009
+  santrauka: 'Zigmantas Liuksemburgietis pabijojo, kad Vytautas neįsitvirtintų Čekijoje ir jos neperimtų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
@@ -251,7 +236,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/unija]]

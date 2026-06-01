@@ -27,25 +27,10 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šiame šaltinyje ištikimybė tikėjimui ir broliams gali pakeisti naujakrikščio socialinį statusą.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Naujakrikščiai šiame šaltinyje vaizduojami kaip atskiras Ordino tvarkomas statusas.'
   pagrindžia:
     - c-002
     - c-001
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias malones. Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Šiame šaltinyje aukštos kilmės ir nekilmingų naujakrikščių padėtis aprašoma skirtingai.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -67,7 +52,6 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
     - t-001
 
 - c-002
@@ -86,26 +70,7 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-    - t-004
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias
-    malones. Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei
-    libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis
-    turi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę papročiai; vis
-    dėlto, paisydami jų nuopelnų ar nusižengimų, broliai gali ir kitaip elgtis, pavyzdžiui, negi
-    nekilmingasis, atskalūnybės metais ar kitokių tikėjimui iškilusių negandų atvejais likęs
-    ištikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų
-    pakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad
-    taip.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

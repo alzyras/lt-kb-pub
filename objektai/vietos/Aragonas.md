@@ -26,13 +26,14 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­ žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio mas- 50 Petrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi­ minės.'
+  teiginys: 'Aragone esančiame Alkaniso mieste gimė teisininkas Petrus Maureus Royzius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aragone esančiame Alkaniso mieste gimė teisininkas Petrus Maureus Royzius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Onos bažnyčią,

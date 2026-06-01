@@ -20,7 +20,7 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 ## Teiginiai
 
 - t-001
-  teiginys: 'Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­ manančių teisę vyrų, didelio būrio savo riterių ir buvo po­ piežiaus maloniai bei pagarbiai priimtasy.'
+  teiginys: 'Karolis Tryrietis atvyko į Avinjoną su teisininkais ir riteriais, o popiežius jį priėmė maloniai ir pagarbiai.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karolis Tryrietis atvyko į Avinjoną su teisininkais ir riteriais, o popiežius jį priėmė maloniai ir pagarbiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     78

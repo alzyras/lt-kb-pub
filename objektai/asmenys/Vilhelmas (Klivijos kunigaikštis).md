@@ -23,7 +23,7 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
     - c-001
 
 - t-002
-  teiginys: 'Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visuotinam baž­ nyčios sinode Konstancijoj^2 ).'
+  teiginys: 'Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto reikšmę Europai.'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
     - t-001
 
 - c-002
-  santrauka: 'Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visuotinam baž­ nyčios sinode Konstancijoj^2 ).'
+  santrauka: 'Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto reikšmę Europai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Romos kurija labai teisingai manė, kad tik abu iškilę lie­
@@ -66,5 +66,3 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Husitai]]
-- [[objektai/grupes/Romos kurija]]
-- [[objektai/grupes/Turkai]]

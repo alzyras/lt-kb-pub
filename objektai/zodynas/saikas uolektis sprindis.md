@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Į plotį nuo prieglaudos bažnyčios sklypo į viršų to pa­ ties sklypo per 20 arba 7 uolektis.'
+  teiginys: 'Prieglaudos sklypo plotis nuo bažnyčios sklypo į viršų buvo nurodytas kaip 20 sprindžių arba 7 uolektys.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prieglaudos sklypo plotis nuo bažnyčios sklypo į viršų buvo nurodytas kaip 20 sprindžių arba 7 uolektys.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba
@@ -47,6 +48,5 @@ tags:
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
-- [[objektai/zodynas/uolektis]]
 - [[objektai/asmenys/Petras Puzdravičius]]
 - [[objektai/asmenys/Povilas Piestavičius]]

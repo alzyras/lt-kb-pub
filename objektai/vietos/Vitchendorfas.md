@@ -18,13 +18,14 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.'
+  teiginys: 'Vitchendorfas buvo kaimas Saksonijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vitchendorfas buvo kaimas Saksonijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viškonys

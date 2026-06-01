@@ -28,7 +28,7 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 ## Teiginiai
 
 - t-001
-  teiginys: '26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.'
+  teiginys: '1440 metų Kazimiero IV privilegija buvo duota Romos katalikų ir stačiatikių tikėjimo Vilniaus miestiečiams.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1440 metų Kazimiero IV privilegija buvo duota Romos katalikų ir stačiatikių tikėjimo Vilniaus miestiečiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi yra ir

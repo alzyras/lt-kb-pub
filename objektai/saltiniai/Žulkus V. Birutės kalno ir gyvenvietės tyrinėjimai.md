@@ -25,13 +25,14 @@ Dusburgietis teigia, kad 16— Žulkus V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 16— Žulkus V.'
+  teiginys: 'V. Žulkaus „Birutės kalno ir gyvenvietės tyrinėjimai“ paskelbta leidinyje „Archeologiniai tyrinėjimai Lietuvoje 1982 ir 1983 metais“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Žulkaus „Birutės kalno ir gyvenvietės tyrinėjimai“ paskelbta leidinyje „Archeologiniai tyrinėjimai Lietuvoje 1982 ir 1983 metais“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     16—

@@ -30,7 +30,7 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 ## Teiginiai
 
 - t-001
-  teiginys: 'Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ekonomiškai klestinti vokiečių ordino valstybė, kurios valdos tęsėsi nuo Neumarko iki Narvos (išskyrus Žemaičių kylį), jau buvo praleidusi laiką lietuviams įveikti.'
+  teiginys: 'Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.'
   pagrindžia:
     - c-002
 
@@ -64,6 +64,7 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
     - t-003
 
 - c-002
+  santrauka: 'Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pats didysis

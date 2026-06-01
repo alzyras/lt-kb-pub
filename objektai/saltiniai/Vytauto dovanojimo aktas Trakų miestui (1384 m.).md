@@ -26,13 +26,14 @@ Vis dėlto pirmieji nusveria antruo­ sius: juk visos Vytauto dorybės tik jo pa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vis dėlto pirmieji nusveria antruo­ sius: juk visos Vytauto dorybės tik jo paties, gyvenusio 85 Tiesa, šimtmečiu vėliau karalienė Bona pagerbė Vytauto atminimą antkapiniu marmuro paminklu di­ džiojo altoriaus dešinėje pusėje.'
+  teiginys: '1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudija, kad tuo metu Vytautas jau buvo krikščionis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudija, kad tuo metu Vytautas jau buvo krikščionis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Veiklus, santūrus, kilnus, my­

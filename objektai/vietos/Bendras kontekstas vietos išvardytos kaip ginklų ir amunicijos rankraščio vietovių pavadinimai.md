@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­ me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­.'
+  teiginys: 'Ginklų ir amunicijos rankraštyje vietovių pavadinimai buvo išdėstyti pagal planus, pradedant Vilniaus arsenalu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ginklų ir amunicijos rankraštyje vietovių pavadinimai buvo išdėstyti pagal planus, pradedant Vilniaus arsenalu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau

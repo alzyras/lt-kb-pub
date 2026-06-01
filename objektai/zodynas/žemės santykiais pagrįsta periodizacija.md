@@ -28,18 +28,19 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius santykius, bet į vykstantį agrarinių santykių keitimąsi pačioje žemdirbių tautoje, paliečiami ir stambieji žemių valdytojai (bajorai, didikai, bažnyčios-vienuolynai).'
+  teiginys: 'Žemės santykiais pagrįsta periodizacija Lietuvos istoriją skirsto pagal agrarinių santykių kaitą, o ne dinastinius ar tarpvalstybinius santykius.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: '; 6) nuo žemės reformos iki žemės nacio­ nalizacijos — 1940 m. Šitokis Lietuvos ūkininko santykių su žeme keitimasis per septynis su viršum amžius, leidžia sudaryti šešias įvairių laikų epochas.'
+  teiginys: 'Žemės santykiais pagrįsta periodizacija pagal Lietuvos ūkininko santykių su žeme kaitą išskiria šešias epochas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žemės santykiais pagrįsta periodizacija pagal Lietuvos ūkininko santykių su žeme kaitą išskiria šešias epochas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^36) ĮVADAS
@@ -60,6 +61,7 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
     - t-002
 
 - c-002
+  santrauka: 'Žemės santykiais pagrįsta periodizacija Lietuvos istoriją skirsto pagal agrarinių santykių kaitą, o ne dinastinius ar tarpvalstybinius santykius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šitokis Lietuvos ūkininko santykių su žeme keitimasis per

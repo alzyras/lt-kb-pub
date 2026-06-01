@@ -28,12 +28,12 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau kai ten išaiškėjo, kad, užuot aptarus turkų klausimą, imperatoriaus imamasi gudrių už­ mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinėjo.'
+  teiginys: 'Zigmantas po nesėkmingų svarstymų išsiuntė pas Vytautą pasiuntinius su karūna.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Jis net imperatorių Zig­ mantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­ niškai savo autoritetu didžiai prie to prisidėjo5.'
+  teiginys: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
   pagrindžia:
     - c-005
 
@@ -43,12 +43,12 @@ periodo_grupes:
     - c-001
 
 - t-004
-  teiginys: 'Imperatorius Zigmantas, įsibaiminęs dėl tokio aiš­ kaus Jogailos valstybės stiprėjimo, be to, svarbiausiu to meto politikos tikslu laikydamas visų krikščioniškųjų kraštų su­ vienijimą turkams atremti, nusprendė imtis bet ko, kad tik sukiršintų Jogailą su.'
+  teiginys: 'Imperatorius Zigmantas siekė sukiršinti Jogailą su Vytautu ir atskirti Lietuvą nuo Lenkijos.'
   pagrindžia:
     - c-002
 
 - t-005
-  teiginys: '2 Apie Lietuvos ir Žemaitijos tapatu­ mą ir apie tą jos dalijimą į aukštuti­ nę ir žemutinę sužinome iš kuo pa­ tikimiausio šaltinio, iš didžiojo kunigaikščio Vytauto 1420 metais Romos imperatoriui Zigmantui rašvto laiško: Terra Samaytarum, - pa- 14 ##.'
+  teiginys: '1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį.'
   pagrindžia:
     - c-003
 
@@ -101,6 +101,7 @@ periodo_grupes:
     - t-003
 
 - c-002
+  santrauka: 'Imperatorius Zigmantas siekė sukiršinti Jogailą su Vytautu ir atskirti Lietuvą nuo Lenkijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčią, Vladislovo Jogailos
@@ -126,6 +127,7 @@ periodo_grupes:
     - t-004
 
 - c-003
+  santrauka: '1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tikrai
@@ -163,6 +165,7 @@ periodo_grupes:
     - t-005
 
 - c-004
+  santrauka: 'Zigmantas po nesėkmingų svarstymų išsiuntė pas Vytautą pasiuntinius su karūna.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kai ten išaiškėjo, kad, užuot
@@ -182,6 +185,7 @@ periodo_grupes:
     - t-001
 
 - c-005
+  santrauka: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kai ši jo nelaisvė gana ilgai užsi­
@@ -210,14 +214,123 @@ periodo_grupes:
 - [[objektai/grupes/Lenkai]]
 - [[objektai/daiktai/Medžioklių trobelės]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/asmenys/Vaclovas]]
 - [[objektai/grupes/Vidivarii]]
 - [[objektai/zodynas/Vidivarijai]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/imperatorius Zigmantas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Lenkijos bajorai]]
+- [[objektai/ivykiai/1418 m. derybos su Ordinu]]
+- [[objektai/ivykiai/1432 m. perversmas ir Zigmanto Kęstutaičio iškėlimas]]
+- [[objektai/grupes/Atskiri Lietuvos seimai]]
+- [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
+- [[objektai/paprociai/Bajorijos teisių reikalavimas ir pareigų mažinimas]]
+- [[objektai/paprociai/Bajorų valstiečių baudžiavos įtvirtinimas]]
+- [[objektai/asmenys/Barbora Cyleikaitė]]
+- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
+- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/posakiai/Jei karalius miręs, — pareikšti užuojautą]]
+- [[objektai/grupes/Jogailos palikuonys]]
+- [[objektai/asmenys/Jonas II]]
+- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/posakiai/Kai aš atvykau pas didįjį kunigaikštį]]
+- [[objektai/paprociai/Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo]]
+- [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]
+- [[objektai/ivykiai/Karas dėl Livonijos]]
+- [[objektai/ivykiai/Karas su Maskva (1609–1613 m.)]]
+- [[objektai/asmenys/Kazimieras IV]]
+- [[objektai/ivykiai/Kazimiero išrinkimas Lenkų karalium]]
+- [[objektai/grupes/Krimo totoriai]]
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
+- [[objektai/grupes/Krokuvos profesoriai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Livonijos valstybė]]
+- [[objektai/ivykiai/Lucko suvažiavimas]]
+- [[objektai/autoriai/Machiavellio]]
+- [[objektai/zodynas/Machiavellio mokslas]]
+- [[objektai/asmenys/Marija]]
+- [[objektai/asmenys/Marija (Liudviko duktė)]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/grupes/Mozūrai (XV amžius)]]
+- [[objektai/posakiai/Mūsų kraštą pavergti|Mūsų kraštą pavergti (kraštas)]]
+- [[objektai/posakiai/Ne bičiulystės, o teisybės]]
+- [[objektai/grupes/Normanai]]
+- [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]
+- [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]
+- [[objektai/asmenys/Povilas Algimantas]]
+- [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
+- [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]
+- [[objektai/grupes/Romanovų dinastija]]
+- [[objektai/zodynas/Romos karalius]]
+- [[objektai/asmenys/Russdorfas]]
+- [[objektai/daiktai/Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai]]
+- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]
+- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
+- [[objektai/asmenys/Vaitiekus Jastrzembiec]]
+- [[objektai/grupes/Valakai]]
+- [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
+- [[objektai/zodynas/Variagai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Vengrijos Zigmantas]]
+- [[objektai/grupes/Vienos universiteto profesoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
+- [[objektai/asmenys/Zigmantas I]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/asmenys/Zigmantas Sierakauskas]]
+- [[objektai/asmenys/Zigmantas Vaza]]
+- [[objektai/daiktai/Zigmanto Augusto antkapis]]
+- [[objektai/daiktai/Zigmanto Augusto pinigai]]
+- [[objektai/daiktai/Zigmanto II antkapis]]
+- [[objektai/posakiai/apsuptą nusivaryti iki pat Maskvos kaip galvijus]]
+- [[objektai/zodynas/atskiri seimai]]
+- [[objektai/zodynas/aukso laisvė]]
+- [[objektai/posakiai/aukso laisvė tikroji laisvė]]
+- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/dominija]]
+- [[objektai/posakiai/in odium Sigismundi]]
+- [[objektai/zodynas/investitūra]]
+- [[objektai/zodynas/karūnacija karūnuotis]]
+- [[objektai/zodynas/konsiliumas]]
+- [[objektai/zodynas/lėnininkai]]
+- [[objektai/posakiai/ne tik tavo galvą, bet ir tavo tėvynę Lietuvą]]
+- [[objektai/zodynas/pacta conventa]]
+- [[objektai/zodynas/paliaubos]]
+- [[objektai/zodynas/pastočiai]]
+- [[objektai/zodynas/pereinamasis laikotarpis]]
+- [[objektai/zodynas/ponų įsigalėjimo laikotarpis]]
+- [[objektai/zodynas/protektorium]]
+- [[objektai/zodynas/regencija]]
+- [[objektai/zodynas/Veldėmė|veldėmė]]
+- [[objektai/daiktai/Šilkinė skara]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
+- [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
+- [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
+- [[objektai/posakiai/„niekieno neatsiklausdamas“]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
+- [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]
+- [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
+- [[objektai/ivykiai/Zigmanto Vazos elekcija (1587 m.)]]
+- [[objektai/zodynas/civilinis aktas]]
+- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
+- [[objektai/grupes/Lenkijos bajorai]]

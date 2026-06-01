@@ -32,7 +32,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
+  teiginys: 'Ragainės piliai ginti Meinhardas paliko 40 brolių ir šimtą rinktinių ginklanešių.'
   pagrindžia:
     - c-003
 
@@ -86,8 +86,10 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   statusas: verified
   pagrindžia:
     - t-003
+    - t-005
 
 - c-003
+  santrauka: 'Ragainės piliai ginti Meinhardas paliko 40 brolių ir šimtą rinktinių ginklanešių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     235 (228). Apie Ragainės ir Skalvių pilių pastatymą
@@ -125,22 +127,6 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-005
-  santrauka: 'Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    200 (195). Apie sūduvių pabėgimą
-
-      Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
-    palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
-    Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
-    sužeidė, o kiti gėdingai pabėgo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -183,7 +169,6 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - [[objektai/asmenys/Henrikas iš Ceico]]
 - [[objektai/asmenys/Henrikas iš Dobino]]
 - [[objektai/asmenys/Henrikas iš Vederės]]
-- [[objektai/asmenys/Henrikas iš Veidos]]
 - [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/asmenys/Hermanas (Ordino magistras)]]
 - [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]]
@@ -219,19 +204,16 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - [[objektai/asmenys/Pobravas]]
 - [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis]]
 - [[objektai/asmenys/Poponas iš Osternos]]
-- [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
 - [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]
 - [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]
 - [[objektai/asmenys/Samboras]]
 - [[objektai/asmenys/Sarkis]]
 - [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]
-- [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]
 - [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis]]
 - [[objektai/asmenys/Skomantas]]
 - [[objektai/ivykiai/Skomanto naktinis puolimas prie Birgelavos]]
 - [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]
 - [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.)]]
-- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Ulrichas iš Magdeburgo]]
 - [[objektai/asmenys/Valteris Goldinas]]
@@ -241,8 +223,6 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/grinda]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo]]
 - [[objektai/zodynas/papilys]]
 - [[objektai/zodynas/pilėnas pilėnai]]

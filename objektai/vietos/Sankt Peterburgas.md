@@ -33,21 +33,6 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
     - c-001
 
 - t-002
-  teiginys: 'S.-Peterburg, 1913.'
-  pagrindžia:
-    - c-003
-
-- t-003
-  teiginys: 'S.-Peterburg, 1907.'
-  pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: 'S.-Peterburg, 1885.'
-  pagrindžia:
-    - c-004
-
-- t-005
   teiginys: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
   pagrindžia:
     - c-002
@@ -86,38 +71,4 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Gruš. = Gruśewskij, M., Prof., Illiustrovannaja Istorija Ukrainy.
-    S.-Peterburg, 1913.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Barb. = Barbašev, A., Vitovt i jego politika do Griunvaldens­
-    koj bitwy. I t. S.-Peterburg, 1885.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pol. sobr. = Polnoje sobranije Russkich letopisej. Izdanije
-    Imperatorskoj Archeologičeskoj Komis. Tom XVII.
-    S.-Peterburg, 1907.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

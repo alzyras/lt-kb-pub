@@ -26,23 +26,24 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Netrukus po to Ordino maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­ tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė aplinkines žemes.'
+  teiginys: 'Ordino maršalo vadovaujama kryžiuočių kariauna susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tas šaunus karys, išvaręs iš tvir­ tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­ čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­ liams.'
+  teiginys: 'Moskoževskis iš tvirtovės išvarė žmones, kurie galėjo slapčia linkti į Vytauto pusę.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir maršalo Konrado Valen­ rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­ kų pilį.'
+  teiginys: '1383 m. Vytautas ir jo šalininkai su kryžiuočių kariauna rugsėjo 11 d. apsupo Trakų pilį.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Moskoževskis iš tvirtovės išvarė žmones, kurie galėjo slapčia linkti į Vytauto pusę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuolati­
@@ -65,6 +66,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - t-002
 
 - c-002
+  santrauka: 'Ordino maršalo vadovaujama kryžiuočių kariauna susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tų karingų vienuolių viršininkas, greitas
@@ -88,6 +90,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - t-001
 
 - c-003
+  santrauka: '1383 m. Vytautas ir jo šalininkai su kryžiuočių kariauna rugsėjo 11 d. apsupo Trakų pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kiti, 1383 metai, atnešė Vilniui dar
@@ -114,8 +117,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Bombardos]]
 - [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
 - [[objektai/ivykiai/Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

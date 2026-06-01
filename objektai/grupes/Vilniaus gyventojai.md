@@ -30,17 +30,17 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prie to dar prisidėjo pareiga, nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai steigti ten, kur anksčiau stovėjusios pagonių šventyklos arba augusios giraitės, medžiai, buvęs akmuo ar­ ba šiaip vietovė kokiam nors dievai­ čiui pašvęsta.'
+  teiginys: 'Vilniaus gyventojams nuo seno galiojo pareiga saugoti Vilniaus pilį.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­ jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­ tolių už 60 000 sidabro luitų.'
+  teiginys: 'Vilniaus gyventojai teigė, kad gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų.'
   pagrindžia:
     - c-007
 
 - t-003
-  teiginys: 'Didelė dalis gyventojų žuvo per kautynes prie Žemuti­ nės pilies, o kiti, netekę prieglobsčio ir mieste, ir aplinkinėse pilyse, kryžiuočių nuožmiai nudriokotose, iš­ sibėgiojo po visą kraštą36.'
+  teiginys: 'Per kautynes prie Žemutinės pilies žuvo didelė dalis Vilniaus gyventojų, o kiti išsibėgiojo po kraštą.'
   pagrindžia:
     - c-003
 
@@ -50,12 +50,12 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - c-002
 
 - t-005
-  teiginys: 'Bažnyčios pajamos priklausė: dalis arkipresbiteriui, da­ lis Vilniaus gyventojams, Šv.'
+  teiginys: 'Dalis Šv. Jono bažnyčios pajamų priklausė Vilniaus gyventojams, priklausiusiems Šv. Jono brolijai.'
   pagrindžia:
     - c-004
 
 - t-006
-  teiginys: 'Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390 metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­ jos parvyko į.'
+  teiginys: '1390 metų pabaigoje Jogailos atgabentos maisto ir drabužių atsargos pravertė turtą praradusiems Vilniaus gyventojams.'
   pagrindžia:
     - c-006
 
@@ -65,13 +65,14 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - c-008
 
 - t-008
-  teiginys: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
+  teiginys: 'Vilniaus gyventojai iš priemiesčių ir nuošalių namų slėpdavosi įtvirtintame miesto centre prie Žemutinės pilies.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus gyventojams nuo seno galiojo pareiga saugoti Vilniaus pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie to dar prisidėjo pareiga,
@@ -161,6 +162,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - t-004
 
 - c-003
+  santrauka: 'Per kautynes prie Žemutinės pilies žuvo didelė dalis Vilniaus gyventojų, o kiti išsibėgiojo po kraštą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta nelaiminga ap­
@@ -182,6 +184,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - t-003
 
 - c-004
+  santrauka: 'Dalis Šv. Jono bažnyčios pajamų priklausė Vilniaus gyventojams, priklausiusiems Šv. Jono brolijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams
@@ -201,6 +204,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - t-005
 
 - c-005
+  santrauka: 'Vilniaus gyventojai iš priemiesčių ir nuošalių namų slėpdavosi įtvirtintame miesto centre prie Žemutinės pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aukštutinė pilis, aukštų mūrų bei
@@ -218,6 +222,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - t-008
 
 - c-006
+  santrauka: '1390 metų pabaigoje Jogailos atgabentos maisto ir drabužių atsargos pravertė turtą praradusiems Vilniaus gyventojams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390
@@ -237,6 +242,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - t-006
 
 - c-007
+  santrauka: 'Vilniaus gyventojai teigė, kad gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gertrūdą.
@@ -275,7 +281,6 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Drabužiai]]
-- [[objektai/autoriai/Hlebovičius]]
 - [[objektai/autoriai/Ignacas Onacevičius]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]

@@ -52,7 +52,7 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Ta kryptimi buvo nueita dar toliau: rytojaus die­ ną po susitarimo Ordinas išdavė atskirą dokumentą, kuriuo pasižadėjo Vytautui mirus globoti jo pačią Oną ir ginti jos teises į jos dalį^6 ).'
+  teiginys: 'Po Kauno susitarimo Ordinas atskiru dokumentu pažadėjo Vytautui mirus globoti Oną ir ginti jos teises į jos dalį.'
   pagrindžia:
     - c-003
 
@@ -93,7 +93,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: 'Ta kryptimi buvo nueita dar toliau: rytojaus die­ ną po susitarimo Ordinas išdavė atskirą dokumentą, kuriuo pasižadėjo Vytautui mirus globoti jo pačią Oną ir ginti jos teises į jos dalį^6 ).'
+  santrauka: 'Po Kauno susitarimo Ordinas atskiru dokumentu pažadėjo Vytautui mirus globoti Oną ir ginti jos teises į jos dalį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet kartu tas

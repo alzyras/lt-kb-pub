@@ -18,7 +18,7 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­ vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­ vių Krivaičio pagrindinė buveinė).'
+  teiginys: 'Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine.'
   pagrindžia:
     - c-003
 
@@ -73,6 +73,7 @@ tags:
     - t-003
 
 - c-003
+  santrauka: 'Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vaikių krašte buvo šventoji giria, ku­

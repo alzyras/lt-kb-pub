@@ -4,12 +4,11 @@ title: Lietuvos istorijos žinių bazė
 
 # Lietuvos istorijos žinių bazė
 
-Ši svetainė kaupia struktūruotas pastabas iš lietuviškų istorijos šaltinių: žmones, įvykius, vietas, grupes, daiktus, papročius, posakius, žodyno įrašus ir tyrimus.
+Ši svetainė kaupia struktūruotas pastabas iš lietuviškų istorijos šaltinių: žmones, įvykius, vietas, grupes, daiktus, papročius, posakius ir žodyno įrašus.
 
 ## Pagrindinės dėžės
 
 - [Objektai](https://lietuvosistorija.eu/objektai/)
-- [Tyrimai](https://lietuvosistorija.eu/tyrimai/)
 - [Paveikslėliai](https://lietuvosistorija.eu/paveiksleliai/)
 
 ## Objektų kategorijos

@@ -24,13 +24,14 @@ Dusburgietis teigia, kad pakarklis P.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pakarklis P.'
+  teiginys: 'P. Pakarklio „Mažoji Lietuva vokiečių mokslo šviesoje“ išleistas 1935 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P. Pakarklio „Mažoji Lietuva vokiečių mokslo šviesoje“ išleistas 1935 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935.

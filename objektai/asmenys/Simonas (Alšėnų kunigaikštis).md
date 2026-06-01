@@ -28,18 +28,19 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų.'
+  teiginys: 'Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.'
+  teiginys: '1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
@@ -93,6 +94,7 @@ periodo_grupes:
     - t-001
 
 - c-002
+  santrauka: '1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jur­
@@ -125,3 +127,4 @@ periodo_grupes:
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/žygis]]

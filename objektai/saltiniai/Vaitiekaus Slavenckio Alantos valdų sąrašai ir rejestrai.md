@@ -20,13 +20,19 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams paveldėtojams, giminaičiams ir tiek vy­ riškos, tiek ir moteriškos lyties artimiesiems tuos paminė­ tus Alantos dvarą ir jam priklausančius Kristupiškių ir Kirdeikiškių dvarelius bei.'
+  teiginys: 'Vaitiekus Slavenckis aprašė Alantos valdas, jų priklausinius ir derlius, o sąrašus su antspaudu ir parašu atidavė iždui.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Valdovas davė Gabrieliui Bekešui Vaitiekaus Slavenckio sudarytų Alantos valdų rejestrų nuorašą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vaitiekus Slavenckis aprašė Alantos valdas, jų priklausinius ir derlius, o sąrašus su antspaudu ir parašu atidavė iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O tuo laiku verti geradarybės ir naudingi tar­
@@ -76,7 +82,7 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
     - t-001
 
 - c-002
-  santrauka: 'Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams paveldėtojams, giminaičiams ir tiek vy­ riškos, tiek ir moteriškos lyties artimiesiems tuos paminė­ tus Alantos dvarą ir jam priklausančius Kristupiškių ir Kirdeikiškių dvarelius bei.'
+  santrauka: 'Valdovas davė Gabrieliui Bekešui Vaitiekaus Slavenckio sudarytų Alantos valdų rejestrų nuorašą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir

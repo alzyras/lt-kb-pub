@@ -70,4 +70,5 @@ Nenurodyta
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/vyskupo teisėjas]]
 - [[objektai/daiktai/Šarvai]]
+- [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]

@@ -28,13 +28,14 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo.'
+  teiginys: 'Gedimino laiške šiaurės Vokietijos miestams ir Gotlando gyventojams nurodyta, kad į Vilnių atvykę kolonistai galės naudotis Rygos civiline teise.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino laiške šiaurės Vokietijos miestams ir Gotlando gyventojams nurodyta, kad į Vilnių atvykę kolonistai galės naudotis Rygos civiline teise.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­

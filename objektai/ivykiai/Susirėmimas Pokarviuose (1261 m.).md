@@ -47,18 +47,14 @@ Nenurodyta
     - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad vis dėlto, kai grįždamas brovėsi per juos, buvo nukautas, o tarp jų prasidėjo atkakli kova, pareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų. Kadangi tokia buvo dievo valia, krito galop nukautas pats valdovas [..?] iš.'
-  pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė.'
+  teiginys: 'Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Susirėmime Pokarviuose žuvo Reiderio valdovas, daug jo karių ir brolių, kai kurie buvo paimti į nelaisvę, o likusieji pabėgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis
@@ -70,10 +66,9 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-002
 
 - c-002
+  santrauka: 'Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po šių skerdynių
@@ -88,7 +83,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -130,7 +125,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

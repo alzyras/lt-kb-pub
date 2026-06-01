@@ -68,7 +68,7 @@ Nenurodyta
     - c-005
 
 - t-004
-  teiginys: 'Kazimiero koplyčioje sienos nuo įėjimo, dažnai viešėdavęs per keturias mylias nuo Vilniaus nutolusioje Medininkų pi­ lyje, esančioje prie Ašmenos kelio.'
+  teiginys: 'Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus.'
   pagrindžia:
     - c-004
 
@@ -131,6 +131,7 @@ Nenurodyta
     - t-005
 
 - c-004
+  santrauka: 'Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prabėgus

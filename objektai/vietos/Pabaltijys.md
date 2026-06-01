@@ -28,7 +28,7 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rausiantis kastuvu rytų Pabaltijo žemėje, kuri ir čia yra už­ konservavusi daug senosios kultūros paminklų, galima pažvelgti nepalyginamai giliau į seniausią praeitį lietuvių protėvių ir jų arti­ miausių giminių latvių, prūsų ir sūduvių-jotvingių.'
+  teiginys: 'Rytų Pabaltijo žemėje išlikę senosios kultūros paminklai leidžia giliau pažinti lietuvių protėvių ir artimų baltų giminių praeitį.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rytų Pabaltijo žemėje išlikę senosios kultūros paminklai leidžia giliau pažinti lietuvių protėvių ir artimų baltų giminių praeitį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet klaidinga buvo manyti, kad apie lietuvių tautos

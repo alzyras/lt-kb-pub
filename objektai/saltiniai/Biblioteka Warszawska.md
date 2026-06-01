@@ -24,13 +24,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1841 m. jis tapo vienu iš enciklopedinio pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A.'
+  teiginys: '„Biblioteka Warszawska“ buvo enciklopedinio pobūdžio leidinys, kurio vienu steigėjų 1841 m. tapo M. Balinskis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Biblioteka Warszawska“ buvo enciklopedinio pobūdžio leidinys, kurio vienu steigėjų 1841 m. tapo M. Balinskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Neturėdamas pakankamai pragy­

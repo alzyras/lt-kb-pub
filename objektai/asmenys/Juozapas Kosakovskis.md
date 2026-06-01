@@ -73,7 +73,6 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/egzekucija]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Abiejų Tautų konfederacija]]

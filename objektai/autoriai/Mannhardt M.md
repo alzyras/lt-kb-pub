@@ -25,13 +25,14 @@ Dusburgietis teigia, kad mannhardt M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mannhardt M.'
+  teiginys: 'M. Mannhardtas parašė darbą „Letto-Preussische Götterlehre“, 1936 m. išleistą Rygoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Mannhardtas parašė darbą „Letto-Preussische Götterlehre“, 1936 m. išleistą Rygoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.

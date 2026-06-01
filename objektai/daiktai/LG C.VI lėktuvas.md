@@ -44,13 +44,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai fotografuoti prie lėktuvo LVG C.'
+  teiginys: '1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai fotografuoti prie LVG C.VI lėktuvo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai fotografuoti prie LVG C.VI lėktuvo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie

@@ -18,13 +18,14 @@ Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas), pastatyta tuo pat m
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas), pastatyta tuo pat metu, stovi už 2 mylių nuo Veliuonos že­ myn Nemuno tėkme ir dabar vadinama tiesiog pilimi.'
+  teiginys: 'Fridbergu vadinta kryžiuočių pilis stovėjo už 2 mylių nuo Veliuonos žemyn Nemuno tėkme.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Fridbergu vadinta kryžiuočių pilis stovėjo už 2 mylių nuo Veliuonos žemyn Nemuno tėkme.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabar pilis stovi be stogo, be langų ir vis labiau

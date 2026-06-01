@@ -47,11 +47,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: '## groups-anglai-002 - status: unused - claimrole: supportsexistingclaim - kategorija: grupe - kandidatas: Anglai - potencialusteiginys: Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvos / Žemaičių.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,46 +67,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    citata_originali: |
-        Ant galų galo, nebgalėdami nė nuo ko geležies gauti, nemintą metuose 1340 Kęstučiui, didžiajam Lietuvos kunigaikščiui, ūkę valdant, išleido
-        siuntinius^1432 į Anglijos žemę, kurie tenai su anglais padarė sandarą^1433 , kurioje sutarė, jog lietuviai,
-        kalnėnai ir žemaičiai, galės Anglijos žemėj prekioti ir gyventi, lygia dalia anglai galės Žemaičiuose ir
-        Kalne gyventi ir prekioti.
-
-    ## groups-anglai-002
-    - status: unused
-    - claim_role: supports_existing_claim
-    - kategorija: grupe
-    - kandidatas: Anglai
-    - potencialus_teiginys: Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvos / Žemaičių.
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 412491-412548; match: exact
-    - santrauka: Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvos / Žemaičių.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        Atentį metą anglai buvo įkūrę tenai prekės draugybą^1512.
-
-    ## groups-ausrenai-001
-    - status: unused
-    - claim_role: new_claim
-    - kategorija: grupe
-    - kandidatas: Aušrėnai
-    - potencialus_teiginys: Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/grupes/Aušrėnai]]
 - [[objektai/daiktai/Duona]]
-- [[objektai/grupes/Kalnėnai]]
 - [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]

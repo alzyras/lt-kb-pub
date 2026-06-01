@@ -25,13 +25,14 @@ Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame
 ## Teiginiai
 
 - t-001
-  teiginys: 'Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame pranešime (Notariats instrument), į kurį taip pat buvo įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­ rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­ ve, ir.'
+  teiginys: 'Notariats-Instrument dokumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Notariats-Instrument dokumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­

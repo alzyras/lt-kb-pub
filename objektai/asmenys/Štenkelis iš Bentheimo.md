@@ -18,13 +18,14 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį; maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu.'
+  teiginys: 'Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Broliai ir maldininkai nutarė, kad viena dalis jų kariuomenės

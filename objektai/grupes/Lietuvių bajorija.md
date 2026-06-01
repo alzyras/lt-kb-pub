@@ -33,10 +33,10 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
 - t-002
   teiginys: 'Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-003
-  teiginys: 'Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­ jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji dar įgijo naujų savybių.'
+  teiginys: 'Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų.'
   pagrindžia:
     - c-003
 
@@ -85,6 +85,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - t-005
 
 - c-003
+  santrauka: 'Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jų vietą
@@ -102,6 +103,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -119,25 +121,6 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jų vietą
-    užima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV
-    amž. ir ypatingai įsigalėti XVI—XVIII amž.
-    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
-    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
-    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
-    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
-    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
-    luomu.
-    Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

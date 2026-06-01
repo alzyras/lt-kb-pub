@@ -24,30 +24,30 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - t-001
   teiginys: 'Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.'
   pagrindžia:
-    - c-005
+    - c-006
 
 - t-002
   teiginys: 'Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti iš savo kunigaikštijų).'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-003
   teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-004
-  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  teiginys: 'Kaributas pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.'
   pagrindžia:
     - c-002
 
 - t-005
   teiginys: 'Kaip tik tuo metu, kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kaributas.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-006
-  teiginys: 'Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje; vos tik jis išvijo vokiečius už Lietuvos ribų, kai maištai Ru­ sioje, sukelti Jogailos brolio Kaributo, viešpatavusio Seversko kunigaikštystėje ir nenorėjusio pripažinti Kęstučio vir­ šenybės, vertė šį.'
+  teiginys: 'Kaributas, valdęs Seversko kunigaikštystę, sukėlė maištus Rusioje ir nepripažino Kęstučio viršenybės.'
   pagrindžia:
     - c-001
 
@@ -59,6 +59,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kaributas, valdęs Seversko kunigaikštystę, sukėlė maištus Rusioje ir nepripažino Kęstučio viršenybės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniui grėsė naujas
@@ -76,6 +77,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     - t-006
 
 - c-002
+  santrauka: 'Kaributas pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
@@ -121,25 +123,6 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     - t-007
 
 - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Skaudžiausia Lietuvai tačiau buvo trečioji sutartis. Kaip kita­
-    dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
-    donacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino
-    « draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo
-    užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
-    Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir
-    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
-    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
-    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
-    bei svarbiu patarėju tapęs Hanulis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lentelėse duodamieji pavyzdžiai:
@@ -155,7 +138,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   pagrindžia:
     - t-002
 
-- c-007
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip kita­
@@ -174,8 +157,9 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
-- c-008
+- c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kęstutį iš pradžių pripažino visi. Jis, maža tekreipdamas dėme-
@@ -203,13 +187,11 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - [[objektai/grupes/Husitai]]
 - [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
 - [[objektai/daiktai/Iždo ir pilių raktai]]
-- [[objektai/autoriai/Karamzino]]
 - [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/ivykiai/Mykolo Kaributo Višniaveckio elekcija (1669 m.)]]
 - [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]
 - [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
-- [[objektai/asmenys/Sofija]]
 - [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
 - [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]
 - [[objektai/grupes/Vilniaus kapitula]]

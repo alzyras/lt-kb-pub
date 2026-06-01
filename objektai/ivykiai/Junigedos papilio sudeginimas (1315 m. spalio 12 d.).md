@@ -42,27 +42,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe ir sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją išvaduoti.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir
-    sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
-    išvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus
-    šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos
-    papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie
-    nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Junigedos papilio sudeginimą 1315 m. spalio 12
@@ -83,4 +67,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Karolis (didysis magistras)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

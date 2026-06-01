@@ -18,13 +18,14 @@ Todėl šiuo raštu įgaliojame visus seniūnus ir mūsų valdinius, kad, iškil
 ## Teiginiai
 
 - t-001
-  teiginys: 'Todėl šiuo raštu įgaliojame visus seniūnus ir mūsų valdinius, kad, iškilus bet kokio pobūdžio būtiny­ bei, kiek tik kartų būtų pono Vilniaus vyskupo ar jo institu­ cijos instigatoriaus kviečiami, suteiktų jiems savo pagalbą; į didelę mūsų nemalonę pateks tas.'
+  teiginys: 'Seniūnai ir valdiniai įpareigoti teikti pagalbą, kai juos kviečia Vilniaus vyskupo arba jo institucijos instigatorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Seniūnai ir valdiniai įpareigoti teikti pagalbą, kai juos kviečia Vilniaus vyskupo arba jo institucijos instigatorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O jei reikės ar iškils dvejo­

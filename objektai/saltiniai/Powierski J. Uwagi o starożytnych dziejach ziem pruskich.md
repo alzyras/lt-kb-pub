@@ -23,13 +23,14 @@ Dusburgietis teigia, kad powierski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad powierski J.'
+  teiginys: 'J. Powierskio straipsnis „Uwagi o starożytnych dziejach ziem pruskich“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio straipsnis „Uwagi o starożytnych dziejach ziem pruskich“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Powierski  J. Uwagi o starożytnych dziejach ziem pruskich.— ZHPB, Warszawa—

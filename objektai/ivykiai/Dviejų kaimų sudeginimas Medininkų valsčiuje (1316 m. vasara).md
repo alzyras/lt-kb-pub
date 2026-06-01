@@ -42,12 +42,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje vietoje pasalą, įsiveržė [į.'
   pagrindžia:
     - c-001
-    - c-003
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie pasileido bėgti ir šitaip išsigelbėjo. 331 (324).'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -68,43 +62,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
-    aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje
-    vietoje pasalą, įsiveržė  [į  jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
-    moteris ir vaikus paėmę  į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
-    200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie
-    pasileido bėgti ir šitaip išsigelbėjo.
-
-
-
-
-     331 (324).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
-    aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje
-    vietoje pasalą, įsiveržė  [į  jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
-    moteris ir vaikus paėmę  į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
-    200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie
-    pasileido bėgti ir šitaip išsigelbėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Hugonas (Sembos fogtas)]]
-- [[objektai/grupes/Lietuviai]]

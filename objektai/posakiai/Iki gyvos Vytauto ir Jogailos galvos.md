@@ -29,12 +29,12 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šiame šaltinyje formuluotė „iki gyvos galvos“ taikoma 1411 m. Torunės taikoje apibrėžiant laikiną Žemaitijos priklausomybę Vytautui ir Jogailai.'
+  teiginys: '1411 m. Torunės taikoje Žemaitija Vytautui ir Jogailai atiteko „iki gyvos galvos“.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip laikinumo formulė, kartojama keliuose diplomatiniuose kontekstuose.'
+  teiginys: 'Formulė „iki gyvos Vytauto ir Jogailos galvos“ reiškė Žemaičių atsisakymą iki Vytauto ir Jogailos mirties.'
   pagrindžia:
     - c-001
     - c-002
@@ -42,6 +42,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Formulė „iki gyvos Vytauto ir Jogailos galvos“ reiškė Žemaičių atsisakymą iki Vytauto ir Jogailos mirties.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     jis turėjo sumokėti 100.000 kapų skatikų karo išlaidų, grą-
@@ -54,6 +55,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Formulė „iki gyvos Vytauto ir Jogailos galvos“ reiškė Žemaičių atsisakymą iki Vytauto ir Jogailos mirties.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Juo buvo patvirtintas Vytauto sava-
@@ -70,6 +72,7 @@ tags:
     - t-002
 
 - c-003
+  santrauka: '1411 m. Torunės taikoje Žemaitija Vytautui ir Jogailai atiteko „iki gyvos galvos“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žemaičiai, nepatenkinti Vokiečių ordino valdžia, buvo ne

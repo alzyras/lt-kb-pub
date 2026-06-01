@@ -47,7 +47,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Tačiau mūšio metu į me­ dinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį didelę Vilniaus dalį pasiglemžė ugnis.'
+  teiginys: 'Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, per kurį sudegė didelė miesto dalis.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, per kurį sudegė didelė miesto dalis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jurgio vėliava puolė į mūšį Ordino
@@ -103,5 +104,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai Lietuvos kariuomenė]]
 - [[objektai/daiktai/Mediniai miesto namai]]
 - [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]
-- [[objektai/paprociai/Vakarų riterių stojimas po kryžiaus ženklu į Ordino žygius]]
 - [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]

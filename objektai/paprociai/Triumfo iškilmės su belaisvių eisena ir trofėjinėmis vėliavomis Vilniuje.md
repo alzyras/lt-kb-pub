@@ -50,12 +50,12 @@ Nenurodyta
 - t-002
   teiginys: 'Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Čia, valdovui grįžus, įvyko triumfo iškilmės, eisenoje buvo vedami belaisviai Maskvos karvedžiai ir kariai, Vilniaus katedroje pakabintos trofėjinės vėliavos.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -75,42 +75,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kilmingi žuvusieji buvo atvežti ir palai-
-    doti Vilniuje. Čia, valdovui grįžus, įvyko
-    triumfo iškilmės, eisenoje buvo vedami
-    belaisviai Maskvos karvedžiai ir kariai,
-    Vilniaus katedroje pakabintos trofėjinės
-    vėliavos. (Kaip liudija Mykolas Lietuvis,
-    jos su kitomis čia saugotomis sudegė per
-    1530 m. gaisrą).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kilmingi žuvusieji buvo atvežti ir palai-
-    doti Vilniuje. Čia, valdovui grįžus, įvyko
-    triumfo iškilmės, eisenoje buvo vedami
-    belaisviai Maskvos karvedžiai ir kariai,
-    Vilniaus katedroje pakabintos trofėjinės
-    vėliavos. (Kaip liudija Mykolas Lietuvis,
-    jos su kitomis čia saugotomis sudegė per
-    1530 m. gaisrą).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-004
+- c-002
   santrauka: 'Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

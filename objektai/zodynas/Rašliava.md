@@ -47,47 +47,26 @@ Nenurodyta
 - t-001
   teiginys: 'Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
-  teiginys: 'Knygų Leidimo Komisijos leidinys Nr. 479 Spaudė „Šviesos" spaustuvė Kaune Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai paūgėjo.'
+  teiginys: 'Istoriškoji lietuvių rašliava paskutiniaisiais metais buvo gerokai paaugusi.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Rašliava vartojama kaip istorinės raštijos pavadinimas.'
   pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: '479 Spaudė „Šviesos" spaustuvė Kaune Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai paūgėjo.'
-  pagrindžia:
-    - c-001
+    - c-004
 
 - t-005
-  teiginys: 'Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų raštų, kuriuose Lietuva buvo žeminama.'
+  teiginys: 'Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    479
-    Spaudė „Šviesos" spaustuvė Kaune
-
-    Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
-    ūgėjo. Bet ligi šiol dar niekas nebuvo bandęs paruošti platesnę
-    mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų
-    ir naujųjų laikų įvykius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ten jie
@@ -105,7 +84,8 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
+  santrauka: 'Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu tie ginčai paskatino
@@ -123,7 +103,8 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-004
+- c-003
+  santrauka: 'Istoriškoji lietuvių rašliava paskutiniaisiais metais buvo gerokai paaugusi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Knygų Leidimo Komisijos leidinys Nr. 479
@@ -138,8 +119,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
-- c-005
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
@@ -160,3 +142,4 @@ Nenurodyta
 - [[objektai/autoriai/K. Duonelaitis]]
 - [[objektai/autoriai/Rėza (leidėjas, 1818 m.)]]
 - [[objektai/zodynas/germanizacija]]
+- [[objektai/grupes/Lietuviai]]

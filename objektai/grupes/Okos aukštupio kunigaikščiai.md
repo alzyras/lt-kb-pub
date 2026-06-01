@@ -24,7 +24,7 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
     - c-001
 
 - t-002
-  teiginys: 'Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­ gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­ čiai, totoriai.'
+  teiginys: 'Okos aukštupio kunigaikščiai buvo tarp rytų jėgų, kurioms Vytautas siekė primesti valdžią arba bent turėti didelę įtaką.'
   pagrindžia:
     - c-002
 
@@ -50,7 +50,7 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
     - t-001
 
 - c-002
-  santrauka: 'Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­ gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­ čiai, totoriai.'
+  santrauka: 'Okos aukštupio kunigaikščiai buvo tarp rytų jėgų, kurioms Vytautas siekė primesti valdžią arba bent turėti didelę įtaką.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Palaikydamas labai gyvus politinius santykius
@@ -71,5 +71,4 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kunigaikščiai]]

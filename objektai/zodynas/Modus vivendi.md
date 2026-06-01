@@ -18,13 +18,14 @@ Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
+  teiginys: 'Stasys Lozoraitis modus vivendi su Lenkija laikė būtina Lietuvos nepriklausomybės sąlyga.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stasys Lozoraitis modus vivendi su Lenkija laikė būtina Lietuvos nepriklausomybės sąlyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl 1934 m. pradėti megzti neoficialūs

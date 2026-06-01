@@ -20,13 +20,14 @@ Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš mūsų valdinių per tą pačią upę kitose vietose statyti mažų tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­ žiūrą.'
+  teiginys: 'Valdiniams uždrausta per Vilijos upę nuo Nemenčinės dvaro iki Kernavės statyti mažus tiltelius, vadinamus jazais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valdiniams uždrausta per Vilijos upę nuo Nemenčinės dvaro iki Kernavės statyti mažus tiltelius, vadinamus jazais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kad toks tilto muitas, mūsų aukščiau nu­

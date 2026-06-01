@@ -39,7 +39,7 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
     - c-004
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­ ta Nesavos pilis Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą vyrą ir pamaldų brolį Hermaną iš Zalcos, Teutonų namų ordino didįjį magistrą.'
+  teiginys: 'Hermanas Balkas buvo Hermano iš Zalcos atsiųstas eiti magistro pareigas po brolio Konrado prašymo atsiųsti daugiau brolių ir ginklanešių.'
   pagrindžia:
     - c-003
 
@@ -90,6 +90,7 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
     - t-001
 
 - c-003
+  santrauka: 'Hermanas Balkas buvo Hermano iš Zalcos atsiųstas eiti magistro pareigas po brolio Konrado prašymo atsiųsti daugiau brolių ir ginklanešių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     11 (9). Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­

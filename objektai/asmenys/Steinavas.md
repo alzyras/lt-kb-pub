@@ -44,20 +44,6 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
     - t-001
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    pasakydamas, kurią dieną turįs ten atvykti su savo kariuomene. Tuo tarpu Steinavas
-    nuvyko pas Karaliaučiaus komtūrą ir išdavė šią paslaptį, patardamas šiam traukti su
-    savo kariuomene drauge su juo. Šis, paklausęs patarimo, susikvietė daug brolių bei
-    ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
-    juos užpuolė ir visus išžudė.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Dusburgietis teigia, kad tuo tarpu Steinavas nuvyko pas Karaliaučiaus komtūrą ir išdavė šią paslaptį, patardamas šiam traukti su savo kariuomene drauge su juo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -73,6 +59,7 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

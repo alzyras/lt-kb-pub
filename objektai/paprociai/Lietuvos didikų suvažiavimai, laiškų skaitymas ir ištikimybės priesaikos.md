@@ -45,7 +45,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Tačiau Jogaila norėjo tą vien tik asme­ niškai Vytauto duotą pasižadėjimą padaryti reikšmingesnį gau­ damas pačių lietuvių sutikimą ir priesaiką, o Vytautas savo ruožtu siekė ir palikuonims, jeigu jų kada turėtų, garantuoti šio­ kios tokios naudos, tad.'
+  teiginys: 'Jogailos sukviestame Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė ištikimybę ir pagalbą kovoje prieš bendrą priešą.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Jogailos sukviestame Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė ištikimybę ir pagalbą kovoje prieš bendrą priešą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Jogaila norėjo tą vien tik asme­

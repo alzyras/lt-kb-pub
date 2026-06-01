@@ -46,9 +46,9 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
     - c-003
 
 - t-004
-  teiginys: 'Nors popiežiaus buvo primygtinai prašoma, kad savo ga­ nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­ gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo, gal to priežastis buvo naujesnės žinios iš Prūsijos.'
+  teiginys: 'Prūsijos vyskupai laiške 1323 m. taikos sutartį vadino velnio žabangomis ir gėda krikščioniškajam pasauliui.'
   pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -80,6 +80,7 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -143,32 +144,3 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I  KNYGA
-    čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
-    žinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t.
-    Nors popiežiaus buvo primygtinai prašoma, kad savo ga­
-    nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
-    gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
-    gal to priežastis buvo naujesnės žinios iš Prūsijos.
-    Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
-    pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­
-    kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo
-    miręs), kartu su savo diecezijos klebonais Elblionge bemat
-    surengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­
-    gos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­
-    gistrui ir visam Ordinui, Danijos karaliaus vietininkui ir
-    visiems Livonijos bei Estijos didikams ir vasalams, daly­
-    vavusiems taikos sutartį sudarant, ir paskelbė tą sutartį
-    esant velnio žabangomis, visam krikščioniškajam pasau­
-    liui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­
-    myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
-    tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004

@@ -59,5 +59,4 @@ Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tink
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vladislovas]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/asmenys/Kazimieras Didysis]]

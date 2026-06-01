@@ -28,13 +28,14 @@ Karaliui, turinčiam tokias dide­ les karinės amunicijos atsargas, nesunku buv
 ## Teiginiai
 
 - t-001
-  teiginys: 'Karaliui, turinčiam tokias dide­ les karinės amunicijos atsargas, nesunku buvo apginkluoti gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­ giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­ gistrą Firstembergą, nuo seno engusį.'
+  teiginys: '1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apsirūpinus ar­

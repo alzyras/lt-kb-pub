@@ -32,7 +32,7 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: '448 6) Stepono Batoro parašas iš laiško, rašyto 1576 m. gruodžio 20 d. / p. 448 - 7) Vilniaus vyskupo ir kardinolo ku­ nigaikščio Jurgio Radvilos pa­ rašas - Jerzij C ard.'
+  teiginys: 'Stepono Batoro parašas paimtas iš 1576 m. gruodžio 20 d. rašyto laiško faksimilės.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Stepono Batoro parašas paimtas iš 1576 m. gruodžio 20 d. rašyto laiško faksimilės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojaus bažnyčia (planas) /

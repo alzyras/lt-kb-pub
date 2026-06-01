@@ -24,13 +24,14 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - c-002
 
 - t-002
-  teiginys: 'Pijarai buvo pakviesti, nes daugiau rūpinosi mokslu ir praktinio gyvenimo reikalais.'
+  teiginys: 'Pijarai, arba dievobaimingosios mokyklos, buvo pakviesti dėl dėmesio mokslui ir praktinio gyvenimo reikalams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pijarai, arba dievobaimingosios mokyklos, buvo pakviesti dėl dėmesio mokslui ir praktinio gyvenimo reikalams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pijarai daugiau rūpinosi pačiu mokslu ir praktiškojo

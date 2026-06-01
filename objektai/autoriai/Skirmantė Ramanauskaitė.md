@@ -27,46 +27,11 @@ Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ 
 - t-002
   teiginys: 'Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Respublikos kultūros ministerija Knyga išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus Redaktorė Skirmantė Ramanauskaitė Knygos dailininkas Romas Dubonis ISBN.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    UDK 947.45
-    Ba237
-    Versta iš
-    Michała Balińskiego
-    History a Miasta Wilna
-    Wilno. Drukiem
-    Antoniego Marcinowskiego,
-    1836-1837
-    Knygos leidimą parėmė
-    Lietuvos Respublikos
-    kultūros ministerija
-    Knyga išleista
-    Lietuvos tūkstantmečio
-    minėjimo direkcijai
-    parėmus
-    Redaktorė
-    Skirmantė Ramanauskaitė
-    Knygos dailininkas
-    Romas Dubonis
-    ISBN 978-5-417-00907-5 © Vertimas į lietuvių kalbą,
-    Ona Slavėnaitė, 2007
-    © Vertimas į lietuvių kalbą,
-    Irena Katilienė, 2007
-    © Vertimas į lietuvių kalbą,
-    Jūratė Dalia Baronienė, 2007
-    © Romas Dubonis, apipavidalinimas,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     UDK 947.45
@@ -111,6 +76,7 @@ Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

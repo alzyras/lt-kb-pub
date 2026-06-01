@@ -68,5 +68,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
 - [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
+- [[objektai/paprociai/Herkaus Manto vokiški taikos pažadai besislapstantiems išvilioti]]
 - [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/posakiai/Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]

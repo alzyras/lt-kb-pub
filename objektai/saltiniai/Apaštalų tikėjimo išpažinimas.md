@@ -18,13 +18,14 @@ Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo.'
+  teiginys: 'Brolis Henrikas regėjime ištarė Apaštalų tikėjimo išpažinimą, atsakydamas į raginimą priimti žydų tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Henrikas regėjime ištarė Apaštalų tikėjimo išpažinimą, atsakydamas į raginimą priimti žydų tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius

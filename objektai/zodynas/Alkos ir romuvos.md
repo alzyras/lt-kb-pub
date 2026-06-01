@@ -43,7 +43,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Vienos vyriausiosios Romuvos vaizdinys apibūdinamas kaip viduramžių rašytojų prasimanymas.'
+  teiginys: 'Pasakojimas apie vieną vyriausiąją Romuvą laikomas viduramžių rašytojų prasimanymu.'
   pagrindžia:
     - c-002
 

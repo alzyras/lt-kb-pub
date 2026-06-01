@@ -25,13 +25,14 @@ Lukšienė (BBK, t.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lukšienė (BBK, t.'
+  teiginys: 'M. Lukšienė rašė apie bibliotekas Lietuvoje XIX a. pradžioje ir to laikotarpio pradines mokyklas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Lukšienė rašė apie bibliotekas Lietuvoje XIX a. pradžioje ir to laikotarpio pradines mokyklas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apie bibliotekas Lietuvoje XIX a.

@@ -26,7 +26,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad stalupėnai (dab.'
+  teiginys: 'Stalupėnai šaltinio rodyklėje tapatinami su dabartiniu Nesterovu.'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stalupėnai šaltinio rodyklėje tapatinami su dabartiniu Nesterovu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kamienne) ež.

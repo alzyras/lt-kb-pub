@@ -41,17 +41,17 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 - t-001
   teiginys: 'Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­ trą Pirmas šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras brolis Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą) dieną ir.'
+  teiginys: 'Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad paėmus Akoną, tas pats brolis Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus, kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais 154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad po to daug karalių ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę, tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties viešpaties 1290 metais pagonys iš pamatų sugriovė Akono.'
@@ -66,17 +66,17 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 - t-006
   teiginys: 'Dusburgietis teigia, kad apie Akono miesto sugriovimą 1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-007
   teiginys: 'Paėmus Akoną, brolis Henrikas prie miesto sienų priešais šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.'
   pagrindžia:
-    - c-004
+    - c-005
 
 - t-008
   teiginys: 'Akonas šiame leidime apibūdinamas kaip Jeruzalės karalystės sostinė, kurios žlugimą aprašė kronikininkas.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-009
   teiginys: '1290 m. Akonas buvo paskutinis likęs miestas prieš jo sugriovimą.'
@@ -139,25 +139,6 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
-    Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
-    dieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
-    kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
-    į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
-    kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
-    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
-    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga. Paėmus Akoną, tas pats brolis
-    Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
-    kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
     feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
     kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
@@ -170,24 +151,9 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-006
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
-    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
-    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
-    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
-    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
-    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
-    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-008
 
-- c-007
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
@@ -209,8 +175,9 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   statusas: verified
   pagrindžia:
     - t-003
+    - t-007
 
-- c-008
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     77. Apie Akono miesto sugriovimą
@@ -224,7 +191,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   pagrindžia:
     - t-006
 
-- c-009
+- c-007
+  santrauka: 'Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     2. Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­

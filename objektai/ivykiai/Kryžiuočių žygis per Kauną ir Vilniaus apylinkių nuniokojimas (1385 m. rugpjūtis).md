@@ -42,18 +42,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­ kos sėkmingos, didysis magistras Konradas Ciolneris Rotenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų rugpjūtį ties Kaunu.'
+  teiginys: '1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Juk kai per Jogai­ los apsukrų laviravimą žlugo visos kryžiuočių jam daromos kliūtys siekti Lenkijos sosto, 1385 metų pabaigoje Lietuvos valdovas paliko savo senąją sostinę ir gausios lietuvių kuni­ gaikščių ir didikų svitos lydimas išvyko į Krokuvą.'
+  teiginys: '1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilnius, tiesa, turėdamas tvirtovėse labai stip­
@@ -72,6 +73,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     40
@@ -105,6 +107,8 @@ Nenurodyta
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]

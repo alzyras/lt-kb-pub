@@ -32,7 +32,7 @@ Aleksandravičius E., Kulakauskas A.
 - t-002
   teiginys: 'E. Aleksandravičius kartu su A. Kulakausku yra leidinio „Carų valdžioje. Lietuva XIX amžiuje“ autorius.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -48,17 +48,5 @@ Aleksandravičius E., Kulakauskas A.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Literatūra
-    tolesniam skaitymui
-    Aleksandravičius E., Kulakauskas A. Carų valdžioje. Lietuva XIX am-
-    žiuje. Vilnius, 1996.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
     - t-002

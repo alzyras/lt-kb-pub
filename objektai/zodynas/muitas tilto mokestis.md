@@ -20,23 +20,24 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tad tokiai prie­ glaudai ir joje gyvenantiems vargšams mes karališkąja malo­ ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­ kams atiduoti, dovanoti, paskirti ir užrašyti.'
+  teiginys: 'Tilto mokestis karališkąja malone visiems laikams buvo paskirtas prieglaudai ir joje gyvenantiems vargšams.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir išlaidas, kokias patyrė statydamas tiltą per upę, rinkti ir padengti tol, kol jam nesugrįš visas jo įdėtas kapita­ las.'
+  teiginys: 'Ulrikui Hozijui leista rinkti tilto mokestį tol, kol jam sugrįš tilto statybai įdėtos lėšos.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
+  teiginys: 'Jonas Hozijus buvo paskirtas rinkti tilto mokestį ir taisė pavasarį vandens bei ledų sangrūdų sugadintą tiltą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Hozijus buvo paskirtas rinkti tilto mokestį ir taisė pavasarį vandens bei ledų sangrūdų sugadintą tiltą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mes į jo vietą garbingąjį
@@ -74,6 +75,7 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
     - t-003
 
 - c-002
+  santrauka: 'Ulrikui Hozijui leista rinkti tilto mokestį tol, kol jam sugrįš tilto statybai įdėtos lėšos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo
@@ -96,6 +98,7 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
     - t-002
 
 - c-003
+  santrauka: 'Tilto mokestis karališkąja malone visiems laikams buvo paskirtas prieglaudai ir joje gyvenantiems vargšams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad tokiai prie­

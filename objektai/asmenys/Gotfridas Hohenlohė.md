@@ -40,13 +40,14 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
     - c-003
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie brolio Gotfrido, didžiojo magistro, atvykimą, apie tai, kaip jis atsisa­ kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno 1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją atvyko į Livoniją, palikęs.'
+  teiginys: '1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
@@ -81,6 +82,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -105,21 +107,6 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   pagrindžia:
     - t-002
 
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie brolį Gotfridą iš Hohenlohės, Teutonų namų ordino didįjį magistrą 1297 viešpaties metais brolis Gotfridas iš Hohenlohės buvo išrinktas Teutonų namų ordino didžiuoju magistru ir vadovavo 13 metų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    84. Apie brolį Gotfridą iš Hohenlohės, Teutonų namų ordino didįjį magistrą
-
-      1297 viešpaties metais brolis Gotfridas iš Hohenlohės buvo išrinktas Teutonų namų
-    ordino didžiuoju magistru ir vadovavo 13 metų. Vis dėlto jis nėra priskaitomas prie kitų
-    magistrų, nes 13 metais atsisakė savo pareigybės ir vėl lengvapėdiškai jos ėmėsi.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
@@ -128,6 +115,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
 - [[objektai/ivykiai/Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.)]]

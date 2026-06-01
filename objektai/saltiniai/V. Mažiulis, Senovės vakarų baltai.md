@@ -18,18 +18,14 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 19 Mažiulis V.'
+  teiginys: 'V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 14 Mažiulis V.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     19 Mažiulis V. Senovės vakarų baltai..., p. 7.
@@ -40,6 +36,7 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
     - t-001
 
 - c-002
+  santrauka: 'V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.

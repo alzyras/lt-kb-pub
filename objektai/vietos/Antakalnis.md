@@ -23,14 +23,14 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-004
 
 - t-002
-  teiginys: 'Antakalnio pavadinimas, jeigu mes jį aiškintume taip, kaip to tūlas no­ rėtų, turėtų būti kilęs iš lotvniško žo­ džio ante - prieš ir collis - kalva, mat jis tarp kalnų išsidėstęs, bet vietovė, kur buvo lietuvių šventykla, turėjo būti nuo seno lietuviškai.'
+  teiginys: 'Antakalnio pavadinimas aiškinamas kaip kilęs iš lietuviškų žodžių „ant to kalno“ arba „ant pakalnės“.'
   pagrindžia:
-    - c-008
+    - c-003
 
 - t-003
-  teiginys: 'Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio.'
+  teiginys: 'Dabartinio Antakalnio užuomazgos buvo vienišos trobos palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
   pagrindžia:
-    - c-009
+    - c-004
 
 - t-004
   teiginys: 'Balińskis Antakalnio pavadinimą aiškina kaip nuo seno lietuvišką, siejamą su ant kalno arba ant pakalnės formomis.'
@@ -38,7 +38,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-003
 
 - t-005
-  teiginys: '8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­ mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų stokodami, neturėjo kuo teisme įrodyti nuosavybę.'
+  teiginys: 'Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų.'
   pagrindžia:
     - c-007
 
@@ -119,6 +119,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -138,6 +139,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -175,6 +177,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - t-007
 
 - c-007
+  santrauka: 'Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2do, kad tėvai jėzuitai didelę aikštę prie bažnyčios, sodą
@@ -190,48 +193,3 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IV, p. 400.
-    Antakalnio pavadinimas, jeigu mes
-    jį aiškintume taip, kaip to tūlas no­
-    rėtų, turėtų būti kilęs iš lotvniško žo­
-    džio ante - prieš ir collis - kalva, mat
-    jis tarp kalnų išsidėstęs, bet vietovė,
-    kur buvo lietuvių šventykla, turėjo
-    būti nuo seno lietuviškai vadinama,
-    ne lotyniškai. Antakalnis yra pava­
-    dintas arba nuo žodžių: ant-to-Kal-
-    no, arba: ant-Pakalnės, pagal tai, kaip
-    pirmasis davęs pavadinimą, Ant­
-    akalnį stebėjo; juk plaukiančiam Vi­
-    lija atrodytų esantis ant aukštumos,
-    o stovintis ant upės kranto Antakal­
-    nį regėtų plokštumoje, kalno papė­
-    dėje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Čia buvo pats miesto centras - ten,
-    kur dabar stovi Rotušė ir Šv. Kazimiero bažnyčia; po Aukš­
-    tutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­
-    kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos
-    trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­
-    toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­
-    los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­
-    akalnio užuomazgos7.
-    kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
-    rado.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

@@ -28,13 +28,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1539 metais kardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri­ jonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkibrolija, o 1573 metų vasario 3 dieną, valdant Žygimantui Au­ gustui, buvo funduota arkikonfratrija ir tais pačiais metais lapkričio 27.'
+  teiginys: 'Popiežius Inocentas X 1646 m. patvirtino Vilniaus arkikonfratrijos agregavimą prie Romos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežius Inocentas X 1646 m. patvirtino Vilniaus arkikonfratrijos agregavimą prie Romos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1539 metais

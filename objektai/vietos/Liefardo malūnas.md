@@ -23,11 +23,6 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų gyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,18 +38,3 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų
-    gyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi
-    miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni
-    gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
-    ant iškeltų prūsų iečių, o likusieji sudegė. Tiek ten buvo krikščionių kraujo pralieta,
-    kad gretimas upelis454 nustojo savo įprastinės spalvos ir atrodė krauju pasruvęs.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002

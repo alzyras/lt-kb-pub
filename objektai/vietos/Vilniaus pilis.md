@@ -29,68 +29,64 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Beveik visą amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­ nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­ puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai, ežerų apsuptai Trakų piliai.'
+  teiginys: 'Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.'
   pagrindžia:
     - c-005
 
 - t-002
-  teiginys: 'Bet, kai totoriai didele Karalienė Elena pati savo lėšomis pastatydino atskirą namą Vilniaus pilyje, skirtą apsistoti pas ją iš Mask­ vos atvykstantiems bojarinams ir pa­ siuntiniams.'
+  teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: '[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­ me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­.'
-  pagrindžia:
-    - c-009
-
-- t-004
   teiginys: 'Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.'
-  pagrindžia:
-    - c-011
-
-- t-005
-  teiginys: 'Onos bažny­ čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus pilyje pėdsakų vis dėlto nėra.'
-  pagrindžia:
-    - c-008
-
-- t-006
-  teiginys: 'Kęstutis iš Trakų, savo valdos sostinės, turėjęs geriausių galimybių stebėti visus brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­ riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­ nigaikščio buveinę.'
-  pagrindžia:
-    - c-001
-
-- t-007
-  teiginys: 'Mirė karalius Žemu­ tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o jo palaikai iškart buvo palaidoti koplyčioje, prie katedros, greta Šv.'
-  pagrindžia:
-    - c-012
-
-- t-008
-  teiginys: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
-  pagrindžia:
-    - c-007
-
-- t-009
-  teiginys: 'Pagaliau nemažai įvairių tenykš­ čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­ globsčio prie Vilniaus pilies.'
-  pagrindžia:
-    - c-003
-
-- t-010
-  teiginys: 'Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.'
   pagrindžia:
     - c-010
 
-- t-011
+- t-004
+  teiginys: 'Po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nerasta.'
+  pagrindžia:
+    - c-008
+
+- t-005
+  teiginys: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
+  pagrindžia:
+    - c-001
+
+- t-006
+  teiginys: 'Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.'
+  pagrindžia:
+    - c-011
+
+- t-007
+  teiginys: 'Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.'
+  pagrindžia:
+    - c-007
+
+- t-008
+  teiginys: 'Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies.'
+  pagrindžia:
+    - c-003
+
+- t-009
+  teiginys: 'Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.'
+  pagrindžia:
+    - c-009
+
+- t-010
   teiginys: 'Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.'
   pagrindžia:
     - c-006
 
-- t-012
-  teiginys: 'Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.'
+- t-011
+  teiginys: '1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar nerimą kėlė Gedimino valia ra­
@@ -107,9 +103,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-002
+  santrauka: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepagelbėjo jam ir iš Kroku­
@@ -141,6 +138,7 @@ amziai:
     - t-002
 
 - c-003
+  santrauka: 'Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savo
@@ -155,9 +153,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-004
+  santrauka: '1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šis karaliaus nurodymas gal taip greitai ne­
@@ -179,9 +178,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
 
 - c-005
+  santrauka: 'Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau netrukus į Vilnių at­
@@ -219,9 +219,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 - c-007
+  santrauka: 'Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad šių, mūsų valdų, ir dvarų, taip pat
@@ -245,9 +246,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-008
+  santrauka: 'Po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nerasta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
@@ -265,42 +267,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    [Rūstusai Žygimante, kaip senasis karalius mėtau
-    žaibus,
-    Nejaugi manai, kad tik karaliams paklūsta žaibai?]
-    Vietovių pavadinimai yra tokie:
-    Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­
-    me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­
-    kas, Vitebskas, Orša, Mogiliovas, Propoiskiai, Čečerskiai,
-    Mstislavlis, Radomie, Liubičius, Gomelis, Rečica, Kšičovai,
-    Ovručas, Ostras, Vladimiras, Luckas, Mozyrius, Kijevas,
-    Čerkasai, Medilas, Kaniuvas, Podolės Brasta, Bialocerkievas,
-    Minskas, Radoškovičiai, Lietuvos Brasta, Chastiča, Rožekas,
-    Novy Zamekas, Svisločėje vadinamas Kasperu, Kremene-
-    cas, Černobilis, Suražas, Cieriščiai, Borisovas, Drisa, Trakai,
-    Upytė, Druja, Lepelis, Kopečius arba Ušcas, Tikocinas. Li­
-    vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas,
-    Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel-
-    314
-
-    ## Puslapis 331
-
-    IV  KNYGA
-    menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas,
-    Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
-    mundė, Ryga, Šmetenė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-010
   santrauka: 'Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -323,9 +292,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-011
+- c-010
   santrauka: 'Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -356,9 +325,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-012
+- c-011
+  santrauka: 'Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     681-687, plačiai ir ganėtinai žais-
@@ -379,4 +349,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006

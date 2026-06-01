@@ -119,4 +119,5 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/ginklanešys]]
 - [[objektai/zodynas/šeimynykštis famulus]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]

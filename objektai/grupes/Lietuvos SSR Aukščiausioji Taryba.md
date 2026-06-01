@@ -40,12 +40,12 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
     - c-004
 
 - t-005
-  teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, V.'
+  teiginys: 'Aukščiausiosios Tarybos Prezidiumas spalio 6 d. suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
   pagrindžia:
     - c-003
 
 - t-006
-  teiginys: 'Sugrąžindamas Lietuvoje sovietų valdžią J.'
+  teiginys: 'Po karo rinkimai į Lietuvos SSR Aukščiausiąją Tarybą pirmą kartą vyko 1947 m.'
   pagrindžia:
     - c-002
 
@@ -71,6 +71,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
     - t-003
 
 - c-002
+  santrauka: 'Po karo rinkimai į Lietuvos SSR Aukščiausiąją Tarybą pirmą kartą vyko 1947 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Totalitariniam režimui vėl ėmė diri-
@@ -92,6 +93,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
     - t-006
 
 - c-003
+  santrauka: 'Aukščiausiosios Tarybos Prezidiumas spalio 6 d. suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per keletą mėnesių LPS pa-
@@ -185,9 +187,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
 - [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
 - [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba|Lietuvos SSR liaudies komisarų taryba (institucija)]]
 - [[objektai/ivykiai/Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
-- [[objektai/daiktai/Lietuvos trispalvė]]
 - [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]
 - [[objektai/autoriai/V. Kudirka]]
 - [[objektai/asmenys/Vincas Kudirka]]

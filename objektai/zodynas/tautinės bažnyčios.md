@@ -62,4 +62,3 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
 ### Susiję objektai
 - [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautininkai]]

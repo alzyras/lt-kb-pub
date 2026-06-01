@@ -39,7 +39,7 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
     - c-003
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti, 494 Žuvo 1279.111.5 prie dab. Aizkrauklės (buv. Ašeradė) prie Dauguvos, kur Lietuvos kariuomenė sumušė Livonijos ordino bei Revelio (Talino) danų riterių kariuomenę (Varakauskas.'
+  teiginys: 'Konradas iš Foichtvangeno atsisakė pareigybės Prūsijoje ir pasiliko vienos Livonijos žemės magistru.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
     - t-004
 
 - c-002
+  santrauka: 'Konradas iš Foichtvangeno atsisakė pareigybės Prūsijoje ir pasiliko vienos Livonijos žemės magistru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
@@ -116,22 +117,6 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-005
-  santrauka: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    201 (196). Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
-
-       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
-    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
-    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
-    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
-    metais.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-005
 
 ## Ryšiai
@@ -144,7 +129,4 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]
-- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
-- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
 - [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

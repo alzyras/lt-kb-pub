@@ -32,7 +32,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - c-001
 
 - t-002
-  teiginys: 'Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj.'
+  teiginys: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   pagrindžia:
     - c-003
 
@@ -79,6 +79,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - t-003
 
 - c-003
+  santrauka: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
@@ -147,7 +148,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - [[objektai/asmenys/Mstivojus]]
 - [[objektai/grupes/Nadruviai]]
 - [[objektai/zodynas/Ordino maršalas didysis maršalas]]
-- [[objektai/grupes/Pagudėnai]]
 - [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas]]
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
@@ -174,8 +174,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - [[objektai/zodynas/ginklanešys]]
 - [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės]]
 - [[objektai/zodynas/papilys]]
-- [[objektai/zodynas/pilėnas]]
-- [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/ivykiai/Štarkenbergo pilies užgrobimas ir įgulos išžudymas|Štarkenbergo pilies užgrobimas ir įgulos išžudymas (pilis)]]
 - [[objektai/asmenys/Konradas (Landsbergo markgrafas)]]
+- [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]
 - [[objektai/ivykiai/Salyno sutartis]]

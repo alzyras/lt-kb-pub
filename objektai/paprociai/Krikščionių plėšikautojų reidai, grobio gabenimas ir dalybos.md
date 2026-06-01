@@ -40,7 +40,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie tą patį Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui ir prikrautą prekių laivą, paskui kurį slaptai ir leidosi; kai.'
+  teiginys: 'Martynas su bendrais prie Bugo užpuolė prekių laivą, išžudė upeivius, nuplukdė grobį į Torunę ir pasidalijo pinigus.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Martynas su bendrais prie Bugo užpuolė prekių laivą, išžudė upeivius, nuplukdė grobį į Torunę ir pasidalijo pinigus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     229 (224). Apie tą patį
@@ -121,21 +122,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad martynas nukovė 10 vyrų pirtyje, pagrobė arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    199 (194). Apie tą patį
-
-      Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą
-    ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias
-    tarnybas, jį užpuolė, o visus žmones išžudė. Martynas nukovė 10 vyrų pirtyje, pagrobė
-    arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-004
 
 ## Ryšiai

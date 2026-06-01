@@ -79,6 +79,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/zodynas/netikėliai]]

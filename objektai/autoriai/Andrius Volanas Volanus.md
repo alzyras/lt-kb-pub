@@ -33,7 +33,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     - c-001
 
 - t-002
-  teiginys: 'Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu, visą savo gy­ venimą buvęs uoliausias reformatų idėjų skleidėjas Vilniu­ je ir pavojingiausias katalikų Bažnyčios pagrindų griovėjas.'
+  teiginys: 'Andrius Volanas Vilniuje buvo reformatų idėjų skleidėjas ir garsėjo mokslu bei rašytojo talentu.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     - t-001
 
 - c-002
+  santrauka: 'Andrius Volanas Vilniuje buvo reformatų idėjų skleidėjas ir garsėjo mokslu bei rašytojo talentu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mykolo bažnyčia buvo

@@ -20,13 +20,14 @@ Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o im
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o imperatorių Vaclovą abiejų tautų teisėju pasirinkę32.'
+  teiginys: 'Prancūzai pasirinko Prahą dvikovos vieta, o imperatorių Vaclovą - abiejų tautų teisėju.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prancūzai pasirinko Prahą dvikovos vieta, o imperatorių Vaclovą - abiejų tautų teisėju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tos

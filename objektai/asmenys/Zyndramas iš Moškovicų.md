@@ -24,9 +24,9 @@ Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų,
     - c-001
 
 - t-002
-  teiginys: 'Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.'
+  teiginys: 'Karalius pavedė Zyndramui iš Moškovicų, Krokuvos vaivadai, vadovauti lenkų kariuomenei.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -45,24 +45,9 @@ Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų,
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tie atsisakė. Tada karalius lenkų kariuomenės ve­
-    dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.
-    Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
-    vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
-    vadovybė atiteko Vytautui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/vaivada]]
 - [[objektai/daiktai/Vėliavos]]

@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo tikslu, kad jūs mažiau abejotumėte dėl saugumo ir labiau pasitikėtumėte, [pranešame], jog esame pastatę dvi pranciš­ konų bažnyčias: vieną mūsų karališkajame mieste, vardu Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­ vienas pagal savo.'
+  teiginys: 'Gediminas nurodė pastatęs dvi pranciškonų bažnyčias Vilniuje ir Naugarduke bei trečią dominikonų bažnyčią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas nurodė pastatęs dvi pranciškonų bažnyčias Vilniuje ir Naugarduke bei trečią dominikonų bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žemdirbiams, norintiems atvykti į mūsų karalystę ir čia
@@ -77,4 +78,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Dominikonų ordinas]]

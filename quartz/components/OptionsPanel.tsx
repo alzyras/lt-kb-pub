@@ -46,26 +46,26 @@ const OptionsPanel: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
           </button>
         </div>
         <div class="options-panel-section">
-          <label class="options-panel-label" for="ltkb-min-quote-count-number">
-            Min. citatų skaičius
+          <label class="options-panel-label" for="ltkb-min-claim-count-number">
+            Min. teiginių skaičius
           </label>
           <div class="options-panel-range-row">
             <input
-              id="ltkb-min-quote-count-range"
+              id="ltkb-min-claim-count-range"
               type="range"
               min="0"
               max="50"
               step="1"
-              value="3"
+              value="5"
               data-options-quote-range=""
             />
             <input
-              id="ltkb-min-quote-count-number"
+              id="ltkb-min-claim-count-number"
               class="options-panel-number"
               type="number"
               min="0"
               step="1"
-              value="3"
+              value="5"
               data-options-quote-number=""
             />
           </div>

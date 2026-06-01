@@ -52,27 +52,27 @@ Nenurodyta
 - t-001
   teiginys: 'Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų, senesni už jį buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Naujoji mokykla vadinosi Academia et Universitas Vilnensis Societatis Iesu, arba Vilniaus Jėzaus draugijos akademija ir universitetas.'
   pagrindžia:
-    - c-003
+    - c-005
 
 - t-005
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-006
   teiginys: 'Vilniaus universiteto kūrimąsi skatino aukštosios mokyklos poreikis ir reformacijos bei kontrreformacijos konkurencija.'
@@ -87,7 +87,7 @@ Nenurodyta
 - t-008
   teiginys: 'Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -127,19 +127,6 @@ Nenurodyta
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vilniaus akademijos atidarymo privileginį raštą. 1579 m. spalio 29 d.
-    popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
-    versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
-    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Vilniaus universite-
     to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
     Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir
@@ -158,7 +145,7 @@ Nenurodyta
     - t-002
     - t-001
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
@@ -181,7 +168,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
@@ -206,8 +193,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+    - t-004
 
-- c-007
+- c-006
   santrauka: 'Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -240,6 +228,7 @@ Nenurodyta
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Valakai]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/barokas]]
@@ -248,7 +237,6 @@ Nenurodyta
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/ivykiai/Jėzuitų pasirodymas Lietuvoje ir Vilniaus universiteto įkūrimas]]
-- [[objektai/grupes/Katalikų bažnyčia katalikai]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/zodynas/barokinė santvarka]]
 - [[objektai/zodynas/barokinė santvarka barokinis ūkis]]

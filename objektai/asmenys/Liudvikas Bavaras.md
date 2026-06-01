@@ -34,11 +34,6 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti.'
-  pagrindžia:
-    - c-003
-
-- t-003
   teiginys: 'Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323 m. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir Vengrijos sąjungininkė Lenkija.'
   pagrindžia:
     - c-001
@@ -57,7 +52,7 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -76,6 +71,7 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
     - t-001
 
 - c-003
+  santrauka: 'Liudvikas Bavaras ir Austrijos kunigaikštis Fridrichas spalio 21 d. dėl nesantarvės vienu metu buvo išrinkti Romos karaliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
@@ -94,8 +90,6 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-002
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad taigi 1325— 1326 m. Centrinėje bei Rytų Europoje buvo dvi jėgų grupuotės: vienoje pusėje popiežiaus kurija, Vengrija, Lenkija, Lietuva, o kitoje — Vokietijos valdovas Liudvikas Bavaras, Brandenburgas, Kryžiuočių ordinas ir prie jo prisijungusi Galičo—Volynės.'
@@ -110,26 +104,7 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    117. Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
-                               gaikštis, buvo išrinkti Romos karaliais
-
-      Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis,
-    dėl nesantarvės vienu metu buvo išrinkti Romos karaliais tada, kai apaštališkasis sostas
-    28 mėnesius buvo neužimtas, o ši juodviejų nesantarvė truko ligi 1322 viešpaties metų,
-    kol Liudvikas, Bavarijos kunigaikštis, po daugybės karų, vykusių tarp juodviejų, švento
-    Mykolo išvakarėse (rugsėjo 28) paėmė mūšyje į nelaisvę Fridrichą, Austrijos kunigaikštį,
-    ir išlaikė suimtą dvejus metus. Po to jiedu susitaikė.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

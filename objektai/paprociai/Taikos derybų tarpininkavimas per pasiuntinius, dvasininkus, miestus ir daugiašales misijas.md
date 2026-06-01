@@ -46,18 +46,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos kapitulos, Eželio vyskupo, Dorpato vyskupo ir paties miesto vyskupo, Danijos karaliaus ginkluoto būrio vado, Vokiečių ordinom ir Rygos miesto pusės ir be nurodymo žemių, kurias tos.'
+  teiginys: 'Taikos sutarties tarpininkais minėti arkivyskupas, Rygos kapitula, Eželio ir Dorpato vyskupai, Vokiečių ordinas ir Rygos miestas.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Mat atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­ nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant valdovo.'
+  teiginys: 'Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mat
@@ -82,6 +83,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Taikos sutarties tarpininkais minėti arkivyskupas, Rygos kapitula, Eželio ir Dorpato vyskupai, Vokiečių ordinas ir Rygos miestas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be išsamaus išvar­
@@ -120,5 +122,6 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/komtūras]]
+- [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/asmenys/Jonas de Lovenbinkė]]
 - [[objektai/grupes/Livonijos ordinas]]

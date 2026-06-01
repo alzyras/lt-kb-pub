@@ -28,13 +28,14 @@ Dabar Veliuona priklauso dvari­ ninkui Mykolui Zaleskiui.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dabar Veliuona priklauso dvari­ ninkui Mykolui Zaleskiui.'
+  teiginys: 'Mykolui Zaleskiui priklausė Veliuona.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mykolui Zaleskiui priklausė Veliuona.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokie kalnų pavadinimai,

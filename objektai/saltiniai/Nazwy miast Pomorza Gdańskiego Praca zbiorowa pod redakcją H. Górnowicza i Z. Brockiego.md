@@ -23,13 +23,14 @@ Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod re
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod redakcją H.'
+  teiginys: 'Rinkinys „Nazwy miast Pomorza Gdańskiego“ išleistas 1978 m., jį redagavo H. Górnowiczas ir Z. Brockis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rinkinys „Nazwy miast Pomorza Gdańskiego“ išleistas 1978 m., jį redagavo H. Górnowiczas ir Z. Brockis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod redakcją H. Górnowicza i Z.

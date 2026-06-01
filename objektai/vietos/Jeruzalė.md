@@ -29,22 +29,22 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - t-001
   teiginys: 'Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino magistras, daugelis abiejų ordinų brolių ir.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-005
   teiginys: 'Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios maldininkų.'
@@ -52,29 +52,29 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
     - c-001
 
 - t-006
-  teiginys: 'Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės, vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas, žiauriai įsiveržė į Šventąją žemę bei ją visą užėmė, ir šitaip.'
+  teiginys: 'Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-007
   teiginys: 'Dusburgietis teigia, kad jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-008
   teiginys: 'Dusburgietis teigia, kad pirmoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje, pradedant Torune (1231 m.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-009
   teiginys: 'Dusburgietis teigia, kad taigi 1096 viešpaties metais anksčiau minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą bei šventąjį Jeruzalės miestą, o ilgainiui kiti.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-010
-  teiginys: 'Bet netrukus naujajai Jeruzalės valstybei vėl ėmė grėsti turkų pavojus, ir maldininkams darėsi labai pavojinga ten keliauti.'
+  teiginys: 'Po 1099 m. Jeruzalės išvadavimo iš turkų į ją pradėjo traukti minios maldininkų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -91,22 +91,9 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo
-    traukti minios maldininkų. Bet netrukus naujajai Jeruzalės valstybei
-    vėl ėmė grėsti turkų pavojus, ir maldininkams darėsi labai pavojinga
-    ten keliauti. Todėl visos didesniosios valstybės ten ėmė steigti spe-
-    cialias brolijas savo maldininkams globoti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-010
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai šis popiežius Celestinas
@@ -123,7 +110,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   pagrindžia:
     - t-004
 
-- c-004
+- c-003
+  santrauka: 'Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie šventosios žemės reikalus
@@ -148,7 +136,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   pagrindžia:
     - t-006
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors
@@ -182,7 +170,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jau XIX a. pabaigoje tyrinėjimai parodė, kad Dusburgietis naudojosi ankstesniais
@@ -198,7 +186,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   pagrindžia:
     - t-008
 
-- c-007
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
@@ -215,7 +203,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   pagrindžia:
     - t-002
 
-- c-008
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tad popiežius, išklausęs šią
@@ -233,7 +221,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   pagrindžia:
     - t-007
 
-- c-009
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji
@@ -255,7 +243,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   pagrindžia:
     - t-009
 
-- c-010
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų

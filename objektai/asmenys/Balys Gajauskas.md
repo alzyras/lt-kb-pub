@@ -67,4 +67,3 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
 - [[objektai/asmenys/Viktoras Petkus]]
 - [[objektai/grupes/Lietuvos disidentai]]
-- [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai]]

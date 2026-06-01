@@ -18,13 +18,14 @@ Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė o
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė ore brolius kovojančius su lietuviais ir, sušaukęs savo šeimyną, tarė: „Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais?'
+  teiginys: 'Kaimo kūlikas regėjime matė ore brolius, kovojančius su lietuviais, ir klausė šeimynos, ar ji mato brolių kovą su netikėliais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kaimo kūlikas regėjime matė ore brolius, kovojančius su lietuviais, ir klausė šeimynos, ar ji mato brolių kovą su netikėliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį
@@ -47,4 +48,5 @@ Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė o
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Mergelė Marija]]

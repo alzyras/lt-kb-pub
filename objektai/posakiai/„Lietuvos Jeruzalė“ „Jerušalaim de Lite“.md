@@ -35,7 +35,7 @@ amziai:
     - c-002
 
 - t-003
-  teiginys: 'Šis pavadinimas ištraukoje aiškinamas kaip žydų gyvenimo pastovumo ir kultūros klestėjimo simbolis.'
+  teiginys: 'XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“, nes tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu.'
   pagrindžia:
     - c-002
 

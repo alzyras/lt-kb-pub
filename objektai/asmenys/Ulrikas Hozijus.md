@@ -34,7 +34,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-002
 
 - t-002
-  teiginys: 'Tas pats Ulrikas visą laiką iki pat mirties buvo Vil­ niaus monetų kalyklos prižiūrėtojas.'
+  teiginys: 'Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.'
   pagrindžia:
     - c-006
 
@@ -44,7 +44,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-007
 
 - t-004
-  teiginys: 'Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos.'
+  teiginys: '1515 m. karalius leido Ulrikui Hozijui, Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, savo lėšomis statyti malūną.'
   pagrindžia:
     - c-005
 
@@ -59,7 +59,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-004
 
 - t-007
-  teiginys: 'Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­ tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52.'
+  teiginys: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui.'
   pagrindžia:
     - c-003
 
@@ -119,6 +119,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-001
 
 - c-003
+  santrauka: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
@@ -164,6 +165,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-006
 
 - c-005
+  santrauka: '1515 m. karalius leido Ulrikui Hozijui, Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, savo lėšomis statyti malūną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     40), matyti,
@@ -189,6 +191,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-004
 
 - c-006
+  santrauka: 'Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis
@@ -250,6 +253,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   statusas: verified
   pagrindžia:
     - t-002
+    - t-008
 
 - c-007
   santrauka: 'Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis.'
@@ -297,27 +301,6 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   pagrindžia:
     - t-003
 
-- c-008
-  santrauka: 'Tas pats Ulrikas visą laiką iki pat mirties buvo Vil­ niaus monetų kalyklos prižiūrėtojas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tas pats Ulrikas
-    visą laiką iki pat mirties buvo Vil­
-    niaus monetų kalyklos prižiūrėtojas.
-    Lietuvos Metrikos 8 knygoje, 114 L,
-    antrašt.: Przychody i Rozchody z Ko­
-    mor, yra tarp 1506 ir 1513 metų:
-    Kwetacya MeszczaninuKrakoivskomu
-    Ulriku Hożu, z derzenia Myncy Wi-
-    lensköje [Įgaliojimas Krokuvos mies­
-    tiečiui Ulrikui Hožui dėl Vilniaus
-    monetų kalyklos valdymo].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
@@ -335,6 +318,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]
 - [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]
 - [[objektai/zodynas/trečias grūdas]]

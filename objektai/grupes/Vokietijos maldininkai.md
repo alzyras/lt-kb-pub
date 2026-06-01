@@ -104,21 +104,6 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    288 (281). Apie maldininkų atvykimą
-
-      1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti
-    į Prūsijos žemę. Atvyko šie kilmingieji: jo kilnybė Verneris, Hoinbergo grafas, riteriai
-    Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
-    kitų kilmingųjų iš Reino.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-004
 
 ## Ryšiai
@@ -130,6 +115,5 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/vėliava]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
+- [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]

@@ -31,7 +31,7 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
     - c-001
 
 - t-002
-  teiginys: 'Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (Sabinus), daktarą ir Vilniaus vaitą, dėl to, kad jis, pažeisdamas pirkliams skirtas privilegijas, balandžio 7 dieną, pir­ madienį, išsiuntė miesto sargybos viršininką (Praefectum.'
+  teiginys: '1586 m. graikų tikėjimo Vilniaus pirkliai apskundė karaliui Vilniaus vaitą Stanislovą Sabiną.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
     - t-001
 
 - c-002
+  santrauka: '1586 m. graikų tikėjimo Vilniaus pirkliai apskundė karaliui Vilniaus vaitą Stanislovą Sabiną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be karaliaus Stepono laiškų, rašytų

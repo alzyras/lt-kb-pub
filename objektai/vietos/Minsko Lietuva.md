@@ -41,12 +41,12 @@ Nenurodyta
 - t-001
   teiginys: 'Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vidurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Į rytus nuo Vidurinės Lietuvos senosios rusėniškosios LDK žemės buvo vadinamos Minsko arba rusėnų Lietuva.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-003
   teiginys: 'Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
@@ -66,7 +66,7 @@ Nenurodyta
 - t-006
   teiginys: '„Vidurinės Lietuvos“ prasmę galima suvokti tik turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės vadinamos „Minsko“, arba „rusėnų“, Lietuva.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-007
   teiginys: 'Lietuviai, apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į Minsko Lietuvą.'
@@ -89,6 +89,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -122,23 +123,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-006
 
 - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
-    suformuota „Vidurinė Lietuva“. Remiantis tokia lenkiška Lietuvos sam-
-    prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
-    tarmė – lietuvių kalba. „Vidurinės Lietuvos“ prasmę galima suvokti tik
-    turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
-    dinamos „Minsko“, arba „rusėnų“, Lietuva.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos valia vykusiuose rinkimuose gen. Liucijano
@@ -153,19 +140,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Remiantis tokia lenkiška Lietuvos sam-
-    prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
-    tarmė – lietuvių kalba. „Vidurinės Lietuvos“ prasmę galima suvokti tik
-    turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
-    dinamos „Minsko“, arba „rusėnų“, Lietuva. Ši trijų dalių Lietuvos sampra-
-    ta, pasitelkiama neva siekiant atkurti LDK tradiciją, buvo tik deklaracija,
-    nebeatitinkanti istorinės tikrovės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006

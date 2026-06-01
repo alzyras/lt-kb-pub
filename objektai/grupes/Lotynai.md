@@ -27,7 +27,6 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
   teiginys: 'Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten lotynai 57 metus (Ptol.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -43,20 +42,6 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
     lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog
-    niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,
-    įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
-    apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
-    lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001
@@ -130,5 +115,5 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 - [[objektai/zodynas/valstybingumo sąmonė]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]
 - [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/posakiai/„Palemono universitetu“ „Lietuvos palemoniškųjų miestų sostine“]]
+- [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/autoriai/Peringskioeld]]

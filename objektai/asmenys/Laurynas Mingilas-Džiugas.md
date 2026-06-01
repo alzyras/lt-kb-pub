@@ -25,7 +25,7 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
 - t-002
   teiginys: 'Partizanas Laurynas Mingilas-Džiugas aprašė kautynes, per kurias iš vakarų ir šiaurinio kampo pasipylė automatinių ginklų serijos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -45,19 +45,6 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kautynes aprašė partizanas Laurynas Mingilas-Džiugas:
-
-    „„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę. Soku greitai ir paciumpu už
-    ginklo. Ir tuo pačiu metu iš vakarų ir šiaurinio kampo pusės pasipila automatinių ginklų
-    serijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

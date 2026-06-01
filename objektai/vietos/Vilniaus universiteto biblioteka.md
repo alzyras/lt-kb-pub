@@ -26,13 +26,14 @@ Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galim
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galima ap­ žiūrėti Vilniaus universiteto biblio­ tekoje.'
+  teiginys: 'Vilniaus universiteto bibliotekoje buvo saugomos kai kurios Žygimantų bibliotekos knygos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus universiteto bibliotekoje buvo saugomos kai kurios Žygimantų bibliotekos knygos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     97,

@@ -28,18 +28,19 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­ mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­ meninis - politinis gyvenimas.'
+  teiginys: 'Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Aleksandro II atėjimas į sostą buvo liberalių re­ formų pradžia: atgaivino visuomenės siekimus atgauti tai, kas buvo prarasta po 1830-1831 m. sukilimo, o gal net iškovoti daug daugiau - nepriklausomybę arba bent autonomiją.'
+  teiginys: 'Aleksandro II atėjimas į sostą žymėjo liberalių reformų pradžią ir atgaivino visuomenės politinius siekius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1855 m., po caro Nikolajaus I mirties ir
@@ -60,6 +61,7 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
     - t-001
 
 - c-002
+  santrauka: 'Aleksandro II atėjimas į sostą žymėjo liberalių reformų pradžią ir atgaivino visuomenės politinius siekius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
@@ -85,5 +87,4 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
 - [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas]]
 - [[objektai/zodynas/taikos suvažiavimai]]
-- [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
 - [[objektai/zodynas/Politinė amnestija]]

@@ -25,7 +25,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     - c-002
 
 - t-002
-  teiginys: 'To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­ kas.'
+  teiginys: 'Mozūrų kunigaikštis Henrikas pavojaus metu iškeliavo į Prūsus ir rado Vytautą Rittersverderyje.'
   pagrindžia:
     - c-001
 
@@ -37,6 +37,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mozūrų kunigaikštis Henrikas pavojaus metu iškeliavo į Prūsus ir rado Vytautą Rittersverderyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ta sunki Lenkijos būklė ir padeda mums išaiškinti Jo­
@@ -80,4 +81,3 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/kapituliacija]]

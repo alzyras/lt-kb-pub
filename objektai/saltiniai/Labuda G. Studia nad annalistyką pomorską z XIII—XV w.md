@@ -23,13 +23,14 @@ Dusburgietis teigia, kad labuda G.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad labuda G.'
+  teiginys: 'G. Labudos „Studia nad annalistyką pomorską z XIII—XV w.“ paskelbta 1955 m. Torunės leidinyje „Zapiski Towarzystwa Naukowego w Toruniu“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'G. Labudos „Studia nad annalistyką pomorską z XIII—XV w.“ paskelbta 1955 m. Torunės leidinyje „Zapiski Towarzystwa Naukowego w Toruniu“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Labuda G. Studia nad annalistyką pomorską z XIII—XV w.— Zapiski Towarzystwa

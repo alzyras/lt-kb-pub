@@ -38,13 +38,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo metu poreikis turėti savą gynybą ir per ne­ paliaujamus karus pažintis su kaimyninėmis šalimis, jau atsikračiusiomis netašyto barbariškumo, davė pradžią rastis Lietuvos žemėje medinėms pilims ir tvirtovėms.'
+  teiginys: 'XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­

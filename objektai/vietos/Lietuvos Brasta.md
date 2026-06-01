@@ -35,7 +35,7 @@ amziai:
 - t-002
   teiginys: 'Remiantis S. Zabielos raportais, Lietuvos kariuomenė per Lietuvos Brastos mūšį neteko apie 300 karių.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-003
   teiginys: '1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota.'
@@ -43,21 +43,16 @@ amziai:
     - c-001
 
 - t-004
-  teiginys: 'Lietuvos kariuomenė, remiantis S.'
+  teiginys: 'Remiantis S. Zabielos raportais, prie Lietuvos Brastos Lietuvos kariuomenė neteko apie 300 karių.'
   pagrindžia:
     - c-003
 
 - t-005
-  teiginys: 'Zabielai atvykus į Lietuvos Brastą, iškart imta įtvirtinti miestą.'
-  pagrindžia:
-    - c-007
-
-- t-006
   teiginys: '1432 m. pradžioje derybos tarp lenkų ir lietuvių strigo (tuo metu Jogaila stovėjo Liubline, Švitrigaila su kryžiuočių atstovais - Brastoje).'
   pagrindžia:
     - c-005
 
-- t-007
+- t-006
   teiginys: 'Vienas paskutinių svarbių gynybos taškų liko Lietuvos Brastos miestas, prie kurio nutarta pabandyti sustabdyti Rusijos kariuomenės veržimąsi į vakarus.'
   pagrindžia:
     - c-002
@@ -95,9 +90,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-003
+  santrauka: 'Remiantis S. Zabielos raportais, prie Lietuvos Brastos Lietuvos kariuomenė neteko apie 300 karių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio padariniai
@@ -110,6 +106,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -138,42 +135,6 @@ amziai:
     ir lietuvių strigo (tuo metu Jogaila sto-
     vėjo Liubline, Švitrigaila su kryžiuo-
     čių atstovais - Brastoje). Gegužės 15 d.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-006
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio padariniai
-
-    Mūšis truko apie 8 valandas. Lietuvos ka-
-    riuomenė, remiantis S. Zabielos raportais,
-    neteko apie 300 karių. Rusų duomenimis
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio išvakarėse
-
-    Liepos 20 d. S. Zabielai atvykus į Lietuvos
-    Brastą, iškart imta įtvirtinti miestą. Inži-
-    nerijos pulkininkui Jokūbui Jasinskui
-    vadovaujant pradėtas statyti antras til-
-
-    tas per Bugą, turėjęs užtikrinti atsitrau-
-    kimą, esant kritiškai situacijai, užverstos
-    dvi brastos Senajame Muchavece, prieš
-    tiltą per Muchaveco upę supiltas pyli-
-    mas, nuo kurio pabūklai galėjo apšaudyti
-    miesto prieigas. Miesto centre dalis gatvių
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

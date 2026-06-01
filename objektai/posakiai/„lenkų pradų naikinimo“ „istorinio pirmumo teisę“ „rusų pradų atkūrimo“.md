@@ -43,14 +43,14 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     - c-003
 
 - t-004
-  teiginys: 'L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.'
+  teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-005
   teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -73,35 +73,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Neva po Liublino unijos LDK
-    tebuvo Lenkijos valda. Taigi, „susigrąžinusi“ tai, kas jai priklauso pagal
-    „istorinio pirmumo teisę“, Rusija turi teisę, kad ir prievarta, „atkurti is-
-    torinį teisingumą“. Todėl naikintos institucijos, kurios skyrė šį kraštą nuo
-    likusios Rusijos, vietos administracijoje neleidžiama vartoti lenkų kalbos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Rusų pradų atkūrimo“
-    politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu. Nuga-
-    lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
-    tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
-    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
-    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
+  santrauka: 'Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -128,8 +100,9 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
-- c-005
+- c-003
   santrauka: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -147,6 +120,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   statusas: verified
   pagrindžia:
     - t-005
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

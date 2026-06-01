@@ -30,7 +30,7 @@ Vartojamos formos: `žiuponais`.
     - c-002
 
 - t-002
-  teiginys: 'Žodis siejamas su Žemaičių krašto politine sandara ankstyvaisiais viduramžiais.'
+  teiginys: 'Žiuponais prašalaičiai vadino lietuvių ponus, kurie IX amžiuje minimi Žemaičių krašte.'
   pagrindžia:
     - c-001
 
@@ -60,6 +60,4 @@ Vartojamos formos: `žiuponais`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Sandara]]
 - [[objektai/zodynas/Šaldros|šaldros]]
-- [[objektai/grupes/Žemaičiai]]

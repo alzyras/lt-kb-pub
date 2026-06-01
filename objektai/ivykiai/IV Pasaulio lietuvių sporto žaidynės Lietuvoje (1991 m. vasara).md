@@ -47,26 +47,11 @@ Nenurodyta
 - t-002
   teiginys: 'Atkūrus Lietuvą, beveik visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuose.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atkūrus Lietuvą, beveik
-    visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuo-
-    se. Daug geriausių žaidėjų (krepšininkų, futbolininkų, rankininkų) nuo
-    1988 m. išvažiavo sportuoti į užsienio klubus. Tačiau 1991 m. vasarą
-    Lietuvoje surengtose IV Pasaulio lietuvių sporto žaidynėse dalyvavo apie
-    2 tūkst. lietuvių sportininkų iš viso pasaulio.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Atkūrus Lietuvą, beveik visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -81,6 +66,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

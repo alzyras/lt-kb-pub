@@ -62,5 +62,4 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/posakiai/pacatum hominum genus omnino]]
-- [[objektai/autoriai/Łowmiański H]]
 - [[objektai/grupes/Žemaičiai]]

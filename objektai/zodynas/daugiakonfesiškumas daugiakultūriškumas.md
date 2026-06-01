@@ -20,7 +20,7 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
 ## Teiginiai
 
 - t-001
-  teiginys: 'LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
+  teiginys: 'LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai
@@ -72,5 +73,4 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/unija]]
-- [[objektai/grupes/Katalikų bažnyčia katalikai]]
 - [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]

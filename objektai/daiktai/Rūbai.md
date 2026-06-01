@@ -82,7 +82,6 @@ Nenurodyta
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
-- [[objektai/daiktai/Drabužiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Marienverderio miestiečiai]]

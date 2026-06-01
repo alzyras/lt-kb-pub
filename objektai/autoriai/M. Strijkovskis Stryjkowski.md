@@ -31,96 +31,92 @@ periodo_grupes:
 - t-001
   teiginys: 'Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.'
   pagrindžia:
-    - c-015
+    - c-014
 
 - t-002
-  teiginys: 'Bet­ gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia, i Grzybowski knygoje Skarb nieoszacowany O O.'
+  teiginys: 'Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama.'
   pagrindžia:
     - c-011
 
 - t-004
-  teiginys: 'Tačiau atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­ siartinus prie Strėvos upės Trakų paviete, tankiame miške iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių, 54 Stryjkowski, p. 464, aiškiai nurodo, kad Švitrigaila pilies užėmi­ mo.'
+  teiginys: 'Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste.'
   pagrindžia:
     - c-005
 
-- t-005
-  teiginys: 'Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466.'
-  pagrindžia:
-    - c-013
-
-- t-008
-  teiginys: '22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv.'
+- t-007
+  teiginys: 'Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
   pagrindžia:
     - c-006
 
-- t-010
+- t-009
   teiginys: 'Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.'
   pagrindžia:
     - c-002
 
-- t-015
-  teiginys: 'Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk.'
+- t-014
+  teiginys: 'Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimą, Goštautas pastatydino Šv. Petro bažnyčią.'
   pagrindžia:
     - c-009
 
-- t-016
+- t-015
   teiginys: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn.'
   pagrindžia:
-    - c-016
+    - c-015
 
-- t-018
-  teiginys: 'Strijkovskis ir Koj e- 1 a v i č i u s apie tą gudrybę pana­ šiai mena, pridurdami, kad Vytau­ tas paleidęs gandą, esą atvykęs į Vil­ nių rengti savo sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku iškilmių, kas panašiau į tie­ są negu tai, apie.'
+- t-017
+  teiginys: 'Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.'
   pagrindžia:
     - c-003
 
-- t-019
-  teiginys: 'To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­ lio; apie pastarąjį mūšį užsimena Strijkovskis.'
+- t-018
+  teiginys: 'Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė.'
   pagrindžia:
     - c-008
 
-- t-020
-  teiginys: '31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių.'
-  pagrindžia:
-    - c-018
-
-- t-021
-  teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
+- t-019
+  teiginys: 'Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių.'
   pagrindžia:
     - c-017
 
-- t-023
-  teiginys: 'Nors Strijkovskis yra pasakęs, kad Gedimino pa­ laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi, žinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­ mino kalne, manytume greičiau jį esant čia palaidotą.'
+- t-020
+  teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
+  pagrindžia:
+    - c-016
+
+- t-022
+  teiginys: 'Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   pagrindžia:
     - c-012
 
-- t-024
-  teiginys: '27 Stryjkowski,ed. Królewiec, 1.487 tą susirėmimą ir mūšį prie Vižūnų laiko vienu ir tuo pačiu, kas priešta­ rauja tiesai.'
+- t-023
+  teiginys: 'Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu.'
   pagrindžia:
     - c-001
 
-- t-025
-  teiginys: 'Prie Kauno su jais susijungė, be Žemai- 23 Strijkovskis apsirinka nurody­ damas, esą Lankasteris, Anglijos ka­ raliaus Henriko sūnus, su didžiulė­ mis anglų, škotų bei prancūzų ir 1.1, pajėgomis įsibrovė į Lietuvą.'
+- t-024
+  teiginys: 'Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.'
   pagrindžia:
     - c-004
 
-- t-028
-  teiginys: 'Strijkovskis klysta tvir­ tindamas, esą miškas lietuviškai va­ dinamas laukas ir nuo to žodžio paėjęs Lukiškių pavadinimas.'
+- t-027
+  teiginys: 'Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas.'
   pagrindžia:
     - c-010
 
-- t-029
+- t-028
   teiginys: 'Strijkovskis, aprašydamas Vilniaus apgultį, teigė, kad Mikalojus Moskorovskis su lenkais narsiai gynė Aukštutinę pilį.'
   pagrindžia:
     - c-007
 
-- t-030
+- t-029
   teiginys: 'Strijkovskis prie Vilniaus apsupties metu nukautųjų priskyrė Narimantą ir pateikė Długoszo pasakojimą apie jo mirtį.'
   pagrindžia:
-    - c-014
+    - c-013
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     27
@@ -150,7 +146,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-023
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -171,16 +167,17 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
-    - t-027
-    - t-013
-    - t-022
+    - t-009
+    - t-026
     - t-012
-    - t-031
+    - t-021
     - t-011
-    - t-032
+    - t-030
+    - t-010
+    - t-031
 
 - c-003
+  santrauka: 'Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
@@ -212,9 +209,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
 - c-004
+  santrauka: 'Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prancūzams ir kitiems kariams vadovavo narsusis
@@ -237,9 +235,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-024
 
 - c-005
+  santrauka: 'Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vienas tik Sudimantas, lietuvių vadas, sučiuptas per
@@ -268,6 +267,7 @@ periodo_grupes:
     - t-004
 
 - c-006
+  santrauka: 'Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabartinis
@@ -303,7 +303,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-007
   santrauka: 'Strijkovskis, aprašydamas Vilniaus apgultį, teigė, kad Mikalojus Moskorovskis su lenkais narsiai gynė Aukštutinę pilį.'
@@ -351,9 +351,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-029
+    - t-028
 
 - c-008
+  santrauka: 'Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo neat­
@@ -369,9 +370,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-018
 
 - c-009
+  santrauka: 'Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimą, Goštautas pastatydino Šv. Petro bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     20
@@ -384,9 +386,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
 - c-010
+  santrauka: 'Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčia, o Ant­
@@ -401,9 +404,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-027
 
 - c-011
+  santrauka: 'Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
@@ -430,6 +434,7 @@ periodo_grupes:
     - t-002
 
 - c-012
+  santrauka: 'Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gedimi­
@@ -447,43 +452,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-022
 
 - c-013
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis
-    priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­
-    kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­
-    bių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
-    data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
-    tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­
-    mą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-
-    55
-    Stryjkowski, p. 466, Kromer,
-    Lib. XV. p. 247, byloja, kad tas Ria-
-    zanės kunigaikščio autentiškas lai­
-    davimas už savo žentą Kaributą jo
-    laikais buvo karališkajame archyve:
-    Atque hinc nata esse videtur sponsio
-    Alexandri Resanensium Ducis pro Co-
-    ributho regi facta, et literarum monu­
-    mentis, quae extant in archivo regio,
-    signata, cum eum rex e vinculis libe-
-    rasset [Ir po to atrodo, kad yra Ria-
-    zanės kunigaikščio Aleksandro pa­
-    darytas tinkamas laidavimas už
-    karalių Kaributą ir raštiškais doku­
-    mentais, kurie tebėra karališkajame
-    archyve, antspauduotas, su kuriuo
-    karalius iš kalėjimo paleistas].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-014
   santrauka: 'Strijkovskis prie Vilniaus apsupties metu nukautųjų priskyrė Narimantą ir pateikė Długoszo pasakojimą apie jo mirtį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -517,9 +488,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-029
 
-- c-015
+- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo
@@ -542,15 +513,15 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-    - t-017
-    - t-007
+    - t-016
     - t-006
-    - t-026
-    - t-014
+    - t-005
+    - t-025
+    - t-013
     - t-003
-    - t-009
+    - t-008
 
-- c-016
+- c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7
@@ -565,9 +536,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
-- c-017
+- c-016
   santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -620,9 +591,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-020
 
-- c-018
+- c-017
+  santrauka: 'Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis ir Koje-
@@ -643,7 +615,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-019
 
 ## Ryšiai
 ### Susiję objektai
@@ -674,9 +646,7 @@ periodo_grupes:
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Škotai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Narimantas]]
 - [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
-- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/zodynas/Ordino maršalas didysis maršalas]]
 - [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]

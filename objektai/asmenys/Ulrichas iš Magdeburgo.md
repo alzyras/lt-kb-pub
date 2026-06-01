@@ -50,21 +50,6 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio stipraus kūno sudėjimo, kad lenkė visus kitus vyrus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    126 (121). Apie brolį Ulrichą ir 50 prūsų žūtį
-
-      Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio
-    stipraus kūno sudėjimo, kad lenkė visus kitus vyrus. Jis vienu pirštu paimdavęs už diržo
-    per nugarą du ginklanešius  ir, nors jie  ir priešindavosi, lyg niekur nieko pakeldavęs
-    aukštyn.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

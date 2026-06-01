@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '(Dovanojame) mūsų dvarą Me­ dininkų valsčiuje; kurį kitados val­ dė broliai Ivaška ir Fedka, vadina­ mi Korevičiais, ir vieną žemę, taip pat mūsų valdinio, vadinamo Andriušiu, prie to paties dvaro esančią.'
+  teiginys: 'Rašelė minima kaip viena iš upių prie Lakajų ežero Dubingių valsčiuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rašelė minima kaip viena iš upių prie Lakajų ežero Dubingių valsčiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [Dievobaimin­

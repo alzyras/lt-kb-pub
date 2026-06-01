@@ -18,7 +18,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad todėl broliai, 283 D.— Nogadi, Jer.— Nogat.'
+  teiginys: 'Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo.'
   pagrindžia:
     - c-003
 
@@ -65,6 +65,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     - t-003
 
 - c-003
+  santrauka: 'Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl broliai,

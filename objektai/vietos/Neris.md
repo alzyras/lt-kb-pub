@@ -2,7 +2,6 @@
 tipas: vieta
 pavadinimas: 'Neris'
 saltiniai:
-  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -30,51 +29,37 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-001
   teiginys: 'Prūsijos dokumentuose Neris XIII a. buvo vadinama Neria.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-002
-  teiginys: 'Bet plačiai išsiliejusi Neris ir pilni grioviai vandens kliudė galutinai laimėti.'
+  teiginys: 'Per mūšius prie Vilniaus plačiai išsiliejusi Neris ir vandens pilni grioviai trukdė galutinai laimėti.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Neris anksčiau vadinta ir Panerta, nes, žiūrint nuo aukštų kalnų, atrodė tarsi panirusi.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
-  teiginys: 'Tad, manau, jog lietuviai seniau vadino Vilija, Neris arba Neria to­ dėl, kad ši upė išrausė sau gilią va­ gą, suformuodama aukštas smėlin­ gas pakrantes.'
+  teiginys: 'Neris arba Neria galėjo būti taip vadinama dėl gilios upės vagos ir aukštų smėlingų pakrančių.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Neris buvo siejama su žodžiu „Panerta“, nes žiūrint nuo aukštų kalnų atrodė tarsi panirusi.'
   pagrindžia:
     - c-004
 
-- t-005
-  teiginys: 'Anksčiau kitaip buvo vadinama arba turėjo ir kitą vardą - Neris, nuo to rasi, kad glū­ dėjo tarp iškilių kalnų arba tikriausia, kad žiūrinčiajam nuo aukštų kalnų atrodė tarsi panirusi - lietuviškai - Panerta, nuo ko ją supantys kalnai ir mūsų laikais vadinami.'
-  pagrindžia:
-    - c-003
-
 - t-006
-  teiginys: 'Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais buvo tarp Nemuno ir Neries upių.'
+  teiginys: 'Kronikininkai Vygandas ir Lindenblattas Nerį vadino vardais Nerga, Nerge, Nerye ir Neria.'
   pagrindžia:
-    - c-001
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau lietuviškai kalbantys žmonės nebūtinai save vadino
-    lietuviais, o savo žemę – Lietuva. Iki šiol labiausiai paplitusi versija buvo
-    Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
-    toli Kernavės, vardo. Tradiciškai manoma, kad Lietuvos valstybės bran-
-    duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
-    buvo tarp Nemuno ir Neries upių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-002
+  santrauka: 'Per mūšius prie Vilniaus plačiai išsiliejusi Neris ir vandens pilni grioviai trukdė galutinai laimėti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dieną ir naktį ėjo mūšiai prie Vilniaus sienų. Pa­
@@ -87,28 +72,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   pagrindžia:
     - t-002
 
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    T. II. Anksčiau kitaip
-    buvo vadinama arba turėjo ir kitą
-    vardą - Neris, nuo to rasi, kad glū­
-    dėjo tarp iškilių kalnų arba tikriausia,
-    kad žiūrinčiajam nuo aukštų kalnų
-    atrodė tarsi panirusi - lietuviškai -
-    Panerta, nuo ko ją supantys kalnai
-    ir mūsų laikais vadinami Paneriais.
-    Upė Nerige, dažnai minima senovi­
-    niame Lietuvos kelių aprašyme,
-    esančiame Kryžiuočių archyve, yra
-    dabartinė Vilija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-004
+- c-002
+  santrauka: 'Neris arba Neria galėjo būti taip vadinama dėl gilios upės vagos ir aukštų smėlingų pakrančių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš kur kilo Nehrung arba Ne-
@@ -127,28 +92,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   pagrindžia:
     - t-004
 
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    T. II. Anksčiau kitaip
-    buvo vadinama arba turėjo ir kitą
-    vardą - Neris, nuo to rasi, kad glū­
-    dėjo tarp iškilių kalnų arba tikriausia,
-    kad žiūrinčiajam nuo aukštų kalnų
-    atrodė tarsi panirusi - lietuviškai -
-    Panerta, nuo ko ją supantys kalnai
-    ir mūsų laikais vadinami Paneriais.
-    Upė Nerige, dažnai minima senovi­
-    niame Lietuvos kelių aprašyme,
-    esančiame Kryžiuočių archyve, yra
-    dabartinė Vilija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-006
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prūsijos dokumen­
@@ -167,8 +111,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   pagrindžia:
     - t-001
 
-- c-007
-  santrauka: 'Anksčiau kitaip buvo vadinama arba turėjo ir kitą vardą - Neris, nuo to rasi, kad glū­ dėjo tarp iškilių kalnų arba tikriausia, kad žiūrinčiajam nuo aukštų kalnų atrodė tarsi panirusi - lietuviškai - Panerta, nuo ko ją supantys kalnai ir mūsų laikais vadinami.'
+- c-004
+  santrauka: 'Kronikininkai Vygandas ir Lindenblattas Nerį vadino vardais Nerga, Nerge, Nerye ir Neria.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anksčiau kitaip
@@ -190,4 +134,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
+    - t-005
+    - t-003

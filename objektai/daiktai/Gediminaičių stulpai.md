@@ -50,13 +50,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 235 Sąjūdžio ženklas su Gedimino stulpais (dail.'
+  teiginys: 'Gediminaičių stulpai buvo panaudoti Sąjūdžio ženkle, kurį kūrė Giedrius Reimeris ir Algimantas Nasvytis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminaičių stulpai buvo panaudoti Sąjūdžio ženkle, kurį kūrė Giedrius Reimeris ir Algimantas Nasvytis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Čekoslo-

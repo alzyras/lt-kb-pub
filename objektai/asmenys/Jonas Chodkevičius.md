@@ -84,7 +84,6 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 - [[objektai/grupes/Radvilos]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]

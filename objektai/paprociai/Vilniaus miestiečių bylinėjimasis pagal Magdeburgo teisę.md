@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­ rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­ mus, atskiru liepos 7 d..'
+  teiginys: '1564 m. Žygimantas Augustas atskyrė Vilniaus miestiečius nuo Statuto galios ir suteikė daugiau laisvės bylinėtis pagal Magdeburgo teisę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1564 m. Žygimantas Augustas atskyrė Vilniaus miestiečius nuo Statuto galios ir suteikė daugiau laisvės bylinėtis pagal Magdeburgo teisę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai dar 1564 metais Bełsko seime Žygimantas Augustas

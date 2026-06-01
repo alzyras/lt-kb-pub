@@ -23,19 +23,14 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
 - t-001
   teiginys: 'Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų^32.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
-  teiginys: 'Matusas : Schlözer A.'
-  pagrindžia:
-    - c-004
-
-- t-003
   teiginys: 'Augustas Ludvikas Schlözeris 1785 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-003
   teiginys: 'Augustas Ludvikas Schlözeris pripažino, kad jo veikalas nebuvo originalus, o perdirbtas ir sutrumpintas Kojalavičiaus tekstas.'
   pagrindžia:
     - c-002
@@ -56,21 +51,9 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Autorius nuoširdžiai prisi­
-    pažino, kad jis davęs ne originalų veikalą, o tik perdirbęs ir su­
-    trumpinęs Kojalavičių, kurio vertę, kaip istoriko, aukštai kėlė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
@@ -83,35 +66,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ten teveikė viena istorijos katedra su
-
-    (^32) **_Geschichte von Litauen als einem eigenen Grossfürstentume,_** **serijoje :**
-    **_Aug. Ludw. Scllözer und Ludw. Albr. Gebhard_** **, Fortsetzung der Allgemeinen
-    Welthistorie, Teil 50. Žr. J. Matusas :** **_Schlözer A. L_** **., LE, t. 27, 91-92 p.**
-    (^33) **Z.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Autorius nuoširdžiai prisi­
-    pažino, kad jis davęs ne originalų veikalą, o tik perdirbęs ir su­
-    trumpinęs Kojalavičių, kurio vertę, kaip istoriko, aukštai kėlė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/posakiai/didžiuliu paklydimu]]

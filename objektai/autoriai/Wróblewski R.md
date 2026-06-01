@@ -17,13 +17,14 @@ Dusburgietis teigia, kad wróblewski R.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad wróblewski R.'
+  teiginys: 'R. Wróblewskis 1970 m. Lodzėje paskelbė straipsnį apie jotvingių problemą Boleslovo Droviojo politikoje 1248–1264 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Wróblewskis 1970 m. Lodzėje paskelbė straipsnį apie jotvingių problemą Boleslovo Droviojo politikoje 1248–1264 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—

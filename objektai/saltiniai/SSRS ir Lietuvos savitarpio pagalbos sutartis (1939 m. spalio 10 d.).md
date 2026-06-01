@@ -31,9 +31,14 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: 'Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J.'
+  teiginys: '1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, pasirašyta SSRS ir Lietuvos savitarpio pagalbos sutartis.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Pagal 1939 m. spalio 10 d. sutartį Lietuva gavo Vilnių ir dalį teritorijos, bet turėjo įsileisti sovietų karines bazes.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -55,6 +60,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: '1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, pasirašyta SSRS ir Lietuvos savitarpio pagalbos sutartis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
@@ -72,7 +78,7 @@ amziai:
     - t-002
 
 - c-003
-  santrauka: 'Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J.'
+  santrauka: 'Pagal 1939 m. spalio 10 d. sutartį Lietuva gavo Vilnių ir dalį teritorijos, bet turėjo įsileisti sovietų karines bazes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija

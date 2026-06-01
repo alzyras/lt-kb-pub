@@ -19,7 +19,7 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
 ## Teiginiai
 
 - t-001
-  teiginys: 'Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir kalbos kilmę" (1806 m.), kurioje ragina gelbėti lietuvybę.'
+  teiginys: 'Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę.'
   pagrindžia:
     - c-002
 
@@ -46,6 +46,7 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
     - t-002
 
 - c-002
+  santrauka: 'Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tokį pra-

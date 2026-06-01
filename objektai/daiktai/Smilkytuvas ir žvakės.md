@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino; paklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną.'
+  teiginys: 'Pasak mirštančio Kulmo pilėno, Marija ėjo paskui dvi mergeles su degančiomis žvakėmis ir smilkė žuvusiuosius smilkytuvu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pasak mirštančio Kulmo pilėno, Marija ėjo paskui dvi mergeles su degančiomis žvakėmis ir smilkė žuvusiuosius smilkytuvu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     41. Apie vieną stebuklą
@@ -74,5 +75,6 @@ Nenurodyta
 - [[temos/laidotuvės]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Marija]]
 - [[objektai/asmenys/Mergelė Marija]]
 - [[objektai/posakiai/Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes]]

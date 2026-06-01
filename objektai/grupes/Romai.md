@@ -18,13 +18,14 @@ Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose L I E
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose L I E T U V O S I S T O R I J A 202 kraštuose likviduoti žydus, romus, nepagydomus ir psichinius ligonius, sovietų valdžios ir komunistų partijos darbuotojus.'
+  teiginys: 'Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose kraštuose likviduoti romus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose kraštuose likviduoti romus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose

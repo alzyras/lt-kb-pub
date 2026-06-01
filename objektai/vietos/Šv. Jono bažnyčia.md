@@ -20,7 +20,7 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jono bažnyčią, visą mū­ rinį.'
+  teiginys: 'Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.'
   pagrindžia:
     - c-002
 
@@ -50,6 +50,7 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
     - t-002
 
 - c-002
+  santrauka: 'Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mes cituojame tik tuos, kuriuos

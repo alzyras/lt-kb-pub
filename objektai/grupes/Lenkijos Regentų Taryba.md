@@ -19,13 +19,14 @@ Tada okupacinę valdžią buvo paėmusios į savo rankas vokiečių kareivių (p
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada okupacinę valdžią buvo paėmusios į savo rankas vokiečių kareivių (paskelbusių revoliuciją) tarybos.'
+  teiginys: 'Vietiniai lenkai kvietė Lenkijos Regentų Tarybą užimti Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vietiniai lenkai kvietė Lenkijos Regentų Tarybą užimti Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada okupacinę valdžią buvo paėmu-

@@ -42,36 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '1421 m., po Cemb­lako mirties, Vytautas Kijevo metropolitu pripažino Maskvos Focijų ir prie unijos daugiau nebegrįžo.'
+  teiginys: '1421 m. po Cemblako mirties Vytautas Kijevo metropolitu pripažino Maskvos Focijų ir prie bažnytinės unijos nebegrįžo.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Po Cem­ blako mirties Kijevo metropolitu Vytautas pripažino Maskvos Focijų (1421) ir prie unijos daugiau nebegrįžo, nors gyveno dar apie 9 metus.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse. Po Cem­
-    blako mirties Kijevo metropolitu Vytautas pripažino Maskvos
-    Focijų (1421) ir prie unijos daugiau nebegrįžo, nors gyveno dar
-
-    apie 9 metus.
-    Ir taip Vytautui nepasisekė sukurti religiniu atžvilgiu vie­
-    ningos Lietuvos valstybės ir katalikybės pastūmėti toliau į ry­
-    tus, sustiprinant kartu savo valdžią rusų kraštuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Po Cem­ blako mirties Kijevo metropolitu Vytautas pripažino Maskvos Focijų (1421) ir prie unijos daugiau nebegrįžo, nors gyveno dar apie 9 metus.'
+  santrauka: '1421 m. po Cemblako mirties Vytautas Kijevo metropolitu pripažino Maskvos Focijų ir prie bažnytinės unijos nebegrįžo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
@@ -89,6 +67,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

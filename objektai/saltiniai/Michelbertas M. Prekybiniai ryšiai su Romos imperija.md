@@ -23,13 +23,14 @@ Dusburgietis teigia, kad michelbertas M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad michelbertas M.'
+  teiginys: 'M. Michelberto darbas „Prekybiniai ryšiai su Romos imperija“ paskelbtas 1972 m. Vilniuje leidinyje „Lietuvos gyventojų prekybiniai ryšiai I-XIII a.“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Michelberto darbas „Prekybiniai ryšiai su Romos imperija“ paskelbtas 1972 m. Vilniuje leidinyje „Lietuvos gyventojų prekybiniai ryšiai I-XIII a.“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Michelbertas M. Prekybiniai ryšiai su Romos imperija.— Lietuvos gyventojų prekybiniai

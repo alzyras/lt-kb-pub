@@ -23,7 +23,7 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - t-001
   teiginys: 'Aukščiausiosios Tarybos rūmų rūsyje gynybai buvo įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Ant rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais.'
@@ -38,7 +38,7 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - t-004
   teiginys: 'Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais UŽDUOTIS AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu, Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.'
   pagrindžia:
-    - c-004
+    - c-005
 
 - t-005
   teiginys: '1991 m. sausio 11-12 d. rūmų vidus buvo įtvirtinamas spygliuota viela, smėlio maišais, armatūros tinklais, užminuotais laiptais ir baldų barikadomis.'
@@ -94,24 +94,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    medžiokliniu šautuvu. Ant Aukščiausiosios Tarybos
-    stogo pritvirtinti metaliniai strypai turėjo apsunkinti
-    šturmo grupių desantavimą sraigtasparniais
-
-    UŽDUOTIS
-
-    AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu,
-    Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.
-    |
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
     Rengiantis gynybai AT rūsyje buvo įreng-
     tos ginklų remonto ir šovinių, sprogmenų
     gamybos dirbtuvės bei šaudykla. Ginklai
@@ -122,7 +104,7 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   santrauka: 'Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais UŽDUOTIS AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu, Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -143,3 +125,4 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   statusas: verified
   pagrindžia:
     - t-006
+    - t-004

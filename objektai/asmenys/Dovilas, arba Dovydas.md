@@ -33,13 +33,14 @@ periodo_grupes:
     - c-002
 
 - t-002
-  teiginys: '48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą.'
+  teiginys: 'Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I. 48), liudija, kad XII amžiuje jau
@@ -80,7 +81,7 @@ periodo_grupes:
 ### Susiję objektai
 - [[objektai/asmenys/Dovydas]]
 - [[objektai/asmenys/Maukoldas]]
-- [[objektai/grupes/Krivičiai]]
+- [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Erdenas, arba Jerdenas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Vidas, pramintas Vilku]]

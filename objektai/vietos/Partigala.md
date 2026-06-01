@@ -29,13 +29,14 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     - c-003
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad 250 D.— castrum dictum Partegal, Jer.— hûs [...] Partegal. Vėliau — Partheinen (Parteiniai) į pietryčius nuo Balgos. Išliko pilies kalnas (HE, p. 110; GAO, p. 131, 116); plg. Bateinen (Bateiniai—Weber L., Preussen..., p. 491; dėl pastarojo vardo žr. GAO, p..'
+  teiginys: 'Partigala vėliau vadinta Partheinen ir buvo į pietryčius nuo Balgos, kur išliko pilies kalnas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Partigala vėliau vadinta Partheinen ir buvo į pietryčius nuo Balgos, kur išliko pilies kalnas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     250 D.— castrum dictum Partegal, Jer.— hûs [...] Partegal. Vėliau — Partheinen

@@ -28,7 +28,7 @@ Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams su suteiktais arkipres
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams su suteiktais arkipresbiterių titulais, kuriems į pagalbą bu­ vo duota keletas kunigų.'
+  teiginys: 'Nuo įkūrimo Šv. Jono bažnyčia buvo pavesta klebonams, turėjusiems arkipresbiterių titulus ir kelis pagalbininkus kunigus.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams su suteiktais arkipres
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nuo įkūrimo Šv. Jono bažnyčia buvo pavesta klebonams, turėjusiems arkipresbiterių titulus ir kelis pagalbininkus kunigus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčia, o kunigaikščio Aleksandro Vytauto lai­
@@ -85,6 +86,7 @@ Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams su suteiktais arkipres
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]

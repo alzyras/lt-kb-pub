@@ -25,32 +25,18 @@ Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai vengė tarnybos Raudonojoje armijoje.'
+  teiginys: 'Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai dezertyrai vengė tarnybos Raudonojoje armijoje.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl jie įtraukti į oficialiai ieškomų „dezertyrų“ kategoriją, tūkstančiai jų įsijungė į lietuvių partizanų, kovojusių prieš sovietus, gretas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pradėjęs mobilizaciją į SSRS kariuomenę, sovietų režimas nustebo,
-    kad lietuviai vengia tarnybos Raudonojoje armijoje, mat Lietuvos gyven-
-    tojai laikė savo šalį okupuota, kurioje SSRS negalėjo vykdyti vyrų mobi-
-    lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą
-    Hagos konvenciją).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl jie įtraukti į oficialiai ieškomų „dezertyrų“ kategoriją, tūkstančiai jų įsijungė į lietuvių partizanų, kovojusių prieš sovietus, gretas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -86,9 +72,9 @@ Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/NKVD]]
-- [[objektai/ivykiai/Sovietinė Lietuvos vyrų mobilizacija į Raudonąją armiją (1944 m. ruduo–1945 m.)]]

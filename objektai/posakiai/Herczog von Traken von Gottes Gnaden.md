@@ -17,13 +17,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '30 d., kaip „Herczog von Traken von Gottes Gnaden” išdavė magistrui raštą, pasi­ žadėdamas būti jo vasalu.'
+  teiginys: '1384 m. sausio 30 d. Karaliaučiuje Vytautas, pasivadinęs „Herczog von Traken von Gottes Gnaden“, išdavė magistrui raštą ir pažadėjo būti jo vasalu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1384 m. sausio 30 d. Karaliaučiuje Vytautas, pasivadinęs „Herczog von Traken von Gottes Gnaden“, išdavė magistrui raštą ir pažadėjo būti jo vasalu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     turėjo visus savo pažadus dokumentu patvirtinti. Todėl 1384

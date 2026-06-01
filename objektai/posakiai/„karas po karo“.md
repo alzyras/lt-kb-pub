@@ -44,6 +44,3 @@ Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/posakiai/karas po karo]]
-- [[objektai/grupes/Lietuvos partizanai]]
-- [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]
-- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]

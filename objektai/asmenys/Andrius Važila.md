@@ -28,18 +28,19 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
 ## Teiginiai
 
 - t-001
-  teiginys: 'O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­ piją20.'
+  teiginys: 'Vyskupas Andrius Važila gavo popiežiaus patvirtinimą perimti Vilniaus vyskupiją.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Kitais metais (1397 m.) atvykęs į Lie­ tuvą, Vladislovas Jogaila, kartu su kunigaikščiu Vytautu, atlygindami Vilniaus vyskupui Andriui už tokį dorą jo pa­ sišventimą, negailint savęs ir turto, nepaisant daugybės pa­ vojų, tykančių skleidžiant krikščioniškąjį.'
+  teiginys: '1397 m. Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui Važilai dviejų šimtų markių metines pajamas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1397 m. Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui Važilai dviejų šimtų markių metines pajamas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     140
@@ -64,6 +65,7 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
     - t-002
 
 - c-002
+  santrauka: 'Vyskupas Andrius Važila gavo popiežiaus patvirtinimą perimti Vilniaus vyskupiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stanislovo garbei, iškilmingai pripažinta katedra. O vys­

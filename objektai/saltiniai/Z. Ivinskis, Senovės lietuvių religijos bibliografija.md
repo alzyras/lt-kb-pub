@@ -17,13 +17,14 @@ Dusburgietis teigia, kad apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808; Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt.'
+  teiginys: 'Z. Ivinskio „Senovės lietuvių religijos bibliografija“ minima kaip literatūra apie Romovę arba Romuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Z. Ivinskio „Senovės lietuvių religijos bibliografija“ minima kaip literatūra apie Romovę arba Romuvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;

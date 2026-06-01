@@ -25,13 +25,14 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.'
+  teiginys: 'Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1555. Radvila tą mūrinį namą ir sklypą dovanojo savo

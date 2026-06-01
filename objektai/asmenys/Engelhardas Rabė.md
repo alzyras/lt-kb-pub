@@ -25,18 +25,19 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
 ## Teiginiai
 
 - t-001
-  teiginys: 'Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino maršalo Engelhardo Rabės22, kadangi didysis magistras Konradas Ciolneris gu­ lėjo pakirstas sunkios ligos.'
+  teiginys: 'Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie kurią užsimena F o i gt a s, V, 507, sudarytoje ties Kaunu 1388 metais, Scriptum prope Cowno in crastino b.'
+  teiginys: 'Ordino maršalas Engelhardas Rabė 1388 m. buvo taikos sutarties su Lietuva, sudarytos ties Kaunu, šalis.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
@@ -56,6 +57,7 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
     - t-001
 
 - c-002
+  santrauka: 'Ordino maršalas Engelhardas Rabė 1388 m. buvo taikos sutarties su Lietuva, sudarytos ties Kaunu, šalis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik taikos sutartyje tarp Ordi­
@@ -87,3 +89,4 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/Ordino maršalas didysis maršalas]]

@@ -25,13 +25,14 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad — Kayme; Kaimas (dab.'
+  teiginys: 'Kaimas buvo to paties vardo valsčiaus centras rytų Semboje, į vakarus nuo Deimenos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kaimas buvo to paties vardo valsčiaus centras rytų Semboje, į vakarus nuo Deimenos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     326 D. — Caym, Jer. — Kayme; Kaimas (dab. Zarečjė), to pat vardo valsčiaus centras

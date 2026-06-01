@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 12.
+Objektų skaičius: 11.
 
 ## Kaip naudoti
 
@@ -33,5 +33,4 @@ Objektų skaičius: 12.
 - [[objektai/posakiai/Respublika laikosi netvarka]]
 - [[objektai/posakiai/Vilnius - tai gyva senosios Lietuvos kronika]]
 - [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku]]
-- [[objektai/posakiai/« Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai. »]]
 - [[objektai/posakiai/„mylintis savo tėvynę... rusas yra internacionalistas...“]]

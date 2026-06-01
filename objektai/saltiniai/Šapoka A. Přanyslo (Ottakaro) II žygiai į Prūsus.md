@@ -23,13 +23,14 @@ Dusburgietis teigia, kad šapoka A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad šapoka A.'
+  teiginys: 'A. Šapokos „Přanyslo (Ottakaro) II žygiai į Prūsus“ paskelbta 1939 m. „Praeities“ 3 tome, 1-35 puslapiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Šapokos „Přanyslo (Ottakaro) II žygiai į Prūsus“ paskelbta 1939 m. „Praeities“ 3 tome, 1-35 puslapiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šapoka A. Přanyslo (Ottakaro) II žygiai į Prūsus.—Praeitis, K., 1939, t. 3, p. 1—35.

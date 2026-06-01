@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą.'
+  teiginys: 'Lizdeikos sapno aiškinimas paskatino Gediminą po aukų pastatyti Aukštutinę mūro pilį ant Tauro kalno ir medinę pilį slėnyje, pavadintą Vilniumi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lizdeikos sapno aiškinimas paskatino Gediminą po aukų pastatyti Aukštutinę mūro pilį ant Tauro kalno ir medinę pilį slėnyje, pavadintą Vilniumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     „Tad tenai Gedimi­
@@ -86,4 +87,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Lizdeika]]
 - [[objektai/daiktai/Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis]]

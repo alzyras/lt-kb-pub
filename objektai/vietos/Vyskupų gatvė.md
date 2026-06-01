@@ -40,7 +40,7 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
     - c-003
 
 - t-003
-  teiginys: 'Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų.'
+  teiginys: '1677 m. Paulius Bochenas 750 auksinų skyrė namui Vyskupų gatvėje remontuoti.'
   pagrindžia:
     - c-002
 
@@ -64,6 +64,7 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
     - t-001
 
 - c-002
+  santrauka: '1677 m. Paulius Bochenas 750 auksinų skyrė namui Vyskupų gatvėje remontuoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet Vilniaus mūriniai namai, Valerijono bursai užrašyti

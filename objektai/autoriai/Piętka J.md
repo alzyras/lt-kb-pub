@@ -26,13 +26,14 @@ Dusburgietis teigia, kad dobra ostrowickogolubskie..., p. 39; Piętka J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad dobra ostrowickogolubskie..., p. 39; Piętka J.'
+  teiginys: 'J. Piętka cituojamas dėl darbo „Geneza mazowieckiej...“, siejamo su Hugono Butyro veiklos Kulme aiškinimu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Piętka cituojamas dėl darbo „Geneza mazowieckiej...“, siejamo su Hugono Butyro veiklos Kulme aiškinimu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII

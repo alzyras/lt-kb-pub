@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '2 Apie Lietuvos ir Žemaitijos tapatu­ mą ir apie tą jos dalijimą į aukštuti­ nę ir žemutinę sužinome iš kuo pa­ tikimiausio šaltinio, iš didžiojo kunigaikščio Vytauto 1420 metais Romos imperatoriui Zigmantui rašvto laiško: Terra Samaytarum, - pa- 14 ##.'
+  teiginys: 'Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui minimas kaip patikimas šaltinis apie Lietuvos ir Žemaitijos tapatumą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui minimas kaip patikimas šaltinis apie Lietuvos ir Žemaitijos tapatumą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tikrai

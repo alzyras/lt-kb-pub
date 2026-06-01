@@ -36,13 +36,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš tą patį mūsų priešą Maskvos kunigaikštį ties Velikije Lūki, mūsų paskirtas vadovauti mūsų vengrų kariuomenės riteriams, ata­ kuojant priešo pilis ir visur, kur tik buvo nukreiptas su mū­.'
+  teiginys: 'Žygyje ties Velikije Lūki Gabrielis Bekešas buvo paskirtas vadovauti vengrų kariuomenės riteriams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygyje ties Velikije Lūki Gabrielis Bekešas buvo paskirtas vadovauti vengrų kariuomenės riteriams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 437
@@ -89,4 +90,6 @@ Nenurodyta
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/tėvonija]]
+- [[objektai/asmenys/Gabrielius Bekešas]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]

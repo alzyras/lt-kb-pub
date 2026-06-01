@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ma­ gistratas, Krokuvos miesto pavyzdžiu, turėjo išlaikyti 24 įpras­ tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­ ma dieną ir naktį.'
+  teiginys: 'Vilniaus magistratas turėjo išlaikyti 24 įprastai ginkluotus sargybinius, kad miesto tvarka būtų prižiūrima dieną ir naktį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus magistratas turėjo išlaikyti 24 įprastai ginkluotus sargybinius, kad miesto tvarka būtų prižiūrima dieną ir naktį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gaisro atveju kiekvienas miestie­
@@ -77,4 +78,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]

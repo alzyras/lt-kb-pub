@@ -62,26 +62,11 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    užpuolė. Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką
-    Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto
-    Jazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,
-    kalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]
-- [[objektai/asmenys/Henrikas Cutsvertas]]

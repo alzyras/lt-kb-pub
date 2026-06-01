@@ -88,6 +88,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -106,26 +107,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    145 (140). Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
-
-       Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
-    didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų. Visa tai plukdydami
-    Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris
-    kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
-    jei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino
-    tėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Pamedėnai]]

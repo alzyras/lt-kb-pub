@@ -24,13 +24,14 @@ Rygiškių Jono redaguotos „PASAKĖČIOS”.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rygiškių Jono redaguotos „PASAKĖČIOS”.'
+  teiginys: 'Rygiškių Jono redaguotos „Pasakėčios“ 1927 m. išleistos trečiu papildytu ir pataisytu leidimu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rygiškių Jono redaguotos „Pasakėčios“ 1927 m. išleistos trečiu papildytu ir pataisytu leidimu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     13. Rygiškių Jono redaguotos „PASAKĖČIOS”. Kalbos ir literatū­

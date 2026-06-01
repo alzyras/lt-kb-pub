@@ -36,7 +36,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - t-002
   teiginys: 'Prie Merkio ant nedidelės aukštumėlės stovėjo du mažesni namai, kuriuose gyvendavo Žygimantas Senasis ir karalienė Bona.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-003
   teiginys: 'Želigovskio pajėgos su negausiomis lietuvių pajėgomis susidūrė ties Merkio upe.'
@@ -44,7 +44,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     - c-001
 
 - t-004
-  teiginys: 'Per kelis šimtus žingsnių, ant nedidelės aukštumė­ lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods taip pat dviejų aukštų.'
+  teiginys: 'Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai.'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - t-006
   teiginys: 'Palei Merkį, Nemuną, Nerį, Ūlą ir Katrą gausiai aptikta mezolito įrankių.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -80,6 +80,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     - t-003
 
 - c-002
+  santrauka: 'Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto pasakojama apie giliai gelmėje
@@ -94,6 +95,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -126,22 +128,6 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     - t-005
 
 - c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vis dėlto pasakojama apie giliai gelmėje
-    glūdinčius požemius ir rūsius, ir pats mačiau čia kartais
-    išariamų Zigmanto III epochos sidabrinių ir varinių pini­
-    gėlių. Per kelis šimtus žingsnių, ant nedidelės aukštumė­
-    lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods
-    taip pat dviejų aukštų. Žygimantas Senasis paprastai gy­
-    vendavo viename, o karalienė Bona - antrame.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lie­

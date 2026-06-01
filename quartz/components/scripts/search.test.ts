@@ -2,7 +2,7 @@ import test, { describe } from "node:test"
 import assert from "node:assert"
 
 type SearchOptionsState = {
-  minQuoteCount: number
+  minClaimCount: number
   sourceSelectionMode: "all" | "custom"
   selectedSourceIds: string[]
 }
@@ -10,6 +10,7 @@ type SearchOptionsState = {
 type SearchFilterPage = {
   citationFilterable?: boolean
   quoteCount?: number
+  claimCount?: number
   citationSourceIds?: string[]
 }
 
@@ -73,7 +74,7 @@ const searchOptionsMatchPage = (
   page: SearchFilterPage | undefined,
   options: SearchOptionsState,
 ): boolean => {
-  const active = options.minQuoteCount > 0 || options.sourceSelectionMode === "custom"
+  const active = options.minClaimCount > 0 || options.sourceSelectionMode === "custom"
   if (!active) {
     return true
   }
@@ -81,8 +82,8 @@ const searchOptionsMatchPage = (
     return false
   }
 
-  const quoteCount = Number(page.quoteCount ?? 0)
-  if (quoteCount < options.minQuoteCount) {
+  const claimCount = Number(page.claimCount ?? 0)
+  if (claimCount < options.minClaimCount) {
     return false
   }
 
@@ -225,21 +226,56 @@ describe("search encoder", () => {
 })
 
 describe("search option filters", () => {
-  test("hide non-citation pages when quote filter is active", () => {
+  test("hide non-citation pages when claim filter is active", () => {
     assert.equal(
       searchOptionsMatchPage(
-        { citationFilterable: false, quoteCount: 0 },
-        { minQuoteCount: 1, sourceSelectionMode: "all", selectedSourceIds: [] },
+        { citationFilterable: false, quoteCount: 0, claimCount: 0 },
+        { minClaimCount: 1, sourceSelectionMode: "all", selectedSourceIds: [] },
       ),
       false,
     )
   })
 
-  test("keep pages that meet the minimum quote count", () => {
+  test("keep pages that meet the minimum claim count", () => {
     assert.equal(
       searchOptionsMatchPage(
-        { citationFilterable: true, quoteCount: 92, citationSourceIds: ["eidintas-2013"] },
-        { minQuoteCount: 50, sourceSelectionMode: "all", selectedSourceIds: [] },
+        {
+          citationFilterable: true,
+          quoteCount: 92,
+          claimCount: 50,
+          citationSourceIds: ["eidintas-2013"],
+        },
+        { minClaimCount: 50, sourceSelectionMode: "all", selectedSourceIds: [] },
+      ),
+      true,
+    )
+  })
+
+  test("hide pages below the minimum claim count even when they have many quotes", () => {
+    assert.equal(
+      searchOptionsMatchPage(
+        {
+          citationFilterable: true,
+          quoteCount: 92,
+          claimCount: 4,
+          citationSourceIds: ["eidintas-2013"],
+        },
+        { minClaimCount: 5, sourceSelectionMode: "all", selectedSourceIds: [] },
+      ),
+      false,
+    )
+  })
+
+  test("keep pages at the default minimum claim count", () => {
+    assert.equal(
+      searchOptionsMatchPage(
+        {
+          citationFilterable: true,
+          quoteCount: 1,
+          claimCount: 5,
+          citationSourceIds: ["eidintas-2013"],
+        },
+        { minClaimCount: 5, sourceSelectionMode: "all", selectedSourceIds: [] },
       ),
       true,
     )
@@ -248,8 +284,13 @@ describe("search option filters", () => {
   test("respect selected citation sources", () => {
     assert.equal(
       searchOptionsMatchPage(
-        { citationFilterable: true, quoteCount: 12, citationSourceIds: ["sapoka-1936"] },
-        { minQuoteCount: 1, sourceSelectionMode: "custom", selectedSourceIds: ["eidintas-2013"] },
+        {
+          citationFilterable: true,
+          quoteCount: 12,
+          claimCount: 12,
+          citationSourceIds: ["sapoka-1936"],
+        },
+        { minClaimCount: 1, sourceSelectionMode: "custom", selectedSourceIds: ["eidintas-2013"] },
       ),
       false,
     )

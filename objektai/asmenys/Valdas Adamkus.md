@@ -28,7 +28,7 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos saugumo aplinkoje“ metu Lietuvos Respublikos prezidentas Valdas Adamkus ir NATO Generalinis sekretorius Džordžas Robertsonas 2000 m. gegužės 19 d. L I E T U V O S I S T O R I J A 260.'
+  teiginys: 'Valdas Adamkus 2000 m. gegužės 19 d. dalyvavo Vilniaus konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
     - t-002
 
 - c-002
+  santrauka: 'Valdas Adamkus 2000 m. gegužės 19 d. dalyvavo Vilniaus konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bušas taip pat

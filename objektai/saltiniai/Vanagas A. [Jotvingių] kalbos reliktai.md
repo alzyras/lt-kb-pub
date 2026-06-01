@@ -23,13 +23,14 @@ Dusburgietis teigia, kad vanagas A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vanagas A.'
+  teiginys: 'A. Vanago straipsnis „Jotvingių kalbos reliktai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1974 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Vanago straipsnis „Jotvingių kalbos reliktai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1974 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vanagas A. [Jotvingių] kalbos reliktai.— MG, 1974, Nr. 2, p. 19—21.

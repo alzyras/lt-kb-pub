@@ -40,18 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pati fundaci­ jos privilegija parašyta ant pergamento, esančio daugiau negu uolekties ilgumo ir platumo, lotynų kalba, ir tik per jos su­ lenkimus ar sudūrimus ob vetustatem [dėl senumo] daugelis žodžių ir raidžių nusitrynė, todėl cum omissis spatiis [pralei­.'
+  teiginys: 'Pabaisko fundacijos privilegija buvo parašyta lotynų kalba ant daugiau negu uolekties ilgio ir pločio pergamento.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Ta pati fundacijos privilegija, šviesiausiojo Karaliaus Jo Didenybės Žygimanto sudaryta ir skirta Pabais­ ko bažnyčiai ir klebonijai, tikrai pradžioje paminėto globėjo teismui į aktų knygas kopijuoti pateikta, yra įrašyta į LDK Vyriausiojo Tribunolo Viešųjų.'
+  teiginys: 'Žygimanto sudaryta Pabaisko fundacijos privilegija buvo įrašyta į LDK Vyriausiojo Tribunolo Viešųjų reikalų knygas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimanto sudaryta Pabaisko fundacijos privilegija buvo įrašyta į LDK Vyriausiojo Tribunolo Viešųjų reikalų knygas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta pati fundacijos privilegija, šviesiausiojo
@@ -71,6 +72,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Pabaisko fundacijos privilegija buvo parašyta lotynų kalba ant daugiau negu uolekties ilgio ir pločio pergamento.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prašydamas Mus, Teismą, kad minėtoji fun­

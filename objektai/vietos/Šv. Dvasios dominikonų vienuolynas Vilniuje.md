@@ -20,18 +20,19 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv.'
+  teiginys: 'Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie Šv. Dvasios dominikonų vienuolyno Vilniuje.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dvasios vienuolyno vyres­ niajam ir broliams, taigi jie įpareigojami visam laikui ten laikyti šv.'
+  teiginys: 'Šv. Dvasios vienuolyno vyresnysis ir broliai buvo įpareigoti prieglaudoje laikyti Mišias, klausyti išpažinčių ir dalyti komuniją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šv. Dvasios vienuolyno vyresnysis ir broliai buvo įpareigoti prieglaudoje laikyti Mišias, klausyti išpažinčių ir dalyti komuniją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šv. sakramentų dalijimas ir rūpinimasis vargšais ir kitais žmo­
@@ -47,6 +48,7 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
     - t-002
 
 - c-002
+  santrauka: 'Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie Šv. Dvasios dominikonų vienuolyno Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kai susigrąžins savo lėšas ir išlaidas, skirtas tilto staty­

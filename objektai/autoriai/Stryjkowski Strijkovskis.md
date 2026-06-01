@@ -25,7 +25,7 @@ periodo_grupes: []
 ## Teiginiai
 
 - t-001
-  teiginys: '31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių.'
+  teiginys: 'Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, o Kojelevičius juo sekė.'
   pagrindžia:
     - c-004
 
@@ -40,12 +40,12 @@ periodo_grupes: []
     - c-001
 
 - t-004
-  teiginys: 'To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­ lio; apie pastarąjį mūšį užsimena Strijkovskis.'
+  teiginys: 'Strijkovskis užsiminė apie mūšį prie Sudervėlės upelio, siejamą su lietuvių sumuštų kryžiuočių kapaviete.'
   pagrindžia:
     - c-003
 
 - t-005
-  teiginys: 'Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk.'
+  teiginys: 'Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimus, Goštautas pastatydino Šv. Petro bažnyčią.'
   pagrindžia:
     - c-002
 
@@ -107,6 +107,7 @@ periodo_grupes: []
     - t-003
 
 - c-002
+  santrauka: 'Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimus, Goštautas pastatydino Šv. Petro bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     20
@@ -122,6 +123,7 @@ periodo_grupes: []
     - t-005
 
 - c-003
+  santrauka: 'Strijkovskis užsiminė apie mūšį prie Sudervėlės upelio, siejamą su lietuvių sumuštų kryžiuočių kapaviete.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo neat­
@@ -140,6 +142,7 @@ periodo_grupes: []
     - t-004
 
 - c-004
+  santrauka: 'Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, o Kojelevičius juo sekė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis ir Koje-

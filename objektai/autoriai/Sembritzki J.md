@@ -25,13 +25,14 @@ Dusburgietis teigia, kad sembritzki J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad sembritzki J.'
+  teiginys: 'J. Sembritzkis 1926 m. Memelyje išleido knygą apie karališkojo Prūsijos jūrų ir prekybos miesto Memelio istoriją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Sembritzkis 1926 m. Memelyje išleido knygą apie karališkojo Prūsijos jūrų ir prekybos miesto Memelio istoriją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sembritzki J. Geschichte der Königlich Preussischen See- und Handelsstadt Memel.—

@@ -46,28 +46,24 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Totoriai, užvaldę lietuvių stovyklą po Vorsklos mūšio, paėmė gurguoles ir turtus.'
-  pagrindžia:
-    - c-003
-
-- t-002
   teiginys: 'Lenkijos riteriams įsakė pasiimti po vieną tarną ir po vieną vežimą maisto šešioms savaitėms.'
   pagrindžia:
-    - c-004
+    - c-002
 
-- t-003
+- t-002
   teiginys: 'Lenkijos riteriams buvo įsakyta pasiimti po vieną vežimą maisto šešioms savaitėms.'
   pagrindžia:
     - c-002
 
-- t-004
-  teiginys: 'Pa­ kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo žmonos vežime.'
+- t-003
+  teiginys: 'Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
@@ -85,7 +81,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -98,34 +94,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet šitas mūšis nepigiai apsėjo ir totoriams. Jie nustojo
-    daugybės žmonių, o pats Timur-Kotlogas, gavęs mirtiną žaiz­
-    dą, irgi greitai mirė.
-    Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­
-    guoles ir turtus ir tuojau metėsi krašto terioti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dabar jie abu dar labiau suskato imtis konkrečių žygių ir rink­
-    ti kariuomenę. Jogaila nuvyko Krokuvon ir įsakė šaukti ka­
-    riuomenę. Lenkijos riteriams įsakė pasiimti po vieną tarną ir
-    po vieną vežimą maisto šešioms savaitėms.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -134,7 +104,6 @@ Nenurodyta
 - [[objektai/autoriai/J. Puzinas]]
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Švitrigaila]]
@@ -151,11 +120,10 @@ Nenurodyta
 - [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]
 - [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]
 - [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
-- [[objektai/posakiai/Prisirenkite ir būkite drąsūs vyrai]]
 - [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
 - [[objektai/daiktai/Vežimai su kailiais ir šienu]]
 - [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]
 - [[objektai/zodynas/gurguolė]]
-- [[objektai/posakiai/juk čia ne jūsų, bet dievo kova]]
 - [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/zodynas/sidabrinė duoklė]]
+- [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]

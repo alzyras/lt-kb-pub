@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Panelės bažnyčių, dabar buvo padė­ ti pamatai Vilniaus katedrai ir šv.'
+  teiginys: 'Kuriant Vilniaus vyskupystę buvo padėti pamatai Vilniaus katedrai ir šv. Martyno bei šv. Jono bažnyčioms.'
   pagrindžia:
     - c-001
 
@@ -61,13 +61,14 @@ Nenurodyta
     - c-003
 
 - t-004
-  teiginys: 'Dobrogostą įgaliojo sutvarkyti bažnyti­ nius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją pavedant ją Gniezno arkivyskupo valdžiai^1 ).'
+  teiginys: 'Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kuriant Vilniaus vyskupystę buvo padėti pamatai Vilniaus katedrai ir šv. Martyno bei šv. Jono bažnyčioms.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Katalikybei sustiprinti kartu su žmonių krikštijimu buvo
@@ -85,6 +86,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tad
@@ -131,3 +133,4 @@ Nenurodyta
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Urbonas VI]]
 - [[objektai/zodynas/brevė]]
+- [[objektai/zodynas/vyskupystė]]

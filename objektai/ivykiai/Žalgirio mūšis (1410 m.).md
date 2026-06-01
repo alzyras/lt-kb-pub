@@ -49,48 +49,36 @@ Nenurodyta
 - t-001
   teiginys: '1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena priešais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną.'
   pagrindžia:
-    - c-001
+    - c-005
 
 - t-003
   teiginys: 'Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-005
   teiginys: 'Žalgirio mūšyje Lietuva buvo lygiavertė su Lenkija pergalės prieš Vokiečių ordiną laimėtoja.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-006
   teiginys: '1410 Žalgirio (Griunvaldo) mūšis.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žalgirio (Griunvaldo) mūšis. Lenkijos ir Lietuvos jungtinė kariuomenė
-    sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
-    tencijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apskritai Vytauto planas buvo įžūlus
@@ -107,7 +95,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors
@@ -124,7 +112,7 @@ Nenurodyta
     - t-005
     - t-004
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žalgirio mūšis
@@ -139,7 +127,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Įėjo Vengrijos
@@ -153,7 +141,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
 
-- c-006
+- c-005
   santrauka: '1410 Žalgirio (Griunvaldo) mūšis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -168,6 +156,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-006
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

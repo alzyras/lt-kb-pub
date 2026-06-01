@@ -54,5 +54,4 @@ periodo_grupes:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/zodynas/pilgrimai]]
 - [[objektai/zodynas/žygis]]

@@ -20,13 +20,14 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­ lio, ir Henriko, Vroclavo kunigaikščio, žūtį Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė į Vengriją ir Lenkiją, kur mūšyje nukovė Kolomaną, Vengrijos.'
+  teiginys: 'Totoriams įsiveržus į Vengriją ir Lenkiją, mūšyje žuvo Vengrijos karaliaus brolis Kolomanas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Totoriams įsiveržus į Vengriją ir Lenkiją, mūšyje žuvo Vengrijos karaliaus brolis Kolomanas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­

@@ -47,7 +47,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją Tais 1295 metais Boleslovas, Mazovijos kunigaikštis, apie kurį jau kalbėta, sielodamasis Tacito minimus germanus lemovius (Lemonii ar Lemovii — Tacitas P.'
+  teiginys: '1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.'
   pagrindžia:
     - c-003
 
@@ -95,6 +95,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: '1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie penktąją atskalūnybę ir apie bausmę už ją
@@ -139,3 +140,5 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/asmenys/Sabinas]]

@@ -24,18 +24,6 @@ Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytp
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Užnemunė Prūsų karalystėje.** Prūsija per trečiąjį padalinimą
-    gautąsias žemes pavadino Naujaisiais Rytprūsiais.
-    Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -49,3 +37,4 @@ Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytp
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

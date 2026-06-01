@@ -20,13 +20,14 @@ Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ dž
 ## Teiginiai
 
 - t-001
-  teiginys: 'Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasiliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­ gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis.'
+  teiginys: 'Vilniuje Vytautas iš Vilniaus vyskupo Andriaus Važilo gavo patepimą tapti Lietuvos didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniuje Vytautas iš Vilniaus vyskupo Andriaus Važilo gavo patepimą tapti Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     133

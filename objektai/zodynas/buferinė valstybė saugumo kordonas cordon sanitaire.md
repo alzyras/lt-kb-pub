@@ -24,14 +24,14 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuvių artilerija prieš lenkų dalinius 1920 m. kovose prie Giedraičių 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 145 Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lietuvą buferine valstybe, kuri drauge su Latvija.'
+  teiginys: 'Sąjungininkai Lietuvą įsivaizdavo kaip buferinę valstybę ir saugumo kordono nuo bolševizmo dalį.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis netgi grėsė nepriklausomybės praradimu.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lietuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.'
@@ -74,24 +74,10 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
-    tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
-    vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo. Ta-
-    čiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti
-    Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
-    netgi grėsė nepriklausomybės praradimu. Žinoma, kad lietuviai tapo
-    „revizionistais per prievartą“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-004
+- c-003
+  santrauka: 'Sąjungininkai Lietuvą įsivaizdavo kaip buferinę valstybę ir saugumo kordono nuo bolševizmo dalį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Persigrupavusi Lietuvos

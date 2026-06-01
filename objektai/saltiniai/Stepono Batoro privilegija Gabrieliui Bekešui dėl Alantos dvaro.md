@@ -26,28 +26,24 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
 ## Teiginiai
 
 - t-001
-  teiginys: '447 5) Parašai ant privilegijos, išduotos Bekešui dėl Alantos dvaro - Step­ hanus Rex - ]an Hlebowicz na Dubrownie Kaszt.'
+  teiginys: 'Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: '61, apgailestauja, kad Bekešas buvo daugiau negu anabaptistas ir to įrodymui pacituoja pas­ kutinius jo žodžius, pasakytus prieš mirtį.'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 'Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­ vo atiduotas Alantos dvaras63.'
+  teiginys: 'Po Astiko Alantos dvaras Varšuvos seime paveldėjimo teise buvo atiduotas Gabrieliui Bekešui.'
   pagrindžia:
     - c-001
 
-- t-004
-  teiginys: 'Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius po jo atidavė garsiajam Bekešui.'
+- t-003
+  teiginys: 'Karalius po Astiko garsiajam Bekešui atidavė Ukmergės apskrityje buvusį Alantos dvarą.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Astiko Alantos dvaras Varšuvos seime paveldėjimo teise buvo atiduotas Gabrieliui Bekešui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     61
@@ -69,9 +65,10 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
+  santrauka: 'Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojaus bažnyčia (planas) /
@@ -127,6 +124,7 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
     - t-001
 
 - c-003
+  santrauka: 'Karalius po Astiko garsiajam Bekešui atidavė Ukmergės apskrityje buvusį Alantos dvarą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kavars­
@@ -141,22 +139,4 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    N i e s i e c k i Korona
-    Polska, T. 1,1. 61, apgailestauja, kad
-    Bekešas buvo daugiau negu anabap-
-    tistas ir to įrodymui pacituoja pas­
-    kutinius jo žodžius, pasakytus prieš
-    mirtį.
-    63
-    Žr. privilegiją apie tai pabaigoje, prie
-    dekretų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
+    - t-003

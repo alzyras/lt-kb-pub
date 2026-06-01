@@ -17,13 +17,14 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mindaugo pergamentai kryžiuočiams suteikė tik formalią teisę į užrašytas sritis, nes Žemaičių žemę jie galėjo užvaldyti tik jėga.'
+  teiginys: 'Mindaugo donacijos kryžiuočiams suteikė tik formalią teisę į užrašytas sritis, kurias jie galėjo užvaldyti tik savo jėga.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mindaugo donacijos kryžiuočiams suteikė tik formalią teisę į užrašytas sritis, kurias jie galėjo užvaldyti tik savo jėga.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Betarpiškame ryšyje su Georgenburgo įkūrimu

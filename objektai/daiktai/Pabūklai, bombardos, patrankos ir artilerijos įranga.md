@@ -61,7 +61,7 @@ Nenurodyta
     - c-001
 
 - t-004
-  teiginys: 'Nepaisant įnirtingos gynybos, kelias dienas užsi­ tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­ versta pasiduoti.'
+  teiginys: '1383 m. puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
   pagrindžia:
     - c-002
 
@@ -83,6 +83,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1383 m. puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kiti, 1383 metai, atnešė Vilniui dar

@@ -51,14 +51,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Nurodydamas eilę pavyzdžių, kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­ pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t.'
+  teiginys: 'Zigmantas įrodinėjo, kad Vytautui vainiką gali suteikti ir Romoje nevainikuotas imperatorius, remdamasis karalių vainikavimu be patepimo.'
   pagrindžia:
     - c-003
 
 - t-003
   teiginys: 'Zigmantas teigė, kad Vytautui karaliaus vainiką galėjo suteikti ir Romoje nevainikuotas imperatorius.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-004
   teiginys: 'Pagal ordines vainikuotas ir šventais aliejais pateptas valdovas turėjo prisidėti prie Kristaus karalystės platinimo žemėje.'
@@ -66,7 +66,7 @@ Nenurodyta
     - c-004
 
 - t-005
-  teiginys: '«ordines », vaini­ kuojamas karaliumi ir patepamas šventais aliejais^10 , tai tokio naujo, kaip tada nuolat sakyta, «iš Dievo malonės », krikščioniško valdovo pareiga buvo prisidėti platinti Kristaus karalystę žemėje.'
+  teiginys: 'Pagal ordines vainikuotas ir šventais aliejais pateptas krikščioniškas valdovas turėjo platinti tikėjimą ir ginti Bažnyčią.'
   pagrindžia:
     - c-005
 
@@ -107,6 +107,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Zigmantas įrodinėjo, kad Vytautui vainiką gali suteikti ir Romoje nevainikuotas imperatorius, remdamasis karalių vainikavimu be patepimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^374) III skyrius: valstybės suklestėjimas
@@ -123,6 +124,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -143,6 +145,7 @@ Nenurodyta
     - t-004
 
 - c-005
+  santrauka: 'Pagal ordines vainikuotas ir šventais aliejais pateptas krikščioniškas valdovas turėjo platinti tikėjimą ir ginti Bažnyčią.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai ano meto valdovas, remiantis popiežiaus bule, būdavo
@@ -159,28 +162,10 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^374) III skyrius: valstybės suklestėjimas
-    buvo rašęs — esąs civilinis aktas, kur vyskupo patepimas, kaip
-    bažnytinė ceremonija, nesąs būtinas. Nurodydamas eilę pavyzdžių,
-    kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­
-    pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
-    vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t. y.
-    jis pats. Cigalos delegacija turėjo sugriauti tezes, kurias savo trak­
-    tate buvo iškėlę Krokuvos profesoriai, įrodinėdami, jog Zigmantas
-    neturįs teisės niekam suteikti vainiko.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Baptista Cigala]]
 - [[objektai/paprociai/Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo]]

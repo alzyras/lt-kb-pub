@@ -17,7 +17,7 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Priėmus tą nuomonę, kad konsekracija yra būti­ na, iškyla vėl neaiškumas, kas turi teisę suteikti konsekraciją?'
+  teiginys: 'Dėl būtinos konsekracijos kilo klausimas, kas turi teisę ją suteikti.'
   pagrindžia:
     - c-001
 
@@ -29,6 +29,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dėl būtinos konsekracijos kilo klausimas, kas turi teisę ją suteikti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Priėmus tą nuomonę, kad konsekracija yra būti­

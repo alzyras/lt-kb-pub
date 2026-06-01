@@ -20,7 +20,7 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas, Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto pilį, vardu Plutai589, o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą.'
+  teiginys: 'Kulmo landkomtūras Luterbergas Drevantos upės pakrantėje pastatė miestą, vardu Noimarkas.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
     - t-002
 
 - c-002
+  santrauka: 'Kulmo landkomtūras Luterbergas Drevantos upės pakrantėje pastatė miestą, vardu Noimarkas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai, kurie irgi statė šią pilį, įtikinėjo, kad niekad nebuvo
@@ -79,4 +80,5 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
 - [[objektai/asmenys/Fridrichas]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/landkomtūras]]
 - [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]

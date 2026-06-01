@@ -27,7 +27,7 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu: „Atveskite man kunigą, nes švenčiausioji.'
+  teiginys: '1302 metais Perudžoje buvo nukirsdintas plėšikas, kuris, pasak kronikos, gerbė mergelę Mariją.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1302 metais Perudžoje buvo nukirsdintas plėšikas, kuris, pasak kronikos, gerbė mergelę Mariją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieną švenčiausiosios mergelės stebuklą
@@ -74,20 +75,3 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu: „Atveskite man kunigą, nes švenčiausioji.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    92. Apie vieną švenčiausiosios mergelės stebuklą
-
-      1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai
-    gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu:
-    „Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose
-    to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs visų savo nuodėmių”. Šitaip ir
-    įvyko.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003

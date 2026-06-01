@@ -18,13 +18,14 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­ me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo atšaukiame ir norime, kad būtų.'
+  teiginys: 'Jono Jurgeravičiaus privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jono Jurgeravičiaus privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jeigu

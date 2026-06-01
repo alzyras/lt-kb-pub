@@ -28,18 +28,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ši frazė yra perspėjimo šūksnis pastebėjus čekistų apsupimą.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Atėjo ryšininkas

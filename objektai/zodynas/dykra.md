@@ -47,21 +47,21 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dykra šiame fragmente reiškia pasienio neapgyventą teritoriją.'
+  teiginys: 'Melno dokumente sienos daugiausia ėjo per dykras ir miškų plotus be gyvenviečių, todėl jų nebuvo galima tiksliai išvesti.'
   pagrindžia:
+    - c-004
+    - c-007
     - c-006
-    - c-009
-    - c-008
 
 - t-002
   teiginys: 'Sūduvos dykra 1422 m. buvo padalinta.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-003
   teiginys: 'Melno dokumente ribos ėjo per dykras ir miškus be gyvenviečių.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad kristburgo broliai pasileido pavymui ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius.'
@@ -71,47 +71,47 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - t-005
   teiginys: 'Dusburgietis teigia, kad štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo į dykras Bartos žemėje, į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog, turėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė belaisviams.'
   pagrindžia:
-    - c-010
+    - c-008
 
 - t-006
-  teiginys: 'Šiame šaltinyje dykros veikia ir kaip tiesioginė susirėmimo vieta.'
+  teiginys: 'Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-007
   teiginys: 'Melno dokumente dykros minimos kaip negyvenami plotai, per kuriuos buvo sunku tiksliai išvesti sienas.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-008
-  teiginys: 'Šiame šaltinyje dykros žymi ribinę erdvę, iki kurios tęsiamas užpuolikų persekiojimas.'
+  teiginys: 'Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų ir išvadavo jų paimtus krikščionis.'
   pagrindžia:
-    - c-003
+    - c-009
 
 - t-009
   teiginys: 'Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko ordino pusėje.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-010
   teiginys: 'Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos ėjo daugiausia per dykras bei miškų plotus be gyvenviečių.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-012
   teiginys: 'Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-013
   teiginys: 'Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie.'
   pagrindžia:
-    - c-011
+    - c-009
 
 - t-014
-  teiginys: 'Šiame šaltinyje dykrose galima sekti priešo pėdsakus ir pagal juos skirti tolesnį žygį.'
+  teiginys: 'Dykrose Kristburgo broliai iš pėdsakų suprato, kad lietuvių plėšikautojai toliau traukė dviem būriais.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -143,38 +143,10 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo
-    29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus
-    gyventojus ir vieną kunigą, o moteris bei vaikus paėmė į nelaisvę; visaip išniekinę kitus
-    sakramentus, vienas dar suteršė indą krikšto vandeniui laikyti, pridergdamas į jį. Ligi pat
-    dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo
-    krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
-    palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
-    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
-    ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius. Todėl
-    ir jie patys toliau patraukė dviem žygio voromis, pirma netrukus pasivijo vieną netikėlių
-    būrį, nukovė 65 vyrus  ir išvadavo 70 krikščionių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-014
 
-- c-005
+- c-003
+  santrauka: 'Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,
@@ -192,7 +164,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   pagrindžia:
     - t-006
 
-- c-006
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvai atiteko žymi dalis
@@ -207,7 +179,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   pagrindžia:
     - t-007
 
-- c-007
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos
@@ -221,7 +193,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   pagrindžia:
     - t-010
 
-- c-008
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šiauriau ji kilo stačiai per tyrus į pu­
@@ -237,7 +209,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   pagrindžia:
     - t-009
 
-- c-009
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po tiek ilgų ginčų ir ginkluotų konfliktų pagaliau buvo sutarta
@@ -252,7 +224,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   pagrindžia:
     - t-012
 
-- c-010
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ir šiame karo žygyje, ir ankstyvesniajame begėdiškai išniekino
@@ -270,7 +242,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   pagrindžia:
     - t-005
 
-- c-011
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     270 (263). Apie Straisbergo miesto sugriovimą 1298 metais
@@ -287,6 +259,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   statusas: verified
   pagrindžia:
     - t-013
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
@@ -301,7 +274,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Rūbai]]
-- [[objektai/ivykiai/Salyno taika]]
+- [[objektai/ivykiai/Salyno sutartis]]
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/ginklanešiai]]
@@ -312,6 +285,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]
 - [[objektai/autoriai/Powierski J]]
 - [[objektai/grupes/Prūsijos valstybė]]
-- [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]
+- [[objektai/asmenys/Gundramas]]
+- [[objektai/asmenys/Konradas Žakas]]
 - [[objektai/ivykiai/Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.)]]
-- [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]

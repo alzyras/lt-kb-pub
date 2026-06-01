@@ -47,39 +47,29 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - t-001
   teiginys: 'Stryjkovskis rašė pirmais poliublininiais dešimtmečiais.'
   pagrindžia:
-    - c-004
-    - c-006
-    - c-008
-    - c-001
+    - c-002
     - c-005
+    - c-006
+    - c-001
+    - c-004
 
 - t-002
   teiginys: 'Poliublininiame laikotarpyje iki T. Narbuto laikų atskiros Lietuvos istorijos tradicija nebebuvo tęsiama.'
   pagrindžia:
-    - c-007
+    - c-003
 
 - t-003
-  teiginys: 'istorikai šį laikotarpį siejo su bendros respublikos Lietuvos istorija.'
-  pagrindžia:
-    - c-004
-
-- t-004
-  teiginys: 'keli autoriai prie šio laikotarpio specializavosi ir jį tyrė kaip atskirą temą.'
-  pagrindžia:
-    - c-004
-
-- t-005
-  teiginys: 'sąvoka vartojama kaip istorinės epochos pavadinimas, o ne kaip laisvas pasakymas.'
-  pagrindžia:
-    - c-004
-
-- t-006
-  teiginys: 'Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­ siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­ rėjo sutikti su tuo, kas buvo įvykę Liubline.'
+  teiginys: 'Pirmieji poliublininiai dešimtmečiai siejami su laikotarpiu po Liublino įvykių.'
   pagrindžia:
     - c-002
 
-- t-007
-  teiginys: 'Narbuto laikų Kojalavičius paliko tradiciją po­ liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.'
+- t-004
+  teiginys: 'Pirmaisiais poliublininiais dešimtmečiais rašęs Stryjkovskis perėmė Lietuvos didikų valstybingumo sąmonę.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Kojalavičius įtvirtino tradiciją poliublininiu laikotarpiu nebetęsti atskiros Lietuvos istorijos.'
   pagrindžia:
     - c-003
 
@@ -105,6 +95,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - t-001
 
 - c-002
+  santrauka: 'Pirmaisiais poliublininiais dešimtmečiais rašęs Stryjkovskis perėmė Lietuvos didikų valstybingumo sąmonę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tad naudojant vad. pir­
@@ -120,9 +111,12 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
+    - t-001
+    - t-003
 
 - c-003
+  santrauka: 'Kojalavičius įtvirtino tradiciją poliublininiu laikotarpiu nebetęsti atskiros Lietuvos istorijos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tai
@@ -135,30 +129,10 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
+    - t-002
 
 - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tad naudojant vad. pir­
-    mojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.
-    Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
-    kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­
-    siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­
-    rėjo sutikti su tuo, kas buvo įvykę Liubline. Mozūras Stryjkovskis
-    ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­
-    binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
-    Didžiosios Lietuvos Kunigaikštystės gyventojus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-004
-    - t-005
-
-- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Ketverių metų seimo arba Didžiojo reformų seimo laikotar­
@@ -173,7 +147,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ant tautinio pa­
@@ -188,22 +162,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   pagrindžia:
     - t-001
 
-- c-007
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tai
-    matyti iš kovų su kryžiuočiais ir iš gražiai aprašytos Vilniaus
-    įkūrimo (Gedimino) sapno legendos^28. Palyginti, objektyviai išdės­
-    tė jis ir 2-jį tomą. Baigdamas jį Žygimanto Augusto mirtimi
-    (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
-    liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-008
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tai parodė
@@ -227,7 +186,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/autoriai/K. Avižonis]]

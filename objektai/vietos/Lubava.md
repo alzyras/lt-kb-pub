@@ -27,7 +27,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 440 Dab. Liubava (Lóbau, Lubawa), gyvenvietė į rytus nuo Drevantos aukštupio. 441 D.'
+  teiginys: 'Lubava buvo gyvenvietė į rytus nuo Drevantos aukštupio.'
   pagrindžia:
     - c-006
 
@@ -141,6 +141,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-006
 
 - c-006
+  santrauka: 'Lubava buvo gyvenvietė į rytus nuo Drevantos aukštupio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     440 Dab. Liubava (Lóbau, Lubawa), gyvenvietė į rytus nuo Drevantos aukštupio.

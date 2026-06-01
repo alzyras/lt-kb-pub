@@ -27,29 +27,24 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rembowski, Rokosz i konfederacija w d. prawie polskiem (1893).'
-  pagrindžia:
-    - c-004
-
-- t-002
   teiginys: 'Priimtomis sąlygomis bajorijai buvo atimta teisė kurti konfederacijas, apribota hetmonų valdžia ir sumažinta kariuomenė.'
   pagrindžia:
     - c-003
 
-- t-003
+- t-002
   teiginys: 'Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-003
   teiginys: 'Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.'
   pagrindžia:
     - c-002
 
-- t-005
+- t-004
   teiginys: 'Su ta kariuomene ir suorganizuotais bajorijos būriais (konfederacijomis) jie puolė švedus ir Sapiegas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -64,7 +59,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -79,7 +74,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -96,20 +91,9 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1906); — Sejm walny (1919); A. Rembowski, Rokosz i konfederacija w d.
-    prawie polskiem (1893).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-005
+- c-004
   santrauka: 'Su ta kariuomene ir suorganizuotais bajorijos būriais (konfederacijomis) jie puolė švedus ir Sapiegas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -123,7 +107,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -131,7 +115,6 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]

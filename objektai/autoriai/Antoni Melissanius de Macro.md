@@ -28,13 +28,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šios 19 Waddyngas, Mažesniųjų brolių ordino istorijos autorius, ir jo komen­ tatorius Antoni Melissanius de Macro pasakoja, kad dar 1333 metais (prieš Gedimino mirtį) Pet­ ras Goštautas, būdamas Podolės vai­ vada, iš Rusios ir Podolės atkvietęs į Vilnių.'
+  teiginys: 'Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šios
@@ -64,3 +65,4 @@ periodo_grupes:
 ### Susiję objektai
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/regula]]
+- [[objektai/grupes/Pranciškonų ordinas]]

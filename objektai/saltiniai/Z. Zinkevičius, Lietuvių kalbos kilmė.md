@@ -19,26 +19,11 @@ Dusburgietis teigia, kad zinkevičius Z. Dusburgietis teigia, kad zinkevičius Z
 - t-001
   teiginys: 'Dusburgietis teigia, kad zinkevičius Z., Lietuvių kalbos kilmė, p. 252.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad zinkevičius Z.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Plg. Zinkevičius Z. Lietuvių kalbos kilmė, p. 281.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     571 D.— Criwicie, Jer.— Kriwitzin, in daz lant Kriwitzin. Krivičių žeme Dusburgietis

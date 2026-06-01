@@ -34,7 +34,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     - c-001
 
 - t-002
-  teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 91 Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  teiginys: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
     - c-002
 
@@ -66,6 +66,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     - t-001
 
 - c-002
+  santrauka: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
@@ -127,6 +128,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
 - [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/zodynas/konfederacija]]

@@ -27,11 +27,6 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženklų ir stebuklų.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,6 +48,7 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
     - t-002
 
 - c-002
+  santrauka: 'Pratarmėje posakis apie Aukščiausiojo Dievo ženklus ir stebuklus siejamas su Danieliaus knygos citata.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pratarmė
@@ -62,8 +58,6 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-003
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

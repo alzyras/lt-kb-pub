@@ -17,13 +17,14 @@ Vygan­ das tačiau byloja: Steterunt V septi­ manis in continuo agone nocte di
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vygan­ das tačiau byloja: Steterunt V septi­ manis in continuo agone nocte dieque et pugna et ex utraque parte multi sunt occisi [stovėjo 5 savaites nuolatinėse kautynėse dieną naktį ir kovoje iš abiejų pusių daug buvo užmuštų].'
+  teiginys: 'Posakis „Steterunt V septimanis in continuo agone nocte dieque“ reiškia, kad penkias savaites dieną ir naktį vyko nuolatinės kautynės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posakis „Steterunt V septimanis in continuo agone nocte dieque“ reiškia, kad penkias savaites dieną ir naktį vyko nuolatinės kautynės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     33

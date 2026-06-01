@@ -58,6 +58,7 @@ amziai:
 - [[objektai/asmenys/Laurynas Volskis]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Stanislovas Goreckis]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/suma]]

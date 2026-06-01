@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nemažos maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­ kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą praradusiems gyventojams, o karaliaus buvimas stiprino tie­ kos negandų nualintą jų dvasią.'
+  teiginys: '1390 m. Jogaila iš Lenkijos į Vilnių atgabeno maisto ir drabužių atsargų, kurios buvo dalijamos visą turtą praradusiems gyventojams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1390 m. Jogaila iš Lenkijos į Vilnių atgabeno maisto ir drabužių atsargų, kurios buvo dalijamos visą turtą praradusiems gyventojams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390
@@ -78,5 +79,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
 - [[objektai/grupes/Vilniaus gyventojai]]

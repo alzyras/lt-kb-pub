@@ -23,13 +23,14 @@ Dusburgietis teigia, kad potkowski E.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad potkowski E.'
+  teiginys: 'E. Potkowskio tekstas „Papiestwo a państwa europejskie (XIII—XV w.)“ paskelbtas 1977 m. Varšuvoje leidinyje „Katolicyzm średniowieczny“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'E. Potkowskio tekstas „Papiestwo a państwa europejskie (XIII—XV w.)“ paskelbtas 1977 m. Varšuvoje leidinyje „Katolicyzm średniowieczny“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Potkowski  E.  Papiestwo  a  państwa  europejskie  (XIII—  XV  w.)—Katolicyzm

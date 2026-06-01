@@ -48,23 +48,24 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vė­ liau per savo turtus įgiję vis daugiau laisvių, kai, vis dar val­ dant Otonui, beveik visi, saugodamiesi vengrų ir saracėnų užpuolimų, apsitvėrė mūro sienomis, net patys tapo savaran­ kiškomis feodalinėmis valstybėmis.'
+  teiginys: 'Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui.'
+  teiginys: 'Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Taip kūrėsi Vilnius, kuris tuo­ met, regis, buvo panašesnis į keletą didelių kaimų, sujungtų į vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą miestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­ kiais Kazimieras Didysis puošė ir tvirtino.'
+  teiginys: 'Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau nemažai įvairių tenykš­
@@ -84,6 +85,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visoje Italijoje Otono Didžiojo laikais
@@ -104,6 +106,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7
@@ -138,6 +141,7 @@ Nenurodyta
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/kitatikiai]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/autoriai/Benjaminas iš Tudelio]]
 - [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]

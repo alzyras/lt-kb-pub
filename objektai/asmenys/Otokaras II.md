@@ -29,26 +29,11 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad otokaras II mat sukurstė viename malūne susiginčyti du vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti, ir štai ne tik kariai bei paprasti žmonės, bet ir karalius, ir kiti kunigaikščiai jau buvo bepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino, kad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą.'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad otokaras II deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių ir gausybės karių, gelbėti šios žemės ir tramdyti prūsų sukilimo: 1265 viešpaties metais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo markgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos karalius398.'
-  pagrindžia:
-    - c-002
-
-- t-003
   teiginys: 'Dusburgietis teigia, kad otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
   pagrindžia:
     - c-003
 
-- t-004
-  teiginys: 'Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius, dalyvavęs Čekijos karaliaus Otokaro II (ir kryžiuočių) 1255 m. puolime prieš Sembą, konstatuoja, kad už Prūsijos į šiaurę tęsiasi Semba (Prusciam sequitur Zambia ad aquilonem — Colker M.'
-  pagrindžia:
-    - c-005
-
-- t-005
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną.'
   pagrindžia:
     - c-004
@@ -56,6 +41,7 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Susitaikius kariuomenei Čekijos karalius Otokaras II nuvedė ją iki Baigos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žiemą ši kariuomenė atžygiavo  į Elbingą,
@@ -73,10 +59,9 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-001
 
 - c-002
+  santrauka: '1268 m. Čekijos karalius Otokaras II patraukė į Prūsiją tramdyti prūsų sukilimo, bet dėl minkštos žiemos tikslo nepasiekė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     125 (120). Apie daugybės maldininkų atvykimą
@@ -95,8 +80,6 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-002
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -115,7 +98,7 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -134,9 +117,10 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
 - c-005
+  santrauka: 'Čekijos karalius Otokaras II 1255 m. dalyvavo puolime prieš Sembą kartu su kryžiuočiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
@@ -147,8 +131,6 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -159,9 +141,6 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Otokaras]]
-- [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją]]
 - [[objektai/asmenys/Gedūnas]]
 - [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]

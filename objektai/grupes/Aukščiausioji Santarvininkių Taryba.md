@@ -29,7 +29,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - t-001
   teiginys: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Aukščiausioji Santarvininkių Taryba 1919 m. gruodžio 8 d. nustatė Kerzono liniją.'
@@ -44,7 +44,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - t-004
   teiginys: 'Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -77,23 +77,6 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
     sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
     — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos vyriausybė, ir šį kartą
-    tikėdamasi geruoju susitarti, sutiko.
-    Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
-    lys pasirašė 1920 metų spalių mėn. 7 d. Ta sutartis, nespręs-
-    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
-    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
-    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
-    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
 
     (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
     sėje.
@@ -102,26 +85,8 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos vyriausybė, ir šį kartą
-    tikėdamasi geruoju susitarti, sutiko.
-    Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
-    lys pasirašė 1920 metų spalių mėn. 7 d. Ta sutartis, nespręs-
-    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
-    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
-    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
-    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-
-    (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
-    sėje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -132,4 +97,3 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/Kerzono linija]]
-- [[objektai/ivykiai/Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)]]

@@ -19,13 +19,14 @@ Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kuniga
 ## Teiginiai
 
 - t-001
-  teiginys: 'Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­ ko ir keturių kariuomenės ženklų53.'
+  teiginys: 'Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, ne­

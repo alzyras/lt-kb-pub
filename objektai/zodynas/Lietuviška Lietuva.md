@@ -27,16 +27,11 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempionais 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 177 Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias tautos kūrėjų.'
+  teiginys: 'Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.'
-  pagrindžia:
-    - c-003
-
-- t-003
   teiginys: 'Nepriklausomybės karta Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija.'
   pagrindžia:
     - c-001
@@ -57,9 +52,10 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
+  santrauka: 'Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kauno sporto halėje 1939 m. Lietuvos vyrų
@@ -81,29 +77,6 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kauno sporto halėje 1939 m. Lietuvos vyrų
-    krepšinio rinktinė antrą kartą tapo Europos čempionais
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    177
-    Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
-    tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
-    kokia yra. Gana tipiškas to meto Europai A. Smetonos valstybės modelis,
-    įdiegtas tautiškumas, patriotizmas savotiškai tarsi paruošė nepriklauso-
-    mybės vaikus viena po kitos ėjusioms trims okupacijoms, net 50 metų už-
-    truksiančiam sovietų valdymui, o Lietuvos nepriklausomybės idėja, viltis
-    vėl gyventi laisvėje duos jėgų išsaugoti gimtąją kalbą, kultūrą, kai greitai
-    besisukdamos juodos svastikos ir raudonas pjautuvas ims kapoti galvas
-    geriausioms tautos dukterims ir sūnums.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

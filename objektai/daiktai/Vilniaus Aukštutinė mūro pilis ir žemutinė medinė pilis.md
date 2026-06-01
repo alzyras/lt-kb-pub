@@ -40,7 +40,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą.'
+  teiginys: 'Pasak sapno aiškinimo, Gediminas ant Tauro kalno turėjo pastatyti Aukštutinę mūro pilį, o slėnyje - medinę pilį, pavadintą Vilniumi.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pasak sapno aiškinimo, Gediminas ant Tauro kalno turėjo pastatyti Aukštutinę mūro pilį, o slėnyje - medinę pilį, pavadintą Vilniumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     „Tad tenai Gedimi­

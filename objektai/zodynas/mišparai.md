@@ -25,13 +25,14 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.'
+  teiginys: '1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis po mišparų ėjo iš bažnyčios.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis po mišparų ėjo iš bažnyčios.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     20. Apie didžiojo magistro mirtį

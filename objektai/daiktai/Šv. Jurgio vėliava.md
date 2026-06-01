@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­ lių, turėjo grįžti prie likusių karių.'
+  teiginys: 'Ordino riteriai, nešini Šv. Jurgio vėliava, puolė į mūšį, bet lietuvių buvo atremti ir su dideliais nuostoliais grįžo prie likusių karių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ordino riteriai, nešini Šv. Jurgio vėliava, puolė į mūšį, bet lietuvių buvo atremti ir su dideliais nuostoliais grįžo prie likusių karių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     39

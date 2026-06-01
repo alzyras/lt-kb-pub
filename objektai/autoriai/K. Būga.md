@@ -43,7 +43,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     - c-003
 
 - t-003
-  teiginys: 'K. Būga įtrauktas kaip Rinktinių Raštų autorius.'
+  teiginys: 'K. Būga yra „Rinktinių Raštų“, sudarytų V. Zinkevičiaus ir išleistų Vilniuje 1958-1961 m., autorius.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     - t-001
 
 - c-002
+  santrauka: 'K. Būga yra „Rinktinių Raštų“, sudarytų V. Zinkevičiaus ir išleistų Vilniuje 1958-1961 m., autorius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     BL1 = Baltische Lande, I : Ostbaltische Frühzeit, išl. C. Engel ir
@@ -126,7 +127,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Nadruviai]]
 - [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Pamedėnai]]
 - [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]
 - [[objektai/ivykiai/Skomanto naktinis puolimas prie Birgelavos]]
 - [[objektai/grupes/Suomiai]]

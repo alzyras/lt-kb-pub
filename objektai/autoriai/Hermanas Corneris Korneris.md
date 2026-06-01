@@ -33,13 +33,14 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
     - c-002
 
 - t-002
-  teiginys: 'Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.'
+  teiginys: 'Dominikonas Hermanas Corneris kronikoje rašė, kad Vilniaus miestiečiai buvo palankesni Jogailai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dominikonas Hermanas Corneris kronikoje rašė, kad Vilniaus miestiečiai buvo palankesni Jogailai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Wilna, 1. 177.
@@ -79,3 +80,4 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]

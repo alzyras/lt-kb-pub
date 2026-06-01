@@ -20,13 +20,14 @@ To­ kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­ ginta Man
 ## Teiginiai
 
 - t-001
-  teiginys: 'To­ kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­ ginta Manvydo ir Rumbauto mirties, Mstislavlio kunigaikš­ čio Jurgio Lengvenaičio ir Kopylę valdžiusio Olelkos - Algirdo palikuonių - įkalinimo, nutarė gelbėtis Žygimanto gyvybės kaina.'
+  teiginys: 'Kopylę valdęs Olelka, Algirdo palikuonis, buvo įkalintas prieš diduomenei nutariant gelbėtis Žygimanto gyvybės kaina.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kopylę valdęs Olelka, Algirdo palikuonis, buvo įkalintas prieš diduomenei nutariant gelbėtis Žygimanto gyvybės kaina.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     221

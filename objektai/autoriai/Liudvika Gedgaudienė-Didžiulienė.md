@@ -23,33 +23,22 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
 - t-001
   teiginys: 'Liudvika Gedgaudienė-Didžiulienė paliko užrašus su prisiminimais apie sukilėlių pajėgų telkimą Salų miestelyje.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didžiulienės užrašų.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Liudvika Gedgaudienė-Didžiulienė užrašuose mini į Salas atėjusius tris didelius Lietuvos kariuomenės pulkus.'
   pagrindžia:
+    - c-001
     - c-002
-    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios
-    moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Štai vieną dieną bažnyčioje visais varpais skambina. Pulkai žmonių eina į Salas. Nuėjo
@@ -61,7 +50,7 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos
@@ -81,7 +70,7 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Z. Sierakausko nurodymu jie
@@ -97,6 +86,7 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

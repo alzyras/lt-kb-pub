@@ -20,13 +20,14 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš čia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­ vintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­ lininkų; iš čia — į Palangą, paliekant Ordinui.'
+  teiginys: 'Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo pro Vištyčio ežerą į Leipūnos upę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo pro Vištyčio ežerą į Leipūnos upę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkija gavo Niešavo žemę su

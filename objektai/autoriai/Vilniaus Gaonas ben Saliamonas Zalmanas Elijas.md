@@ -34,7 +34,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-001
   teiginys: 'Tai kartu paaiškina ir Vilniaus Gaono autoritetą.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-002
   teiginys: 'Didžiausiu Vilniaus Gaono nuopelnu laikytas Babilono Talmudo redagavimas ir komentavimas.'
@@ -44,12 +44,12 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-003
   teiginys: 'Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Gaonas ir „Šiaurės Jeruzalė“ Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmenybių pasaulio žydų istorijoje.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-005
   teiginys: 'Vilniaus Gaonas savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje.'
@@ -64,7 +64,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-008
   teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
   pagrindžia:
-    - c-004
+    - c-005
 
 - t-009
   teiginys: 'Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
@@ -122,22 +122,9 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   pagrindžia:
     - t-009
     - t-006
+    - t-004
 
 - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai kartu paaiškina ir Vilniaus Gaono autoritetą.
-    Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
-    ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
-    jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
-    nuo Šventojo Rašto komentarų iki hebrajų kalbos gramatikos ir biblinės
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gaonas ir „Šiaurės Jeruzalė“
@@ -155,24 +142,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   pagrindžia:
     - t-003
 
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai leidžia pakelti J. K. Glaubicą į pačių reikšmingiausių Lietuvos istorijos
-    asmenų rangą, nes prieš jo nuopelnus nublanksta epochos valdovų darbai.
-    Gaonas ir „Šiaurės Jeruzalė“
-    Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas
-    Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmeny-
-    bių pasaulio žydų istorijoje. Jo istorinis vaidmuo neatsiejamas nuo didžiulį
-    poveikį visiems žydams turėjusios akcijos – reformistinio sąjūdžio – cha-
-    sidizmo sustabdymo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-007
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai kartu paaiškina ir Vilniaus Gaono autoritetą.
@@ -189,6 +159,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   statusas: verified
   pagrindžia:
     - t-001
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
@@ -201,12 +172,9 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - [[objektai/ivykiai/Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
 - [[objektai/daiktai/Herbai]]
-- [[objektai/grupes/LCVA]]
 - [[objektai/grupes/LGGRTC Genocido aukų muziejus]]
 - [[objektai/grupes/Litvakai]]
 - [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]
-- [[objektai/grupes/Mokslo ir enciklopedijų leidybos centras]]
-- [[objektai/grupes/Vilniaus Gaono valstybinis žydų muziejus]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
 - [[objektai/grupes/Vilniaus romantizmo mokykla]]
 - [[objektai/zodynas/bajoriškoji demokratija]]

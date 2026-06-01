@@ -20,9 +20,9 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
 ## Teiginiai
 
 - t-001
-  teiginys: 'sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis. Lietuvos sri- tinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikš- čio nuosava valstybe, kiek.'
+  teiginys: 'Lietuvos sritinės kunigaikštystės buvo laikomos ne kunigaikščio nuosava valstybe, o administracine apygarda.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Lietuvos sritinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikščio nuosava valstybe, kiek administracine apygarda.'
@@ -30,7 +30,7 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
     - c-001
 
 - t-003
-  teiginys: 'sritinė kunigaikštystė: todėl jos buvo nepastovios: kunigaikščiai galėjo būti kilnojami iš vienos vie- tos į kitą, jų sritys galėjo būti karpomos, mažinamos ir didinamos.'
+  teiginys: 'Lietuvos sritinės kunigaikštystės buvo nepastovios: kunigaikščiai galėjo būti kilnojami, o jų sritys keičiamos.'
   pagrindžia:
     - c-003
 
@@ -71,8 +71,10 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 - c-003
+  santrauka: 'Lietuvos sritinės kunigaikštystės buvo nepastovios: kunigaikščiai galėjo būti kilnojami, o jų sritys keičiamos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik Lietuvos feoda-
@@ -87,21 +89,6 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taigi ir pas mus buvo maždaug tokia pat santvarka,
-    kaip Vakaruose vadinamasis feodalizmas. Tik Lietuvos feoda-
-    lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
-    ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis. Lietuvos sri-
-    tinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikš-
-    čio nuosava valstybe, kiek administracine apygarda.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

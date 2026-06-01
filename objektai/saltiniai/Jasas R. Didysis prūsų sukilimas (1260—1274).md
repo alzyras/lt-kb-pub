@@ -27,13 +27,14 @@ Dusburgietis teigia, kad didysis prūsų sukilimas (1260—1274).— V., 1959.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad didysis prūsų sukilimas (1260—1274).— V., 1959.'
+  teiginys: 'R. Jaso veikalas „Didysis prūsų sukilimas (1260—1274)“ išleistas Vilniuje 1959 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Jaso veikalas „Didysis prūsų sukilimas (1260—1274)“ išleistas Vilniuje 1959 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jasas R. Didysis prūsų sukilimas (1260—1274).— V., 1959.

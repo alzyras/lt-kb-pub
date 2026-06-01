@@ -31,23 +31,6 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją
-    atvyko  į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo  į Prūsiją
-    ir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs  į Vokietiją, lengvapėdiškai
-    sugalvojo vėl jas eiti. Jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas
-    didžiuoju magistru brolis Zigfridas  iš Foichtvangeno, kuris  ir iškeliavo  į Veneciją,  į
-    vyriausiąją [Ordino] būstinę.
-
-    284 (277).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas didžiuoju magistru brolis Zigfridas iš Foichtvangeno, kuris ir iškeliavo į Veneciją, į vyriausiąją [Ordino] būstinę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -67,3 +50,4 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

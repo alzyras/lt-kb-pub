@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tas pats Gardino seimas Vilniaus miesto gyventojams buvo labai įsimintinas dėl suteiktos privilegi­ jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­ rate, su palikuonimis buvo visiems.'
+  teiginys: 'Gardino seimas suteikė bajorystę Vilniaus miestiečiams, nepriekaištingai ėjusiems vaito, tarybos nario ar šuolininko pareigas magistrate.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gardino seimas suteikė bajorystę Vilniaus miestiečiams, nepriekaištingai ėjusiems vaito, tarybos nario ar šuolininko pareigas magistrate.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O 1568 metų

@@ -18,13 +18,14 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfiurstui, Albrechtui, Prūsijos ku­ nigaikščiui, visiems trims, norime, kad būtų duota po du gerus žirgus, prašydamas jų didenybių kaip savo giminai­ čių, kad giminiškos meilės ženklan.'
+  teiginys: 'Jonui Jurgiui, Brandenburgo kurfiurstui, turėjo būti duoti du geri žirgai ir prašyta globoti paskutinę valią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonui Jurgiui, Brandenburgo kurfiurstui, turėjo būti duoti du geri žirgai ir prašyta globoti paskutinę valią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taipgi norime, kad jos didenybei karalai­

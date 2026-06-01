@@ -24,25 +24,6 @@ Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai šitai išvydo, brolis Hermanas, minėtojo
-    komtūro tikras brolis, didžiai susijaudino dėl jo likimo. Negalėdamas ramiai matyti, kad
-    jo brolis vienas užsikrovė ant pečių smurtingos mirties naštą, pats stojo į kovą, ir galop
-    abu, ilgai gynęsi ir daugybę mirtinai sužeidę, krito nukauti, o kiti broliai su kariuomene
-    pasitraukė317.
-
-
-
-
-                           69 (68).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro tikras brolis, didžiai susijaudino dėl jo likimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -57,8 +38,8 @@ Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/komtūras]]
-- [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]

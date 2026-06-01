@@ -64,7 +64,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - c-006
 
 - t-008
-  teiginys: 'Kariuomenėje įtakingi nacionalistai voldemarininkai vis bandė pučų keliu grąžinti į valdžią A.'
+  teiginys: 'Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.'
   pagrindžia:
     - c-004
 
@@ -119,6 +119,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - t-006
 
 - c-004
+  santrauka: 'Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kariuomenėje įtakingi nacionalistai voldemari-
@@ -229,7 +230,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 ### Susiję objektai
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
 - [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/in corpore]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vienvaldystė]]

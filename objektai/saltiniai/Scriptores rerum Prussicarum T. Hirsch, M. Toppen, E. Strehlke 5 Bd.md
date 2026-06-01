@@ -29,13 +29,14 @@ Dusburgietis teigia, kad scriptores rerum Prussicarum / T.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad scriptores rerum Prussicarum / T.'
+  teiginys: 'Penkių tomų „Scriptores rerum Prussicarum“ leidinys išėjo Leipcige 1861–1874 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Penkių tomų „Scriptores rerum Prussicarum“ leidinys išėjo Leipcige 1861–1874 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Scriptores rerum Prussicarum / T. Hirsch, M. Toppen, E. Strehlke: 5 Bd.— 1861 —1874

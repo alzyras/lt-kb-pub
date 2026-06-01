@@ -17,13 +17,14 @@ Pagaliau Raynoldo Bažny­ čios istorija ir paskesni vėliau Lietu­ voje vieš
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagaliau Raynoldo Bažny­ čios istorija ir paskesni vėliau Lietu­ voje viešpatavusio Algirdo laikų įvykiai daug ką paaiškina apie Ge­ dimino valdymą ir politiką.'
+  teiginys: 'Raynaldo Bažnyčios istorija aiškino kai kuriuos Gedimino valdymo ir politikos aspektus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Raynaldo Bažnyčios istorija aiškino kai kuriuos Gedimino valdymo ir politikos aspektus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juk jei ir būtų Rygos

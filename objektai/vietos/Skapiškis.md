@@ -19,33 +19,11 @@ Skapiškis: patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o bl
 - t-001
   teiginys: 'Skapiškis: patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o blaivybei paminėti statė kryžius ir paminklus.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Skapiškis: blaivybės paminklas Skapišky.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Blaivybės paminklas Skapišky.
-    teismui: esą, brolijose slaptai susiburią revoliucionieriai, iešką
-    visokių kelių prieiti prie visuomenės. Vyskupas buvo priverstas
-    perspėti kunigiją, kad brolijų nebekurtų, o blaivybę skelbtų
-    tiktai bažnyčiose, mokydami doros. Tačiau rusų valdininkai
-    generalgubernatoriaus įsakymą ėmė aiškinti daug plačiau ir už-
-    vesdavo kunigams bylas po kiekvieno žodžio, pamoksle pasa-
-    kyto prieš girtybę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl beveik visos by-

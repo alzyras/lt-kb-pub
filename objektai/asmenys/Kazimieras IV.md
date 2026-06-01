@@ -28,23 +28,24 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Atrodo, kad Kazimieras IV, kuris nepaprastai mėgo medžioti, vos tik tapęs Lenkijos karaliumi, pirmas pa­ sirinko ten medžioklės buveinę dėl artumo prie sostinės ir pirmas pasistatydino dvarą sau, savo dvariškiams ir medžiokliams.'
+  teiginys: 'Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: '26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.'
+  teiginys: 'Kazimieras IV 1440 metais suteikė Vilniaus miestiečiams privilegiją laisvai prekiauti Lietuvos valstybėje be muito.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau, Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­ vo Rūdninkų vardą, kaip ir nuo jų.'
+  teiginys: 'Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pasiligojusi Vytauto žmona Julijona bu­
@@ -65,6 +66,7 @@ periodo_grupes:
     - t-003
 
 - c-002
+  santrauka: 'Kazimieras IV 1440 metais suteikė Vilniaus miestiečiams privilegiją laisvai prekiauti Lietuvos valstybėje be muito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi yra ir
@@ -107,6 +109,7 @@ periodo_grupes:
     - t-002
 
 - c-003
+  santrauka: 'Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai kaimas, išsidėstęs tarp dide­
@@ -134,7 +137,7 @@ periodo_grupes:
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas III]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/ivykiai/Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.)]]

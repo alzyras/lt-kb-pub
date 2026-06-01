@@ -25,7 +25,7 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
     - c-001
 
 - t-002
-  teiginys: 'Todėl kai 1578 m. Vilniaus jėzuitai per vysk.'
+  teiginys: '1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją Vilniuje, Steponas Batoras sutiko ir davė privilegijos raštą.'
   pagrindžia:
     - c-002
 
@@ -46,6 +46,7 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
     - t-001
 
 - c-002
+  santrauka: '1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją Vilniuje, Steponas Batoras sutiko ir davė privilegijos raštą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl kai 1578 m. Vilniaus

@@ -38,7 +38,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - c-003
 
 - t-003
-  teiginys: '(1930) jos duota šio valdovo charakteristika parodė, jog Krasauskaitė yra įžvalgi isto­ rikė, tačiau atsidavimas pedagoginiam darbui (Marijampolė) jai nebeleido tėvynėje ir emigracijoje užsiimti tyrinėjimais.'
+  teiginys: 'Krasauskaitės pedagoginis darbas Marijampolėje trukdė jai tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje.'
   pagrindžia:
     - c-001
 
@@ -50,6 +50,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krasauskaitės pedagoginis darbas Marijampolėje trukdė jai tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Zūricho universitetą užbaigė rūpestingai parašy­

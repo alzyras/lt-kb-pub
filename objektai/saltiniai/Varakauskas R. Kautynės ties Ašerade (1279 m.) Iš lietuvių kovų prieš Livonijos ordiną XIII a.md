@@ -27,13 +27,14 @@ Dusburgietis teigia, kad varakauskas R.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad varakauskas R.'
+  teiginys: 'R. Varakausko straipsnis apie 1279 m. kautynes ties Ašerade paskelbtas 1963 m. leidinyje „Istorija“ 4 tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Varakausko straipsnis apie 1279 m. kautynes ties Ašerade paskelbtas 1963 m. leidinyje „Istorija“ 4 tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Varakauskas R. Kautynės ties Ašerade (1279 m.): Iš lietuvių kovų prieš Livonijos

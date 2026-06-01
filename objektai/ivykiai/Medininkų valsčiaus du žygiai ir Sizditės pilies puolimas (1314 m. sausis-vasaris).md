@@ -42,7 +42,7 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgiečio pasakojimu, po nesėkmingo puolimo prie Sizditės pilies jos apylinkės buvo dar kartą nusiaubtos.'
+  teiginys: 'Po nesėkmingo Sizditės pilies puolimo Henriko kariuomenė patraukė į pilies apylinkes ir dar kartą jas nusiaubė.'
   pagrindžia:
     - c-001
 

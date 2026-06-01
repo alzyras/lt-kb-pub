@@ -51,7 +51,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Nors jų ginčai dėl karaliaus gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­ nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­ miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
+  teiginys: 'Didžioji iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
   pagrindžia:
     - c-002
 
@@ -90,6 +90,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Didžioji iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik kai Aleksandrą kelerius metus nuolat ka­

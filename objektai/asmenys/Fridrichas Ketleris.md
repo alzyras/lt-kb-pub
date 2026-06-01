@@ -62,5 +62,4 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/grupes/Kuršiečiai]]

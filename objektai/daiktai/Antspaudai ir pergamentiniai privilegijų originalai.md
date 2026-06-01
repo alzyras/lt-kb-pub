@@ -50,13 +50,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Tos privilegijos originalas, išlikęs kapitulos archyve, rašytas ant pergamento lakšto, go­ tiškomis raidėmis, lotyniškai, ir iki šios dienos gerai įskaitomas; ant­ spaudai yra buvę du: sigillum nost­ rum majus et authenticum cum alio si­ bi minori a tergo.'
+  teiginys: 'Kapitulos archyve išlikęs privilegijos originalas buvo lotyniškai parašytas gotiškomis raidėmis ant pergamento, o abu jo antspaudai buvo dingę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kapitulos archyve išlikęs privilegijos originalas buvo lotyniškai parašytas gotiškomis raidėmis ant pergamento, o abu jo antspaudai buvo dingę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2-ąja yra ap­

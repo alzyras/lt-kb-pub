@@ -20,13 +20,14 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­ vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje Lietuvos vardu tapo žinoma Europai1.'
+  teiginys: 'Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Abi šios gentys, artėdamos viena prie kitos, stūmė iš
@@ -61,4 +62,3 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - [[objektai/zodynas/Vidivarijai]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Skyrai]]
-- [[objektai/grupes/Žemaičiai]]

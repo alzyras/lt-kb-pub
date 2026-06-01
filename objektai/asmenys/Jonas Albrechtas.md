@@ -27,13 +27,14 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­ nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­ niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia šį pasaulį.'
+  teiginys: 'Jonas Albrechtas buvo sutriuškintas Vengrijoje, o žinia apie tai Vilniuje pasiekė jo tėvą karalių Kazimierą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Albrechtas buvo sutriuškintas Vengrijoje, o žinia apie tai Vilniuje pasiekė jo tėvą karalių Kazimierą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau jo pamaldumą pripažino
@@ -57,3 +58,4 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Krimo orda]]

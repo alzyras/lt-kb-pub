@@ -39,7 +39,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - t-001
   teiginys: 'Kęstutis buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1382 m. palaidotas pagoniškais papročiais.'
   pagrindžia:
-    - c-018
+    - c-016
 
 - t-002
   teiginys: '1381 m. Kęstutis, išvaręs Jogailą, tapo vyriausiuoju Lietuvos valdovu ir atsisėdo Vilniaus pilyje.'
@@ -84,37 +84,32 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - t-010
   teiginys: 'Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui.'
   pagrindžia:
-    - c-026
+    - c-023
 
 - t-011
-  teiginys: 'Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia.'
+  teiginys: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.'
   pagrindžia:
-    - c-024
+    - c-021
 
 - t-012
-  teiginys: 'Sūnėnų tvirtas laidavimo žo­ dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­ sį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo vienas vėliau buvo Trakų vaivada, o jo sūnus - Jonas Hanulaitis - Lie­ tuvos vėliavininkas; pastarasis.'
+  teiginys: 'Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.'
   pagrindžia:
     - c-006
 
 - t-013
   teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
   pagrindžia:
-    - c-016
+    - c-015
 
 - t-014
-  teiginys: 'Kęstutis iš Trakų, savo valdos sostinės, turėjęs geriausių galimybių stebėti visus brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­ riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­ nigaikščio buveinę.'
+  teiginys: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
   pagrindžia:
     - c-011
 
 - t-015
   teiginys: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.'
   pagrindžia:
-    - c-023
-
-- t-016
-  teiginys: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
-  pagrindžia:
-    - c-028
+    - c-020
 
 - t-017
   teiginys: 'Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.'
@@ -122,59 +117,49 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-012
 
 - t-018
-  teiginys: 'Siekiant didelės valdžios jam labiausiai trukdė se­ nasis Kęstutis - ir dėdės autoritetu, ir mūšiuose pelnyta šlo­ ve, o juolab griežtu ir nepalenkiamu būdu, todėl Jogaila visas jėgas sutelkė pirmiausia nusikratyti dėde, kaip artimiausiu, nes Trakuose.'
+  teiginys: 'Jogailai siekiant didelės valdžios, Kęstutis jam trukdė dėdės autoritetu, mūšių šlove ir nepalenkiamu būdu.'
   pagrindžia:
     - c-005
 
 - t-019
-  teiginys: 'Gediminas, Algirdas ir Kęstutis daug ja nepasi­ tikėjo, bet Jogaila, tapęs didž.'
-  pagrindžia:
-    - c-025
-
-- t-020
-  teiginys: 'Kęstutis vėliau taip pasižy­ mėjo.'
-  pagrindžia:
-    - c-017
-
-- t-021
-  teiginys: 'Kęstutis Žemaitijoje viešpatavo dar Gediminui gyvam esant ir išgarsėjo mūšiuose su Mazovija, Rusia bei Prūsijos ordinu.'
-  pagrindžia:
-    - c-027
-
-- t-022
-  teiginys: 'Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių.'
-  pagrindžia:
-    - c-020
-
-- t-023
-  teiginys: 'Jogaila turėjo pažadėti Žemaičius kryžiuočiams, kai jų remia­ mas nugalėjo Kęstutį.'
-  pagrindžia:
-    - c-019
-
-- t-024
-  teiginys: 'Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m. Pilis perstatyta ir baigta statyti valdant Lietuvos didžiajam kunigaikščiui Vytautui 1414-1430 m.'
-  pagrindžia:
-    - c-021
-
-- t-025
-  teiginys: 'Jau­ nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Mazovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­ jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­ lygdamas.'
+  teiginys: 'Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo.'
   pagrindžia:
     - c-022
 
-- t-026
-  teiginys: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+- t-020
+  teiginys: 'Kęstutis Žemaitijoje viešpatavo dar Gediminui gyvam esant ir išgarsėjo mūšiuose su Mazovija, Rusia bei Prūsijos ordinu.'
+  pagrindžia:
+    - c-023
+
+- t-021
+  teiginys: 'Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių.'
   pagrindžia:
     - c-010
 
-- t-027
-  teiginys: 'Jogaila siekė nusikratyti Kęstučiu, nes jam trukdė dėdės autoritetas, mūšiuose pelnyta šlovė ir griežtas būdas.'
+- t-022
+  teiginys: 'Kęstutį nugalėjęs Jogaila turėjo pažadėti Žemaičius kryžiuočiams.'
   pagrindžia:
-    - c-015
+    - c-017
 
-- t-028
+- t-023
+  teiginys: 'Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m. Pilis perstatyta ir baigta statyti valdant Lietuvos didžiajam kunigaikščiui Vytautui 1414-1430 m.'
+  pagrindžia:
+    - c-018
+
+- t-024
+  teiginys: 'Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.'
+  pagrindžia:
+    - c-019
+
+- t-025
   teiginys: 'Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.'
   pagrindžia:
-    - c-029
+    - c-010
+
+- t-026
+  teiginys: 'Jogaila siekė nusikratyti Kęstučiu, nes jam trukdė dėdės autoritetas, mūšiuose pelnyta šlovė ir griežtas būdas.'
+  pagrindžia:
+    - c-025
 
 ## Reikšmingi paminėjimai
 
@@ -237,6 +222,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - t-003
 
 - c-005
+  santrauka: 'Jogailai siekiant didelės valdžios, Kęstutis jam trukdė dėdės autoritetu, mūšių šlove ir nepalenkiamu būdu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Galingesni vasalai grasino suvaržyti didžiojo ku­
@@ -261,8 +247,10 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   statusas: verified
   pagrindžia:
     - t-018
+    - t-014
 
 - c-006
+  santrauka: 'Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
@@ -363,6 +351,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - t-009
 
 - c-010
+  santrauka: 'Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dail A. Penkowskis, 1838 m.
@@ -380,9 +369,12 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-026
+    - t-025
+    - t-021
+    - t-027
 
 - c-011
+  santrauka: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar nerimą kėlė Gedimino valia ra­
@@ -456,32 +448,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - t-002
 
 - c-015
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Galingesni vasalai grasino suvaržyti didžiojo ku­
-    nigaikščio valdžią, tad Jogailai kilo mintis visus tiesio­
-    giai valdomus lenus sujungti į vieną valstybę ir, tuo vėlei
-    susilpninus feodalizmą, ateičiai pakloti vienvaldystės pa­
-    grindus. Siekiant didelės valdžios jam labiausiai trukdė se­
-    nasis Kęstutis - ir dėdės autoritetu, ir mūšiuose pelnyta šlo­
-    ve, o juolab griežtu ir nepalenkiamu būdu, todėl Jogaila visas
-    jėgas sutelkė pirmiausia nusikratyti dėde, kaip artimiausiu,
-    nes Trakuose gyvenusiu, kaimynu. Nuo tos akimirkos užvi­
-    rė dvejus metus trukusi kova, ir Vilniui šio vidaus karo
-    27
-    Jogaila (Jagiełło) lietuviškai iš tiesų
-    buvo vadinamas Jagajłło, ir doku­
-    mentuose lotyniškai būdavo rašoma:
-    Jagail, arba Jagal, Dei gratia rex in Let-
-    tovia [Jogaila, arba Jagėla, Dievo ma­
-    lone lietuvių karalius].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-016
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1365 m. Kęstutis,
@@ -496,24 +462,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - t-013
 
-- c-017
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taigi Kęstučio dvaras buvo vie­
-    ta, kur daugiausia turėta žinių apie visus kaimynus. Netenka
-    abejoti, kad tokiose sąlygose beaugąs Vytautas galėjo anksti
-    susipažinti su valstybės reikalais. Nesibaigią karo žygiai iš
-    mažens auklėjo jame karingumą, kuriuo jis vėliau taip pasižy­
-    mėjo. Atkakli jo tėvo kova dėl gimtojo krašto turėjo žadinti ir
-    Vytauto sieloje didelę tėvynės meilę — nors apie patriotizmą
-    dabartine žodžio prasme kalbėti netenka.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-020
-
-- c-018
+- c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     « Lietuvos diecezijai » buvo lemta greitai žlugti,
@@ -531,7 +480,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - t-001
 
-- c-019
+- c-017
+  santrauka: 'Kęstutį nugalėjęs Jogaila turėjo pažadėti Žemaičius kryžiuočiams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Taip kar­
@@ -544,29 +494,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
-
-- c-020
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dail A. Penkowskis, 1838 m.
-    Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
-    įsivaizduojami Lietuvos valdovų portretai
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    35
-    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
-    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
-    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
-    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
-    čių dinastija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-022
 
-- c-021
+- c-018
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     XV a. pr.
@@ -577,9 +507,10 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-023
 
-- c-022
+- c-019
+  santrauka: 'Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik neilgai Lietuvos
@@ -597,9 +528,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-024
 
-- c-023
+- c-020
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakų pilis, reikia many­
@@ -628,7 +559,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - t-017
 
-- c-024
+- c-021
+  santrauka: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvių kalboje
@@ -650,7 +582,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - t-011
 
-- c-025
+- c-022
+  santrauka: 'Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pastarasis dalykas Lietuvai buvo labai svarbus, ir todėl
@@ -666,7 +599,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - t-019
 
-- c-026
+- c-023
   santrauka: 'Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -692,61 +625,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   statusas: verified
   pagrindžia:
     - t-010
-
-- c-027
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tik neilgai Lietuvos
-    sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
-    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
-    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
-    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
-    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
-    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
-    neįgijęs, sergėjo. Be to, dar nerimą kėlė Gedimino valia ra­
-    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
-    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
-    riteriai, gviešęsi grobio ir valdžios.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-028
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be to, dar nerimą kėlė Gedimino valia ra­
-    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
-    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
-    riteriai, gviešęsi grobio ir valdžios. Kivirčai tarp brolių da­
-    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
-    siekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo
-    valdos sostinės, turėjęs geriausių galimybių stebėti visus
-    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
-    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
-    nigaikščio buveinę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-029
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dail A. Penkowskis, 1838 m.
-    Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
-    įsivaizduojami Lietuvos valdovų portretai
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    35
-    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
-    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
-    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
-    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
-    čių dinastija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-028
 
 ## Ryšiai
 ### Susiję objektai
@@ -823,8 +701,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - [[objektai/asmenys/Jonas Hanulaitis]]
 - [[objektai/asmenys/Karijotas]]
 - [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/MINTIS]]
-- [[objektai/asmenys/Narimantas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas Didysis]]
@@ -876,7 +752,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - [[objektai/asmenys/Patirgas]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/zodynas/Pilininkas capitaneus seniūnas]]
-- [[objektai/asmenys/Skirgaila]]
 - [[objektai/ivykiai/Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)]]
 - [[objektai/zodynas/Soclageris]]
 - [[objektai/autoriai/Stryjkowski Strijkovskis]]
@@ -906,8 +781,12 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - [[objektai/posakiai/oculi post dominicam]]
 - [[objektai/zodynas/tėviškė]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis]]
 - [[objektai/grupes/Vilniaus gyventojai]]
+- [[objektai/asmenys/Tautvila]]
 - [[objektai/asmenys/Tautvilas]]
+- [[objektai/ivykiai/Vaidilos pakorimas Kęstučio įsakymu]]
+- [[objektai/daiktai/Vežimai su kailiais ir šienu]]
+- [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]
 - [[objektai/asmenys/Vydimantas]]

@@ -15,7 +15,7 @@ interface Item {
 }
 
 type SearchOptionsState = {
-  minQuoteCount: number
+  minClaimCount: number
   sourceSelectionMode: "all" | "custom"
   selectedSourceIds: string[]
 }
@@ -25,9 +25,9 @@ type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
 let idDataMap: FullSlug[] = []
-const OPTIONS_STORAGE_KEY = "ltkb-options-v2"
+const OPTIONS_STORAGE_KEY = "ltkb-options-v3"
 const DEFAULT_SEARCH_OPTIONS_STATE: SearchOptionsState = {
-  minQuoteCount: 3,
+  minClaimCount: 5,
   sourceSelectionMode: "all",
   selectedSourceIds: [],
 }
@@ -158,9 +158,9 @@ function readSearchOptionsState(): SearchOptionsState {
       ? parsed.selectedSourceIds.filter((value): value is string => typeof value === "string")
       : []
     return {
-      minQuoteCount: Number.isFinite(parsed.minQuoteCount)
-        ? Math.max(0, Number(parsed.minQuoteCount))
-        : DEFAULT_SEARCH_OPTIONS_STATE.minQuoteCount,
+      minClaimCount: Number.isFinite(parsed.minClaimCount)
+        ? Math.max(0, Number(parsed.minClaimCount))
+        : DEFAULT_SEARCH_OPTIONS_STATE.minClaimCount,
       sourceSelectionMode: parsed.sourceSelectionMode === "custom" ? "custom" : "all",
       selectedSourceIds,
     }
@@ -170,7 +170,7 @@ function readSearchOptionsState(): SearchOptionsState {
 }
 
 function searchOptionFiltersActive(options: SearchOptionsState): boolean {
-  return options.minQuoteCount > 0 || options.sourceSelectionMode === "custom"
+  return options.minClaimCount > 0 || options.sourceSelectionMode === "custom"
 }
 
 function searchOptionsMatchPage(
@@ -184,8 +184,8 @@ function searchOptionsMatchPage(
     return false
   }
 
-  const quoteCount = Number(page.quoteCount ?? 0)
-  if (quoteCount < options.minQuoteCount) {
+  const claimCount = Number(page.claimCount ?? 0)
+  if (claimCount < options.minClaimCount) {
     return false
   }
 
@@ -531,11 +531,11 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
       card.className = "result-card no-match filtered-match"
       card.innerHTML = `
         <h3>Rezultatai paslėpti filtro</h3>
-        <p>Rasta ${filteredResultCount}, bet dabartinis filtras rodo tik objektus su bent ${options.minQuoteCount} citatomis.</p>
+        <p>Rasta ${filteredResultCount}, bet dabartinis filtras rodo tik objektus su bent ${options.minClaimCount} teiginiais.</p>
         <p class="filter-hint">Spausk čia, kad šiai paieškai sumažintum minimumą iki 0.</p>
       `
       card.addEventListener("click", () => {
-        writeSearchOptionsState({ ...options, minQuoteCount: 0 })
+        writeSearchOptionsState({ ...options, minClaimCount: 0 })
         searchBar.dispatchEvent(new Event("input", { bubbles: true }))
       })
       return card

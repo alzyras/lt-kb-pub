@@ -18,13 +18,14 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
 ## Teiginiai
 
 - t-001
-  teiginys: 'Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netikrų krikščionių dievus, draugijos nariai pasivadino senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­ kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­ gantu, Juozapas.'
+  teiginys: 'Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Legaliai veikė įvai­

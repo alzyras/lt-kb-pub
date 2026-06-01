@@ -19,13 +19,14 @@ Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje v
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­ vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­ tydino nedidukę oratoriją, arba koplyčią14.'
+  teiginys: 'Vilniaus vyskupas Povilas Alšėniškis savo sode pastatydino nedidelę oratoriją, arba koplyčią, pranciškonų kankinių palaidojimo vietoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vyskupas Povilas Alšėniškis savo sode pastatydino nedidelę oratoriją, arba koplyčią, pranciškonų kankinių palaidojimo vietoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojaus bažnyčią. O po dvi­
@@ -45,3 +46,4 @@ Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje v
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
+- [[objektai/grupes/Pranciškonų ordinas]]

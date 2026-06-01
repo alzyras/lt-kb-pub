@@ -20,13 +20,14 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos teologas Tomas YValdenas, garsus savo dis­ putais su Viklifo sekėjais ir husitais, kurį Anglijos karalius Henrikas V buvo pasitelkęs į Vladislovo Jogai­ los derybas su kryžiuočiais.'
+  teiginys: 'Anglijos karalius Henrikas V pasitelkė teologą Tomą Waldeną į Vladislovo Jogailos derybas su kryžiuočiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Anglijos karalius Henrikas V pasitelkė teologą Tomą Waldeną į Vladislovo Jogailos derybas su kryžiuočiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     86

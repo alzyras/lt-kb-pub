@@ -34,7 +34,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdžios politikai, reikalauti tikintiesiems ir bažnyčiai konstitucinių teisių.'
+  teiginys: '1972 m. kovo 19 d. grupė dvasininkų pradėjo leisti „Lietuvos katalikų bažnyčios kroniką“.'
   pagrindžia:
     - c-001
 
@@ -51,6 +51,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1972 m. kovo 19 d. grupė dvasininkų pradėjo leisti „Lietuvos katalikų bažnyčios kroniką“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grupė dvasininkų 1972 m. kovo 19 d. pradėjo leisti katalikišką leidinį „Lie-

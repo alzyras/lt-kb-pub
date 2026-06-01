@@ -73,4 +73,3 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
 - [[objektai/asmenys/Kazys Grinius]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/asmenys/Mykolas Sleževičius]]
-- [[objektai/zodynas/tautos atstovai]]

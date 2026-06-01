@@ -30,7 +30,7 @@ Vartojamos formos: `sūdąs`, `sūdą`.
     - c-001
 
 - t-002
-  teiginys: '`Sūdas` šiame tekste reiškia teisminį sprendimą ar teismo vietą.'
+  teiginys: 'Sūdas citatoje pripažindavo vergais skolininkus, kurie negalėjo laiku grąžinti skolos.'
   pagrindžia:
     - c-002
 

@@ -49,5 +49,4 @@ Dėl jo energingos paramos Mozūrų kancleris Ziemovitas gavo Płocko vyskupo so
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/pakancleris]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]

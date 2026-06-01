@@ -49,7 +49,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - c-004
 
 - t-005
-  teiginys: 'Smetonai – ultimatumo akivaizdoje opozicija verčia jo paskirtą premjerą, nors S.'
+  teiginys: '1940 m. birželio 15 d. vyriausybės posėdyje A. Smetonos siūlymą priešintis ginklu palaikė tik du ministrai.'
   pagrindžia:
     - c-002
 
@@ -109,7 +109,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - c-005
 
 - t-017
-  teiginys: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 181 kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.'
+  teiginys: 'A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.'
   pagrindžia:
     - c-014
 
@@ -151,6 +151,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-010
 
 - c-002
+  santrauka: '1940 m. birželio 15 d. vyriausybės posėdyje A. Smetonos siūlymą priešintis ginklu palaikė tik du ministrai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
@@ -370,6 +371,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-021
 
 - c-014
+  santrauka: 'A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dauguma kaltinamųjų sakė,
@@ -537,7 +539,6 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - [[objektai/grupes/Nacių Vokietija]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Valstybės Taryba]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Voldemarininkai]]
@@ -566,7 +567,6 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]
 - [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
 - [[objektai/grupes/Liaudies vyriausybė]]
-- [[objektai/ivykiai/Liaudies vyriausybės sudarymas (1940 m. birželio 17 d.)]]
 - [[objektai/zodynas/Lietuviška Lietuva]]
 - [[objektai/grupes/Lietuvių tautininkų sąjunga]]
 - [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
@@ -582,7 +582,6 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - [[objektai/asmenys/Mykolas Sleževičius]]
 - [[objektai/grupes/Oswiata]]
 - [[objektai/grupes/Pochodnia]]
-- [[objektai/ivykiai/Politinių partijų uždraudimas Lietuvoje (1936 m. pradžia)]]
 - [[objektai/grupes/Politinė „ašis“]]
 - [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
@@ -609,7 +608,6 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - [[objektai/ivykiai/Žydų ministro be portfelio posto panaikinimas (1923 m.)]]
 - [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“]]
 - [[objektai/posakiai/„gal neokupuos“ „o gal nesovietizuos “]]
-- [[objektai/posakiai/„nė trijų dienų“]]
 - [[objektai/posakiai/„pavojingą politinį pamišėlį“]]
 - [[objektai/posakiai/„seimų laikus“]]
 - [[objektai/posakiai/„teritoriniai patriotai“]]

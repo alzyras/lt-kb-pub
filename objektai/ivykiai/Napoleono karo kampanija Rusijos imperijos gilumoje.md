@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo me­ tu Vilnius, kaip ir visa Lietuva, buvo patekusi prancūzų val­ džion, ir krašto bajorai, užgniaužę kvapą, laukdavo žinių apie Napoleono karo kampaniją Rusijos imperijos gilumoje.'
+  teiginys: '1812 m. prancūzams valdant Vilnių ir Lietuvą, krašto bajorai laukė žinių apie Napoleono kampaniją Rusijos imperijos gilumoje.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1812 m. prancūzams valdant Vilnių ir Lietuvą, krašto bajorai laukė žinių apie Napoleono kampaniją Rusijos imperijos gilumoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Sūnaus brendimo ir mokslo metai praėjo Vil­
@@ -92,5 +93,6 @@ Nenurodyta
 - [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]

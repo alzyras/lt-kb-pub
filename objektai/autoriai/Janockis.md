@@ -18,7 +18,7 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Daugiausia žinių apie šį nepaprastą žmogų ga­ lima surasti O s s o 1 i ń s k i II t., 1.155 sq.; jis pataisė Janockio ir kitų Roizijaus biografų klaidas.'
+  teiginys: 'Janockis buvo vienas iš Roizijaus biografų, kurių klaidas pataisė Ossolinskis.'
   pagrindžia:
     - c-001
 
@@ -30,6 +30,7 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Janockis buvo vienas iš Roizijaus biografų, kurių klaidas pataisė Ossolinskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Garsiau­

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad ochmański J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad ochmański J.'
+  teiginys: 'J. Ochmańskio straipsnis „Uwagi o litewskim państwie wczesnofeudalnym“ paskelbtas 1961 m. leidinio „Roczniki historyczne“ 27 tome, p. 143–160.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Ochmańskio straipsnis „Uwagi o litewskim państwie wczesnofeudalnym“ paskelbtas 1961 m. leidinio „Roczniki historyczne“ 27 tome, p. 143–160.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ochmański J. Uwagi o litewskim państwie wczesnofeudalnym.—Roczniki historyczne,

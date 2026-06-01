@@ -132,7 +132,6 @@ Nenurodyta
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Lėktuvai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/grupes/Vokiečiai]]

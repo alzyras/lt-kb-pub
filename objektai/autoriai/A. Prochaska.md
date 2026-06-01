@@ -45,12 +45,12 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
 - t-004
   teiginys: 'A. Prochaska parašė darbus „Stosunki krzyżaków z Gedyminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-005
   teiginys: 'A. Prochaska gynė Gedimino laiškų autentiškumą.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -70,6 +70,7 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -112,23 +113,6 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     - t-003
 
 - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Taip pat tik I tomas tebuvo išspausdintas ver­
-    tingo veikalo apie Jogailaičius ir Maskvą. Jo autorius H. Paszki­
-    ewiczius, geras senosios Lietuvos istorijos šaltinių žinovas,
-
-    (^131) **A. Prochaska : Stosunki krzyżaków z Oedyminem i Łokietkiem (atsp.
-    iš KH), Lwów 1896 ;** **_Od Mendoga do Jagiełły_** **, Litwa i Ruś, IV, 1, 1912.**
-    (^132) **A. Prochaska :** **_Zjazd monarchów w Lucku,_** **Przewodnik Nauk. i
-    Literacki, I, Lwów 1874, 58 p. ;** **_Ostatnie łata Witołda.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kadangi dėl tų laiškų autentiškumo ginčas tebesitęsia nuo pat

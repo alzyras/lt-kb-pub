@@ -45,7 +45,7 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Per rinkimų agitaciją valdžia daug dėmesio skyrė A.'
+  teiginys: 'Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,11 @@ Nenurodyta
   teiginys: 'Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies seimą dalyvavo 95 proc.'
   pagrindžia:
     - c-001
+
+- t-006
+  teiginys: 'Prieš Liaudies seimo rinkimus, 1940 m. liepos 11–12 d., valdžia suėmė kelis šimtus žinomų šalies veikėjų.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -72,6 +77,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: 'Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pusė jų – atrinkti komunistų partijos nariai, kiti komunistų simpatikai
@@ -138,7 +144,7 @@ Nenurodyta
     - t-005
 
 - c-006
-  santrauka: 'Per rinkimų agitaciją valdžia daug dėmesio skyrė A.'
+  santrauka: 'Prieš Liaudies seimo rinkimus, 1940 m. liepos 11–12 d., valdžia suėmė kelis šimtus žinomų šalies veikėjų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per rinkimų agitaciją valdžia daug dėmesio
@@ -159,5 +165,6 @@ Nenurodyta
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/zodynas/aneksija]]
 - [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/zodynas/liaudies priešai]]

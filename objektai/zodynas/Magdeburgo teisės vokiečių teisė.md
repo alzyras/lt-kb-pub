@@ -33,13 +33,14 @@ amziai:
     - c-002
 
 - t-002
-  teiginys: 'Vytauto viešpatavimo laikams einant į pabaigą, šis kunigaikštis, to­ lydžio neišvengiantis tam tikros trinties su feodaline valdžia, nenorėjo sąžiningai laikytis Horodlės susitarimo sąlygų; Taigi Vilnius - Gedimino suteikta vokiečių teise, Rygos pavyzdžiu.'
+  teiginys: 'Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto

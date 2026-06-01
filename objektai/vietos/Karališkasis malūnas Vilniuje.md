@@ -50,14 +50,9 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     - c-002
 
 - t-003
-  teiginys: 'Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos.'
+  teiginys: '1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.'
   pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Antraštė: Molendinum Vilnense [Vil­ niaus malūnas].'
-  pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -75,26 +70,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     - t-001
 
 - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IV KNYGA
-    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
-    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
-    gai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­
-    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
-    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
-    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
-    mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­
-    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
-    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
-    malūnas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
+  santrauka: '1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     40), matyti,
@@ -118,17 +94,4 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    15
-    Iš Lietuvos Metrikos. Knyga, apimanti
-    Metrikos archyvo sąrašą. Raidė S.
-    Antraštė: Molendinum Vilnense [Vil­
-    niaus malūnas].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
+    - t-002

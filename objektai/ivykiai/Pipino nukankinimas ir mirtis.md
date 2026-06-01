@@ -37,7 +37,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -56,22 +55,6 @@ Nenurodyta
     buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas. Aprašydamas vieno
-    iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi,
-    jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po
-    medžiu pakartas. Palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija,
-    ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas:
-    išpjovus jam iš pilvo bambą  ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,
-    buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

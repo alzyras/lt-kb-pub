@@ -18,13 +18,14 @@ Be to, pagal šią fundaciją ir tvarką, mūsų perimtą iš ją įvedusio pirm
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be to, pagal šią fundaciją ir tvarką, mūsų perimtą iš ją įvedusio pirmojo fundatoriaus, norime, kad šiose anksčiau minėtose ribose nebūtų jokių kitų karčemų, išskyrus priklau­ sančias Pabaisko bažnyčiai, tik jose nebus draudžiama pils­ tyti midų, alų, degtinę.'
+  teiginys: 'Pabaisko bažnyčios valdose leista laikyti tik jai priklausančias karčemas, kuriose buvo galima pilstyti midų, alų ir degtinę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pabaisko bažnyčios valdose leista laikyti tik jai priklausančias karčemas, kuriose buvo galima pilstyti midų, alų ir degtinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Item Decima in Wieprze om­

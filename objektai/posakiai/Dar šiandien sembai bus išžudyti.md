@@ -46,25 +46,6 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
     - t-002
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje
-    pusėje daugybės sužeistųjų ir nukautųjų, visus išžudė. Šitaip iš dievo malonės tą dieną
-    krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš
-    metus įvyko Pokarvių kautynės.
-
-
-
-
-
-              99 (94).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš metus įvyko Pokarvių kautynės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -78,6 +59,7 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

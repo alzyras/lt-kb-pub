@@ -37,12 +37,12 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
 - t-002
   teiginys: 'Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos magistrą 1302—1306 metais Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -61,29 +61,9 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   statusas: verified
   pagrindžia:
     - t-001
+    - t-005
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo
-    29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus
-    gyventojus ir vieną kunigą, o moteris bei vaikus paėmė į nelaisvę; visaip išniekinę kitus
-    sakramentus, vienas dar suteršė indą krikšto vandeniui laikyti, pridergdamas į jį. Ligi pat
-    dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo
-    krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
-    palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
-
-
-
-
-           271 (264).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
@@ -99,7 +79,7 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   santrauka: 'Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -122,22 +102,7 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-005
-  santrauka: 'Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    285 (278). Apie Karšuvos žemės nusiaubimą
-
-      Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į
-    Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į
-    saugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,
-    sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -147,8 +112,8 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/dykra]]
 - [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema)]]
 - [[objektai/daiktai/Krikšto vandens indas|Krikšto vandens indas (krikštas, XIII a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]
 - [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės]]

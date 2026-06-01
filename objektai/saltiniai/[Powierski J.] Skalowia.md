@@ -17,13 +17,14 @@ Dusburgietis teigia, kad [Powierski J.] Skalowia.— SSS, t.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad [Powierski J.] Skalowia.— SSS, t.'
+  teiginys: 'J. Powierskio „Skalowia“ nurodyta SSS 5 tomo 192-193 puslapiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio „Skalowia“ nurodyta SSS 5 tomo 192-193 puslapiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [Powierski J.] Skalowia.— SSS, t. 5, s. 192—193.

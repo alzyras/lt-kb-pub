@@ -50,7 +50,6 @@ Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tar
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/ivykiai/Grabovo derybos]]
 - [[objektai/asmenys/Gregorijus Cemblakas]]
 - [[objektai/grupes/Domininkonų ordinas]]

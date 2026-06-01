@@ -21,16 +21,17 @@ tags:
 - t-001
   teiginys: 'K. Heinlis teigė, kad Vytautui pasiekti savo tikslą buvo sunkiau negu jo pirmtakams.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
-  teiginys: 'Heinl: „Nei vienam jo pirmtakūnų tą pa­ daryti nebuvo taip sunku, bet nei vienas jų taip puikiai nepasie­ kė savo tikslo kaip jis“^2 ).'
+  teiginys: 'K. Heinl teigė, kad Vytautui valdžią įgyti buvo sunkiau nei pirmtakams, bet jis tikslą pasiekė puikiau už juos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. Heinl teigė, kad Vytautui valdžią įgyti buvo sunkiau nei pirmtakams, bet jis tikslą pasiekė puikiau už juos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Valdžią Vytautui buvo lemta įgauti tik per sunkią kovą.
@@ -45,19 +46,4 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Valdžią Vytautui buvo lemta įgauti tik per sunkią kovą.
-    Ir teisingai pastebi K. Heinl: „Nei vienam jo pirmtakūnų tą pa­
-    daryti nebuvo taip sunku, bet nei vienas jų taip puikiai nepasie­
-    kė savo tikslo kaip jis“^2 ). Krašto viduje jis tapo absoliutišku
-    valdovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,
-    kaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka
-    taip pat buvo didžiausia.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001

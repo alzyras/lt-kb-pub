@@ -20,18 +20,19 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 ## Teiginiai
 
 - t-001
-  teiginys: 'O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.'
+  teiginys: 'Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.'
+  teiginys: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per tiltus per Vilnią ir Vingrių upokšnį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
@@ -52,6 +53,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-001
 
 - c-002
+  santrauka: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per tiltus per Vilnią ir Vingrių upokšnį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kunigaikščio rūmų pastatai,

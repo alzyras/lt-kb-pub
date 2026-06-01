@@ -17,13 +17,14 @@ Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex o
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex officio suo [paruoštų pagal savo pareigas] medikamentų, eidami dar ir gydytojo pareigas, ne tik ex Pharmacis [vaistų] vaistinės pajamas padidindavo, juk ir pa­ tys gydydavo.'
+  teiginys: 'Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­
@@ -49,4 +50,5 @@ Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex o
 ### Susiję objektai
 - [[objektai/asmenys/Necelas]]
 - [[objektai/asmenys/Renkielis]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/paprociai/Vaistininkų gydytojavimas ir vaistinės pajamų didinimas gydymu]]

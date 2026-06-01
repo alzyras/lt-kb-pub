@@ -23,13 +23,14 @@ Dusburgietis teigia, kad kosman M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kosman M.'
+  teiginys: 'M. Kosmano veikalas „Drogi zaniku pogaństwa u Bałtów“ išleistas Vroclave, Varšuvoje, Krokuvoje ir Gdanske 1976 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Kosmano veikalas „Drogi zaniku pogaństwa u Bałtów“ išleistas Vroclave, Varšuvoje, Krokuvoje ir Gdanske 1976 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kosman M. Drogi zaniku pogaństwa u Bałtów. —Wrocław—Warszawa—Kraków—

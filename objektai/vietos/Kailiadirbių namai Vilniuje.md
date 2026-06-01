@@ -19,13 +19,14 @@ Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje įsikurdavo22.'
+  teiginys: 'Kailiadirbių namai Vilniaus turguje buvo pastatyti miesto lėšomis prie mūrinių krautuvių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kailiadirbių namai Vilniaus turguje buvo pastatyti miesto lėšomis prie mūrinių krautuvių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau savo kai­

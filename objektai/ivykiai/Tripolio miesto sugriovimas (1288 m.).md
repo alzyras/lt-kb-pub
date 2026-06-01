@@ -45,7 +45,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą 1288 viešpaties metais valdė Mikalojus IV, popiežius, priklausęs mažesniųjų brolių ordinui, ir Rudolfas, Romos karalius.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -60,19 +59,6 @@ Nenurodyta
     432; Mart. p. 421).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1288 viešpaties metais valdė Mikalojus IV, popiežius, priklausęs mažesniųjų brolių
-    ordinui, ir Rudolfas, Romos karalius. To popiežiaus antraisiais metais buvo sugriautas
-    Tripolis, o ten gyvenę krikščionys paimti  į nelaisvę ar nužudyti (Ptol. 24, 20; Mart. p.
-    432; Mart. p. 421).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

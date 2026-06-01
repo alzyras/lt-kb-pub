@@ -73,7 +73,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - c-008
 
 - t-009
-  teiginys: 'L I E T U V O S I S T O R I J A 184 Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
+  teiginys: '1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų.'
   pagrindžia:
     - c-009
 
@@ -243,7 +243,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-008
 
 - c-009
-  santrauka: 'L I E T U V O S I S T O R I J A 184 Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
+  santrauka: '1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepatarė imti Vilniaus ir sovietai.
@@ -329,7 +329,6 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/rezervas]]
 - [[objektai/zodynas/Tėvūnija|tėvūnija]]
@@ -376,7 +375,6 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.)]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/asmenys/Mykolas Glinskis]]
-- [[objektai/grupes/Osmanų Turkija]]
 - [[objektai/asmenys/Povilas Sapiega]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]
@@ -408,6 +406,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/zodynas/telefonograma]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]
+- [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]

@@ -30,7 +30,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - t-003
   teiginys: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -48,21 +48,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     - t-001
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    kita, kaip ATR ir LDK erdvė, vadinasi, „Rusijos žydai“ – tai LDK – Lietu-
-    vos, Baltarusijos, Ukrainos ir Lenkijos – žydai.
-    Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moder-
-    niosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina. O
-    kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
-    vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -81,6 +66,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

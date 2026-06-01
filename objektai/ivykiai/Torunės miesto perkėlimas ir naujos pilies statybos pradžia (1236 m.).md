@@ -43,11 +43,6 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 1236 m. Torunės miestas perkeltas į dab.'
-  pagrindžia:
-    - c-002
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad senosios Torunės pilaitė ir toliau liko Ordino rankose, ji naudota kaip gyvulininkystės dvaras.'
   pagrindžia:
     - c-001
@@ -65,9 +60,10 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
+  santrauka: '1236 m. Torunės miestas buvo perkeltas į dabartinės Torunės vietą, kur pradėta statyti nauja pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1236 m. Torunės miestas perkeltas į dab. Torunės vietą (SRP, 3, p. 58). Čia pradėta
@@ -76,8 +72,6 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

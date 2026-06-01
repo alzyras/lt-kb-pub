@@ -30,7 +30,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 ## Teiginiai
 
 - t-001
-  teiginys: '16 d. išdavė Lvove pri­ vilegiją, kuri taip pat, kaip ir N.'
+  teiginys: '1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką.'
   pagrindžia:
     - c-001
 
@@ -40,7 +40,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-004
 
 - t-003
-  teiginys: 'Jų Gniezno metropolijai priklausė Vilniaus vyskupija, o Lvovo ar­ kivyskupas, kuris jau turėjo savo valdžioj Vladimiro vyskupiją, galėjo dar tikėtis gauti ir Žemaičius, nes jis, kaip Konstancijos susirinkimo įgaliotinis, prisidėjo prie Žemaičių vyskupijos.'
+  teiginys: 'Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.'
   pagrindžia:
     - c-002
 
@@ -52,21 +52,22 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - t-005
   teiginys: 'Lvovas buvo pastatydintas 1280 m. Leono, Danilos iš Haličo sūnaus.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-007
   teiginys: 'Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą. Dar
@@ -82,6 +83,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - t-001
 
 - c-002
+  santrauka: 'Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vilniaus vyskupija būtų metropolija.
@@ -129,27 +131,9 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Poznanė dar anksčiau už Krokuvą - 1253 metais,
-    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
-    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
-    teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
-    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus. Išsi­
-    laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
-    tai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­
-    lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą
-    miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
-    zacijos požiūriu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš ten buvo išva­
@@ -165,7 +149,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   pagrindžia:
     - t-006
 
-- c-007
+- c-006
   santrauka: 'Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

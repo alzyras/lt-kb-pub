@@ -46,7 +46,7 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: 'Senovės Lietuvoje nėra rimtų liudijimų apie tikybos šventnamius, o šventajai ugniai nuo oro skirti pastoginiai trobesiai, jei buvo, niekuo neišsiskyrė iš paprastų pastatų.'
+  teiginys: 'Senovės Lietuvoje nėra rimtų liudijimų apie tikybos šventnamius, o šventosios ugnies pastogės, jei buvo, neišsiskyrė iš paprastų trobesių.'
   pagrindžia:
     - c-003
 
@@ -58,7 +58,7 @@ Nenurodyta
 - t-005
   teiginys: 'Ligšiol yra žinoma keletas kulto tarnų vardų, bet jokio organizacinio ryšio tarp jų neužtikta^2 ), Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje būtų buvę kokių tikybos šventnamių.'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -90,6 +90,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Senovės Lietuvoje nėra rimtų liudijimų apie tikybos šventnamius, o šventosios ugnies pastogės, jei buvo, neišsiskyrė iš paprastų trobesių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jokio vyriau­
@@ -105,6 +106,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-005
 
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -119,23 +121,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jokio vyriau­
-    siojo krivės arba, kaip S. Grunau vadina, Krivių Krivaičio
-    veikiausiai niekad nebuvo. Ligšiol yra žinoma keletas kulto
-    tarnų vardų, bet jokio organizacinio ryšio tarp jų neužtikta^2 ),
-    Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje
-    būtų buvę kokių tikybos šventnamių. Jei ir buvo kokios pa­
-    stogės šventajai ugniai nuo oro kritulių apsaugoti, tai jos niekuo
-    nepasižymėjo, gal visai nesiskyrė nuo paprastų trobesių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Susiję objektai

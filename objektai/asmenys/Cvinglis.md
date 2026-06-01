@@ -27,13 +27,14 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos, vadinamo Juoduoju.'
+  teiginys: 'Cvinglio mokslas Vilniuje buvo giliai įsišaknijęs ir stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos Juodojo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Cvinglio mokslas Vilniuje buvo giliai įsišaknijęs ir stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos Juodojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik po dvejų metų kapitula, patyrusi, kad

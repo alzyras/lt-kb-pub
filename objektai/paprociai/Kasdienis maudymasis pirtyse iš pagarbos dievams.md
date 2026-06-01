@@ -40,7 +40,7 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad kitą dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia tesėti susitarimą.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti pirties tiesiog kęste nekenčia.'
@@ -65,6 +65,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -80,22 +81,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kitą
-    dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia
-    tesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
-    pirties tiesiog kęste nekenčia. Moterys ir vyrai pratę verpti, vieni — linus, kiti — vilnas,
-
-      211 Senovės paprotys reikalavo, kad jaunikis pinigais ar daiktais mokėtų jaunosios
-    tėvui, t. y. išpirktų žmoną.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

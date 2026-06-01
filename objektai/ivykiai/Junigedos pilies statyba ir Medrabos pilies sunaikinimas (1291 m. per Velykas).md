@@ -76,25 +76,6 @@ Nenurodyta
     - t-002
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su
-    tūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
-    stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link
-    Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
-    pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
-
-
-
-
-                     245 (238).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link Medrabos pilies534, per kurią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -115,6 +96,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -37,44 +37,31 @@ Nenurodyta
 - t-001
   teiginys: 'Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: '1326 m. Gediminas talkininkavo Lokietkai, pasiųsdamas 1200 vyrų, ir sąjungininkai palaikė vienas kitą kovoje prieš ordiną.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą su Lenkija.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-004
   teiginys: 'Sutartis buvo sudaryta 1325 m.; kad ji būtų tvirtesnė, Gediminas išleido už Vladislovo sūnaus, būsimojo Lenkijos karaliaus Kazimiero Didžiojo, savo dukterį Aldoną.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-005
   teiginys: '1325 m. sutartis buvo pirmasis pastovesnis Lietuvos ir Lenkijos taikos sąlytis.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **4. Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
-    Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo
-    tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.
-    Šis ruošėsi kariauti su ordinu dėl užgrobto Dancigo ir Pamario.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
@@ -90,7 +77,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-003
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo
@@ -106,7 +93,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
@@ -122,8 +109,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-001
 
-- c-005
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tą numanydamas, Gediminas ir ruošėsi karui. Ieš-
@@ -149,7 +137,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-006
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Gediminas taip pat buvo pirmasis, kuris
@@ -173,9 +161,7 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/talkininkas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]

@@ -26,13 +26,14 @@ Dusburgietis teigia, kad baryczowa M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad baryczowa M.'
+  teiginys: 'M. Baryczowa 1936 m. paskelbė darbą „Augustyn Rotundus“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Baryczowa 1936 m. paskelbė darbą „Augustyn Rotundus“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     75 Pasakodamas apie Vytenį, jis tvirtina rašąs kaip Petras Dusburgietis, senas Prūsų

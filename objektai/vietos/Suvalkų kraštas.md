@@ -28,42 +28,32 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-002
   teiginys: 'Suvalkų kraštas: lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž. vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
-  teiginys: 'visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre- tingos ir Telšių apskričių dalys.'
+  teiginys: 'Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-004
   teiginys: 'Suvalkų kraštas: užnemunė Prūsų karalystėje. Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais. Jos visos buvo padalintos į Plocko ir Balstogės departamentus. Lietuviškoji Užnemunė priklausė Balstogės departamentui.'
   pagrindžia:
-    - c-009
+    - c-006
 
 - t-005
-  teiginys: 'Suvalkų kraštas: žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko ir panaikinus Lenkų karalystę. Užnemunėje Napoleono kodek- sas, — žinoma, labai papildytas, — tebeveikia dar ir dabar.'
+  teiginys: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto dvarų juose buvo mažiau.'
   pagrindžia:
-    - c-008
+    - c-003
 
 - t-006
-  teiginys: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto dvarų juose buvo mažiau.'
+  teiginys: 'Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti.'
   pagrindžia:
     - c-004
 
 - t-007
-  teiginys: 'Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti.'
-  pagrindžia:
-    - c-005
-
-- t-008
-  teiginys: 'Suvalkų kraštas: užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje. 1807 m. Prūsija buvo Napoleono užimta. Tais pačiais metais Užnemunė buvo priskirta prie Varšuvos kunigaikštystės. Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na- poleono kodeksas.'
-  pagrindžia:
-    - c-007
-
-- t-009
   teiginys: 'Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -83,25 +73,9 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pati
-    reforma iš pradžių buvo padaryta tik vakarinėje valstybės da-
-    lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose
-    srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien
-    savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.
-    vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
-    mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
-    vienkiemiais XIX amž., o kitur jie dar nebaigė skirstytis nė dabar.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu ordino
@@ -117,9 +91,9 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-007
 
-- c-004
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietuvos kunigaikščio būstinės. Suvalkų kraštas
@@ -131,9 +105,9 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-005
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sąjungininkų kariuomenė tik
@@ -149,9 +123,10 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-006
+- c-005
+  santrauka: 'Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors teritorijos atžvilgiu ru-
@@ -168,39 +143,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   pagrindžia:
     - t-003
 
-- c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje.
-    1807 m. Prūsija buvo Napoleono užimta. Tais pačiais metais
-    Užnemunė buvo priskirta prie Varšuvos kunigaikštystės. Kaip
-    visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na-
-    poleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžia-
-    vos, tik be žemės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip
-    visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na-
-    poleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžia-
-    vos, tik be žemės.
-    Žuvus Napoleono galybei, Užnemunė taip pat pasiliko
-    Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko
-    ir panaikinus Lenkų karalystę. Užnemunėje Napoleono kodek-
-    sas, — žinoma, labai papildytas, — tebeveikia dar ir dabar.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-009
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Užnemunė Prūsų karalystėje.** Prūsija per trečiąjį padalinimą

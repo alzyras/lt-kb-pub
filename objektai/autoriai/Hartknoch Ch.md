@@ -18,13 +18,14 @@ Dusburgietis teigia, kad hartknochas, pirmas D.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad hartknochas, pirmas D.'
+  teiginys: 'Ch. Hartknochas buvo pirmasis Dusburgiečio kronikos leidėjas ir manė, kad rutėnais vadinti Riugeno gyventojai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ch. Hartknochas buvo pirmasis Dusburgiečio kronikos leidėjas ir manė, kad rutėnais vadinti Riugeno gyventojai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami

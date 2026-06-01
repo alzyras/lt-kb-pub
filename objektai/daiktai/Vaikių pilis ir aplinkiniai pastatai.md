@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vaikių krašte buvo šventoji giria, ku­ ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­ tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai išžudyti.'
+  teiginys: 'Vaikių krašte šventoji giria, netoliese stovėjusi pilis ir aplinkiniai pastatai per vieną naktį buvo sudeginti iki pamatų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vaikių krašte šventoji giria, netoliese stovėjusi pilis ir aplinkiniai pastatai per vieną naktį buvo sudeginti iki pamatų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Belaisvių ėmimas, krašto niokojimas bei

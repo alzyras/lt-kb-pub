@@ -41,7 +41,7 @@ Nenurodyta
 - t-002
   teiginys: 'Tas pats įstatymas pripažino Lietuvos ministerių pirmenybę, kai seimas vykdavo Lietuvoje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -61,22 +61,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa-
-    sienyje. Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš
-    įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas
-    ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad
-    kas trečias seimas, kurio maršalka esti lietuvis, rink-
-    tųsi Lietuvoje — Gardine. Be to, tas pats įstatymas
-    pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo
-    Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

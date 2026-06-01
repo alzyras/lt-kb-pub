@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad lietuvių—prūsų bendradarbiavimą liudija 1245 m. dokumentai.'
+  teiginys: '1245 m. prie pamarėnų ir prūsų sąjungos prisidėjo jotvingiai ir lietuviai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1245 m. prie pamarėnų ir prūsų sąjungos prisidėjo jotvingiai ir lietuviai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kryžiuočiai patyrė pirmą nuo pat
@@ -64,5 +65,6 @@ Nenurodyta
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Pamarėnai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]

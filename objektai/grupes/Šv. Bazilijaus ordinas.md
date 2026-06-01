@@ -20,13 +20,14 @@ Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytė
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytės, atkviesti, įsikūrė Vilniuje ir turėjo medinę savo bažnyčią17.'
+  teiginys: 'Algirdo valdymo pradžioje Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdo valdymo pradžioje Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     26

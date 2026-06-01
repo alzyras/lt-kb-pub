@@ -42,31 +42,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Kimelio pilies sunaikinimą 1296 metais Neilgai trukus po to brolis Liudvikas iš Libencelės patraukė į žygį su kitais broliais ir 200 vyrų, ketindamas užpulti vieną pilį, tačiau vedlys išklydo iš kelio ir kariuomenė ją praėjo; kai begrįždami atitiko.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Neilgai trukus po to brolis Liudvikas iš Libencelės patraukė į žygį su kitais broliais ir
-    200 vyrų, ketindamas užpulti vieną pilį, tačiau vedlys išklydo iš kelio ir kariuomenė ją
-    praėjo; kai begrįždami atitiko tikrąjį kelią ir įėjo  į pilį, nieko joje nerado, nes žmonės,
-    kurie joje gyveno, pamatę brolių kariuomenę, išsislapstė miškuose, nei galėdami, nei
-    norėdami priešintis jų antpuoliams. Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto
-    dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,
-    taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir
-    patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei
-    išlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o
-    ją pačią, pakišę ugnį, ligi pamatu sudegino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kimelio pilies sunaikinimą 1296 metais

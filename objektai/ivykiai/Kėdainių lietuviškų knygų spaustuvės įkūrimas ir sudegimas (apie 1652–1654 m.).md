@@ -83,8 +83,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
-- [[objektai/asmenys/Jonušas Radvila]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/asmenys/Radvila (maršalka)]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/grupes/Švedai]]

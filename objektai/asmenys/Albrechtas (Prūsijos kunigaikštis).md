@@ -18,13 +18,14 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfiurstui, Albrechtui, Prūsijos ku­ nigaikščiui, visiems trims, norime, kad būtų duota po du gerus žirgus, prašydamas jų didenybių kaip savo giminai­ čių, kad giminiškos meilės ženklan.'
+  teiginys: 'Albrechtas, Prūsijos kunigaikštis, testamente turėjo gauti du gerus žirgus ir būti paskutinės valios gynėju bei globėju.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Albrechtas, Prūsijos kunigaikštis, testamente turėjo gauti du gerus žirgus ir būti paskutinės valios gynėju bei globėju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taipgi norime, kad jos didenybei karalai­

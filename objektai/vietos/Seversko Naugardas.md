@@ -20,13 +20,14 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.'
+  teiginys: 'Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Kaributą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Kaributą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Paminėsime tad tik

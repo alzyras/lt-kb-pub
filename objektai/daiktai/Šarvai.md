@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Visa Ordino kariuomenė stovėjo atvi­ rame lauke ir riterius, šarvuotus metaliniais šarvais, kepino karšta liepos mėnesio saulė, tuo tarpu sąjungininkų kariuo­ menės dalis slėpėsi medžių ūksmėje, galėjo ilsėtis.'
+  teiginys: 'Ordino riterius, šarvuotus metaliniais šarvais, atvirame lauke kepino karšta liepos mėnesio saulė.'
   pagrindžia:
     - c-003
 
@@ -53,7 +53,7 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Pasimeldęs Jogaila, ne tik Vytauto, bet ir lenkų riterių raginamas, užsidėjo šarvus ir nu­ vyko prie kariuomenės.'
+  teiginys: 'Pasimeldęs Jogaila, Vytauto ir lenkų riterių raginamas, užsidėjo šarvus ir nuvyko prie kariuomenės.'
   pagrindžia:
     - c-004
 
@@ -96,6 +96,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Ordino riterius, šarvuotus metaliniais šarvais, atvirame lauke kepino karšta liepos mėnesio saulė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Abi priešininkų kariuomenės
@@ -112,6 +113,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: 'Pasimeldęs Jogaila, Vytauto ir lenkų riterių raginamas, užsidėjo šarvus ir nuvyko prie kariuomenės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordino ka­
@@ -144,7 +146,7 @@ Nenurodyta
 - [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/petihorai]]
+- [[objektai/grupes/Saulė]]
 - [[objektai/paprociai/Ankstyvųjų Ordino brolių asketinio gyvenimo idealas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/netikėliai]]
 - [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]

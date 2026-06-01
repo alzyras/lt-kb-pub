@@ -29,28 +29,14 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
     - c-001
 
 - t-002
-  teiginys: 'Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 met., kada įsiviešpatavo Dželad-Eddinas, nė vienas jų, kaip sako „Vytauto panegirika”^4 ), „niekad nedrįso galingajam gaspadoriui pasipriešinti“.'
+  teiginys: '„Vytauto panegirika“ teigia, kad nuo 1411 m. nė vienas totorių valdovas nedrįso pasipriešinti Vytautui.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dėl
-    vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo
-    1411 met., kada įsiviešpatavo Dželad-Eddinas, nė vienas jų,
-    kaip sako „Vytauto panegirika”^4 ), „niekad nedrįso galingajam
-    gaspadoriui pasipriešinti“. Kai 1422 met.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 met., kada įsiviešpatavo Dželad-Eddinas, nė vienas jų, kaip sako „Vytauto panegirika”^4 ), „niekad nedrįso galingajam gaspadoriui pasipriešinti“.'
+  santrauka: '„Vytauto panegirika“ teigia, kad nuo 1411 m. nė vienas totorių valdovas nedrįso pasipriešinti Vytautui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nuolat remdamas juos per 30 me­
@@ -64,3 +50,4 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

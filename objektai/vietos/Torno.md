@@ -32,14 +32,14 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     - c-003
 
 - t-002
-  teiginys: 'Gavęs po Torno taikos iš Jogailos Podoliją, pasiuntė jam iš sa­ vo iždo 20.000 grašių^2 ), kurie lenkams buvo reikalingi mokėti kariuomenei.'
+  teiginys: 'Po Torno taikos Vytautas iš Jogailos gavo Podoliją ir pasiuntė jam 20 000 grašių kariuomenei apmokėti.'
   pagrindžia:
     - c-002
 
 - t-003
   teiginys: 'Prie Torno pilies 1411 m. vasario 1 d. buvo sudaryta taika, kai joje buvo užsidaręs didysis magistras.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-004
   teiginys: 'Atvykę prie Torno pilies, kur buvo užsidaręs pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.'
@@ -58,8 +58,10 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
 - c-002
+  santrauka: 'Po Torno taikos Vytautas iš Jogailos gavo Podoliją ir pasiuntė jam 20 000 grašių kariuomenei apmokėti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žodžiu šios kontri­
@@ -90,14 +92,3 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Atvykę prie Torno pilies, kur buvo užsidaręs
-    pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

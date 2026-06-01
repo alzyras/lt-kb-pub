@@ -43,28 +43,29 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką, kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę ir vėl.'
+  teiginys: 'Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 418 D.— Diwanus didus Clekine, Jer.— Diwan [...] man in hiez Clekîne nâch dem vatir sîne (vadintas Clekine pagal tėvą, pr. clokis — lokys). Aprašomas puolimas datuojamas 1271 m.'
+  teiginys: 'Divano ir Linko puolimas Kulmo žemėje datuojamas 1271 m.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu Sirenas, kurį laikė grandinėmis surakintą, nes buvo kažkuo prasikaltęs.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­ medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
+  teiginys: 'Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
@@ -101,8 +102,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-002
+  santrauka: 'Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šito įvykio išgąsdinti, raiteliai bei pėstininkai
@@ -122,18 +125,6 @@ Nenurodyta
     - t-001
 
 - c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    418 D.— Diwanus didus Clekine, Jer.— Diwan [...] man in hiez Clekîne nâch dem vatir
-    sîne (vadintas Clekine pagal tėvą, pr. clokis — lokys). Aprašomas puolimas datuojamas
-    1271 m.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai  jį užpuolė,

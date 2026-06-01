@@ -23,13 +23,14 @@ Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.'
+  teiginys: '1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jur­

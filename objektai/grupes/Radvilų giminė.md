@@ -29,34 +29,29 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi, išreikšdami jam didžiau­ sią mūsų palankumą, už akivaizdžius jo nuopelnus Respub­ likai ir jos valdovams, už tai, kad Radvilų šeima visada buvo labiausiai pasišventusi Respublikai ir vadovams, mes nu­ sprendėme jį - kurio pastovia ištikimybe jau nuo jo.'
-  pagrindžia:
-    - c-006
-
-- t-002
-  teiginys: 'Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį.'
+  teiginys: 'Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.'
   pagrindžia:
     - c-005
 
+- t-002
+  teiginys: 'Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių.'
+  pagrindžia:
+    - c-004
+
 - t-003
-  teiginys: 'Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net ir prie visiško sunykimo ribos, po tiek amžių trukusios val­ džios ir pasisekimo, stebina savo didybe.'
+  teiginys: 'Radvilų giminės galia ir turtai augo, o jų pėdsakai autoriui dar atrodė stebinantys savo didybe.'
   pagrindžia:
     - c-002
 
 - t-004
   teiginys: '1493 m. Aleksandro Jogailaičio dovanojimo akto originalas buvo Radvilų archyve Kardinalijoje.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Radvilų archyve Kardinalijoje buvo saugomi du autentiški Stepono Batoro laiškai, rašyti Radviloms dėl Vilniaus muitų.'
   pagrindžia:
     - c-001
-
-- t-006
-  teiginys: 'Reg­ ni Vero nostri anno primo [Tad Jūsų Didenybė tegu ne tik kad neprieštarauja šių padidintų muitų išreikalavimui, bet sa­ vuoju senatoriaus autoritetu ir savo giminės iškilumu bei kilmingumu kad netgi panorėtų ir kitus priversti paklusti šiam sprendimui.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -96,6 +91,7 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
     - t-005
 
 - c-002
+  santrauka: 'Radvilų giminės galia ir turtai augo, o jų pėdsakai autoriui dar atrodė stebinantys savo didybe.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų
@@ -163,28 +159,6 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
     - t-003
 
 - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Anno D-ni M. D. LXXVI. Reg­
-    ni Vero nostri anno primo [Tad Jūsų Didenybė tegu ne tik kad
-    neprieštarauja šių padidintų muitų išreikalavimui, bet sa­
-    vuoju senatoriaus autoritetu ir savo giminės iškilumu bei
-    kilmingumu kad netgi panorėtų ir kitus priversti paklusti
-    šiam sprendimui, nes tai neprieštarauja kitados karaliaus
-    Žygimanto Augusto priimtam nutarimui, taip pat mūsų at­
-    naujintų ir pataisytų nustatytų mokesčių išieškojimui. O la­
-    biausiai [pageidaujame], kad Jūsų Didenybė Vilniaus mies­
-    te pagal savo pareigą įsakytų Vilniaus miestiečiams ir
-    pirkliams neprieštaraujant apskaičiuoti ir sumokėti šiuos
-    muitus, be to, ir vadinamuosius Czopowe i Szosowe mokes­
-    čius taip, kaip šiais metais visi mūsų miestai sumokėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-004
   santrauka: '1493 m. Aleksandro Jogailaičio dovanojimo akto originalas buvo Radvilų archyve Kardinalijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -209,7 +183,8 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
+  santrauka: 'Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčią, visą mū­
@@ -235,7 +210,8 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
   pagrindžia:
     - t-002
 
-- c-006
+- c-005
+  santrauka: 'Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Praesentibus Reverendis illustribus
@@ -281,7 +257,6 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/zodynas/Czopowe]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/daiktai/Namas]]
@@ -289,7 +264,6 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
 - [[objektai/grupes/Skyrai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/zodynas/Szosowe]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/imunitetai]]
@@ -298,6 +272,7 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/zodynas/muitas thelonea]]

@@ -30,7 +30,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-002
 
 - t-004
-  teiginys: 'Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gyvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė L I E T U V O S I S T O R I J A 46 laikyti tėvonijos dalimi.'
+  teiginys: 'Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.'
   pagrindžia:
     - c-004
 
@@ -88,7 +88,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - t-003
 
 - c-004
-  santrauka: 'Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gyvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė L I E T U V O S I S T O R I J A 46 laikyti tėvonijos dalimi.'
+  santrauka: 'Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje

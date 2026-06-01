@@ -26,13 +26,14 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada net buvo kilusi mintis įkurti Šventosios uostą.'
+  teiginys: '1629–1635 m. suvaržius prekybą Klaipėdoje, buvo kilusi mintis įkurti Šventosios uostą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1629–1635 m. suvaržius prekybą Klaipėdoje, buvo kilusi mintis įkurti Šventosios uostą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia prekyba buvo

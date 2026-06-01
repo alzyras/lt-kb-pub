@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šiuo raštu skel­ biame visiems ir kiekvienam, kam dera žinoti, kad pas mus ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems senjorams ir visam mūsų Vilniaus miesto auksakalių ce­ chui, buvo pakviestas garsusis Steponas Genseris, auksaka­ lys, tiek.'
+  teiginys: 'Auksakalys Steponas Genseris buvo kaltintas vertęsis amatu nesilaikydamas civilinės teisės ir Vilniaus auksakalių cecho tvarkos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Auksakalys Steponas Genseris buvo kaltintas vertęsis amatu nesilaikydamas civilinės teisės ir Vilniaus auksakalių cecho tvarkos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skel­
@@ -59,5 +60,5 @@ tags:
 ### Susiję objektai
 - [[objektai/zodynas/Cechas]]
 - [[objektai/asmenys/Steponas]]
-- [[objektai/zodynas/senjoras]]
+- [[objektai/asmenys/Steponas Genseris]]
 - [[objektai/zodynas/cechas contubernium]]

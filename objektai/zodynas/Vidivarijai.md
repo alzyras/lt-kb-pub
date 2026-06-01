@@ -111,5 +111,4 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
 - [[objektai/zodynas/Vidivarijai nomen gentile nomen sociale]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Estai]]

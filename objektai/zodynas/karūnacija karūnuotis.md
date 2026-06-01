@@ -23,19 +23,19 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
     - c-001
 
 - t-002
-  teiginys: 'karūnacija karūnuotis: vytautas dabar nebepabūgo sueiti su jais į atvirą kovą ir nė neketino išsižadėti karūnos; tačiau jo pastangas pakirto mirtis.'
+  teiginys: 'Vytautas neketino atsisakyti karūnos ir buvo pasirengęs atvirai kovai su lenkais, tačiau jo karūnacijos pastangas nutraukė mirtis.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau- siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.'
+  teiginys: 'Imperatorius Zigmantas iškėlė sumanymą karūnuoti Vytautą Lietuvos karaliumi, o Jogaila šiam sumanymui pritarė.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'karūnacija karūnuotis: buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci- jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.'
+  teiginys: 'Vytautas paskyrė karūnacijos datą rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-005
   teiginys: 'Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium. Sumanymą iškėlė imperatorius Zigmantas.'
@@ -56,8 +56,10 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-002
+  santrauka: 'Vytautas neketino atsisakyti karūnos ir buvo pasirengęs atvirai kovai su lenkais, tačiau jo karūnacijos pastangas nutraukė mirtis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tad santykių klausimas išbuvo ne-
@@ -73,6 +75,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
     - t-002
 
 - c-003
+  santrauka: 'Imperatorius Zigmantas iškėlė sumanymą karūnuoti Vytautą Lietuvos karaliumi, o Jogaila šiam sumanymui pritarė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
@@ -102,19 +105,6 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   pagrindžia:
     - t-005
 
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tada lenkai pradėjo ginkluotis.
-    Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-
-    jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
-    atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
@@ -122,7 +112,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zbignevas Olesnickis]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/asmenys/imperatorius Zigmantas]]
 - [[objektai/zodynas/savarankiškumas]]

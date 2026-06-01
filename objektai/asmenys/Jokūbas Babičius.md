@@ -29,13 +29,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '1525 metais Vilniuje jau veikė spaustu­ vė, kurioje Jokūbas Babičius spausdino slaviškas knygas27.'
+  teiginys: 'Jokūbas Babičius 1525 m. Vilniuje veikusioje spaustuvėje spausdino slaviškas knygas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jokūbas Babičius 1525 m. Vilniuje veikusioje spaustuvėje spausdino slaviškas knygas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     270

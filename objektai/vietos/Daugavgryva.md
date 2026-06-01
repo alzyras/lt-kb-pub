@@ -29,7 +29,7 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
 - t-001
   teiginys: '1609 m. kovą Jonas Karolis Chodkevičius nesėkmingai puolė Daugavgryvą, mėgindamas pralaužti Rygos blokadą.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Galutinai blokadą pavyko panaikinti 1609 m. rugsėjo 29 d., užėmus Daugavgryvos tvirtovę.'
@@ -68,6 +68,7 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -80,29 +81,3 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1608 m. rudenį numalšinus rokošą Len-
-    kijos karalystėje, Jonas Karolis Chodke-
-    vičius grįžo į Livoniją ir per trumpą laiką
-    išvadavo Kuoknesę ir Viljandį. 1609 m.
-    kovo mėnesį jis pabandė pulti Daugavgryvą
-    ir taip pralaužti Rygos blokadą, bet pa-
-    pildomais įtvirtinimais sustiprinę senąją
-    tvirtovę, Nilsomo Sternskioldomo vado-
-    dinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-
-    Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
-    veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
-
-    Mūšio priešistorė
-
-    1600-1611 metų karas su Švedijos karalyste
-    dėl Livonijos vyko sudėtingomis vidaus po-
-    litinėmis sąlygomis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001

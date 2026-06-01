@@ -19,13 +19,14 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu ir iš jos garbin­ go valdovo rankų priimtų įvesdinimą, po to, globojamas maršalkos Radvilos, buvo išsiųstas į.'
+  teiginys: 'Maršalka Radvila globojo Geremferdeną, kai šis po įvesdinimo Vilniuje buvo išsiųstas į ordą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Maršalka Radvila globojo Geremferdeną, kai šis po įvesdinimo Vilniuje buvo išsiųstas į ordą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau nau­
@@ -90,7 +91,6 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
 - [[objektai/grupes/Savickiai]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]
-- [[objektai/daiktai/Spaustuvės]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
@@ -108,7 +108,13 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
 - [[objektai/zodynas/činšas]]
 - [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
 - [[objektai/posakiai/„būtų liaudžiai suprantama“]]
+- [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
+- [[objektai/grupes/Bernardinų ordinas]]
+- [[objektai/grupes/Karmelitų ordinas]]
 - [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
+- [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
+- [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/muitas thelonea]]
+- [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]

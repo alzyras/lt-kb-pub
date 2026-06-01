@@ -25,12 +25,12 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     - c-001
 
 - t-002
-  teiginys: 'Vytauto politika buvo orientuota į „švento valdovo“ įvaizdį, panašų į Vengrijos valdovo šventojo Stepono statusą.'
+  teiginys: 'Vytauto bažnytinė politika siekė Lietuvos konversijos ir „švento valdovo“ įvaizdžio.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju Žemaičių krikštu.'
+  teiginys: 'Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, siejamą su Žemaičių krikštu.'
   pagrindžia:
     - c-003
 
@@ -53,6 +53,7 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     - t-001
 
 - c-002
+  santrauka: 'Vytauto bažnytinė politika siekė Lietuvos konversijos ir „švento valdovo“ įvaizdžio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     G. Camblako ekume-
@@ -72,7 +73,7 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     - t-002
 
 - c-003
-  santrauka: 'Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju Žemaičių krikštu.'
+  santrauka: 'Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, siejamą su Žemaičių krikštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lie-

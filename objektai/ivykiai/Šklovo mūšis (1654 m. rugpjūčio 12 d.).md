@@ -96,10 +96,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
-- [[objektai/asmenys/Jonušas Radvila]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/autoriai/Karolis Zikaras]]

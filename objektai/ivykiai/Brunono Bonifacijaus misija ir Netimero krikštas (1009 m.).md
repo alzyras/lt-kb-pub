@@ -49,7 +49,7 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Lietuviams reikėjo susiformuoti į savaran- 1 skyrius • S E N O J I L I E T U VA 27 kišką etnosą, o Netimero vadovaujamiems pajudėti toliau nuo gentinės santvarkos į valstybę, į kurią būtų verta traukti misionieriams.'
+  teiginys: 'Netimero vadovaujama bendruomenė turėjo tolti nuo gentinės santvarkos į valstybę, kad taptų verta misionierių dėmesio.'
   pagrindžia:
     - c-003
 
@@ -89,6 +89,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Netimero vadovaujama bendruomenė turėjo tolti nuo gentinės santvarkos į valstybę, kad taptų verta misionierių dėmesio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės

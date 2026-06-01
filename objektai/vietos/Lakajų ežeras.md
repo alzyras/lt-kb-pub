@@ -20,13 +20,14 @@ Taip pat mūsų Lakajų ežerą, greta vyskupo dvaro, vadinamo Jakubiškėmis, e
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat mūsų Lakajų ežerą, greta vyskupo dvaro, vadinamo Jakubiškėmis, esantį, su upėmis, į tą ežerą įtekančiomis ir iš jo ištekančiomis; pirmoji jų - Lakaja, antroji - Kamu­ žė, trečioji - Kimė, ketvirtoji - Fro­ mą, penktoji - Rašelė Dubingių vals­ čiuje.'
+  teiginys: 'Lakajų ežeras buvo greta vyskupo dvaro Jakubiškėse ir turėjo į jį įtekančių bei iš jo ištekančių upių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lakajų ežeras buvo greta vyskupo dvaro Jakubiškėse ir turėjo į jį įtekančių bei iš jo ištekančių upių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [Dievobaimin­

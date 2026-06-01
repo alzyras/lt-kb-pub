@@ -24,7 +24,7 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
 - t-002
   teiginys: 'Reformai atlikti buvo sudarytos apskrityse valstiečių komisijos, apskritys padalintos į apylinkes, kurių priešaky buvo pastatyti taikos tarpininkai, o didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadinami taikos suvažiavimais.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Viso valstiečių savivaldybių veikimo priežiūra buvo pavesta taikos tarpininkams su taikos teisėjais.'
@@ -52,24 +52,6 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Caras Aleksandras II
-    (1855-1881 m.).
-    Reformai atlikti buvo sudarytos apskrityse valstiečių ko-
-    misijos, apskritys padalintos į apylinkes, kurių priešaky bu-
-    vo pastatyti taikos tarpininkai, o didesniesiems nesu-
-    sipratimams spręsti — visų tarpininkų suvažiavimai, vadinami
-    taikos suvažiavimais.
-    Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
-    rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
     Reformai atlikti buvo sudarytos apskrityse valstiečių ko-
     misijos, apskritys padalintos į apylinkes, kurių priešaky bu-
     vo pastatyti taikos tarpininkai, o didesniesiems nesu-
@@ -83,12 +65,9 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras II]]
 - [[objektai/zodynas/Baudžiava]]
-- [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
 - [[objektai/paprociai/Valsčių savivaldybių priežiūra per taikos tarpininkus ir taikos teisėjus]]
-- [[objektai/zodynas/taikos suvažiavimai]]

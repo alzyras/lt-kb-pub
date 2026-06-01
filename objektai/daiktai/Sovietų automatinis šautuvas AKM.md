@@ -52,24 +52,11 @@ Nenurodyta
 - t-002
   teiginys: 'Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba, tai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai paplito po visą pasaulį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1959 m. sovietų ginkluotosios pajėgos pradėjo naudoti moder-
-    nizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-
-    siją - AKM. 1974 m. buvo sukurtas naujas Kalašnikovo automato
-    variantas — AK-74, kuris naudojo dar mažesnį šovinį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-
@@ -86,6 +73,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

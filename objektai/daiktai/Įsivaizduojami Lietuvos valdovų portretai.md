@@ -48,13 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  teiginys: 'XVI a. italas Aleksandras Gvanjinis nupiešė įsivaizduojamus Lietuvos valdovų portretus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XVI a. italas Aleksandras Gvanjinis nupiešė įsivaizduojamus Lietuvos valdovų portretus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugas
@@ -90,4 +91,4 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Aleksandras]]

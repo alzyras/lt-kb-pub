@@ -28,16 +28,6 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Karūžasis nešė vėliavas į karą ir turėjo savo apygardos karių sąrašą.'
-  pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Atmonas buvo visų vyriausiasis karinis vadovas, vedęs kariauną prieš priešus.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,8 +39,6 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
   statusas: verified
   pagrindžia:
     - t-001
-    - t-002
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

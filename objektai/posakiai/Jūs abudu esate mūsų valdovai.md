@@ -27,18 +27,14 @@ Formulė keliuose pasakojimuose pateikiama kaip iškilmingas Jogailos ir Vytauto
 ## Teiginiai
 
 - t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip iškilminga pripažinimo formulė Jogailai ir Vytautui.'
+  teiginys: 'Lenkų ponai Jogailai ir Vytautui pasakė: „Jūs abudu esate mūsų valdovai.“'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kitoje šio posakio redakcijoje Jogaila ir Vytautas įvardijami viešpačiais, kurių sprendimas turi būti įvykdytas.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkų ponai Jogailai ir Vytautui pasakė: „Jūs abudu esate mūsų valdovai.“'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Per Jogailą Lietuva bu-
@@ -55,25 +51,7 @@ Formulė keliuose pasakojimuose pateikiama kaip iškilmingas Jogailos ir Vytauto
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vi­
-    sa tai rodo, kad Vytautas ėmė šeimininkauti Lenkijoj, dėl ko ir
-    patys lenkai pripažįsta jį savo viešpačiu greta Jogailos. Tą
-    mes žinom iš pačių lenkų didikų pareiškimo Liubičo bylos me­
-    tu: jūs abu (Vyt. ir Jog.) esate mūsų viešpačiai: kų toje byloje
-    nuspręsite, bus ir įvykdyta^2 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]

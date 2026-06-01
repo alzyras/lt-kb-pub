@@ -45,13 +45,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kitais metais (1397 m.) atvykęs į Lie­ tuvą, Vladislovas Jogaila, kartu su kunigaikščiu Vytautu, atlygindami Vilniaus vyskupui Andriui už tokį dorą jo pa­ sišventimą, negailint savęs ir turto, nepaisant daugybės pa­ vojų, tykančių skleidžiant krikščioniškąjį.'
+  teiginys: '1397 m. Vladislovas Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui 200 markių metines pajamas už krikščioniškojo mokymo skleidimą Lietuvoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1397 m. Vladislovas Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui 200 markių metines pajamas už krikščioniškojo mokymo skleidimą Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     140
@@ -79,5 +80,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Karigaila]]
 - [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Andrius Važila]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Andrius Važila]]

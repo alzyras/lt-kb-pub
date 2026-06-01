@@ -40,7 +40,7 @@ Nenurodyta
 - t-001
   teiginys: 'Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vokiečių kariuomenės.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Lietuvos kariuomenės savanorio rankovės antsiuvas buvo trikampis tautinių spalvų skiriamasis ženklas.'
@@ -77,6 +77,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -108,30 +109,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vo-
-    kiečių kariuomenės. Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į
-    kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-
-    vas ir geltonas lankelis ant kepurės.
-
-    Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
-    Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
-    šūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“)
-
-    Kėdainių gynyba Karininkai J. Mikoliūnas ir
-    K. Dragunevičius, surinkę apie 80 karei-
-    vinėse buvusių savanorių ir išskleidę juos
-    abipus vieškelio Kėdainiai-Šėta, efektyvia
-    šautuvų ugnimi įstengė sustabdyti priešo
-    puolimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

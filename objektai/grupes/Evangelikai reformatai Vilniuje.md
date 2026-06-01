@@ -25,13 +25,14 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o pas­ kui jėzuitų, apie 1580 metus klestėjo: evangelikų reformatų - Danieliaus iš Lenčicos, globojama Minsko kašteliono Jono Hlebavičiaus bei Jono Karcano69, ir Kasparo Vilkovskio.'
+  teiginys: 'Apie 1580 m. Vilniuje klestėjo evangelikų reformatų Danieliaus iš Lenčicos spaustuvė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 1580 m. Vilniuje klestėjo evangelikų reformatų Danieliaus iš Lenčicos spaustuvė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar prieš įžengiant karaliui Steponui į sostą, Lie­

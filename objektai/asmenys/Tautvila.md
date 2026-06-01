@@ -20,13 +20,14 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 ## Teiginiai
 
 - t-001
-  teiginys: 'Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34.'
+  teiginys: 'Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - • —
@@ -78,4 +79,5 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 - [[objektai/asmenys/Tautvilas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Patirgas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Algardas Hohenšteino grafas]]

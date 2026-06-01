@@ -20,13 +20,14 @@ Vilniaus miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­ je L
 ## Teiginiai
 
 - t-001
-  teiginys: 'Magno Duce existente Genitore Nost­ ris, ipsis concessam et datam ratione dicti thelcnei perpetuo permanebunt [suteikiame ir duodame šią laisvę, kad visoje mūsų Lietuvos ir Rusios Didžiojoje Kunigaikštystėje jokio muito nuo bet kokių prekių duoti ir mokėti.'
+  teiginys: 'Thelcnei muitas reiškė prievolę mokėti muitą nuo prekių Lietuvos ir Rusios Didžiojoje Kunigaikštystėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Thelcnei muitas reiškė prievolę mokėti muitą nuo prekių Lietuvos ir Rusios Didžiojoje Kunigaikštystėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ši ga­

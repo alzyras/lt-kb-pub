@@ -42,35 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas.'
+  teiginys: '1239 m. broliai su ginklanešiais užėmė Baigos pilį, dalį žmonių paėmė į nelaisvę, kitus išžudė ir apsigyveno pilyje.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė
-    pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių
-    mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas neatima iš
-    tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą,
-    padrąsink savo kovotojus ir paragink juos sunaikinti tuos, kurie puola mūsų karalystę“.
-    Magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai
-    nužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus
-    bei surėmę  į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems talkino
-    Kodrūnas, apgultosios pilies vadas, jie netruko ją užgrobti, dalį žmonių paimti į nelaisvę,
-    o kitus išžudyti. Šitai padarę, broliai, atsidėkodami dievui, drauge su savo ginklanešiais
-    apsigyveno toje pilyje245 1239 viešpaties dievo metais ir ten dar garbingiau kovojo su
-    minėtaisiais prūsais viešpaties dievo kariuomenei deramas kovas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: '1239 m. broliai su ginklanešiais užėmė Baigos pilį, dalį žmonių paėmė į nelaisvę, kitus išžudė ir apsigyveno pilyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Baigos pilį
@@ -99,5 +78,3 @@ Nenurodyta
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Kodrūnas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

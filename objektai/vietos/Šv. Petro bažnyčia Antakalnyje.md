@@ -17,18 +17,19 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
 ## Teiginiai
 
 - t-001
-  teiginys: 'Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk.'
+  teiginys: 'Pagal padavimus Goštautas pastatydino Šv. Petro bažnyčią Antakalnyje pagonių šventyklos vietoje.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Petro baž­ nyčia tikriausiai pastatydinta Vladis­ lovo Jogailos laikais, visuotinės re­ ligijos kaitos laikais, ano Goštauto sūnaus, tos šventovės, visiems die­ vaičiams pašvęstos, vietoje.'
+  teiginys: 'Šv. Petro bažnyčia Antakalnyje tikriausiai pastatyta Vladislovo Jogailos laikais pagonių šventovės vietoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šv. Petro bažnyčia Antakalnyje tikriausiai pastatyta Vladislovo Jogailos laikais pagonių šventovės vietoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Šv. Petro baž­
@@ -47,6 +48,7 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
     - t-002
 
 - c-002
+  santrauka: 'Pagal padavimus Goštautas pastatydino Šv. Petro bažnyčią Antakalnyje pagonių šventyklos vietoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anot

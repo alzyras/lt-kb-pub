@@ -38,24 +38,19 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     - c-002
 
 - t-003
-  teiginys: 'Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos virto kariaujančiųjų riterių ordinais.'
+  teiginys: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
   pagrindžia:
-    - c-006
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas salas (Mart. p. 442).'
-  pagrindžia:
-    - c-003
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -117,19 +112,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    103. Apie tai, kaip hospitaljerai užėmė Rodo salą
-
-       Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas
-    salas (Mart. p. 442).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Tad popiežius, išklausęs šią
     pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
     dievo vardu patvirtino. Jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams
@@ -149,7 +131,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
+  santrauka: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš pradžių tokios brolijos
@@ -165,7 +148,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
@@ -194,13 +177,11 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Švento Jono ligoninės ordinas]]
@@ -208,6 +189,5 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
 - [[objektai/asmenys/Henrikas Valpotas]]
 - [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje]]
-- [[objektai/ivykiai/Hospitaljerų Rodo salos užėmimas (1307 m.)]]
 - [[objektai/ivykiai/Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)]]
 - [[objektai/grupes/Templininkų ordinas]]

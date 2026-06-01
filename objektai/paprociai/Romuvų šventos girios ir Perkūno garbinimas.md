@@ -46,52 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Man atrodo, kad jei Lietuvo­ je buvo keletas tokių šventų vieto­ vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie­ nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo.'
+  teiginys: 'Romuvomis vadintose šventose vietovėse vidury šventų girių buvo garbinamas Perkūnas ir gyveno Krivių Krivaitis.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: '8 Lietuvos istorijoje yra žinomos šven­ tos vietovės, senovės lietuvių vadin­ tos Romuvomis [ramovėmis], kur vidur šventų girių būdavo garbina­ mas Perkūnas ir kur gyveno vyriau­ siasis jų vaidila Krivių Krivaitis.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nepaisant to, kryžiuo­
-    čiai, nuolatos baudęsi sunaikinti tą
-    vietovę, 1294 metais savo pasiekė ir,
-    užėmę pilį, pasiėmė turtą, o žynius
-    išžudė. Man atrodo, kad jei Lietuvo­
-    je buvo keletas tokių šventų vieto­
-    vių, tai Vilnius būtinai turėjo būti
-    viena iš jų, o jeigu buvo tik ta vie­
-    nintelė, tad tikriausiai po to smūgio
-    Perkūno tikėjimo relikvijos ir Krivių
-    Krivaitis su aukotojais iš Romainių
-    buvo perkelti į Vilnių, taigi Vilnius
-    XIII amžiaus gale jau galėjo būti tan­
-    kiai gvvenama ir svarbi gyvenvietė.
-    -  •  -
-    19
-
-    ## Puslapis 36
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir
-    savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti
-    mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­
-    tinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų
-    perkėlė savo buveinę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Romuvomis vadintose šventose vietovėse vidury šventų girių buvo garbinamas Perkūnas ir gyveno Krivių Krivaitis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie viso
@@ -115,14 +77,12 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Alkos ir romuvos]]
 - [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vaidila]]
-- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]

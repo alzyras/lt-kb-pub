@@ -27,14 +27,9 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
 - t-001
   teiginys: 'Dusburgietis teigia, kad istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės pakrantės ir Riugeno (Rugijos) salos gyventojai (Manteuffel T., Papiestwo.., p. 122— 123; Łowmiański H., Początki Polski, t.'
   pagrindžia:
-    - c-003
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D.'
-  pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad galop rutėnai, pavargę nuo įstangų ir patyrę didelių išlaidų, paklausė apsiaustųjų, kuo jie bemintą.'
   pagrindžia:
     - c-001
@@ -53,22 +48,9 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    466 Rutheni minimi  ir kitose D. kronikos vietose (III, 166, 291, 294). Paprastai
-    tuo vardu vadinami Lietuvos valstybės slaviškų žemių gyventojai rusai, greičiausiai iš
-    Gardino ir Naugarduko žemių. Čia minimi rutėnai (rusiai?), pasirodę Nemuno žemupyje,
-    prie Ragainės, dar iki kryžiuočių invazijos, vargu ar laikytini ryt. slavais.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės
@@ -87,6 +69,4 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/Sakso Gramatiko]]
-- [[objektai/grupes/Slavai]]

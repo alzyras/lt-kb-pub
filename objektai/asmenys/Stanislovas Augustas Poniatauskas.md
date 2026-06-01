@@ -25,7 +25,7 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
     - c-001
 
 - t-002
-  teiginys: 'Stanislovas Augustas Poniatauskas, 1764—1795 m. d. Lietuvos kunigaikštis ir Lenkų karalius (†1798 m.).'
+  teiginys: 'Stanislovas Augustas Poniatauskas 1764–1795 m. buvo Lietuvos didysis kunigaikštis ir Lenkijos karalius.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
     - t-001
 
 - c-002
+  santrauka: 'Stanislovas Augustas Poniatauskas 1764–1795 m. buvo Lietuvos didysis kunigaikštis ir Lenkijos karalius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Stanislovas Augustas Poniatauskas,
@@ -162,3 +163,4 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/grupes/Čartoriskiai]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]

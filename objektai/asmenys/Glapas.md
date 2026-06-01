@@ -30,7 +30,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - t-001
   teiginys: 'Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad šis, paklausęs patarimo, susikvietė daug brolių bei ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga juos užpuolė ir visus išžudė.'
@@ -40,7 +40,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė Varmių vadui Glapui, kad broliai esą iš čia išvykę.'
@@ -48,9 +48,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - c-002
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
+  teiginys: 'Prūsams vėl atkritus nuo tikėjimo, varmiai išsirinko Glapą savo kariuomenės vadu ir vyresniuoju.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -67,6 +67,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,23 +87,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
-    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
-    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
-
-
-
-
-    137 (132).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
 
       Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug
@@ -119,7 +103,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
+  santrauka: 'Prūsams vėl atkritus nuo tikėjimo, varmiai išsirinko Glapą savo kariuomenės vadu ir vyresniuoju.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
@@ -134,7 +119,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   pagrindžia:
     - t-005
 
-- c-006
+- c-005
   santrauka: 'Dusburgietis teigia, kad viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė Varmių vadui Glapui, kad broliai esą iš čia išvykę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

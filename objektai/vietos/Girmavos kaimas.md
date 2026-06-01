@@ -19,7 +19,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio].'
+  teiginys: 'Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.'
   pagrindžia:
     - c-002
 
@@ -48,6 +48,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     - t-002
 
 - c-002
+  santrauka: 'Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną

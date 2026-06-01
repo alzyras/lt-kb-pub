@@ -61,7 +61,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - c-007
 
 - t-007
-  teiginys: 'Jonas Karolis Katkevičius: tai didysis Livonijos gynėjas, nepaprastų gabumų vadas.'
+  teiginys: 'Jonas Karolis Katkevičius 1605 m. gavo didžiojo hetmono buožę, o 1616 m. – Vilniaus vaivadiją.'
   pagrindžia:
     - c-003
 
@@ -115,6 +115,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - t-002
 
 - c-003
+  santrauka: 'Jonas Karolis Katkevičius 1605 m. gavo didžiojo hetmono buožę, o 1616 m. – Vilniaus vaivadiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jonui Jeronimui K. († 1579
@@ -203,7 +204,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/zodynas/fundacija]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/rokošas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/seniūnija]]

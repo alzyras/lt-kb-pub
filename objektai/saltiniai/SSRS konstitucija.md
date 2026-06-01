@@ -24,14 +24,14 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 241 nesilaikys SSRS konstitucijos.'
-  pagrindžia:
-    - c-002
-
-- t-002
   teiginys: 'Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galiojimą.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Maskva grasino Lietuvai teritorinėmis priemonėmis, jeigu ji nesilaikys SSRS konstitucijos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -52,28 +52,10 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau LKP pertvar-
-    kos taktika („žingsnis po žingsnio“) neparuošė valstybės tęstinumą įtvir-
-    tinančių teisinių ir politinių dokumentų ir neturėjo valstybės atkūrimo
-    programos.
-    Nujausdama kurlink judėjimas suka, Maskva darė viską, kad sustab-
-    dytų eventualų nepriklausomybės atkūrimą. Griebtasi šantažo – grasinta
-    prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities,
-    o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomi-
-    ją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 241 nesilaikys SSRS konstitucijos.'
+- c-002
+  santrauka: 'Maskva grasino Lietuvai teritorinėmis priemonėmis, jeigu ji nesilaikys SSRS konstitucijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Griebtasi šantažo – grasinta
@@ -97,4 +79,4 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

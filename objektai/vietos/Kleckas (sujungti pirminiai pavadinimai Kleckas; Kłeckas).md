@@ -32,18 +32,19 @@ O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasi
     - c-003
 
 - t-002
-  teiginys: 'Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus Radvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš totorius pasiektai pergalei atminti savo žemėje už miesto ant kalnelio.'
+  teiginys: 'Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Gausūs Krymo ordos ka­ rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga Lietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje užkirto šiems azijiečiams kelią į artimiausias šios valsty­ bės vaivadijų sostines47.'
+  teiginys: '1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad paskubomis susirinko 10 000 bajorų,
@@ -61,6 +62,7 @@ O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasi
     - t-003
 
 - c-002
+  santrauka: 'Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po šios

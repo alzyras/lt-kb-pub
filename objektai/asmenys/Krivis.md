@@ -31,7 +31,7 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
 - t-003
   teiginys: 'Dusburgietis teigia, kad dėl šitų mirusiųjų nutikdavo tokių velniškų patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus, ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas nedvejodamas pasakydavo, kokie buvo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -69,22 +69,6 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dėl šitų mirusiųjų nutikdavo tokių velniškų
-    patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
-    ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas
-    nedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna,
-    be to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje
-    numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu. Po pergalės jie
-    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
-    atiduodami minėtajam kriviui, kuris tą dalį degino.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -95,13 +79,10 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]
-- [[objektai/paprociai/Prūsų degintinės laidotuvės su įkapėmis ir palydimaisiais]]
 - [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]
 - [[objektai/zodynas/krivis krivė krivaitis]]
 - [[objektai/zodynas/krivūlė]]
-- [[objektai/zodynas/prastuomenė communis populus ignobiles|prastuomenė / communis populus / ignobiles]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/Romuva ir krivis]]
 - [[objektai/zodynas/Romuva krivis]]
 - [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei]]
-- [[objektai/paprociai/Negęstančiosios ugnies garbinimas]]

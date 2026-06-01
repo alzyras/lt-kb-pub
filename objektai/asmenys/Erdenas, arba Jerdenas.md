@@ -28,13 +28,14 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Erdeno tėvas.'
+  teiginys: 'Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I. 48), liudija, kad XII amžiuje jau

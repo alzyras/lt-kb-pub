@@ -36,26 +36,11 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
 - t-001
   teiginys: 'Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkijos ir LDK dalybose dalyvavo ir
-    Austrija: pietvakarinis LDK kampas buvo prijungtas prie Austrijos, kuris
-    1815 m., kaip ir Užnemunė, atiteko Rusijai.
-    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
-    burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
-    valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
-    pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
-    mo) aktas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir LDK dalybose dalyvavo ir

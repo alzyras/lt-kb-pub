@@ -20,18 +20,19 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 ## Teiginiai
 
 - t-001
-  teiginys: 'partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.'
+  teiginys: 'Kęstutis su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius, kai šie nesitraukė ir naikino miestus bei apylinkes.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'partizaniškas karas: kryžiuočiai ėmė trauktis; Vy- tautas tuo tarpu buvo sunaiki- nęs jų atgaliniam kely paruoštą maisto atsargą, ir jų kariuome- nėje kilo badas. Kęstučio ir Vytauto būriai puolė kryžiuo- čius kur galėdami, ir iš didelio žygio savo kraštą pasiekė vos maži.'
+  teiginys: 'Partizaniško karo metu Vytautas sunaikino kryžiuočių maisto atsargas, o Kęstučio ir Vytauto būriai puolė besitraukiančius kryžiuočius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kęstutis su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius, kai šie nesitraukė ir naikino miestus bei apylinkes.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Žuvusiam maršalkai Schindekopui pamin-
@@ -51,6 +52,7 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     - t-001
 
 - c-002
+  santrauka: 'Partizaniško karo metu Vytautas sunaikino kryžiuočių maisto atsargas, o Kęstučio ir Vytauto būriai puolė besitraukiančius kryžiuočius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada
@@ -78,3 +80,4 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

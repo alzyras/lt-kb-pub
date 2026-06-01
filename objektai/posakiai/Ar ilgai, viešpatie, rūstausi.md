@@ -19,18 +19,14 @@ Dusburgietis teigia, kad ar ilgai, viešpatie, rūstausi? Dusburgietis teigia, k
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad ar ilgai, viešpatie, rūstausi?'
+  teiginys: 'Po posakio „Ar ilgai, viešpatie, rūstausi?“ prašoma parodyti rūstį netikėliams ir neleisti jiems klausti, kur yra krikščionių Dievas.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad parodyk savo rūstį netikėliams, tavęs neišpažįstantiems, karalystėms, nesišaukiančioms tavo vardo, dėl savo vardo šlovės būk mums atlaidus, idant negalėtų netikėliai sakyti: „Kurgi jų dievas?“ 67 (66).'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posakis „Ar ilgai, viešpatie, rūstausi?“ vartojamas maldaujant Dievo pasigailėti ir atkeršyti už pralietą tarnų kraują.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai kaip viešpats kalaviju išskyrė savo tautą, kurios kraują netikėliai liejo nelyginant
@@ -49,24 +45,6 @@ Dusburgietis teigia, kad ar ilgai, viešpatie, rūstausi? Dusburgietis teigia, k
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pasigailėk pagaliau mūsų, viešpatie, pasigailėk
-    mūsų, išvyski pralietą tavo tarnų kraują ir atkeršyki! Parodyk savo rūstį netikėliams,
-    tavęs neišpažįstantiems, karalystėms, nesišaukiančioms tavo vardo, dėl savo vardo
-    šlovės būk mums atlaidus, idant negalėtų netikėliai sakyti: „Kurgi jų dievas?“
-
-
-
-
-               67 (66).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

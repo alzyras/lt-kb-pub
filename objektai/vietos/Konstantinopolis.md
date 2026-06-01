@@ -29,7 +29,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ir vilniečiai paėmę sau iš Cargrado [Konstantinopolio] Poloc­ ko kunigaikščio Rostislavo Rogvoldovičiaus vaikus - kunigaikštį Dovilą ir jo brolį kunigaikštį Maukoldą ir tai pirmasis Vilniuje kunigaikštis Dovilas, didysis Maukoldo brolis, o jo vaikai: Vidas.'
+  teiginys: 'Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.'
   pagrindžia:
     - c-004
 
@@ -41,7 +41,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvęs nupieštas.'
   pagrindžia:
-    - c-009
+    - c-006
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart.'
@@ -49,24 +49,19 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
     - c-005
 
 - t-005
-  teiginys: 'Bet Konstantinopolio stačiatikių sinodas ne tik kad nepaskyrė Cem­ blako metropolitu, bet atėmė iš įo žemutinius šventimus ir ji iš­ keikė.'
-  pagrindžia:
-    - c-006
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
-  pagrindžia:
-    - c-007
-
-- t-007
   teiginys: 'Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė.'
   pagrindžia:
     - c-003
 
-- t-008
-  teiginys: 'Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui pristatė Polocko vysk.'
+- t-006
+  teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
   pagrindžia:
-    - c-008
+    - c-006
+
+- t-008
+  teiginys: 'Po Ciprijono mirties Vytautas Konstantinopolio patriarchui Eufimėjui pristatė Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus.'
+  pagrindžia:
+    - c-002
 
 - t-009
   teiginys: 'Tuomet Maskvoje ir susidarė teorija, kuri skelbė, jog Maskva turinti būti toks pat pravoslaviškojo pasaulio centras, koks anksčiau buvo Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.'
@@ -112,6 +107,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-008
 
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -127,8 +123,10 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   statusas: verified
   pagrindžia:
     - t-007
+    - t-005
 
 - c-004
+  santrauka: 'Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuva tuo laiku duoklę
@@ -178,54 +176,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
     - t-004
 
 - c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    patriarchą, o Focijui nurašė raštą, atsisakydami klausyti. Bet
-    Konstantinopolio stačiatikių sinodas ne tik kad nepaskyrė Cem­
-    blako metropolitu, bet atėmė iš įo žemutinius šventimus ir ji iš­
-    keikė. Naugarduko susirinkimas pasiuntė delegaciją, kad išsi­
-    rūpintų vietoj Cemblako kitą žmogų, patriarchui patinkamą, bet
-    ir ji nieko nelaimėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-007
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    26. Apie viešpaties erškėčių vainiko perkėlimą
-
-      1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į
-    Paryžių viešpaties erškėčių vainiką (Ptol. 21,36).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet kai Ciprijonas mirė (1406), tai Vytautas,
-    kovojęs tuo laiku su Maskva dėl Okos ir Ugros aukštupių, pa­
-    siryžo turėti vėl atskirą metropolitą Lietuvos stačiatikiams ir
-    jų reikalus tvarkyti nepriklausomai nuo Rusijos.
-    Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­
-    triarchui Eufimėjui pristatė Polocko vysk. Teodozijų, kaipo kan­
-    didatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo
-    painformavę apie Vytauto sumanymus atitraukti Lietuvos sta­
-    čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­
-    tuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­
-    se kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie viešpaties erškėčių vainiko perkėlimą
@@ -241,8 +191,9 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   statusas: verified
   pagrindžia:
     - t-003
+    - t-006
 
-- c-010
+- c-007
   santrauka: 'Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvęs nupieštas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

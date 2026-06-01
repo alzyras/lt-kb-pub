@@ -18,13 +18,14 @@ Onos bažnyčia / p. 297 • Faksimilės, paimtos iš dekretų ir laiškų, esan
 ## Teiginiai
 
 - t-001
-  teiginys: 'Onos bažnyčia / p. 297 • Faksimilės, paimtos iš dekretų ir laiškų, esančių Radvilų archyve, originalų: 1) Aleksandro Jogailaičio dovanoji­ mas Vilniaus miestiečiui Maksimui Užupyje Vilniuje / p. 447 2) Žygimanto Senojo parašas - Si­ gismundus Rex Į p.'
+  teiginys: 'Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojaus bažnyčia (vaizdas

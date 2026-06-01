@@ -25,13 +25,14 @@ Dusburgietis teigia, kad karaliaučiaus karališkos bibliotekos tekstas, kaip pa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje, 1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P.'
+  teiginys: 'Karaliaučiaus karališkos bibliotekos Dusburgiečio kronikos tekstas 1540 m. sausio 16 d. pradėtas perrašinėti iš P. Speratui priklausiusios knygos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karaliaučiaus karališkos bibliotekos Dusburgiečio kronikos tekstas 1540 m. sausio 16 d. pradėtas perrašinėti iš P. Speratui priklausiusios knygos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje,

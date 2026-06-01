@@ -44,7 +44,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-001
 
 - t-004
-  teiginys: 'Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+  teiginys: 'Treniota su žemaičiais rengė tolimus žygius ir už Dauguvos pasiekdavo net Estiją.'
   pagrindžia:
     - c-004
 
@@ -102,7 +102,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - t-002
 
 - c-004
-  santrauka: 'Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+  santrauka: 'Treniota su žemaičiais rengė tolimus žygius ir už Dauguvos pasiekdavo net Estiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet, neatvykus Naugardo ka-

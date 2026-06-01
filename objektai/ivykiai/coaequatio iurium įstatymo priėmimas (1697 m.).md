@@ -36,23 +36,24 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'coaequatio iurium įstatymo priėmimas (1697 m.): kancle- riui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių teisių, ir coaequatio iurium įstatymas buvo priimtas elekci- niame seime (1697 m.). Tačiau Sapiegos, nenorėdami išsiža- dėti savo galybės, nė neketino laikytis šito įstatymo.'
+  teiginys: '1697 m. elekciniame seime priimtas coaequatio iurium įstatymas, tačiau Sapiegos neketino jo laikytis.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'coaequatio iurium įstatymo priėmimas (1697 m.): visa tai ėjo Lietuvos ir Lenkijos teisių suly- ginimo (coaequatio iurium) šūkiu, nes tuo buvo norima su- vienodinti Lietuvos ir Lenkijos ministerių teises.'
+  teiginys: 'Coaequatio iurium šūkiu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'coaequatio iurium įstatymo priėmimas (1697 m.): taip antai, seimas paskyrė kariuomenei stovyklas Gardino, Alytaus ir Pinsko apylinkėse, bet hetmonas ją laikė visam krašte.'
+  teiginys: 'Po coaequatio iurium priėmimo seimas paskyrė kariuomenės stovyklas Gardino, Alytaus ir Pinsko apylinkėse.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1697 m. elekciniame seime priimtas coaequatio iurium įstatymas, tačiau Sapiegos neketino jo laikytis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Juo tada buvęs Sapiegų priešas D. Radvila bemeilijo atsisakyti
@@ -68,6 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Coaequatio iurium šūkiu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo pa-
@@ -85,6 +87,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Po coaequatio iurium priėmimo seimas paskyrė kariuomenės stovyklas Gardino, Alytaus ir Pinsko apylinkėse.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kancle-
@@ -104,4 +107,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Sapiegos]]
-- [[objektai/zodynas/hetmonas]]

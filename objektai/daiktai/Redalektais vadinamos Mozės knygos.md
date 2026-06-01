@@ -37,13 +37,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat skelbiame, kad nė vienas žydas neprisiektų redalektais vadinamomis jų, tai yra Mo­ zės, knygomis, tik nebent didelėse bylose, kurios siektų pen­ kiasdešimt grivinų sidabru, arba jeigu būtų mūsų asmens iškviestas, o mažesnėse bylose turi prisiekti.'
+  teiginys: 'Žydams buvo leidžiama prisiekti redalektais vadinamomis Mozės knygomis tik didelėse arba valdovo asmens iškeltose bylose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žydams buvo leidžiama prisiekti redalektais vadinamomis Mozės knygomis tik didelėse arba valdovo asmens iškeltose bylose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat jeigu žydas žydą

@@ -19,13 +19,14 @@ Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras pasakė kitam vyrui (1 Mak 2, 40): „Jeigu visi darysime taip, kaip padarė mūsų broliai, ir nekovosime prieš pagonis dėl savo gyvybės ir savo.'
+  teiginys: 'Makabiejų knygos žodžiai apie kovą už gyvybę ir įstatymą skatino magistrą ir brolius ginti Prūsijos žemę nuo karaliaus antpuolių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Makabiejų knygos žodžiai apie kovą už gyvybę ir įstatymą skatino magistrą ir brolius ginti Prūsijos žemę nuo karaliaus antpuolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Atsilyginkite savo priešams, ką jie užsipelnė”. O kitoje vietoje, kai žuvo
@@ -46,3 +47,4 @@ Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį 
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

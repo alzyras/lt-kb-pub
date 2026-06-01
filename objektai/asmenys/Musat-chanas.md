@@ -27,7 +27,7 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
 - t-002
   teiginys: 'Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui MusatChanui, taigi perėjo į tam tikrą Lietuvos kontrolę.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -56,25 +56,6 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui MusatChanui, taigi perėjo į tam tikrą Lietuvos kontrolę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jono vardas.
-    Yra duomenų, kad toliau žygiuojant buvo
-    pasiektas pietinėje Krymo pakrantėje tarp-
-    tautinės reikšmės uostas Kafa (Feodosija,
-    totorių perleistas italų Genujos pirkliams,
-    vykdęs prekybą net su Indija). Kafos apy-
-    linkės buvo pavestos valdyti į Lietuvos
-    pusę perėjusiam totorių caraičiui Musat-
-    Chanui, taigi perėjo į tam tikrą Lietuvos
-    kontrolę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

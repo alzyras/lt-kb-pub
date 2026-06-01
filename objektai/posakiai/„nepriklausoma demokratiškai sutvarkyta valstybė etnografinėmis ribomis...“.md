@@ -20,13 +20,14 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuvos interesai buvo apibūdinti kaip labiau krypstantys į Vakarus, tai yra Vokietiją, negu į Rusiją ar Lenkiją.'
+  teiginys: 'Konferencijos rezoliucijoje būsima Lietuva apibrėžta kaip nepriklausoma demokratiškai sutvarkyta valstybė etnografinėmis ribomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konferencijos rezoliucijoje būsima Lietuva apibrėžta kaip nepriklausoma demokratiškai sutvarkyta valstybė etnografinėmis ribomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Konferencijoje dominavo

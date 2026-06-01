@@ -17,7 +17,7 @@ st.) ir lenkė Rumuniją, Bulgariją.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sumanymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J.'
+  teiginys: 'Jonas Basanavičius, grįžęs iš emigracijos Bulgarijoje, buvo Didžiojo Vilniaus Seimo sumanymo iniciatorius.'
   pagrindžia:
     - c-002
 
@@ -45,6 +45,7 @@ st.) ir lenkė Rumuniją, Bulgariją.
     - t-002
 
 - c-002
+  santrauka: 'Jonas Basanavičius, grįžęs iš emigracijos Bulgarijoje, buvo Didžiojo Vilniaus Seimo sumanymo iniciatorius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su-

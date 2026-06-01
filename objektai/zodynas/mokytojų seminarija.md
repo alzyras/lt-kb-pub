@@ -26,7 +26,7 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
 - t-001
   teiginys: ') Molodečnoj, kuri, be abejo, tokiam dideliam plotui negalėjo paruošti kiek reikiant mokytojų.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: '1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus ir dėstė lietuvių kalbą.'
@@ -73,22 +73,6 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    (Rimšos kūrinys).
-    nerūpėjo: gana buvo to, kad jie rusai ir kad šiek tiek pramokyti.
-    Paruoštų mokytojų tada labai trūko, nes baltarusių ir Lietuvos
-    švietimo apygardoms tebuvo įsteigta tik viena mokytojų semi-
-    narija (1864 m.) Molodečnoj, kuri, be abejo, tokiam dideliam
-    plotui negalėjo paruošti kiek reikiant mokytojų. Tik vėliau
-    (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri
-    ruošdavo mokytojus visai Lietuvai (be Užnemunės).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

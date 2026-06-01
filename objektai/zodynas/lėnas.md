@@ -48,4 +48,3 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
 - [[objektai/zodynas/tėviškė]]
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/lenas]]

@@ -34,13 +34,14 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
     - c-002
 
 - t-002
-  teiginys: 'Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kurį magistras Fridrichas fon Vildenbergas Meve 1324 m., daly­ vaujant Pelplino abatui Jordanui, liepė parengti, yra Slapt.'
+  teiginys: '1324 m. Mevėje magistras Fridrichas fon Vildenbergas liepė parengti mažesniųjų brolių laiško nuorašą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1324 m. Mevėje magistras Fridrichas fon Vildenbergas liepė parengti mažesniųjų brolių laiško nuorašą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Minėti

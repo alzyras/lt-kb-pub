@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '...Tartari, longe sunt Lituanis inferio­ res viribus: sed superiores industria, frugalitate, temperantia, fortitudine, caeterisquae virtutibus, quibus regna fir­ ma consistunt; afferunt Tartaris hae vir­ tutes ista commoda ut gaudeant copia peculii nostri.'
+  teiginys: 'Teiginyje „Tartari, longe sunt Lituanis inferiores viribus“ totoriai jėga laikomi gerokai silpnesniais už lietuvius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Teiginyje „Tartari, longe sunt Lituanis inferiores viribus“ totoriai jėga laikomi gerokai silpnesniais už lietuvius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Basi-
@@ -55,3 +56,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Totoriai]]

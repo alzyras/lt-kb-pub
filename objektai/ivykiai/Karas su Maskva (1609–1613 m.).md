@@ -36,12 +36,12 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Karaliaus kariuomenė dvejus metus buvo apgulusi Smolenską ir 1611 m. jį paėmė.'
+  teiginys: 'Per karą su Maskva karaliaus kariuomenė dvejus metus laikė apgulusi Smolenską ir 1611 m. jį paėmė.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tuo tarpu lenkų hetmono Zolkievskio sumuštą Šuiskį Maskvos bajorai pašalino nuo sosto ir caru pažadėjo išrinkti Zigmanto sūnų Vladislovą.'
+  teiginys: 'Maskvos bajorai pašalino nuo sosto Žolkievskio sumuštą Šuiskį ir caru pažadėjo išrinkti Zigmanto sūnų Vladislovą.'
   pagrindžia:
     - c-003
 
@@ -67,6 +67,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Per karą su Maskva karaliaus kariuomenė dvejus metus laikė apgulusi Smolenską ir 1611 m. jį paėmė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Zigmantas paskelbė Maskvai karą.
@@ -79,6 +80,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Maskvos bajorai pašalino nuo sosto Žolkievskio sumuštą Šuiskį ir caru pažadėjo išrinkti Zigmanto sūnų Vladislovą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu lenkų hetmono Zolkievskio sumuštą Šuiskį Maskvos
@@ -96,8 +98,7 @@ Nenurodyta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Zigmantas]]
-- [[objektai/zodynas/hetmonas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/paprociai/Bajorijos karo prievolės vengimas ir samdytinė kariuomenė]]
 - [[objektai/grupes/Gediminaičių šeima]]
 - [[objektai/grupes/Švedai]]

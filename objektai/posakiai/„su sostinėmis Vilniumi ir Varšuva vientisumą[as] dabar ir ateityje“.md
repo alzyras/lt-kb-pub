@@ -26,37 +26,19 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.'
+  teiginys: '1994 m. Lietuvos ir Lenkijos sutarties preambulėje abi valstybės patvirtino teritorijų „su sostinėmis Vilniumi ir Varšuva“ vientisumą.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis.'
+  teiginys: '1994 m. balandžio 26 d. Lietuvos ir Lenkijos sutartyje patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir Varšuva“ vientisumas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dokumento preambulėje, be kitų nuostatų, buvo primin-
-    ti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas
-    smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių
-    iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
-    Varšuva vientisumą[as] dabar ir ateityje“. Abi valstybės įsipareigojo grįs-
-    ti savo santykius tarpusavio pagarba, pasitikėjimu, lygiateisiškumu, gera
-    kaimynyste ir remti viena kitos integraciją į Vakarų valstybių šeimą. Ra-
-    tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
-    bet kokių pretenzijų į Vilniaus kraštą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis.'
+  santrauka: '1994 m. balandžio 26 d. Lietuvos ir Lenkijos sutartyje patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir Varšuva“ vientisumas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1994 m.
@@ -76,6 +58,7 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

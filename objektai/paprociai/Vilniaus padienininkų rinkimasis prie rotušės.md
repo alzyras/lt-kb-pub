@@ -55,7 +55,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: '1547 m. Vilniuje maisto brangymetis paskatino Žygimanto Augusto potvarkį dėl supirkinėtojų ir padienių darbininkų.'
+  teiginys: '1547 m. Vilniuje Žygimanto Augusto potvarkiu padienininkams nurodyta rinktis prie rotušės.'
   pagrindžia:
     - c-001
 

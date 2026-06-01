@@ -20,13 +20,14 @@ Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkirši
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut''''u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.'
+  teiginys: 'Apgultieji prancūzams priekaištavo, kad šie, menko grobio ir tuščios garbės pasigviešę, atvyko lieti krikščionių kraujo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apgultieji prancūzams priekaištavo, kad šie, menko grobio ir tuščios garbės pasigviešę, atvyko lieti krikščionių kraujo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  •  —

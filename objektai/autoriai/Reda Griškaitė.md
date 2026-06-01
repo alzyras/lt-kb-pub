@@ -27,18 +27,19 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 ## Teiginiai
 
 - t-001
-  teiginys: 'Warszawa, 1995; Griškaitė R.'
+  teiginys: 'Reda Griškaitė 2005 m. Vilniuje paskelbė darbą „Mykolas Balinskis: kova dėl istorijos?“.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų analizei skir­ ta kultūros istorikės Redos Griškaitės studija.'
+  teiginys: 'Reda Griškaitė parašė studiją, skirtą M. Balinskio biografijos vingiams ir jo meto istorinėms realijoms.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Reda Griškaitė parašė studiją, skirtą M. Balinskio biografijos vingiams ir jo meto istorinėms realijoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     M. Balinskį, kurios autorius - Lietuvos lenkas. Savotiškai isto­
@@ -53,6 +54,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     - t-002
 
 - c-002
+  santrauka: 'Reda Griškaitė 2005 m. Vilniuje paskelbė darbą „Mykolas Balinskis: kova dėl istorijos?“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1  N a run i ec R. Michał Baliński jako mecenas polsko-litewskich więzi kul­

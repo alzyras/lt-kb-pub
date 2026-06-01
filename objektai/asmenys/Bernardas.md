@@ -46,3 +46,4 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 - [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]
 - [[objektai/grupes/Litvakai]]
 - [[objektai/asmenys/Sydney Brenner]]
+- [[objektai/asmenys/Bernardas (Jachnos sūnus)]]

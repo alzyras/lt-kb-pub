@@ -59,6 +59,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -90,17 +91,3 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigimą 1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    30. Apie švenčiausiosios Marijos gimimo oktavos įsteigimą
-
-      1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė
-    švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol. 22,3).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004

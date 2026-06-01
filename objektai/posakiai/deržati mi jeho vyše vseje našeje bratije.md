@@ -20,13 +20,14 @@ Ta pačia proga Jogaila, savarankiškai be Jadvygos ir lenkų didikų žinios, i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jogaila savarankiškai išdavė dokumentą, kuriuo Skirgailai priskyrė Trakų kunigaikštijos plotus, Vitebsko sritis ir Vilniaus kraštą.'
+  teiginys: 'Jogailos dokumente žodžiai „deržati mi jeho vyše vseje našeje bratije“ reiškė nurodymą Skirgailą laikyti aukščiau visų brolių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailos dokumente žodžiai „deržati mi jeho vyše vseje našeje bratije“ reiškė nurodymą Skirgailą laikyti aukščiau visų brolių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     IV. 28) su visomis jo žemėmis buvo atiduotas Skir­
@@ -47,4 +48,3 @@ Ta pačia proga Jogaila, savarankiškai be Jadvygos ir lenkų didikų žinios, i
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/kunigaikštija]]
-- [[objektai/asmenys/Jogaila]]

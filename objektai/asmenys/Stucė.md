@@ -39,5 +39,4 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/ivykiai/Trijų brolių ir 40 vyrų žūtis prie Balgos]]

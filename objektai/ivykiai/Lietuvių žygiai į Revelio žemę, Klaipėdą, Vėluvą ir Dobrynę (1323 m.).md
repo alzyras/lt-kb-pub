@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis 1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m. sausio 18 d. bule (II, 6), žuvusia Sventopelko ir Ordino 1243 m. sutartimi (III, 39), kad galėjęs žinoti 1282.'
+  teiginys: 'M. Tepenas manė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. dokumentu apie lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę.'
   pagrindžia:
     - c-001
 
@@ -60,6 +60,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Tepenas manė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. dokumentu apie lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais  ir kaip —
@@ -98,3 +99,4 @@ Nenurodyta
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/autoriai/M. Tepenas]]

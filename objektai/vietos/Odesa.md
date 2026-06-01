@@ -30,7 +30,7 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
     - c-001
 
 - t-002
-  teiginys: 'Odesos universiteto istorikas V.'
+  teiginys: 'Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
     - t-001
 
 - c-002
+  santrauka: 'Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jeigu patys šaltiniai, daugumoje

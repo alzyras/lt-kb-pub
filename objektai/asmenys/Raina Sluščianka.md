@@ -28,13 +28,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '1619 m. 56 Miesto aktuose yra: karaliaus Stepo­ no patvirtinimas sutarties tarp po­ no Martyno Paleckio ir jo žmonos, dabar ponios Rainos Sluščiankos, ir miesto dėl stiklo liejyklos ir stiklo su­ pirkimo.'
+  teiginys: 'Raina Sluščianka buvo Martyno Paleckio žmona ir sutarties su miestu dėl stiklo liejyklos bei stiklo supirkimo dalyvė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Raina Sluščianka buvo Martyno Paleckio žmona ir sutarties su miestu dėl stiklo liejyklos bei stiklo supirkimo dalyvė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1572, mir.
@@ -59,5 +60,6 @@ periodo_grupes:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vaitas]]

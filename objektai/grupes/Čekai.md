@@ -44,7 +44,7 @@ amziai:
     - c-003
 
 - t-004
-  teiginys: 'Pamatęs, kad jo jė­ gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo: taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­ lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti.'
+  teiginys: 'Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti.'
   pagrindžia:
     - c-004
 
@@ -98,6 +98,7 @@ amziai:
     - t-003
 
 - c-004
+  santrauka: 'Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pamatęs, kad jo jė­
@@ -137,6 +138,7 @@ amziai:
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vietininkas]]
@@ -166,7 +168,6 @@ amziai:
 - [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/grupes/Mazovijos kunigaikščiai]]
 - [[objektai/grupes/Moravai]]
-- [[objektai/asmenys/Mykolas Grigaravičius]]
 - [[objektai/asmenys/Otokaras (Čekijos karalius)]]
 - [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
 - [[objektai/asmenys/Prokopas]]
@@ -187,7 +188,6 @@ amziai:
 - [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
 - [[objektai/asmenys/Zbignevas iš Bžezės]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas Kaributas]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/asmenys/Zindramas iš Maškovičių]]

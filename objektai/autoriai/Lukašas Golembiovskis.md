@@ -19,13 +19,14 @@ Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.'
+  teiginys: 'Golembiovskis, išvardijęs ginklus ir pilis, apibendrino Lietuvos provincijos artilerijos būklę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Golembiovskis, išvardijęs ginklus ir pilis, apibendrino Lietuvos provincijos artilerijos būklę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­

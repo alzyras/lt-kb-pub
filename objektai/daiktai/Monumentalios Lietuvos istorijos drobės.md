@@ -44,7 +44,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Neramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lietuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės karžygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos L I E T U V O S I S T O R I J A 10.'
+  teiginys: '1939 m. pasaulinei parodai Niujorke svarbiausi Lietuvos istorijos įvykiai buvo parodyti monumentaliose dailininkų drobėse.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1939 m. pasaulinei parodai Niujorke svarbiausi Lietuvos istorijos įvykiai buvo parodyti monumentaliose dailininkų drobėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių

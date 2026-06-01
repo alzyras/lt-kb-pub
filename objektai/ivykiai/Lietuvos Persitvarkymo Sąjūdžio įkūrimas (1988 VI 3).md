@@ -49,19 +49,14 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietuvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią Vienas žymiausių M.'
-  pagrindžia:
-    - c-003
-
-- t-003
   teiginys: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-004
-  teiginys: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M.'
+  teiginys: '1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje lietuvių inteligentų būrys įsteigė Lietuvos Persitvarkymo Sąjūdžio iniciatyvinę grupę.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -80,60 +75,6 @@ Nenurodyta
     - t-001
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos Persitvarkymo Sąjūdis
-    1988–1990 metais
-    Valdžios nedraudžiamų klubų veikla kultūros, gamtos apsau-
-    gos, ekologijos ir kitais klausimais išjudino rašytojus, jie reikalavo, kad stu-
-    miama iš visuomenės apyvartos lietuvių kalba taptų oficiali kalba, kad Lietu-
-    vos istorija mokyklose būtų dėstoma kaip pagrindinė istorijos pamokų tema,
-    prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“. Nuo rašytojų
-    neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai. Kritiškai mąstantys
-    ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M. Gorbačiovo
-    vykdomą pertvarką, pokyčius sovietinėse respublikose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau pergyvenusi
-    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
-    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
-    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
-    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
-    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
-    Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietu-
-    vos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat
-    Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią
-    Vienas žymiausių M. K. Čiurlionio kūrinių
-    „Karalių pasaka“, 1909 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    susikuria Helsinkio grupė.
-    1988 VI 3
-    įkuriamas Lietuvos Persitvarkymo Sąjūdis.
-    1990 III 11
-    Lietuvos Respublikos Aukščiausioji Taryba paskelbia Lietuvos nepri-
-    klausomybės atkūrimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-005
   santrauka: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -148,10 +89,11 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
+    - t-002
 
-- c-006
-  santrauka: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M.'
+- c-003
+  santrauka: '1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje lietuvių inteligentų būrys įsteigė Lietuvos Persitvarkymo Sąjūdžio iniciatyvinę grupę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kritiškai mąstantys
@@ -166,18 +108,13 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio iniciatyvinės grupės įsteigimas (1988 m. birželio 3 d.)]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
-- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]

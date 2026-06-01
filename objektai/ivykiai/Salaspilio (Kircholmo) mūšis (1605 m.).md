@@ -44,7 +44,7 @@ Nenurodyta
     - c-003
 
 - t-002
-  teiginys: 'Pasinaudodamas laikina ramybe, Karolis Chodkevičius pasakė kalbą, padrąsino karius ir vėliau įsakė visam frontui imituoti atsitraukimą; šis manevras tekste aiškiai pristatomas kaip tradicinė lietuvių karvedžių apgaulingo atsitraukimo taktika.'
+  teiginys: 'Salaspilio mūšyje Karolis Chodkevičius pasinaudojo laikina ramybe, pasakė kalbą ir padrąsino savo karius.'
   pagrindžia:
     - c-001
 
@@ -54,7 +54,7 @@ Nenurodyta
     - c-007
 
 - t-004
-  teiginys: 'J. K. Chodkevičius, pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą, įsakė pulti; V. Vainos kavalerija atakavo centre, o J. P. Sapiegos ir T. Dambravos raiteliai smogė flanguose.'
+  teiginys: 'Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.'
   pagrindžia:
     - c-002
 
@@ -74,18 +74,19 @@ Nenurodyta
     - c-005
 
 - t-008
-  teiginys: 'T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante, smūgiu iš šono ir priekio sutriuškino švedų kavaleriją, o mūšyje prasidėjo panika.'
+  teiginys: 'Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.'
   pagrindžia:
     - c-004
 
 - t-009
-  teiginys: 'Švedų ir Lietuvos kariuomenės nepajudėjusios išstovėjo iki vidudienio, nes švedai buvo išsirikiavę ant aukšto upelio kranto, o lietuviai mėgino juos išprovokuoti pulti pirmuosius.'
+  teiginys: 'Salaspilio mūšyje lietuviai nedideliais išpuoliais mėgino išprovokuoti švedus pulti pirmuosius, bet abi kariuomenės išstovėjo iki vidudienio.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Salaspilio mūšyje Karolis Chodkevičius pasinaudojo laikina ramybe, pasakė kalbą ir padrąsino savo karius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pasinaudodamas laikina ramybe, Karolis
@@ -102,6 +103,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ J.K. Chodkevičius, pastebėjęs, kad švedų
@@ -139,6 +141,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: 'Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rotmistrų J. P. Sapiegos ir T. Dambra-
@@ -162,6 +165,7 @@ Nenurodyta
     - t-008
 
 - c-005
+  santrauka: 'Salaspilio mūšyje lietuviai nedideliais išpuoliais mėgino išprovokuoti švedus pulti pirmuosius, bet abi kariuomenės išstovėjo iki vidudienio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karolis Chodkevičius pastebėjo, kad

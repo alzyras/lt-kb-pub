@@ -20,13 +20,14 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 ## Teiginiai
 
 - t-001
-  teiginys: 'Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse, jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­ ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių, sudegino visą miestą ir.'
+  teiginys: 'Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir jį sudegino.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir jį sudegino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau greitai užėjo tokie baisūs šalčiai, kad ne tik

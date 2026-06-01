@@ -38,13 +38,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ir atvirkščiai, jei kam iš dvasiškių pasauliečio kai­ myno bus padaryta skriauda dėl sienų, šis kreipsis į pasau­ lietinę įstaigą, kuri vieną ar daugiau, taip, kaip apie dvasiš­ kių tvarką aprašyta, pasauliečių komisarų paskirs, kad vietoje nesutarimus.'
+  teiginys: 'Dvasiškių ir pasauliečių sienų ginčus turėjo tirti po lygiai paskirti pasauliečių ir dvasiškių komisarai, remdamiesi LDK įstatymais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dvasiškių ir pasauliečių sienų ginčus turėjo tirti po lygiai paskirti pasauliečių ir dvasiškių komisarai, remdamiesi LDK įstatymais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir atvirkščiai, jei kam iš dvasiškių pasauliečio kai­

@@ -26,13 +26,14 @@ Dusburgietis teigia, kad labuda G.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad labuda G.'
+  teiginys: 'G. Labudos „Stanowisko ziemi chełmińskiej w państwie krzyżackim w latach 1228–1454“ paskelbta 1954 m. Varšuvoje, „Przegląd historyczny“ 45 tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'G. Labudos „Stanowisko ziemi chełmińskiej w państwie krzyżackim w latach 1228–1454“ paskelbta 1954 m. Varšuvoje, „Przegląd historyczny“ 45 tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Labuda G. Stanowisko ziemi chełmińskiej w państwie krzyżackim w latach 1228—

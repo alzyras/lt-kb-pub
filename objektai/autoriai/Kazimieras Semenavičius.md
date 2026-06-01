@@ -33,34 +33,24 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ vadinamas reikšmingiausiu karinės inžinerijos mokyklos darbu.'
-  pagrindžia:
-    - c-006
-
-- t-002
-  teiginys: '„Artis magnae artilleriae“ siejamas su šiuolaikinės artilerijos ir kosmonautikos ištakomis bei daugiapakopių raketų teorija.'
-  pagrindžia:
-    - c-006
-
-- t-003
   teiginys: 'K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   pagrindžia:
     - c-003
 
-- t-004
-  teiginys: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
-  pagrindžia:
-    - c-006
-
-- t-005
+- t-002
   teiginys: 'Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas, 1650 m.'
   pagrindžia:
     - c-003
 
-- t-006
-  teiginys: 'Semenavičiaus raketų brėžiniai.'
+- t-003
+  teiginys: 'Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.'
   pagrindžia:
     - c-002
+
+- t-004
+  teiginys: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -81,9 +71,10 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
 - c-002
+  santrauka: 'Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Yra ir kitas senojo Vilniaus universiteto
@@ -93,7 +84,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -110,28 +101,12 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+    - t-002
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Baroko
-    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
-    universitetą. Manoma, kad studijų lygis senajame universitete nebuvo
-    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose. Iš šių
-    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
-    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
-    teorijos  kūrėjo K. Semenavičiaus veikalo
-    „Artis magnae artilleriae“  frontispisas, 1650 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
     name Baroko epochos sąvoka, suteikdami jai tokį patį turinį, kokį Vakarų
     Europoje teikiame Renesanso ir Apšvietos epochoms. Epochos simboline
@@ -143,26 +118,6 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
-    name Baroko epochos sąvoka, suteikdami jai tokį patį turinį, kokį Vakarų
-    Europoje teikiame Renesanso ir Apšvietos epochoms. Epochos simboline
-    pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.
-    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
-    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
-    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
-    tas 1579 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

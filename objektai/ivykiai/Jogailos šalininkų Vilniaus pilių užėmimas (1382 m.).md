@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­ gauti savo paveldą ir atkeršyti už Vaidilos mirtį, sutelkė ne­ mažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
+  teiginys: 'Jogailos šalininkai Vilniuje naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.'
   pagrindžia:
     - c-001
 
@@ -55,6 +55,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailos šalininkai Vilniuje naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­

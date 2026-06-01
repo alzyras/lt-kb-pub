@@ -33,7 +33,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-006
 
 - t-002
-  teiginys: ') baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje vyko germanų tautų.'
+  teiginys: 'Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.'
   pagrindžia:
     - c-001
 
@@ -43,63 +43,54 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad baltų filologijos įvadas.— V., 1982.'
-  pagrindžia:
-    - c-011
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas.'
+  teiginys: 'Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
   pagrindžia:
     - c-008
 
-- t-006
+- t-005
   teiginys: 'Dusburgietis teigia, kad 186 Manoma, kad politinė ir etninė baltų (Pamedės prūsų) ir Pamario slavų riba ėjusi XII—XIII a.'
-  pagrindžia:
-    - c-012
-
-- t-007
-  teiginys: 'Dusburgietis teigia, kad apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais —Iš lietuvių etnogenezės, V., 1981, p. 5—11.'
   pagrindžia:
     - c-010
 
-- t-008
-  teiginys: 'Dusburgietis teigia, kad 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią antropomorfinę dievybę, panašią į krikščioniškąjį dievą (Łowmiański H.'
+- t-006
+  teiginys: 'XIII-XIV a. pirmos pusės šaltinių analizė sieja baltų religiją su antropomorfine dievybe, panašia į krikščioniškąjį Dievą.'
   pagrindžia:
     - c-005
 
-- t-009
+- t-007
   teiginys: 'Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).'
   pagrindžia:
-    - c-013
+    - c-011
 
-- t-010
+- t-008
   teiginys: 'Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.'
   pagrindžia:
     - c-002
 
-- t-011
+- t-009
   teiginys: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
   pagrindžia:
     - c-009
 
-- t-012
+- t-010
   teiginys: 'Dusburgietis teigia, kad taigi Lietuvos pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.'
   pagrindžia:
     - c-004
 
-- t-013
+- t-011
   teiginys: 'Dusburgietis teigia, kad dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П.'
   pagrindžia:
     - c-007
 
-- t-014
+- t-012
   teiginys: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr.'
   pagrindžia:
-    - c-014
+    - c-012
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     **4. Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­**
@@ -133,7 +124,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-008
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -160,9 +151,10 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-010
 
 - c-005
+  santrauka: 'XIII-XIV a. pirmos pusės šaltinių analizė sieja baltų religiją su antropomorfine dievybe, panašia į krikščioniškąjį Dievą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
@@ -175,7 +167,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-006
 
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -202,9 +194,10 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-011
 
 - c-008
+  santrauka: 'Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai ir Lietuva
@@ -221,7 +214,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -243,53 +236,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-009
 
 - c-010
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais
-    —Iš lietuvių etnogenezės, V., 1981, p. 5—11.
-       Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-011
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kabelka J. Baltų filologijos įvadas.— V., 1982.
-       Kalwaitis W. Lietuwiszkų wardų klėtelė su 15 000 wardų / Surinko 1888—1894 m. ir
-    iszleido W. Kalwaitis.— Tilžėje, 1910.
-      Kamiński A. Jaćwież: Terytorium, ludność, stosunki gospodarcze i społeczne.— Łódź,
-    1953.
-      Kamiński A. Z badań nad pograniczem polsko-rusko-jaćwieskim w rejonie rzeki Śliny.—
-    Wiadomości archeologiczne, Warszawa, 1956, t. 27, z. 2, s. 131—168.
-      Kamiński A. Materiały do bibliografii archeologicznej Jaćwieży od I do XIII w.—Materiały
-    starożytne, Warszawa, 1956, t. 1, s. 193—273.
-      Karaliūnas S. Dėl prūsų etnonimo reikšmės ir kilmės.— Baltistica, 1977, 13 (2), p.
-    372—373.
-      Karwasińska J. Złote bulle Karola IV w sprawie chrztu Litwy.— Cultus et cognitio:
-    Studia z dziejów średniowiecznej kultury, Warszawa, 1976, s. 233—249.
-      Kazlauskas J. Prūsai ir jų raštai.— Pergalė. 1967, Nr. 4, p. 161—162.
-      Kola A. Wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych: Problem
-    pierwotnej lokalizacji —Sprawozdania Towarzystwa Naukowego w Toruniu, Toruń, 1977,
-    Nr. 29, s. 54—57.
-      Kolankowski L. Litwini a Prusacy.— Pamiętnik V powszechnego zjazdu historyków
-    polskich w Warszawie 1930 r., Lwów, 1931, t. 2, s. 158—162.
-      Kolendo J. Wyprawa po bursztyn bałtycki za Nerona.— Pomorania antiqua, Wrocław—
-    Warszawa—Kraków—Gdańsk— Łódź, 1981, t. 10, s. 25—62.
-      Kosman M. Drogi zaniku pogaństwa u Bałtów. —Wrocław—Warszawa—Kraków—
-    Gdańsk, 1976.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     186 Manoma, kad politinė  ir etninė baltų (Pamedės prūsų)  ir Pamario slavų riba
@@ -308,9 +257,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-013
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
@@ -327,9 +276,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-007
 
-- c-014
+- c-012
   santrauka: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -343,7 +292,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
@@ -352,7 +301,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Germanai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/autoriai/L. Kolankowski]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
@@ -373,7 +321,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/autoriai/Alvydas Jokubaitis]]
 - [[objektai/autoriai/Antanas Kulakauskas]]
-- [[objektai/autoriai/Antoniewicz J]]
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“]]
@@ -388,11 +335,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/asmenys/Dmitrijus Ivanovičius]]
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]
 - [[objektai/daiktai/Dviašmenis kalavijas]]
-- [[objektai/autoriai/Endzelins J]]
 - [[objektai/grupes/Estai]]
 - [[objektai/autoriai/F. Bopas]]
-- [[objektai/autoriai/G. H. F. Neselmanas]]
-- [[objektai/autoriai/G. Labuda]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
@@ -428,7 +372,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/autoriai/M. Michelbertas]]
 - [[objektai/autoriai/M. Tepenas]]
 - [[objektai/autoriai/M. Vasmeris]]
-- [[objektai/autoriai/Mannhardt W]]
 - [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
 - [[objektai/asmenys/Michailas Jaroslavičius]]
@@ -479,7 +422,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/zodynas/terrula žemelė]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
 - [[objektai/zodynas/vakariniai baltai]]
-- [[objektai/autoriai/Łowmiański H]]
 - [[objektai/autoriai/Šeliagovičius M]]
 - [[objektai/daiktai/Šernų amuletai]]
 - [[objektai/grupes/Žiemgaliai]]
@@ -489,7 +431,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/autoriai/Тоерреn M]]
 - [[objektai/autoriai/Топоров B. H]]
 - [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
+- [[objektai/grupes/Baltų žyniai]]
 - [[objektai/autoriai/H. Biezais]]
+- [[objektai/autoriai/Schall H]]
 - [[objektai/grupes/Suomiai]]
 - [[objektai/zodynas/baltų tautų terminas]]
 - [[objektai/zodynas/Prūsijos žemė terra Prussiae]]

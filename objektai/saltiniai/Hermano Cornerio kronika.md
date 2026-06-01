@@ -31,7 +31,7 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
     - c-001
 
 - t-002
-  teiginys: 'Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.'
+  teiginys: 'Hermano Cornerio kronikoje rašoma, kad Vilniaus miestiečiai buvo palankesni Jogailai negu Kęstučiui.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
     - t-001
 
 - c-002
+  santrauka: 'Hermano Cornerio kronikoje rašoma, kad Vilniaus miestiečiai buvo palankesni Jogailai negu Kęstučiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Wilna, 1. 177.

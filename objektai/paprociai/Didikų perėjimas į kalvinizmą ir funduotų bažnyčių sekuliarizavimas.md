@@ -59,27 +59,11 @@ Nenurodyta
 - t-003
   teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos reformacijos ryškiausia ir įtakin-
-    giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
-    Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibli-
-    ją“. XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai buvo
-    perėję į reformaciją ir sekuliarizavę savo pačių funduotas bažnyčias – tai
-    sudarė pusę visų bažnyčių. Kalvinizmas vėliau pradėjo nykti, tačiau išliko
-    iki šių dienų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -100,6 +84,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -111,6 +96,4 @@ Nenurodyta
 - [[objektai/zodynas/protestantizmas]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/LDK didikai]]
 - [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]

@@ -48,32 +48,32 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
   teiginys: 'Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.'
   pagrindžia:
     - c-001
-    - c-002
+    - c-003
 
 - t-002
   teiginys: 'Andrius buvo Algirdo ir Julijonos sūnus, gimęs iš antros Algirdo santuokos su Vitebsko kunigaikštyte Julijona.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Andrius buvo nuolatinis Dmitrijaus Doniškio bendražygis ir dalyvavo kovose prieš totorius, prisidėdamas prie pergalės Kulikovo lauke.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-004
   teiginys: 'Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-005
-  teiginys: 'Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo.'
+  teiginys: 'Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
-  teiginys: '30 Tasai Andrius, Jogailai pavaldaus Polocko kunigaikštis, Algirdo sū­ nus, gimęs iš antros jo santuokos su Julijona, Vitebsko kunigaikštyte, ta­ čiau nebuvo palankus Jogailai, vei­ kiau linkęs į Kęstučio pusę; tad Jo­ gaila nusprendė jį išvyti iš jo dalinės.'
+  teiginys: 'Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -96,35 +96,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     - t-001
 
 - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tasai Andrius, Jogailai pavaldaus
-    Polocko kunigaikštis, Algirdo sū­
-    nus, gimęs iš antros jo santuokos su
-    Julijona, Vitebsko kunigaikštyte, ta­
-    čiau nebuvo palankus Jogailai, vei­
-    kiau linkęs į Kęstučio pusę; tad Jo­
-    gaila nusprendė jį išvyti iš jo dalinės
-    valdos. Dėl to sudarė slaptą, be
-    Kęstučio žinios, sutartį su Livoni­
-    jos magistru, kad anas padėtų jam
-    vykdyti tuos kėslus. Tuo metu, kai
-    Andrius, nuolatinis Dmitrijaus Do­
-    niškio bendražygis, karo rūpesčiais
-    dalinęsis, kovojęs su juo dar kartu
-    prieš totorius, kur Kulikovo lauke
-    (1380 metų rugsėjo 8-ą) prie perga­
-    lės daugiausia prisidėjęs, dalyvavo
-    mūšiuose, - Skirgaila užsibuvo Po-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
-- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau miestiečių išvytas, nu­
@@ -150,7 +121,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
   pagrindžia:
     - t-004
 
-- c-004
+- c-003
+  santrauka: 'Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
@@ -187,8 +159,12 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
   statusas: verified
   pagrindžia:
     - t-005
+    - t-001
+    - t-002
+    - t-003
 
-- c-005
+- c-004
+  santrauka: 'Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota Viešpaties
@@ -238,10 +214,10 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
 - [[objektai/asmenys/Dmitrijus Doniškis]]
 - [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
 - [[objektai/zodynas/Paliaubos induciae]]
-- [[objektai/grupes/Totoriai]]

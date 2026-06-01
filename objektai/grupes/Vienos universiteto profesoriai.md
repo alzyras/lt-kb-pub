@@ -30,7 +30,7 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
     - c-001
 
 - t-003
-  teiginys: 'Vienos profesoriai aiškino, kad į tai mokslininkai įvairiai atsa­ kinėja; vieni, kad popiežius, kiti, kad arcivyskupas arba vys­ kupas.'
+  teiginys: 'Vienos universiteto profesoriai aiškino, kad mokslininkai nevienodai atsakė, kas turi teisę suteikti konsekraciją.'
   pagrindžia:
     - c-003
 
@@ -68,7 +68,7 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
     - t-001
 
 - c-003
-  santrauka: 'Vienos profesoriai aiškino, kad į tai mokslininkai įvairiai atsa­ kinėja; vieni, kad popiežius, kiti, kad arcivyskupas arba vys­ kupas.'
+  santrauka: 'Vienos universiteto profesoriai aiškino, kad mokslininkai nevienodai atsakė, kas turi teisę suteikti konsekraciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Priėmus tą nuomonę, kad konsekracija yra būti­
@@ -86,6 +86,7 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/konsekracija]]
 - [[objektai/zodynas/Romos karalius]]

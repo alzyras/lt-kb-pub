@@ -56,7 +56,7 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba, todėl buvo gausiai gaminamas ir paplito pasaulyje.'
+  teiginys: 'Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba.'
   pagrindžia:
     - c-002
 
@@ -86,6 +86,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-
@@ -131,5 +132,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Statybininkų šalmai]]
+- [[objektai/daiktai/Sovietų automatinis (pusiau automatinis) šautuvas SVT-40]]
 - [[objektai/asmenys/M. Kalašnikovas]]
 - [[objektai/daiktai/Sovietų automatinis šautuvas AKM]]

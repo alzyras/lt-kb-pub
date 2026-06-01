@@ -43,23 +43,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
-    sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių

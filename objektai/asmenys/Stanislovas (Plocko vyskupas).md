@@ -27,13 +27,14 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82.'
+  teiginys: '1386 metais Plocko vyskupas Stanislovas su Kijevo vyskupu Mykolu pašventino Šv. Jono bažnyčią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1386 metais Plocko vyskupas Stanislovas su Kijevo vyskupu Mykolu pašventino Šv. Jono bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tais
@@ -76,12 +77,12 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - [[objektai/asmenys/Bodzanta]]
 - [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
 - [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]
+- [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]]
 - [[objektai/daiktai/Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje]]
 - [[objektai/asmenys/Gabrielis Narutovičius]]
 - [[objektai/ivykiai/Gardino seimas ir antrojo LLV padalijimo patvirtinimas|Gardino seimas ir antrojo LLV padalijimo patvirtinimas (seimas)]]
 - [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje]]
 - [[objektai/asmenys/J. Pilsudskis]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
@@ -128,6 +129,11 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]
 - [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]
 - [[objektai/posakiai/„yra dar viena tauta Europoje“]]
+- [[objektai/paprociai/Bažnyčios pašventinimas per dideles iškilmes]]
+- [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/asmenys/Karolis Stanislovas Radvila]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje]]
 - [[objektai/grupes/Saksų dinastija]]
 - [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]
+- [[objektai/zodynas/kanonizavimas ir palaikų pakylėjimas]]

@@ -44,18 +44,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dva­ sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.'
+  teiginys: 'Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl buvo iš naujo pamūryta prisidėjus Vilniaus vaivadai Mikalojui Radvilai.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Mergelės Marijos Apsilankymo ok­ tavoje), bernardinų prašymu, prie vienuolyno esantį savo malūną įsa­ ko nugriauti, kadangi šis dėl drebė­ jimo malimo metu išjudino jau ir taip netvirtus bernardinų pastatų pamatus, o sklvpą, kuriame malū­ nas stovėjo.'
+  teiginys: '1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios dominikonų baž­
@@ -85,6 +86,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl buvo iš naujo pamūryta prisidėjus Vilniaus vaivadai Mikalojui Radvilai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dva­
@@ -110,5 +112,6 @@ Nenurodyta
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Bernardinų ordinas]]
 - [[objektai/asmenys/Mikalojus Radvila II]]

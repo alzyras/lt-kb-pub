@@ -91,6 +91,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Pacai]]
-- [[objektai/grupes/Turkai]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/grupes/Lenkai]]

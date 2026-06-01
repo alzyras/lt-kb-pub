@@ -26,17 +26,17 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1396-ieji me­ tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties bei alpių karščių.'
+  teiginys: '1396 m. Vilniaus pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Bet tik kalną griūtis palietė, mūrai išliko sveiki.'
+  teiginys: 'Vilniaus pilies kalno griūtis palietė tik kalną, o pilies mūrai išliko sveiki.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­ nausiąs ir 1.1.'
+  teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus pilies kalną ištiko griūtis.'
   pagrindžia:
     - c-004
 
@@ -67,6 +67,7 @@ amziai:
     - t-004
 
 - c-002
+  santrauka: '1396 m. Vilniaus pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kitais metais jis buvo išvaduotas dviejų jam palan­
@@ -82,6 +83,7 @@ amziai:
     - t-001
 
 - c-003
+  santrauka: 'Vilniaus pilies kalno griūtis palietė tik kalną, o pilies mūrai išliko sveiki.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - Patsai būtų lygiai taip pat
@@ -96,6 +98,7 @@ amziai:
     - t-002
 
 - c-004
+  santrauka: 'Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus pilies kalną ištiko griūtis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     (Plg. Ind. cod. kist. dipt. Livoniae)

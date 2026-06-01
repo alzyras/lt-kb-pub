@@ -51,7 +51,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­ sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą, Jonas III-sis jau savinosi ir caro titulą.'
+  teiginys: 'Jonas III, laikydamas save Bizantijos imperijos paveldėtoju, perėmė dvigalvį erelį, imperatoriaus dvaro ceremonialą ir savinosi caro titulą.'
   pagrindžia:
     - c-002
 
@@ -77,7 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­ sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą, Jonas III-sis jau savinosi ir caro titulą.'
+  santrauka: 'Jonas III, laikydamas save Bizantijos imperijos paveldėtoju, perėmė dvigalvį erelį, imperatoriaus dvaro ceremonialą ir savinosi caro titulą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tik Maskvos didžiajam Kunigaikščiui Jonui III, Sofijos Vytau­

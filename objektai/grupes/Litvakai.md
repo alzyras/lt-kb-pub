@@ -29,51 +29,36 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 - t-001
   teiginys: 'Holokausto metu buvo sunaikinta pasaulinę šlovę Lietuvai suteikusi litvakų bendruomenė, nors jos gyvosios šaknys išliko Lietuvoje, JAV ir Izraelyje.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Vilniaus Gaono autoritetas galėjo lemti, kad litvakai imti laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui.'
   pagrindžia:
-    - c-001
+    - c-005
 
 - t-003
-  teiginys: 'O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afrikos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas buvo.'
+  teiginys: '1967 m. litvakų palikuonis Christiaanas Barnardas Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Litvakas reiškė žydą iš istorinės Lietuvos, tačiau šiuo vardu imta vadinti ir savita gyvensena pasižymėjusius žydus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-005
   teiginys: '1967 m. Pietų Afrikos Respublikoje pirmąją žmogaus širdies persodinimo operaciją atliko litvakų palikuonis Christiaanas Barnardas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
   teiginys: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    geografijos. Didžiausias Gaono nuopelnas – Babilono Talmudo redagavi-
-    mas ir komentavimas.
-    Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litva-
-    kai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu
-    religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsi-
-    mokslinimui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Maža to,
@@ -88,7 +73,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   pagrindžia:
     - t-004
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pabaiga arba išbarstyti
@@ -107,7 +92,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Europos čem-
@@ -126,7 +111,8 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   pagrindžia:
     - t-005
 
-- c-005
+- c-004
+  santrauka: '1967 m. litvakų palikuonis Christiaanas Barnardas Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
@@ -150,7 +136,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
   santrauka: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -166,6 +152,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   statusas: verified
   pagrindžia:
     - t-006
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

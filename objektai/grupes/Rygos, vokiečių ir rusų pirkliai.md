@@ -20,13 +20,14 @@ Vien tik Vytauto privilegi­ jos Rygos, vokiečių ir rusų pirkliams, liudijan�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vien tik Vytauto privilegi­ jos Rygos, vokiečių ir rusų pirkliams, liudijančios, kaip uoliai tas monarchas globojo prekybą savo sostinėje ir visoje šalyje, išsilaikė iki mūsų dienų; tačiau, regis, kad miesto padėtis jo ad­ ministravimo atžvilgiu nedaug.'
+  teiginys: 'Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudijo jo globą prekybai Vilniuje ir visoje šalyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudijo jo globą prekybai Vilniuje ir visoje šalyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­

@@ -28,13 +28,14 @@ Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam So
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam Sostui į Vilniaus vys­ kupus siūlančio Trakų koleginės bažnyčios kleboną Mikalojų.'
+  teiginys: 'Vytautas Apaštališkajam Sostui siūlė Trakų koleginės bažnyčios kleboną Mikalojų į Vilniaus vyskupus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas Apaštališkajam Sostui siūlė Trakų koleginės bažnyčios kleboną Mikalojų į Vilniaus vyskupus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojus Gožkovskis, lenkas, šv. teologijos daktaras, kry­

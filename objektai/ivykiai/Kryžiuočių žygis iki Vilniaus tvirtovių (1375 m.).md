@@ -55,7 +55,7 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: 'Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­ meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­ pavykus staiga užimti gerai ginamo miesto, grįžo atgalios plėšti aplinkinių žemių23.'
+  teiginys: 'Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė.'
   pagrindžia:
     - c-003
 
@@ -99,6 +99,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tąkart Vinrichas, vasario pradžioje kirtęs Lie­

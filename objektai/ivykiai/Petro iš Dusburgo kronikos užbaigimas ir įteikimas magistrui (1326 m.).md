@@ -51,7 +51,7 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad siekdamas pagrįsti kryžiuočių užkariavimus Prūsijoje ir jau kuris metas vedamą karą prieš Lietuvą, parodyti Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.).'
   pagrindžia:
     - c-002
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -68,6 +68,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -79,18 +80,6 @@ Nenurodyta
     valstybės kūrinys.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos
-    kare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
-    užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-002

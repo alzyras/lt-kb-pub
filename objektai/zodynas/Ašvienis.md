@@ -24,7 +24,7 @@ Vartojamos formos: `ašvienio`.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Žodis vartojamas ūkio, nuomos ir gyvulio pardavimo kontekste.'
+  teiginys: 'Ašvienio neturintis vargdienis galėjo išnuomoti dirvą ar pievą kitam ir gauti pusę javų ar šieno.'
   pagrindžia:
     - c-001
 

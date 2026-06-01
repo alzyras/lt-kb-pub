@@ -33,7 +33,7 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
 - t-002
   teiginys: ') Lietuviškoje Enciklopedijoje (Kaune) rodė jo gilią erudiciją.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -52,19 +52,4 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Labai ilgi straipsniai iš Lietuvos istorijos
-    (Aleksandras, Algirdas, Batoras Steponas, Bažnytinė unija, Gedi­
-    minas, Jadvyga ir kt.) Lietuviškoje Enciklopedijoje (Kaune) rodė
-    jo gilią erudiciją. Originali yra nebaigta studija : « Jogaila, didysis
-    Lietuvos kunigaikštis ir Lenkijos karalius » (Židinys, 1935-1936).
-    Lietuvos istorijos srityje nepalyginamai savo raštais buvo vai­
-    singesnis Aug.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

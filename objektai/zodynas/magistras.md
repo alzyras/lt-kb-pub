@@ -62,6 +62,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -77,20 +78,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordinas dėl tokio savo žygio netvėrė pyk-
-    čiu. Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
-    tas pamišėliu ir pašalintas iš vietos.
-    Kovų pobūdis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -131,7 +118,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/asmenys/Burchardas iš Magdeburgo]]
 - [[objektai/asmenys/Burchardas iš Švandeno]]
 - [[objektai/asmenys/Celestinas III]]
-- [[objektai/paprociai/Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas|Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas (miestas)]]
 - [[objektai/asmenys/Chadži Girėjus]]
 - [[objektai/asmenys/Ditrichas (Meiseno markgrafas)]]
 - [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]]
@@ -141,7 +127,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/asmenys/Ditrichas iš Bernheimo]]
 - [[objektai/asmenys/Ditrichas iš Gaterslebeno]]
 - [[objektai/asmenys/Dobeslavas Skoračevskis]]
-- [[objektai/autoriai/Domagała R]]
 - [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/asmenys/Dovydas]]
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
@@ -232,12 +217,9 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/asmenys/Isamas (Rygos arkivyskupas)]]
 - [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]
 - [[objektai/autoriai/J. Dlugošas]]
-- [[objektai/autoriai/J. Poverskis]]
 - [[objektai/asmenys/J. Tiergard’as]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/autoriai/Janikowski J]]
 - [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]
-- [[objektai/posakiai/Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,]]
 - [[objektai/posakiai/Jeigu visi darysime taip, kaip padarė mūsų broliai, ir nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mu]]
 - [[objektai/asmenys/Jeronimas]]
 - [[objektai/asmenys/Joabas]]
@@ -268,7 +250,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/daiktai/Kariuomenės ženklai]]
 - [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
 - [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]
-- [[objektai/asmenys/Karolis (didysis magistras)]]
 - [[objektai/asmenys/Karolis Tryrietis]]
 - [[objektai/asmenys/Karolis VI]]
 - [[objektai/autoriai/Karolis Zikaras]]
@@ -309,7 +290,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/paprociai/Kęstučio riteriškų papročių laikymasis]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]
 - [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
 - [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
@@ -379,7 +359,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/zodynas/Paliaubos induciae]]
 - [[objektai/autoriai/Paszkiewicz H]]
 - [[objektai/asmenys/Paulius Rusdorfas]]
-- [[objektai/autoriai/Perlbach M]]
 - [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/asmenys/Petrašu Montgirdaitis]]
 - [[objektai/ivykiai/Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)]]
@@ -534,7 +513,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/zodynas/villa kaimas sodžius]]
 - [[objektai/posakiai/vyriausiuoju Lietuvos kunigaikščiu]]
 - [[objektai/grupes/Čekijos husitai]]
-- [[objektai/posakiai/Čia pirmoji yra lietuvių tautos vieta]]
 - [[objektai/zodynas/činšas]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
 - [[objektai/grupes/Škotai]]
@@ -542,7 +520,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/grupes/Šventoji Romos imperija]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Švitrigailos šalininkai]]
-- [[objektai/zodynas/šeštinės]]
 - [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
 - [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
@@ -551,14 +528,24 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]
 - [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]
 - [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]
+- [[objektai/asmenys/Bernardas (Jachnos sūnus)]]
 - [[objektai/asmenys/Frankas Kirskorffas]]
 - [[objektai/asmenys/Henne]]
 - [[objektai/asmenys/Hennė (Ordino agentas)]]
+- [[objektai/asmenys/Karolis (didysis magistras)]]
 - [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]
+- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
 - [[objektai/asmenys/Mikalojus (Vilniaus vyskupas)]]
+- [[objektai/asmenys/Mikalojus Dzerško]]
 - [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas)]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - [[objektai/posakiai/Mūsų kraštą pavergti|Mūsų kraštą pavergti (kraštas)]]
+- [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]
 - [[objektai/asmenys/Ottonas Luterbergas]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
+- [[objektai/ivykiai/Viznos pilies sugriovimas (1294 m.)]]
 - [[objektai/asmenys/Vladislovas Jogailaitis]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/autoriai/Werminghoee, A]]
+- [[objektai/zodynas/antifona kolekta liturginės valandos]]

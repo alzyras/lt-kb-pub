@@ -35,27 +35,27 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - t-001
   teiginys: '1435 m. rugsėjo 1 d. mūšis įvyko per pusantros mylios nuo Ukmergės, prie kelio į Vilnių.'
   pagrindžia:
-    - c-012
+    - c-010
 
 - t-002
   teiginys: 'Ukmergėje veikė Lietuvos vyriausybės finansiškai remta lenkų gimnazija.'
   pagrindžia:
-    - c-013
+    - c-006
 
 - t-003
   teiginys: 'Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
   pagrindžia:
-    - c-024
+    - c-004
 
 - t-004
   teiginys: 'Kavarskas buvo nutolęs nuo Ukmergės per keturias mylias, o nuo Vilniaus per penkiolika mylių.'
   pagrindžia:
-    - c-021
+    - c-016
 
 - t-005
   teiginys: 'Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.'
   pagrindžia:
-    - c-022
+    - c-011
 
 - t-006
   teiginys: 'Kariuomenės vadovybė sustabdė Ukmergės rinktinės puolimą, nes ši buvo per daug išsiveržusi į priekį ir reikėjo išlyginti fronto liniją.'
@@ -65,7 +65,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - t-007
   teiginys: 'Gegužės 3 d. Panevėžio batalionas, remiamas saksų savanorių, atliko sėkmingą operaciją ir iš bolševikų išvadavo Ukmergę.'
   pagrindžia:
-    - c-023
+    - c-017
 
 - t-008
   teiginys: 'Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.'
@@ -80,12 +80,12 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - t-010
   teiginys: 'Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai.'
   pagrindžia:
-    - c-015
+    - c-009
 
 - t-011
   teiginys: 'Čia prisijungė Livonijos magistro kariuomenė ir šios jungtinės pajėgos „Užnerio puse“ žygiavo į Vilkmergę (Ukmergę).'
   pagrindžia:
-    - c-020
+    - c-015
 
 - t-012
   teiginys: 'Persekiojami priešininkai patyrė naują nesėkmę brastoje per Šventąją ties Ukmerge, kur daug jų kareivių nuskendo.'
@@ -95,7 +95,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - t-013
   teiginys: 'Ladygos vadovaujamai Ukmergės rinktinei žygiuoti UkmergėsDaugpilio plentu ir užimti Uteną.'
   pagrindžia:
-    - c-011
+    - c-005
 
 - t-014
   teiginys: 'Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, kariuomenės vadovybė įsakė tolimesnį puolimą sustabdyti, kad išsilygintų fronto linija.'
@@ -103,29 +103,29 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-003
 
 - t-015
-  teiginys: 'Ilgai Švitrigaila drumstė šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­ gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­ tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė netoli Ukmergės užbaigė šių dviejų, Lietuvai gal.'
+  teiginys: 'Kunigaikščio Mykolo pergalė prieš Švitrigailą ir Livonijos magistrą netoli Ukmergės užbaigė jų varžybas dėl Lietuvos.'
   pagrindžia:
-    - c-028
+    - c-012
 
 - t-016
   teiginys: '1919 m. gegužės 24 d. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.'
   pagrindžia:
-    - c-025
+    - c-005
 
 - t-017
   teiginys: 'Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas.'
   pagrindžia:
-    - c-016
+    - c-012
 
 - t-018
   teiginys: 'Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
   pagrindžia:
-    - c-010
+    - c-004
 
 - t-019
   teiginys: 'Vytautas tuo metu veikė Bopartėnų, Ukmergės ir Kulvos srityse.'
   pagrindžia:
-    - c-019
+    - c-014
 
 - t-020
   teiginys: '1919 m. gegužės 24 d. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti į Uteną.'
@@ -133,9 +133,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-005
 
 - t-021
-  teiginys: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  teiginys: 'Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis.'
   pagrindžia:
-    - c-014
+    - c-011
 
 - t-022
   teiginys: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
@@ -143,19 +143,19 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-006
 
 - t-023
-  teiginys: 'Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.'
+  teiginys: '1435 m. netoli Ukmergės Švitrigailai kelią pastojo Mykolo vadovaujama lietuvių ir lenkų kariuomenė.'
   pagrindžia:
     - c-009
 
 - t-024
   teiginys: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
   pagrindžia:
-    - c-017
+    - c-013
 
 - t-025
-  teiginys: 'Vy­ tautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­ no), Ukmergės ir Kulvos srityse.'
+  teiginys: 'Vytautas veikė Ukmergės, Kulvos ir Bopartėnų srityse.'
   pagrindžia:
-    - c-026
+    - c-014
 
 - t-026
   teiginys: 'Livonijos magistro kariuomenė prisijungė prie jungtinių pajėgų, kurios Užnerio puse žygiavo į Vilkmergę (Ukmergę).'
@@ -163,14 +163,14 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-001
 
 - t-027
-  teiginys: 'Priešininkas, persekio­ jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­ tosios upę ties Ukmerge, kur buvo nuskandinta labai daug jo kareivių.'
+  teiginys: 'Persekiojamas priešininkas patyrė nesėkmę brastoje per Šventąją ties Ukmerge, kur nuskendo daug jo kareivių.'
   pagrindžia:
-    - c-018
+    - c-008
 
 - t-028
   teiginys: 'Ukmergė minima tarp vietų, kuriose buvo įkurtos pijarų kolegijos arba žemesniosios mokyklos.'
   pagrindžia:
-    - c-027
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -254,6 +254,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-009
+    - t-018
+    - t-003
 
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -271,6 +273,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-020
+    - t-013
+    - t-016
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -286,6 +290,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-022
+    - t-002
 
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -349,8 +354,10 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-012
+    - t-027
 
 - c-009
+  santrauka: '1435 m. netoli Ukmergės Švitrigailai kelią pastojo Mykolo vadovaujama lietuvių ir lenkų kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1435 m. jis sukvietė visus savo sąjungininkus
@@ -364,47 +371,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-023
+    - t-010
 
 - c-010
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Buvo sukurtas
-    generalinis Lietuvos teritorijos nuo bolše-
-    vikų pajėgų išvadavimo planas. Ukmergės
-    rinktinė turėjo veržtis Ukmergės-Utenos-
-    Zarasų kryptimi, Panevėžio rinktinė -
-    Kėdainių-Panevėžio-Rokiškio kryptimi.
-
-    Atskirojo Joniškėlio partizanų, kitaip
-    vadinamojo mirties bataliono kariai
-
-    ## Puslapis 181
-
-    | 1881 m. jstojo į Rusijos kariuomenę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-018
-
-- c-011
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Telkdama į bolševikų frontą vis daugiau
-    naujai suformuotų dalinių, Lietuvos ka-
-    riuomenės vadovybė ėmė ruoštis naujam
-    puolimui. 1919 m. gegužės 24 d. vyriausiasis
-    kariuomenės vadas gen. S. Žukauskas įsakė
-    karin. K. Ladygos vadovaujamai Ukmergės
-    rinktinei žygiuoti Ukmergės- Daugpilio
-    plentu ir užimti Uteną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-012
   santrauka: '1435 m. rugsėjo 1 d. mūšis įvyko per pusantros mylios nuo Ukmergės, prie kelio į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -426,22 +395,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindžia:
     - t-001
 
-- c-013
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Švietimui padėjo lenkų kultūros organiza-
-    cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
-    gaudavusios pinigų iš Lenkijos. Jos rėmė lenkų pradines mokyklas ir Lie-
-    tuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Pane-
-    vėžyje ir Ukmergėje. 1935–1936 mokslo metais veikė apie 30 lenkiškų
-    mokyklų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-014
+- c-011
+  santrauka: 'Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Per sostinę įgydamas didžiojo kunigaikščio titulą, t. y. vyres­
@@ -455,23 +410,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-021
+    - t-005
 
-- c-015
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1435 m. jis sukvietė visus savo sąjungininkus
-    — Livonijos ordiną, totorius, rusų kunigaikščius — ir išsiruošė
-    į didelį žygį. Bet, pasiekus Šventąją, netoli Ukmergės (ties Pa-
-    baisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama
-    lietuvių ir į pagalbą atėjusių lenkų kariuomenė. Mūšį pralai-
-    mėjo Švitrigaila.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-016
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Naudodamasis visuotine neapykanta, kurią per sa­
@@ -492,8 +433,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-017
+    - t-015
 
-- c-017
+- c-013
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pijarai, niekuo daugiau neužsiimdami,
@@ -510,25 +452,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-024
+    - t-028
 
-- c-018
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Čia
-    žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­
-    lavijuočių riterių ordino magistras. Priešininkas, persekio­
-    jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­
-    tosios upę ties Ukmerge, kur buvo nuskandinta labai daug
-    jo kareivių. Čekų ir Silezijos savanorių vadai ir, gražiausia,
-    Jaroslavas Lingumas*, Mstislavlio kunigaikštis, pateko į ne­
-    laisvę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-027
-
-- c-019
+- c-014
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Prie jų atvykęs Vallenrodas, rado tik pelenų krūvą. Vy­
@@ -543,8 +469,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-019
+    - t-025
 
-- c-020
+- c-015
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš mūšį
@@ -563,7 +490,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindžia:
     - t-011
 
-- c-021
+- c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kavars­
@@ -580,22 +507,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindžia:
     - t-004
 
-- c-022
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Per sostinę įgydamas didžiojo kunigaikščio titulą, t. y. vyres­
-    niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
-    valdančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­
-    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
-    Ukmerge, Breslauja (Braslaw).
-    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-023
+- c-017
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gegužės 3 d. Panevėžio batalionas, re-
@@ -613,98 +525,3 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-024
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Buvo sukurtas
-    generalinis Lietuvos teritorijos nuo bolše-
-    vikų pajėgų išvadavimo planas. Ukmergės
-    rinktinė turėjo veržtis Ukmergės-Utenos-
-    Zarasų kryptimi, Panevėžio rinktinė -
-    Kėdainių-Panevėžio-Rokiškio kryptimi.
-
-    Atskirojo Joniškėlio partizanų, kitaip
-    vadinamojo mirties bataliono kariai
-
-    ## Puslapis 181
-
-    | 1881 m. jstojo į Rusijos kariuomenę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-025
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Telkdama į bolševikų frontą vis daugiau
-    naujai suformuotų dalinių, Lietuvos ka-
-    riuomenės vadovybė ėmė ruoštis naujam
-    puolimui. 1919 m. gegužės 24 d. vyriausiasis
-    kariuomenės vadas gen. S. Žukauskas įsakė
-    karin. K. Ladygos vadovaujamai Ukmergės
-    rinktinei žygiuoti Ukmergės- Daugpilio
-    plentu ir užimti Uteną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-026
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Prie jų atvykęs Vallenrodas, rado tik pelenų krūvą. Vy­
-    tautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­
-    no), Ukmergės ir Kulvos srityse. Po užgrobimo poros nežymių
-    pilaičių, didžiulei Vallenrodo kariuomenei, kuri taip smarkiai
-
-    (^1) ) Apie Konradą Vallenrodą, kuris Lietuvos istorijoje yra gana po­
-    puliarus ir minimas A. Mickevičiaus poezijoj, žiur.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-025
-
-- c-027
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pijarai, niekuo daugiau neužsiimdami,
-    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
-    tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos
-    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
-    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
-    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
-    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
-
-    #### 6.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-028
-
-- c-028
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Naudodamasis visuotine neapykanta, kurią per sa­
-    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
-    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
-    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
-    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
-    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
-    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
-    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
-    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
-    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
-    pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
-    20
-    Kotzebue Switrigail, p. 89.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-015

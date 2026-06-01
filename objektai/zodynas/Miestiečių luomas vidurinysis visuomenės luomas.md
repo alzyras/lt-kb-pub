@@ -20,23 +20,24 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
 ## Teiginiai
 
 - t-001
-  teiginys: 'Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos priežastis.'
+  teiginys: 'M. Balinskis Lietuvos miestų ir miestiečių luomo vėlavimą siejo su politinio, ekonominio ir kultūrinio gyvenimo atsilikimu.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui, nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide­ lių turtų, nei ypatingo svorio.'
+  teiginys: 'Lietuvos miestiečių luomas, nepaisant privilegijų, neįgijo nei didelių turtų, nei ypatingo visuomeninio svorio.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Lietuvos miestiečių luomo istorijoje šit kas pastebima: pir­ ma, kad jis vėlavo, kaip ir bendra šalies civilizacijos raida, juk tai vyko tik XIV amžiuje.'
+  teiginys: 'Lietuvos miestiečių luomas susikūrė tik XIV amžiuje ir vėlavo panašiai kaip bendra šalies civilizacijos raida.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos miestiečių luomas susikūrė tik XIV amžiuje ir vėlavo panašiai kaip bendra šalies civilizacijos raida.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos miestiečių luomo istorijoje šit kas pastebima: pir­
@@ -56,6 +57,7 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
     - t-003
 
 - c-002
+  santrauka: 'Lietuvos miestiečių luomas, nepaisant privilegijų, neįgijo nei didelių turtų, nei ypatingo visuomeninio svorio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui,
@@ -75,6 +77,7 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
     - t-002
 
 - c-003
+  santrauka: 'M. Balinskis Lietuvos miestų ir miestiečių luomo vėlavimą siejo su politinio, ekonominio ir kultūrinio gyvenimo atsilikimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     M. Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­
@@ -101,3 +104,4 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/zodynas/miestiečių luomas]]

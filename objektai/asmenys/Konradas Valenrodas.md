@@ -29,28 +29,29 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­ do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­ ties narsa, o pirmiausia nesulaikomas potraukis į riterystę vėl subūrė iš visų Europos šalių gausius ir pajėgius kryžininkų pulkus.'
+  teiginys: 'Konrado Valenrodo šlovė ir narsa 1392 m. padėjo suburti gausius kryžininkų pulkus žygiui į Lietuvą.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: '22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv.'
+  teiginys: 'Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru ir mirė 1393 m. liepos 25 d.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: '39 Valenrodas didžiuoju magistru iš­ rinktas 1391 m. Verbų sekmadienį, tai yra kovo 12-ą, o mirė 1393 metų liepos 25-ą.'
+  teiginys: 'Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir maršalo Konrado Valen­ rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­ kų pilį.'
+  teiginys: 'Konrado Valenrodo vadovaujama kryžiuočių kariauna kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konrado Valenrodo šlovė ir narsa 1392 m. padėjo suburti gausius kryžininkų pulkus žygiui į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniui bemat jos prirei­
@@ -82,6 +83,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - t-001
 
 - c-002
+  santrauka: 'Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvoj labai paplitęs pa­
@@ -104,6 +106,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - t-003
 
 - c-003
+  santrauka: 'Konrado Valenrodo vadovaujama kryžiuočių kariauna kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didelė kryžiuočių kariauna, vadovauja­
@@ -123,6 +126,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - t-004
 
 - c-004
+  santrauka: 'Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru ir mirė 1393 m. liepos 25 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabartinis

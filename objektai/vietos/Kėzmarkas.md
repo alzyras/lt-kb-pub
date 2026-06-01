@@ -32,7 +32,7 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
     - c-001
 
 - t-002
-  teiginys: 'Praėjus dvidešimt metų nuo Kėzmarko su­ važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į viešumą ir sujudinti visą Europą.'
+  teiginys: '1429 m., praėjus dvidešimt metų po Kėzmarko suvažiavimo, vėl iškilo Vytauto karūnos klausimas.'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
     - t-001
 
 - c-002
-  santrauka: 'Praėjus dvidešimt metų nuo Kėzmarko su­ važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į viešumą ir sujudinti visą Europą.'
+  santrauka: '1429 m., praėjus dvidešimt metų po Kėzmarko suvažiavimo, vėl iškilo Vytauto karūnos klausimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautui tada daug

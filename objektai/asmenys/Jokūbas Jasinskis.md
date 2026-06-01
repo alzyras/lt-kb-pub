@@ -133,6 +133,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   statusas: verified
   pagrindžia:
     - t-002
+    - t-006
 
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -151,23 +152,6 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   pagrindžia:
     - t-005
 
-- c-006
-  santrauka: 'Gindamas Varšuvą žuvo buvęs Lietuvos sukilėlių vadas Jokūbas Jasinskis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pragos priemiestyje kovojo 2-oji
-    Lietuvos kariuomenės kadrinė
-    divizija, pėsčioji Lietuvos gvar-
-    dija. Gindamas Varšuvą žuvo
-    buvęs Lietuvos sukilėlių vadas
-    Jokūbas Jasinskis. Varšuva kapituliavo lap-
-    kričio 5 d.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
@@ -181,4 +165,3 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
 - [[objektai/grupes/Lietuvos tautinė aukščiausioji taryba]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]

@@ -32,26 +32,11 @@ periodo_grupes:
 - t-002
   teiginys: 'Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas).'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
-    „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
-    mintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios
-    kultūros kalba. Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
-    Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
-    Poška, Silvestras Valiūnas). Įspūdį padarė 1818 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -70,10 +55,10 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/grupes/Mokslo bičiulių draugija]]

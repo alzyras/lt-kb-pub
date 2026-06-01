@@ -33,7 +33,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
     - c-002
 
 - t-002
-  teiginys: 'Pastarieji, gurguolei atvykus iki Žemu­ tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo, ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo kariais.'
+  teiginys: 'Vytautas mėgino užimti Žemutinę pilį, pasiųsdamas gurguolę su rogėse paslėptais ginkluotais žmonėmis.'
   pagrindžia:
     - c-003
 
@@ -87,6 +87,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
     - t-001
 
 - c-003
+  santrauka: 'Vytautas mėgino užimti Žemutinę pilį, pasiųsdamas gurguolę su rogėse paslėptais ginkluotais žmonėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -149,6 +150,5 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Mietas]]
 - [[objektai/asmenys/Sudimantas]]
-- [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]
 - [[objektai/zodynas/kolektyvizacija]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]

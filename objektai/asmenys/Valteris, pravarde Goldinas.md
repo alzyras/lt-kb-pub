@@ -32,13 +32,14 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubimą 1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias pėdas; jomis nusekė.'
+  teiginys: 'Valteris, pravarde Goldinas, 1296 m. prie Gardino pilies sekė pėdsakais, išžudė bėglius ir vėliau nudėjo sužeistą rusą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valteris, pravarde Goldinas, 1296 m. prie Gardino pilies sekė pėdsakais, išžudė bėglius ir vėliau nudėjo sužeistą rusą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     266 (259). Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
@@ -78,6 +79,5 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/zodynas/ginklanešiai]]
-- [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]
 - [[objektai/asmenys/Henrikas iš Vederės]]
 - [[objektai/asmenys/Zigfridas iš Rechbergo]]

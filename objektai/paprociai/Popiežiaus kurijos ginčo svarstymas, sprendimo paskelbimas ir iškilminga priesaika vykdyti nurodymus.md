@@ -48,13 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Apie jo priėmimą popiežiaus rūmuose pasakoja Vygandas M a r b u r g a s, p. 279; Adiit papam, u quo honorifice et amicabiliter suscep­ tus est [Atvyko pas popiežių, kurio buvo pagarbiai ir draugiškai priim­ tas].'
+  teiginys: 'Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po slapto jų pokal­
@@ -178,3 +179,4 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/konsistorija]]

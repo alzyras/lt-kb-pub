@@ -38,32 +38,14 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 ## Teiginiai
 
 - t-001
-  teiginys: 'Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi­ tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras († 1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394).'
+  teiginys: 'Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Ten Vytautas už­ valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
-    sodino iš pirmųjų vedybų savo sūnus. Jie visi buvo priėmę graikų
-    tikėjimą. Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi­
-    tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras (†
-    1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,
@@ -75,4 +57,4 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

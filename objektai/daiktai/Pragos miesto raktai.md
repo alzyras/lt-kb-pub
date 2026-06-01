@@ -64,6 +64,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]

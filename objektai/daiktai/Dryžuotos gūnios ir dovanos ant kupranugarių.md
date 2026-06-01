@@ -44,13 +44,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada Lietuvos sostinėje regėdavo kupranuga­ rius, dryžuotom gūniom apdangstytus, turtingomis dovano­ mis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas Vytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo totorių chanas Jedigėjus76.'
+  teiginys: 'Totorių chanas Jedigėjus Vytautui siųsdavo kupranugarius, apdengtus dryžuotomis gūniomis ir apkrautus dovanomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Totorių chanas Jedigėjus Vytautui siųsdavo kupranugarius, apdengtus dryžuotomis gūniomis ir apkrautus dovanomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto

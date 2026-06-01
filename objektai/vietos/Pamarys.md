@@ -27,7 +27,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada jie įsikūrė ir Pamaryje.'
+  teiginys: 'Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Su slavais išryškėjo karo ir prekybiniai santykiai. Apie VIII-IX

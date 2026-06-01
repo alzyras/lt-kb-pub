@@ -31,18 +31,19 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis p. 54), kelio iš Kaliningrado į Laduškiną pradžioje.'
+  teiginys: 'Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano, nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie čia atvyksta“.'
+  teiginys: 'Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
@@ -69,24 +70,7 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
     - t-002
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šis pabėgo  į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo
-    namų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų
-    antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl
-    savo įsitikinimų, ir dėl darbų.
-
-
-
-
-          102 (97).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
+  santrauka: 'Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
@@ -100,9 +84,11 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/asmenys/Noliubas]]
+- [[objektai/asmenys/Vargulis]]

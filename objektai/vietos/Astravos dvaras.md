@@ -30,17 +30,12 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
 - t-001
   teiginys: 'Astravos sutartis (1392 m.) Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Lydą.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: '1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.'
   pagrindžia:
     - c-001
-
-- t-003
-  teiginys: 'Vy­ tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi Trakų ir Lucko kunigaikščiais2S.'
-  pagrindžia:
-    - c-003
 
 - t-004
   teiginys: ') Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Lydą.'
@@ -61,6 +56,7 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -80,19 +76,6 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
     - t-004
 
 - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vy­
-    tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
-    duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
-    Trakų ir Lucko kunigaikščiais2S.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas — visos Lietuvos valdovas. Astravos**

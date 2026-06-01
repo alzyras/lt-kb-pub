@@ -29,25 +29,14 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: '1822 m. Vilniuje išėjo pirmasis jo poezijos tomelis, vėliau savo poezija A.'
+  teiginys: '1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau jo poezija pagarsėjo visoje Europoje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    vą. 1822 m. Vilniuje išėjo pirmasis jo poezijos tomelis, vėliau savo poezija
-    A. Mickevičius pagarsėjo visoje Europoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1822 m. Vilniuje išėjo pirmasis jo poezijos tomelis, vėliau savo poezija A.'
+  santrauka: '1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau jo poezija pagarsėjo visoje Europoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tarp
@@ -64,3 +53,4 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

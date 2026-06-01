@@ -46,18 +46,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada Aleksandras šalia prašmatniose rogėse sėdin­ čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi mišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į Šv.'
+  teiginys: 'Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­ tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­ sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, Mykolo Rusalkos ir.'
+  teiginys: '1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tada Aleksandras šalia prašmatniose rogėse sėdin­
@@ -78,6 +79,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia Maskvoje (1494 m.)
@@ -116,5 +118,8 @@ Nenurodyta
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Foma]]
+- [[objektai/asmenys/Vaitiekus Taboras]]
+- [[objektai/zodynas/bojarinai]]
 - [[objektai/asmenys/Mykolas Rusalka]]
 - [[objektai/asmenys/Simonas Rapolovskis]]

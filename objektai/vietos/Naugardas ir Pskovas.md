@@ -20,13 +20,14 @@ Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­ mo, kad aplanky
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­ mo, kad aplankytumėte Naugardą, Pskovą; visa tai jums leidome dėl busimosios naudos.'
+  teiginys: 'Naugardą ir Pskovą aplankyti vykusiems pasiuntiniams buvo leista pereiti sienas be tikrinimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Naugardą ir Pskovą aplankyti vykusiems pasiuntiniams buvo leista pereiti sienas be tikrinimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kadangi visos karalystės, iš kurių vieną mes valdome,

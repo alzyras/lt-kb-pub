@@ -24,13 +24,14 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sistema apima ilgio, storio, skysčių ir svorio matavimą.'
+  teiginys: 'Miera arba saikas citatoje apima storumo ir tekumo matavimus, o svoriui minimas svaras arba voga.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Miera arba saikas citatoje apima storumo ir tekumo matavimus, o svoriui minimas svaras arba voga.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Miera, ar saikas, storumo buvo: žiupsnis, rieškutės, gniūžtis^1137 , našta, klėbys, ašis^1138 , sauja, grįžtis, kepurė, rakandą, druskinė, dvolikis^1139 , sėtuvė, pūras, bačka, vežimas. Miera, arba saikas, tekumo^1140 buvo: lašas, tauragė^1141 , kaušas, krūžas^1142 ,^ kipis^1143 , milžtuvė, legerė^1144 , vogonas^1145 , verpelė^1146 , bačka, bosas ir taip toliau. Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^1150.
@@ -74,7 +75,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
 - [[objektai/asmenys/J. Aukštuolaitis]]
-- [[objektai/asmenys/Jazbutas]]
 - [[objektai/posakiai/Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k]]
 - [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]
 - [[objektai/asmenys/Johanas Pėteris Frankas]]
@@ -92,7 +92,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/asmenys/Konradas (Baigos kunigas)]]
 - [[objektai/asmenys/Konradas Valenrodas]]
 - [[objektai/asmenys/Kopčius]]
-- [[objektai/paprociai/Kovų vietų neliečiamumas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
@@ -211,6 +210,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/ivykiai/Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės)]]
 - [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]
 - [[objektai/asmenys/Stanislovas Kiška]]
+- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
 - [[objektai/posakiai/lydimojo rašto]]
 - [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]

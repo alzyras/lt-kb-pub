@@ -29,13 +29,14 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 462 D.— castrum Otholichiam, Jer.— burg [...] Otholich; Auktuolyčių pilis, Katavos (Katinavos) valsčiaus centras (HGAPW).'
+  teiginys: 'Auktuolyčių pilis buvo Katavos, arba Katinavos, valsčiaus centras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Auktuolyčių pilis buvo Katavos, arba Katinavos, valsčiaus centras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     462 D.— castrum Otholichiam, Jer.— burg [...] Otholich; Auktuolyčių pilis, Katavos

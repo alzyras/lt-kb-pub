@@ -47,7 +47,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - [[objektai/grupes/Rusai]]
 - [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]
 - [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
-- [[objektai/paprociai/Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma]]
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
 - [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]
 - [[objektai/posakiai/„lenkų suartinimo su rusais“]]

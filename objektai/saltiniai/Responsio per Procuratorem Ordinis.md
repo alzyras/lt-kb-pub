@@ -20,13 +20,14 @@ Ordinis apie tai plačiai pasa­ koja.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ordinis apie tai plačiai pasa­ koja.'
+  teiginys: '„Responsio per Procuratorem Ordinis“ pasakojo apie arkivyskupo Fridricho pasiuntinius pas lietuvių valdovą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Responsio per Procuratorem Ordinis“ pasakojo apie arkivyskupo Fridricho pasiuntinius pas lietuvių valdovą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     334.

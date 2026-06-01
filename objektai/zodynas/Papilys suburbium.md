@@ -26,18 +26,24 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '387); anot jos, Ragainės komtūras Fridri­ chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė jos užimti, o tik sudegino papilį.'
+  teiginys: '1317 metais Ragainės komtūras Fridrichas de Libencelė su 150 žmonių neįstengė užimti Gedimino pilies, bet sudegino jos papilį.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tho­ mas de Aldenburg Commendator de Raganita et 44 fratres cum 400 viris de Sambia et Nattangia improvise intra­ verunt in ortu diei suburbium Castri Gedemini, et incendio destruxerunt etc.'
+  teiginys: 'Ragainės komtūras Tomas Aldenburgas su 44 broliais ir 400 vyrų iš Sembos bei Natangos švintant sudegino Gedimino pilies papilį.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: '1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ragainės komtūras Tomas Aldenburgas su 44 broliais ir 400 vyrų iš Sembos bei Natangos švintant sudegino Gedimino pilies papilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai­
@@ -60,6 +66,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: '1317 metais Ragainės komtūras Fridrichas de Libencelė su 150 žmonių neįstengė užimti Gedimino pilies, bet sudegino jos papilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitai vyko viešpataujant Lie­
@@ -75,7 +82,7 @@ amziai:
     - t-001
 
 - c-003
-  santrauka: '387); anot jos, Ragainės komtūras Fridri­ chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė jos užimti, o tik sudegino papilį.'
+  santrauka: '1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
@@ -105,5 +112,7 @@ amziai:
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/papilys]]
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Fridrichas de Libencelė]]
 - [[objektai/asmenys/Tomas Aldenburgas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

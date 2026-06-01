@@ -29,27 +29,16 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
 - t-001
   teiginys: 'Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European politics. The Years of the First Republic, 1918–1940. New York, 1997.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Senn A. E. Lietuvos valstybės atkūrimas 1918–1920. Vilnius, 1992. Senn A. E. Bundanti Lietuva. Vilnius, 1992. Senn A. E. Gorbačiovo nesėkmė Lietuvoje, 1997.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
-    politics.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Senn A. E. Lietuvos valstybės atkūrimas 1918–1920. Vilnius, 1992.
@@ -61,7 +50,7 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European politics. The Years of the First Republic, 1918–1940. New York, 1997.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -72,3 +61,4 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001

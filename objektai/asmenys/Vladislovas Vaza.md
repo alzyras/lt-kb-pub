@@ -30,29 +30,29 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet Vladislovas Vaza jau buvo bendrai išrinktas.'
+  teiginys: 'Vladislovas Vaza buvo bendrai išrinktas lietuvių ir lenkų.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-002
   teiginys: 'Kiek mažiau jų buvo tik Vladislovo laikais, bet Jono Kazimiero laikais visa Lietuva buvo nuteriota Maskvos ir Švedų kariuomenių.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-003
   teiginys: 'Dalis Rusijos bojarinų naujuoju caru išrinko Zigmanto Vazos sūnų Vladislovą.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-004
   teiginys: 'Rugsėjį į frontą atvyko ir naujasis Abiejų Tautų Respublikos valdovas Vladislovas Vaza su 15 tūkst.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-005
   teiginys: '1626-1629 m. Lietuvos ir Lenkijos kariuomenėms teko patirti naujosios Švedijos kariuomenės jėgą vėl suintensyvėjusiame kare, po kurio, ATR valdovas Vladislovas Vaza 1632 m. ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas didinti ugnies galią.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
   teiginys: 'ATR valdovo Vladislovo Vazos vadovaujama jungtinė lietuvių ir lenkų kariuomenė po atkaklių susirėmimų nustūmė rusus nuo miesto, apsupo sumenkusias priešo pajėgas ir 1634 m. sausio 24 d. privertė kapituliuoti.'
@@ -67,12 +67,12 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 - t-008
   teiginys: 'Vladislovo Vazoslaikai (1632—1648 m.).'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-009
-  teiginys: 'Bet XVII amžiuje, kai, pradedant Vladislovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie atskiri Lietuvos seimai ėmė nykti.'
+  teiginys: 'Nuo Vladislovo Vazos lietuviai XVII a. ėmė rinkti karalius bendrai su lenkais, todėl atskiri Lietuvos seimai nyko.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -106,20 +106,9 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    b. Vladislovo Vazoslaikai (1632—1648 m.)
-    9. Vladislovo asmuo ir elekcija 315
-    10.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-008
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagrindinis tiek „vokiečių“
@@ -138,7 +127,8 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   pagrindžia:
     - t-005
 
-- c-005
+- c-004
+  santrauka: 'Nuo Vladislovo Vazos lietuviai XVII a. ėmė rinkti karalius bendrai su lenkais, todėl atskiri Lietuvos seimai nyko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip antai, po Zigmanto
@@ -154,7 +144,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   pagrindžia:
     - t-009
 
-- c-006
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Krašto nualinimas karo metu.** Beveik visas trijų Vazų val-
@@ -167,7 +157,8 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   pagrindžia:
     - t-002
 
-- c-007
+- c-006
+  santrauka: 'Vladislovas Vaza buvo bendrai išrinktas lietuvių ir lenkų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Stp. Batoro ir Zigmanto Vazos lietuviai iš pradžių
@@ -179,7 +170,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   pagrindžia:
     - t-001
 
-- c-008
+- c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1633 m. žiemą į pagalbą atskubėjo tuo-
@@ -194,7 +185,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   pagrindžia:
     - t-004
 
-- c-009
+- c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkų ka-
@@ -224,7 +215,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]

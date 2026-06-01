@@ -46,7 +46,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - c-001
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
+  teiginys: 'Prūsai abiejuose per Prieglių pastatyto tilto galuose įrengė tvirtus kuorus.'
   pagrindžia:
     - c-006
 
@@ -77,6 +77,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   statusas: verified
   pagrindžia:
     - t-004
+    - t-008
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -145,6 +146,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - t-003
 
 - c-006
+  santrauka: 'Prūsai abiejuose per Prieglių pastatyto tilto galuose įrengė tvirtus kuorus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
@@ -181,21 +183,6 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-008
-  santrauka: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    119 (114). Apie Bartenšteino pilies puolimą
-
-      Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai
-    įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris
-    apgulos mašinas, kuriomis puldinėjo pilį.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-008
 
 ## Ryšiai
 ### Susiję objektai

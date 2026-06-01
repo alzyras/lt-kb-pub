@@ -42,22 +42,22 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 - t-002
   teiginys: 'Mikalojus Radvila II savo lėšomis naujai pamūrijo bernardinų bažnyčią, vadintą Šv. Pranciškaus ir Bernardo vardu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl ji buvo iš naujo pamūryta dosniai prisidėjus Vilniaus vaivadai Mikalojui Radvilai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
-  teiginys: 'Dva­ sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.'
+  teiginys: 'Bernardinų bažnyčia Vilniuje buvo per nauja pamūryta, nes dėl menkų pamatų jai grėsė griūtis.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
-  teiginys: 'Mergelės Marijos Apsilankymo ok­ tavoje), bernardinų prašymu, prie vienuolyno esantį savo malūną įsa­ ko nugriauti, kadangi šis dėl drebė­ jimo malimo metu išjudino jau ir taip netvirtus bernardinų pastatų pamatus, o sklvpą, kuriame malū­ nas stovėjo.'
+  teiginys: '1500 m. karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną, ardžiusį pastatų pamatus.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -87,32 +87,9 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mergelės Marijos Apsilankymo ok­
-    tavoje), bernardinų prašymu, prie
-    vienuolyno esantį savo malūną įsa­
-    ko nugriauti, kadangi šis dėl drebė­
-    jimo malimo metu išjudino jau ir
-    taip netvirtus bernardinų pastatų
-    pamatus, o sklvpą, kuriame malū­
-    nas stovėjo, atiduoda vienuolynui.
-    Tais pačiais metais Mikalojus Rad­
-    vila II, Goniondzo ir Medilo kuni­
-    gaikštis, Vilniaus vaivada, sugriovus
-    tuos pastatus, savo lėšomis naujai
-    pamūrijo bernardinų bažnyčią, pa­
-    vadintą Šv. Pranciškaus ir Bernardo
-    vardu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aleksandras
@@ -128,7 +105,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
+  santrauka: 'Bernardinų bažnyčia Vilniuje buvo per nauja pamūryta, nes dėl menkų pamatų jai grėsė griūtis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dva­
@@ -145,7 +123,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
+  santrauka: '1500 m. karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną, ardžiusį pastatų pamatus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios dominikonų baž­

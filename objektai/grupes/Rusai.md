@@ -34,7 +34,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-001
   teiginys: 'Diegti „rusų pradus“ turėjo rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-002
   teiginys: 'Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko.'
@@ -47,9 +47,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-005
 
 - t-004
-  teiginys: 'Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­ nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­ se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­ sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo žmonių kokiu nors.'
+  teiginys: 'Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
   teiginys: 'Strėvos mūšio pradžioje Lietuvos kariai rusai šaudė į priešą iš lankų.'
@@ -57,7 +57,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-002
 
 - t-006
-  teiginys: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
+  teiginys: 'Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų, todėl ji buvo internacionalinė.'
   pagrindžia:
     - c-004
 
@@ -67,19 +67,19 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-001
 
 - t-008
-  teiginys: 'Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.'
+  teiginys: 'Rusai XVII-XVIII a. kelis kartus vertė Stryjkovskio kroniką ar jos dalis į rusų kalbą.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-009
   teiginys: 'Mūšyje, pirmiausia jo pradžioje, kaip pažymi kronikininkas Vygandas, lietuviai priešą atakavo svaidomosiomis ietimis, o Lietuvos kariai rusai šaudydami iš lankų.'
   pagrindžia:
-    - c-007
+    - c-002
 
 - t-010
   teiginys: 'Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.'
   pagrindžia:
-    - c-010
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -116,6 +116,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   statusas: verified
   pagrindžia:
     - t-005
+    - t-009
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -139,6 +140,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - t-002
 
 - c-004
+  santrauka: 'Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų, todėl ji buvo internacionalinė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Salzbachą su keliais tūkstančiais kariuomenės;
@@ -185,60 +187,10 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tarė­
-    jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
-    mums patiems, kadangi turime aukščiausią abiejų luomų
-    sienų tyrimo valdžią.
-    Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
-    nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
-    se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
-    sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo
-    žmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­
-    kėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų
-    ir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,
-    ir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,
-    kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar
-    totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­
-    žįstančių valdinių cesijos ar decesijos būdu, sudarydami
-    kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,
-    401
-
-    ## Puslapis 418
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    nostram profitentibus acquirunt, eadem onera sustineant, in
-    possessionibus acquisitis vėl acquirendis, quae sustinuerunt
-    ii, a quibus eas acquisiverunt, aut acquisituri sunt.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
-- c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšis
-    1348 m. vasario 2 d. kautynės ko gero
-    įvyko prie kelio Trakai-Strėvininkai-
-    Kaunas, matyt, ties Žiežmarių brasta.
-    Mūšyje, pirmiausia jo pradžioje, kaip pa-
-    žymi kronikininkas Vygandas, lietuviai
-    priešą atakavo svaidomosiomis ietimis, o
-    Lietuvos kariai rusai šaudydami iš lankų.
-    Daug ordino brolių žuvo, tarp jų Gdan-
-    sko komtūras, Sembos vyskupo teisėjas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-008
+- c-006
+  santrauka: 'Rusai XVII-XVIII a. kelis kartus vertė Stryjkovskio kroniką ar jos dalis į rusų kalbą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šio pokario metais Stryjkovskis ir jo kronika yra vėl sulaukę
@@ -252,7 +204,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   pagrindžia:
     - t-008
 
-- c-009
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuga-
@@ -271,7 +223,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   pagrindžia:
     - t-001
 
-- c-010
+- c-008
   santrauka: 'Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -452,7 +404,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
 - [[objektai/grupes/Rusijos kariuomenė]]
-- [[objektai/zodynas/Rusiškosios raidės]]
 - [[objektai/autoriai/Rusų ir ukrainiečių istorikai]]
 - [[objektai/grupes/Rusų istorikai]]
 - [[objektai/grupes/Rusų stačiatikių bažnyčia]]
@@ -513,7 +464,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]
 - [[objektai/zodynas/baudžiavinė epocha]]
 - [[objektai/zodynas/ekonomija]]
-- [[objektai/zodynas/etnocidas]]
 - [[objektai/zodynas/humanistinė istoriografija]]
 - [[objektai/zodynas/knygpalaikiai]]
 - [[objektai/zodynas/kondominiumas]]
@@ -608,7 +558,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]]
 - [[objektai/asmenys/Dlugošas]]
 - [[objektai/grupes/Dominikonų ordinas]]
-- [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/daiktai/Dvikalbiai elementoriai kirilika]]
 - [[objektai/asmenys/Edyga]]
 - [[objektai/asmenys/Elena]]
@@ -629,7 +578,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/grupes/Hanza]]
 - [[objektai/autoriai/Hartknoch Ch]]
 - [[objektai/autoriai/Henrikas]]
-- [[objektai/autoriai/Ibrahim ibn Jakūb]]
 - [[objektai/autoriai/Isaac Taylor]]
 - [[objektai/asmenys/Ivanas Jermoliničius]]
 - [[objektai/asmenys/Ivanas Rūstusis]]
@@ -647,7 +595,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/autoriai/K. Hartknochas]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
 - [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
-- [[objektai/autoriai/Karamzino]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/ivykiai/Karolio XII žygis į Rusiją ir Poltavos mūšis (1709 m.)]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
@@ -694,7 +641,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/grupes/Mongolai]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
-- [[objektai/asmenys/Mykolas Grigaravičius]]
 - [[objektai/autoriai/Mykolas Kleopas Oginskis]]
 - [[objektai/ivykiai/Mėlynųjų Vandenų mūšis]]
 - [[objektai/ivykiai/Napoleono kariuomenės žygis į Lietuvą (1812 m.)]]
@@ -830,5 +776,4 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/posakiai/„mylintis savo tėvynę... rusas yra internacionalistas...“]]
 - [[objektai/posakiai/„savaime visa Rusia turi priklausyti lietuviams“]]
 - [[objektai/posakiai/„suverenitetų parado“]]
-- [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Valakai]]

@@ -26,12 +26,12 @@ amziai:
 - t-001
   teiginys: '1776 m. Dalomosios Komisijos buvo panaikintos, o visi turtai pavesti Edukacinei Komisijai.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Lietuvoje ir Lenkijoje buvo sudarytos atskiros Dalomosios Komisijos turto dalybų darbui atlikti.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tiesiog vagia.'
@@ -46,7 +46,7 @@ amziai:
 - t-005
   teiginys: 'Šitam darbui atlikti Lietuvoje ir Lenkijoje buvo sudaryta po atskirą Dalomąją Komisiją.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -64,6 +64,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -84,21 +85,6 @@ amziai:
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tiek už išnuomotus dvarus, tiek
-    už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.
-    Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro
-    biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
-    siog vagia. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
-    turtai pavesti Edukacinei Komisijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
     Komisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir
     pinigų sunaudojimu. Visi buvusieji jėzuitų dvarai, seimo nu-
     tarimu, buvo išnuomoti
@@ -115,7 +101,7 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-005
+- c-004
   santrauka: 'Šitam darbui atlikti Lietuvoje ir Lenkijoje buvo sudaryta po atskirą Dalomąją Komisiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

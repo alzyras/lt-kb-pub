@@ -24,13 +24,14 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir.'
+  teiginys: 'Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Krymo totorių
@@ -57,5 +58,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Šach Achmedas]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]

@@ -28,13 +28,14 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­ žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio mas- 50 Petrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi­ minės.'
+  teiginys: 'Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trejybės prieglaudą ir ją geriau aprūpinti pave­
@@ -65,3 +66,4 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/kustodas]]

@@ -20,13 +20,14 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomis apskritimis atitektų, šventomis apei­ gomis, taip pat su papročiais ir ypač religija, išpažįstančia Augustino tikėjimą, leistume laisvai naudotis.'
+  teiginys: 'Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Et si autem ipsi quoq.
@@ -67,3 +68,4 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
 - [[objektai/asmenys/Augustinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Gotardas Ketleris]]

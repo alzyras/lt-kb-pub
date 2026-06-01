@@ -17,13 +17,14 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko birželio mėn.'
+  teiginys: 'Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červinską.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červinską.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dabar pažiūrėkime, kaip rinkosi

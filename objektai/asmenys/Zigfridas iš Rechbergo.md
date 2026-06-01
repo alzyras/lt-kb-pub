@@ -55,6 +55,5 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/zodynas/ginklanešiai]]
-- [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]
 - [[objektai/asmenys/Henrikas iš Vederės]]
 - [[objektai/asmenys/Valteris, pravarde Goldinas]]

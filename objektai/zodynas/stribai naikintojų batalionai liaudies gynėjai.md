@@ -26,35 +26,16 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
 - t-001
   teiginys: 'Nemažai stribų buvo abejotinos moralės asmenys, autoriteto jie neturėjo, greitai sumota būrių pavadinimą pakeisti iš „naikintojų“ į „liaudies gynėjų“.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    zanus. Nemažai stribų
-    buvo abejotinos moralės
-    asmenys, autoriteto jie
-    neturėjo, greitai sumota
-    būrių pavadinimą pa-
-    keisti iš „naikintojų“ į
-    „liaudies gynėjų“. Dislo-
-    kuoti visuose valsčiuo-
-    se jie saugojo sovietinį
-    aktyvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -74,7 +55,7 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Nemažai stribų buvo abejotinos moralės asmenys, autoriteto jie neturėjo, greitai sumota būrių pavadinimą pakeisti iš „naikintojų“ į „liaudies gynėjų“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -98,6 +79,7 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

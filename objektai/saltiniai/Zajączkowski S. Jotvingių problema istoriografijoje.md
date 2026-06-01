@@ -23,13 +23,14 @@ Dusburgietis teigia, kad zajączkowski S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad zajączkowski S.'
+  teiginys: 'S. Zajączkowskio straipsnis „Jotvingių problema istoriografijoje“ paskelbtas 1941 m. leidinio „Lietuvos praeitis“ 1 tomo 2 sąsiuvinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Zajączkowskio straipsnis „Jotvingių problema istoriografijoje“ paskelbtas 1941 m. leidinio „Lietuvos praeitis“ 1 tomo 2 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Zajączkowski S. Jotvingių problema istoriografijoje.— Lietuvos praeitis, V.—K., 1941,

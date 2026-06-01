@@ -18,13 +18,14 @@ Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72; Makarevičius A., Vilkijos..., p. 62).'
+  teiginys: 'A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau

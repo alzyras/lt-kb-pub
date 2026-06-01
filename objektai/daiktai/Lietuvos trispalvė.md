@@ -57,14 +57,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, V.'
+  teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-003
   teiginys: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-004
   teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus.'
@@ -133,6 +133,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -151,41 +152,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Per keletą mėnesių LPS pa-
-    siekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-
-    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
-    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
-    arkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
-    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
-    V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
-    ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
-    demonstracijas įsakus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Stiprėjo Lietuvos žaliųjų
-    judėjimas.
-    LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsi-
-    lankymas Lietuvoje rugpjūčio 11–12 dienomis. LKP vadovybei Aleksan-
-    dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –
-    partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, ofici-
-    aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
-    parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
-    leisti laikraštį ir nuolatinę televizijos laidą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Šaltiniai ir įrodymai
@@ -206,14 +172,5 @@ Nenurodyta
 - [[objektai/zodynas/de facto]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos žaliųjų judėjimas]]
-- [[objektai/asmenys/Aleksandras Jakovlevas]]
-- [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]
-- [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
-- [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/daiktai/Lėktuvai]]
-- [[objektai/autoriai/V. Kudirka]]
-- [[objektai/asmenys/Vincas Kudirka]]
-- [[objektai/posakiai/„inteligentija – liaudies savimonės išraiška“]]

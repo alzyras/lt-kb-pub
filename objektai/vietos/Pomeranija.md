@@ -37,12 +37,12 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     - c-003
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad vysla — tai upė, atitekanti nuo Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją bei Pomeraniją nuo Prūsijos186.'
+  teiginys: 'Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Kiek vėliau (1396) pats Vytautas padarė laisvos prekybos sutartis su Štetino (Pomeranijos) hercogu—Rygos ar­ kivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.'
+  teiginys: '1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino, Pomeranijos, hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.'
   pagrindžia:
     - c-001
 
@@ -54,6 +54,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino, Pomeranijos, hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai
@@ -105,6 +106,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     - t-002
 
 - c-004
+  santrauka: 'Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,

@@ -45,7 +45,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Bet Lietuvos krikščioninimas glaudžiai buvo susie­ tas ryšiais ir aktais bei privilegijomis naujai krikštytiems lietuvių bajorams, buvusiems pagonims, pradedant nuo pat Kriavo akto.'
+  teiginys: 'Lietuvos krikščioninimas nuo Krėvos akto buvo siejamas su privilegijomis naujai pakrikštytiems lietuvių bajorams, buvusiems pagonims.'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Bet Lietuvos krikščioninimas glaudžiai buvo susie­ tas ryšiais ir aktais bei privilegijomis naujai krikštytiems lietuvių bajorams, buvusiems pagonims, pradedant nuo pat Kriavo akto.'
+  santrauka: 'Lietuvos krikščioninimas nuo Krėvos akto buvo siejamas su privilegijomis naujai pakrikštytiems lietuvių bajorams, buvusiems pagonims.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nors nuo senelio Gedimino vis intensyviau buvo vedamos

@@ -20,13 +20,14 @@ Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuviųlenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­ rios ir platų frontą rėpiančios gynybos.'
+  teiginys: 'Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių ir lenkų kariuomenei ilgai priešintis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių ir lenkų kariuomenei ilgai priešintis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad neįsiveltų į neaiškios lemties

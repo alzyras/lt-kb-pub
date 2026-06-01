@@ -52,26 +52,6 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
     - t-002
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vis dėlto
-    dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,
-    taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir
-    patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei
-    išlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o
-    ją pačią, pakišę ugnį, ligi pamatu sudegino.
-
-
-
-
-            266 (259).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui, taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -86,3 +66,4 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001

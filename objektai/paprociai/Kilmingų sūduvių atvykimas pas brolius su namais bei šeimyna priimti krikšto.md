@@ -50,13 +50,14 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­ mą ir apie tai, kaip buvo apleista ši žemė Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus.'
+  teiginys: 'Kimenavos sūduvių vadas Gedetas su savo namais, šeimyna ir 1500 vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kimenavos sūduvių vadas Gedetas su savo namais, šeimyna ir 1500 vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
@@ -109,22 +110,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    207 (202). Apie vieno sūduvio atsivertimą ir nuostabų įvykį
-
-      Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
-    šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs,
-    dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo
-    šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį
-    pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-004
 
 ## Ryšiai
@@ -137,5 +122,4 @@ Nenurodyta
 - [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]
 - [[objektai/daiktai/Medinis kryžius]]
 - [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]
-- [[objektai/asmenys/Ruseinis]]
 - [[objektai/ivykiai/Skomanto pasitraukimas į Rusios žemę ir atsivertimas]]

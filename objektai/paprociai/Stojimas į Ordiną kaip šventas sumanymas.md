@@ -48,7 +48,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad kronikos idėjinė reikšmė ir mokslinė svarba Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės platinimu.'
   pagrindžia:
     - c-001
-    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -95,24 +94,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės
-    organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės
-    platinimu. Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“
-    (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
-    dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas  į
-    Ordiną — tai „šventas sumanymas“ (III,284).
-      Čia verta priminti, kad Vakarų Europos pasaulietiniai ir bažnytiniai feodalai, norėdami
-    praturtėti, užvaldyti nekrikščioniškas šalis, skelbė kryžiaus žygių idėjas: žemė su visais
-    turtais esanti dievo dovana, ja neteisėtai naudojasi krikščionybės priešai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

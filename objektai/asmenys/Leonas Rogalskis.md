@@ -27,7 +27,7 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas.'
+  teiginys: 'Leonas Rogalskis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
     - t-002
 
 - c-002
+  santrauka: 'Leonas Rogalskis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to,

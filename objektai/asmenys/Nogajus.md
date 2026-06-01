@@ -63,4 +63,3 @@ periodo_grupes:
 - [[objektai/asmenys/Mamšėjus]]
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
 - [[objektai/grupes/Mongolai]]
-- [[objektai/grupes/Haličo kunigaikščiai]]

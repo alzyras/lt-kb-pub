@@ -42,12 +42,12 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     - c-001
 
 - t-002
-  teiginys: 'Formulė siejama su rašto patikimumu ir antspaudu.'
+  teiginys: 'Posakiu „Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu“ pabrėžta, kad duotas žodis nebus atšauktas.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­ sų laiške Popiežiui uždėjome, tad pirma geležis į vašką, o vanduo į plieną pavirs, nei mes savo žodį sulaužysime ar atšauksime.'
+  teiginys: 'Posakiu „pirma geležis į vašką, o vanduo į plieną pavirs“ 1323 m. laiškuose teigta, kad duotas žodis nebus sulaužytas ar atšauktas.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     - t-002
 
 - c-002
+  santrauka: 'Posakiu „pirma geležis į vašką, o vanduo į plieną pavirs“ 1323 m. laiškuose teigta, kad duotas žodis nebus sulaužytas ar atšauktas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų

@@ -25,22 +25,22 @@ periodo_grupes: []
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vytautas savo ka­ riuomenę pats vedė, o lenkai visai neturėjo vadų.'
+  teiginys: 'Žalgirio mūšio metu Vytautas pats vedė savo kariuomenę, o visos sąjunginės kariuomenės vadovybė atiteko jam.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Lietuviai krikštijosi Vytauto D.'
+  teiginys: 'Lietuviai krikštijosi Vytauto Didžiojo ir Jogailos paraginti bei vykdydami jų įsakymus.'
   pagrindžia:
-    - c-028
+    - c-033
 
 - t-003
-  teiginys: 'Kochanovskis yra tos nuomonės, kad paskutine unija Vytautas nenorėjęs Lietuvos len­ kinti, bet ją civilizuoti^3 ).'
+  teiginys: 'Vytautas pasiuntiniams pareiškė, kad pats nesieks karūnos, bet atsiųstos karūnos neatmes.'
   pagrindžia:
     - c-014
 
 - t-004
-  teiginys: 'Rytai ginklų kovoje nugalėjo Vakarus, vadovaujant genialiam Vytautui, kuris neveltui vadi­ namas Didžiuoju.'
+  teiginys: '1410 m. liepos 15 d. Žalgirio mūšyje lietuvių ir lenkų jungtinės jėgos, vadovaujamos Vytauto, sutriuškino Kryžiuočių ordiną.'
   pagrindžia:
     - c-008
 
@@ -50,52 +50,52 @@ periodo_grupes: []
     - c-026
 
 - t-006
-  teiginys: 'Vadinasi, taip stipriai Vytautas buvo užatakavęs šiuos stepių gyventojus, kurie nuo Aukso Ordos įkūrimo laikų (1273) vargi­ no rusus duoklėmis ir baidė Europą^2 ).'
+  teiginys: 'Vytautas taip stipriai puolė Aukso Ordos stepių gyventojus, kad šaltinis tai sieja su jų grėsme rusams ir Europai.'
   pagrindžia:
     - c-025
 
 - t-007
   teiginys: 'Jogaila tuojau sudarė aštuonių žmonių karo tarybą, kuriai pirmininkas buvo Vytautas.'
   pagrindžia:
-    - c-034
+    - c-033
 
 - t-008
-  teiginys: 'Bet iš ki­ tos pusės, Vytautui teko gyventi ne vien pagoniško tikėjimo pa­ sauliožiūros rate.'
+  teiginys: 'Vytautas Trakuose ir Algirdo šeimoje Vilniuje susidurdavo su krikščionybės idėjomis per atvykstančius pasiuntinius, riterius ir vienuolius.'
   pagrindžia:
-    - c-035
+    - c-034
 
 - t-009
-  teiginys: '1392 metai Vytauto gyvenime yra persilaužimo metai — jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­ la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.'
+  teiginys: '1392 m. Vytautas galutinai atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti visą Lietuvą.'
   pagrindžia:
     - c-024
 
 - t-010
-  teiginys: 'Tuo būdu Vytautas gavo iš Jo­ gailos Lietuvą didž.'
+  teiginys: 'Vytautas iš Jogailos gavo Lietuvą valdyti didžiojo kunigaikščio teisėmis kaip lėną.'
   pagrindžia:
     - c-006
 
 - t-011
-  teiginys: 'Vytauto laikais čekų gra­ šiai buvo kalami ir Lietuvoje.'
+  teiginys: 'Vytauto laikais Lietuvoje buvo kalami čekų grašiai.'
   pagrindžia:
     - c-027
 
 - t-012
-  teiginys: 'Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­ talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą didelėms nelaimėms.'
+  teiginys: 'Po Vytauto mirties jo kūnas aštuonias dienas buvo viešai išstatytas, kad žmonės galėtų atsisveikinti su valdovu.'
   pagrindžia:
     - c-023
 
 - t-013
-  teiginys: 'Gudrūs Pskovo ir Naugardo pirkliai, pajutę Vytauto pyk­ tį, keletą kartų siuntė pas jį su dovanomis savo pasiuntinius, bet Vytautas nenorėjo klausyti jų taikių pasiūlymų ir atvirai rengėsi karui, kuris įvyko 1426 m. Tų metų vasarą, rugpiūčio mėn.'
+  teiginys: '1426 m. rugpjūtį Vytautas su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.'
   pagrindžia:
-    - c-032
+    - c-031
 
 - t-014
-  teiginys: 'Vytautas visą laiką, kai Jogaila tarėsi su pasiuntiniais, lakstė kariuome­ nės tarpe, darė tvarką.'
+  teiginys: 'Vytautas nuo pirmos krikšto dienos aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis.'
   pagrindžia:
     - c-022
 
 - t-015
-  teiginys: 'Šis pavojus ir turėjo būt aptartas suvažia­ vime, kurį paskyrė popiežius, o Vytautas sušaukė 1429 m. sau­ sio mėn.'
+  teiginys: 'Vytautas 1429 m. sausio 6 d. Lucke sušaukė popiežiaus paskirtą suvažiavimą pavojui aptarti.'
   pagrindžia:
     - c-012
 
@@ -105,7 +105,7 @@ periodo_grupes: []
     - c-016
 
 - t-017
-  teiginys: 'Taip iš tikrųjų būtų ir įvykę, jeigu šitiems Jogailos planams nebūtų stojęs skersai kelio Vytautas, kuris visai netikėtai, pa­ bėgęs iš Krėvės kalėjimo, atsidūrė pas Vokiečių Ordiną.'
+  teiginys: 'Pabėgęs iš Krėvės kalėjimo Vytautas atsidūrė pas Vokiečių ordiną, palenkė jį į savo pusę ir pradėjo karą su Jogaila.'
   pagrindžia:
     - c-005
 
@@ -115,17 +115,17 @@ periodo_grupes: []
     - c-002
 
 - t-019
-  teiginys: 'Kai šį sprendimą sužinojo Vytautas ir Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­ virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo girdėti.'
+  teiginys: 'Vytautas pasiuntė sekretorių Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą jo sprendimu.'
   pagrindžia:
     - c-011
 
 - t-020
-  teiginys: 'Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­ siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­ num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­ poldum).'
+  teiginys: 'Sužinojęs apie kryžiuočių pasiuntinį Lenčicoje, Vytautas ten pasiuntė Gedgaudą ir Rumbaudą su laišku Jogailai.'
   pagrindžia:
     - c-013
 
 - t-021
-  teiginys: 'Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­ da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą, norėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija.'
+  teiginys: 'Kėzmarke Vytautas atmetė Zigmanto siūlymą ardyti uniją, priimti karaliaus karūną ir siekti nepriklausomybės nuo Jogailos bei Lenkijos.'
   pagrindžia:
     - c-007
 
@@ -135,14 +135,14 @@ periodo_grupes: []
     - c-015
 
 - t-023
-  teiginys: 'Kuo būdu stengtasi išlyginti nesusipratimas, apie tai liudija ir Vytauto titulas: „ex parte Regni Poloniae supremi du­ cis Lituaniae“, kokį duoda Vytautui anas raštas iš 1398 m. pa­ baigos.'
+  teiginys: '1398 m. pabaigos kompromisu Vytautui buvo pripažinta nuo Lenkijos priklausanti didžiojo kunigaikščio valdžia.'
   pagrindžia:
     - c-019
 
 - t-024
-  teiginys: 'Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­ bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert de Lannoy, buvo siuntinėjami totorių kalba raštai.'
+  teiginys: 'Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas.'
   pagrindžia:
-    - c-033
+    - c-032
 
 - t-025
   teiginys: 'Vytauto bajorai irgi dalyvavo kovose, kaip antai, kun. Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims.'
@@ -150,39 +150,49 @@ periodo_grupes: []
     - c-010
 
 - t-026
-  teiginys: 'Tuojau iš čia Vytautas nurašė Jogailai laišką, su pasipiktinimu pabrėždamas, kaip jį skaudžiai jis įžeidė, pasisakęs nenorįs todėl palaikyti jo karūnacijos, kad Lie­ tuvos bajorai ir gyventojai neturi teisės laisvai išsirinkti valdo­ vo be Lenkijos baronų.'
+  teiginys: 'Vytautas laiške Jogailai piktinosi teiginiu, kad Lietuvos bajorai ir gyventojai be Lenkijos baronų negali laisvai rinkti valdovo.'
   pagrindžia:
-    - c-029
+    - c-028
 
 - t-027
-  teiginys: 'Taigi didysis Lietuvos kunigaikš­ tis buvo didžiausias visoje valstybėje žemvaldys ir turėjo pla­ čiausių teisių žemės valdymo srityje.'
+  teiginys: 'Pradėjęs valdyti Lietuvą Vytautas Didysis paveldėjo didžiajam kunigaikščiui priklausančias žemes ir dvarus.'
   pagrindžia:
     - c-017
 
 - t-028
-  teiginys: 'Sužinojęs iš savo pasiuntinio apie suvažiavimo pa­ sekmes Vytautas įsitikino, kad geruoju su Lenkija nesusitars, Vytautas dabar laukė karūnos, kaip ženklo, kuris turi išgelbėti valstybę^3 ) ir jos laisvę^4 ).'
-  pagrindžia:
-    - c-031
-
-- t-029
-  teiginys: 'Žodžiu šios kontri­ bucijos ir, bendrai, mokesčiai bei duoklės didino Vytauto iždą.'
+  teiginys: 'Sužinojęs suvažiavimo pasekmes Vytautas įsitikino, kad geruoju su Lenkija nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.'
   pagrindžia:
     - c-030
 
+- t-029
+  teiginys: 'Kontribucijos, mokesčiai ir duoklės didino Vytauto iždą.'
+  pagrindžia:
+    - c-029
+
 - t-030
-  teiginys: 'Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­ čio kovos metu su Jogaila.'
+  teiginys: 'Vytauto istoriškai reikšminga veikla prasidėjo Kęstučio kovos su Jogaila metu.'
   pagrindžia:
     - c-020
 
 - t-031
-  teiginys: 'Vytautas ir Jogaila, nelaukdami Ordino užpuo­ limo, 1422 m. liepos mėn.'
+  teiginys: '1422 m. liepos pabaigoje Vytautas ir Jogaila, nelaukdami Ordino užpuolimo, išžygiavo prieš Ordiną Žalgirio mūšio keliu.'
   pagrindžia:
     - c-018
 
 - t-032
-  teiginys: 'Daugiau Jogaila Lie­ tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos didikai.'
+  teiginys: 'Vytautas ir Lietuvos didikai statė Lietuvoje bažnyčias po to, kai Jogaila daugiau jų nebestatė.'
   pagrindžia:
     - c-021
+
+- t-034
+  teiginys: 'Kol Jogaila tarėsi su pasiuntiniais, Vytautas tvarkė kariuomenę, judėdamas tarp lenkų ir lietuvių pajėgų.'
+  pagrindžia:
+    - c-004
+
+- t-035
+  teiginys: 'Kochanovskio nuomone, paskutine unija Vytautas siekė ne lenkinti Lietuvą, o ją civilizuoti.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -222,6 +232,7 @@ periodo_grupes: []
     - t-018
 
 - c-003
+  santrauka: 'Žalgirio mūšio metu Vytautas pats vedė savo kariuomenę, o visos sąjunginės kariuomenės vadovybė atiteko jam.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas savo ka­
@@ -239,7 +250,7 @@ periodo_grupes: []
     - t-001
 
 - c-004
-  santrauka: 'Vytautas visą laiką, kai Jogaila tarėsi su pasiuntiniais, lakstė kariuome­ nės tarpe, darė tvarką.'
+  santrauka: 'Kol Jogaila tarėsi su pasiuntiniais, Vytautas tvarkė kariuomenę, judėdamas tarp lenkų ir lietuvių pajėgų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas
@@ -255,6 +266,7 @@ periodo_grupes: []
     - t-034
 
 - c-005
+  santrauka: 'Pabėgęs iš Krėvės kalėjimo Vytautas atsidūrė pas Vokiečių ordiną, palenkė jį į savo pusę ir pradėjo karą su Jogaila.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip iš tikrųjų būtų ir įvykę, jeigu šitiems Jogailos planams
@@ -273,6 +285,7 @@ periodo_grupes: []
     - t-017
 
 - c-006
+  santrauka: 'Vytautas iš Jogailos gavo Lietuvą valdyti didžiojo kunigaikščio teisėmis kaip lėną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai gryni vasalystės pažadai. Tuo būdu Vytautas gavo iš Jo­
@@ -285,6 +298,7 @@ periodo_grupes: []
     - t-010
 
 - c-007
+  santrauka: 'Kėzmarke Vytautas atmetė Zigmanto siūlymą ardyti uniją, priimti karaliaus karūną ir siekti nepriklausomybės nuo Jogailos bei Lenkijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
@@ -305,6 +319,7 @@ periodo_grupes: []
     - t-021
 
 - c-008
+  santrauka: '1410 m. liepos 15 d. Žalgirio mūšyje lietuvių ir lenkų jungtinės jėgos, vadovaujamos Vytauto, sutriuškino Kryžiuočių ordiną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir tuo būdu prisiartino Vokiečių
@@ -323,7 +338,7 @@ periodo_grupes: []
     - t-004
 
 - c-009
-  santrauka: 'Kochanovskis yra tos nuomonės, kad paskutine unija Vytautas nenorėjęs Lietuvos len­ kinti, bet ją civilizuoti^3 ).'
+  santrauka: 'Kochanovskio nuomone, paskutine unija Vytautas siekė ne lenkinti Lietuvą, o ją civilizuoti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
@@ -364,6 +379,7 @@ periodo_grupes: []
     - t-025
 
 - c-011
+  santrauka: 'Vytautas pasiuntė sekretorių Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą jo sprendimu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai šį sprendimą sužinojo Vytautas ir
@@ -381,6 +397,7 @@ periodo_grupes: []
     - t-019
 
 - c-012
+  santrauka: 'Vytautas 1429 m. sausio 6 d. Lucke sušaukė popiežiaus paskirtą suvažiavimą pavojui aptarti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šis pavojus ir turėjo būt aptartas suvažia­
@@ -395,6 +412,7 @@ periodo_grupes: []
     - t-015
 
 - c-013
+  santrauka: 'Sužinojęs apie kryžiuočių pasiuntinį Lenčicoje, Vytautas ten pasiuntė Gedgaudą ir Rumbaudą su laišku Jogailai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai sužinojo, kad kryžiuočių
@@ -410,6 +428,7 @@ periodo_grupes: []
     - t-020
 
 - c-014
+  santrauka: 'Vytautas pasiuntiniams pareiškė, kad pats nesieks karūnos, bet atsiųstos karūnos neatmes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nežiūrint visų nesusipratimų su lenkais, Vytautas ir dabar
@@ -452,6 +471,7 @@ periodo_grupes: []
     - t-016
 
 - c-017
+  santrauka: 'Pradėjęs valdyti Lietuvą Vytautas Didysis paveldėjo didžiajam kunigaikščiui priklausančias žemes ir dvarus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Visi kiti žemvaldžiai priklausė nuo di­
@@ -468,6 +488,7 @@ periodo_grupes: []
     - t-027
 
 - c-018
+  santrauka: '1422 m. liepos pabaigoje Vytautas ir Jogaila, nelaukdami Ordino užpuolimo, išžygiavo prieš Ordiną Žalgirio mūšio keliu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­
@@ -485,6 +506,7 @@ periodo_grupes: []
     - t-031
 
 - c-019
+  santrauka: '1398 m. pabaigos kompromisu Vytautui buvo pripažinta nuo Lenkijos priklausanti didžiojo kunigaikščio valdžia.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Apie tai galima spręsti iš to, kad Jogaila, kartu su
@@ -505,6 +527,7 @@ periodo_grupes: []
     - t-023
 
 - c-020
+  santrauka: 'Vytauto istoriškai reikšminga veikla prasidėjo Kęstučio kovos su Jogaila metu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­
@@ -521,6 +544,7 @@ periodo_grupes: []
     - t-030
 
 - c-021
+  santrauka: 'Vytautas ir Lietuvos didikai statė Lietuvoje bažnyčias po to, kai Jogaila daugiau jų nebestatė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Daugiau Jogaila Lie­
@@ -539,6 +563,7 @@ periodo_grupes: []
     - t-032
 
 - c-022
+  santrauka: 'Vytautas nuo pirmos krikšto dienos aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas nuo pat pirmos krikšto dienos aktyviai daly­
@@ -555,6 +580,7 @@ periodo_grupes: []
     - t-014
 
 - c-023
+  santrauka: 'Po Vytauto mirties jo kūnas aštuonias dienas buvo viešai išstatytas, kad žmonės galėtų atsisveikinti su valdovu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jei jis negerai suprantąs tą tiesą, prašo pamo­
@@ -572,6 +598,7 @@ periodo_grupes: []
     - t-012
 
 - c-024
+  santrauka: '1392 m. Vytautas galutinai atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti visą Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1392 metai Vytauto gyvenime yra persilaužimo metai —
@@ -587,6 +614,7 @@ periodo_grupes: []
     - t-009
 
 - c-025
+  santrauka: 'Vytautas taip stipriai puolė Aukso Ordos stepių gyventojus, kad šaltinis tai sieja su jų grėsme rusams ir Europai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vadinasi, taip stipriai Vytautas buvo užatakavęs šiuos stepių
@@ -622,6 +650,7 @@ periodo_grupes: []
     - t-005
 
 - c-027
+  santrauka: 'Vytauto laikais Lietuvoje buvo kalami čekų grašiai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip
@@ -638,21 +667,7 @@ periodo_grupes: []
     - t-011
 
 - c-028
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Eu­
-    ropai. Per menkos buvo dovanos, kad būtų vertusios veidmai­
-    niauti kad ir pagoniško tikėjimo lietuvį. Lietuviai krikštijosi
-    Vytauto D. ir Jogailos paraginti ir pasiduodami jų įsakymams,
-    nes buvo išleistas raštas, skelbiąs katalikybę Lietuvoje viešpa­
-    taujančiu tikėjimu ir įsakąs visiems jį priimti^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-029
+  santrauka: 'Vytautas laiške Jogailai piktinosi teiginiu, kad Lietuvos bajorai ir gyventojai be Lenkijos baronų negali laisvai rinkti valdovo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Juk
@@ -670,7 +685,8 @@ periodo_grupes: []
   pagrindžia:
     - t-026
 
-- c-030
+- c-029
+  santrauka: 'Kontribucijos, mokesčiai ir duoklės didino Vytauto iždą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kontribucijos ir bausmės bu­
@@ -686,7 +702,8 @@ periodo_grupes: []
   pagrindžia:
     - t-029
 
-- c-031
+- c-030
+  santrauka: 'Sužinojęs suvažiavimo pasekmes Vytautas įsitikino, kad geruoju su Lenkija nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet ir tada nebuvo iš­
@@ -704,7 +721,8 @@ periodo_grupes: []
   pagrindžia:
     - t-028
 
-- c-032
+- c-031
+  santrauka: '1426 m. rugpjūtį Vytautas su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi šiam
@@ -724,7 +742,8 @@ periodo_grupes: []
   pagrindžia:
     - t-013
 
-- c-033
+- c-032
+  santrauka: 'Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Mokėjo ne tik vokiečių, bet ir lotynų kalbą. Galėjo mokėt
@@ -739,7 +758,7 @@ periodo_grupes: []
   pagrindžia:
     - t-024
 
-- c-034
+- c-033
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Per menkos buvo dovanos, kad būtų vertusios veidmai­
@@ -753,8 +772,10 @@ periodo_grupes: []
   statusas: verified
   pagrindžia:
     - t-007
+    - t-002
 
-- c-035
+- c-034
+  santrauka: 'Vytautas Trakuose ir Algirdo šeimoje Vilniuje susidurdavo su krikščionybės idėjomis per atvykstančius pasiuntinius, riterius ir vienuolius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl ji savo grynai lietuviškomis tradicijomis
@@ -791,7 +812,6 @@ periodo_grupes: []
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
@@ -810,7 +830,12 @@ periodo_grupes: []
 - [[objektai/posakiai/Kai aš atvykau pas didįjį kunigaikštį]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
+- [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/zodynas/kompromisas]]
+- [[objektai/zodynas/lenkinti]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
 - [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/posakiai/Mirė tikrai mūsų tautos garbė|Mirė tikrai mūsų tautos garbė.]]
 - [[objektai/zodynas/grašis]]

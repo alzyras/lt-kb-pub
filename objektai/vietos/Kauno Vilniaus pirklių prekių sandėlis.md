@@ -26,13 +26,14 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.'
+  teiginys: 'Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau

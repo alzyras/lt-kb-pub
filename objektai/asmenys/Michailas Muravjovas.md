@@ -30,12 +30,12 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - t-001
   teiginys: 'Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis draudimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m. pavasario.'
   pagrindžia:
-    - c-003
+    - c-006
 
 - t-002
   teiginys: 'Muravjovo Koriko laikais XIX a.'
   pagrindžia:
-    - c-003
+    - c-006
 
 - t-003
   teiginys: 'Muravjovui nurodoma, kad 128 sukilėliai nuteisti mirties bausme.'
@@ -45,22 +45,22 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - t-004
   teiginys: 'M. Muravjovo laikai XIX a. siejami su Koriko pravarde.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-005
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-006
   teiginys: 'Naujasis generalgubernatorius Michailas Muravjovas, pramintas „Koriku“, siekdamas įbauginti Lietuvos gyventojus, įsakė karti sukilėlius.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-007
   teiginys: 'M. Muravjovas ėmėsi rusinimo politikos ir į pagalbą pasikvietė Ivaną Kornilovą, paskirtą Vilniaus švietimo apygardos globėju.'
   pagrindžia:
-    - c-003
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -76,6 +76,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -97,19 +98,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    elgtasi brutaliau nei su kitomis religijomis. Paradoksalu, tačiau stalinizmo
-    metais kunigų Lietuvoje nukentėjo du kartus daugiau nei M. Muravjovo
-    Koriko laikais XIX a. Visi kunigai sekami, registruojama, kas pas kunigą
-    užeina, pamokslai aprašomi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Iš to gimė sumanymas pakeisti lietuvių raštijoje tradicinį
     lotyniškąjį raidyną rusišku raidynu, arba kirilika. 1864 m. M. Muravjovo
     nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis drau-
@@ -121,7 +109,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   pagrindžia:
     - t-002
 
-- c-005
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Egzekucijos buvo įvykdytos B. Kolyškai,
@@ -139,7 +127,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   pagrindžia:
     - t-006
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
@@ -163,7 +151,5 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - [[objektai/zodynas/egzekucija]]
 - [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/rusinimas]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]
-- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

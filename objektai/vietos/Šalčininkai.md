@@ -23,13 +23,14 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Išti­ sus 1382-uosius metus tęsėsi tarpusavio žudynės ir pade­ ginėjimai, o kryžiuočiai, niokodami viską pakeliui, jau net Šalčininkus ir Trakus buvo pasiekę.'
+  teiginys: '1382 m. kryžiuočiai, niokodami kraštą, buvo pasiekę Šalčininkus ir Trakus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1382 m. kryžiuočiai, niokodami kraštą, buvo pasiekę Šalčininkus ir Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gavęs pa­

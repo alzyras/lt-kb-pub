@@ -25,13 +25,14 @@ Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas nar
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami, jie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius, subėgusius į kaimą, kitados vadinamą Kalija, o dabar —.'
+  teiginys: 'Sklunija buvo kaimas, anksčiau vadintas Kalija, į kurį subėgusius priešus maldininkai įveikė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sklunija buvo kaimas, anksčiau vadintas Kalija, į kurį subėgusius priešus maldininkai įveikė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl maldininkai pasiruošė

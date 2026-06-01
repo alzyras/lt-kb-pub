@@ -36,13 +36,14 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
     - c-003
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad 412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100), kitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A.'
+  teiginys: 'Naujoji didžiojo magistro kronika patikslina, kad minima pilis buvo Cenauwe.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Naujoji didžiojo magistro kronika patikslina, kad minima pilis buvo Cenauwe.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100),

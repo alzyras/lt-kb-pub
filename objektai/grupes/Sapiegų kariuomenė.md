@@ -30,7 +30,7 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
 - t-003
   teiginys: 'Sapiegų kariuomenės dalies gynyba sutrukdė respublikonams persekioti besitraukiančius Sapiegų giminės senjorus.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -58,6 +58,7 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -77,31 +78,6 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po kurio laiko
-    M. P. Sapiega, gavęs iš Višnioveckių
-    saugumo garantijas, pasidavė kartu
-    su visa likusia kariuomene respubli-
-    konams. Šios Sapiegų kariuomenės
-    dalies gynyba neleido respubliko-
-    nams organizuoti besitraukiančių
-    Sapiegų giminės senjorų persekio-
-    jimą. Etmonas, iždininkas ir marša-
-    las vakare pasiekė Vilnių, iš visų savo
-    rūmų suvežė svarbiausias vertybes į
-    dominikonų vienuolyną, kuriame ir
-    pernakvojo, o ryte, paskleidę gandą,
-    kad vyksta į Drują bei Bychovo tvir-
-    tovę, iš tikrųjų suskubo trauktis į
-    Kuršą - į Bauskę ir Mintaują.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

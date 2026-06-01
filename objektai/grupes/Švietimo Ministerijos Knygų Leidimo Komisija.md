@@ -24,41 +24,13 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'ŠVIETIMO MINISTERIJOS KNYGŲ LEIDIMO KOMISIJOS LEIDINYS KAUNAS 1936 M.'
-  pagrindžia:
-    - c-002
-    - c-001
-
-- t-002
   teiginys: 'Ministerijos Knygų Leidimo Komisijai už vadovėlio išleidimą.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1925. Švietimo Min. knygų leidimo komisijos leidinys.
-    Soch.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1925. Švietimo Min. knygų leidimo komisijos leidinys.
-    Soch.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Švietimo Ministeriui prof. J. Tonkūnui ir Vi-
@@ -70,7 +42,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

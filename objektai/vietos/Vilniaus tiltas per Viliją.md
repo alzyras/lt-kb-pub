@@ -20,7 +20,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
+  teiginys: 'Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.'
   pagrindžia:
     - c-001
 
@@ -30,13 +30,14 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     - c-003
 
 - t-003
-  teiginys: 'O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.'
+  teiginys: 'Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu
@@ -82,6 +83,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     - t-001
 
 - c-002
+  santrauka: 'Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tie, kuriuos minėtas garbingasis Jonas Hozijus

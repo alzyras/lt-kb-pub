@@ -48,7 +48,7 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
     - c-001
 
 - t-002
-  teiginys: 'Dusburgiečio pasakojimu, grįžtant nuo šio žygio kova su pilėnais atsinaujino ir pareikalavo nuostolių abiejose pusėse.'
+  teiginys: 'Kunonas, Brandenburgo komtūras, užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius.'
   pagrindžia:
     - c-002
 

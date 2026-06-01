@@ -42,22 +42,11 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
 - t-002
   teiginys: 'Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo amunicijos, provianto ir kitų reikmenų vežimais, palikdama tik kelis praėjimus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Venecijos pasiuntinio Girolamo Lippomano (1575 m.) Lenkijos ir Lietuvos
-    kariuomenių stovyklos aprašymo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žinoma, šie, bent jau žuvusių skai-
@@ -81,3 +70,4 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

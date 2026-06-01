@@ -20,12 +20,12 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­ jekto - minėtos prieglaudos prie brolių pamokslininkų [dominikonų} vienuolyno.'
+  teiginys: 'Ulrikas Hozijus pradėjo mūryti prieglaudą prie dominikonų vienuolyno, bet mirė jos nebaigęs.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
+  teiginys: 'Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir prieglaudos provizoriumi, turėjusiu rinkti tilto muitą jos statybai.'
   pagrindžia:
     - c-006
 
@@ -45,7 +45,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-003
 
 - t-006
-  teiginys: 'Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų.'
+  teiginys: 'Valdovo tarėjams buvo pavesta atnaujinti Ulriko Hozijaus pradėtą Šv. Dvasios prieglaudą ir apžiūrėti, kaip ją būtų galima pabaigti.'
   pagrindžia:
     - c-004
 
@@ -68,6 +68,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - t-003
 
 - c-002
+  santrauka: 'Ulrikas Hozijus pradėjo mūryti prieglaudą prie dominikonų vienuolyno, bet mirė jos nebaigęs.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis garbingasis Ulrikas Hozijus,
@@ -123,6 +124,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - t-005
 
 - c-004
+  santrauka: 'Valdovo tarėjams buvo pavesta atnaujinti Ulriko Hozijaus pradėtą Šv. Dvasios prieglaudą ir apžiūrėti, kaip ją būtų galima pabaigti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad norėdami tokį mūsų va­
@@ -167,6 +169,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - t-004
 
 - c-006
+  santrauka: 'Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir prieglaudos provizoriumi, turėjusiu rinkti tilto muitą jos statybai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat

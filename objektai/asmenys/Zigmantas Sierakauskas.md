@@ -35,7 +35,7 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     - c-002
 
 - t-004
-  teiginys: 'Sierakauskas, po dviejų valandų kovos pasipriešinimas ėmė silpti.'
+  teiginys: 'Sukilėlių vadas Zigmantas Sierakauskas buvo sužeistas, o po dviejų valandų kovos pasipriešinimas ėmė silpti.'
   pagrindžia:
     - c-004
 
@@ -105,6 +105,7 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     - t-005
 
 - c-004
+  santrauka: 'Sukilėlių vadas Zigmantas Sierakauskas buvo sužeistas, o po dviejų valandų kovos pasipriešinimas ėmė silpti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     (G) Buvo sužeistas sukilėlių vadas
@@ -162,7 +163,7 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]

@@ -51,4 +51,3 @@ Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už j
 ### Susiję objektai
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
-- [[objektai/ivykiai/Ketvirtosios atskalūnybės sąmokslas]]

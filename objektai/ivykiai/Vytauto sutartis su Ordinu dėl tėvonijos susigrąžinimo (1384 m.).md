@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 1384 metais buvo sudaryta sutartis, ku­ ria Ordinas prisiekė atgauti Vytau­ tui iš jo atimtą tėvoniją, o Vytautas tuo atveju, jeigu neturėtų įpėdinių, savo paveldėjimo teises į valstybę.'
+  teiginys: '1384 m. Ordinas sutartimi prisiekė atgauti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių savo paveldėjimo teises būtų perleidęs kryžiuočiams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1384 m. Ordinas sutartimi prisiekė atgauti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių savo paveldėjimo teises būtų perleidęs kryžiuočiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuolatinių karų ir grobi­
@@ -78,4 +79,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Tėvonija paveldas paveldėjimo teisės]]

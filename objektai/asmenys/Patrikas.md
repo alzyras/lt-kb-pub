@@ -73,5 +73,5 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Narimantas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Simonas Lengvenis]]

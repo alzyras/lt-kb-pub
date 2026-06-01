@@ -32,13 +32,14 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
     - c-002
 
 - t-002
-  teiginys: 'L I E T U V O S I S T O R I J A 36 Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
+  teiginys: 'Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims kvietė į Lietuvą pirklius bei amatininkus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims kvietė į Lietuvą pirklius bei amatininkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grossmacht), o nuo jos iki imperijos – jau tik žingsnis.

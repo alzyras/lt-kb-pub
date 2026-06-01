@@ -26,13 +26,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '68 Petras Timofiejevas Mstislavliškis, iš Maskvos atvykęs spaustuvininkas, padedamas ir proteguojamas Alek­ sandro Chodkevičiaus sūnaus Jurgio, 1575 metais Vilniuje pas Kuzmą ir Luką Mamoničius, Jono Semena vičiaus Zažeckio, iždininko, Upytės se­ niūno ir jo.'
+  teiginys: '1575 m. Vilniuje Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino leidinį „Cztėry Ewangelje“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1575 m. Vilniuje Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino leidinį „Cztėry Ewangelje“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Parašai: Vice-

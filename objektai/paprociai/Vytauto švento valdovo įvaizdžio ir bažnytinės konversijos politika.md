@@ -47,13 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu priežastis – Žemaitija.'
+  teiginys: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu priežastis liko Žemaitija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu priežastis liko Žemaitija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu

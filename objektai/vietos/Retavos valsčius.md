@@ -35,7 +35,7 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad 460 D.— territorium Rethowi, Jer — gebît Rethow; Retavos valsčius Nadruvoje (plg.'
+  teiginys: 'Retavos valsčius buvo Nadruvoje, o tyrėjai jį bandė lokalizuoti keliose skirtingose vietose.'
   pagrindžia:
     - c-003
 
@@ -75,6 +75,7 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
     - t-001
 
 - c-003
+  santrauka: 'Retavos valsčius buvo Nadruvoje, o tyrėjai jį bandė lokalizuoti keliose skirtingose vietose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     460 D.— territorium Rethowi, Jer — gebît Rethow; Retavos valsčius Nadruvoje (plg.

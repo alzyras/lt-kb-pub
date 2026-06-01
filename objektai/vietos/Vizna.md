@@ -26,7 +26,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­ na Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis, ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą, ne.'
+  teiginys: '1294 metais magistras Meinhardas užėmė Mazovijos kunigaikščio Boleslovo pilį Viznoje ir ją iš pamatų sugriovė.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
     - t-002
 
 - c-002
+  santrauka: '1294 metais magistras Meinhardas užėmė Mazovijos kunigaikščio Boleslovo pilį Viznoje ir ją iš pamatų sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­

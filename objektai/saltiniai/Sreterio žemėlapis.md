@@ -24,13 +24,14 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.'
+  teiginys: 'XVIII–XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XVIII–XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.

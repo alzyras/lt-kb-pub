@@ -25,13 +25,14 @@ Dusburgietis teigia, kad pierson W.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pierson W.'
+  teiginys: 'W. Piersono straipsnis „Über die Nationalität und Sprache der alten Preussen“ paskelbtas Berlyne 1873 m., p. 1–20.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'W. Piersono straipsnis „Über die Nationalität und Sprache der alten Preussen“ paskelbtas Berlyne 1873 m., p. 1–20.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pierson W. über die Nationalität und Sprache der alten Preussen —Jahresbericht über

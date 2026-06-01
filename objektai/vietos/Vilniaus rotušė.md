@@ -25,13 +25,14 @@ Taip pat, kad miesto gyventojai savo reikmėms galėtų lengviau pasisamdyti pa�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat, kad miesto gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­ dienius darbininkus, visiems padienininkams nuo tol nu­ rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­ vyzdžiu.'
+  teiginys: '1547 m. Vilniuje padieniams darbininkams nurodyta rinktis prie rotušės, kad miestiečiai galėtų lengviau juos pasisamdyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1547 m. Vilniuje padieniams darbininkams nurodyta rinktis prie rotušės, kad miestiečiai galėtų lengviau juos pasisamdyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaprastas įvairaus maisto brangymetis 1547 me­

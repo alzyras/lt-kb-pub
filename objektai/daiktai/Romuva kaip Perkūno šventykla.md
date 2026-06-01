@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­ vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­ vių Krivaičio pagrindinė buveinė).'
+  teiginys: 'Romuva buvo laikoma Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindine buveine.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Romuva buvo laikoma Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindine buveine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vaikių krašte buvo šventoji giria, ku­

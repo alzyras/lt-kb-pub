@@ -17,13 +17,14 @@ Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėlia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėliau Strasburg, dab.'
+  teiginys: 'Štraisbergas buvo vadintas Straisbergku, vėliau Strasburgu, o dabar yra Brodnica.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Štraisbergas buvo vadintas Straisbergku, vėliau Strasburgu, o dabar yra Brodnica.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šilinė

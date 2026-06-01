@@ -26,12 +26,12 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirmas prieš Vytautą pakėlė ginklą Sieversko - Naugar­ do kunigaikštis Dimitras Kaributas, kuris buvo sukilęs prieš Vytauto tėvą Kęstutį ir atsisakęs mokėti jam duoklę.'
+  teiginys: 'Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Jo žemes pasili­ ko sau, o jam pavedė valdyti Sieversko - Naugardą.'
+  teiginys: 'Numalšinęs Volynijos kunigaikštį Feodorą, Vytautas pavedė jam valdyti Sieversko Naugardą.'
   pagrindžia:
     - c-001
 
@@ -48,6 +48,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Numalšinęs Volynijos kunigaikštį Feodorą, Vytautas pavedė jam valdyti Sieversko Naugardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Sekančiais metais sukilo ir Volynijos kun. Feodoras, Liu­
@@ -62,6 +63,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tas jų nesutarimas ir bus buvusi vie­

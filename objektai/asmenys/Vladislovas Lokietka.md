@@ -39,52 +39,42 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - t-003
   teiginys: 'Dusburgietis teigia, kad tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną.'
   pagrindžia:
-    - c-009
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie Brandenburgo markgrafystės nusiaubimą ir apie tai, kaip prarado gy­ vastį ar pakliuvo į nelaisvę šeši tūkstančiai krikščionių 1326 viešpaties metais Lokietka, Lenkijos karalius, paprašė Gediminą, lietuvių karalių, kurio dukterį neseniai buvo paėmęs į.'
-  pagrindžia:
     - c-008
 
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės nusiaubimą 1330 metais Tų pat metų rudenį Lokietka, Lenkijos karalius, užgriuvo Kulmo žemę604 su visais savo 604 D.'
+- t-004
+  teiginys: '1326 m. Lokietka paprašė Lietuvos karaliaus Gedimino atsiųsti karių, ir Gediminas jam davė 1200 raitelių.'
   pagrindžia:
-    - c-011
+    - c-007
 
-- t-006
+- t-005
   teiginys: 'Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324 m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).'
   pagrindžia:
-    - c-010
+    - c-002
 
-- t-007
+- t-006
   teiginys: 'Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.'
   pagrindžia:
     - c-003
 
-- t-008
+- t-007
   teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės nusiaubimą Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius, padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį buvo sudaręs su Čekijos karaliumi ir magistru, jis su 6.'
+  pagrindžia:
+    - c-004
+
+- t-008
+  teiginys: 'Kazimieras ir Lokietka, Lenkijos kunigaikščiai, dėl savo žmonių likimo paprašė Prūsijos magistro Meinhardo pagalbos.'
   pagrindžia:
     - c-006
 
 - t-009
-  teiginys: 'Dusburgietis teigia, kad apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę.'
-  pagrindžia:
-    - c-007
-
-- t-010
-  teiginys: 'Lokietka šiame šaltinyje minimas tarp Lenkijos kunigaikščių, prašiusių Meinhardo pagalbos.'
-  pagrindžia:
-    - c-004
-
-- t-011
-  teiginys: 'Jo užuomazgos, mažumėlę kitoniškų formų, ruseno Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­ dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­ tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­ matus.'
+  teiginys: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija pradėjo šaukti suvažiavimus ir tautos pasitarimus.'
   pagrindžia:
     - c-005
 
-- t-012
+- t-010
   teiginys: 'Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
   pagrindžia:
-    - c-012
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -112,6 +102,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   statusas: verified
   pagrindžia:
     - t-002
+    - t-005
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -127,9 +118,10 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: terminas_ar_titulas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-004
+  santrauka: 'Lokietka, Lenkijos karalius, nepaisydamas taikos susitarimo su Čekijos karaliumi ir magistru, įsibrovė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius,
@@ -143,9 +135,10 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-007
 
 - c-005
+  santrauka: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija pradėjo šaukti suvažiavimus ir tautos pasitarimus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
@@ -159,25 +152,10 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-009
 
 - c-006
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    10. Apie Kulmo žemės nusiaubimą
-
-      Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius,
-    padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį
-    buvo sudaręs su Čekijos karaliumi  ir magistru, jis su 6 tūkstančiais karių klastingai
-    įsibrovė  į Kulmo žemę ir ją siaubė 5 dienas ir 5 naktis, degindamas bei plėšdamas.
-    Šit kokia stulbinanti ir siaubinga piktadarybė!
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-007
+  santrauka: 'Kazimieras ir Lokietka, Lenkijos kunigaikščiai, dėl savo žmonių likimo paprašė Prūsijos magistro Meinhardo pagalbos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     248 (241). Apie Lenkijos žemės apiplėšimą
@@ -192,9 +170,10 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-008
+- c-007
+  santrauka: '1326 m. Lokietka paprašė Lietuvos karaliaus Gedimino atsiųsti karių, ir Gediminas jam davė 1200 raitelių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     361 (354). Apie Brandenburgo markgrafystės nusiaubimą ir apie tai, kaip prarado gy­
@@ -209,7 +188,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   pagrindžia:
     - t-004
 
-- c-009
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
@@ -226,20 +205,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   pagrindžia:
     - t-003
 
-- c-010
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
-    m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
-    (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną). Apie 1325 m. Gedimino kariuomenė
-    nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-011
+- c-009
+  santrauka: '1330 m. rudenį Lokietka, Lenkijos karalius, su savo raiteliais, samdininkais ir vengrų pagalba užgriuvo Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kulmo žemės nusiaubimą 1330 metais
@@ -260,10 +227,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-005
 
-- c-012
+- c-010
   santrauka: 'Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -275,7 +240,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -297,13 +262,12 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - [[objektai/zodynas/diplomatija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/talkininkas]]
 - [[objektai/zodynas/Šlėktų laisvė]]
 - [[objektai/autoriai/Johannes Voigt Foigtas]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/grupes/Varmės kapitula]]
 - [[objektai/posakiai/„Romos karaliaus garbei“]]
-- [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/daiktai/Zigmanto II antkapis]]
 - [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
 - [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]
-- [[objektai/ivykiai/Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)]]

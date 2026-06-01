@@ -40,21 +40,6 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyveno brolis Heinemanas ir brolis Fridrichas, kuriuodu vienas kitą taip mylėjo, kad vienas be kito nenorėjo ne tik gyventi, bet ir mirti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    278 (271). Apie nuostabų įvykį
-
-      Tuo metu Marienburgo pilyje gyveno brolis Heinemanas ir brolis Fridrichas, kuriuodu
-    vienas kitą taip mylėjo, kad vienas be kito nenorėjo ne tik gyventi, bet ir mirti. Ilgainiui
-    brolis Heinemanas užsikrėtė raupsais, o netrukus brolis Fridrichas nukrito nuo žirgo
-    ir užsimušė.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

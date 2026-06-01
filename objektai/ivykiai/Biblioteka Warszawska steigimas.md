@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '1841 m. jis tapo vienu iš enciklopedinio pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A.'
+  teiginys: '1841 m. Michałas Balińskis tapo vienu iš enciklopedinio leidinio „Biblioteka Warszawska“ steigėjų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1841 m. Michałas Balińskis tapo vienu iš enciklopedinio leidinio „Biblioteka Warszawska“ steigėjų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Neturėdamas pakankamai pragy­

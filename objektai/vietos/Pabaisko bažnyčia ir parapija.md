@@ -24,12 +24,12 @@ tags:
     - c-004
 
 - t-002
-  teiginys: 'Tai­ gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­ sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­ rų sužinojome, dabartiniam bažnyčios klebonui, minėtam Valentinui iš Pilzno.'
+  teiginys: 'Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Kai garbusis Valenti­ nas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­ nyčios, pastatytos šventos ir nedalomos Trejybės garbei ir, žinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų ir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­.'
+  teiginys: 'Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei.'
   pagrindžia:
     - c-003
 
@@ -72,6 +72,7 @@ tags:
     - t-004
 
 - c-002
+  santrauka: 'Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai­
@@ -104,6 +105,7 @@ tags:
     - t-002
 
 - c-003
+  santrauka: 'Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi

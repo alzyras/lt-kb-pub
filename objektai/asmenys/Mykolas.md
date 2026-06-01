@@ -20,7 +20,7 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - t-001
   teiginys: 'Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Ji buvo daug svarbesnė pilių apgulose vadovauti pavedė savo sūnui kunigaikščiui Mykolui, kuris „su lietuviais ir lenkais“ žygiavo pasitikti priešo.'
@@ -53,30 +53,6 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    XV a. atvirose kautynėse
-    artilerija neatliko svarbaus
-    vaidmens, nors ir būdavo
-    panaudojama. Ji buvo daug
-    svarbesnė pilių apgulose
-
-    vadovauti pavedė savo sūnui kunigaikščiui
-    Mykolui, kuris „su lietuviais ir lenkais“ žy-
-    giavo pasitikti priešo.
-
-    Sprendžiant iš pagrindinių istorinių
-    šaltinių, Švitrigailos ir Ordino pajėgos iš
-    Vilkmergės patraukė į pietus pro Pašilę
-    ir toliau keliu Gelvonų link, einančiu
-    per dabartinį Pabaiską, vakarine Žirnajų
-    ežero pakrante.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
@@ -107,7 +83,6 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
 - [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija]]
-- [[objektai/asmenys/Mantautas]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - [[objektai/asmenys/Mykolas Skirgaila]]
@@ -134,7 +109,12 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/grupes/Bajorų konfederacija]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
+- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/ivykiai/M. Balinskio areštas 1831 m. gegužę]]
+- [[objektai/asmenys/Mykolas (Kujavijos vyskupas)]]
 - [[objektai/asmenys/Mykolas Kiełbasa]]
 - [[objektai/asmenys/Mykolas Kiuchmeisteris fon Štenbergas]]
+- [[objektai/asmenys/Mykolas Sleževičius]]
 - [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]

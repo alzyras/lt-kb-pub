@@ -39,12 +39,12 @@ Nenurodyta
 - t-001
   teiginys: '„Pienocentro“ pastatas Kaune (apie 1938).'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -62,20 +62,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šventės
-    pabrėžė praeities ir dabarties ryšį, sujungė tautinius laimėjimus, auklėjo šlo-
-    vingos senovės pavyzdžiais, siekė parodyti kariuomenės ir tautos vienybę.
-    Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
-    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
-    „Pienocentro“ pastatas Kaune (apie 1938).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

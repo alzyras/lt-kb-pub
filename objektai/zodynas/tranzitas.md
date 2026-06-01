@@ -27,12 +27,12 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
 - t-001
   teiginys: 'Tautų Sąjunga, nepatenkinta tokiais menkais derybų rezultatais, pavedė susisiekimo ir tranzito komisijai ištirti, ar Lietuva nenusižengia internacionaliniams savo pasižadėjimams, trukdydama tranzitą iš Lenkijos.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Kadangi tatai nepavyko, tai Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: '1924 m. birželio 2 d. Ambasadorių Konferencija pageidavo, kad Lietuva užmegztų santykius su Lenkija ir netrukdytų prekybos bei tranzito.'
@@ -59,6 +59,7 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -75,20 +76,6 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
     - t-004
 
 - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kadangi
-    tatai nepavyko, tai Ambasadorių Konferencija jau po Klaipėdos
-    konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų
-    santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.
-    VI. 2).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš daugelio

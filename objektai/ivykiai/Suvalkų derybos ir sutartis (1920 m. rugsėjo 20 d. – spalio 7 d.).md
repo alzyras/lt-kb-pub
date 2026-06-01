@@ -46,7 +46,7 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: 'Suvalkų derybos.'
+  teiginys: 'Prasidėjus Suvalkų deryboms, lenkų kariuomenė peržengė demarkacijos liniją ir veržėsi į Gardino–Varėnos ruožą.'
   pagrindžia:
     - c-004
 
@@ -109,6 +109,7 @@ Nenurodyta
     - t-004
 
 - c-004
+  santrauka: 'Prasidėjus Suvalkų deryboms, lenkų kariuomenė peržengė demarkacijos liniją ir veržėsi į Gardino–Varėnos ruožą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Suvalkų derybos.** Tuo pat laiku, kai Tautų Sąjunga nu-
@@ -128,4 +129,3 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Tautų Sąjunga]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba|Aukščiausioji Santarvininkių Taryba (institucija)]]

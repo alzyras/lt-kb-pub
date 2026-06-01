@@ -26,7 +26,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prancūzijoje, Aljė departa­ mente, esama mineralinių vandenų, vadinamų Neris, prie taip pat pava­ dinto miestelio, išsidriekusio tarp Šero ir Luaros upių, kur X amžiuje siekė normanų antpuoliai ir netgi jų gyvenvietės - slavų, venedų, gyve­ nančių Hanoverio.'
+  teiginys: 'Hanoverio žemėje prie Elbės žemupio gyvenusių venedų kalboje žodis „Vilija“ reiškė valią.'
   pagrindžia:
     - c-002
 
@@ -74,6 +74,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     - t-002
 
 - c-002
+  santrauka: 'Hanoverio žemėje prie Elbės žemupio gyvenusių venedų kalboje žodis „Vilija“ reiškė valią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mūsų kaimiečiai

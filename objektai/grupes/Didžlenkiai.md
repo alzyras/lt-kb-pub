@@ -70,19 +70,6 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dėl to iškilo konfliktas, nes kai kurie didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos karūnacijai, remdamiesi padaryta priesaika Jadvygai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1417 m.
-    Jogaila vedė trečią žmoną. Dėl to iškilo konfliktas, nes kai kurie
-    didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos
-    karūnacijai, remdamiesi padaryta priesaika Jadvygai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

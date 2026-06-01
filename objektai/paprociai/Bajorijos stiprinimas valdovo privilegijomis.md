@@ -55,7 +55,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Šalia stambiųjų didikų bei kunigaikš­ čių, bajorija ėmė išsivystyti į atskirą galingą visuomenės sluoksnį, valdovo privilegijomis (1387, 1413, 1434, 1447) vis palaikomą ir stiprinamą.'
+  teiginys: 'Valdovo privilegijos 1387, 1413, 1434 ir 1447 m. palaikė bajoriją kaip atskirą ir stiprėjantį visuomenės sluoksnį.'
   pagrindžia:
     - c-002
 
@@ -79,7 +79,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Šalia stambiųjų didikų bei kunigaikš­ čių, bajorija ėmė išsivystyti į atskirą galingą visuomenės sluoksnį, valdovo privilegijomis (1387, 1413, 1434, 1447) vis palaikomą ir stiprinamą.'
+  santrauka: 'Valdovo privilegijos 1387, 1413, 1434 ir 1447 m. palaikė bajoriją kaip atskirą ir stiprėjantį visuomenės sluoksnį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šalia stambiųjų didikų bei kunigaikš­
@@ -103,5 +103,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/baudžiavinė epocha]]
 - [[objektai/zodynas/luominė diferenciacija]]

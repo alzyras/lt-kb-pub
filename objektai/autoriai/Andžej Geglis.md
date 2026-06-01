@@ -28,57 +28,46 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - t-001
   teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Automatiniai šautuvai“ bendraautoris.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-002
   teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.'
   pagrindžia:
-    - c-001
+    - c-006
 
 - t-003
   teiginys: 'Andžej Geglis buvo teksto „Pakeitimai karyboje XIX a. viduryje“ autorius.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Andžej Geglis buvo teksto „Šautuvų raida XX a. pradžioje“ autorius.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-005
   teiginys: 'Andžej Geglis buvo teksto „XX a. pradžios pėstininkų taktika“ autorius ir dailininkas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
   teiginys: 'LIETUVOS ATSIKŪRIMAS p. 256, „KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Geglis.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-007
   teiginys: 'Andžej Geglis buvo teksto „XVIII a. linijinė taktika“ autorius ir dailininkas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-008
   teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Pusiau automatiniai šautuvai“ bendraautoris.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 256, „KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras,
-    Andžej Geglis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p- 139, „XVIII A. LINIJINĖ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
@@ -88,7 +77,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   pagrindžia:
     - t-007
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 157, „PAKEITIMAI KARYBOJE XIX A. PRADŽIOJE“, Andžej Geglis, dail. Andžej Geglis.
@@ -99,7 +88,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     NEPRIKLAUSOMYBĖS KOVOS
@@ -111,7 +100,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   pagrindžia:
     - t-005
 
-- c-005
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 179, „ŠAUTUVŲ RAIDA XX A. PRADŽIOJE“, Andžej Gėglis.
@@ -121,18 +110,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   pagrindžia:
     - t-004
 
-- c-006
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 228, „PUSIAU AUTOMATINIAI ŠAUTUVAI“, Andžej Geglis, Karolis Zikaras.
-    p. 229, „AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Gėglis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-007
+- c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 228, „PUSIAU AUTOMATINIAI ŠAUTUVAI“, Andžej Geglis, Karolis Zikaras.
@@ -144,8 +122,9 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   statusas: verified
   pagrindžia:
     - t-001
+    - t-008
 
-- c-008
+- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     LIETUVOS ATSIKŪRIMAS
@@ -159,21 +138,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   statusas: verified
   pagrindžia:
     - t-009
-
-- c-009
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    LIETUVOS ATSIKŪRIMAS
-
-    p. 256, „KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras,
-    Andžej Geglis.
-
-    P. 259, „MEDŽIOKLINIAI AT GYNĖJŲ ŠAUTUVAI“, Karolis Zikaras.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

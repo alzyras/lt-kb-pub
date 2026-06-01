@@ -28,9 +28,9 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kai jie priėjo šio kunigaikščio sodybą, užtiko ten sukviestus į vestuves beveik visus Lietuvos karalystės kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė juos ir nužudė 70 kunigaikščių drauge su namų šeimininku.'
+  teiginys: 'Pelužis su Karaliaučiaus komtūro paskirtais vyrais užpuolė savo viešpaties sodybą ir nužudė 70 kunigaikščių.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad iII, 235), sukilimą prūsai galėjo rengti 1289 m. Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės.'
@@ -63,6 +63,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -83,26 +84,6 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   pagrindžia:
     - t-002
 
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
-    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
-    karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
-    paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
-    vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
-    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas. Kai jie priėjo šio
-    kunigaikščio sodybą, užtiko ten sukviestus  į vestuves beveik visus Lietuvos karalystės
-    kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė
-    juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
-    ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
-    žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
@@ -110,7 +91,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Ordino brolis]]
+- [[objektai/asmenys/Stavimėlas]]
 - [[objektai/asmenys/Konradas, vardu Divelis]]
 - [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
-- [[objektai/asmenys/Stavimėlas]]
 - [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]

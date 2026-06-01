@@ -20,13 +20,14 @@ Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karali
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­ davimai buvo tačiau visai atmesti, nusprendė imtis kitų bū­ dų: palenkti dovanomis ir pažadais Krokuvos vyskupą Olesnickį, kuris kartu su.'
+  teiginys: 'Krokuvos vyskupas Olesnickis Vytautui atsakė, kad jo nei dovanomis papirkti, nei grasinimais įbauginti neįstengs.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krokuvos vyskupas Olesnickis Vytautui atsakė, kad jo nei dovanomis papirkti, nei grasinimais įbauginti neįstengs.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, vėl su įkarščiu išsakęs savo didelį norą

@@ -26,12 +26,12 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82.'
+  teiginys: 'K. Hartknochas parengė pirmąjį Dusburgiečio kronikos leidimą, išleistą Karaliaučiuje 1679 m.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad hartknochas, pirmas D.'
+  teiginys: 'K. Hartknochas, pirmasis Dusburgiečio kronikos leidėjas, manė, kad rutėnais vadinti Riugeno salos gyventojai.'
   pagrindžia:
     - c-001
 
@@ -43,6 +43,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. Hartknochas, pirmasis Dusburgiečio kronikos leidėjas, manė, kad rutėnais vadinti Riugeno salos gyventojai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami
@@ -56,6 +57,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     - t-002
 
 - c-002
+  santrauka: 'K. Hartknochas parengė pirmąjį Dusburgiečio kronikos leidimą, išleistą Karaliaučiuje 1679 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679

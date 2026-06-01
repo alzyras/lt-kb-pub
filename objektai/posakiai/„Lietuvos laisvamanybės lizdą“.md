@@ -30,7 +30,7 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: 'Po universiteto uždarymo dviejų jo fakultetų bazėje įsteigtos Vilniaus medicinos-chirurgijos akademija ir Vilniaus Romos katalikų dvasinė akademija.'
+  teiginys: '1832 m. Vilniaus universitetą nutarta uždaryti kaip „Lietuvos laisvamanybės lizdą“.'
   pagrindžia:
     - c-001
 

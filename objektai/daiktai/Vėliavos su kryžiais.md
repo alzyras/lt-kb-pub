@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Gynėjai iškėlė vėliavas su kryžiais, kaip ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­ vių, dar nepakrikštytų, begalė buvo Vytauto gretose, nes prie lio skundų ir ginčų tarp Jogailos ir Ordino priežastis; pastarasis smar­ kiai gynėsi.'
+  teiginys: 'Pilies gynėjai iškėlė vėliavas su kryžiais kaip ženklą, kad kovoja su Vytauto gretose buvusiais nepakrikštytais lietuviais ir žemaičiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pilies gynėjai iškėlė vėliavas su kryžiais kaip ženklą, kad kovoja su Vytauto gretose buvusiais nepakrikštytais lietuviais ir žemaičiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas šaunus karys, išvaręs iš tvir­
@@ -75,6 +76,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Karinės vėliavos ir ženklai]]
 - [[objektai/asmenys/Mikalojus Moskoževskis]]
 - [[objektai/paprociai/Vėliavų su kryžiais kėlimas kaip kovos su pagonimis ženklas]]

@@ -54,7 +54,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Tokią ištikimybės prie­ saiką tuo laiku iš viso buvo padarytos trys^2 ).'
+  teiginys: 'Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogailą ir Karūną, ir prieš juos nekilti^1 ). Tokią ištikimybės prie­
@@ -101,4 +102,5 @@ Nenurodyta
 - [[objektai/asmenys/Sviatoslavas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/daiktai/Karūna]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

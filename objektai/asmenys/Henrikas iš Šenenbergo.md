@@ -49,5 +49,4 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
 - [[objektai/asmenys/Helvigas iš Goldbacho]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas]]
 - [[objektai/grupes/Notangai]]

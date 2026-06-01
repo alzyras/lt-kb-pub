@@ -64,6 +64,11 @@ Nenurodyta
   pagrindžia:
     - c-005
 
+- t-006
+  teiginys: 'Po 1958 m. sovietų valdžia Lietuvoje draudė bažnyčiose skambinti varpais.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -163,7 +168,6 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/pagonybė]]

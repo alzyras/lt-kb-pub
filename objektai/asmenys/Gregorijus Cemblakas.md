@@ -34,7 +34,7 @@ periodo_grupes:
     - c-001
 
 - t-002
-  teiginys: 'Naugarduko susirinkimas pasiuntė delegaciją, kad išsi­ rūpintų vietoj Cemblako kitą žmogų, patriarchui patinkamą, bet ir ji nieko nelaimėjo.'
+  teiginys: 'Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.'
   pagrindžia:
     - c-003
 
@@ -76,6 +76,7 @@ periodo_grupes:
     - t-003
 
 - c-003
+  santrauka: 'Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Naugarduko susirinkimas pasiuntė delegaciją, kad išsi­

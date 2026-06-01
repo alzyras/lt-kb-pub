@@ -75,7 +75,6 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
 - [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
 - [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]
 - [[objektai/daiktai/Memelio kryžiuočių pilis, apjuosta siena]]
-- [[objektai/paprociai/Naujakrikščių slėpimasis įtvirtintuose priebėgos būstuose]]
 - [[objektai/paprociai/Naujakrikščių valdymas pagal tą pačią sutartį ir laisves|Naujakrikščių valdymas pagal tą pačią sutartį ir laisves (sutartis)]]
 - [[objektai/ivykiai/Naujas Sventopelko karas ir susidūrimas prie Renzeno]]
 - [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]

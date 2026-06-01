@@ -62,4 +62,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Flandrai]]
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]

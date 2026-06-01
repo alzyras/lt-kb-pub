@@ -43,7 +43,7 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais šimtais vyrų bei moterų jis.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.'
@@ -51,34 +51,14 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­ mą ir apie tai, kaip buvo apleista ši žemė Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus.'
+  teiginys: 'Gedetas su savo namais, šeimyna ir 1500 sūduvių pasitraukė pas brolius ir priėmė krikštą, o Skurda su žmonėmis išvyko į Lietuvą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę
-    galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei
-    smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais
-    šimtais vyrų bei moterų jis pasitraukė pas brolius ir priėmė krikštą. Tačiau Skurdą516,
-    kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
-    Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
-
-
-
-
-
-        220 (215).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Gedetas su savo namais, šeimyna ir 1500 sūduvių pasitraukė pas brolius ir priėmė krikštą, o Skurda su žmonėmis išvyko į Lietuvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
@@ -96,26 +76,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti,
-    nerašysime apie tuos karus. Kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę
-    galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei
-    smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais
-    šimtais vyrų bei moterų jis pasitraukė pas brolius ir priėmė krikštą. Tačiau Skurdą516,
-    kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
-    Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/asmenys/Gedetas]]
-- [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
 - [[objektai/asmenys/Skurda]]
+- [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]

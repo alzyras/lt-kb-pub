@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­ lo fabrikas.'
+  teiginys: 'Martynas Paleckis Vilniuje gavo leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Martynas Paleckis Vilniuje gavo leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
@@ -76,4 +77,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/grupes/Radvilos]]
+- [[objektai/asmenys/Martynas Paleckis]]
 - [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]

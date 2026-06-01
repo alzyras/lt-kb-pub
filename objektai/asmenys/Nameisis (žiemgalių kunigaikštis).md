@@ -22,38 +22,21 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 - t-001
   teiginys: 'Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio karvedys ir vadovavo jo kariuomenei Ordino vakarų fronte.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbiavimas, jų kunigaikštis Nameisis - Traidenio karvedys - vadovavo valdovo kariuomenei net tolimame Ordino vakarų fronte.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Traidenio valdymo laikotarpiu vyko ak-
-    tyvus lietuvių ir žiemgalių bendradarbiavi-
-    mas, jų kunigaikštis Nameisis - Traidenio
-    karvedys - vadovavo valdovo kariuome-
-    nei net tolimame Ordino vakarų fronte.
-    Lietuvos kariaunų aktyvumas visame
-    regione skatino gintis nuo vokiečių visus
-    baltus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     buvo atremti Aukso ordos, rusų kunigaikš
@@ -71,7 +54,7 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbiavimas, jų kunigaikštis Nameisis - Traidenio karvedys - vadovavo valdovo kariuomenei net tolimame Ordino vakarų fronte.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -91,6 +74,7 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

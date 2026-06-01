@@ -22,7 +22,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     - c-001
 
 - t-002
-  teiginys: 'Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Marijampolėje „Žiburys".'
+  teiginys: 'Marijampolėje veikęs „Žiburys“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     - t-001
 
 - c-002
-  santrauka: 'Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Marijampolėje „Žiburys".'
+  santrauka: 'Marijampolėje veikęs „Žiburys“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės

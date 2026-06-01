@@ -33,7 +33,7 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
     - c-001
 
 - t-002
-  teiginys: 'Jame tais pačiais jos vyro žo­ džiais, patikrinusiais prieš septynerius metus1 2) Ostrogo kuni­ gaikštį, pasakyta, kad jis kartu su visu Ostrogo apskričiu turi klausyti Jadvygos ir Lenkijos.'
+  teiginys: '1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
     - t-001
 
 - c-002
+  santrauka: '1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     4 d. Jame tais pačiais jos vyro žo­

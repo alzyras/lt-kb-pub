@@ -122,6 +122,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   statusas: verified
   pagrindžia:
     - t-003
+    - t-006
 
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -142,21 +143,6 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   pagrindžia:
     - t-004
 
-- c-006
-  santrauka: 'Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    234 (227). Apie brolį Meinhardą, Prūsijos žemės magistrą
-
-       Brolis Meinhardas Saksas  iš  Kverfurto,  tryliktas  Prūsijos  magistras, vadovavo
-    vienuolika metų527. Kaip šlovingai jis ėjo savo pareigas, liudija šlovingi jo darbai, apie
-    kuriuos netrukus papasakosime.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
@@ -164,7 +150,6 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
 - [[objektai/ivykiai/Viznos pilies sugriovimas (1294 m.)]]
 - [[objektai/zodynas/ginklanešiai]]

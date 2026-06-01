@@ -52,3 +52,5 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
 - [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
 - [[objektai/zodynas/miesto sargybos viršininkas]]
+- [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]
+- [[objektai/asmenys/Rudolfas, vadinamas Bodemeru]]

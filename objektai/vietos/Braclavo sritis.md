@@ -32,7 +32,7 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
 - t-002
   teiginys: '165 psl.), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -50,33 +50,5 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip Vy-
-    tauto (žiūr. 165 psl.), taip ir Kazimiero laikais tankiau buvo
-    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
-    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
-    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
-    linkes, buvo beveik negyvenamos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip Vy-
-    tauto (žiūr. 165 psl.), taip ir Kazimiero laikais tankiau buvo
-    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
-    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
-    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
-    linkes, buvo beveik negyvenamos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

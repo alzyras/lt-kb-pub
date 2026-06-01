@@ -48,7 +48,7 @@ Pilis liko nepaimta.
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis pasakoja, kad apgula nutrūko, kai dėl sargybos raitelių sukelto triukšmo Ordino pėstininkai išsigando ir nubėgo prie laivų.'
+  teiginys: 'Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.'
   pagrindžia:
     - c-003
 
@@ -83,6 +83,7 @@ Pilis liko nepaimta.
     - t-001
 
 - c-003
+  santrauka: 'Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad

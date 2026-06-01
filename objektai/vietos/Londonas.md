@@ -33,24 +33,19 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - c-003
 
 - t-002
-  teiginys: ': The Balts, London 1963.'
-  pagrindžia:
-    - c-004
-
-- t-003
   teiginys: 'Nuo 1990 m. dalis iš Lietuvos išvykusių daugiau kaip pusės milijono gyventojų emigravo į Jungtinę Karalystę, įskaitant Londoną.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-003
   teiginys: '1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“.'
   pagrindžia:
     - c-002
 
-- t-005
+- t-004
   teiginys: 'Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -66,7 +61,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -83,7 +78,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -105,19 +100,6 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - t-001
 
 - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    GePCa = Caro, J. : Geschichte Polens, t. 2-5 (1300-1506), Gotha
-    1863-1888.
-    GiB = Gimbutas, M. : The Balts, London 1963.
-    GrL = Gramoty Velikich Kniazej Litovskich 1390-1569, išl.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
   santrauka: 'Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -130,4 +112,4 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004

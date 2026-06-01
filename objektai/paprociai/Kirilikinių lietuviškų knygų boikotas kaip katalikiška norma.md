@@ -42,7 +42,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Valdžios mėginimas lietuvių raštijoje tradicinį lotynišką raidyną pakeisti kirilika buvo sužlugdytas.'
+  teiginys: 'Kirilikinių lietuviškų knygų boikotas sužlugdė valdžios užmačią lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika.'
   pagrindžia:
     - c-001
 
@@ -54,6 +54,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kirilikinių lietuviškų knygų boikotas sužlugdė valdžios užmačią lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Beje, ekspertus apstulbino tai, kad Kauno guber-
@@ -91,5 +92,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kirilika]]
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]

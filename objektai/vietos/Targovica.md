@@ -30,7 +30,7 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 - t-001
   teiginys: 'Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederacijos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Aukščiau šios upės žiočių buvusi pilis ir šiandien yra vietovė Targovica (buvęs Ordos karinisadministracinis centras), pro kurią kelias iš pietų, nuo Juodosios jūros ir Krymo veda Lucko ir Kijevo link.'
@@ -40,7 +40,7 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 - t-003
   teiginys: 'Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -80,22 +80,4 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos Didžiosios Kunigaikštijos
-    sunaikinimas
-    Gegužės trečiosios konstitucijos reformoms įnirtingai
-    priešinosi aristokratija ir visa konservatyvioji visuomenės dalis. Tačiau
-    opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
-    reformų priešininkus. Peterburge subrendo ir buvo surašytas Targovicos
-    (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-
-    jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
-    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
-    Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003

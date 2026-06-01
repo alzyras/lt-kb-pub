@@ -31,7 +31,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
 ## Teiginiai
 
 - t-001
-  teiginys: '(^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­ tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo sūnų (įpėdinį) Vosylių II, žmoną ir vaikus.'
+  teiginys: 'Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad Vytautas globotų jo šeimą.'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - c-003
 
 - t-003
-  teiginys: 'Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­ lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun. Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­ tautui globoti.'
+  teiginys: '1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad Vytautas globotų jo šeimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     (^1) ) L. E. K. U., VII, 222 nr.
@@ -67,6 +68,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - t-001
 
 - c-002
+  santrauka: '1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žinoma, nereikia tikėti, kad toks didelis lenkų pasiprieši­

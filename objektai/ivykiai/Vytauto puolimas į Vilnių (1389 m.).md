@@ -43,13 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jis, surinkęs Lucke savo šalininkus, puolė Vilnių (1389); tačiau turėjo pasi­ traukti ir antrą kartą bėgti pas kryžiuočius ir pradėti su Jo­ gaila karą.'
+  teiginys: '1389 m. Vytautas, Lucke surinkęs savo šalininkus, puolė Vilnių, bet turėjo pasitraukti ir antrą kartą bėgti pas kryžiuočius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1389 m. Vytautas, Lucke surinkęs savo šalininkus, puolė Vilnių, bet turėjo pasitraukti ir antrą kartą bėgti pas kryžiuočius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas nuo pat pirmos krikšto dienos aktyviai daly­

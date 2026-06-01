@@ -48,18 +48,19 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dar 1539 metais, Vilniaus dieceziją valdant Alšėnų kunigaikščiui Vil­ niaus vyskupui Povilui, kunigas Abraomas Kulvietis, teolo­ gijos daktaras, lietuvių kilmės, bet į Vilnių atvykęs iš Vokie­ tijos, kur ilgai ėjo mokslus, pirmasis šiame mieste pasėjo naujas.'
+  teiginys: '1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Visuomet apsvarstantis savo veiksmus monarchas negalėjo likti ne­ dėmesingas karštligiškiems ir iš visų pusių atkakliai sklin­ dantiems dvariškių luomo prašymams: tad buvo paskelb­ tas karaliaus sprendimas, pagal kurį minėtasis Kulvietis privalėjo stoti prieš.'
+  teiginys: 'Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Petras Roizijus,
@@ -87,6 +88,7 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     - t-001
 
 - c-002
+  santrauka: 'Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai po trejų

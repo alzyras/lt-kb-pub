@@ -26,18 +26,19 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos kunigaikštystėje kraštą, vardu Vancka, kur.'
+  teiginys: '1283 m. Teutonų ordino broliai įkūrė Mevės pilį prie Vyslos, perkėlę Poterbergo pilį iš Kulmo žemės.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew), pilis kair. Vyslos krante, statyta 1283 m. pradžioje (Ewald A.'
+  teiginys: 'Mevė, vėliau vadinta Mewe, yra dabartinis Gnevas kairiajame Vyslos krante.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mevė, vėliau vadinta Mewe, yra dabartinis Gnevas kairiajame Vyslos krante.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew),
@@ -49,6 +50,7 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
     - t-002
 
 - c-002
+  santrauka: '1283 m. Teutonų ordino broliai įkūrė Mevės pilį prie Vyslos, perkėlę Poterbergo pilį iš Kulmo žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išklausęs abiejų šalių įrodymų,

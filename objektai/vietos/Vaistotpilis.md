@@ -19,7 +19,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad d.— Waistotepila (castrum Waistotepilam), Jer.— Waistotenpil; Vaistotpilis (Vaistoto pilis — GAO, p. 192)—sena prūsų pilis, kurioje įsitvirtino Ordinas (Ewald A.'
+  teiginys: 'Vaistotpilis buvo sena prūsų pilis, kurioje įsitvirtino Ordinas.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vaistotpilis buvo sena prūsų pilis, kurioje įsitvirtino Ordinas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D.— Waistotepila (castrum Waistotepilam), Jer.— Waistotenpil; Vaistotpilis (Vaistoto
@@ -66,6 +67,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -81,20 +83,3 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vaistotpilio pilis Nesitenkindami broliams padarytais nuostoliais, prūsai subūrė didžiulę kariuomenę ir apsupo Vaistotpilio pilį; jie smarkiai puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    115 (110). Apie tai, kaip buvo palikta Vaistotpilio pilis
-
-      Nesitenkindami broliams padarytais nuostoliais, prūsai subūrė didžiulę kariuomenę
-    ir apsupo Vaistotpilio pilį; jie smarkiai puolė ją nuo aušros iki sutemų, o broliai narsiai
-    gynėsi. Kai prūsai, nepasiekę tikslo, pasitraukė, broliai, turėdami galvoje, kad pilis nesanti
-    deramai sutvirtinta ir ateityje nestengsianti atremti tokių stiprių antpuolių, sudegino pilį
-    ir slapta pasitraukė.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004

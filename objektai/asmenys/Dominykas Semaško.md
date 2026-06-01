@@ -25,7 +25,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     - c-001
 
 - t-002
-  teiginys: 'Semaško) argumentus, lietuviai patenkino dar vieną A.'
+  teiginys: 'Dominyko Semaškos argumentais Lietuvos delegacija rėmėsi derybose su Sovietų Rusija dėl didesnės teritorijos Rytuose.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     - t-001
 
 - c-002
+  santrauka: 'Dominyko Semaškos argumentais Lietuvos delegacija rėmėsi derybose su Sovietų Rusija dėl didesnės teritorijos Rytuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai pripažinta teritorija buvo gana

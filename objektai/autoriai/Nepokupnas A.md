@@ -25,13 +25,14 @@ Dusburgietis teigia, kad nepokupnas A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad nepokupnas A.'
+  teiginys: 'A. Nepokupnas 1983 m. paskelbė darbą „Baltai slavų giminaičiai“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Nepokupnas 1983 m. paskelbė darbą „Baltai slavų giminaičiai“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nepokupnas A. Baltai slavų giminaičiai.— V., 1983.

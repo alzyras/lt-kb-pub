@@ -20,13 +20,14 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensis Canonicus Ecclesiae in Poboysco Plebanus, in Honorem Sanctae et Individuae Trinitatis extructae, nec non in Memoriam Nativitatis, et As­ sumptionis Gloriosae Virginis Mariae, et.'
+  teiginys: 'Valentinas iš Pilzno pranešė, kad per Pabaisko bažnyčios gaisrą buvo prarasta jos fundacijos privilegija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valentinas iš Pilzno pranešė, kad per Pabaisko bažnyčios gaisrą buvo prarasta jos fundacijos privilegija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Quum Nobis Exposuisset Venerabilis Valentinus

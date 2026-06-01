@@ -33,7 +33,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum): Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267, 269, 306, 310, 356).'
+  teiginys: 'Pukuveras buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.'
   pagrindžia:
     - c-002
 
@@ -77,6 +77,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     - t-001
 
 - c-002
+  santrauka: 'Pukuveras buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum):

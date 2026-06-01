@@ -53,53 +53,10 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Tas Romuvas sunaikino kryžiuočiai, už­ ėmę Prūsiją; tačiau nežinia, ar kitos, ar tos pačios iš anos žemės perkel­ tos, buvo pačioje Lietuvoje, prie Kauno, ant Nevėžio kranto, .būtent toj vietoj, kur dabar Romainiai.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lietuvos istorijoje yra žinomos šven­
-    tos vietovės, senovės lietuvių vadin­
-    tos Romuvomis [ramovėmis], kur
-    vidur šventų girių būdavo garbina­
-    mas Perkūnas ir kur gyveno vyriau­
-    siasis jų vaidila Krivių Krivaitis. Tas
-    Romuvas sunaikino kryžiuočiai, už­
-    ėmę Prūsiją; tačiau nežinia, ar kitos,
-    ar tos pačios iš anos žemės perkel­
-    tos, buvo pačioje Lietuvoje, prie
-    Kauno, ant Nevėžio kranto, .būtent
-    toj vietoj, kur dabar Romainiai. XIII
-    amžiuje tai buvo labai tankiai gyve­
-    nama gyvenvietė, o šventovės ir
-    šventos girios buvo saugomos galin­
-    gos tvirtovės. Nepaisant to, kryžiuo­
-    čiai, nuolatos baudęsi sunaikinti tą
-    vietovę, 1294 metais savo pasiekė ir,
-    užėmę pilį, pasiėmė turtą, o žynius
-    išžudė. Man atrodo, kad jei Lietuvo­
-    je buvo keletas tokių šventų vieto­
-    vių, tai Vilnius būtinai turėjo būti
-    viena iš jų, o jeigu buvo tik ta vie­
-    nintelė, tad tikriausiai po to smūgio
-    Perkūno tikėjimo relikvijos ir Krivių
-    Krivaitis su aukotojais iš Romainių
-    buvo perkelti į Vilnių, taigi Vilnius
-    XIII amžiaus gale jau galėjo būti tan­
-    kiai gvvenama ir svarbi gyvenvietė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
+  santrauka: '1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     8
@@ -137,6 +94,8 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

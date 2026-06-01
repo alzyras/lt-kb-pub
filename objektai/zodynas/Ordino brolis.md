@@ -18,13 +18,14 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad ) iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br.'
+  teiginys: 'Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     (žr. Povilas)

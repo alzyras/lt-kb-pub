@@ -64,6 +64,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Timur Kotlogo]]
 - [[objektai/asmenys/Didysis Machmetas]]
 - [[objektai/asmenys/Machmetas]]

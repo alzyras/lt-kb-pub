@@ -167,7 +167,6 @@ Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vo
 - [[objektai/ivykiai/Želigovskio smurtas (1920 m. spalio 8–9 d.)]]
 - [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]
-- [[objektai/posakiai/„nepriklausomybės stebuklas“]]
 - [[objektai/posakiai/„seimokratija“]]
 - [[objektai/ivykiai/Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.)]]
 - [[objektai/asmenys/Kioleris]]

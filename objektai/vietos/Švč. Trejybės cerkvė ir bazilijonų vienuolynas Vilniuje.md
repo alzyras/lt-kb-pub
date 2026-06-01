@@ -19,13 +19,14 @@ Trejybės cerkvę ir prie jos įkur­ dino Šv.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Trejybės cerkvę ir prie jos įkur­ dino Šv.'
+  teiginys: 'Kunigaikštis Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kunigaikštis Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Beveik tuo

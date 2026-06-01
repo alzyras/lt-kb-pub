@@ -26,18 +26,19 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi litteris appensum erat rotundum cereum, continens circulum duodecim angulorum et in medio circuli ymaginem viri capillati residentis in Cathedra, continentis in manu dextra.'
+  teiginys: '1323 metais Liubeke parengtame notariniame instrumente aprašytas prie laiško prikabintas apvalus Gedimino vaško antspaudas.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame pranešime (Notariats instrument), į kurį taip pat buvo įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­ rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­ ve, ir.'
+  teiginys: 'Notariniame instrumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1323 metais Liubeke parengtame notariniame instrumente aprašytas prie laiško prikabintas apvalus Gedimino vaško antspaudas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Notariats-Instrument, parengtame 1323 metais Liubeke: Si­
@@ -60,6 +61,7 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
     - t-001
 
 - c-002
+  santrauka: 'Notariniame instrumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau ka­

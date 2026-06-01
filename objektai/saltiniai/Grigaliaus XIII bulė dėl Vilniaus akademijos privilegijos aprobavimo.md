@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1578 metais Karalius Steponas Batoras, šias funduotas mo­ kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­ mijoms, o išskirtinai Krokuvos, prilygino.'
+  teiginys: '1578 m. Steponas Batoras funduotoms mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1578 m. Steponas Batoras funduotoms mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1578 metais Karalius Steponas Batoras, šias funduotas mo­

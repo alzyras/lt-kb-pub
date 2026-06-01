@@ -20,13 +20,14 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­ nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas Janas Kropidła iš Jogailos svitos.'
+  teiginys: 'Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai
@@ -58,3 +59,4 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/asmenys/Julijona]]

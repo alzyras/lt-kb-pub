@@ -26,13 +26,14 @@ Dusburgietis teigia, kad steponavičienė J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad steponavičienė J.'
+  teiginys: 'J. Steponavičienė 1974 m. paskelbė straipsnį apie lietuviškų vietovardžių prūsinimą Kryžiuočių ordino raštuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Steponavičienė 1974 m. paskelbė straipsnį apie lietuviškų vietovardžių prūsinimą Kryžiuočių ordino raštuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Steponavičienė J. Dėl lietuviškų vietovardžių prūsinimo kryžiuočių ordino raštuose.—

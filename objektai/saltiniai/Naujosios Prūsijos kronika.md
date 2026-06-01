@@ -19,13 +19,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.'
+  teiginys: 'Vygando Naujoji Prūsijos kronika aprašė Kęstučio laidotuves Vilniuje, kur su jo palaikais sudeginti rūbai, ginklai, žirgai, šunys ir paukščiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vygando Naujoji Prūsijos kronika aprašė Kęstučio laidotuves Vilniuje, kur su jo palaikais sudeginti rūbai, ginklai, žirgai, šunys ir paukščiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­

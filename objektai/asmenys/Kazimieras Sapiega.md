@@ -19,7 +19,7 @@ tags:
 - t-001
   teiginys: 'Kazimieras Sapiega vadovavo artilerijos baterijai, dengusiai Vilniaus įgulos atsitraukimą per Žaliąjį tiltą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero Sapiegos, sumaniai vadovaujamos artilerijos baterijos, sėkmingai atsitraukė per Žaliąjį tiltą.'
@@ -49,27 +49,6 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Visas miestas buvo intensyviai apšaudo-
-    mas stambaus kalibro rusų artilerijos.
-    q Priešui pralaužus vilniečių gy-
-    nybą ir giliai prasiveržus, masyviai
-    artilerijos apšaudomi gynėjai, norė-
-    dami išvengti blokavimo ir visiško
-    sunaikinimo, buvo priversti trauktis.
-    Vakare Vilniaus įgula, dengiama ar-
-    tilerijos kapitono kunigaikščio Kazi-
-    miero Sapiegos, sumaniai vadovaujamos
-    artilerijos baterijos, sėkmingai atsitraukė
-    per Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-
-    jos kariuomenė užėmė Vilnių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

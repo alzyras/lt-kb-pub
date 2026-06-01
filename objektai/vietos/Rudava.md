@@ -29,12 +29,12 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 - t-001
   teiginys: 'Dusburgietis teigia, kad kitą dieną patraukė į Rudavos valsčių ir ten pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų, 321 D.— Medenow, Jer.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 323 D.— ad territorium Rudowie, Jer.— zu Rudowe; Rudava, valsčius Semboje.'
+  teiginys: 'Rudava buvo valsčius Semboje, kurio centras buvo Rudavos pilis į šiaurę nuo dabartinio Kaliningrado.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: '17 d. (sekmadienį) prie Rudavos bažnytkaimio, netoli Karaliaučiaus, vėl susirinko krūvon.'
@@ -44,7 +44,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 - t-004
   teiginys: 'Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu, esančiu už trijų mylių į šiaurę nuo Karaliaučiaus.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -64,18 +64,6 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
     - t-003
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    323 D.— ad territorium Rudowie, Jer.— zu Rudowe; Rudava, valsčius Semboje. Jo
-    centras — Rudavos pilis buvo per 18 km į šiaurę nuo dab. Kaliningrado, į vakarus nuo
-    dab.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Drauge buvo ir Algirdas su savo būriais. Nuterioję
@@ -88,7 +76,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   pagrindžia:
     - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitą dieną patraukė  į Rudavos valsčių ir ten
@@ -125,3 +113,4 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002

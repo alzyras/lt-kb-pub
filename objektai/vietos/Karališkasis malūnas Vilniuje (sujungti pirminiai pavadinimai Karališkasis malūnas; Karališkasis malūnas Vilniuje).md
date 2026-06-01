@@ -30,23 +30,19 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos.'
+  teiginys: '1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: '33 Peremire Korola Kazimira z Opskowem u Wilni meseca dekabra trydcataho dnia, 1440 Indykt 4 [Karaliaus Kazi­ miero sutartis su Pskovu Vilniuje, 1440 metų gruodžio mėnesio 30 die­ ną, 4 indiktas]; iš D o g e l i o, MSS.'
+  teiginys: 'Bernardinams Vilniuje buvo atiduotas slėnis su namais ir pieva palei Vilnią prie Karališkojo malūno.'
   pagrindžia:
     - c-002
-
-- t-003
-  teiginys: 'Antraštė: Molendinum Vilnense [Vil­ niaus malūnas].'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     40), matyti,
@@ -72,6 +68,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Bernardinams Vilniuje buvo atiduotas slėnis su namais ir pieva palei Vilnią prie Karališkojo malūno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
@@ -122,17 +119,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    15
-    Iš Lietuvos Metrikos. Knyga, apimanti
-    Metrikos archyvo sąrašą. Raidė S.
-    Antraštė: Molendinum Vilnense [Vil­
-    niaus malūnas].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

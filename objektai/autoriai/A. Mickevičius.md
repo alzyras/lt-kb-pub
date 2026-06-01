@@ -52,4 +52,3 @@ Mickevičiaus, J.
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]
-- [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]

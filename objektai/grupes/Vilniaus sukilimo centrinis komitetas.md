@@ -64,9 +64,9 @@ Sukilimo organizacinis komitetas.
     - c-001
 
 - t-004
-  teiginys: 'Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas.'
+  teiginys: 'Vėlyvą 1830 m. rudenį Vilniuje susikūręs sukilimo centrinis komitetas turėjo organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -88,22 +88,6 @@ Sukilimo organizacinis komitetas.
     - t-001
     - t-002
     - t-003
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be to,
-    politiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­
-    mą. Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
-    niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė
-    Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
-    onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
-    kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
-    karinėse Rusijos imperijos gubernijose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
 ## Ryšiai
@@ -115,9 +99,9 @@ Sukilimo organizacinis komitetas.
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
+- [[objektai/ivykiai/Vilniaus sukilimo centrinio komiteto susikūrimas]]
 - [[objektai/asmenys/Antanas Goreckis]]
 - [[objektai/asmenys/Edvardas Riomeris]]
 - [[objektai/asmenys/Justinas Hrebnickis]]
 - [[objektai/asmenys/Leonas Rogalskis]]
 - [[objektai/asmenys/Stanislovas Šumskis]]
-- [[objektai/ivykiai/Vilniaus sukilimo centrinio komiteto susikūrimas]]

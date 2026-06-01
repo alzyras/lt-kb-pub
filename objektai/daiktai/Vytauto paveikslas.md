@@ -58,7 +58,7 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: 'Patiko Vytautas ir Katalikų bažnyčiai, nes jis – Lietuvos krikštytojas, pastatęs 33 bažnyčias; tvirta ranka valdęs valstybę jis patiko tautininkams; sportininkai šlovino Vytauto fizinę stiprybę, blaivininkai aiškino, kad Vytautas niekuomet L I E T U V O S I S.'
+  teiginys: '1930 m. Pasvalyje ypatinga ceremonija buvo pagerbtas po Lietuvą keliavęs Vytauto Didžiojo paveikslas.'
   pagrindžia:
     - c-003
 
@@ -103,6 +103,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: '1930 m. Pasvalyje ypatinga ceremonija buvo pagerbtas po Lietuvą keliavęs Vytauto Didžiojo paveikslas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Patiko Vytautas ir

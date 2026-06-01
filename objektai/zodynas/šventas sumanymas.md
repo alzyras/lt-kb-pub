@@ -20,13 +20,14 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“ (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į.'
+  teiginys: '„Šventas sumanymas“ kronikos įvade siejamas su stojimu į Ordiną ir jo veiksmų pateisinimu krikščionybės platinimu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Šventas sumanymas“ kronikos įvade siejamas su stojimu į Ordiną ir jo veiksmų pateisinimu krikščionybės platinimu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikos idėjinė reikšmė ir mokslinė svarba

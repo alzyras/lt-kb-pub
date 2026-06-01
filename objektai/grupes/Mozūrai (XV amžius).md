@@ -39,6 +39,6 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/Ermyderiai|ermyderiai]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/grupes/Valakai]]

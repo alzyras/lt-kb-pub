@@ -53,7 +53,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'In Anno 1572 ad Diem 17 Aprilis [1572 metais iki balandžio 17 dienos] A die 1 Januarii ad 9 Februarii [nuo sausio 1 iki vasario 9 dienos] per tą laiką Varšuvoje pakeičiau lietuviškas mone­ tas į lenkiškus pinigus - 164 zl., 36 gr.'
+  teiginys: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus, suma siekė 164 zl. 36 gr.'
   pagrindžia:
     - c-002
 
@@ -93,6 +93,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus, suma siekė 164 zl. 36 gr.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     In Anno 1572 ad Diem 17 Aprilis
@@ -141,3 +142,4 @@ Nenurodyta
 - [[objektai/asmenys/Turčinas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/suma]]
+- [[objektai/daiktai/Monetos]]

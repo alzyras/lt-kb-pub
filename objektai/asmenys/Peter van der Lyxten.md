@@ -17,13 +17,14 @@ Peter van der Lyxten dabar grįžęs man pranešė, kad Švitrigaila yra laisvė
 ## Teiginiai
 
 - t-001
-  teiginys: 'Peter van der Lyxten dabar grįžęs man pranešė, kad Švitrigaila yra laisvėje, ir kad bu­ vo čionai du kunigaikščiu su žmonių pajėgomis, ir pasta­ rieji išpjovė visus aną saugojusius (užmušė visus, kurie buvo ten, kur jisai sėdėjo nelaisvėje).'
+  teiginys: 'Peter van der Lyxten grįžęs iš Lietuvos pranešė, kad Švitrigaila yra laisvėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Peter van der Lyxten grįžęs iš Lietuvos pranešė, kad Švitrigaila yra laisvėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     164

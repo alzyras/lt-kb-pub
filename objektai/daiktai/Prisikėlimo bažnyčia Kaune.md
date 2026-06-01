@@ -62,4 +62,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Tautos šventykla]]

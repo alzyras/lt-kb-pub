@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Posakis buvo įsiutusių karininkų perspėjimas Seimo nariui, valdžiai pradėjus mažinti karininkų skaičių.'
+  teiginys: 'Posakis „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins“ buvo įsiutusių karininkų perspėjimas Seimo nariui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posakis „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins“ buvo įsiutusių karininkų perspėjimas Seimo nariui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naujoji valdžia, taupydama lėšas, mažino atlygini-

@@ -29,7 +29,7 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
 - t-003
   teiginys: 'Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti šiaurėn, į Löbau.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -47,6 +47,7 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -59,17 +60,3 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti šiaurėn, į Löbau.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet taip neatsitiko. Kai kurių riterių
-    įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti šiaurėn, į
-    Löbau. Ties Löban įsakė pastatyti 12 tiltų, kuriais turėjo pereiti
-    Drevencą ir tokiu būdu užbėgti priešui už akių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

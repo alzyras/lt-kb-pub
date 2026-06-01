@@ -44,7 +44,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -67,23 +66,8 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
-    visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
-    kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę
-    karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
-    kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Henrikas iš Plockės]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -41,7 +41,7 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
 - t-003
   teiginys: 'Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Aleksejus Michailovičius) vadovavo kunigaikštis Jokūbas Kudenekovičius Čerkaskis (iki krikšto — Uruskan-Murza), pasižymėjęs kovose su totoriais.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -61,24 +61,6 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
     - t-002
 
 - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusijos pajėgos
-
-    Rusijos kariuomenei iš tikrųjų (oficialiai —
-    pats caras Aleksejus Michailovičius) vado-
-    vavo kunigaikštis Jokūbas Kudenekovičius
-    Čerkaskis (iki krikšto — Uruskan-Murza),
-    pasižymėjęs kovose su totoriais. Karo su
-    Lenkijos-Lietuvos valstybe metu veikė da-
-    bartinėje Baltarusijos teritorijoje. 1655 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Aleksejus Michailovičius) vadovavo kunigaikštis Jokūbas Kudenekovičius Čerkaskis (iki krikšto — Uruskan-Murza), pasižymėjęs kovose su totoriais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -101,6 +83,7 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

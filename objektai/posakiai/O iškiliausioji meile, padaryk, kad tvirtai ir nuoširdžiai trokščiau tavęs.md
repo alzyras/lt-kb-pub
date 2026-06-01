@@ -31,13 +31,14 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė viešpatį padaryti, kad nebebūtų šio kankintojo, išgirdo balsą, sklindantį iš dangaus ir jam bylojantį: „Albertai, jeigu nori išvengti sunkių pagundų, privalai kiekvieną dieną nuolankiai sukalbėti šią maldą.'
+  teiginys: 'Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi ne tris kartus, bet daugelį kartų jis prašė

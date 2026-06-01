@@ -24,18 +24,19 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Terminas vartojamas aiškinant senąsias vietovardžių ir etnonimų kilmes.'
+  teiginys: 'Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: '`Medė` šiame tekste reiškia mišką arba girią.'
+  teiginys: 'Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     - public_note:
@@ -56,6 +57,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
     - t-002
 
 - c-002
+  santrauka: 'Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Gyventojus tarp upių Nemuno, Ventos ir Nevėžio vadino medininkais nuo to, jog didžiose medėse gyveno,
@@ -71,3 +73,4 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 - [[objektai/zodynas/Įšleitė|įšleitė]]
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/autoriai/S. Daukantas]]

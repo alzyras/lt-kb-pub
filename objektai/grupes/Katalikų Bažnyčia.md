@@ -32,7 +32,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - t-001
   teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.'
@@ -42,7 +42,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - t-003
   teiginys: 'Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo.'
   pagrindžia:
-    - c-017
+    - c-015
 
 - t-004
   teiginys: 'Bažnyčios su dviem grakščiais, skirtingai dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruožu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.'
@@ -52,30 +52,30 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - t-005
   teiginys: 'Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.'
   pagrindžia:
-    - c-012
+    - c-011
 
 - t-006
   teiginys: 'Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją.'
   pagrindžia:
-    - c-020
+    - c-018
 
 - t-007
-  teiginys: 'Visų pirma pripažinome ir pri­ pažįstame, kad mes mirsime, laikydamiesi tvarkos ir vieny­ bės su šventąja motina Bažnyčia ir Romos tikėjimu, todėl su priklausančiu nuolankumu ir pasišventimu išpažinties, Eu­ charistijos ir švento patepimo sakramentus priėmėme.'
+  teiginys: 'Testamente pareikšta ištikimybė Katalikų Bažnyčiai ir Romos tikėjimui, priimant išpažinties, Eucharistijos ir patepimo sakramentus.'
   pagrindžia:
     - c-006
 
 - t-008
-  teiginys: 'Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 71 trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai pačiai.'
+  teiginys: 'Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios stačiatikių vyskupijos.'
   pagrindžia:
-    - c-018
+    - c-016
 
 - t-009
   teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   pagrindžia:
-    - c-016
+    - c-014
 
 - t-010
-  teiginys: '13) savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai, pavesdamas jiems kurti bažnyčias, lengvinti kuni­ gams žmonių krikštijimą, globoti kunigiją ir tikinčiuosius, ginti tikėjimą.'
+  teiginys: '1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje.'
   pagrindžia:
     - c-005
 
@@ -85,9 +85,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-007
 
 - t-012
-  teiginys: 'Jo Prakilnybė nenorėjo priesaika įsipa­ reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja katalikų tikėjimui.'
+  teiginys: 'Vyskupas Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
   pagrindžia:
-    - c-019
+    - c-017
 
 - t-013
   teiginys: 'Nesitaikstanti visuomenė Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
@@ -97,22 +97,22 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - t-014
   teiginys: 'Sovietų valdžia siekė pakirsti katalikų dvasininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje.'
   pagrindžia:
-    - c-015
+    - c-013
 
 - t-015
-  teiginys: 'Šiuo raštu skelbiame visiems, kam dera žinoti, kad didžiai gerbiamas Kristuje tėvas ponas Povilas, Vilniaus vyskupas, sužinojo, kad kažkoks lietuvis Abraomas iš Kul­ vos, mūsų valdinys, ne tik pats nesilaiko vienybės su šven­ tąja Romos katalikų Bažnyčia, bet.'
+  teiginys: 'Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-016
   teiginys: 'Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.'
   pagrindžia:
-    - c-013
+    - c-001
 
 - t-017
   teiginys: 'Jei valdžia būtų leidusi lietuviškas pradžios mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi diskriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.'
   pagrindžia:
-    - c-014
+    - c-012
 
 - t-018
   teiginys: 'Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
@@ -127,12 +127,12 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - t-020
   teiginys: 'Nors „Kronika“ skirta tikinčiajai visuomenei ir kėlė tik tikėjimo reikalus, ji virto Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu, mokė tvirtybės.'
   pagrindžia:
-    - c-011
+    - c-010
 
 - t-021
-  teiginys: 'Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo su juo kovą.'
+  teiginys: 'Katalikų Bažnyčia Vakaruose pradėjo kovą su protestantizmu.'
   pagrindžia:
-    - c-021
+    - c-019
 
 ## Reikšmingi paminėjimai
 
@@ -150,6 +150,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   statusas: verified
   pagrindžia:
     - t-019
+    - t-016
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -208,6 +209,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-002
 
 - c-005
+  santrauka: '1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Popiežius Martynas V, Konstan­
@@ -225,6 +227,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-010
 
 - c-006
+  santrauka: 'Testamente pareikšta ištikimybė Katalikų Bažnyčiai ir Romos tikėjimui, priimant išpažinties, Eucharistijos ir patepimo sakramentus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Paskutinį testamentą ir paskutinę mūsų žemiau
@@ -277,6 +280,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   statusas: verified
   pagrindžia:
     - t-011
+    - t-015
 
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -302,32 +306,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-018
 
 - c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ponas
-    ir tėvonis. Šiuo raštu skelbiame visiems, kam dera žinoti,
-    kad didžiai gerbiamas Kristuje tėvas ponas Povilas, Vilniaus
-    vyskupas, sužinojo, kad kažkoks lietuvis Abraomas iš Kul­
-    vos, mūsų valdinys, ne tik pats nesilaiko vienybės su šven­
-    tąja Romos katalikų Bažnyčia, bet ir daugelį kitų naujais
-    mokslais suklaidina. Suvokdamas, kad jo ganytojiškoms
-    pareigoms priklauso rūpintis, kad jam patikėta kaimenė
-    dogmomis apnuodytu pašaru nebūtų pavojingai nuodija­
-    ma, nutarė kuo rūpestingiausiai ir kruopščiausiai išsiaiš­
-    kinti viską apie Abraomo gyvenimą, papročius, mokslą ir
-    išsiaiškino bei iš patikimų ir pasitikėjimo vertų, priesaiką
-    davusių žmonių liudijimų patyrė, kad anas tiek žodžiais,
-    tiek darbais sąmoningai išpažįsta svetimą, Romos katalikų
-    Bažnyčios pasmerktą mokslą, taip pat stengiasi, kad kartu
-    su juo ir visi kiti Didžiosios Kunigaikštystės žmonės tiems
-    bedieviškiems jo įtikinėjimams paklustų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-015
-
-- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro
@@ -341,7 +319,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-001
 
-- c-011
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai buvo kone vienintelis leidinys, be pertraukos net 17
@@ -367,7 +345,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-020
 
-- c-012
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Aišku, aukštosios mokyklos poreikis brendo visuo-
@@ -381,22 +359,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-005
 
-- c-013
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visa tai – Mindaugo politikos rezulta-
-    tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
-    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
-    organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
-    toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
-    žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-014
+- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
@@ -412,7 +375,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-017
 
-- c-015
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietų valdžia siekė pakirsti katalikų dva-
@@ -426,7 +389,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-014
 
-- c-016
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
@@ -447,7 +410,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-009
 
-- c-017
+- c-015
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
@@ -467,7 +430,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-003
 
-- c-018
+- c-016
+  santrauka: 'Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios stačiatikių vyskupijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo 1387 m.
@@ -484,7 +448,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-008
 
-- c-019
+- c-017
+  santrauka: 'Vyskupas Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi mes nusprendėme taip ir padaryti,
@@ -507,7 +472,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-012
 
-- c-020
+- c-018
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
@@ -523,8 +488,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-006
 
-- c-021
-  santrauka: 'Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo su juo kovą.'
+- c-019
+  santrauka: 'Katalikų Bažnyčia Vakaruose pradėjo kovą su protestantizmu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Protestantizmo antplūdis Lietu-
@@ -568,6 +533,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/grupes/Vokiečiai]]
@@ -590,6 +556,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
 - [[objektai/asmenys/Kristijonas]]
+- [[objektai/asmenys/Martynas V]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/akcijos]]
 - [[objektai/asmenys/Alfonsas Svarinskas]]
@@ -604,4 +571,3 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]
 - [[objektai/autoriai/Vygandas iš Marburgo]]
 - [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]
-- [[objektai/zodynas/barokas]]

@@ -26,18 +26,19 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 ## Teiginiai
 
 - t-001
-  teiginys: 'Abi jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­ go markagrafu, vėliau tapusiu ciesorium Zigmantu.'
+  teiginys: 'Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
@@ -55,24 +56,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
-    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi
-    jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
-    Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
-    go markagrafu, vėliau tapusiu ciesorium Zigmantu. Pirmiausia
-    Lenkijai buvo paskirta Marija, kuriai jau 1383 m. sausio 18 d.
-    susivažiavę lenkų bajorai padarė priesaiką, tik pridėdami sąly­
-    gą, kad Lenkijos karūna nebūtų sujungta su Vengrijos ir kad Ma­
-    rija nuolat gyventų Lenkijoj; nes jie nenorėjo, kad jų kraštas, lyg
-    provincija, būtų valdomas iš Budapešto.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -89,3 +72,4 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 - [[objektai/ivykiai/Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)]]
 - [[objektai/paprociai/Visuotinis mokesčių uždėjimas pagal turto pajėgumą]]
 - [[objektai/zodynas/bažnytinė valstybė]]
+- [[objektai/asmenys/Vilhelmas (dekanas)]]

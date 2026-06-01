@@ -18,29 +18,13 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 249 D.— viri, didi Gobotini, Jer.— dî Gobotinin. Senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680).'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    249 D.— viri, didi Gobotini, Jer.— dî Gobotinin. Senesnėje Olivos kronikoje: generatio
-    [...] Bogatini (SRP, 1, p. 680).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -54,7 +38,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

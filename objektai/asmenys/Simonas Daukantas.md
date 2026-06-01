@@ -36,9 +36,9 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - c-001
 
 - t-002
-  teiginys: 'Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­ čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių tautos istoriją.'
+  teiginys: 'Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-003
   teiginys: 'P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento.'
@@ -48,7 +48,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - t-004
   teiginys: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
   teiginys: 'Simonas Daukantas domėjosi M. Balinskio publikacijomis apie kultūrinį sąjūdį Žemaitijoje ir kitus kultūros klausimus.'
@@ -58,22 +58,17 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - t-006
   teiginys: 'Simono Daukanto tiesioginis viršininkas buvo Lietuvos Metrikos padalinio vadovas Pranciškus Malevskis.'
   pagrindžia:
-    - c-007
+    - c-002
 
 - t-007
   teiginys: 'Simoną Daukantą įkvėpė žinojimas, skatinęs Lietuvos šviesuolius raštu įamžinti savo šalies praeitį.'
   pagrindžia:
     - c-004
 
-- t-008
-  teiginys: 'Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M.'
-  pagrindžia:
-    - c-005
-
 - t-009
   teiginys: 'Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.'
   pagrindžia:
-    - c-009
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -92,6 +87,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   statusas: verified
   pagrindžia:
     - t-001
+    - t-008
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -110,6 +106,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   statusas: verified
   pagrindžia:
     - t-003
+    - t-006
 
 - c-003
   santrauka: 'Simonas Daukantas domėjosi M. Balinskio publikacijomis apie kultūrinį sąjūdį Žemaitijoje ir kitus kultūros klausimus.'
@@ -149,22 +146,6 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
-    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
-    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
-    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
-    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
-    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
-    europietiškos katalikiškos civilizacijos šalininkas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Rengė žodynus,
     netgi parašė lietuvių kalba vadovėlį vidurinėms mokykloms.
     Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–
@@ -177,26 +158,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   pagrindžia:
     - t-004
 
-- c-007
-  santrauka: 'Simono Daukanto tiesioginis viršininkas buvo Lietuvos Metrikos padalinio vadovas Pranciškus Malevskis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kita vertus, pirmoje
-    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
-    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
-    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
-    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
-    Malevskiui už gausius išrašus iš Lietuvos Metrikos. P. Malev-
-    skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
-    partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
-    kas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-008
+- c-006
+  santrauka: 'Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš
@@ -214,7 +177,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   pagrindžia:
     - t-002
 
-- c-009
+- c-007
   santrauka: 'Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

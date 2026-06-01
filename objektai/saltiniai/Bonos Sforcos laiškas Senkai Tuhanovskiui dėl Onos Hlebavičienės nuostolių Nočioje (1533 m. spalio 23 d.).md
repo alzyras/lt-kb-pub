@@ -33,13 +33,14 @@ amziai:
     - c-002
 
 - t-002
-  teiginys: 'Mums skundėsi Polocko vaivadienė ponia Ona Jonienė Hlebavičienė, buvusi Ona Jurjevaitė, esą jos Nočios valdoje, esančioje ties Kłecku, buvo padaryta daug nuostolių ir ža­ los mūsų žmonių Senevlianų, užgrobiant jos žemes, miškus ir pievas ir daugelį kitų.'
+  teiginys: '1533 m. spalio 23 d. Vilniuje rašytame Bonos Sforcos laiške įsakyta ištirti Onos Hlebavičienės nuostolius Nočioje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1533 m. spalio 23 d. Vilniuje rašytame Bonos Sforcos laiške įsakyta ištirti Onos Hlebavičienės nuostolius Nočioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mums skundėsi Polocko vaivadienė ponia Ona Jonienė

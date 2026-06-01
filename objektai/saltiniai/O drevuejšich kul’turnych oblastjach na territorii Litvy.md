@@ -23,13 +23,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: ': 0O drevuejšich kul’turnych oblastjach na territorii Litvy, Sovetskaja Etnografija, t.'
+  teiginys: 'R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. „Sovetskaja Etnografija“ 3 tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. „Sovetskaja Etnografija“ 3 tome.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1937. — Gimbutienė (Gimbutas), Marija : _Lietuvos proistorė,_ LE, t. 15,

@@ -42,4 +42,3 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/zodynas/Žiuponai|žiuponai]]

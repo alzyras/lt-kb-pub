@@ -17,13 +17,14 @@ Dusburgietis teigia, kad [Hollack E.] Vorgeschichtliche Übersichtskarte von Ost
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad [Hollack E.] Vorgeschichtliche Übersichtskarte von Ostpreussen / Im Auftrage des ostpreussischen Provinzial-Verbandes entworfen und gezeichnet von Emil Hollack.'
+  teiginys: '„Vorgeschichtliche Übersichtskarte von Ostpreussen“ Emil Hollack parengė Rytprūsių provincijos sąjungos pavedimu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Vorgeschichtliche Übersichtskarte von Ostpreussen“ Emil Hollack parengė Rytprūsių provincijos sąjungos pavedimu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [Hollack E.] Vorgeschichtliche Übersichtskarte von Ostpreussen / Im Auftrage des

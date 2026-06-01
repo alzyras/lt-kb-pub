@@ -33,18 +33,14 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­ na Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis, ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą, ne.'
-  pagrindžia:
-    - c-001
-
-- t-003
   teiginys: 'Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1294 m. Mazovijos kunigaikštis Boleslovas Viznos pilyje vaišino lietuvius ir leido jiems plėšti Prūsijos bei Lenkijos žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     258 (251). Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
@@ -58,8 +54,6 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -84,30 +78,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
-    vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,
-    kunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,
-    o bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė
-    į nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,
-    neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
-    be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
-    belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių. Po to, kai jie ėmė
-    trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
-    žūties, leidosi jų persekioti su tūkstančiu  ir aštuoniais šimtais vyrų. Šitai sužinojęs,
-    Mazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui
-    tarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai
-    sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį paliaubų susitarimą, užpuolė
-    juos  ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris
-    paspruko, kad galėtų kitiems apie tai papasakoti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -116,4 +87,3 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 ### Susiję objektai
 - [[objektai/asmenys/Boleslovas]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]

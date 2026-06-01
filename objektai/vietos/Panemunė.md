@@ -29,7 +29,7 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­ nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis dėlto atsiuntė savo brolį Kaributą pagalbon.'
+  teiginys: 'Vytautas, išvykęs žvalgybų į Panemunę, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos.'
   pagrindžia:
     - c-001
 
@@ -41,6 +41,7 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas, išvykęs žvalgybų į Panemunę, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1380 metų vasario mėn. jis jau vienas

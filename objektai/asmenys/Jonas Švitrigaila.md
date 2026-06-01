@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šioje sutartyje tarp kunigaikščių ir prelatų nurodyti: Černigovo ku­ nigaikštis Švitrigaila, Vilniaus vys­ kupas Motiejus ir Medininkų (Žemai­ tija) vyskupas nominatas Mikalojus.'
+  teiginys: 'Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šioje sutartyje tarp kunigaikščių
@@ -61,4 +62,4 @@ tags:
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/seniūnas]]
-- [[objektai/asmenys/Mantautas]]
+- [[objektai/asmenys/Švitrigaila]]

@@ -102,4 +102,5 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - [[objektai/ivykiai/Vikingų įsigalėjimas aisčių kraštuose ir jų sodybų sunaikinimas]]
 - [[objektai/grupes/Bizantijos imperija]]
 - [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]
+- [[objektai/zodynas/Variagai]]
 - [[objektai/grupes/Voluiniečiai]]

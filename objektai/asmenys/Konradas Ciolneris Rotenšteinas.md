@@ -25,23 +25,24 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­ kos sėkmingos, didysis magistras Konradas Ciolneris Rotenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų rugpjūtį ties Kaunu.'
+  teiginys: '1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas su didelėmis pajėgomis persikėlė per Nemuną ties Kaunu ir niokojo kraštą.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino maršalo Engelhardo Rabės22, kadangi didysis magistras Konradas Ciolneris gu­ lėjo pakirstas sunkios ligos.'
+  teiginys: 'Konradas Ciolneris negalėjo vadovauti žygiui, nes tuo metu sirgo sunkia liga.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: '22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv.'
+  teiginys: 'Konradas Ciolneris fon Rotenšteinas mirė iki 1390 m. rugpjūčio 15 d., kai Konradas Valenrodas tapo didžiojo magistro vietininku.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas su didelėmis pajėgomis persikėlė per Nemuną ties Kaunu ir niokojo kraštą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     40
@@ -66,6 +67,7 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
     - t-001
 
 - c-002
+  santrauka: 'Konradas Ciolneris fon Rotenšteinas mirė iki 1390 m. rugpjūčio 15 d., kai Konradas Valenrodas tapo didžiojo magistro vietininku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabartinis
@@ -104,6 +106,7 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
     - t-003
 
 - c-003
+  santrauka: 'Konradas Ciolneris negalėjo vadovauti žygiui, nes tuo metu sirgo sunkia liga.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
@@ -135,6 +138,7 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/vietininkas]]
 - [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]
 - [[objektai/zodynas/Ordino maršalas didysis maršalas]]
 - [[objektai/zodynas/didysis komtūras arkikomtūras]]

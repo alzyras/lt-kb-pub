@@ -35,13 +35,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti.'
+  teiginys: 'Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir prisiekė Jogai­
@@ -69,4 +70,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vaidila]]

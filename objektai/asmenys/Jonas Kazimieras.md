@@ -58,3 +58,4 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaitas]]
+- [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]

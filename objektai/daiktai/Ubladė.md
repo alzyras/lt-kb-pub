@@ -75,4 +75,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Duona]]
-- [[objektai/paprociai/Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų]]

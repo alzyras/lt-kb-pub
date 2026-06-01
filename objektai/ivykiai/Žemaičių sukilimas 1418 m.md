@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Įkūrus vyskupiją, pasibaigė vienas Žemaičių krikšto eta­ pas — bažnytinių reikalų tvarkymas, bet prasidėjo labai svar­ bus kitas— katalikų tikėjimo įsamoninimas žmonėse.'
+  teiginys: 'Įkūrus Žemaičių vyskupiją, baigėsi bažnytinių reikalų tvarkymo etapas ir prasidėjo katalikų tikėjimo įsąmoninimas žmonėse.'
   pagrindžia:
     - c-001
 
@@ -55,6 +55,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Įkūrus Žemaičių vyskupiją, baigėsi bažnytinių reikalų tvarkymo etapas ir prasidėjo katalikų tikėjimo įsąmoninimas žmonėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Įkūrus vyskupiją, pasibaigė vienas Žemaičių krikšto eta­

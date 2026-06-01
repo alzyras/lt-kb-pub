@@ -24,13 +24,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '58 Valerianae Bursae Erectio et Provisio [Valerijono bursos statyba ir aprū­ pinimas], Vilniaus kapitulos archy­ ve.'
+  teiginys: '„Valerianae Bursae Erectio et Provisio“ dokumentas buvo saugomas Vilniaus kapitulos archyve ir datuotas 1579 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Valerianae Bursae Erectio et Provisio“ dokumentas buvo saugomas Vilniaus kapitulos archyve ir datuotas 1579 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     58

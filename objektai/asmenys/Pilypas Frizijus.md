@@ -29,7 +29,7 @@ periodo_grupes: []
     - c-001
 
 - t-002
-  teiginys: '1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­ dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų, pusę to činšo, 400.'
+  teiginys: '1632 m. sausio 2 d. Akademijos rektorius Pilypas Frizijus nupirko mūrinį namą ir Valerijono bursai mokėjo 400 auksinų činšo.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ periodo_grupes: []
     - t-001
 
 - c-002
+  santrauka: '1632 m. sausio 2 d. Akademijos rektorius Pilypas Frizijus nupirko mūrinį namą ir Valerijono bursai mokėjo 400 auksinų činšo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
@@ -90,6 +91,7 @@ periodo_grupes: []
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaitas]]
+- [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/kunigas]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/činšas]]
+- [[objektai/grupes/Žydai]]

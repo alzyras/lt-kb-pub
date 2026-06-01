@@ -29,13 +29,14 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad pradžios dokumentuose ir kronikose terminu žemė (plačiąja prasme) vadinamos visos prūsų žemės (1243 m.— terra Pruscie — PUB, 1, Nr. 144, p. 109 ir kt.; terra Prussie — D.'
+  teiginys: 'XIII ir XIV a. pradžios dokumentuose bei kronikose terminu žemė vadintos visos prūsų žemės ir atskiros prūsų žemės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XIII ir XIV a. pradžios dokumentuose bei kronikose terminu žemė vadintos visos prūsų žemės ir atskiros prūsų žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII ir XIV a. pradžios dokumentuose ir kronikose terminu žemė (plačiąja prasme)

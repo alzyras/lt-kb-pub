@@ -39,19 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kai vėliau traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką. Ledas buvo toks minkštas, kad bangavo nelyginant vanduo audros metu, kai, stipriam vėjui pučiant, jis kyla aukštyn ir krinta žemyn. Todėl ir žmonės tarpais kopė ledu.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas.'
   pagrindžia:
     - c-002
-    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Karšuvos žygio kariuomenė traukė užšalusiomis Kuršių mariomis per minkštą, banguojantį ledą, tačiau nė vienas žmogus nenuskendo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai vėliau
@@ -63,8 +58,6 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -80,37 +73,8 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+    - t-001
     - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į
-    Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į
-    saugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,
-    sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse. Kai vėliau
-    traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    285 (278). Apie Karšuvos žemės nusiaubimą
-
-      Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į
-    Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į
-    saugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,
-    sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

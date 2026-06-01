@@ -26,7 +26,7 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
+  teiginys: '1582 m. rašte prašoma, kad karalius Steponas priimtų Vilniaus seminariją į savo globą ir gynybą.'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1582 m. rašte prašoma, kad karalius Steponas priimtų Vilniaus seminariją į savo globą ir gynybą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kadangi no­

@@ -18,13 +18,14 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.'
+  teiginys: 'Per poną Turčiną į Vilnių pasiųsta 80 filipkų, kurias karaliaus paliepimu iždas priėmė po vieną floriną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per poną Turčiną į Vilnių pasiųsta 80 filipkų, kurias karaliaus paliepimu iždas priėmė po vieną floriną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lu-
@@ -44,4 +45,3 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
 ### Susiję objektai
 - [[objektai/asmenys/Turčinas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Slupskis]]

@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­ dinti ir stiprinti Rittersverderio pilį52.'
+  teiginys: 'Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą už Nemuno ėmė statydinti ir stiprinti Rittersverderio pilį.'
   pagrindžia:
     - c-002
 
@@ -113,6 +113,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą už Nemuno ėmė statydinti ir stiprinti Rittersverderio pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visa tai vyko žiemos pabaigo­

@@ -91,23 +91,6 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio kalno Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas ten Livonijos broliams iš Prūsijos žemės kaip magistras.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    83 (80). Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno
-
-      Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas
-    ten Livonijos broliams iš Prūsijos žemės kaip magistras. Turėdamas kuo tiksliausių žinių
-    apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus,
-    jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą,
-    Karšuvos žemėje343, ant švento Jurgio kalno344, 1259 viešpaties metais būtų pastatyta
-    pilis, kuri tada buvo itin reikalinga krikščionių tikėjimui plėsti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -120,5 +103,4 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 - [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/asmenys/Henrikas Botelis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.)]]

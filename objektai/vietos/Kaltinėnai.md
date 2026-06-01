@@ -29,7 +29,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias parapijines bažnyčias: Viduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­ žiuose, Airiogaloje, Veliuonoje.'
+  teiginys: '1416 metais Vytautas Kaltinėnuose pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
     - t-002
 
 - c-002
+  santrauka: '1416 metais Vytautas Kaltinėnuose pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordinu, jis pats darbavosi Žemaitijoje, stiprindamas ten

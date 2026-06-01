@@ -24,13 +24,14 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
     - c-002
 
 - t-002
-  teiginys: 'Sapiega.'
+  teiginys: 'K. N. Sapiega, LLV Seimo lietuviškosios pusės maršalas, balsavo už tolesnį priešinimąsi karaliaus pozicijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. N. Sapiega, LLV Seimo lietuviškosios pusės maršalas, balsavo už tolesnį priešinimąsi karaliaus pozicijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Septyni ministrai palaikė karalių,

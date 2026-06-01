@@ -29,12 +29,12 @@ Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­ čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių tautos istoriją.'
+  teiginys: 'Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos praeities veikalų buvo nedaug.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Balinskis buvo kruopštus, pedantiškas istorikas, kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­ zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį.'
+  teiginys: 'Teodoras Narbutas rašydavo apie istorinius įvykius ir be atitinkamos faktografinės bazės.'
   pagrindžia:
     - c-003
 
@@ -46,6 +46,7 @@ Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos praeities veikalų buvo nedaug.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš
@@ -84,6 +85,7 @@ Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
     - t-003
 
 - c-003
+  santrauka: 'Teodoras Narbutas rašydavo apie istorinius įvykius ir be atitinkamos faktografinės bazės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gimęs Lenkijos-Lie­

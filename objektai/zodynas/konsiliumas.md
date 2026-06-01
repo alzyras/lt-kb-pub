@@ -27,7 +27,7 @@ amziai:
 - t-001
   teiginys: 'Bažnyčios suvažiavimas Bazely ir bažnytinės unijos klausimas Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
@@ -50,23 +50,10 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **3. Bažnyčios suvažiavimas Bazely ir bažnytinės unijos**
-        **klausimas**
-    Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj)
-    vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas. Ja-
-    me, tarp kitko, buvo iškeltas ir bažnytinės unijos klausimas, ku-
-    ris jau buvo spręstas Konstancos suvažiavime.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Švitrigaila]]

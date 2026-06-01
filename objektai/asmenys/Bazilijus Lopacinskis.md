@@ -29,13 +29,14 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį.'
+  teiginys: '1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I I  TOMAS

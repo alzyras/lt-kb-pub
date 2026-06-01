@@ -39,7 +39,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     - c-001
 
 - t-003
-  teiginys: 'Voveris žuvo 1949 m. MGB užverbuotiems agentams K.'
+  teiginys: 'V. Voveris žuvo 1949 m., kai MGB užverbuoti agentai K. Kubilinskas-Varna ir A. Slinkis-Rytas išdavė Dainavos apygardos vadavietę.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     - t-002
 
 - c-002
+  santrauka: 'V. Voveris žuvo 1949 m., kai MGB užverbuoti agentai K. Kubilinskas-Varna ir A. Slinkis-Rytas išdavė Dainavos apygardos vadavietę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1948 m. sunkvežimio netoli Onuškio susprogdinimas su 19 vietinės įgulos

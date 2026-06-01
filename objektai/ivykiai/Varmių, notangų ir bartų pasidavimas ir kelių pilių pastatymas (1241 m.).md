@@ -43,32 +43,13 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab. Slavskoje) į pietus nuo Frišingo (dab. Prochladnaja) upės, į rytus nuo Baigos. Aukštas piliakalnis su pilies griuvėsiais išliko į pietus nuo miesto, deš. Kaustros (D.— Caustere, Jer.— tiliz.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą Varmės, Notangos ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė tikėjimui ir.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab. Slavskoje)  į
-    pietus nuo Frišingo (dab. Prochladnaja) upės, į rytus nuo Baigos. Aukštas piliakalnis su
-    pilies griuvėsiais išliko į pietus nuo miesto, deš. Kaustros (D.— Caustere, Jer.— tiliz [...]
-    Kauxtere; GAO, p. 58) krante (Boetticher A., Die Bau...., 2, p. 65; CV, t. 33, sąs. 2, p.
-    299). Kroicburgas pastatytas 1253 m. (SRP, 1, p. 270, 280).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
@@ -88,14 +69,11 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bartai]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Notangai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/autoriai/Boetticher A]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Varmiai]]

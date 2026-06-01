@@ -33,7 +33,7 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šventiškių kaimas (LUEV, p. 223), Šventakiemis prie Katinavos (1915 m. žemėlapis).'
+  teiginys: 'Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys.'
   pagrindžia:
     - c-002
 
@@ -54,6 +54,7 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
     - t-001
 
 - c-002
+  santrauka: 'Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pisos upės deš. intakas Golba prie Narpiškių kaimo buvęs šventas (Pratorius M.,

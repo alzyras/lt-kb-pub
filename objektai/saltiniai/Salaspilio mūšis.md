@@ -39,9 +39,9 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
     - c-001
 
 - t-003
-  teiginys: '2 Ba Karolis IX Švedai tuoj pat pradeda puolimą ir E ž Salaspilio mūšio schemų viršus suorentuotas neįšiaurę, bet į pietus, siekiant jas sutapatinti su P.'
+  teiginys: 'Salaspilio mūšyje Karolio IX vadovaujami švedai tuoj pat pradėjo puolimą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -72,35 +72,7 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
     - t-002
 
 - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ė 3 “ tuoti atsitraukimą.
-    2 Ba Karolis IX Švedai tuoj pat pradeda puolimą ir
-    E ž
-
-    *Salaspilio mūšio schemų viršus suorentuotas
-    neįšiaurę, bet į pietus, siekiant jas sutapatinti
-    su P. Snayerso paveikslu „Salaspilio mūšis“
-
-    te
-    Brandtas
-    tates
-
-    7,
-    =
-    a de
-
-    tuviy kariuomenės dešinįjį
-    sparną, išeiti jiems į užnu-
-    garį ir nustumti į Dauguvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: '2 Ba Karolis IX Švedai tuoj pat pradeda puolimą ir E ž Salaspilio mūšio schemų viršus suorentuotas neįšiaurę, bet į pietus, siekiant jas sutapatinti su P.'
+  santrauka: 'Salaspilio mūšyje Karolio IX vadovaujami švedai tuoj pat pradėjo puolimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     A
@@ -129,3 +101,4 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001

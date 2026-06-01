@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vladislovas Jogaila, aukščiausiąją valdžią Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­ jungta prie Lenkijos.'
+  teiginys: '1401 m. Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė, kad po Vytauto mirties Lietuva grįš Jogailai ir Lenkijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1401 m. Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė, kad po Vytauto mirties Lietuva grįš Jogailai ir Lenkijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vladislovas Jogaila, aukščiausiąją valdžią

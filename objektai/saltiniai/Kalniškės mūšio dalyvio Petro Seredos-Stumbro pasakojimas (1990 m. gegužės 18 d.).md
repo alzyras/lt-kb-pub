@@ -39,7 +39,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
 - t-002
   teiginys: 'Petras Sereda-Stumbras pasakojo, kad NKVD kariuomenė Kalniškės mišką apsupo iš vakaro Simno stribų prašymu.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Petras Sereda-Stumbras pasakojo, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų būrį apsupo NKVD kariuomenė.'
@@ -83,25 +83,4 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  santrauka: 'Petras Sereda-Stumbras pasakojo, kad NKVD kariuomenė Kalniškės mišką apsupo iš vakaro Simno stribų prašymu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tauta ir kiekvienas pilietis turi teisę
-    priešintis bet kam, kas prievarta kėsinasi į
-    Lietuvos valstybės nepriklausomybę, terito-
-    rijos vientisumą, konstitucinę santvarką.“
-
-    MŪŠIO DALYVIO ATSIMINIMAI
-
-    Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio da-
-    lyvio Petro Seredos-Stumbro pasakojimo ištrauka:
-
-    »---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD
-    kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

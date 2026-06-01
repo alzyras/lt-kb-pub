@@ -84,6 +84,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/kunigaikščiai]]

@@ -27,7 +27,7 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko, Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių Ordino.'
+  teiginys: '1379 m. Ordino magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikštijos sričių, tarp jų ir Mielniko.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1379 m. Ordino magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikštijos sričių, tarp jų ir Mielniko.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­

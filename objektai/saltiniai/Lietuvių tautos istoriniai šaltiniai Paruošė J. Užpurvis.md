@@ -25,13 +25,14 @@ Dusburgietis teigia, kad lietuvių tautos istoriniai šaltiniai / Paruošė J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad lietuvių tautos istoriniai šaltiniai / Paruošė J.'
+  teiginys: 'J. Užpurvio parengti „Lietuvių tautos istoriniai šaltiniai“ išleisti Klaipėdoje 1938–1939 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Užpurvio parengti „Lietuvių tautos istoriniai šaltiniai“ išleisti Klaipėdoje 1938–1939 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvių tautos istoriniai šaltiniai / Paruošė J. Užpurvis — T. 1—2 —Klaipėda, 1938—

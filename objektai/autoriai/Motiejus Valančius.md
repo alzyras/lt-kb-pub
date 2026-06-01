@@ -54,23 +54,22 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-002
   teiginys: 'Vysk. Motiejus Valančius pats parašė daugybę knygučių.'
   pagrindžia:
-    - c-012
+    - c-011
 
 - t-003
   teiginys: 'Vysk. Motiejus Valančius išspausdino 1867—1869 m. knygutes spaudos kovai.'
   pagrindžia:
     - c-002
-    - c-008
 
 - t-004
   teiginys: 'Vysk. Motiejus Valančius parašė ir kitas žinomas knygas bei knygeles.'
   pagrindžia:
-    - c-011
+    - c-010
 
 - t-005
-  teiginys: 'Valančius minimas tarp autorių, kurių raštai Amerikoje buvo išleisti.'
+  teiginys: 'Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.'
   pagrindžia:
-    - c-013
+    - c-012
 
 - t-006
   teiginys: 'Valančiaus raginimu daug kur atsirado slaptų mokyklų, kuriose mokyta iš draudžiamųjų knygų.'
@@ -80,7 +79,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-007
   teiginys: 'Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-008
   teiginys: 'Valančiaus 1867—1869 m. knygutės buvo politinės brošiūros, kuriose pirmą kartą išdėstyta prieš rusų valdžią nukreipta lietuvių politinė programa.'
@@ -98,14 +97,14 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - c-003
 
 - t-011
-  teiginys: 'Valančius XIX a.'
+  teiginys: 'Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.'
   pagrindžia:
     - c-005
 
 - t-012
   teiginys: 'Sveikas pažiūras ir gana kritišką nusistatymą link šaltinių parodė Motiejus Valančius savo 2-jų tomų veikale « Žemaičių Vyskupystėje »^43.'
   pagrindžia:
-    - c-010
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -182,6 +181,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - t-001
 
 - c-005
+  santrauka: 'Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai išryškės
@@ -231,21 +231,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Pirmieji slapti raštai.** Didžiausią reikšmę kovai dėl spaudos
-    laisvės turėjo šios 1867—1869 m. išspausdintos Valančiaus kny-
-    gutės: „Broliai katalikai", „Grometa apskrita", „Iš tamsybės veda
-    kelias teisybės", „Perspėjimas", „Šnekesys kataliko su nekata-
-    liku" ir „Katalikų Bažnyčios vargai". Nors jos lietė tikybos
-    klausimus, bet iš tikrųjų buvo politinės brošiūros.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-009
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
     XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-
     saulio dvasininkai ėmė skelbti blaivybę. Lietuvoje didžiausią
     pasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-
@@ -261,7 +246,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   pagrindžia:
     - t-007
 
-- c-010
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tik
@@ -278,7 +263,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   pagrindžia:
     - t-012
 
-- c-011
+- c-010
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors jos lietė tikybos
@@ -297,7 +282,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   pagrindžia:
     - t-004
 
-- c-012
+- c-011
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš ten slapta knygos
@@ -311,7 +296,8 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   pagrindžia:
     - t-002
 
-- c-013
+- c-012
+  santrauka: 'Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Per 35 m. ji išleido 40
@@ -347,5 +333,4 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/zodynas/tautinė sąmonė]]
 - [[objektai/zodynas/šiuolaikinė tautos (nacijos) samprata]]
-- [[objektai/posakiai/„Vyskupo M. Valančiaus „kunigaikštystė““]]
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]

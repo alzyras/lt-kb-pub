@@ -17,13 +17,14 @@ Kromerio kronikos.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kromerio kronikos.'
+  teiginys: 'M. Kromerio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, naudotų Lietuvos istorijos pasakojimui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Kromerio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, naudotų Lietuvos istorijos pasakojimui.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Laikydama pagrindu Lietuvos valstybės žemes, ji

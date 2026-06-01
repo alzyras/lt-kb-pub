@@ -26,13 +26,14 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
 ## Teiginiai
 
 - t-001
-  teiginys: 'Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, Butautas, Vaidotas, Vytautas, Tautvila ir Zigmantas; dukte­ rys : Miklausa, Danuta, Ringailė ir vienos vardas nežinomas.'
+  teiginys: 'Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kęstutis, matyt, buvo buvęs du kartu

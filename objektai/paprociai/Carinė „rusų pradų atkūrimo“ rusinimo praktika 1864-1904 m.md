@@ -53,7 +53,7 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintojas ir vienas jos sumanytojų Vilniaus generalgubernatorius M.'
+  teiginys: '1864–1904 m. rusinimo politikos ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.'
   pagrindžia:
     - c-003
 
@@ -108,6 +108,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: '1864–1904 m. rusinimo politikos ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Juk separatizmas tarpo pirmiausia vietos bajoriškoje
@@ -144,6 +145,5 @@ Nenurodyta
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/separatizmas]]
 - [[objektai/zodynas/rusinimas rusinimo politika]]
-- [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]

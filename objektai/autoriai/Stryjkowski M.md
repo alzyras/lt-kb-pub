@@ -17,18 +17,19 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.'
+  teiginys: 'M. Stryjkowskis 1582 m. Karaliaučiuje paskelbė „Kronika polska, litewska, żmódzka i wszystkiej Rusi“.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad stryjkowski M.'
+  teiginys: 'M. Stryjkowskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ pirmasis tomas išleistas Varšuvoje 1846 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Stryjkowskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ pirmasis tomas išleistas Varšuvoje 1846 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
@@ -40,6 +41,7 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
     - t-002
 
 - c-002
+  santrauka: 'M. Stryjkowskis 1582 m. Karaliaučiuje paskelbė „Kronika polska, litewska, żmódzka i wszystkiej Rusi“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.

@@ -25,7 +25,7 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
     - c-001
 
 - t-002
-  teiginys: '3) Gediminas, dieviškąja apvaizda lietuvių ir rusų kara­ lius, Žemgalijos valdovas ir kunigaikštis, pasišventusiems Kristui vienuoliams ir garbingiems bei pamaldiems tėvams, ministrams, kustodams ir gvardijonams ir visiems kitiems pranciškonų ordino broliams.'
+  teiginys: 'Gediminas laiške pranciškonams save vadino dieviškąja apvaizda lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.'
   pagrindžia:
     - c-002
 
@@ -64,6 +64,7 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
     - t-001
 
 - c-002
+  santrauka: 'Gediminas laiške pranciškonams save vadino dieviškąja apvaizda lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būkite sveiki.

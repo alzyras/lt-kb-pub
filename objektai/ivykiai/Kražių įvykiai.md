@@ -48,26 +48,11 @@ Nenurodyta
 - t-002
   teiginys: 'Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo formavimuisi.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Buvo sužeistų ir užmuštų, išprievartautų mote-
-    rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“. Brutalus rusų
-    valdžios elgesys sukėlė ir blaiviau mąstančių rusų visuomenės sluoksnių
-    pasipiktinimą, protestavo Vatikanas. Teisiamų už pasipriešinimą valdžios
-    nurodymams kražiečių stojo ginti garsūs advokatai, todėl bausmės nebu-
-    vo griežtos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo formavimuisi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -85,6 +70,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

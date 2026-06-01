@@ -42,27 +42,27 @@ Nenurodyta
 - t-001
   teiginys: 'Dvasininkų skyrimo paprotys kaip atlygio sistema: be to, dar reikia priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis kunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku-.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Dvasininkų skyrimo paprotys kaip atlygio sistema: aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis kunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku- nigų — vyskupas. Kadangi daugumas Lietuvos parapijų buvo įkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė didysis kunigaikštis.'
   pagrindžia:
-    - c-003
+    - c-004
 
 - t-003
-  teiginys: 'Dvasininkų skyrimo paprotys kaip atlygio sistema: daug kam būdavo lengva gauti tokias vietas, nes jas dalindavo valdovas arba ponai. O kadangi vyskupystes, kapitulas ir daugelį parapijų buvo įkūrę ir išlaikydavo valdovai, tai jiems priklausydavo ir tų vietų dali- nimas. Ir didžiūnai savo dvaruose buvo įkūrę.'
+  teiginys: 'Valdovai ir ponai dalijo bažnytines vietas, todėl dvasininkais dažnai tapdavo žmonės, siekę jų pelningumo.'
   pagrindžia:
     - c-002
 
 - t-004
   teiginys: 'Dvasininkų skyrimo paprotys kaip atlygio sistema: tais laikais į bažnytines vietas buvo žiūrima, kaip į pel- ningą pragyvenimo šaltinį, ir jos būdavo atiduodamos tam, kas kuriuo nors būdu nusipelnydavo didžiajam kunigaikščiui. Tuo būdu į dvasininkus įsibraudavo daug žmonių, kurie nieko bendro neturėdavo su.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
-  teiginys: 'Dvasininkų skyrimo paprotys kaip atlygio sistema: priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis kunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku- nigų — vyskupas..'
+  teiginys: 'Pagal tuometinį dvasininkų skyrimo paprotį klebonus skirdavo bažnyčią pastačiusieji ir aprūpinusieji asmenys.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Dvasininkų skyrimo paprotys kaip atlygio sistema: priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir.'
@@ -87,6 +87,7 @@ Nenurodyta
     - t-006
 
 - c-002
+  santrauka: 'Valdovai ir ponai dalijo bažnytines vietas, todėl dvasininkais dažnai tapdavo žmonės, siekę jų pelningumo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daug kam būdavo lengva
@@ -107,20 +108,6 @@ Nenurodyta
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis
-    kunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku-
-    nigų — vyskupas. Kadangi daugumas Lietuvos parapijų buvo
-    įkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė
-    didysis kunigaikštis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
     Lietuvių kunigų buvo labai maža, nes Lietuvoje ne-
     buvo mokyklų, kuriose jie būtų galėję ruoštis. Be to, dar reikia
     priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje
@@ -136,7 +123,8 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-005
+- c-004
+  santrauka: 'Pagal tuometinį dvasininkų skyrimo paprotį klebonus skirdavo bažnyčią pastačiusieji ir aprūpinusieji asmenys.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, dar reikia
@@ -154,8 +142,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+    - t-002
 
-- c-006
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tais laikais į bažnytines vietas buvo žiūrima, kaip į pel-

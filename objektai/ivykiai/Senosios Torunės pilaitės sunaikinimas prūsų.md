@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad torunės pilies vietoje dar 1000—500 m. pr.'
+  teiginys: 'Dabartinės Torunės pilies vietoje stovėjusi X a. vidurio–XII–XIII a. sandūros pilaitė buvo sunaikinta prūsų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dabartinės Torunės pilies vietoje stovėjusi X a. vidurio–XII–XIII a. sandūros pilaitė buvo sunaikinta prūsų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.

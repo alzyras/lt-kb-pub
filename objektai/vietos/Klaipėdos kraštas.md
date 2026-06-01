@@ -30,7 +30,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 ## Teiginiai
 
 - t-001
-  teiginys: 'Klaipėdos sukilimas, kuriam vadovavo J.'
+  teiginys: 'Jono Budrio vadovaujamas Klaipėdos sukilimas padėjo Lietuvai XX a. pirmoje pusėje susigrąžinti Klaipėdos kraštą.'
   pagrindžia:
     - c-001
 
@@ -82,6 +82,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jono Budrio vadovaujamas Klaipėdos sukilimas padėjo Lietuvai XX a. pirmoje pusėje susigrąžinti Klaipėdos kraštą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Klaipėdos sukilimas, kuriam vadovavo J. Budrys, tapo paskutine ofenzyvinio pobūdžio Lietuvos karinė operacija, kurios dėka xx a. pirmoje pusėje buvo susigrąžintas

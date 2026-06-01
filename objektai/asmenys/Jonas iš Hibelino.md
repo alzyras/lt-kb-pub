@@ -20,13 +20,14 @@ Dusburgietis teigia, kad jonas iš Hibelino sušakosiąs ir ateityje duosiąs ga
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad jonas iš Hibelino sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
+  teiginys: 'Jonas iš Hibelino buvo vienas iš Jeruzalės karalystės didikų, pritarusių siūlymui prašyti popiežiaus patvirtinti ligoninę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas iš Hibelino buvo vienas iš Jeruzalės karalystės didikų, pritarusių siūlymui prašyti popiežiaus patvirtinti ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors
@@ -69,5 +70,4 @@ Dusburgietis teigia, kad jonas iš Hibelino sušakosiąs ir ateityje duosiąs ga
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]

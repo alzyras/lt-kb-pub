@@ -44,12 +44,10 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
 ### Susiję objektai
 - [[objektai/grupes/Estai]]
 - [[objektai/autoriai/K. Būga]]
-- [[objektai/autoriai/Ibrahim ibn Jakūb]]
 - [[objektai/grupes/Lietuvių Draugija Estijoje]]
 - [[objektai/grupes/Lietuvių Suomių Draugija]]
 - [[objektai/grupes/Lybiai]]
 - [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]
-- [[objektai/daiktai/Pilkapiai Žemaitijoje, vadinti Milžinų Kapais]]
 - [[objektai/posakiai/Tie bevardžiai kapai - paminklas amžinas mūšio|Tie bevardžiai kapai - paminklas amžinas mūšio (mūšis)]]
 - [[objektai/asmenys/Valdemaras IV]]
 - [[objektai/grupes/Venedai]]

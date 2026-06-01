@@ -22,7 +22,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 - t-001
   teiginys: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Politinės lietuvių tautos pagrindinis požymis buvo priklausymas kilmingiesiems LDK gyventojams.'
@@ -53,6 +53,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -69,30 +70,10 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   pagrindžia:
     - t-002
 
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuosavybės santykiuose susiformuoja leno teisė, socia-
-    linėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje
-    ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų
-    ūkyje – cechai, edukacijoje – europinė švietimo sistema (katedrinės mo-
-    kyklos ir jų triviumas, kolegijos ir universitetas). Krikščioniškasis men-
-    talitetas įsigali bent jau tarp visuomenės elito (antemurale christianita-
-    tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
-    susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
-    Christianizacija ir šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/christianizacija]]
 - [[objektai/zodynas/lenas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/bajorų tauta politinė lietuvių tauta]]

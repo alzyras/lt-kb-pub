@@ -29,7 +29,7 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
 - t-001
   teiginys: 'Vasarį lietuvių valdovai apgulė Lunenburgą ir sunaikino jo papilį per puolimą Prūsijoje.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-002
   teiginys: '1347 m. vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą, sunaikino jo papilį.'
@@ -37,7 +37,7 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad 594 D.— Lunenburgk, Jer.— Lûnenburc (plg.'
+  teiginys: 'Lunenburgas vėliau vadintas Leunenburgu, o dabar tapatinamas su Sontočnu į pietryčius nuo Sempopolio.'
   pagrindžia:
     - c-002
 
@@ -64,8 +64,10 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
+  santrauka: 'Lunenburgas vėliau vadintas Leunenburgu, o dabar tapatinamas su Sontočnu į pietryčius nuo Sempopolio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     594 D.— Lunenburgk, Jer.— Lûnenburc (plg. lie. liūnas, Liūnai — GAO, p. 92); vėliau
@@ -94,20 +96,3 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1347 m. vasarį „abu lietuvių karaliai“
-    puolė Prūsijoje Rastenburgą, niokojo
-    Bartos žemę iki Girdavų pilies, apgulė
-    Lunenburgą, sunaikino jo papilį.
-
-    Nuo lietuvių puolimo Ordinas bandė sau-
-    goti Sembą. Magistras su gausia kariuomene
-    įvairiose vietose priešais Lietuvos žemes
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001

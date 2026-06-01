@@ -37,7 +37,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-003
 
 - t-002
-  teiginys: 'Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus į Paryžių, tos pat dienos vakare 11:45 J.'
+  teiginys: '1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių.'
   pagrindžia:
     - c-009
 
@@ -49,12 +49,12 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 - t-004
   teiginys: 'Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su pasauline literatūra, menu.'
   pagrindžia:
-    - c-014
+    - c-012
 
 - t-005
   teiginys: 'Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje parodoje.'
   pagrindžia:
-    - c-015
+    - c-013
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
@@ -74,10 +74,10 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 - t-009
   teiginys: 'Dusburgietis teigia, kad apkaltintas erezija Tamplierių ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo Paryžiuje 1314 m.69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
   pagrindžia:
-    - c-013
+    - c-011
 
 - t-010
-  teiginys: 'Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną A.'
+  teiginys: 'Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija.'
   pagrindžia:
     - c-004
 
@@ -89,12 +89,12 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 - t-012
   teiginys: 'Versalio sistemoje Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
   pagrindžia:
-    - c-012
+    - c-002
 
 - t-013
   teiginys: 'Dusburgietis teigia, kad tuo pat metu Paryžiuje daugiau triūsė augustinų ordinas, kai jį tvarkė nauji magistrai (Ptol.'
   pagrindžia:
-    - c-016
+    - c-014
 
 - t-014
   teiginys: 'Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
@@ -105,11 +105,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginys: 'Dusburgietis teigia, kad paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi patyrė baisybę nuostolių.'
   pagrindžia:
     - c-005
-
-- t-016
-  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 129 Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ (Paryžius, 1920)) L I E T U V O S I S T O R I J A 130 KOVA DĖL.'
-  pagrindžia:
-    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -156,6 +151,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   statusas: verified
   pagrindžia:
     - t-014
+    - t-012
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -173,6 +169,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-001
 
 - c-004
+  santrauka: 'Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Voldemaras užsienio politiką
@@ -246,6 +243,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-007
 
 - c-009
+  santrauka: '1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo V. Molotovo rėksmingų kaltinimų
@@ -283,67 +281,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-008
 
 - c-011
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva bandys keltis kaip naujai sukurta valstybė, turinti istori-
-    nių sąsajų su LDK, kurios jai nedavė jokių kreditų, tad apsispręsta atkur-
-    ti valstybę etnografiniu principu – lietuviškai kalbančią Lietuvą. Kaip ir
-    kaimynė Lenkija, daugelis kitų Europos šalių tais laikais, Lietuva susidarė
-    kaip moderni vienos tautos tautinė valstybė ir visiškai neaišku, kaip ji būtų
-    atrodžiusi, jei būtų atsikūrusi pagal istorinės valstybės tradiciją, istorinėse
-    sienose, kad ir 1795 m. valstybės modelis brėžėsi nepaprastai sunkiai dėl
-    vienos priežasties – istorinės, nes „Lithuania Propria“ (tikrosios Lietuvos)
-    sienos nebesutapo su etnografinėmis, o absorbuoti Rytuose jau tik baltaru-
-    siškai ir lenkiškai kalbančius gyventojus neatrodė įmanoma misija.
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    129
-    Teritorija, apie kurią lietuvių svajota: „Lituania Propria“
-    (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“
-    (Paryžius, 1920))
-
-    L I E T U V O S  I S T O R I J A
-    130
-    KOVA DĖL NEPRIKLAUSOMYBĖS
-    Lietuvos planai: nuo autonomijos
-    iki nepriklausomybės
-    N
-    aują impulsą savo veiklai Europos šalių tautiniai są-
-    jūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriau-
-    dėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą
-    (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vo-
-    kietijos ir Austrijos–Vengrijos imperijos pradėjo karą prieš trilypę Pran-
-    cūzijos, Didžiosios Britanijos ir Rusijos imperijos Antantę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-012
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
-    dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
-    armiją ir pagaliau ją sustabdė fronto linijoje Kaunas–Alytus.
-    Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška
-    orientacija ją kaltinusi lietuvių kairė, lenkai ir net Antantė turėjo pripa-
-    žinti, kad sunkiomis sąlygomis, svetimųjų varžoma Lietuvos Taryba suge-
-    bėjo išlaviruoti ir iškelti Lietuvos nepriklausomybės klausimą, išsivaduoti
-    iš Vokietijos politikos diktato ir paskubomis kūrė valdžios ir savivaldybių
-    įstaigas.
-    Versalio sistemoje
-    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
-    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
-    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
-    jos ir veikė kuluaruose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
@@ -359,7 +296,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   pagrindžia:
     - t-009
 
-- c-014
+- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio
@@ -377,7 +314,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   pagrindžia:
     - t-004
 
-- c-015
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje
@@ -398,7 +335,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   pagrindžia:
     - t-005
 
-- c-016
+- c-014
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis
@@ -421,7 +358,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   pagrindžia:
     - t-013
 
-- c-017
+- c-015
   santrauka: 'Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -436,4 +373,4 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-016

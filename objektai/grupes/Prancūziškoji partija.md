@@ -127,3 +127,4 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 - [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
 - [[objektai/grupes/Pacai]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/ivykiai/Augusto II elekcija (1697 m.)]]

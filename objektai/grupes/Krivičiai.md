@@ -49,5 +49,3 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Zinkevičius Z]]
-- [[objektai/asmenys/Dovilas, arba Dovydas]]
-- [[objektai/asmenys/Maukoldas]]

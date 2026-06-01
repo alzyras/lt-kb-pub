@@ -91,4 +91,3 @@ Nenurodyta
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/dizunitai]]

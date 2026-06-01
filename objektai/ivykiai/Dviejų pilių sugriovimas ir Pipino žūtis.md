@@ -45,7 +45,7 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad 221 Pipino nukankinimas vaizduojamas tendencingai (žr.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219.'
@@ -55,18 +55,6 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos
-    pakrantėje, aukščiau Torunės,  pilį, vardu Ragava218, o dar vieną — žemiau, apie tą
-    vietą, kur dabar yra senoji pilis219. Tarp šių pilių, netoli ežero, pavadinto Pipino ežeru,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dviejų pilių sugriovimą ir Pipino žūtį
@@ -112,8 +100,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     221 Pipino nukankinimas vaizduojamas tendencingai (žr. įvadą).
@@ -123,23 +112,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    7. Apie dviejų pilių sugriovimą ir Pipino žūtį
-
-      Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos
-    pakrantėje, aukščiau Torunės,  pilį, vardu Ragava218, o dar vieną — žemiau, apie tą
-    vietą, kur dabar yra senoji pilis219. Tarp šių pilių, netoli ežero, pavadinto Pipino ežeru,
-
-      215  Tautosakoje baltas arklys ar balta kumelė — stebuklingi.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

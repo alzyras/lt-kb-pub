@@ -23,13 +23,14 @@ Dusburgietis teigia, kad zajączkowski S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad zajączkowski S.'
+  teiginys: 'S. Zajączkowskio straipsnis „Uwagi nad terytorialno-plemienną strukturą Jaćwieży“ paskelbtas 1966 m. Torunės leidinio ZHP 31 tomo 4 sąsiuvinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Zajączkowskio straipsnis „Uwagi nad terytorialno-plemienną strukturą Jaćwieży“ paskelbtas 1966 m. Torunės leidinio ZHP 31 tomo 4 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Zajączkowski S. Uwagi nad terytorialno-plemienną strukturą Jaćwieży: Na marginesie

@@ -19,7 +19,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 383 D.— Vischusen, Jer.— Vischhûsin; vėliau — Fischhausen (dab. Primorskas) — gyvenvietė pietvakarių Semboje.'
+  teiginys: 'Fišhauzenas, dabartinis Primorskas, buvo gyvenvietė pietvakarių Semboje.'
   pagrindžia:
     - c-001
 
@@ -31,6 +31,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Fišhauzenas, dabartinis Primorskas, buvo gyvenvietė pietvakarių Semboje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     383 D.— Vischusen, Jer.— Vischhûsin; vėliau — Fischhausen (dab. Primorskas) —
@@ -42,19 +43,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     - t-001
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
-    sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
-    Todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
-    tebuvo du vyrai: vienas brolis bei jo tarnas. Ir štai kokie stebuklai!
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu tebuvo du vyrai: vienas brolis bei jo tarnas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -69,3 +57,4 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002

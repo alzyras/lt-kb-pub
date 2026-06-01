@@ -28,13 +28,14 @@ Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elektorius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas, baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­ tais.'
+  teiginys: 'Klemensas VIII buvo vienas iš popiežių, kurių rinkimuose elektoriaus teisėmis dalyvavo Jurgis Radvila.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Klemensas VIII buvo vienas iš popiežių, kurių rinkimuose elektoriaus teisėmis dalyvavo Jurgis Radvila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  •  .
@@ -53,3 +54,7 @@ Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popi
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/elektorius]]

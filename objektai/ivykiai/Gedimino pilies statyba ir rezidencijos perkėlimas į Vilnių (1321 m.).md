@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Foigtas nurodo, kad šios Vilniu- 1323 m. N.'
+  teiginys: 'Gediminui įsakius ant kalno sumūryti pilį ir papėdėje pastatyti medinę tvirtovę, palei pilį kūrėsi nauji gyventojai.'
   pagrindžia:
     - c-002
 
@@ -90,6 +90,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Gediminui įsakius ant kalno sumūryti pilį ir papėdėje pastatyti medinę tvirtovę, palei pilį kūrėsi nauji gyventojai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai tas galingas valdovas įsakė ant kal­

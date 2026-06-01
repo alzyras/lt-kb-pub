@@ -19,13 +19,14 @@ Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­ dinti ir stiprinti Rittersverderio pilį52.'
+  teiginys: 'Didysis magistras vasarą per Šv. Jokūbą išsiruošė anapus Nemuno ir pradėjo statydinti bei stiprinti Rittersverderio pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didysis magistras vasarą per Šv. Jokūbą išsiruošė anapus Nemuno ir pradėjo statydinti bei stiprinti Rittersverderio pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visa tai vyko žiemos pabaigo­

@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo'''' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti.'
+  teiginys: 'Vytenis prašė atsiųsti minoritų, kuriems norėjo skirti jau pastatytą bažnyčią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytenis prašė atsiųsti minoritų, kuriems norėjo skirti jau pastatytą bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tiesa, arkivyskupui Isamui tarpininkaujant,
@@ -74,6 +75,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytenis]]
-- [[objektai/zodynas/legatas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Pranciškonų ordinas]]

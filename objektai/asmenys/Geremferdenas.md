@@ -19,13 +19,14 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su sa­ vo varžovu Kerimberdėjumi, kuris, savo ruožtu, irgi buvo užmuštas brolio Geremferdeno, tad reikėjo inauguruoti Vil­ niuje naują chaną.'
+  teiginys: 'Geremferdenas, padedamas Vytauto, įveikė priešininkus ir atvyko į Vilnių būti pripažintas Lietuvos vasalu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Geremferdenas, padedamas Vytauto, įveikė priešininkus ir atvyko į Vilnių būti pripažintas Lietuvos vasalu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     150
@@ -53,5 +54,4 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
 ### Susiję objektai
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Kerimberdėjus]]

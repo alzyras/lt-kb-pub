@@ -20,13 +20,14 @@ Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš t�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš tą patį mūsų priešą Maskvos kunigaikštį ties Velikije Lūki, mūsų paskirtas vadovauti mūsų vengrų kariuomenės riteriams, ata­ kuojant priešo pilis ir visur, kur tik buvo nukreiptas su mū­.'
+  teiginys: 'Gabrielius Bekešas žygyje ties Velikije Lūkiais vadovavo vengrų kariuomenės riteriams prieš Maskvos kunigaikštį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gabrielius Bekešas žygyje ties Velikije Lūkiais vadovavo vengrų kariuomenės riteriams prieš Maskvos kunigaikštį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 437

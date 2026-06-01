@@ -19,9 +19,9 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Sembą, jis pabrėžia, jog „daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą reikia pasakyti“ (III, 68), vėliau taip pat pažymi, kad „vargu ar.'
+  teiginys: 'Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad prieš sembus kariauta daug karų, bet visų aprašyti neverta.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad nors apie Ordino pastangas pavergti Sūduvą kronikininkas plačiai rašo, bet ir čia išsitaria: „Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“ (III, 219). Netgi kalbėdamas apie XIV a.'
@@ -36,7 +36,7 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
 - t-004
   teiginys: 'Dusburgietis teigia, kad kalbėdamas apie Skomanto vadovaujamų sūduvių ir lietuvių kariuomenės įsiveržimą į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis dažniau įsibraudavo“ į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -61,19 +61,6 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Nors apie Ordino pastangas
-    pavergti Sūduvą kronikininkas plačiai rašo, bet ir čia išsitaria: „Daug kartų ir be galo ilgai
-    broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“
-    (III, 219). Netgi kalbėdamas apie XIV a.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Kalbėdamas apie Skomanto vadovaujamų sūduvių  ir lietuvių kariuomenės įsiveržimą
     į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis
     dažniau įsibraudavo“  į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir
@@ -86,8 +73,10 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
-- c-004
+- c-003
+  santrauka: 'Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad prieš sembus kariauta daug karų, bet visų aprašyti neverta.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją

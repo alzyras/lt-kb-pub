@@ -43,13 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jogailos padėtis buvo pasidariusi sunki dėl vyriausiojo Algirdaičio Andriaus suki­ limo.'
+  teiginys: 'Dėl Andriaus Algirdaičio sukilimo Jogailos padėtis pasunkėjo, todėl jis ieškojo artimesnio ryšio su kryžiuočiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dėl Andriaus Algirdaičio sukilimo Jogailos padėtis pasunkėjo, todėl jis ieškojo artimesnio ryšio su kryžiuočiais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jogailos padėtis
@@ -81,3 +82,4 @@ Nenurodyta
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

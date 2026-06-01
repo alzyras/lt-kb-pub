@@ -24,13 +24,14 @@ Dusburgietis teigia, kad labuda G.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad labuda G.'
+  teiginys: 'G. Labudos publikacija apie baltų gyventojų apgyvendinimą kairiajame žemutinės Vyslos krante išspausdinta 1979 m. „Konferencja pomorska“ leidinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'G. Labudos publikacija apie baltų gyventojų apgyvendinimą kairiajame žemutinės Vyslos krante išspausdinta 1979 m. „Konferencja pomorska“ leidinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Labuda G. Zagadnienie osadnictwa ludności baltyjskiej na lewym brzegu dolnej Wisły

@@ -30,7 +30,7 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad į tai ji atsakė: „Visą laiką be galo pamaldžiai garbinau šventą Barborą, dėl to šiąnakt ji man tris kartus pasirodė pasikaišiusi drabužius, nelyginant išsirengusi pasivaikščioti, o aš jai tariau: „Kur eini, šventoji mergele?“ Ji atsakė: „Ketinu nueiti į Kulmo.'
+  teiginys: 'Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
     - t-002
 
 - c-002
+  santrauka: 'Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Į tai  ji atsakė:
@@ -82,21 +83,6 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad į tai ji atsakė: „Visą laiką be galo pamaldžiai garbinau šventą Barborą, dėl to šiąnakt ji man tris kartus pasirodė pasikaišiusi drabužius, nelyginant išsirengusi pasivaikščioti, o aš jai tariau: „Kur eini, šventoji mergele?“ Ji atsakė: „Ketinu nueiti į Kulmo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kaip tu gali šitai žinoti“. Į tai  ji atsakė:
-    „Visą laiką be galo pamaldžiai garbinau šventą Barborą, dėl to šiąnakt ji man tris kartus
-    pasirodė pasikaišiusi drabužius, nelyginant išsirengusi pasivaikščioti, o aš jai tariau:
-    „Kur eini, šventoji mergele?“ Ji atsakė:  „Ketinu nueiti  į Kulmo miestą ir ten išklausyti
-    mišių“.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

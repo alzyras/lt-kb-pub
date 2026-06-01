@@ -49,14 +49,14 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     - c-002
 
 - t-005
-  teiginys: 'Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­ skutinį patepimą.'
+  teiginys: 'Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui ir priėmė paskutinį patepimą.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-006
   teiginys: 'Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -105,6 +105,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   statusas: verified
   pagrindžia:
     - t-001
+    - t-005
 
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -123,22 +124,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     - t-003
 
 - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila su ašaromis akyse pasižadėjo išpildyti visus Vytauto
-    prašymus ir, visa iš širdies atleisdamas, priminė jam susirūpin­
-    ti sielos išganymu. Kelis kartus Vytautas išpažino savo nuodė­
-    mes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­
-    skutinį patepimą. Paklaustas vyskupo apie tikybos tie­
-    sas, jis atsakė, kad tiki į jas, taip pat ir į iš numirusių
-    atsikėlimą, nors seniau dėl tos tiesos ir paabejodavęs.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Per visą savo valdymo laiką Vytautas palaikė su jais gerus

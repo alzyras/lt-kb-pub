@@ -20,13 +20,14 @@ Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusik
 ## Teiginiai
 
 - t-001
-  teiginys: 'Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusikratė teutonų pareigūnų (Schultheiss) ir teisių, jiems duotų lombardų, ir Romos institu­ cijų pavyzdžiu savo valdžios priekyje pastatė konsulus.'
+  teiginys: 'Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pastarųjų miestams suteikiami

@@ -114,6 +114,6 @@ Nenurodyta
 - [[objektai/asmenys/Jonas]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas Augustas]]

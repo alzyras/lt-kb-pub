@@ -27,18 +27,19 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemini, turbūt stovėjusią kur nors Lietuvos su Prūsija pasienyje ir tieka kartų Dusburgo minimą, taria esant Vil­ niumi: Ego puto hic intelligi urbem Vilnam, a Gedemino recens tum.'
+  teiginys: 'Hartknochas Dusburgo kronikos pastabose Castrum Gedemini tapatino su Vilniumi ir manė, kad miestas įkurtas 1322 m.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta vadinama Castrum Gedemini, yra visiškai atmestina.'
+  teiginys: 'Balińskis Hartknocho prielaidą, kad Vilnius buvo vadinamoji Castrum Gedemini, laikė visiškai atmestina.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Balińskis Hartknocho prielaidą, kad Vilnius buvo vadinamoji Castrum Gedemini, laikė visiškai atmestina.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje
@@ -60,6 +61,7 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
     - t-002
 
 - c-002
+  santrauka: 'Hartknochas Dusburgo kronikos pastabose Castrum Gedemini tapatino su Vilniumi ir manė, kad miestas įkurtas 1322 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­

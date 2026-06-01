@@ -40,57 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Stanislovo katedra, ką, be kronikų liudijimų, patvirtina auten­ tiška Urbono VI bulė, katedros pa­ šventinimo proga išleista, bet mano­ me, jog ir kitos Vilniaus bažnyčios, įkurtos Vladislovo Jogailos, kaip an­ tai: Šv.'
+  teiginys: 'Vilniaus Šv. Stanislovo katedra, Šv. Martyno ir Šv. Jono bažnyčios laikytos įkurtomis buvusiose pagonių apeigų vietose.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
-  teiginys: 'Prie to dar prisidėjo pareiga, nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai steigti ten, kur anksčiau stovėjusios pagonių šventyklos arba augusios giraitės, medžiai, buvęs akmuo ar­ ba šiaip vietovė kokiam nors dievai­ čiui pašvęsta.'
+  teiginys: 'Krikščionių bažnyčias buvo raginama steigti ten, kur anksčiau stovėjo pagonių šventyklos ar šventos giraitės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Prie to dar prisidėjo pareiga,
-    nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai
-    steigti ten, kur anksčiau stovėjusios
-    pagonių šventyklos arba augusios
-    giraitės, medžiai, buvęs akmuo ar­
-    ba šiaip vietovė kokiam nors dievai­
-    čiui pašvęsta. Popiežius šv. Griga­
-    lius primygtinai liepia šitaip daryti
-    laiške šv. Augustinui, apaštalavu­
-    siam Britanijos salose: „Krikščio­
-    nys, - rašo jis, - negali skubotai imti
-    naikinti pagonių šventyklų, o priva­
-    lo tik versti jų dievaičių stabus, ten
-    šlakstyti švęstu vandeniu, statyti al­
-    torius ir sudėti į juos šventas relik­
-    vijas. Jeigu tos šventyklos būtų la­
-    bai tvirtai pastatytos, tereikia
-    pakeisti jose garbinamus dalykus ir,
-    vietoj piktųjų dvasių, jų vaizduotė­
-    je sukurti tikrojo Dievo paveikslą; ir
-    šitą daryti dėl to, kad žmonės, ma­
-    tydami sunaikintas jų šventoves,
-    laisva valia atsikratytų savo klaidų
-    ir, tikrąjį Dievą pažinę bei garbinda­
-    mi, į tas vietas, prie kurių įpratę, ge­
-    ranoriškai rinktųsi/' Ut dum gens ip­
-    sa eadem fana sua non videt destrui, de
-    corde errorem deponat, et deum verum
-    cognoscens ac adorans, ad loca quae
-    consueuit familiarius occurrat.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Vilniaus Šv. Stanislovo katedra, Šv. Martyno ir Šv. Jono bažnyčios laikytos įkurtomis buvusiose pagonių apeigų vietose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     479: „Dabar, kaip ma­
@@ -164,6 +126,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -25,26 +25,11 @@ tags:
 - t-002
   teiginys: 'Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iš čia
-    motyvų pasitelkė misionieriai. Millenniumas – tai slenkstis, ant kurio
-    laukiama Paskutinio teismo. Taip baigiantis pirmajam Kristaus epochos
-    tūkstantmečiui ir gimė milenaristinis sąjūdis – krikščioniškosios misi-
-    jos ir naujų šalių bei jų dalių krikštai apėmė būsimosios Vidurio, Rytų ir
-    Šiaurės Europos regionus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -61,3 +46,4 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

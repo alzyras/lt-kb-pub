@@ -24,72 +24,51 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
 - t-001
   teiginys: 'Slanimas: be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
   pagrindžia:
-    - c-005
-
-- t-002
-  teiginys: 'Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau- garduko, Slanimo ir Volkovisko sritis.'
-  pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Slanimas: jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar- duku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi Voluinė, jau tapo nebeginčijamu Lietuvos kraštu.'
-  pagrindžia:
-    - c-010
-
-- t-004
-  teiginys: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
-  pagrindžia:
-    - c-007
-
-- t-005
-  teiginys: 'Iš Juodojoje Rusijoje užimtųjų sričių Min­ daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė Naugarduką.'
-  pagrindžia:
-    - c-011
-
-- t-006
-  teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
-  pagrindžia:
-    - c-009
-
-- t-007
-  teiginys: 'Slanimas: senasis jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar- duku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi Voluinė, jau tapo nebeginčijamu Lietuvos kraštu.'
-  pagrindžia:
-    - c-006
-
-- t-008
-  teiginys: 'Slanimas: ir Lietuvoje prieš kiekvieną bendrąjį seimą taip pat buvo pradėti daryti tokie pat į seimą vyks- tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk- davo Volkoviske, o vėliau Slanime.'
-  pagrindžia:
     - c-004
 
-- t-009
-  teiginys: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
+- t-002
+  teiginys: 'Slanimas priklausė vadinamajai Juodajai Rusijai, kuri jau buvo tapusi nebeginčijamu Lietuvos kraštu.'
+  pagrindžia:
+    - c-005
+
+- t-003
+  teiginys: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
   pagrindžia:
     - c-003
 
-- t-010
-  teiginys: '38 psl.) lietuviškąsias Gardino, Naugarduko, Slanimo ir Volkovisko sritis.'
+- t-004
+  teiginys: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasilaikė Slanimą ir Valkaviską.'
   pagrindžia:
     - c-008
 
-- t-011
-  teiginys: 'Slanimas: garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
+- t-005
+  teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
+  pagrindžia:
+    - c-007
+
+- t-007
+  teiginys: 'Lietuvos generaliniai seimeliai iš pradžių vykdavo Volkoviske, o vėliau Slanime.'
+  pagrindžia:
+    - c-003
+
+- t-008
+  teiginys: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
   pagrindžia:
     - c-002
+
+- t-009
+  teiginys: '38 psl.) lietuviškąsias Gardino, Naugarduko, Slanimo ir Volkovisko sritis.'
+  pagrindžia:
+    - c-006
+
+- t-010
+  teiginys: 'Slanimas: garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau-
-    garduko, Slanimo ir Volkovisko sritis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Danielius buvo
@@ -102,9 +81,9 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
-- c-003
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sutartis buvo susti-
@@ -116,9 +95,10 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-004
+- c-003
+  santrauka: 'Lietuvos generaliniai seimeliai iš pradžių vykdavo Volkoviske, o vėliau Slanime.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tie generaliniai seimeliai neišnyko nė įvedus bend-
@@ -130,9 +110,10 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
+    - t-003
 
-- c-005
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     St. Radvilos fundacija), Pa-
@@ -148,7 +129,8 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
+  santrauka: 'Slanimas priklausė vadinamajai Juodajai Rusijai, kuri jau buvo tapusi nebeginčijamu Lietuvos kraštu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Senasis
@@ -159,23 +141,10 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
+    - t-002
 
-- c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tie generaliniai seimeliai neišnyko nė įvedus bend-
-    rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
-    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
-    tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
-    davo Volkoviske, o vėliau Slanime.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-008
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš totorių nugalėtų Voluinės kunigaikščių lietuviai atsi-
@@ -185,9 +154,9 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-009
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
@@ -205,21 +174,10 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar-
-    duku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi
-    Voluinė, jau tapo nebeginčijamu Lietuvos kraštu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-011
+- c-008
+  santrauka: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasilaikė Slanimą ir Valkaviską.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Savo pali­
@@ -233,4 +191,4 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004

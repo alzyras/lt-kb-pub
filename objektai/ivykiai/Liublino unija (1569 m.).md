@@ -47,91 +47,61 @@ Nenurodyta
 - t-001
   teiginys: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
   pagrindžia:
-    - c-008
+    - c-005
 
 - t-002
   teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
-    - c-010
+    - c-007
 
 - t-003
   teiginys: 'Liublino unijos rezultatas buvo LDK atstovų priimtas kompromisas, kurio pagrįstumu rimčiau nesuabejota dar du šimtmečius.'
   pagrindžia:
-    - c-011
+    - c-008
 
 - t-004
   teiginys: 'Liublino unijos nauda pasireiškė jau netrukus.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-005
-  teiginys: 'J. J. Chodkevičius Žygimantui Augustui teigė, kad LDK atstovai buvo priversti nusileisti su skausmu ir širdgėla.'
+  teiginys: '1569 m. birželio 28 d. Liublino seime J. J. Chodkevičius priėmė unijos ir vieno antspaudo idėją kaip žiaurų kompromisą.'
   pagrindžia:
     - c-002
 
 - t-006
-  teiginys: 'Prijungtų sričių bajorai turėjo prisiekti Lenkijai, o Lietuvai grėsė suvereniteto praradimas.'
-  pagrindžia:
-    - c-007
-
-- t-007
-  teiginys: 'J. J. Chodkevičius pasiekė, kad vėlesni Respublikos valdovai turėtų pripažinti Lietuvos antspaudus.'
+  teiginys: 'Prieš Liublino uniją Žygimantas Augustas prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos.'
   pagrindžia:
     - c-006
+
+- t-007
+  teiginys: 'Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos.'
+  pagrindžia:
+    - c-004
 
 - t-008
   teiginys: 'Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino unijos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-009
   teiginys: 'Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš Liublino.'
   pagrindžia:
-    - c-009
+    - c-006
 
 - t-010
   teiginys: 'Chodkevičius Liublino seime 1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos prijungimo prie Lenkijos – idėją.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-011
   teiginys: '1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.'
   pagrindžia:
-    - c-001
-
-- t-012
-  teiginys: '1569 Liublino unija.'
-  pagrindžia:
-    - c-012
+    - c-009
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Liublino unija. Susikuria jungtinė Lenkijos ir Lietuvos Valstybė –
-    Abiejų Tautų Respublika.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    J. J. Chodkevičius Liublino seime
-    1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos
-    prijungimo prie Lenkijos – idėją. Tai buvo žiaurus kompromisas. Kreipda-
-    masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu
-    skausmu ir širdgėla buvome priversti nusileisti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi J. J. Chodkevičius surado išeities
@@ -148,7 +118,7 @@ Nenurodyta
   pagrindžia:
     - t-008
 
-- c-004
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     J. J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len-
@@ -168,8 +138,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-010
+    - t-005
 
-- c-005
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni-
@@ -190,7 +161,8 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-006
+- c-004
+  santrauka: 'Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apgindamas LDK
@@ -206,22 +178,7 @@ Nenurodyta
   pagrindžia:
     - t-007
 
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
-    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
-    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
-    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
-    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime. Iš neprisiekusiųjų
-    buvo atimtos žemės – Lietuvai grėsė suvereniteto praradimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-008
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Polocko praradi-
@@ -234,7 +191,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-009
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
@@ -249,8 +206,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-009
+    - t-006
 
-- c-010
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ABIEJŲ TAUTŲ RESPUBLIKA
@@ -269,7 +227,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-011
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip ir padaryta, pareikalavus iš vėlesnių Respublikos valdo-
@@ -286,8 +244,8 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-012
-  santrauka: '1569 Liublino unija.'
+- c-009
+  santrauka: '1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir Lietuvos jungtinė kariuomenė
@@ -301,6 +259,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-012
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
@@ -321,4 +280,4 @@ Nenurodyta
 - [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/posakiai/„Šventos santuokos“]]
 - [[objektai/daiktai/Antspaudai]]
-- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
+- [[objektai/daiktai/Antspaudas]]

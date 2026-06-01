@@ -49,5 +49,4 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
 - [[objektai/asmenys/Konradas]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/ginklanešiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Laivų kautynės prie Santyro]]

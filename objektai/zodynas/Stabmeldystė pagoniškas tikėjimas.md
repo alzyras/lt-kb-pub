@@ -28,40 +28,11 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 - t-001
   teiginys: 'Stabmeldystės pastangos prieš Romos tikėjimo skelbėjus po Vilniaus pranciškonų nužudymo buvo bevaisės.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Algirdas, didžiulių pagoniškų kraštų valdo­ vas, negalėjo naikinti vyravusios re­ ligijos, tautos religijos, šventovės, juk nebuvo užsimojęs vykdyti vi­ suotinės reformos, ko vėliau ėmėsi Jogaila, ir tai tik dėl to, kad paten­ kintų vieno iš savo vasalų norą.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Algirdas,
-    didžiulių pagoniškų kraštų valdo­
-    vas, negalėjo naikinti vyravusios re­
-    ligijos, tautos religijos, šventovės,
-    juk nebuvo užsimojęs vykdyti vi­
-    suotinės reformos, ko vėliau ėmėsi
-    Jogaila, ir tai tik dėl to, kad paten­
-    kintų vieno iš savo vasalų norą. To­
-    leravo Algirdas krikščionybę ir tik­
-    riausiai išmanė pravarčius jos
-    padarinius esant; tačiau dar nebuvo
-    atėjęs laikas Perkūno garbinimą už­
-    ginti, todėl pagonių šventyklos ne­
-    galėjo būti pakeistos krikščionių
-    bažnyčiomis. Tačiau Šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   santrauka: 'Stabmeldystės pastangos prieš Romos tikėjimo skelbėjus po Vilniaus pranciškonų nužudymo buvo bevaisės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -96,5 +67,4 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
-- [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]

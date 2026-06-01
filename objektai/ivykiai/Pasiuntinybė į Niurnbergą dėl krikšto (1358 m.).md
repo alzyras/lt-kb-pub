@@ -41,7 +41,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Derybose buvo reikalaujama, kad Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių, o pats keltųsi į Rusijos pietus kovoti su totoriais.'
+  teiginys: '1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais.'
   pagrindžia:
     - c-001
 
@@ -53,6 +53,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     bergan pas ciesorių Karolių IV vieną savo giminaitį tartis dėl

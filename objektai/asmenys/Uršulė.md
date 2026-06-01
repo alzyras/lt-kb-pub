@@ -25,13 +25,14 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 ## Teiginiai
 
 - t-001
-  teiginys: 'Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio mūrą, atidavė Collegio Academico [Akademijos kolegijai], pa­ vedę įpareigojimu kasmet mokėti Šv.'
+  teiginys: '1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1632. Uršulė ir Mauricijus, ignoti cognominis [nežinoma

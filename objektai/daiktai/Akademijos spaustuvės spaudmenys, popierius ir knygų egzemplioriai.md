@@ -45,13 +45,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nėra jokių kitų įsipareigojimų, išskyrus visuomenei tei­ kiamą naudą ir paskutiniojoje privilegijoje išsakytą sąlygą, kad nuo kiekvienos naujai išspausdintos knygos po vieną egzempliorių privalo duoti Lietuvos kancleriams ir Viešajai bibliotekai.'
+  teiginys: 'Akademijos spaustuvė nuo kiekvienos naujai išspausdintos knygos turėjo duoti po vieną egzempliorių Lietuvos kancleriams ir Viešajai bibliotekai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Akademijos spaustuvė nuo kiekvienos naujai išspausdintos knygos turėjo duoti po vieną egzempliorių Lietuvos kancleriams ir Viešajai bibliotekai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­
@@ -78,5 +79,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
-- [[objektai/daiktai/Spaustuvės]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]

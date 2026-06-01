@@ -25,7 +25,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 - t-002
   teiginys: 'Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tarybinę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido suprasti, kad einama unifikuotos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -48,24 +48,6 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pra-
-    sidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tary-
-    binę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę
-    bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido
-    suprasti, kad einama unifikuotos ideologiškai ir rusiškai kalbančios so-
-    vietinės nacijos formavimo intensyvinimo keliu, kad ateityje lietuvių ir
-    kitos kalbos išnyks. Galutiniu produktu turėjo tapti homo sovieticus – as-
-    muo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žino-
-    mos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas
-    Tarybų Sąjunga“. Pakvipo planingu, lėtiniu etnocidu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -74,5 +56,4 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/etnocidas]]
 - [[objektai/zodynas/homo sovieticus]]

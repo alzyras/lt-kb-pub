@@ -27,7 +27,7 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad b.; Tarasenka P.'
+  teiginys: 'P. Tarasenkos veikale „Pėdos“ Velnių stalo vieta žemėlapyje pažymėta netiksliai.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P. Tarasenkos veikale „Pėdos“ Velnių stalo vieta žemėlapyje pažymėta netiksliai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Netoli Kreivių k.— Romės Lauko k., o greta jo Obelyno

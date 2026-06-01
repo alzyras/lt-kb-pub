@@ -34,17 +34,17 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - t-001
   teiginys: '1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama „tvanu“.'
   pagrindžia:
-    - c-008
+    - c-011
 
 - t-002
   teiginys: 'Zigmanto Vazos karo dėl Švedijos sosto metu Livonija iki Dauguvos atiteko Švedijai.'
   pagrindžia:
-    - c-010
+    - c-001
 
 - t-003
-  teiginys: 'Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį.'
+  teiginys: '1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį.'
   pagrindžia:
-    - c-012
+    - c-004
 
 - t-004
   teiginys: 'Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankų.'
@@ -57,9 +57,9 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-006
 
 - t-006
-  teiginys: 'Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi, santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­ gusto seserimi.'
+  teiginys: 'Suomijos kunigaikštis Jonas, vėliau tapęs Švedijos karaliumi, Vilniuje vedė Kotryną Jogailaitę.'
   pagrindžia:
-    - c-015
+    - c-005
 
 - t-007
   teiginys: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
@@ -69,7 +69,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - t-008
   teiginys: 'Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją.'
   pagrindžia:
-    - c-013
+    - c-010
 
 - t-009
   teiginys: 'ATR kariavo su Švedija 1600–1629 ir 1655–1660 metais.'
@@ -89,12 +89,12 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - t-012
   teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   pagrindžia:
-    - c-014
+    - c-011
 
 - t-013
   teiginys: 'Švedija siekė viešpatauti Baltijos jūroje.'
   pagrindžia:
-    - c-011
+    - c-009
 
 - t-014
   teiginys: 'Vilniuje buvo palaiminta Suomijos kunigaikščio Jono, vėliau tapusio Švedijos karaliumi, santuoka su Kotryna Jogailaite.'
@@ -102,14 +102,14 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-005
 
 - t-015
-  teiginys: 'Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų ekspansiją iš Gotlando ir vidurio Švedijos.'
+  teiginys: 'Archeologiniai duomenys rodo apie 650 m. prasidėjusią didelę švedų ekspansiją iš Gotlando ir vidurio Švedijos.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-016
   teiginys: 'Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija.'
   pagrindžia:
-    - c-016
+    - c-012
 
 ## Reikšmingi paminėjimai
 
@@ -125,6 +125,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   statusas: verified
   pagrindžia:
     - t-007
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -181,6 +182,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   statusas: verified
   pagrindžia:
     - t-011
+    - t-003
 
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -197,6 +199,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   statusas: verified
   pagrindžia:
     - t-014
+    - t-006
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -235,24 +238,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - t-010
 
 - c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tiems karaimams, totoriams ir žydams.
-    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
-    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
-    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
-    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
-    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena. Šio karo
-    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
-    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
-    panaikinimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-009
+  santrauka: 'Archeologiniai duomenys rodo apie 650 m. prasidėjusią didelę švedų ekspansiją iš Gotlando ir vidurio Švedijos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Archeolo­
@@ -267,20 +253,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindžia:
     - t-015
 
-- c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    285—289 psl.). Zigmanto
-    Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija
-    buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.
-    304, 328 psl.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-011
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Švedija ėmė
@@ -296,29 +269,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindžia:
     - t-013
 
-- c-012
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Būdamas arčiausiai karo židinio, Stepono Batoro laikais
-    Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
-    bai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579
-    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
-    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
-    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
-    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
-    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
-    su kuriais turėjo daugiausia darbo. Pagaliau čia, Vilniuje,
-    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
-    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
-    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
-    sipelniusius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-013
+- c-010
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daugelis brangeny-
@@ -334,7 +285,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindžia:
     - t-008
 
-- c-014
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antra vertus,
@@ -359,24 +310,9 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   statusas: verified
   pagrindžia:
     - t-012
+    - t-001
 
-- c-015
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    La­
-    biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-
-    mas Akademiją. Jis taip pat palaimino Vilniuje Suomijos
-    kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,
-    santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
-    gusto seserimi.
-    —  •  .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-016
+- c-012
   santrauka: 'Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -390,7 +326,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindžia:
     - t-016
 
-- c-017
+- c-013
   santrauka: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

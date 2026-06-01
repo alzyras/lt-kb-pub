@@ -37,7 +37,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-004
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
+  teiginys: 'Ragainės piliai ginti Meinhardas paliko 40 brolių ir šimtą rinktinių ginklanešių.'
   pagrindžia:
     - c-001
 
@@ -49,6 +49,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ragainės piliai ginti Meinhardas paliko 40 brolių ir šimtą rinktinių ginklanešių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     235 (228). Apie Ragainės ir Skalvių pilių pastatymą
@@ -106,6 +107,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   statusas: verified
   pagrindžia:
     - t-001
+    - t-005
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -126,22 +128,6 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   pagrindžia:
     - t-002
 
-- c-005
-  santrauka: 'Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    200 (195). Apie sūduvių pabėgimą
-
-      Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
-    palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
-    Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
-    sužeidė, o kiti gėdingai pabėgo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albrechtas]]
@@ -158,7 +144,6 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - [[objektai/asmenys/Konradas (Skalvių pilies gynėjas)]]
 - [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema)]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
 - [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]

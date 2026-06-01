@@ -21,7 +21,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šiame leidinyje Henrikas Latvis tiesiogiai siejamas su „Livonijos kronika“. ''  pagrindžia:'
+  teiginys: 'Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašomas lietuvių būdas kovoje prie Dauguvos 1207 m.'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
     - c-002
 
 - t-003
-  teiginys: 'O Livonijos ordino kronikininkas Henrikas (vadinamas Henriku Latviu) šiaip juos apibūdina: „Lietuviai tuose kraštuose viešpatavo visoms tautoms, tiek krikščioniškoms, tiek pagoniškoms, Dėl jų žygių nedaug kas išdrįso gyventi savo namuose ...'
+  teiginys: 'Livonijos ordino kronikininkas Henrikas Latvis rašė, kad lietuviai tuose kraštuose viešpatavo krikščioniškoms ir pagoniškoms tautoms.'
   pagrindžia:
     - c-003
 
@@ -70,6 +70,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
     - t-002
 
 - c-003
+  santrauka: 'Livonijos ordino kronikininkas Henrikas Latvis rašė, kad lietuviai tuose kraštuose viešpatavo krikščioniškoms ir pagoniškoms tautoms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O Livonijos ordino kronikininkas Henrikas (va-
@@ -111,7 +112,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - [[objektai/asmenys/Eimaras iš Cezarėjos]]
 - [[objektai/asmenys/Fridrichas (Austrijos kunigaikštis)]]
 - [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
-- [[objektai/autoriai/G. Labuda]]
 - [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]
 - [[objektai/asmenys/Gardolfas]]
 - [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]
@@ -149,7 +149,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/Labuda G]]
 - [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]
 - [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
 - [[objektai/grupes/Lybiai]]
@@ -190,4 +189,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - [[objektai/zodynas/pasaulietis]]
 - [[objektai/zodynas/stalininkas]]
 - [[objektai/daiktai/Žirgai]]
+- [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]
 - [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]
+- [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo]]

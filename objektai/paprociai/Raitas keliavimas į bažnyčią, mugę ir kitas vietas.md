@@ -33,29 +33,11 @@ Nenurodyta
 - t-001
   teiginys: 'Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Kalnėnų ir žemaičių jaunuomenė senovėje labiausiai rūpinosi žirgų gražybe.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Todėl jaunuomenė kaip kalnėnų, taip ir žemaičių senovėj nieku kitu nesirūpino, tiktai žirgų gražybe,
-        kurių veislė visame pasauly buvo garsi ir gedaujama ne vien nuo grekonų ir rymionų dėl savo
-        dailumo, čeklumo^1186 , greitumo ir stiprumo, bet dar ir paskesniuose laikuose yra garbinama ir nuo
-        senųjų minima.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Todėl šiandien dar jaunas žemaitis, jei
@@ -73,6 +55,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Gaspadorius|gaspadorius]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/grupes/Kalnėnai]]
 - [[objektai/zodynas/Miera|miera]]

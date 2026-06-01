@@ -37,7 +37,7 @@ amziai:
     - c-003
 
 - t-002
-  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 259 Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
+  teiginys: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
     - c-006
 
@@ -52,7 +52,7 @@ amziai:
     - c-004
 
 - t-005
-  teiginys: 'L I E T U V O S I S T O R I J A 260 Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono sutarties 5-ajame straipsnyje.'
+  teiginys: 'NATO Vašingtono sutarties 5 straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus Aljanso narę.'
   pagrindžia:
     - c-005
 
@@ -128,6 +128,7 @@ amziai:
     - t-004
 
 - c-005
+  santrauka: 'NATO Vašingtono sutarties 5 straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus Aljanso narę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -144,6 +145,7 @@ amziai:
     - t-005
 
 - c-006
+  santrauka: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
@@ -176,4 +178,3 @@ amziai:
 - [[objektai/ivykiai/Lietuvos priėmimas į Jungtines Tautas ir Europos Tarybą (1991–1993 m.)]]
 - [[objektai/grupes/Tarptautinė darbo organizacija]]
 - [[objektai/grupes/UNESCO]]
-- [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]

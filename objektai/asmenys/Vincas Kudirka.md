@@ -153,7 +153,4 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
 - [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
 - [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/daiktai/Lietuvos trispalvė]]
-- [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
 - [[objektai/ivykiai/„Varpo“ leidimo pradžia]]

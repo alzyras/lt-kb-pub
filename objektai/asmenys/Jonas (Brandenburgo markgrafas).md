@@ -54,6 +54,3 @@ Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/zodynas/markgrafas]]

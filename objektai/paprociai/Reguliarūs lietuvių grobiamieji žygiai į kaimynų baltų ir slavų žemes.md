@@ -39,30 +39,11 @@ Nenurodyta
 - t-001
   teiginys: '1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'XII a. pabaigoje lietuviai ėmė reguliariai rengti grobiamuosius žygius į kaimynų baltų ir slavų žemes.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po susidūrimo su Kijevo Rusios ekspansija Lietuva ėmė sparčiai
-    vystyti savo karinę galią, 1132 m. Rusios veržimasis buvo galuti-
-    nai atremtas ir XII-XIII a. sandūroje lietuviai tapo aktyviausia jėga
-    regione. XII a. pabaigoje jie ėmė rengti reguliarius grobiamuosius
-    žygius į kaimynų baltų ir slavų žemes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rusios veržimasis buvo galuti-
@@ -81,4 +62,3 @@ Nenurodyta
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Slavai]]
-- [[objektai/zodynas/ekspansija]]

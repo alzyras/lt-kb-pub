@@ -20,12 +20,12 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 ## Teiginiai
 
 - t-001
-  teiginys: 'O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.'
+  teiginys: 'Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Svetimšalių ataka buvo smarki, tačiau ir lietuvių gynyba iš pradžių ne mažiau nar­ si; paskui ūmai keliose vietose nežinia kaip prasiveržė lieps­ na Žemutinėje pilyje ir pagavo medinius statinius, aptva­ rus, užkardas.'
+  teiginys: 'Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius.'
   pagrindžia:
     - c-003
 
@@ -35,7 +35,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-004
 
 - t-004
-  teiginys: 'Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.'
+  teiginys: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.'
   pagrindžia:
     - c-001
 
@@ -47,6 +47,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šalimais jo apvalus bokštas, iš plytų
@@ -69,6 +70,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-004
 
 - c-002
+  santrauka: 'Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
@@ -89,6 +91,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-001
 
 - c-003
+  santrauka: 'Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O

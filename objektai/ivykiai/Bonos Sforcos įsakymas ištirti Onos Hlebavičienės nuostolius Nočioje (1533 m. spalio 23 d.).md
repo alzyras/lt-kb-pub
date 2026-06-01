@@ -43,13 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rašyta Vilniuje Viešpa­ ties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.'
+  teiginys: '1533 m. spalio 23 d. Vilniuje surašytas raštas įpareigojo apžiūrėti Onos Hlebavičienės skundžiamus nuostolius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1533 m. spalio 23 d. Vilniuje surašytas raštas įpareigojo apžiūrėti Onos Hlebavičienės skundžiamus nuostolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -87,10 +88,11 @@ Nenurodyta
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/zodynas/indiktas]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]

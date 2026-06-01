@@ -22,18 +22,19 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
     - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 94 Wenta J. Kronika..., s. 121—132.'
+  teiginys: 'J. Venta parašė darbą „Kronika“.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice oliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132.'
+  teiginys: 'J. Venta 1980 m. paskelbė darbą apie Petro Dusburgiečio kroniką ir Oliavos kronikoje pateiktą Vokiečių ordino istoriją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Venta parašė darbą „Kronika“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     94 Wenta J. Kronika..., s. 121—132.
@@ -44,6 +45,7 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
     - t-002
 
 - c-002
+  santrauka: 'J. Venta 1980 m. paskelbė darbą apie Petro Dusburgiečio kroniką ir Oliavos kronikoje pateiktą Vokiečių ordino istoriją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice
@@ -71,3 +73,7 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]

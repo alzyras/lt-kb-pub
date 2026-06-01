@@ -60,4 +60,5 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
 - [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]
 - [[objektai/asmenys/Vladimiras Andrejevičius]]
+- [[objektai/asmenys/Dmitrijus Doniškis]]
 - [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]

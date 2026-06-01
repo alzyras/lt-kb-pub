@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: ': Wcielenie Litwy do Polski w 1386, AW, t.'
+  teiginys: 'H. Łowmiańskio „Wcielenie Litwy do Polski w 1386“ išspausdintas AW 12 tome 1937 m., p. 36-145.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'H. Łowmiańskio „Wcielenie Litwy do Polski w 1386“ išspausdintas AW 12 tome 1937 m., p. 36-145.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     : _Unja Litwy z Polską,_

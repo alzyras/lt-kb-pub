@@ -55,7 +55,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-007
 
 - t-005
-  teiginys: 'Ypač tai užak­ centuoja lietuviu metraštis šiais žodžiais: „Patariu tau kreiptis į ciesorių ir pačiam rūpintis, kad galėtum tapti karalium: o aš noriu tau padėti ir pas ciesorių ir pas popiežių“.'
+  teiginys: 'Bychovco kronikoje Jogaila pataria Vytautui kreiptis į ciesorių, siekti karaliaus titulo ir žada padėti pas ciesorių bei popiežių.'
   pagrindžia:
     - c-002
 
@@ -82,6 +82,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - t-002
 
 - c-002
+  santrauka: 'Bychovco kronikoje Jogaila pataria Vytautui kreiptis į ciesorių, siekti karaliaus titulo ir žada padėti pas ciesorių bei popiežių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ypač tai užak­

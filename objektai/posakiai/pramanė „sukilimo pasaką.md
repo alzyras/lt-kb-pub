@@ -18,7 +18,7 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
 ## Teiginiai
 
 - t-001
-  teiginys: 'pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pa- saką. Esą, atsiradęs jų kariuomenėje generolas maištininkas Že- ligovskis ir savavališkai užėmęs Vilnių. Jo kariuomenė (dvi pėstininkų ir viena raitelių divizija, kurios buvo.'
+  teiginys: 'Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomenės Vilniaus užėmimą.'
   pagrindžia:
     - c-001
 
@@ -30,6 +30,7 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomenės Vilniaus užėmimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkija, nebegalėdama

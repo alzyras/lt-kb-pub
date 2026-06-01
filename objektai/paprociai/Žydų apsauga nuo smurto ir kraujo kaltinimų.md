@@ -37,13 +37,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat jeigu krikščionis žydą sumuštų taip, kad kraujo nepralietų, kaltė turi būti jam priskirta pagal mūsų žemėje esantį paprotį, o sumuštajam ir nukentėjusiajam tu­ ri būti pakankamai atlyginta, kaip mūsų žemėje priimta.'
+  teiginys: 'Jeigu krikščionis sumušdavo žydą nepraliedamas kraujo, kaltė jam turėjo būti priskirta pagal žemės paprotį, o nukentėjusiajam atlyginta.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jeigu krikščionis sumušdavo žydą nepraliedamas kraujo, kaltė jam turėjo būti priskirta pagal žemės paprotį, o nukentėjusiajam atlyginta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat jeigu krikščionis žydui žaizdą kokią pada­

@@ -39,14 +39,14 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-001
 
 - t-003
-  teiginys: 'demonstracijoje dalyvavusių maskviečių skandavo šūkius „Šalin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“ Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluotą.'
+  teiginys: '1991 m. kovą Maskvos demonstracijoje daugiau nei 200 tūkst. dalyvių skandavo šūkius prieš Gorbačiovą ir už Lietuvą.'
   pagrindžia:
-    - c-008
+    - c-002
 
 - t-004
   teiginys: 'KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-005
   teiginys: 'Gorbačiovo reformoms, o jį patį nuvers „vanagai“.'
@@ -69,19 +69,19 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-002
 
 - t-009
-  teiginys: 'gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki.'
+  teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje LKP vadovybė laikėsi pasyviai.'
   pagrindžia:
     - c-007
 
 - t-010
   teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
   pagrindžia:
-    - c-011
+    - c-007
 
 - t-011
   teiginys: 'Gorbačiovo įvaizdis, subliuško „gorbimanija“.'
   pagrindžia:
-    - c-010
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -121,6 +121,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   statusas: verified
   pagrindžia:
     - t-008
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -202,6 +203,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - t-006
 
 - c-007
+  santrauka: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje LKP vadovybė laikėsi pasyviai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
@@ -231,57 +233,10 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   statusas: verified
   pagrindžia:
     - t-009
+    - t-004
+    - t-010
 
 - c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po 1991 m. sau-
-    sio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir
-    bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių
-    mokosi Rusijos ir kitų respublikų demokratai. 1991 m. kovą daugiau nei
-    200 tūkst. demonstracijoje dalyvavusių maskviečių skandavo šūkius „Ša-
-    lin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“
-    Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie
-    tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluo-
-    tą jėgą, taikiomis priemonėmis sustabdė beįsibėgėjančią sovietų agresiją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
-    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
-    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
-    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
-    vės, demokratijos, nepriklausomybės idealais.
-    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
-    gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
-
-    VI s k y r i u s
-    DAINUOJANTI
-    REVOLIUCIJA
-    SU SĄJŪDŽIU UŽ LIETUVĄ
-    S
-    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
-    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
-    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
-    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
-    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
-    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
-    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
-    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
-    liausiai ji pati ėmėsi iniciatyvos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Va-
@@ -296,37 +251,6 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   pagrindžia:
     - t-011
 
-- c-011
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
-    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
-    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
-    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
-    vės, demokratijos, nepriklausomybės idealais.
-    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
-    gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
-
-    VI s k y r i u s
-    DAINUOJANTI
-    REVOLIUCIJA
-    SU SĄJŪDŽIU UŽ LIETUVĄ
-    S
-    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
-    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
-    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
-    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
-    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
-    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
-    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
-    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
-    liausiai ji pati ėmėsi iniciatyvos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
@@ -340,7 +264,6 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]
-- [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
 - [[objektai/posakiai/Šalin rankas nuo Lietuvos]]
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
 - [[objektai/posakiai/„Šalin rankas nuo Lietuvos“ „Gorbačiovai, atsistatydink!“]]

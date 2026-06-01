@@ -25,13 +25,14 @@ Dusburgietis teigia, kad woelky.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad woelky.'
+  teiginys: 'C. P. Woelky parengė leidinio „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmąją dalį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'C. P. Woelky parengė leidinio „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmąją dalį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Urkundenbuch des Bisthums Culm / Bearbeitet von C. P. Woelky. Bd. 1. Theil 1.—

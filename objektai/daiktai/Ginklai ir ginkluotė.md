@@ -50,17 +50,17 @@ Nenurodyta
 - t-001
   teiginys: 'Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: '1920 m. rugsėjį M. Sleževičius Seime ragino sveikus žmones griebtis ginklo prieš lenkų puolimą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Iš bermontininkų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę.'
   pagrindžia:
-    - c-002
+    - c-004
 
 - t-004
   teiginys: '1918 m. gruodžio 21 d. A. Smetona Berlyne pasirašė 100 mln. markių paskolą ginklams įsigyti.'
@@ -70,12 +70,12 @@ Nenurodyta
 - t-005
   teiginys: 'Iš jų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Jie atsiuntė iš RSSFR apie 2 000 diversantų su padirbtais lietuviškais dokumentais, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune ir kituose miestuose, verbavo vietinius gyventojus.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -97,23 +97,6 @@ Nenurodyta
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Sa-
-    vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
-    apie 12 000, jiems žadėti žemės sklypai. Kovos veiksmai su raudonaisiais
-    baigėsi jų išstūmimu iš Lietuvos 1919 m. vasarą, rudenį sumušta ir keista
-    Pavelo Bermonto-Avalovo (Pavel Bermondt-Avalov) vadovaujama rusų
-    ir vokiečių kariuomenė (bermontininkai), formaliai pavaldi rusų baltųjų
-    generolui Aleksandrui Kolčiakui. Iš jų paimtas karo grobis svariai papildė
-    Lietuvos kariuomenės ginkluotę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Atsilaikė prieš bolševikus ir kaimynės – Lenkija, Suomija, Latvija
     ir Estija, jos taip pat apgynė savo nepriklausomybę.
     Paskutinė federacijos su Lenkija galimybė
@@ -131,7 +114,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paskutinė federacijos su Lenkija galimybė
@@ -156,7 +139,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-005
+- c-004
   santrauka: 'Iš jų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -174,8 +157,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+    - t-003
 
-- c-006
+- c-005
   santrauka: 'Jie atsiuntė iš RSSFR apie 2 000 diversantų su padirbtais lietuviškais dokumentais, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune ir kituose miestuose, verbavo vietinius gyventojus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -209,9 +193,7 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Bermontininkai]]
-- [[objektai/asmenys/Aleksandras Kolčiakas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Mykolas Sleževičius]]
 - [[objektai/daiktai/Padirbti lietuviški dokumentai]]
-- [[objektai/asmenys/Pavelas Bermontas-Avalovas]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]

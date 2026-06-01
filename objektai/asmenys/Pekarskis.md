@@ -17,13 +17,14 @@ Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užs
 ## Teiginiai
 
 - t-001
-  teiginys: 'Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užstatą sidabrui Jo Karališkosios Didenybės reikalams nuo žydo Brastoje ėmė po 56 lenkiškus grašius.'
+  teiginys: 'Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man buvo ati­

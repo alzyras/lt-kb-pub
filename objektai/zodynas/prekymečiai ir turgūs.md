@@ -26,13 +26,14 @@ Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui
 ## Teiginiai
 
 - t-001
-  teiginys: 'Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du didžiuosius prekymečius, o kas savaitę - įprastus turgus, garantavo miestui didesnes pajamas, dovanodamas jam ne­ mažą žemės plotą, nusidriekusį.'
+  teiginys: 'Kazimiero 1441 m. Brastoje išleista privilegija nustatė Vilniui du didžiuosius prekymečius ir savaitinius turgus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kazimiero 1441 m. Brastoje išleista privilegija nustatė Vilniui du didžiuosius prekymečius ir savaitinius turgus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kadangi pilietinis karas po Vytauto Didžiojo mir­

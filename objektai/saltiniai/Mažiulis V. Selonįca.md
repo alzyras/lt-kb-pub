@@ -23,13 +23,14 @@ Dusburgietis teigia, kad mažiulis V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mažiulis V.'
+  teiginys: 'V. Mažiulio „Selonįca“ paskelbta „Baltistica“ 1981 m. 17 tomo 1 numeryje, p. 7–12.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Mažiulio „Selonįca“ paskelbta „Baltistica“ 1981 m. 17 tomo 1 numeryje, p. 7–12.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mažiulis V. Selonįca.—Baltistica, 1981, 17 (1), p. 7—12.

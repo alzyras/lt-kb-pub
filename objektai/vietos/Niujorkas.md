@@ -18,7 +18,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 ## Teiginiai
 
 - t-001
-  teiginys: 'Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
+  teiginys: 'Aviatoriai lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
   pagrindžia:
     - c-001
 
@@ -30,6 +30,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aviatoriai lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Nu-

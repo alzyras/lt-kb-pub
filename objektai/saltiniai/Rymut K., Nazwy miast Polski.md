@@ -23,13 +23,14 @@ Dusburgietis teigia, kad rymut K., Nazwy miast Polski.— Wrocław—Warszawa—
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad rymut K., Nazwy miast Polski.— Wrocław—Warszawa—Kraków—Gdańsk, 1980.'
+  teiginys: 'K. Rymuto „Nazwy miast Polski“ buvo išleista 1980 m., leidimo vietomis nurodant Wrocławą, Varšuvą, Krokuvą ir Gdanską.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. Rymuto „Nazwy miast Polski“ buvo išleista 1980 m., leidimo vietomis nurodant Wrocławą, Varšuvą, Krokuvą ir Gdanską.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Rymut K., Nazwy miast Polski.— Wrocław—Warszawa—Kraków—Gdańsk, 1980.

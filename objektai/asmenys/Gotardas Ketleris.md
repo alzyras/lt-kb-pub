@@ -29,18 +29,19 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šiuo raštu skelbiame vi­ siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­ triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­ utonų ordino Livonijoje magistras, vildamasis mūsų ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­.'
+  teiginys: 'Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius, su kuriais turėjo daugiausia darbo.'
+  teiginys: '1579 m. Vilniuje Steponas Batoras priėmė Gotardą Ketlerį, Kuršo kunigaikštį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1579 m. Vilniuje Steponas Batoras priėmė Gotardą Ketlerį, Kuršo kunigaikštį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būdamas arčiausiai karo židinio, Stepono Batoro laikais
@@ -63,6 +64,7 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
     - t-002
 
 - c-002
+  santrauka: 'Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Et si autem ipsi quoq.
@@ -99,4 +101,6 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/Augsburgo Augustino tikėjimas]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Livonijos ordinas]]

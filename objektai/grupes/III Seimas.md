@@ -27,17 +27,17 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 - t-002
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
-  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 155 III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
+  teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -62,23 +62,6 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
-    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
-    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
-    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
-    rengti susirinkimus. Naujoji valdžia, taupydama lėšas, mažino atlygini-
-    mus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis kata-
-    likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
-    dvasininkams), ėmė mažinti karininkų skaičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     III Seimo pradėti dar-
     bai įvardyti kaip neįvykdomi ir
     „priešingi pagrindiniams tautos
@@ -95,7 +78,8 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
+  santrauka: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -113,6 +97,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -122,6 +107,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/III Seimo paleidimas (1927 m. balandžio 12 d.)]]
 - [[objektai/zodynas/santvarka]]
+- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]
 - [[objektai/grupes/Krikščionių demokratų blokas]]
 - [[objektai/zodynas/civilinė metrikacija]]

@@ -20,7 +20,7 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius, vienas iš jų, sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius, pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių, ir, užuot.'
+  teiginys: 'Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.'
   pagrindžia:
     - c-002
 
@@ -50,6 +50,7 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
     - t-002
 
 - c-002
+  santrauka: 'Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
@@ -72,11 +73,10 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Noliubas]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]

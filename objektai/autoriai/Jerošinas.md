@@ -20,18 +20,19 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jerošinas, garantuoti, kad niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­ jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir popiežiui, ir kad, tikėdamas savo.'
+  teiginys: 'Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Panašių pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­ žių Joną ir privertė jį pasiųsti du legatus į Livoniją." Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui.'
+  teiginys: 'Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Porina mums tą pasaką apie Maskvos didįjį kunigaikštį
@@ -55,6 +56,7 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
     - t-001
 
 - c-002
+  santrauka: 'Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išorinį įrodymą randame pasakytą pirmiausia J e r o -

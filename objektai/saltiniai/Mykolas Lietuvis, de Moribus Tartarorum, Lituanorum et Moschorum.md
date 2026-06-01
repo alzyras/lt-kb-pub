@@ -26,18 +26,19 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '79 Kijevo kunigaikštystė ir Podolė, anais laikais nusidriekusi iki pat Dniepro ir Dniestro žiočių, priklau­ sė Lietuvai; Kafos miestas prie Juo­ dosios jūros buvo svarbiausias Lie­ tuvos prekybinis uostas, jungęs su Rytais, iš kur prekės būdavo gabe­ namos į.'
+  teiginys: 'Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: '62 Kaip seniau totoriai garsėjo santū­ rumu, svetingumu ir kitomis iš kar­ tų kartoms pereinančiomis dorybė­ mis, liudija Mykolas Lietuvis, vienintelis autentiškų raštų apie sa­ vo tautos papročius autorius, kuris bando (gal ir apsirinka) totorius ver­.'
+  teiginys: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     79
@@ -65,6 +66,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     62

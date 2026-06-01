@@ -42,18 +42,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie brolių karą su varmiais, bartais ir notangais ir apie daugybės brolių ir krikščio­ nių žūtį Vargu ar kas valiotų smulkiai papasakoti, kiek turėjo patirti magistras bei broliai vargo, kokių susilaukti pavojų ir bėdų, stengdamiesi, kad Kristaus tikėjimas.'
+  teiginys: 'Žygyje prieš varmius, notangus ir bartus broliai prie būsimos Baigos apiplėšė kaimus, o prūsai juos užpuolė ir išžudė.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 243 Apie kovas su varmiais, notangais ir sembais kalba 1238.'
+  teiginys: 'Varmės puolimas, aprašytas pasakojime apie žygį prieš varmius, notangus ir bartus, įvyko 1238 m. vasarą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Varmės puolimas, aprašytas pasakojime apie žygį prieš varmius, notangus ir bartus, įvyko 1238 m. vasarą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     243  Apie kovas su varmiais, notangais ir sembais kalba 1238. VI.11 dokumentas
@@ -65,6 +66,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Žygyje prieš varmius, notangus ir bartus broliai prie būsimos Baigos apiplėšė kaimus, o prūsai juos užpuolė ir išžudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolių karą su varmiais, bartais ir notangais ir apie daugybės brolių ir krikščio­
@@ -100,3 +102,4 @@ Nenurodyta
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]

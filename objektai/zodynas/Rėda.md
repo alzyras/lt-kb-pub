@@ -24,13 +24,13 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 ## Teiginiai
 
 - t-001
-  teiginys: '`Rėda` šiame tekste reiškia visuomenės ar valstybės tvarką.'
+  teiginys: 'Rėda citatoje siejama su tautos tvarka, kuri, pasak Daukanto, kilo nuo kunigų kaip Dievo ir pasaulio tarpininkų.'
   pagrindžia:
     - c-001
     - c-002
 
 - t-002
-  teiginys: '`Ūkės rėda` žymi senovės lietuvių santvarką.'
+  teiginys: 'Senovės lietuvių ūkės rėdą, pasak Daukanto, sunku aiškiai aprašyti dėl karų, priešų ir žmonių skaugės padaryto naikinimo.'
   pagrindžia:
     - c-001
 
@@ -49,6 +49,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
     - t-002
 
 - c-002
+  santrauka: 'Rėda citatoje siejama su tautos tvarka, kuri, pasak Daukanto, kilo nuo kunigų kaip Dievo ir pasaulio tarpininkų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žinoma yra, jog rėda kožnos tautos visados kėlės nuo kunigų, kaipo dievo ir svieto tarpininkų, nesgi išminčiai svieto, regėdami, jog žmogus nuo pirmosios dienos lig savo paskuojės karšaties turi visados draugėj gyventi, kaipogi be draugės niekšai negalėtų ant svieto patekti, o ir gimęs be jos ilgainiui pragaištų.
@@ -65,4 +66,3 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai]]
 - [[objektai/zodynas/Žemlionis|žemlionis]]
-- [[objektai/zodynas/santvarka]]

@@ -35,7 +35,7 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
     - c-002
 
 - t-002
-  teiginys: 'Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino broliais.'
+  teiginys: 'Valdovė Agota po mūšio įsakė surinkti kovos lauke likusius pusgyvius Ordino brolius ir patikėti juos gydytojams.'
   pagrindžia:
     - c-003
 
@@ -90,6 +90,7 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
     - t-001
 
 - c-003
+  santrauka: 'Valdovė Agota po mūšio įsakė surinkti kovos lauke likusius pusgyvius Ordino brolius ir patikėti juos gydytojams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė

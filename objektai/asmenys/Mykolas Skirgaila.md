@@ -20,13 +20,14 @@ Tarp Lietuvos didikų buvo: Žemai­ čių seniūnas Mykolas Skirgaila ir Trakų
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tarp Lietuvos didikų buvo: Žemai­ čių seniūnas Mykolas Skirgaila ir Trakų kaštelionas Jonas Švitrigaila, Šalčininkų seniūnas Mantautas.'
+  teiginys: 'Mykolas Skirgaila buvo Žemaičių seniūnas, sutartyje paminėtas tarp Lietuvos didikų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mykolas Skirgaila buvo Žemaičių seniūnas, sutartyje paminėtas tarp Lietuvos didikų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šioje sutartyje tarp kunigaikščių
@@ -61,4 +62,3 @@ Tarp Lietuvos didikų buvo: Žemai­ čių seniūnas Mykolas Skirgaila ir Trakų
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/asmenys/Jonas Švitrigaila]]
-- [[objektai/asmenys/Mantautas]]

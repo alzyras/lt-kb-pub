@@ -33,9 +33,9 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad padrąsintas dieviškojo apreiškimo ir užsidegęs karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė.'
+  teiginys: 'Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.'
@@ -43,55 +43,50 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.'
-  pagrindžia:
-    - c-003
-
-- t-004
   teiginys: 'Dusburgietis teigia, kad dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
-  pagrindžia:
-    - c-012
-
-- t-005
-  teiginys: '`Maldininko įžadai` šiame šaltinyje žymi laikiną, įžadais apribotą tarnybos ar žygio laiką.'
   pagrindžia:
     - c-008
 
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
-  pagrindžia:
-    - c-004
-
-- t-007
-  teiginys: 'Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.'
-  pagrindžia:
-    - c-009
-
-- t-008
-  teiginys: 'Šiame šaltinyje maldininkai gali būti kilmingi atvykėliai, tiesiogiai jungiami į Ordino karo žygius ir pilių šturmą.'
-  pagrindžia:
-    - c-010
-    - c-002
-
-- t-009
-  teiginys: 'Šio šaltinio pasakojime maldininkai veikia kaip atskira nuo Ordino brolių karinė jėga.'
-  pagrindžia:
-    - c-011
-
-- t-010
-  teiginys: 'Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262.'
+- t-004
+  teiginys: '`Maldininko įžadai` šiame šaltinyje žymi laikiną, įžadais apribotą tarnybos ar žygio laiką.'
   pagrindžia:
     - c-007
 
-- t-011
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
+  pagrindžia:
+    - c-003
+
+- t-006
+  teiginys: 'Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.'
+  pagrindžia:
+    - c-008
+
+- t-007
+  teiginys: 'Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.'
+  pagrindžia:
+    - c-004
+    - c-002
+
+- t-008
+  teiginys: 'Šio šaltinio pasakojime maldininkai veikia kaip atskira nuo Ordino brolių karinė jėga.'
+  pagrindžia:
+    - c-006
+
+- t-009
+  teiginys: 'Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262.'
+  pagrindžia:
+    - c-006
+
+- t-010
   teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
   pagrindžia:
-    - c-005
+    - c-004
 
-- t-012
-  teiginys: 'Dusburgietis čia pakiliai tekalba apie į pagalbą atvykusius Vokietijos „maldininkus“.'
+- t-011
+  teiginys: 'Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.'
   pagrindžia:
-    - c-013
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -116,6 +111,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - t-002
 
 - c-002
+  santrauka: 'Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
@@ -133,27 +129,9 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
-    iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei
-    ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė
-    prieš tikėjimo priešus, nes ledas buvo plonas.
-
-
-
-
-       349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     17. Apie Šventos Elžbietos vyro mirtį
@@ -168,9 +146,9 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
@@ -186,9 +164,11 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
+    - t-007
 
-- c-006
+- c-005
+  santrauka: 'Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
@@ -222,7 +202,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   pagrindžia:
     - t-001
 
-- c-007
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     į jo šventenybę popiežių. Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
@@ -236,9 +216,10 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
+    - t-008
 
-- c-008
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
@@ -250,58 +231,9 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-009
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
-    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
-    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
-    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
-    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
-    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
-    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
-    išaugo miestas242.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-010
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
-    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
-    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
-    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
-    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai
-    dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į
-    riterius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-011
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    į jo šventenybę popiežių. Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
-    Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo
-    žmonių krito kovoje262. Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė
-    mūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino
-    drabužiais, duodamas jiems baltą apsiaustą su juodu kryžiumi ir įsakydamas jiems bei
-    kitiems to paties Kristaus karių ordino broliams, esantiems Livonijoje, vilkėti Teutonų
-    namų ordino vienuoliškais drabužiais ir šitaip pelnytis visų nuodėmių atleidimą263 (1236).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-012
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
@@ -318,9 +250,12 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
+    - t-006
+    - t-012
 
-- c-013
+- c-009
+  santrauka: 'Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     252  Padėtis prūsų apsiaustoje Baigoje buvusi tokia sunki, kad broliai galvojo iš jos
@@ -332,34 +267,13 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-012
-
-- c-014
-  santrauka: 'Dusburgietis teigia, kad dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    16. Apie karą su pagudėnais ir Elbingo pilies pastatymą
-
-       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
-    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
-    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
-    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
-    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
-    pastatė pilį, kurią pavadino nuo upės vardo Elbingu.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-013
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/asmenys/Fridrichas]]
 - [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Otonas]]
@@ -368,23 +282,18 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - [[objektai/asmenys/Simeonas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Vokietijos maldininkai]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Gerlachas Rudasis]]
-- [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]]
-- [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]
 - [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
 - [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]
-- [[objektai/asmenys/Petras iš Rozenbergo]]
-- [[objektai/asmenys/Pilypas]]
-- [[objektai/grupes/Vokietijos maldininkai]]
 - [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 33.
+Objektų skaičius: 32.
 
 ## Kaip naudoti
 
@@ -62,5 +62,4 @@ Objektų skaičius: 33.
 - [akcijos](../objektai/zodynas/akcijos)
 - [pasaulietis](../objektai/zodynas/pasaulietis)
 - [Watmal Vatmalis](../objektai/zodynas/Watmal%20Vatmalis)
-- [šeštinės](../objektai/zodynas/%C5%A1e%C5%A1tin%C4%97s)
 - [žygūnai](../objektai/zodynas/%C5%BEyg%C5%ABnai)

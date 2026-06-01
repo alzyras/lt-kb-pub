@@ -39,7 +39,7 @@ Nenurodyta
     - c-004
 
 - t-002
-  teiginys: 'Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.): tik jo įpėdinis Kaufmanas 1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už- draudė lietuviškąsias knygas lotyniškomis raidėmis spausdinti ir platinti.'
+  teiginys: 'Kaufmanas 1865 m. rugsėjo 6 d. įsakymu uždraudė spausdinti ir platinti lietuviškas knygas lotyniškomis raidėmis.'
   pagrindžia:
     - c-002
 
@@ -71,6 +71,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Kaufmanas 1865 m. rugsėjo 6 d. įsakymu uždraudė spausdinti ir platinti lietuviškas knygas lotyniškomis raidėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Muravjovas bus žodžiu įsakęs. Tik jo įpėdinis Kaufmanas

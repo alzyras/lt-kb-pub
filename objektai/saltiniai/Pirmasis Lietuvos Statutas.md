@@ -29,12 +29,12 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
 ## Teiginiai
 
 - t-001
-  teiginys: '1528 metų lapkričio 17 dieną Lietuvos seime, kur, pagal anų laikų paprotį, posėdžiavo tiktai senatoriai, prelatai ir kunigaikščiai, buvo paskelbtas pirmasis Lietuvos Statutas, kuriame stengtasi suderinti gana skirtingus atskirų provin­ cijų įstatymus ir.'
+  teiginys: 'Pirmasis Lietuvos Statutas buvo paskelbtas 1528 m. lapkričio 17 d. Lietuvos seime.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­ rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­ mus, atskiru liepos 7 d..'
+  teiginys: '1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.'
   pagrindžia:
     - c-002
 
@@ -46,6 +46,7 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmasis Lietuvos Statutas buvo paskelbtas 1528 m. lapkričio 17 d. Lietuvos seime.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1528 metų sausio 20 dieną karalius pasirašė Žemaičių
@@ -64,6 +65,7 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - t-001
 
 - c-002
+  santrauka: '1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia paminėti įstatymai gali būti laikomi galutiniu išsi­

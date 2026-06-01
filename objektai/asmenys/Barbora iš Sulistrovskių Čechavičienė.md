@@ -55,5 +55,4 @@ auksinų sumą, iš minėto pardavimo sudariusi, kuri 1759 metų balandžio 22 d
 ### Susiję objektai
 - [[objektai/daiktai/Duona]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/daiktai/Spaustuvės]]
 - [[objektai/zodynas/suma]]

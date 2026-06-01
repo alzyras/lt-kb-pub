@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 39.
+Objektų skaičius: 37.
 
 ## Kaip naudoti
 
@@ -69,6 +69,4 @@ Objektų skaičius: 39.
 
 ### Žodynas
 - [Kerzono linija](../objektai/zodynas/Kerzono%20linija)
-- [Piscatores rybolovcy](../objektai/zodynas/Piscatores%20rybolovcy)
 - [servitutas](../objektai/zodynas/servitutas)
-- [Wasserburg](../objektai/zodynas/Wasserburg)

@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šitų nepasitenkinusiųjų priešaky atsistojo pats Vytautas, Lietuvos ir jos visuomenės reikalų gynėjas, kuris po ilgų ir sunkių kovų, ne be svetimos pagalbos, iškovojo iš Jogailos ne tik savo tėviškę, bet ir visą Lietuvą su jai priklau­ sančiais Rusų žemių.'
+  teiginys: '1392 m. Vytauto ir Jogailos Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1392 m. Vytauto ir Jogailos Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šitų nepasitenkinusiųjų priešaky atsistojo pats
@@ -69,3 +70,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/ivykiai/Astravos sutartis]]

@@ -48,7 +48,6 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/ivykiai/Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės]]
 - [[objektai/zodynas/šeimynykštis famulus]]
 - [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]]

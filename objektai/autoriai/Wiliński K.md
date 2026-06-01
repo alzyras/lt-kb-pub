@@ -25,13 +25,14 @@ Dusburgietis teigia, kad wiliński K.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad wiliński K.'
+  teiginys: 'K. Wilińskis 1984 m. Lodzėje paskelbė darbą apie X–XIII a. lenkų ir prūsų kovas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. Wilińskis 1984 m. Lodzėje paskelbė darbą apie X–XIII a. lenkų ir prūsų kovas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Wiliński K. Walki polsko-pruskie w X—XIII w.—Acta universitatis Lodziensis: Folia
@@ -41,3 +42,8 @@ Dusburgietis teigia, kad wiliński K.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

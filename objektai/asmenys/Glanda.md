@@ -20,13 +20,14 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
+  teiginys: 'Prūsams vėl atkritus nuo tikėjimo, sembai išsirinko Glandą savo kariuomenės vadu ir vyresniuoju.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsams vėl atkritus nuo tikėjimo, sembai išsirinko Glandą savo kariuomenės vadu ir vyresniuoju.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,

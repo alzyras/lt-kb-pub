@@ -55,7 +55,7 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
 - t-003
   teiginys: 'Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras, išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -101,25 +101,6 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
-    išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
-    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
-    minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
-    kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
-    galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,
-    atsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir
-    šitaip išvaduojamas iš netikėlių nelaisvės. Todėl vienas lietuvis, vardu Nodamas, prityręs
-    karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
-    šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
-    apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -135,4 +116,3 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Nodamas]]
-- [[objektai/zodynas/šeštinės]]

@@ -19,13 +19,14 @@ VANDENS IR VĖJO GALYBE.
 ## Teiginiai
 
 - t-001
-  teiginys: 'VANDENS IR VĖJO GALYBE.'
+  teiginys: '„Vandens ir vėjo galybę“ sudarė A. Vireliūnas ir P. Šinkūnas, o leidinys buvo iliustruotas daugybe paveikslėlių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Vandens ir vėjo galybę“ sudarė A. Vireliūnas ir P. Šinkūnas, o leidinys buvo iliustruotas daugybe paveikslėlių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     16. VANDENS IR VĖJO GALYBE. Sudarė A. Vireliūnas ir P. Šinkū­

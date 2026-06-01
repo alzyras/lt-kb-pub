@@ -31,23 +31,24 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
     - c-002
 
 - t-002
-  teiginys: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva L I E T U V O.'
+  teiginys: 'Maskva grasino prijungti Klaipėdos kraštą prie Kaliningrado srities, jeigu Lietuva siektų atkurti nepriklausomybę.'
   pagrindžia:
     - c-001
 
 - t-003
   teiginys: 'Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Maskva grasino prijungti Klaipėdos kraštą prie Kaliningrado srities, jeigu Lietuva siektų atkurti nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau LKP pertvar-
@@ -69,6 +70,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -90,24 +92,6 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tačiau LKP pertvar-
-    kos taktika („žingsnis po žingsnio“) neparuošė valstybės tęstinumą įtvir-
-    tinančių teisinių ir politinių dokumentų ir neturėjo valstybės atkūrimo
-    programos.
-    Nujausdama kurlink judėjimas suka, Maskva darė viską, kad sustab-
-    dytų eventualų nepriklausomybės atkūrimą. Griebtasi šantažo – grasinta
-    prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities,
-    o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomi-
-    ją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Tarpukariu Lietuva su Vokietija konfliktavo dėl Klaipėdos krašto, o
     su Lenkija – dėl Vilniaus krašto. XX a. pabaigoje padėtis pasikeitė. Vokie-
     tija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabar-
@@ -119,7 +103,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
   santrauka: 'Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruose įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje atiduota 50-čiai metų administruoti SSRS.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

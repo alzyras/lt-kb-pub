@@ -17,13 +17,14 @@ Dusburgietis teigia, kad koeppen.— Marburg, 1958; [3 Lieferung): Nachträge, R
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad koeppen.— Marburg, 1958; [3 Lieferung): Nachträge, Register/H.'
+  teiginys: 'H. Koeppenas parengė „Preussisches Urkundenbuch“ trečio tomo 1342–1345 m. dalį ir ketvirtą tomą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'H. Koeppenas parengė „Preussisches Urkundenbuch“ trečio tomo 1342–1345 m. dalį ir ketvirtą tomą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1. Erste Hälfte (1140—1257)

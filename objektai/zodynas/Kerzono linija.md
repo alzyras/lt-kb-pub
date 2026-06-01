@@ -30,7 +30,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - t-001
   teiginys: 'Lietuvos siena ėjo Kerzono linija iki Nemuno, o Suvalkų krašto ruože ši linija buvo nustatyta Suvalkų sutartyje.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Kerzono liniją 1919 m. gruodžio 8 d. nustatė Aukščiausioji Santarvininkių Taryba.'
@@ -76,25 +76,6 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Svarbiausieji to projekto
-    punktai buvo šie: 1) Lietuva ir Lenkija viena antrą pripažįsta nepri-
-    klausomomis ir suvereninėmis valstybėmis, turinčiomis bendrų in-
-    teresų, verčiančių jas bendradarbiauti specialinių konvencijų nusta-
-    tytais pagrindais ir turėti nuolatinio ryšio organų. 2) Lietuvos siena
-    eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta
-    Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui
-    — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,
-    toliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-
-    kijos su Sovietų Rusija nustatytų sienų. (Šitas punktas teikė Lie-
-    tuvai visą liepos mėn.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

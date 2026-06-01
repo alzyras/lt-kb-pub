@@ -26,7 +26,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 ## Teiginiai
 
 - t-001
-  teiginys: 'O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­ tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­ timis galį taikos ir nesilaikyti^1 ).'
+  teiginys: 'Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų ir Melniku.'
   pagrindžia:
     - c-002
 
@@ -54,6 +54,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
     - t-002
 
 - c-002
+  santrauka: 'Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų ir Melniku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Abu ma­

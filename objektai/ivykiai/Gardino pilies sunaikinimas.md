@@ -44,12 +44,11 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Gardino pilies sunaikinimą 1284 viešpaties metais tas pats magistras, kuriam niekad nebuvo gana karų su netikėliais, sutelkė stiprią kariuomenę ir vasarą su vadovu Skomantu patraukė prieš Gardino pilį520; persikėlęs per Nemuną, jis išdėstė savo šaulius.'
   pagrindžia:
     - c-001
-    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad po to tūkstantis aštuoni šimtai vyrų užpuolė šios pilies apylinkes, jas nusiaubė, degindami bei piešdami, ir patraukė namo su didžiausiu grobiu, paėmę daug žmonių į nelaisvę ar išžudę.'
   pagrindžia:
-    - c-004
+    - c-003
     - c-002
 
 ## Reikšmingi paminėjimai
@@ -87,22 +86,6 @@ Nenurodyta
     - t-002
 
 - c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1284 viešpaties metais tas pats magistras, kuriam niekad nebuvo gana karų su
-    netikėliais, sutelkė stiprią kariuomenę ir vasarą su vadovu Skomantu patraukė prieš
-    Gardino pilį520; persikėlęs per Nemuną, jis išdėstė savo šaulius tinkamose vietose  ir
-    pristatė prie sienų kopėčias; užvirė tokia žiauri kova, kad bailesnieji nė nedrįso  į ją
-    žiūrėti. Vieniems drąsiai puolant, kitiems atkakliai ginantis, viena ir kita šalis neteko
-    daugybės [karių] užmuštaisiais ar sužeistaisiais. Galop iš dievo malonės broliai įsiveržė
-    į pilį ir ją sudegino, o visus [pilėnus] išžudė arba paėmė  į nelaisvę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop iš dievo malonės broliai įsiveržė

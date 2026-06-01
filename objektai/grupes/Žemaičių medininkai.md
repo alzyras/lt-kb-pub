@@ -29,11 +29,6 @@ amziai:
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: '- publicnote: - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean - vietasaltinyje: offset: 47711-47876; match: ocrnormalizedgapped - santrauka: terminas vartojamas kaip išorinis visos tautos pavadinimas.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,32 +44,6 @@ amziai:
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    ## vocabulary-nomadziai-001
-    - status: unused
-    - claim_role: new_claim
-    - kategorija: zodynas
-    - kandidatas: nomadžiai
-    - potencialus_teiginys: terminas vartojamas kaip išorinis visos tautos pavadinimas, aiškinamas kaip „žmonės, namuose gyvenantys“.
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 47711-47876; match: ocr_normalized_gapped
-    - santrauka: terminas vartojamas kaip išorinis visos tautos pavadinimas, aiškinamas kaip „žmonės, namuose gyvenantys“.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo prašaleičių nomadžiais buvo vadinama, beje, žmonės, namuose gyvenantys.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Nomadžiai|nomadžiai]]
-- [[objektai/zodynas/Šaldros|šaldros]]

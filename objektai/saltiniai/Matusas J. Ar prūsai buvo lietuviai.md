@@ -23,13 +23,14 @@ Dusburgietis teigia, kad matusas J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad matusas J.'
+  teiginys: 'J. Matuso „Ar prūsai buvo lietuviai?“ paskelbtas žurnalo „Vairas“ 1936 m. 7–8 numeriuose, p. 697–705.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Matuso „Ar prūsai buvo lietuviai?“ paskelbtas žurnalo „Vairas“ 1936 m. 7–8 numeriuose, p. 697–705.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Matusas J. Ar prūsai buvo lietuviai? — Vairas, 1936, Nr. 7— 8, p. 697—705.

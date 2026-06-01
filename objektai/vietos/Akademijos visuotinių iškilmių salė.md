@@ -34,7 +34,7 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
     - c-001
 
 - t-002
-  teiginys: 'Salėje buvo dvidešimt paprastos tapybos portretų ir trijų eilių mediniai suolai.'
+  teiginys: 'Akademijos visuotinių iškilmių salėje buvo 20 paprastos tapybos portretų ir trimis eilėmis išrikiuoti mediniai suolai.'
   pagrindžia:
     - c-002
 
@@ -44,7 +44,7 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
     - c-003
 
 - t-004
-  teiginys: 'C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­ nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, - kolegijos sienų, iš trečio ir.'
+  teiginys: 'Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus.'
   pagrindžia:
     - c-004
 
@@ -74,6 +74,7 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
     - t-001
 
 - c-002
+  santrauka: 'Akademijos visuotinių iškilmių salėje buvo 20 paprastos tapybos portretų ir trimis eilėmis išrikiuoti mediniai suolai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stanislovo Radvilos, Vilniaus vaivados Mykolo Paco,
@@ -109,6 +110,7 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
     - t-003
 
 - c-004
+  santrauka: 'Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą

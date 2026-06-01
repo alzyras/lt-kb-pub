@@ -36,24 +36,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie saldžią rasą, užkritusią pasėlius Prancūzijoje apie švento Jono Krikštytojo šventę (birželio 24) saldi rasa, leisdamasi iš dangaus, taip užkrito pasėlių varpas, kad daug žmonių, paėmę jas į burną, kuo aiškiausiai jautė medaus kvapą (Ptol.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prancūzijoje apie švento Jono Krikštytojo šventę (birželio 24) saldi rasa, leisdamasi iš
-    dangaus, taip užkrito pasėlių varpas, kad daug žmonių, paėmę jas į burną, kuo aiškiausiai
-    jautė medaus kvapą (Ptol. loc. cit.; Mart. loc. cit.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie saldžią rasą, užkritusią pasėlius

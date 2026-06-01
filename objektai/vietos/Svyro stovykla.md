@@ -26,13 +26,14 @@ Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejyk
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­ raliaus akyse liejo grėsmingus pabūklus pagal geriausius pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­ niaus gatvėmis traukė į stovyklą Svyre, šis didysis.'
+  teiginys: '1579 m. rengiantis žygiui į Livoniją, rinktinės kariuomenės būriai Vilniaus gatvėmis traukė į stovyklą Svyre.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1579 m. rengiantis žygiui į Livoniją, rinktinės kariuomenės būriai Vilniaus gatvėmis traukė į stovyklą Svyre.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Smig-

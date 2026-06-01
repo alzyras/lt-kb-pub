@@ -27,7 +27,7 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jas pripažino Liubar­ tui ne tik uošvis, bet ir šio brolis Levas (Leonas), drauge su An­ driumi žuvęs 1323 m. Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus Lietuva buvo tiek daug turėjusi santykių, beliko vienintelė atžala —.'
+  teiginys: 'Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jas pripažino Liubar­
@@ -71,7 +72,6 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Boleslovas-Jurgis II]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
 - [[objektai/asmenys/Marija]]

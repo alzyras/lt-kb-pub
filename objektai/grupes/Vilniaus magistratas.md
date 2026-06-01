@@ -33,7 +33,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-006
 
 - t-002
-  teiginys: 'Raštininkas Mikola Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­ rika, XVI, 80, karalius priekaištavo Vilniaus magistratui: Kad nesutaria su bendruomene.'
+  teiginys: '1524 m. karalius priekaištavo Vilniaus magistratui dėl nesutarimų su bendruomene ir nubaudė jį šimto kapų grašių bauda.'
   pagrindžia:
     - c-013
 
@@ -43,27 +43,27 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-016
 
 - t-004
-  teiginys: 'Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų.'
+  teiginys: 'Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.'
   pagrindžia:
     - c-003
 
 - t-005
-  teiginys: '1545 metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­ mų valdymas buvo patikėtas Vilniaus magistratui; Jonui Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo titulą nuo vyskupo karalius perkėlė sau.'
+  teiginys: '1545 m. gegužės 4 d. įsakymu Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
   pagrindžia:
     - c-005
 
 - t-006
-  teiginys: 'Karalius ŽYGIMANTAS Prikabintas LDK antspaudas Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­ niaus miesto knygos, vykstant ribų komisijos teismams tarp jo did. pono Goreckio, Lydos pav. iždininko, ir garb.'
+  teiginys: '1786 m. rugpjūčio 19 d. iš Vilniaus magistrato ir miesto knygos buvo išduota privilegijos ištrauka ribų komisijos teismui.'
   pagrindžia:
     - c-015
 
 - t-007
-  teiginys: 'O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar­ kiams, įvairius savo reikalavimus ir sumetimus išsakydamas, užtat 1667 metų balandžio 4 dieną Vilniaus magistratas stojo į teismą su Šv.'
+  teiginys: '1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių.'
   pagrindžia:
     - c-010
 
 - t-008
-  teiginys: 'Tas pats Gardino seimas Vilniaus miesto gyventojams buvo labai įsimintinas dėl suteiktos privilegi­ jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­ rate, su palikuonimis buvo visiems.'
+  teiginys: 'Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis pereiti į bajorų luomą.'
   pagrindžia:
     - c-012
 
@@ -73,12 +73,12 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-014
 
 - t-010
-  teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
+  teiginys: 'Vilniaus kapitula teigė, kad bausti bažnyčios valdinius priklauso jai, o ne Vilniaus miestui ar tarėjams.'
   pagrindžia:
     - c-008
 
 - t-011
-  teiginys: 'Vilniaus vaitui............Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestiečiai, skųsdamiesi esą labai varginami dėl to, kad nesilaikai jų atžvilgiu Mag­ deburgo teisės ir labai juos vargini, ir esą daugelyje tų teisių punktų.'
+  teiginys: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.'
   pagrindžia:
     - c-004
 
@@ -93,28 +93,29 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-017
 
 - t-014
-  teiginys: 'Miesto sargyba ir policija, laikinai pri­ klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­ tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta magistratui - karaliaus Žygimanto 1522 metų įsakymu.'
+  teiginys: 'Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.'
   pagrindžia:
     - c-011
 
 - t-015
-  teiginys: 'Jus Patronatus [teises], garbiosios Vilniaus kapitulos perleistas Rektoriams, apaštališkasis nun­ cijus Bretanės vyskupas Jonas Andrius Apaštališkojo Sosto valia patvirtino, o 1651 metais gruodžio 21 dieną Vilniaus vys­ kupas Jurgis Tiškevičius tą.'
+  teiginys: '1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių patenkino Vilniaus magistrato ieškinį.'
   pagrindžia:
     - c-001
 
 - t-016
-  teiginys: '1577 metų gruodžio 19 dienos, o pirmesne 1539 metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­ fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­ piežius Inocentas X irgi patvirtino.'
+  teiginys: 'Vilniaus magistratas per savo valdytojus disponavo mūriniais namais, kurių pajamos buvo skirtos koplyčios poreikiams.'
   pagrindžia:
     - c-007
 
 - t-017
-  teiginys: 'Ir magistratas, keleliais metais vėliau, gavo teisę pasiųsti du arba tris pata­ rėjus į visus didžiuosius seimus, vykstančius Karalystėje ar­ ba Lietuvoje.'
+  teiginys: 'Vilniaus magistratas gavo teisę siųsti du arba tris patarėjus į didžiuosius seimus Karalystėje ar Lietuvoje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių patenkino Vilniaus magistrato ieškinį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jus Patronatus [teises], garbiosios
@@ -134,6 +135,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-015
 
 - c-002
+  santrauka: 'Vilniaus magistratas gavo teisę siųsti du arba tris patarėjus į didžiuosius seimus Karalystėje ar Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O svarbiausia, jog 1560 metais Lietuvos Didžiosios Kuni­
@@ -151,6 +153,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-017
 
 - c-003
+  santrauka: 'Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir todėl patiems ar jų
@@ -183,6 +186,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-004
 
 - c-004
+  santrauka: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus vaitui............Kreipėsi į mus Vilniaus miesto
@@ -204,6 +208,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-011
 
 - c-005
+  santrauka: '1545 m. gegužės 4 d. įsakymu Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia karaliaus dėmesį patraukė Švč. Trejybės prie­
@@ -262,6 +267,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-001
 
 - c-007
+  santrauka: 'Vilniaus magistratas per savo valdytojus disponavo mūriniais namais, kurių pajamos buvo skirtos koplyčios poreikiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1577 metų gruodžio 19 dienos, o pirmesne 1539
@@ -285,6 +291,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-016
 
 - c-008
+  santrauka: 'Vilniaus kapitula teigė, kad bausti bažnyčios valdinius priklauso jai, o ne Vilniaus miestui ar tarėjams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O prelatai ir kanauninkai
@@ -352,6 +359,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-012
 
 - c-010
+  santrauka: '1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kadangi Vilniaus
@@ -370,6 +378,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-007
 
 - c-011
+  santrauka: 'Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
@@ -389,6 +398,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-014
 
 - c-012
+  santrauka: 'Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis pereiti į bajorų luomą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O 1568 metų
@@ -415,6 +425,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-008
 
 - c-013
+  santrauka: '1524 m. karalius priekaištavo Vilniaus magistratui dėl nesutarimų su bendruomene ir nubaudė jį šimto kapų grašių bauda.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Raštininkas Mikola
@@ -458,6 +469,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-009
 
 - c-015
+  santrauka: '1786 m. rugpjūčio 19 d. iš Vilniaus magistrato ir miesto knygos buvo išduota privilegijos ištrauka ribų komisijos teismui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius ŽYGIMANTAS
@@ -555,6 +567,11 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/zodynas/miesto sargyba ir policija]]
+- [[objektai/daiktai/Antspaudai]]
+- [[objektai/daiktai/Vilniaus miestiečių gynybinė ginkluotė]]
+- [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
 - [[objektai/asmenys/Parulis]]
 - [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę]]
@@ -562,6 +579,5 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/zodynas/ekskomunikacija ekskomunika]]
 - [[objektai/zodynas/miesto magistrato pareigybės]]
-- [[objektai/zodynas/miesto sargyba ir policija]]
 - [[objektai/zodynas/vaitas ir tarėjai]]
 - [[objektai/asmenys/Žygimantas Senasis]]

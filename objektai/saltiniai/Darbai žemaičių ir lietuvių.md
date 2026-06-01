@@ -19,13 +19,14 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­ vo.'
+  teiginys: 'Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“, kai Lietuvos praeities tyrimų dar buvo nedaug.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“, kai Lietuvos praeities tyrimų dar buvo nedaug.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš

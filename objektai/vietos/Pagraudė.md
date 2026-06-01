@@ -31,7 +31,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - c-004
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad pagraudės ieškota ir labiau į rytus (Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 205).'
+  teiginys: 'Pagraudės ieškota ir labiau į rytus, nors ji siejama su valsčiumi Žemaičių pietvakariuose ties Jūros upe.'
   pagrindžia:
     - c-001
 
@@ -48,6 +48,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagraudės ieškota ir labiau į rytus, nors ji siejama su valsčiumi Žemaičių pietvakariuose ties Jūros upe.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     544  D.— contra territorium [...] Pograudam, Jer.— Pograudin; valsčius Žemaičių

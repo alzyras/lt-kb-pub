@@ -31,7 +31,7 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
     - c-001
 
 - t-002
-  teiginys: 'Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkurin.'
+  teiginys: 'Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.'
   pagrindžia:
     - c-002
 
@@ -53,7 +53,7 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
     - t-001
 
 - c-002
-  santrauka: 'Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkurin.'
+  santrauka: 'Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau šį kartą Vytautui neteko

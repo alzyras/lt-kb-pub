@@ -35,12 +35,12 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 - t-004
   teiginys: 'V. Grigaliūnas-Glovackis vadovavo rezerve buvusiam 2-ajam pėstininkų pulkui.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-005
   teiginys: 'Augustavo-Suvalkų operacijai buvo sudaryta V. Grigaliūno-Glovackio vadovaujama kovinė grupė.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -97,28 +97,9 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1920 m. liepa-rugsėjis AUGUSTAVO-SUVALKŲ OPERACIJA
-
-    Buvo sudaryta plk. V. Grigaliūno-
-    Glovackio vadovaujama kovinė grupė,
-    kurią sudarė 2-asis ir 10-asis pėstininkų
-    pulkai bei 6-ojo pulko batalionas, taip
-    pat 5-oji ir 9-oji artilerijos baterijos bei
-    2-ojo husarų pulko eskadronas, rug-
-    pjūčio 23 d. grupę papildė 5-asis pulkas,
-    kovų išvakarėse - 8-asis. Grupės šta-
-    bas buvo Seinuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-005
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Į bermontininkų frontą karinė

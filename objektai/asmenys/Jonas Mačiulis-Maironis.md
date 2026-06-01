@@ -25,7 +25,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - c-005
 
 - t-002
-  teiginys: 'Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.'
+  teiginys: 'Jonas Mačiulis-Maironis tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.'
   pagrindžia:
     - c-001
 
@@ -35,7 +35,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - c-002
 
 - t-004
-  teiginys: 'Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J.'
+  teiginys: 'Poetas Maironis laikomas tautos Atgimimo dainiumi Lietuvos Respublikos ištakų kontekste.'
   pagrindžia:
     - c-003
 
@@ -52,6 +52,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Mačiulis-Maironis tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
@@ -93,6 +94,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - t-003
 
 - c-003
+  santrauka: 'Poetas Maironis laikomas tautos Atgimimo dainiumi Lietuvos Respublikos ištakų kontekste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O
@@ -177,7 +179,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - [[objektai/zodynas/kunigas]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
-- [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
 - [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

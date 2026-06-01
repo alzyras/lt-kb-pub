@@ -37,26 +37,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs visą savo kariuomenę, apsiautė Baigos pilį ir, būdamas viršininkas, įsigeidė pats kaip karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs
-    visą savo kariuomenę, apsiautė Baigos pilį  ir, būdamas viršininkas, įsigeidė pats kaip
-    karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau, priartėjęs prie pilies ir pervertas
-    vieno brolio strėle [telo], krito žemėn ir baigė dienas, o šio įvykio nugąsdinti ir visi kiti
-    išsižadėjo savo sumanymo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     20. Apie Baigos pilies apgulą

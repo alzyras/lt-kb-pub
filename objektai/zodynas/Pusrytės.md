@@ -24,7 +24,7 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Žydai pilyje negalėjo pirkti prekių iki didžiųjų pusryčių arba iki pietų.'
+  teiginys: 'Iki didžiosios pusrytės arba pietų žydams pilyje nebuvo leidžiama pirkti prekių pirmiau už krikščionis.'
   pagrindžia:
     - c-001
 

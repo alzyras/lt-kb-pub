@@ -25,13 +25,14 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro, Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­ tropolitų savo teises.'
+  teiginys: 'Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tada pats Naugarduko susirinkimas Cem­

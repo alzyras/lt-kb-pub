@@ -31,12 +31,12 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
     - c-001
 
 - t-002
-  teiginys: 'Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos Lietuvos ir Lenkijos istorijai, 1758 m. Vil­ niuje buvo pradėta spausdinti didžiulio formato (4°) « Codex diplo­ maticus Regni Poloniae et Magni Ducatus Lithuaniae »^33.'
+  teiginys: '„Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ 1758 m. pradėtas spausdinti Vilniuje iš Motiejaus Dogelio surinktos archyvinės medžiagos.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Vil­ niuje buvo pradėta spausdinti didžiulio formato (4°) « Codex diplo­ maticus Regni Poloniae et Magni Ducatus Lithuaniae »^33.'
+  teiginys: 'Iki 1764 m. iš suplanuotų aštuonių „Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ tomų buvo išspausdinti trys.'
   pagrindžia:
     - c-003
 
@@ -58,7 +58,7 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
     - t-001
 
 - c-002
-  santrauka: 'Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos Lietuvos ir Lenkijos istorijai, 1758 m. Vil­ niuje buvo pradėta spausdinti didžiulio formato (4°) « Codex diplo­ maticus Regni Poloniae et Magni Ducatus Lithuaniae »^33.'
+  santrauka: '„Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ 1758 m. pradėtas spausdinti Vilniuje iš Motiejaus Dogelio surinktos archyvinės medžiagos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuo būdu jis davė pradžią
@@ -75,7 +75,7 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
     - t-002
 
 - c-003
-  santrauka: 'Vil­ niuje buvo pradėta spausdinti didžiulio formato (4°) « Codex diplo­ maticus Regni Poloniae et Magni Ducatus Lithuaniae »^33.'
+  santrauka: 'Iki 1764 m. iš suplanuotų aštuonių „Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ tomų buvo išspausdinti trys.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vil­

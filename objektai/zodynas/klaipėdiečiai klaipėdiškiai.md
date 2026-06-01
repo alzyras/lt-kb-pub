@@ -28,41 +28,26 @@ amziai:
 - t-001
   teiginys: 'Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte lietuviai sudaro 50,8 procento gyventojų.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Lietuva dėl socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius klaipėdiškius, balsavusius už vokiškas partijas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: '1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Klaipėdos krašto gyventojų surašy-
-    mo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000
-    vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo
-    lietuviškai. Kadangi Lietuva be vidinių skrupulų laikė „klaipėdiečius“ lie-
-    tuviais, skaičiavo krašte esant 50,8 proc. lietuvių. Lietuva įgijo neužšalantį
-    uostą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos vyriausybė nerado atramos Klaipėdos krašto viduje: krašto
@@ -79,7 +64,7 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: '1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -94,8 +79,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
-- c-004
+- c-003
   santrauka: 'Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

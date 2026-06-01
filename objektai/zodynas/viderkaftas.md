@@ -56,6 +56,7 @@ O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamald
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Uršulė]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/zodynas/kahalas]]

@@ -313,5 +313,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - [[objektai/grupes/Šubravcų draugija]]
 - [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]
 - [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/grupes/Aušrininkai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/M. Balinskio areštas 1831 m. gegužę]]
 - [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]

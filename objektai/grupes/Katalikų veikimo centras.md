@@ -44,7 +44,6 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Krikščionių demokratų blokas]]
 - [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]
 - [[objektai/asmenys/Stasys Raštikis]]

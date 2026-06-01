@@ -71,7 +71,5 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
 - [[objektai/asmenys/Konradas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/grupes/Liaudies vyriausybė]]
-- [[objektai/asmenys/Konradas iš Foichtvangeno]]
+- [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
-- [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

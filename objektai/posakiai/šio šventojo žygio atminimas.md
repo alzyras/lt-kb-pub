@@ -25,13 +25,14 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į šią.'
+  teiginys: 'Petras Dusburgietis teigė surašęs Ordino brolių karus, kad būsimoms kartoms liktų šio šventojo žygio atminimas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Dusburgietis teigė surašęs Ordino brolių karus, kad būsimoms kartoms liktų šio šventojo žygio atminimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
@@ -58,6 +59,6 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
 - [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/šventasis žygis]]

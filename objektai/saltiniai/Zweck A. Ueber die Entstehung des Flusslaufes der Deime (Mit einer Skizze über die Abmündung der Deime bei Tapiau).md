@@ -25,13 +25,14 @@ Dusburgietis teigia, kad zweck A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad zweck A.'
+  teiginys: 'A. Zwecko straipsnis apie Deimės upės vagos susidarymą publikuotas 1896 m. AM 33 tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Zwecko straipsnis apie Deimės upės vagos susidarymą publikuotas 1896 m. AM 33 tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die

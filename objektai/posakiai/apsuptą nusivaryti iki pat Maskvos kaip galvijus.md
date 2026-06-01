@@ -50,5 +50,5 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas Herberšteinas]]

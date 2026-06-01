@@ -52,21 +52,16 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
     - c-002
 
 - t-003
-  teiginys: '- publicnote: - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean - vietasaltinyje: Citata iš sujungto kandidato nebuvo mechaniškai patvirtinta darbiniame šaltinyje.'
-  pagrindžia:
-    - c-006
-
-- t-004
   teiginys: 'Šią jūrą kai kurie raštininkai vadino Rusų mare.'
   pagrindžia:
     - c-003
 
-- t-005
+- t-004
   teiginys: 'Žemaičių jūra šiame fragmente yra konkretus jūros vardas.'
   pagrindžia:
     - c-004
 
-- t-006
+- t-005
   teiginys: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
   pagrindžia:
     - c-001
@@ -82,7 +77,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -117,7 +112,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-004
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -127,7 +122,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-005
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -138,22 +133,3 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-006
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    ## customs-karinio-pasirengimo-ziemos-zygiams-tvarka-002
-    - status: reject
-    - claim_role: supports_existing_claim
-    - kategorija: paprotys
-    - kandidatas: Karinio pasirengimo žiemos žygiams tvarka
-    - potencialus_teiginys: Karo žygiai paprastai būdavo rengiami žiemą, kai versmės ir upės pašąla.
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: Citata iš sujungto kandidato nebuvo mechaniškai patvirtinta darbiniame šaltinyje.
-    - santrauka: Karo žygiai paprastai būdavo rengiami žiemą, kai versmės ir upės pašąla.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

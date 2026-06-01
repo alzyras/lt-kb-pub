@@ -25,13 +25,14 @@ Dusburgietis teigia, kad воронин H.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad воронин H.'
+  teiginys: 'N. N. Voronino darbas apie senąjį Gardiną rėmėsi 1932-1949 m. archeologinių kasinėjimų medžiaga ir išleistas Maskvoje 1954 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'N. N. Voronino darbas apie senąjį Gardiną rėmėsi 1932-1949 m. archeologinių kasinėjimų medžiaga ir išleistas Maskvoje 1954 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Воронин H. Н. Древнее Гродно (по материалам археологических раскопок 1932—

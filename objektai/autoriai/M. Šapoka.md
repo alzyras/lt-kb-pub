@@ -33,3 +33,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]

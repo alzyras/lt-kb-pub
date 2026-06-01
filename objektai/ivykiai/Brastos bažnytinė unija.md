@@ -46,28 +46,14 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Taigi Lenkijos stačiatikiai buvo valdomi iš LDK, kurios stačiatikių svoris nulėmė, kad bent jau bažnytinės unijos įgyvendinimo klausimu LDK, o ne Lenkija buvo aktualiausia erdvė.'
+  teiginys: 'Brastos bažnytinę uniją 1596 m. nulėmė gausūs XV–XVI a. LDK telkęsi bažnytinės unijos bandymai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo Brastos bažnytinės unijos
-    graikais katalikais tapo dauguma Lenkijos ir Lietuvos valstybės stačiatikių.
-    Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
-    litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
-    katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Taigi Lenkijos stačiatikiai buvo valdomi iš LDK, kurios stačiatikių svoris nulėmė, kad bent jau bažnytinės unijos įgyvendinimo klausimu LDK, o ne Lenkija buvo aktualiausia erdvė.'
+  santrauka: 'Brastos bažnytinę uniją 1596 m. nulėmė gausūs XV–XVI a. LDK telkęsi bažnytinės unijos bandymai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi Lenkijos stačiatikiai buvo valdomi iš LDK,
@@ -84,11 +70,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/unija]]
-- [[objektai/grupes/Graikų katalikų bažnyčia]]
-- [[objektai/zodynas/metropolija bažnytinė unija|metropolija bažnytinė unija (unija)]]

@@ -42,37 +42,21 @@ Nenurodyta
 - t-001
   teiginys: 'Filantropinių organizacijų ir susivienijimų nariai aptardavo visuomenės būklę ir tardavosi dėl konkrečių bei numatomų tikslų.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
-  teiginys: 'Legaliai veikė įvai­ rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­ tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­ spektyvoje numatomų įgyvendinti tikslų.'
+  teiginys: 'Vilniuje legalios filantropinės organizacijos ir susivienijimai aptardavo visuomenės būklę ir reformų tikslus.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje salonuose, vakaruose ir draugijose atvirai aptarinėtos socialinės, politinės problemos, valdžios reformavimo ir baudžiavos paveldo klausimai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    kultūros židiniu visoje Rusijos imperijoje. Legaliai veikė įvai­
-    rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
-    tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­
-    spektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo
-    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
-    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
-    ventojai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas
@@ -86,7 +70,8 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
+  santrauka: 'Vilniuje legalios filantropinės organizacijos ir susivienijimai aptardavo visuomenės būklę ir reformų tikslus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus universitetas tapo svarbiausiu
@@ -106,6 +91,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

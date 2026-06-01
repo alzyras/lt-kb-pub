@@ -29,174 +29,118 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­ gauti savo paveldą ir atkeršyti už Vaidilos mirtį, sutelkė ne­ mažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
-  pagrindžia:
-    - c-021
-
-- t-002
-  teiginys: 'Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės.'
-  pagrindžia:
-    - c-009
-
-- t-003
-  teiginys: 'Tačiau Moskoževskis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­ mas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­.'
-  pagrindžia:
-    - c-016
-
-- t-004
-  teiginys: 'Kitais metais (1397 m.) atvykęs į Lie­ tuvą, Vladislovas Jogaila, kartu su kunigaikščiu Vytautu, atlygindami Vilniaus vyskupui Andriui už tokį dorą jo pa­ sišventimą, negailint savęs ir turto, nepaisant daugybės pa­ vojų, tykančių skleidžiant krikščioniškąjį.'
-  pagrindžia:
-    - c-008
-
-- t-005
-  teiginys: 'Vladislovas Jogaila, aukščiausiąją valdžią Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­ jungta prie Lenkijos.'
-  pagrindžia:
-    - c-014
-
-- t-006
-  teiginys: 'Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės ir privilegijos į Didžią­ ją Kunigaikštystę24.'
-  pagrindžia:
-    - c-013
-
-- t-007
-  teiginys: 'Beginklis Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės kareivių saugojamas.'
-  pagrindžia:
-    - c-002
-
-- t-008
-  teiginys: 'Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge­ dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios.'
-  pagrindžia:
-    - c-001
-
-- t-009
-  teiginys: 'Vladislovas Jogaila lankėsi Lietuvoje, kad padėtų numaldyti atsinaujinančius kivirčus su kryžiuočiais.'
-  pagrindžia:
-    - c-022
-
-- t-010
-  teiginys: 'Katedra ir Vilniaus kapitula vėlei gavo iš Vladislovo Jogailos pavel­ dėjimo teise Panerius, kadaise Algirdui, o po jo Jogailai pri­ klausiusią valdą, be to, dar kitų mažesnių pajamų38.'
-  pagrindžia:
-    - c-023
-
-- t-011
-  teiginys: 'Miesto sargyba ir policija, laikinai pri­ klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­ tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta magistratui - karaliaus Žygimanto 1522 metų įsakymu.'
-  pagrindžia:
-    - c-005
-
-- t-012
-  teiginys: 'Tuomet, kai protai jau buvo nuteikti prieš didįjį kunigaikštį, karalius Vladislovas Jogaila, gerai žinodamas, kas Lietuvoje dedasi, ir suprasdamas, jog namų karui nebus galo, kol nepavyks brolio nuo šio krašto valdžios nušalinti, nusprendė didžiuoju.'
-  pagrindžia:
-    - c-015
-
-- t-013
-  teiginys: 'Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą.'
-  pagrindžia:
-    - c-007
-
-- t-014
-  teiginys: 'Ati­ teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.'
+  teiginys: 'Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
   pagrindžia:
     - c-019
 
-- t-015
-  teiginys: 'Siekiant didelės valdžios jam labiausiai trukdė se­ nasis Kęstutis - ir dėdės autoritetu, ir mūšiuose pelnyta šlo­ ve, o juolab griežtu ir nepalenkiamu būdu, todėl Jogaila visas jėgas sutelkė pirmiausia nusikratyti dėde, kaip artimiausiu, nes Trakuose.'
+- t-002
+  teiginys: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.'
   pagrindžia:
-    - c-020
+    - c-008
 
-- t-016
-  teiginys: 'Tuo metu pakitusi kaimyninės Lenki­ jos padėtis, nauji Jogailos politikos užmojai ilgam įžiebė Prū­ sijos kerštą ir Lietuvai bei Vilniui grėsė neapsakomomis ne­ gandomis.'
+- t-003
+  teiginys: 'Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas.'
+  pagrindžia:
+    - c-014
+
+- t-004
+  teiginys: '1397 m. Vladislovas Jogaila ir Vytautas Vilniaus vyskupui Andriui laidavo dviejų šimtų markių metines pajamas.'
+  pagrindžia:
+    - c-007
+
+- t-005
+  teiginys: '1401 m. Vladislovas Jogaila iš Vytauto gavo aktą, kad po Vytauto mirties Lietuva ir Rusia pereis karaliaus valdžion.'
   pagrindžia:
     - c-012
 
-- t-017
-  teiginys: 'Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­ ras Vaidila.'
+- t-006
+  teiginys: 'Beginklis Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės kareivių saugojamas.'
   pagrindžia:
-    - c-024
+    - c-001
 
-- t-018
-  teiginys: 'Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­ čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo tikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­ jusius bruzdėjimus, pargrįžo į Vilnių.'
+- t-007
+  teiginys: 'Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.'
   pagrindžia:
-    - c-003
+    - c-020
 
-- t-019
-  teiginys: 'Juk randama, kad Vilniaus kapitulai 1390 metais Vladislovo Jo­ gailos duotoje privilegijoje, kuria do­ vanojami Paneriai, Vilija yra pava­ dinta Vigilia: obstaculum in superiori parte nostri obstaculi, in fluvio Vigilia situati [aukštutinėje dalyje mūsų už­.'
+- t-008
+  teiginys: 'Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai.'
   pagrindžia:
-    - c-011
+    - c-004
 
-- t-020
-  teiginys: 'Reikia pripažinti, jog ta didelė reforma, kurios ėmėsi Vla­ dislovas Jogaila, iš pradžių Lietuvai ir jos sostinei daug kai­ navo, tačiau tai buvo būtinas barbariško būvio, ligi tol tvy­ rojusio tame krašte, pergalėjimas, kam iš visų jėgų priešinosi Kryžiuočių.'
+- t-009
+  teiginys: 'Tuomet, kai protai jau buvo nuteikti prieš didįjį kunigaikštį, karalius Vladislovas Jogaila, gerai žinodamas, kas Lietuvoje dedasi, ir suprasdamas, jog namų karui nebus galo, kol nepavyks brolio nuo šio krašto valdžios nušalinti, nusprendė didžiuoju.'
   pagrindžia:
-    - c-010
+    - c-013
 
-- t-021
-  teiginys: 'Didžiulė politinė permaina, atėjusi per Jogailą su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos vasalų virtimas turtingiausia aristokratija - visa tai Vilniaus mies­ tiečiams nesuteikė nei progos, nei palankaus meto įgyti daugiau laisvių.'
-  pagrindžia:
-    - c-017
-
-- t-022
-  teiginys: 'Tuo pat metu Vladislovas Jogaila įsakė Vilniuje statyti dvi bažnyčias.'
+- t-010
+  teiginys: 'Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.'
   pagrindžia:
     - c-006
 
-- t-023
-  teiginys: 'Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
+- t-011
+  teiginys: 'Vladislovas Jogaila katedrai ir vyskupams skyrė nemažą Vilniaus miesto dalį nuo pilies iki Šv. Mikalojaus kapinių.'
+  pagrindžia:
+    - c-017
+
+- t-012
+  teiginys: 'Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėde Kęstučiu.'
   pagrindžia:
     - c-018
 
-- t-024
-  teiginys: 'Algirdui užleidus sostą, jo sūnus jaunasis Jogaila (Jagaytto)27, dar tėvui gyvam esant, paėmė į savo rankas aukš­ čiausiąją Lietuvos valdžią.'
+- t-013
+  teiginys: 'Jogaila siekė Lenkijos sosto ir sumanė sukurti naują galingą valstybę Šiaurės Europoje.'
   pagrindžia:
-    - c-025
+    - c-011
 
-- t-025
-  teiginys: 'Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390 metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­ jos parvyko į.'
+- t-014
+  teiginys: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos politinius siekius.'
   pagrindžia:
-    - c-004
+    - c-021
+
+- t-015
+  teiginys: 'Vladislovas Jogaila aplankė Lietuvą diegdamas naujo tikėjimo nuostatus ir, numaldęs bruzdėjimus Baltojoje Rusioje, grįžo į Vilnių.'
+  pagrindžia:
+    - c-002
+
+- t-016
+  teiginys: '1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius.'
+  pagrindžia:
+    - c-010
+
+- t-017
+  teiginys: 'Vladislovas Jogaila nepasitikėjo Vytautu ir negrąžino jam nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo.'
+  pagrindžia:
+    - c-009
+
+- t-018
+  teiginys: 'Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių.'
+  pagrindžia:
+    - c-015
+
+- t-019
+  teiginys: 'Vladislovas Jogaila Vilniuje įsakė statyti Šv. Martyno ir Šv. Jono bažnyčias.'
+  pagrindžia:
+    - c-005
+
+- t-020
+  teiginys: 'Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
+  pagrindžia:
+    - c-016
+
+- t-021
+  teiginys: 'Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.'
+  pagrindžia:
+    - c-022
+
+- t-022
+  teiginys: '1390 m. lapkritį Vladislovas Jogaila su gausia kariuomene parvyko iš Lenkijos į griuvėsiais virtusį Vilnių.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1836
-
-    ## Puslapis 18
-
-    ĮVADAS
-    R  ašydamas istoriją miesto, kuris bemaž du amžius buvo vie­
-    nos galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki
-    mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios cen­
-    tras Lietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš
-    įvairių kronikų ir senųjų, archyvuose saugomų rankraščių iš­
-    rinkti padavimus, bylojančius apie Vilniaus kilmę, tas teises ir
-    daugybę privilegijų, kuriomis jo gyventojai nuo senų laikų nau­
-    dojosi, ne tik atgaivinti amžininkų atmintyje ankstesnius, kele­
-    to amžių, įvykius toje sostinėje, bet ir, kiek tema ir galimybės
-    man leido, prisidėti prie kai kurių Lietuvos istorijos įvykių aiški­
-    nimo. Mažai težinoma mums patiems, o Europai visai negirdė­
-    ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge­
-    dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija
-    menkame plote išsitenkančios Tautos, kuri pati viena, savosios
-    pagonybės atskirta nuo kitų Europos šalių, vien savo narsos dėka
-    įstengė atremti baisius mongolų antpuolius, pažaboti Rusią ir
-    nesileisti pavergiama godžiai grobuoniško Prūsijos Kryžiuočių
-    ordino. Tokie įvykiai civilizuotam pasauliui nėra neįdomūs, ta­
-    čiau, norint juos aiškiai nušviesti ir parašyti tokio vardo vertą
-    lietuvių Tautos Istoriją, be daugelio kitų sąlygų, pirmiausia rei-
-    2
-
-    ## Puslapis 19
-
-    ĮVADAS
-    kia detaliai išnarplioti atskirų šios šalies miestų, būtent jos sos­
-    tinės, istoriją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Beprotiškai įniršęs, kaip sako
@@ -211,9 +155,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-003
+- c-002
+  santrauka: 'Vladislovas Jogaila aplankė Lietuvą diegdamas naujo tikėjimo nuostatus ir, numaldęs bruzdėjimus Baltojoje Rusioje, grįžo į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
@@ -231,9 +176,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-015
 
-- c-004
+- c-003
+  santrauka: '1390 m. lapkritį Vladislovas Jogaila su gausia kariuomene parvyko iš Lenkijos į griuvėsiais virtusį Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     128
@@ -257,9 +203,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-022
 
-- c-005
+- c-004
+  santrauka: 'Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
@@ -276,9 +223,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-008
 
-- c-006
+- c-005
+  santrauka: 'Vladislovas Jogaila Vilniuje įsakė statyti Šv. Martyno ir Šv. Jono bažnyčias.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo pat metu Vladislovas Jogaila įsakė Vilniuje statyti
@@ -294,9 +242,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-019
 
-- c-007
+- c-006
+  santrauka: 'Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rogėse pasislėpusiems žmonėms pavyko patekti į
@@ -314,9 +263,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-010
 
-- c-008
+- c-007
+  santrauka: '1397 m. Vladislovas Jogaila ir Vytautas Vilniaus vyskupui Andriui laidavo dviejų šimtų markių metines pajamas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     140
@@ -340,7 +290,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   pagrindžia:
     - t-004
 
-- c-009
+- c-008
+  santrauka: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stanislovo katedra8. Iškilmingai,
@@ -360,7 +311,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   pagrindžia:
     - t-002
 
-- c-010
+- c-009
+  santrauka: 'Vladislovas Jogaila nepasitikėjo Vytautu ir negrąžino jam nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Reikia pripažinti, jog ta didelė reforma, kurios ėmėsi Vla­
@@ -378,9 +330,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-017
 
-- c-011
+- c-010
+  santrauka: '1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ar­
@@ -409,9 +362,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-016
 
-- c-012
+- c-011
+  santrauka: 'Jogaila siekė Lenkijos sosto ir sumanė sukurti naują galingą valstybę Šiaurės Europoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo metu pakitusi kaimyninės Lenki­
@@ -439,28 +393,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-013
 
-- c-013
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Švitrigaila, pagaliau atsiduodamas likimui,
-    prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybė­
-    je praleisti paskutinių audringos senatvės dienų, o Kęstu­
-    čio sūnus nuo tol galėjo saugiai valdyti tiekos nelaimių iš­
-    kamuotą Lietuvą. Palankios buvo visos aplinkybės, nes ir
-    nesutarimai (1434 metų), galėję kilti tarp Žygimanto ir Jo­
-    gailos, buvo užglaistyti naujos tarpusavio sutarties23. Ir po
-    metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad
-    Žygimantui būtų patvirtintos teisės ir privilegijos į Didžią­
-    ją Kunigaikštystę24.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-014
+- c-012
+  santrauka: '1401 m. Vladislovas Jogaila iš Vytauto gavo aktą, kad po Vytauto mirties Lietuva ir Rusia pereis karaliaus valdžion.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio
@@ -479,7 +415,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   pagrindžia:
     - t-005
 
-- c-015
+- c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuomet, kai protai jau buvo
@@ -499,9 +435,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-009
 
-- c-016
+- c-014
+  santrauka: 'Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pamažu ėmė telktis išsisklaidę
@@ -519,7 +456,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   pagrindžia:
     - t-003
 
-- c-017
+- c-015
+  santrauka: 'Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau įvykiai ir
@@ -534,9 +472,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-018
 
-- c-018
+- c-016
   santrauka: 'Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -561,9 +499,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-020
 
-- c-019
+- c-017
+  santrauka: 'Vladislovas Jogaila katedrai ir vyskupams skyrė nemažą Vilniaus miesto dalį nuo pilies iki Šv. Mikalojaus kapinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ati­
@@ -578,9 +517,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-011
 
-- c-020
+- c-018
+  santrauka: 'Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėde Kęstučiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Siekiant didelės valdžios jam labiausiai trukdė se­
@@ -602,9 +542,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-012
 
-- c-021
+- c-019
+  santrauka: 'Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Palikdamas
@@ -621,32 +562,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   pagrindžia:
     - t-001
 
-- c-022
-  santrauka: 'Vladislovas Jogaila lankėsi Lietuvoje, kad padėtų numaldyti atsinaujinančius kivirčus su kryžiuočiais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    T. I, Nr. 698.
-    149
-
-    ## Puslapis 166
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Vytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­
-    gailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­
-    sinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo
-    dovanomis; bet vėliau Vilniaus reikalai darėsi liūdnesni. Kai
-    Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­
-    džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­
-    lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
-    dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
-    Algimantaičio dukterį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-023
+- c-020
+  santrauka: 'Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo
@@ -666,9 +583,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-007
 
-- c-024
+- c-021
+  santrauka: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos politinius siekius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogailos siekius pata­
@@ -685,9 +603,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-014
 
-- c-025
+- c-022
+  santrauka: 'Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Con­
@@ -718,7 +637,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-021
 
 ## Ryšiai
 ### Susiję objektai
@@ -738,11 +657,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - [[objektai/daiktai/Rykai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas Varnietis]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/kunigaikščiai]]
@@ -753,7 +669,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/daiktai/Žirgai]]
-- [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
 - [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose]]
@@ -772,10 +687,11 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - [[objektai/zodynas/prelatai ir kanauninkai]]
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
 - [[objektai/zodynas/žiogriai statinių tvoros palisadai]]
+- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/asmenys/Vaidila]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
-- [[objektai/asmenys/Julijona]]
 - [[objektai/paprociai/Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Vilniaus gyventojai]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/zodynas/miesto sargyba ir policija]]

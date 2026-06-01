@@ -32,7 +32,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - t-001
   teiginys: 'Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-002
   teiginys: 'Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Aušros vartų.'
@@ -62,7 +62,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - t-007
   teiginys: 'Landsbergis, kreipdamasis į susirinkusius prie parlamento, ragino užslopinti pyktį, nepasiduoti provokacijoms ir...'
   pagrindžia:
-    - c-007
+    - c-002
 
 - t-008
   teiginys: 'Vytautas Landsbergis 1991 m. sausio 13 d. buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas.'
@@ -100,6 +100,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   statusas: verified
   pagrindžia:
     - t-005
+    - t-007
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -172,24 +173,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - t-006
 
 - c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1991 m. sausio
-    13 d. valstybės vadovas V. Landsbergis, kreipdamasis į susirinkusius prie
-    parlamento, ragino užslopinti pyktį, nepasiduoti provokacijoms ir...
-    Vilniaus televizijos bokšto šturmas – sovietų tankų
-    vikšrai traiško taikius gynėjus
-
-    L I E T U V O S  I S T O R I J A
-    246
-    dainuoti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių

@@ -19,13 +19,14 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.'
+  teiginys: 'Karaliaus raštu iždininkui Abramui nurodyta leisti Vilniaus vaitui į užsienį parduoti tris vaško gabalus po 50 akmenų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karaliaus raštu iždininkui Abramui nurodyta leisti Vilniaus vaitui į užsienį parduoti tris vaško gabalus po 50 akmenų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos Metriko­

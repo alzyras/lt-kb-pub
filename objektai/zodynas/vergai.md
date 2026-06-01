@@ -24,25 +24,14 @@ Tai buvo vergai.
     - c-001
 
 - t-002
-  teiginys: 'Tai buvo vergai.'
+  teiginys: 'Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir dirbę bajoro ar kunigaikščio ūkyje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tai buvo vergai. Vergais paprastai būdavo karo belaisviai
-    ir jų šeimos. Jie neturėjo jokios laisvės ir turėjo dirbti bajoro
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Tai buvo vergai.'
+  santrauka: 'Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir dirbę bajoro ar kunigaikščio ūkyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tai buvo vergai. Vergais paprastai būdavo karo belaisviai
@@ -55,6 +44,7 @@ Tai buvo vergai.
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

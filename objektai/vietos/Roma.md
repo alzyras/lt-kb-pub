@@ -32,23 +32,19 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     - c-002
 
 - t-002
-  teiginys: 'Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis buvo priverstas pasišalinti į Ro- mą.'
+  teiginys: 'Čekams sukilus, vyskupas Vaitiekus buvo priverstas pasišalinti į Romą.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Roma: pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie- žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos pravoslavų vardu padarė bažnytinę uniją.'
+  teiginys: '1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai.'
   pagrindžia:
     - c-001
-
-- t-004
-  teiginys: 'Roma: ją sustiprinti, čekai sukilo, ir jis buvo priverstas pasišalinti į Ro- mą.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Di-
@@ -81,6 +77,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     - t-001
 
 - c-003
+  santrauka: 'Čekams sukilus, vyskupas Vaitiekus buvo priverstas pasišalinti į Romą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai vyskupas Vaitiekus panorėjo
@@ -91,14 +88,3 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    ją sustiprinti, čekai sukilo, ir jis buvo priverstas pasišalinti į Ro-
-    mą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004

@@ -71,12 +71,12 @@ Nenurodyta
 - t-004
   teiginys: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-005
   teiginys: 'Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -93,6 +93,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -126,20 +127,6 @@ Nenurodyta
     - t-002
 
 - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    vaizdį. Šiandien istorikų jaunimas Lietuvos Respublikos civilizacinius pa-
-    siekimus įvardija labai trumpai – sviestas, ANBO ir krepšinis. O turima
-    galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir
-    krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų
-    titulai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-

@@ -26,13 +26,14 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas buvo Vilniaus burmistras ir auksaka­ lys (Proconsul et aurifex) Erazmas Bretneris.'
+  teiginys: 'Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono Kolegijos Vaistinės kronika

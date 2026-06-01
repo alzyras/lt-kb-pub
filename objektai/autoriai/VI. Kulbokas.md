@@ -17,13 +17,14 @@ Kulbokas, Lietuvių literatūrinė kritika tremtyje, spaus­ dinama.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kulbokas, Lietuvių literatūrinė kritika tremtyje, spaus­ dinama.'
+  teiginys: 'Vl. Kulbokas rengė spaudai darbą „Lietuvių literatūrinė kritika tremtyje“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vl. Kulbokas rengė spaudai darbą „Lietuvių literatūrinė kritika tremtyje“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     20 dol.

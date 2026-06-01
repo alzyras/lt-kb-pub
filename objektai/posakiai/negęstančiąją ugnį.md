@@ -46,7 +46,5 @@ Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negę
 - [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei]]
 - [[objektai/asmenys/Krivis]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/Negęstančiosios ugnies garbinimas]]
 - [[objektai/zodynas/krivis krivė krivaitis]]
-- [[objektai/posakiai/kurį gerbė kaip popiežių]]
 - [[objektai/daiktai/Negęstančioji ugnis]]

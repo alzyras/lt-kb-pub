@@ -54,7 +54,7 @@ Nenurodyta
 - t-003
   teiginys: 'Iš teatro leistis - mediniai laipteliai, o nuo jų po kaire ranka - laiptai žemyn, mūro, lentomis apkalti; prie jų durys su vidiniu užraktu ir raktu, ant vyrių įtaisytu, į podėlį scenos rykams laikyti, į jį įeiti - 4 pakopų laipteliai, grindys plytelių.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -105,26 +105,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Po kaire ranka irgi yra prie­
-    menė su medinėmis lubomis, išklota lentomis, čia laiptai ir
-    pertvėrimas, kuriame dvigubos durys su vyriais, į gatvę di­
-    delis langas, be stiklų, su dvigubomis geležinėmis langinė­
-    mis. Iš teatro leistis - mediniai laipteliai, o nuo jų po kaire
-    ranka - laiptai žemyn, mūro, lentomis apkalti; prie jų durys
-    su vidiniu užraktu ir raktu, ant vyrių įtaisytu, į podėlį scenos
-    rykams laikyti, į jį įeiti - 4 pakopų laipteliai, grindys plytelių,
-    dūmtraukis, arkadiniai skliautai; iš to podėlio dvigubos du­
-    rys į kolegijos koridorių, langas virš durų, su visais rėmais iš
-    švino, pusė jo įleista į pertvarą, pastarosios durys su vyriais
-    ir rankena. Skliautai sutvirtinti geležiniu pastapu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

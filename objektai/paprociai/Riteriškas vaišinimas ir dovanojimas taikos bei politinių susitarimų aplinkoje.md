@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Galop buvo sudaryta taikos sutartis, ku­ ria kryžiuočiai įsipareigojo palikti neliestą Vilniaus dalį, dar nenukentėjusią nuo ugnies; į Vilniaus ir Trakų pilis buvo pakviestas maršalas, arkikomtūras ir daugelis aukštesniųjų vokiečių riterių.'
+  teiginys: 'Po taikos sutarties maršalas, arkikomtūras ir aukštesnieji vokiečių riteriai buvo pakviesti į Vilniaus ir Trakų pilis, pavaišinti ir apdovanoti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po taikos sutarties maršalas, arkikomtūras ir aukštesnieji vokiečių riteriai buvo pakviesti į Vilniaus ir Trakų pilis, pavaišinti ir apdovanoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Susirėmė su jais vokiečiai

@@ -24,13 +24,14 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
     - c-002
 
 - t-002
-  teiginys: 'Kituose Gazeta Warszawska spausdintuose straipsniuo­ se istorikas detaliai aprašė Vilniaus Archeologinės komisijos veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­ šuvoje, Vilniuje.'
+  teiginys: '„Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­

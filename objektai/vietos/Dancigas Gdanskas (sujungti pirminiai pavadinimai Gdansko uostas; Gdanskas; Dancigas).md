@@ -20,7 +20,7 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nors ir yra pinigų, paimtų už Mask­ vos kalinius bei ką tik iš Gdansko atgabentų, vis dėlto pa­ tartume tą sumą dvarui sulaikyti iki Jų Malonybių ponų tarybos narių suvažiavimo.'
+  teiginys: 'Pinigai, paimti už Maskvos kalinius, buvo ką tik atgabenti iš Gdansko ir siūlyta juos laikinai sulaikyti dvare.'
   pagrindžia:
     - c-001
 
@@ -30,13 +30,14 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
     - c-002
 
 - t-003
-  teiginys: 'Tačiau Torunės seime, kilus ginčams su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­ tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo teises bei privilegijas, bet iškilus.'
+  teiginys: 'Torunės seime dėl ginčų su Gdansku nebuvo nustatytos rinkliavos, tačiau Batoras vėliau įsakė tuojau pat rinkti muitus.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pinigai, paimti už Maskvos kalinius, buvo ką tik atgabenti iš Gdansko ir siūlyta juos laikinai sulaikyti dvare.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nes, tarp kitko, mūsų mi­
@@ -85,6 +86,7 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
     - t-002
 
 - c-003
+  santrauka: 'Torunės seime dėl ginčų su Gdansku nebuvo nustatytos rinkliavos, tačiau Batoras vėliau įsakė tuojau pat rinkti muitus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Radvila užsistojo juos,

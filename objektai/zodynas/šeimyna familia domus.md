@@ -115,7 +115,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/vergai]]

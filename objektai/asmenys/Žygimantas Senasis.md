@@ -36,7 +36,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-002
   teiginys: '1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui.'
   pagrindžia:
-    - c-022
+    - c-021
 
 - t-003
   teiginys: 'Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu.'
@@ -51,17 +51,17 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-005
   teiginys: '1522 m. Žygimantas Senasis įsakė miesto sargybą ir policiją sugrąžinti Vilniaus magistratui.'
   pagrindžia:
-    - c-019
+    - c-018
 
 - t-006
   teiginys: 'Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tiltą per Viliją prie Vilniaus.'
   pagrindžia:
-    - c-033
+    - c-030
 
 - t-007
   teiginys: '1543 m. Žygimantas Senasis leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes.'
   pagrindžia:
-    - c-028
+    - c-025
 
 - t-008
   teiginys: '1532 m. Žygimantas Senasis rašte Vilniaus vaitui įspėjo netaikyti Vilniaus miestiečiams jokios prievartos.'
@@ -69,9 +69,9 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-003
 
 - t-009
-  teiginys: 'Tei­ singasis Žygimantas, nedarydamas savo pavaldiniams jo­ kių išimčių, rūsčiai baudė miesto valdininkus, jeigu šie peržengdavo jiems suteiktos valdžios ribas3, taip pat kuo atkakliausiai tramdė bajorus, kad nebandytų pik­ tnaudžiauti mieste.'
+  teiginys: 'Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.'
   pagrindžia:
-    - c-020
+    - c-019
 
 - t-010
   teiginys: '1542 m. Žygimantas Senasis suteikė Vilniaus vyskupui privilegiją prieš eretikus.'
@@ -81,42 +81,37 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-011
   teiginys: '1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus.'
   pagrindžia:
-    - c-029
+    - c-026
 
 - t-012
-  teiginys: 'Taigi mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­ nigaikštis.'
+  teiginys: 'Žygimantas Senasis buvo Lenkijos karalius ir didysis Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikštis.'
   pagrindžia:
     - c-011
 
 - t-013
   teiginys: '1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją.'
   pagrindžia:
-    - c-026
+    - c-024
 
 - t-014
-  teiginys: 'Tačiau netrukus į Vilnių at­ vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai grėsusio pilietinio karo.'
+  teiginys: 'Žygimantui Senajam atvykus į Vilnių, šalis buvo apsaugota nuo jai grėsusio pilietinio karo.'
   pagrindžia:
-    - c-025
+    - c-009
 
 - t-015
   teiginys: '1507 m. Melnike Žygimantas Senasis patvirtino 1388 m. Vytauto privilegiją Trakų žydams.'
   pagrindžia:
     - c-012
 
-- t-016
-  teiginys: 'Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.'
-  pagrindžia:
-    - c-016
-
 - t-017
-  teiginys: 'Miesto sargyba ir policija, laikinai pri­ klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­ tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta magistratui - karaliaus Žygimanto 1522 metų įsakymu.'
+  teiginys: '1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui.'
   pagrindžia:
     - c-007
 
 - t-018
   teiginys: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią.'
   pagrindžia:
-    - c-018
+    - c-013
 
 - t-019
   teiginys: 'Žygimanto Senojo valdymo metu Vilniuje atsirado reikšmingi statiniai, skirti miesto gerovei ir ištekliams didinti.'
@@ -126,22 +121,22 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-020
   teiginys: 'Žygimantas Senasis suteikė Vilniaus vyskupui Povilui pasaulietinės valdžios įgaliojimus bažnytinėms cenzūroms vykdyti.'
   pagrindžia:
-    - c-031
+    - c-028
 
 - t-021
-  teiginys: 'Tame pačiame seime Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­ raliumi po tėvo mirties.'
+  teiginys: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui.'
   pagrindžia:
     - c-013
 
 - t-022
   teiginys: '1514 m. Lenkijos karalius Žygimantas buvo siejamas su raštu Varmės kanauninkui Andriui Kopernikui.'
   pagrindžia:
-    - c-024
+    - c-023
 
 - t-023
   teiginys: 'Žygimantas Senasis perėmė Lietuvos valdymą ir, anot autoriaus, tvirtai siekė įvesti tvarką.'
   pagrindžia:
-    - c-027
+    - c-008
 
 - t-024
   teiginys: 'Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa.'
@@ -151,20 +146,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-025
   teiginys: '1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus.'
   pagrindžia:
-    - c-030
+    - c-027
 
 - t-026
   teiginys: 'Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.'
   pagrindžia:
-    - c-021
-
-- t-027
-  teiginys: 'Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką.'
-  pagrindžia:
-    - c-015
+    - c-020
 
 - t-028
-  teiginys: 'Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­ silavinimą, rėmė visa tai, kas tik galėjo prisidėti prie jų au­ gimo.'
+  teiginys: 'Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.'
   pagrindžia:
     - c-005
 
@@ -181,7 +171,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-031
   teiginys: '1515 m. Žygimantas Senasis leido Ulrikui Hozijui savo lėšomis statyti malūną prie Vilniaus.'
   pagrindžia:
-    - c-023
+    - c-022
 
 - t-032
   teiginys: 'Žygimantas Senasis, Glogovo kunigaikštis ir mirusio karaliaus brolis, atvyko į Vilnių ir padėjo išvengti pilietinio karo.'
@@ -189,9 +179,9 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-009
 
 - t-033
-  teiginys: 'Kai po trejų metų senajam tikėjimui priešingos užuomazgos pradėjo įžū­ liai kerotis, išgąsdintas vyskupas kreipėsi į Žygimantą Se­ nąjį atkakliai reikalaudamas, kad šis karališkuoju autorite­ tu paremtų gynybai besirengiančią dvasininkiją.'
+  teiginys: 'Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą.'
   pagrindžia:
-    - c-032
+    - c-029
 
 ## Reikšmingi paminėjimai
 
@@ -288,6 +278,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - t-003
 
 - c-005
+  santrauka: 'Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­
@@ -328,6 +319,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - t-030
 
 - c-007
+  santrauka: '1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
@@ -373,6 +365,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   statusas: verified
   pagrindžia:
     - t-004
+    - t-023
 
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -391,6 +384,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   statusas: verified
   pagrindžia:
     - t-032
+    - t-014
 
 - c-010
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -418,6 +412,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - t-029
 
 - c-011
+  santrauka: 'Žygimantas Senasis buvo Lenkijos karalius ir didysis Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikštis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kadangi manome, kad iš vi­
@@ -461,6 +456,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - t-015
 
 - c-013
+  santrauka: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šis Statutas tarnavo išim­
@@ -478,6 +474,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   statusas: verified
   pagrindžia:
     - t-021
+    - t-018
 
 - c-014
   santrauka: '1542 m. Žygimantas Senasis suteikė Vilniaus vyskupui privilegiją prieš eretikus.'
@@ -505,6 +502,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - t-010
 
 - c-015
+  santrauka: '1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šio išmintingo karaliaus nuopel­
@@ -584,25 +582,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tačiau šis Statutas tarnavo išim­
-    tinai tik šlėktų luomui, nes miestui kuo iškilmingiausiai bu­
-    vo garantuojamos Magdeburgo teisės. Tame pačiame seime
-    Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
-    raliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­
-    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
-    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
-    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
-    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
-    tėjimo viršūnės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-018
-
-- c-019
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
     Miesto sargyba ir policija, laikinai pri­
     klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­
     tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta
@@ -618,7 +597,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-005
 
-- c-020
+- c-019
+  santrauka: 'Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Buvo laikomasi deramų abipusių tarpu­
@@ -637,7 +617,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-009
 
-- c-021
+- c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos bėda, kad
@@ -655,7 +635,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-026
 
-- c-022
+- c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 390
@@ -691,7 +671,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-002
 
-- c-023
+- c-022
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     40), matyti,
@@ -716,7 +696,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-031
 
-- c-024
+- c-023
   santrauka: '1514 m. Lenkijos karalius Žygimantas buvo siejamas su raštu Varmės kanauninkui Andriui Kopernikui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -754,25 +734,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-022
 
-- c-025
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pastarosios pergalės iš­
-    garsintas, jiems nesant, kad kokios būtų užgrobęs Didžio­
-    sios Kunigaikštystės valdžią48. Tačiau netrukus į Vilnių at­
-    vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
-    karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai
-    grėsusio pilietinio karo.
-    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
-    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
-    jos sostinei tam tikru atžvilgiu buvo naudingas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-026
+- c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šio rašto patikimumui mūsų antspaudas yra prikabintas.
@@ -808,36 +770,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-013
 
-- c-027
-  santrauka: 'Žygimantas Senasis perėmė Lietuvos valdymą ir, anot autoriaus, tvirtai siekė įvesti tvarką.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Miesto teisė, po kurios skraiste Yilniaus gyventojai naudo­
-    josi savo nuosavybe ir tam tikromis laisvėmis, kai kada bu­
-    vo vaivados arba jo vietininko galioje, dažnai dargi paklus­
-    dama savavališkai vaitų arba miesto viršininkų valdžiai.
-    Žodžiu, Vilnius, nors tuomet jau gausiai gyvenamas, dide­
-    lis ir turtingas miestas, dar nebuvo galutinai atsikratęs bar­
-    bariškumo apnašų. Bet Lietuvos valdymą perėmė karalius
-    —  • —
-    257
-
-    ## Puslapis 274
-
-    258
-
-    ## Puslapis 275
-
-    IV KNYGA
-    Žygimantas Senasis, apdovanotas proto ir charakterio pri­
-    valumais ir tvirtai siekiantis įvesti tvarką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-023
-
-- c-028
+- c-025
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Norime ir įsakome, kad lei­
@@ -867,7 +800,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-007
 
-- c-029
+- c-026
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 332
@@ -887,7 +820,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-011
 
-- c-030
+- c-027
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netvarka ir apsileidimas, įsitvirtinę miesto administra­
@@ -903,7 +836,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-025
 
-- c-031
+- c-028
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat norime, kad to, kuris vienu
@@ -927,7 +860,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-020
 
-- c-032
+- c-029
+  santrauka: 'Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar 1539
@@ -955,7 +889,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-033
 
-- c-033
+- c-030
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dėl to mes, Žygimantas, Dievo malone Lenkijos
@@ -1002,8 +936,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - t-006
 
-- c-034
-  santrauka: 'Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­ silavinimą, rėmė visa tai, kas tik galėjo prisidėti prie jų au­ gimo.'
+- c-031
+  santrauka: 'Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suklestėjus prekybai, sukru­
@@ -1066,6 +1000,11 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/paprociai/Vilniaus magistrato mišri taryba ir metinė pajamų ataskaita]]
+- [[objektai/zodynas/miesto magistrato pareigybės]]
+- [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]
+- [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
+- [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
 - [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
 - [[objektai/grupes/Varmės kapitula]]
 - [[objektai/grupes/Vilniaus magistratas]]

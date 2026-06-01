@@ -102,7 +102,6 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 - [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/asmenys/Mata]]
-- [[objektai/grupes/Pamedėnai]]
 - [[objektai/ivykiai/Pipino nukankinimas ir mirtis]]
 - [[objektai/posakiai/krikščioniškieji plėšikautojai]]
 - [[objektai/zodynas/latrunkuliai]]

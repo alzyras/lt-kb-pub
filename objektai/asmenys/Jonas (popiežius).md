@@ -20,18 +20,19 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jonas (popiežius) padėtų mums drauge su kitomis savo avimis [įeiti] į gausumo ganyklą; tuo reikalu gavome atsakymą, jog greitai atvyksią jo pasiun­ tiniai; jų delsimas mums kelia begalinį susirūpinimą, [nes norime], kad greičiau būtų pabaigtas dievo darbas ir nie­ kais pavirstų klastinga apgaulė.'
+  teiginys: 'Popiežius Jonas turėjo atsiųsti pasiuntinius Gediminui, tačiau jų delsimas Gediminui kėlė didelį susirūpinimą.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiuntėme savo pasiuntinius su laišku mū­ sų tėvui, garsingajam viešpačiui popiežiui Jonui, kad jis mus apvilktų pirmuoju krikšto rūbu; jo pasiuntinių diena iš die­ nos laukiame su dideliu.'
+  teiginys: 'Gediminas pasiuntė laišką popiežiui Jonui, prašydamas, kad šis jį apvilktų pirmuoju krikšto rūbu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas pasiuntė laišką popiežiui Jonui, prašydamas, kad šis jį apvilktų pirmuoju krikšto rūbu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Hac littera lecta et exscripta a magistro et prioribus
@@ -63,6 +64,7 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
     - t-002
 
 - c-002
+  santrauka: 'Popiežius Jonas turėjo atsiųsti pasiuntinius Gediminui, tačiau jų delsimas Gediminui kėlė didelį susirūpinimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     3) Gediminas, dieviškąja apvaizda lietuvių ir rusų kara­
@@ -99,3 +101,4 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Skyrai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Gediminas]]

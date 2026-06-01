@@ -37,18 +37,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai atsidūrę itin varganoje padėtyje, pratę patys nusižudyti.'
+  teiginys: 'Žmogžudystės nesantarvė jų žemėje baigdavosi tik tada, kai nužudytojo tėvai nužudydavo patį žudiką arba jo giminaitį.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 213 Apie kraujo kerštą D.'
+  teiginys: 'Prūsų prigimtinėje teisėje buvęs taliono principas davė pagrindo kalbėti apie kraujo kerštą nusikaltėliui ir jo giminėms.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žmogžudystės nesantarvė jų žemėje baigdavosi tik tada, kai nužudytojo tėvai nužudydavo patį žudiką arba jo giminaitį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jų krašte niekam neleidžiama
@@ -63,6 +64,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Prūsų prigimtinėje teisėje buvęs taliono principas davė pagrindo kalbėti apie kraujo kerštą nusikaltėliui ir jo giminėms.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     213 Apie kraujo kerštą D. užrašė, matyt, iš nuogirdų, be to, perdėdamas. Taliono
@@ -81,4 +83,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
-- [[objektai/paprociai/Skurdo ištikto žmogaus savižudybė kaip paprotinis sprendimas]]

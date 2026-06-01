@@ -22,11 +22,6 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Bet bajorija į laikinę vyriausybę žiūrėjo, kaip į valstybės užuomazgą, ir, entuziazmo pagauta, ėmė rūpintis atnaujinti unijos ryšius su Lenkija.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,22 +39,6 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet bajorija į laikinę vy-
-    riausybę žiūrėjo, kaip į valstybės užuomazgą, ir, entuziazmo pa-
-    gauta, ėmė rūpintis atnaujinti unijos ryšius su Lenkija. Kaip
-    tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri
-    skelbėsi norinti sujungti į vieną kūną visas buvusios Respubli-
-    kos žemes ir visus kvietė į bendrą darbą. Tą pakvietimą ypač
-    karštai sutiko Vilniaus universiteto jaunuomenė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

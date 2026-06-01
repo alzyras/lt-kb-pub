@@ -30,7 +30,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj.'
+  teiginys: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   pagrindžia:
     - c-002
 
@@ -50,9 +50,9 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - c-006
 
 - t-005
-  teiginys: 'Mozūrų kunigaikštis Konradas ir pirmasis prū­ sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­ čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­ jamų kryžių paprastai.'
+  teiginys: '1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną.'
   pagrindžia:
-    - c-010
+    - c-004
 
 - t-006
   teiginys: 'Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.'
@@ -88,6 +88,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - t-003
 
 - c-002
+  santrauka: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
@@ -136,6 +137,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   statusas: verified
   pagrindžia:
     - t-006
+    - t-005
 
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -241,21 +243,6 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - t-007
 
 - c-010
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
-    1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­
-    sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo
-    prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­
-    čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­
-    jamų kryžių paprastai vadinamas kryžiuočių Ordinu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dauguvos žiotyse susikūręs Kalavijuočių ordi-

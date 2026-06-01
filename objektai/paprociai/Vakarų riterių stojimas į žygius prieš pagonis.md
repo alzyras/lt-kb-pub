@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai rug­ pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­ ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­ pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę jų esant.'
+  teiginys: 'Į Prūsiją atvykę Anglijos ir Prancūzijos savanoriai pagal to meto paprotį noriai eidavo kariauti su pagonimis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Į Prūsiją atvykę Anglijos ir Prancūzijos savanoriai pagal to meto paprotį noriai eidavo kariauti su pagonimis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai rug­

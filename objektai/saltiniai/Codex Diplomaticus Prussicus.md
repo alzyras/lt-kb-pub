@@ -29,13 +29,14 @@ amziai:
     - c-002
 
 - t-002
-  teiginys: '= Codex Diplomaticus Prussicus.'
+  teiginys: '„Codex Diplomaticus Prussicus“ I tomas išleistas Karaliaučiuje 1836 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Codex Diplomaticus Prussicus“ I tomas išleistas Karaliaučiuje 1836 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     C. D. Prus. = Codex Diplomaticus Prussicus. I B., Koenigsberg,

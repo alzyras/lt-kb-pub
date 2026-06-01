@@ -26,13 +26,14 @@ Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pipirų: Vendimus abscedimus, et resignamus vivum nostrum Vingier, seu torrentem vulgariterque dictum extra civitatis mo­ enia existentem, una cum alveo et aqua ex indė fluenti et canalibus.'
+  teiginys: 'Formulė „Vendimus abscedimus, et resignamus“ pavartota 1536 m. dominikonų sutartyje, kuria miestui parduotas Vingrių šaltinis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Formulė „Vendimus abscedimus, et resignamus“ pavartota 1536 m. dominikonų sutartyje, kuria miestui parduotas Vingrių šaltinis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmąją iš griuvėsių prikėlė karalius ir pa­

@@ -80,6 +80,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Liberum veto]]

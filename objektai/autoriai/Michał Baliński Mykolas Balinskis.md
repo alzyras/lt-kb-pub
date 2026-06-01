@@ -39,7 +39,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-004
 
 - t-003
-  teiginys: 'Balinskis pa­ liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­ čiuose.'
+  teiginys: 'M. Balinskis paliko nemažai istorinių darbų ir apybraižų, dalis jų liko rankraščiuose.'
   pagrindžia:
     - c-007
 
@@ -69,24 +69,19 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-008
 
 - t-009
-  teiginys: 'Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui Malevskiui už gausius išrašus iš Lietuvos Metrikos.'
+  teiginys: 'M. Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už pagalbą istoriniais dokumentais.'
   pagrindžia:
     - c-005
 
 - t-010
-  teiginys: 'Michał Baliński Mykolas Balinskis tapo vienu iš enciklopedinio pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A.'
+  teiginys: '1841 m. M. Balinskis tapo vienu iš enciklopedinio leidinio Biblioteka Warszawska steigėjų.'
   pagrindžia:
     - c-009
 
 - t-011
-  teiginys: 'Balinskis prisipažįsta, kad Vilniaus miesto is­ torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje.'
+  teiginys: 'M. Balinskis laiške Joachimui Leleveliui rašė, kad Vilniaus miesto istorijos pirmąjį tomą baigė 1825 metų pradžioje.'
   pagrindžia:
     - c-003
-
-- t-012
-  teiginys: 'Michał Baliński Mykolas Balinskis po šios pergalės buvo lietuviškai pra­ mintas Dauggalis - galingas, didis.'
-  pagrindžia:
-    - c-012
 
 ## Reikšmingi paminėjimai
 
@@ -136,6 +131,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-006
 
 - c-003
+  santrauka: 'M. Balinskis laiške Joachimui Leleveliui rašė, kad Vilniaus miesto istorijos pirmąjį tomą baigė 1825 metų pradžioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiame darbe suregistruoti LDK miestai ir miesteliai,
@@ -176,6 +172,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-002
 
 - c-005
+  santrauka: 'M. Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už pagalbą istoriniais dokumentais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
@@ -258,6 +255,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-007
 
 - c-007
+  santrauka: 'M. Balinskis paliko nemažai istorinių darbų ir apybraižų, dalis jų liko rankraščiuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
@@ -320,6 +318,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-008
 
 - c-009
+  santrauka: '1841 m. M. Balinskis tapo vienu iš enciklopedinio leidinio Biblioteka Warszawska steigėjų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šie vie­
@@ -375,29 +374,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   pagrindžia:
     - t-004
 
-- c-012
-  santrauka: 'Michał Baliński Mykolas Balinskis po šios pergalės buvo lietuviškai pra­ mintas Dauggalis - galingas, didis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Sūnėnų tvirtas laidavimo žo­
-    dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­
-    sį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo
-    vienas vėliau buvo Trakų vaivada,
-    o jo sūnus - Jonas Hanulaitis - Lie­
-    tuvos vėliavininkas; pastarasis Žy­
-    gimanto Kęstutaičio laikais pasižy­
-    mėjo mūšyje prie Pabaisko, iš jo
-    paėjo vadinami Daugėlos (nes jis po
-    šios pergalės buvo lietuviškai pra­
-    mintas Dauggalis - galingas, didis.
-    Žr. B a 1  i n s k i o Opisanie Statyst.
-    Wilna, 1. 177.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
@@ -409,8 +385,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - [[objektai/asmenys/Andrius iš Vasilevo]]
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Jogailaičiai]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Hanulaitis]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

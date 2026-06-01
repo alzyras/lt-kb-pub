@@ -34,13 +34,14 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
     - c-002
 
 - t-002
-  teiginys: 'Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papročiu, Bekešo pa­ laikai buvę palaidoti po apvaliu bokštu.'
+  teiginys: 'Sulikovskis pasakojo, kad Kasparo Bekešo palaikai užsienio papročiu buvo palaidoti po apvaliu bokštu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sulikovskis pasakojo, kad Kasparo Bekešo palaikai užsienio papročiu buvo palaidoti po apvaliu bokštu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis
@@ -120,3 +121,4 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 - [[objektai/grupes/Lotynai]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/zodynas/fundacija]]
+- [[objektai/paprociai/Arijonų ir svetimšališkas laidojimas už miesto ant kalno]]

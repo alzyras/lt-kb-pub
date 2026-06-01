@@ -23,13 +23,14 @@ Kai kurie mūsų senieji autoriai taip pat rašo - Vigilia, užuot rašę Vilija
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai kurie mūsų senieji autoriai taip pat rašo - Vigilia, užuot rašę Vilija, pvz., S a r n i c k i s Descriptio veteris et no­ vae Poloniae etc.'
+  teiginys: 'Sarnickio „Descriptio veteris et novae Poloniae“ pateikiama forma „Vigilia“ vietoje upės vardo „Vilija“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sarnickio „Descriptio veteris et novae Poloniae“ pateikiama forma „Vigilia“ vietoje upės vardo „Vilija“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai

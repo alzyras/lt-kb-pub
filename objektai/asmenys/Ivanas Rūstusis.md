@@ -24,29 +24,11 @@ tags:
 - t-002
   teiginys: 'Šios politikos ideologiniu pagrindu tapo nuo Ivano Rūsčiojo laikų žinoma nuostata pretenduoti į LDK žemes, kaip Rusijai neva „istorinio pirmumo“ principu turintį priklausyti paveldą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Caro valdžia: „Čia nebus Lenkijos“
-    Po sukilimo Lenkijos karalystė neteko politinės autonomi-
-    jos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadi-
-    no „lenkų pradų naikinimo“ politika. Šios politikos ideologiniu pagrindu
-    tapo nuo Ivano Rūsčiojo laikų žinoma nuostata pretenduoti į LDK žemes,
-    kaip Rusijai neva „istorinio pirmumo“ principu turintį priklausyti pavel-
-    dą. Atseit LDK iki jos pagoniškosios dalies katalikiško krikšto ir Krėvos
-    unijos su Lenkija buvo viena iš stipriausių rusų valstybių, konkuravusi su
-    Maskva dėl rusų žemių suvienijimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Šios politikos ideologiniu pagrindu tapo nuo Ivano Rūsčiojo laikų žinoma nuostata pretenduoti į LDK žemes, kaip Rusijai neva „istorinio pirmumo“ principu turintį priklausyti paveldą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -66,6 +48,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -74,4 +57,3 @@ tags:
 - [[objektai/zodynas/unija]]
 - [[objektai/posakiai/„Čia nebus Lenkijos“]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
-- [[objektai/zodynas/lenkų pradų naikinimo politika]]

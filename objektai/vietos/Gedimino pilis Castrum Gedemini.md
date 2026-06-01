@@ -29,17 +29,17 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki Gedimino laikų.'
+  teiginys: 'Hartknochas Gedimino pilį, vadintą Castrum Gedemini, tapatino su Vilniumi, bet Balińskis šią nuomonę atmetė.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Jeigu mes net tarsime, kad ta pilis Vilniuje gerokai anksčiau pastatyta, tai Dusburgas, Gedimino amžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­ demini, juk pats Gediminas, arba rygiečiai, dar prieš metus viešuose laiškuose ir dokumentuose aiškiai.'
+  teiginys: 'Balińskis atmetė Hartknocho prielaidą, kad Vilnius galėjo būti Castrum Gedemini, ir Gedimino pilį veikiau siejo su Veliuona.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis.'
+  teiginys: '1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.'
   pagrindžia:
     - c-002
 
@@ -66,6 +66,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
     - t-004
 
 - c-002
+  santrauka: '1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
@@ -88,6 +89,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
     - t-003
 
 - c-003
+  santrauka: 'Balińskis atmetė Hartknocho prielaidą, kad Vilnius galėjo būti Castrum Gedemini, ir Gedimino pilį veikiau siejo su Veliuona.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje
@@ -109,6 +111,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
     - t-002
 
 - c-004
+  santrauka: 'Hartknochas Gedimino pilį, vadintą Castrum Gedemini, tapatino su Vilniumi, bet Balińskis šią nuomonę atmetė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­

@@ -44,14 +44,13 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Anksčiau dėl šių dalykų bajorai turėjo atsiklausti didžiojo kunigaikščio, kuris žiūrėjo, kad dvarai ir kraičiai atitektų tik tokiems bajorams, kurie su savo vy­ rais galėtų dalyvauti karuose ir atlikti privalomus jiems vals­ tybės darbus.'
+  teiginys: 'Iki Jogailos privilegijos bajorai dėl dvarų ir kraičių turėjo atsiklausti didžiojo kunigaikščio.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Apsikrikštijusiems bajorams suteikta pilna laisvė šeimos reikaluose, įskaitant dukterų išleidimą už vyro.'
   pagrindžia:
-    - c-003
     - c-001
 
 ## Reikšmingi paminėjimai
@@ -87,21 +86,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Katalikų tikėjimą įvedant, gavo daugiau laisvės ir bajorai,
-    kurie jį priimdavo. Tokiems bajorams buvo duota teisė valdy­
-    ti iš protėvių įgytą nejudomą turtą (miestus, apskričius, so­
-    džius, namus, dvarus), jį parduoti, kitam perleisti. Buvo su­
-    teikta laisvė savo dukteris ir giminaites leisti už joms tinkamų
-    vyrų, tik kad jie nebūtų stačiatikiai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
+  santrauka: 'Iki Jogailos privilegijos bajorai dėl dvarų ir kraičių turėjo atsiklausti didžiojo kunigaikščio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Anksčiau dėl šių dalykų

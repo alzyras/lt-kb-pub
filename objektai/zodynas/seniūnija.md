@@ -25,27 +25,11 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
 - t-002
   teiginys: 'Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet kandidatų į jas niekad netrūkdavo, nes jos duodavo ne tik įtakos valstybėje, bet ir valstybės dvarų, vadinamųjų seniūnijų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    už kurias jie palaikydavo karaliaus politiką. Aukštosios vals-
-    tybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet
-    kandidatų į jas niekad netrūkdavo, nes jos duodavo ne tik įta-
-    kos valstybėje, bet ir valstybės dvarų, vadinamųjų seniū-
-    nijų. Iš jiems duodamų valdyti dvarų dažnas ne tik pa-
-    dengdavo valstybės pareigas einant padarytas išlaidas, bet ir
-    nemažus turtus susikraudavo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet kandidatų į jas niekad netrūkdavo, nes jos duodavo ne tik įtakos valstybėje, bet ir valstybės dvarų, vadinamųjų seniūnijų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -64,6 +48,7 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

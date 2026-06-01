@@ -27,7 +27,7 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi Maskvos kunigaikštija buvo apsupta žemių, tuo ar kitu būdu pripažinusių Vytauto autoritetą.'
+  teiginys: 'Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą.'
   pagrindžia:
     - c-001
 
@@ -37,12 +37,12 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - c-004
 
 - t-003
-  teiginys: 'Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­ tijoje ir valdysiu visą Rusiją^2 ).'
+  teiginys: 'Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštijoje.'
   pagrindžia:
     - c-005
 
 - t-004
-  teiginys: 'Taip pat Tveriaus kunigaikštis, turėjęs savo že­ mes Maskvos kairėje, su Vytautu buvo užmezgęs taikius santy­ kius (1427).'
+  teiginys: 'Tveriaus kunigaikštis, turėjęs žemes Maskvos kairėje, 1427 m. buvo užmezgęs taikius santykius su Vytautu.'
   pagrindžia:
     - c-006
 
@@ -59,6 +59,7 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi Maskvos kunigaikštija buvo apsupta žemių,
@@ -130,6 +131,7 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - t-002
 
 - c-005
+  santrauka: 'Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas
@@ -148,6 +150,7 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - t-003
 
 - c-006
+  santrauka: 'Tveriaus kunigaikštis, turėjęs žemes Maskvos kairėje, 1427 m. buvo užmezgęs taikius santykius su Vytautu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip pat Tveriaus kunigaikštis, turėjęs savo že­

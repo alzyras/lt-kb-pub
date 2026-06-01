@@ -19,13 +19,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Čekų ir Silezijos savanorių vadai ir, gražiausia, Jaroslavas Lingumas, Mstislavlio kunigaikštis, pateko į ne­ laisvę.'
+  teiginys: 'Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Priešininkas, persekio­

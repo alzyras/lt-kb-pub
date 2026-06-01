@@ -30,32 +30,32 @@ amziai:
 - t-001
   teiginys: 'Dusburgietis teigia, kad tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys būdami netikėliai ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo 160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo ir Lenčicos, 1229 ir 1241—1243 m..'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-002
   teiginys: '1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie laikos nutraukimą ir Kujavijos žemės nuniokojimą Praslinkus tam tikram laikui, Sventopelkas, užmiršęs būti dėkingas už palankumą ir visokiausias malones, kurių broliai ne kartą jam, patekusiam į bėdą, yra teikę, plėšė slaptomis brolių valdinius, vienus.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad galop, viešai išsižadėjęs taikos, įniko kaip ir seniau persekioti krikščionis ir, sutelkęs didelę kariuomenę, netikėtai įsiveržė į kunigaikščiui Kazimierui priklausomą Kujavijos žemę, ją nuniokojo, degindamas bei grobdamas, o išžudęs daugybę krikščionių.'
   pagrindžia:
-    - c-008
+    - c-004
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
   pagrindžia:
-    - c-004
+    - c-008
 
 - t-007
   teiginys: '1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.'
@@ -63,7 +63,7 @@ amziai:
     - c-002
 
 - t-008
-  teiginys: 'Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­ klausančias jo suverenitetui ir būdamas valdovas savo vasalo Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.'
+  teiginys: 'Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.'
   pagrindžia:
     - c-001
 
@@ -75,6 +75,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­
@@ -126,22 +127,6 @@ amziai:
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    1. Apie tai, kaip prūsai niokojo Kulmo žemę
-
-      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
-    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
-    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
-    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
-    Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Apie laikos nutraukimą ir Kujavijos žemės nuniokojimą
 
       Praslinkus tam tikram laikui, Sventopelkas, užmiršęs būti dėkingas už palankumą ir
@@ -161,8 +146,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
+    - t-005
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Esą
@@ -178,7 +164,7 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-007
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
@@ -192,28 +178,7 @@ amziai:
   pagrindžia:
     - t-001
 
-- c-008
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Praslinkus tam tikram laikui, Sventopelkas, užmiršęs būti dėkingas už palankumą ir
-    visokiausias malones, kurių broliai ne kartą jam, patekusiam  į bėdą, yra teikę, plėšė
-    slaptomis brolių valdinius, vienus žudė, kitus varėsi į nelaisvę ir kitokiais būdais kamavo.
-    Galop, viešai išsižadėjęs taikos, įniko kaip ir seniau persekioti krikščionis  ir, sutelkęs
-    didelę kariuomenę, netikėtai įsiveržė  į kunigaikščiui Kazimierui priklausomą Kujavijos
-    žemę, ją nuniokojo, degindamas bei grobdamas, o išžudęs daugybę krikščionių, drauge
-    su milžinišku grobiu išsivarė moteris bei vaikus.
-
-
-
-      300 Greičiausiai pravardė
-      301 Dab.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-009
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
@@ -228,7 +193,7 @@ amziai:
   pagrindžia:
     - t-004
 
-- c-010
+- c-008
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -252,3 +217,4 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-010
+    - t-006

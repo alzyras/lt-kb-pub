@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 35.
+Objektų skaičius: 33.
 
 ## Kaip naudoti
 
@@ -29,7 +29,6 @@ Objektų skaičius: 35.
 ### Autoriai
 - [[objektai/autoriai/Kučinskas A]]
 - [[objektai/autoriai/P. Tarasenka]]
-- [[objektai/autoriai/Thomas A]]
 
 ### Daiktai
 - [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]]
@@ -52,7 +51,7 @@ Objektų skaičius: 35.
 - [[objektai/paprociai/Religijų laisvas išpažinimas ir krikščioniškų apeigų atlikimas Algirdo Vilniuje]]
 - [[objektai/paprociai/Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas]]
 - [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga]]
-- [Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią](../objektai/paprociai/Vilniaus%20vyskupo%20ba%C5%BEnytini%C5%B3%20cenz%C5%ABr%C5%B3%20vykdymas%20pasitelkiant%20pasaulietin%C4%99%20vald%C5%BEi%C4%85)
+- [[objektai/paprociai/Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią]]
 
 ### Įvykiai
 - [Kėdainių-Šėtos kautynės](../objektai/ivykiai/K%C4%97daini%C5%B3-%C5%A0%C4%97tos%20kautyn%C4%97s)
@@ -65,4 +64,3 @@ Objektų skaičius: 35.
 - [bažnytinė unija (unija)](../objektai/zodynas/ba%C5%BEnytin%C4%97%20unija)
 - [bažnytinės cenzūros ir pasaulietinė valdžia](../objektai/zodynas/ba%C5%BEnytin%C4%97s%20cenz%C5%ABros%20ir%20pasaulietin%C4%97%20vald%C5%BEia)
 - [schizmatikai graikų apeigų tikėjimas](../objektai/zodynas/schizmatikai%20graik%C5%B3%20apeig%C5%B3%20tik%C4%97jimas)
-- [vaidilos kriviai žyniai](../objektai/zodynas/vaidilos%20kriviai%20%C5%BEyniai)

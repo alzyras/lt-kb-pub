@@ -27,13 +27,14 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės ir privilegijos į Didžią­ ją Kunigaikštystę24.'
+  teiginys: 'Mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Palankios buvo visos aplinkybės, nes ir
@@ -51,7 +52,3 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vladislovas Jogaila]]

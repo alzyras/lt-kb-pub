@@ -32,7 +32,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - c-003
 
 - t-002
-  teiginys: 'Augustas III, 1733—1763 m. d. Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius.'
+  teiginys: 'Augustas III 1733–1763 m. buvo didysis Lietuvos kunigaikštis, Lenkijos karalius ir Saksų elektorius.'
   pagrindžia:
     - c-002
 
@@ -47,13 +47,14 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - c-005
 
 - t-005
-  teiginys: 'Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­ gusto III ir Stanislovo Augusto.'
+  teiginys: 'Augustas III privilegija suteikė Akademijos spaustuvei karališkosios spaustuvės titulą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Augustas III privilegija suteikė Akademijos spaustuvei karališkosios spaustuvės titulą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi:
@@ -81,6 +82,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - t-005
 
 - c-002
+  santrauka: 'Augustas III 1733–1763 m. buvo didysis Lietuvos kunigaikštis, Lenkijos karalius ir Saksų elektorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Augustas III,

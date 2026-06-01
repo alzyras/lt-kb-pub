@@ -48,4 +48,3 @@ Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Čekai]]
-- [[objektai/asmenys/Henrikas (Danijos karalius)]]

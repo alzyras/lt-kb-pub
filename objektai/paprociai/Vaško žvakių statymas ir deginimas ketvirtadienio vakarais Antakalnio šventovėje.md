@@ -41,37 +41,21 @@ Nenurodyta
 - t-001
   teiginys: 'Antakalnyje buvo medinė šventovė, pašvęsta visiems lietuvių dievams.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Antakalnio šventovėje ketvirtadienio vakarais dvasininkai visada statydavo ir degindavo vaško žvakes.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gausu buvo pagonių šventyklų, nes, be tų, ku­
-    rias pilies teritorijoje buvus patyrėme, viena šventa vietovė
-    buvo ant tos kalvos, kur dabar stovi Šv. Jono bažnyčia, o Ant­
-    akalnyje, kaip tik ten, kur dabar Šv. Petro bažnyčia, buvo iš­
-    kilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.
-    tovė Laukai-kišas-upys, vėliau išvir­
-    to į Lukiškes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     „Buvo dar didžiulė menė, arba
@@ -95,7 +79,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -122,6 +106,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

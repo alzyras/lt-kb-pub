@@ -38,11 +38,6 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­ kų, patraukusių vaduoti šventosios žemės 1270 viešpaties metų rugpjūčio 25 dieną Liudvikas, Prancūzijos karalius, patraukė su dviem savo sūnumis ir daugybe kunigaikščių į.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,6 +56,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -77,6 +73,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
     - t-001
 
 - c-003
+  santrauka: '1270 m. rugpjūčio 25 d. Prancūzijos karalius Liudvikas su dviem sūnumis ir kunigaikščiais išvyko vaduoti Šventosios žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     53. Apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­
@@ -90,22 +87,6 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    26. Apie viešpaties erškėčių vainiko perkėlimą
-
-      1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į
-    Paryžių viešpaties erškėčių vainiką (Ptol. 21,36).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

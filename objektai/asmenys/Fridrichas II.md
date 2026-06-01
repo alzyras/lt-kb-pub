@@ -54,7 +54,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - c-007
 
 - t-006
-  teiginys: 'Dusburgietis teigia, kad todėl kunigaikštis pasiuntė pas minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais klausimais su broliais ir apsvarstęs su jais šį.'
+  teiginys: 'Imperatorius Fridrichas II patarė magistrui Hermanui priimti Lenkijos kunigaikščio kvietimą dėl keblaus reikalo.'
   pagrindžia:
     - c-005
 
@@ -135,6 +135,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-003
 
 - c-005
+  santrauka: 'Imperatorius Fridrichas II patarė magistrui Hermanui priimti Lenkijos kunigaikščio kvietimą dėl keblaus reikalo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie vienu balsu pritarė jo sumanymui, pridurdami, kad ir patys esą sužinoję
@@ -195,7 +196,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Venedai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/legatas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]

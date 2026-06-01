@@ -22,7 +22,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-001
 
 - t-002
-  teiginys: 'Rimgaudas Songaila pati ėmėsi iniciatyvos.'
+  teiginys: 'Rimgaudas Songaila, pakeitęs Petrą Griškevičių LKP CK pirmojo sekretoriaus pareigose, laikėsi pasyviai.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - t-001
 
 - c-002
+  santrauka: 'Rimgaudas Songaila, pakeitęs Petrą Griškevičių LKP CK pirmojo sekretoriaus pareigose, laikėsi pasyviai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
@@ -96,6 +97,5 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/zodynas/baltosios dėmės]]
 - [[objektai/zodynas/pertvarka perestroika]]
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]

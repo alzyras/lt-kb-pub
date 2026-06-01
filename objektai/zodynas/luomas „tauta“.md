@@ -26,13 +26,14 @@ Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vieną 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vieną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą", tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati, kartais net nesiklausdama lenkų, darė atskiras sutartis.'
+  teiginys: 'Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, arba vieną bajorų „tautą“, tačiau pati rūpinosi Lietuva.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, arba vieną bajorų „tautą“, tačiau pati rūpinosi Lietuva.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Byla traukėsi 8 metus

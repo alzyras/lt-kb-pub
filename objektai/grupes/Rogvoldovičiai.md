@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '[Lietuvos valdovų pradžia - į Poloc­ ko kunigaikščius, j Rogvoldo vietą atėjo didysis Mstislavas Vladimirovičius ir užėmė Polocką, o Rogvoldovičiai išbėgo į Cargradą [Konstan­ tinopolį].'
+  teiginys: 'Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Otcem

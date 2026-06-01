@@ -20,18 +20,19 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 ## Teiginiai
 
 - t-001
-  teiginys: 'Len­ kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­ ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija, o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­ kijos senato valią galima būtų didžiajam kunigaikščiui už­ dėti Lietuvos.'
+  teiginys: 'Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbignevas Olesnickis ir Sandomiro vaivada Mikalojus Michalovskis grasino Vytau­ tui karu, jeigu jis neatsisakysiąs savo sumanymo.'
+  teiginys: 'Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, tik dalis tos pasiuntinybės pasie­
@@ -50,6 +51,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-002
 
 - c-002
+  santrauka: 'Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Puikų suruošia Vytautas priėmimą,

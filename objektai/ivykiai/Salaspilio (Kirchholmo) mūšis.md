@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '1605 m. mūšyje prie Kirchholmo netoli Rygos J.'
+  teiginys: '1605 m. prie Kirchholmo netoli Rygos J. K. Chodkevičiaus vadovaujama LDK kariuomenė nugalėjo 12 tūkst. švedų.'
   pagrindžia:
     - c-003
 
@@ -93,6 +93,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: '1605 m. prie Kirchholmo netoli Rygos J. K. Chodkevičiaus vadovaujama LDK kariuomenė nugalėjo 12 tūkst. švedų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus

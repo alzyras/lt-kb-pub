@@ -82,7 +82,6 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Oberostas]]
 - [[objektai/posakiai/„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“]]

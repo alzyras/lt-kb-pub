@@ -32,7 +32,7 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
     - c-005
 
 - t-002
-  teiginys: 'Pagal rusų met­ raščius, Vytautas žadėjo Perekopo (Krymo) vad. Aukso ordos chanui Tochtamišui, nugalėjęs jo priešą Timur-Kutlugą, pasodinti jį visų totorių chanatų viršūnėje, sakydamas : «o tu mane paso­ dinki didžiojoje Maskvos kunigaikštijoje ...'
+  teiginys: 'Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę.'
   pagrindžia:
     - c-001
 
@@ -44,22 +44,17 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
 - t-004
   teiginys: 'Tarptautinių Tuo metu rytuose Aukso orda turėjo kovoti prieš ją puolantį Iraną.'
   pagrindžia:
-    - c-007
-
-- t-005
-  teiginys: 'Rusų metraščiai teigia, kad Vytautas žadėjo Tochtamišą iškelti į visų totorių chanatų viršūnę.'
-  pagrindžia:
     - c-006
 
 - t-006
   teiginys: 'Kai nuo XIV amž. galo totorių valstybė (Aukso Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.'
   pagrindžia:
-    - c-009
+    - c-005
 
 - t-007
   teiginys: 'Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.'
   pagrindžia:
-    - c-008
+    - c-004
 
 - t-008
   teiginys: 'Kryžiuočių ordinui, remiamam kryžininkų, nuo 1328 m. atnaujinus Lietuvos puolimus, Lietuva, atrodo, bus užmezgusi kompromisinius santykius su Aukso orda, kurios įtakoje, matyt, liko pietinė Kijevo žemės dalis.'
@@ -74,11 +69,12 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
 - t-010
   teiginys: 'Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.'
   pagrindžia:
-    - c-010
+    - c-007
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal rusų met­
@@ -92,6 +88,7 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   statusas: verified
   pagrindžia:
     - t-002
+    - t-005
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -141,6 +138,7 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   statusas: verified
   pagrindžia:
     - t-009
+    - t-007
 
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -156,23 +154,9 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   statusas: verified
   pagrindžia:
     - t-001
+    - t-006
 
 - c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagal rusų met­
-    raščius, Vytautas žadėjo Perekopo (Krymo) vad. Aukso ordos
-    chanui Tochtamišui, nugalėjęs jo priešą Timur-Kutlugą, pasodinti
-    jį visų totorių chanatų viršūnėje, sakydamas : «o tu mane paso­
-    dinki didžiojoje Maskvos kunigaikštijoje ... Vokiečius (ordiną) aš
-    pats paimsiu^2 ».
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gedimino žygis, mūšis prie Irpenės ir
@@ -193,39 +177,7 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   pagrindžia:
     - t-004
 
-- c-008
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    žentas Vasilius, ir todėl jis laikėsi pasyviai, kai Konstantinopolio
-    patriarchas ragino visos Rusios metropolitą Kiprijoną skelbti kry­
-    žiaus karą^32.
-    Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
-    (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
-    Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
-    Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
-    sutriuškino švedų galybę (1709).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-009
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^6) PRATARMĖ
-    vokiečių ordinu. Kai nuo XIV amž. galo totorių valstybė (Aukso
-    Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji
-    jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.
-    Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
-    didesnių nuostolių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-010
+- c-007
   santrauka: 'Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -265,4 +217,3 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/grupes/Mongolų imperija]]
-- [[objektai/zodynas/kondominiumas]]

@@ -28,7 +28,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 ## Teiginiai
 
 - t-001
-  teiginys: 'XIV amž. Karšuvos sritis (beveik visas Jūros baseinas) tapo negy­ venama dykra.'
+  teiginys: 'XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra.'
   pagrindžia:
     - c-003
 
@@ -38,7 +38,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - c-005
 
 - t-003
-  teiginys: 'Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­ tenicka ») ir Aukaimis (abi Karšuvos srityje).'
+  teiginys: 'Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis.'
   pagrindžia:
     - c-001
 
@@ -55,6 +55,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jų didelė dalis buvo skirta naikinti Žemaičių
@@ -85,6 +86,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - t-005
 
 - c-003
+  santrauka: 'XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ten buvo galima kolektyviai stipriau

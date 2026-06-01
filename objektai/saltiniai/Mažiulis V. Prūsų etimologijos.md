@@ -24,13 +24,14 @@ Dusburgietis teigia, kad mažiulis V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mažiulis V.'
+  teiginys: 'V. Mažiulio „Prūsų etimologijos“ publikuotos „Baltistica“ 1975 m. ir 1978 m. numeriuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Mažiulio „Prūsų etimologijos“ publikuotos „Baltistica“ 1975 m. ir 1978 m. numeriuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.

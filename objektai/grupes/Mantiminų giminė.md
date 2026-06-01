@@ -19,7 +19,7 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458, tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo gyvybės, nei savo genties”.'
+  teiginys: 'Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų.'
   pagrindžia:
     - c-001
     - c-002
@@ -27,6 +27,7 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
@@ -41,6 +42,7 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
     - t-001
 
 - c-002
+  santrauka: 'Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė

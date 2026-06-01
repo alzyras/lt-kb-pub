@@ -23,13 +23,14 @@ Dusburgietis teigia, kad szacherska S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad szacherska S.'
+  teiginys: 'S. M. Szacherskos veikalas „Opoctwo cysterskie w Szpetalu a misja pruska“ išleistas Varšuvoje 1960 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. M. Szacherskos veikalas „Opoctwo cysterskie w Szpetalu a misja pruska“ išleistas Varšuvoje 1960 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Szacherska S. M. Opoctwo cysterskie w Szpetalu a misja pruska.— Warszawa, 1960.

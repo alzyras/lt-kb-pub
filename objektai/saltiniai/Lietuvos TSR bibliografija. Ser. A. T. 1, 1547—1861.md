@@ -26,13 +26,14 @@ Dusburgietis teigia, kad lietuvos TSR bibliografija.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad lietuvos TSR bibliografija.'
+  teiginys: '„Lietuvos TSR bibliografijos“ A serijos pirmasis tomas, apimantis 1547–1861 m., išleistas Vilniuje 1969 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Lietuvos TSR bibliografijos“ A serijos pirmasis tomas, apimantis 1547–1861 m., išleistas Vilniuje 1969 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos TSR bibliografija. Ser. A. T. 1, 1547—1861. —V., 1969.

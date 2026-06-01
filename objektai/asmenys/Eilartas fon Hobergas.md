@@ -26,31 +26,11 @@ tags:
 - t-002
   teiginys: 'Žuvo Livonijos ordino magistras Ernestas fon Racburgas, danų vietininkas Taline Eilartas fon Hobergas, tik kai kam pavyko ištrūkti.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    negalėjo“. Žuvo Livonijos ordino magistras
-    Ernestas fon Racburgas, danų vietininkas
-    Taline Eilartas fon Hobergas, tik kai kam
-    pavyko ištrūkti.
-
-    Atkreiptinas dėmesys į reikšmingą lie-
-    tuvių mūšio taktiką, kurios tikslas buvo
-    išvilioti, tarsi bėgant iš mūšio lauko,
-    dalį priešo pajėgų, o po to persitvarkius
-
-    sumušti priešą dalimis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Žuvo Livonijos ordino magistras Ernestas fon Racburgas, danų vietininkas Taline Eilartas fon Hobergas, tik kai kam pavyko ištrūkti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -82,6 +62,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

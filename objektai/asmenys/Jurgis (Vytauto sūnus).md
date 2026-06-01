@@ -27,13 +27,14 @@ Taigi greitai, 1385 metais, mažamečiai Vy­ tauto sūnūs, Jonas ir Jurgis, bu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi greitai, 1385 metais, mažamečiai Vy­ tauto sūnūs, Jonas ir Jurgis, buvo Ka­ raliaučiuje nunuodyti!'
+  teiginys: 'Vytauto mažametis sūnus Jurgis 1385 m. buvo nunuodytas Karaliaučiuje kartu su broliu Jonu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto mažametis sūnus Jurgis 1385 m. buvo nunuodytas Karaliaučiuje kartu su broliu Jonu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kokios bu­
@@ -49,3 +50,8 @@ Taigi greitai, 1385 metais, mažamečiai Vy­ tauto sūnūs, Jonas ir Jurgis, bu
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

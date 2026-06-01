@@ -19,18 +19,14 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų...................'
-  pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Dalyvaujant didžiai gerbiamiems Kristu­ je tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­ lovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui Hlebavičiui, Naugarduko vaivadai Stanislovui.'
+  teiginys: '1542 m. Vilniuje duotame rašte raikytojas Jurgis Astikaitis dalyvavo tarp Lietuvos Didžiosios Kunigaikštystės pareigūnų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1542 m. Vilniuje duotame rašte raikytojas Jurgis Astikaitis dalyvavo tarp Lietuvos Didžiosios Kunigaikštystės pareigūnų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To dalyko patiki­
@@ -53,27 +49,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dalyvaujant didžiai
-    gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­
-    kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­
-    pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus
-    ................Jonui, Jurgiui Astikaičiui, Trakų...................
-    Gregorovičiui, Alšėnų kunigaikščiui ir Kijevo...................
-    Jonui, Polocko............................Stanislovui Jonui Da Vai­
-    nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui
-    ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­
-    vos Didžiosios Kunigaikštystės arklidininkui Mikalojui An-
-    driuševičiui ir kitiems mūsų tarybos nariams (senatoriams)
-    ir pareigūnams, nuoširdžiai ištikimiems ir mieliems.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
@@ -81,6 +56,5 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/zodynas/dignitoriai]]
 - [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/stalininkas]]
 - [[objektai/zodynas/vaivada]]

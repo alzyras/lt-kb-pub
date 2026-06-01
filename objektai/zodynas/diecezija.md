@@ -20,18 +20,19 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės.'
+  teiginys: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam bet ir kai kuriais padavimais ar užuominomis, kurias aptikau Vil­ niaus kapitulos ar Karaliauč.'
+  teiginys: 'Klodovo klebonija, duota naujajam vyskupui, buvo Gniezno diecezijoje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iškilmingai,
@@ -54,6 +55,7 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     - t-001
 
 - c-002
+  santrauka: 'Klodovo klebonija, duota naujajam vyskupui, buvo Gniezno diecezijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius tuoj pat
@@ -90,7 +92,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Abraomas Kulvietis]]
 - [[objektai/autoriai/Adamas Ign. Naramowski]]
-- [[objektai/autoriai/Albertrandi]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
 - [[objektai/asmenys/Bodzanta]]

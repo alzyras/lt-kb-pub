@@ -35,7 +35,7 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi kadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn.'
+  teiginys: 'M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje.'
   pagrindžia:
     - c-003
 
@@ -80,6 +80,7 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
     - t-003
 
 - c-003
+  santrauka: 'M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Reikšminga, kad senuose pasakojimuose,

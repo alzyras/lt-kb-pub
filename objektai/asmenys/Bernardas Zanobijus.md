@@ -26,13 +26,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '12 Vilniaus kapitulos archyve yra vysku­ po sutartis su Bernardu Zanobijumi, romiečiu, mūrijimo meistru, dėl Šv.'
+  teiginys: 'Bernardas Zanobijus buvo romietis mūrijimo meistras, sudaręs sutartį dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bernardas Zanobijus buvo romietis mūrijimo meistras, sudaręs sutartį dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     287.

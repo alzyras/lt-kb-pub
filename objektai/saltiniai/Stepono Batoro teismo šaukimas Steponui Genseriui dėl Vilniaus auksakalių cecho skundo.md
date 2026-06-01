@@ -20,7 +20,7 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šiuo raštu skel­ biame visiems ir kiekvienam, kam dera žinoti, kad pas mus ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems senjorams ir visam mūsų Vilniaus miesto auksakalių ce­ chui, buvo pakviestas garsusis Steponas Genseris, auksaka­ lys, tiek.'
+  teiginys: 'Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Transilvanijos kunigaikštis. Šiuo raštu skel­

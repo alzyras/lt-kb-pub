@@ -50,11 +50,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: '- pagrindzia: - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -84,34 +79,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 56564-56920; match: whitespace_regex
-    - santrauka: kakalys yra kūrenamas pečius, susietas su trobos ir ubladės duonos kepimu.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        Troboje, kurioje, kaip sakiau, žiemą tegyveno, turėjo tris keturis šalutinėj sienoj stiklo langus, o du trobos gale. Į saulėtekį buvo alkierius^223 , arba svečio troba, kursai užėmė pusę trobos galutinės sienos ir turėjo du stiklo langu, to paties aukščio, kaip jei troba, kurioje buvo kakalys, arba pečius, iš kuknės kuriamas, prie to pečiaus buvo kaminas
-
-    ## vocabulary-kakalys-002
-    - status: unused
-    - claim_role: supports_existing_claim
-    - kategorija: zodynas
-    - kandidatas: kakalys
-    - potencialus_teiginys: kakalys yra kūrenamas pečius, susietas su trobos ir ubladės duonos kepimu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Duona]]
 - [[objektai/grupes/Kalnėnai]]
-- [[objektai/daiktai/Ubladė]]
-- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/Žemaičiai]]

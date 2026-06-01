@@ -42,38 +42,39 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
+  teiginys: 'Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.'
+  teiginys: '1536 m. privilegija uždraudė statyti kitą tiltą per Viliją tarp Bistryčios ir Kernavės, kad nebūtų mažinamos Vilniaus tilto muito pajamos.'
   pagrindžia:
     - c-006
 
 - t-003
-  teiginys: 'Paskui, kai minėtą prieglaudą pastatys ir tin­ kamai įrengs, tuojau pat dalį to paties tilto mokesčio, mūsų užrašyto minėtai prieglaudai, visiems būsimiems laikams tegu nukreips ir atiduos maistui, drabužiams, vaistams bei kitoms toje prieglaudoje esančių.'
+  teiginys: 'Pastačius Švč. Trejybės prieglaudą, dalis Vilijos tilto mokesčio turėjo būti skiriama ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
+  teiginys: '1536 m. privilegija uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.'
   pagrindžia:
     - c-004
 
 - t-005
-  teiginys: 'Tad tokiai prie­ glaudai ir joje gyvenantiems vargšams mes karališkąja malo­ ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­ kams atiduoti, dovanoti, paskirti ir užrašyti.'
+  teiginys: 'Žygimantas Senasis visiems laikams paskyrė Vilijos tilto mokestį Švč. Trejybės prieglaudai ir joje gyvenantiems vargšams.'
   pagrindžia:
     - c-003
 
 - t-006
-  teiginys: 'Dėl to taip pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­ nėtąjį Jo šv.'
+  teiginys: 'Jonas Hozijus ir jo įpėdiniai kasmet turėjo atsiskaityti Vilniaus vyskupui ir kapitulai už tilto bei prieglaudos pajamas ir išlaidas.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pastačius Švč. Trejybės prieglaudą, dalis Vilijos tilto mokesčio turėjo būti skiriama ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Paskui, kai minėtą prieglaudą pastatys ir tin­
@@ -101,6 +102,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mes į jo vietą garbingąjį
@@ -138,6 +140,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Žygimantas Senasis visiems laikams paskyrė Vilijos tilto mokestį Švč. Trejybės prieglaudai ir joje gyvenantiems vargšams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad tokiai prie­
@@ -169,6 +172,7 @@ Nenurodyta
     - t-005
 
 - c-004
+  santrauka: '1536 m. privilegija uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nederėtų, be
@@ -195,6 +199,7 @@ Nenurodyta
     - t-004
 
 - c-005
+  santrauka: 'Jonas Hozijus ir jo įpėdiniai kasmet turėjo atsiskaityti Vilniaus vyskupui ir kapitulai už tilto bei prieglaudos pajamas ir išlaidas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dėl to taip
@@ -221,6 +226,7 @@ Nenurodyta
     - t-006
 
 - c-006
+  santrauka: '1536 m. privilegija uždraudė statyti kitą tiltą per Viliją tarp Bistryčios ir Kernavės, kad nebūtų mažinamos Vilniaus tilto muito pajamos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tie, kuriuos minėtas garbingasis Jonas Hozijus
@@ -264,6 +270,7 @@ Nenurodyta
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/muitas tilto mokestis]]
 - [[objektai/zodynas/plaustai]]

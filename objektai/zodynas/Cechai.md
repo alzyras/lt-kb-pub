@@ -19,13 +19,14 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
 ## Teiginiai
 
 - t-001
-  teiginys: 'XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokietijos miestuose, sekant Italijos ir Prancūzijos pa­ vyzdžiu, čia pradėta steigti cechus ir naudotis gautomis privilegijomis; XIII amžiuje didelė jų dalis išsivadavo iš vysku­ pų.'
+  teiginys: 'XII a. antrojoje pusėje Vokietijos miestuose pradėta steigti cechus, o XIII a. daugelis jų išsivadavo iš vyskupų jurisdikcijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XII a. antrojoje pusėje Vokietijos miestuose pradėta steigti cechus, o XIII a. daugelis jų išsivadavo iš vyskupų jurisdikcijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vokietijos miestai, iki Ka­
@@ -50,3 +51,4 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vengrai]]
+- [[objektai/zodynas/jurisdikcija]]

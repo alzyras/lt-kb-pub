@@ -30,7 +30,7 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: 'Nagrinėdamas geras ir blogas priva­ čios prekybos arba monopolio pu­ ses, Vilnių, stiklo prekių atžvilgiu, pateikia kaip pavyzdį, o jau buvo po Paleckio privilegijos žlugimo.'
+  teiginys: 'Nagrinėdamas privačios prekybos arba monopolio privalumus ir trūkumus, Smigleckis Vilnių pateikė kaip stiklo prekių pavyzdį.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Nagrinėdamas privačios prekybos arba monopolio privalumus ir trūkumus, Smigleckis Vilnių pateikė kaip stiklo prekių pavyzdį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7-as leidimas, Krokuvoje, pas

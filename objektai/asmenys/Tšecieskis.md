@@ -19,13 +19,14 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisant garbingiausių Lietuvos giminių prie­ lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­ telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos.'
+  teiginys: 'Tšecieskis buvo vienas iš talentingų reformatų, kuriems nepavyko sutelkti pakankamai stiprių pajėgų kovai su jėzuitais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tšecieskis buvo vienas iš talentingų reformatų, kuriems nepavyko sutelkti pakankamai stiprių pajėgų kovai su jėzuitais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat narsiam jo broliui Gabrieliui Be­

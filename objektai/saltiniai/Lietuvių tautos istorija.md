@@ -26,12 +26,12 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 ## Teiginiai
 
 - t-001
-  teiginys: 'Narbuto istorijos pirmasis tomas, kitais metais - pirmoji M.'
+  teiginys: '1835 m. pasirodė pirmasis Teodoro Narbuto „Lietuvių tautos istorijos“ tomas.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­ vo.'
+  teiginys: 'Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvoje stigo veikalų apie krašto istoriją nuo seniausių laikų.'
   pagrindžia:
     - c-003
 
@@ -43,6 +43,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1835 m. pasirodė pirmasis Teodoro Narbuto „Lietuvių tautos istorijos“ tomas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
@@ -74,6 +75,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
     - t-003
 
 - c-003
+  santrauka: 'Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvoje stigo veikalų apie krašto istoriją nuo seniausių laikų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš

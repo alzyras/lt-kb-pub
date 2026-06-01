@@ -39,7 +39,7 @@ periodo_grupes:
     - c-001
 
 - t-003
-  teiginys: 'Italai, čia nuolat dirbdami šešerius metus, iš brangaus marmuro pastatė du puikius antkapius kara­ liaus žmonoms - Elžbietai ir Barborai Šv.'
+  teiginys: 'Italų meistrai Šv. Stanislovo bažnyčioje pastatė marmurinį antkapį karaliaus žmonai Elžbietai.'
   pagrindžia:
     - c-003
 
@@ -89,6 +89,7 @@ periodo_grupes:
     - t-001
 
 - c-003
+  santrauka: 'Italų meistrai Šv. Stanislovo bažnyčioje pastatė marmurinį antkapį karaliaus žmonai Elžbietai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     — • —
@@ -113,6 +114,7 @@ periodo_grupes:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/daiktai/Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje]]

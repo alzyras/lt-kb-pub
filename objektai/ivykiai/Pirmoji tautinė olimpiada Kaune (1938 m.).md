@@ -47,7 +47,7 @@ Nenurodyta
 - t-002
   teiginys: '1, kaip tautinės pergalės simbolis, dvasios ir kūno lavinimo pergalė, puikus pavyzdys kitų sporto šakų atstovams.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -66,21 +66,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kaune Lietuva antrą
-    kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė
-    Italijoje iškovojo Europos čempionato sidabro medalius. Krepšinis visam
-    laikui tapo sportu Nr. 1, kaip tautinės pergalės simbolis, dvasios ir kūno
-    lavinimo pergalė, puikus pavyzdys kitų sporto šakų atstovams. Sportas tapo
-    integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-
-    piadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

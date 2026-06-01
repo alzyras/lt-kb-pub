@@ -25,13 +25,14 @@ Dusburgietis teigia, kad lites ac res gestae inter Polonos et Ordinemque crucife
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad lites ac res gestae inter Polonos et Ordinemque cruciferorum.— T.'
+  teiginys: '„Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lites ac res gestae inter Polonos et Ordinemque cruciferorum.— T. 1.— Posnaniae,

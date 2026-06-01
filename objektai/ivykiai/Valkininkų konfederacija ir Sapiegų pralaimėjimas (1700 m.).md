@@ -55,7 +55,7 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu. Jų kariuomenei vadovavęs hetmono sūnus Mykolas (visi kiti Sapiegos, vos prasidėjus kautynėms, pabėgo į Vilnių) va- karop buvo apsuptas ir turėjo pasiduoti. Višniaveckis jį nu- sivežė į.'
+  teiginys: 'Valkininkų kautynės baigėsi Sapiegų pralaimėjimu, o jų kariuomenei vadovavęs Mykolas Sapiega buvo apsuptas ir pasidavė.'
   pagrindžia:
     - c-006
 
@@ -70,7 +70,7 @@ Nenurodyta
     - c-002
 
 - t-006
-  teiginys: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susi- spietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Val- kininkų. Čia jau buvo sutraukta visa Sapiegų kariuomenė ir dalis jiems.'
+  teiginys: '1700 m. prieš Sapiegas susitelkę būriai iš Lydos ir Ašmenos apylinkių atėjo prie Valkininkų.'
   pagrindžia:
     - c-004
 
@@ -135,6 +135,7 @@ Nenurodyta
     - t-002
 
 - c-004
+  santrauka: '1700 m. prieš Sapiegas susitelkę būriai iš Lydos ir Ašmenos apylinkių atėjo prie Valkininkų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte
@@ -170,6 +171,7 @@ Nenurodyta
     - t-001
 
 - c-006
+  santrauka: 'Valkininkų kautynės baigėsi Sapiegų pralaimėjimu, o jų kariuomenei vadovavęs Mykolas Sapiega buvo apsuptas ir pasidavė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
@@ -196,7 +198,6 @@ Nenurodyta
 - [[objektai/grupes/Rytas]]
 - [[objektai/grupes/Sapiegų kariuomenė]]
 - [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/autoriai/Karolis Zikaras]]

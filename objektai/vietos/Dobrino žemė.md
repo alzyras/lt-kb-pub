@@ -19,13 +19,14 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grįžo atgal.'
+  teiginys: 'Jogailai įsiveržus į Dobrino žemę, kryžiuočiai grįžo atgal.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailai įsiveržus į Dobrino žemę, kryžiuočiai grįžo atgal.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­

@@ -39,7 +39,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - t-002
   teiginys: 'Vilnius buvo vadinamas vienos galingiausių Šiaurės Europos šalių sostine ir svarbiausiu Lietuvos mokslo bei valdžios centru.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-003
   teiginys: 'Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus.'
@@ -47,9 +47,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-001
 
 - t-004
-  teiginys: ') griežtomis priemonėmis pakirto jos rytietiškos santvarkos šaknis ir išvedė ją į europėjamąjį kelią.'
+  teiginys: 'Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-005
   teiginys: '1429 m., praėjus dvidešimt metų nuo Kėzmarko suvažiavimo, beveik užmirštas klausimas vėl sujudino Europą.'
@@ -57,14 +57,14 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-002
 
 - t-006
-  teiginys: 'Praėjus dvidešimt metų nuo Kėzmarko su­ važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į viešumą ir sujudinti visą Europą.'
+  teiginys: '1429 m. beveik užmirštas Vytauto karūnos klausimas vėl iškilo į viešumą ir sujudino Europą.'
   pagrindžia:
-    - c-006
+    - c-002
 
 - t-007
   teiginys: 'Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-008
   teiginys: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
@@ -101,6 +101,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   statusas: verified
   pagrindžia:
     - t-005
+    - t-006
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -162,68 +163,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Antologija. I knyga
-    Teodoras Narbutas
-    Lietuvių tautos istorija, VI tomas
-    Laima Petrusevičiūtė-Sjur
-    AL K . Čiurlionis ir E. M unchas:_ Melancholija ir šviesa
-    Stasys Šalkauskis
-    Raštai, IX tomas
-    Vincas Vyčinas
-    Raštai, III tomas
-
-    ## Puslapis 496
-
-    MYKOLAS BALINSKIS
-    galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki
-    mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios centras
-    Lietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš įvairių • -
-    kronikų ir senųjų, archyvuose saugomų rankraščių išrinkti
-    padavimus, bylojančius apie Vilniaus kilmę, tas teises ir
-    daugybę privilegijų^ kuriomis'j o gyv
-    naudojosi, ne tik atgaivinti amžinin
-    nius, keleto amžių, įvykius toje sosti
-    ir galimybės man leido, prisidt
-    Lietuvos istorijos įvykių aiškinim
-    mums patiems, o Europai visai neg
-    • riterių žygiais ir išmintingiausia Mindaugo, Gedimino,
-    Algirdo, Kęstučio, Jogailos ir Vytauto politika,
-    istorija menkame plote išsitenkančios Tautos,
-    kuri pati viena, savosios pagonybės atskirta
-    nuo kitų Europos šalių, vien savo
-    narsos dėka įstengė atremti bai­
-    sius mongolų antpuolius,
-    pažaboti Rusią ir nesileisti
-    pavergiama godžiai
-    grobuoniško
-    Prūsijos Kryžiuočių
-    ordino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautui tada daug
-    labiau nekaip karūna rūpėjo pabaigt mūšio lauke nuolatinius
-    ginčus ir susirėmimus su Ordinu, kuris jau nuo seno nedavė
-    Lietuvai ramybės. Praėjus dvidešimt metų nuo Kėzmarko su­
-    važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į
-    viešumą ir sujudinti visą Europą. Tai atsitiko 1429 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-007
+- c-005
+  santrauka: 'Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Energingasis Petras I Didysis
@@ -239,7 +182,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-004
 
-- c-008
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valstybė aukštosioms mokykloms užtikrino autonomi-

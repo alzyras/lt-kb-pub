@@ -43,13 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­ doms] - spaudmenims, popieriui, atlyginimams, rinkėjams ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau kaip 20 žmonių maitinimui.'
+  teiginys: 'Spaustuvė kas savaitę privalėjo skirti alaus, po 8 kepalus duonos 8 asmenims ir valgį iš kolegijos virtuvės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Spaustuvė kas savaitę privalėjo skirti alaus, po 8 kepalus duonos 8 asmenims ir valgį iš kolegijos virtuvės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Spaustuvės lėšas sudaro pajamos, gautos už parduotas
@@ -75,6 +76,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Duona]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/daiktai/Spaustuvės]]
 - [[objektai/zodynas/oxeft]]
 - [[objektai/daiktai/Spaustuvės išlaikymo alaus statinė ir duonos kepalai]]

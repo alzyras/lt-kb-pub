@@ -23,13 +23,14 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
     - c-002
 
 - t-002
-  teiginys: 'Šioje knygoje visai tikrai atvaizduotos visos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­ kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku žmonijos širdį.'
+  teiginys: 'Posakis ragino perskaityti knygą, kurioje vaizduotos Didžiojo karo baisybės: atakos, nuodingos dujos, tankai ir mirtis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posakis ragino perskaityti knygą, kurioje vaizduotos Didžiojo karo baisybės: atakos, nuodingos dujos, tankai ir mirtis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šią knygą skaito visas pasaulis, jos jau kitomis kalbomis išpirk­

@@ -25,13 +25,14 @@ Su skausmu ir pa­ sibaisėjimu tenka pripažinti, kad 1828 metais tuometinė Ra
 ## Teiginiai
 
 - t-001
-  teiginys: 'Su skausmu ir pa­ sibaisėjimu tenka pripažinti, kad 1828 metais tuometinė Radvilų prokuratorija, pro pirštus žiūrėdama į lietuviams brangius dingusios di­ dingos praeities paminklus, atėmė iš miesto ir krašto, ir taip nedaug se­ novinių paminklų teturinčio.'
+  teiginys: '1828 m. Radvilų prokuratorija pardavė Barboros rūmų griuvėsius už 500 sidabrinių rublių plytoms.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1828 m. Radvilų prokuratorija pardavė Barboros rūmų griuvėsius už 500 sidabrinių rublių plytoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar prieš kelerius metus Vilnių puo­

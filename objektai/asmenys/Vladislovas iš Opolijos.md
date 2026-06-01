@@ -19,13 +19,14 @@ Kandidatu į jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo, dar
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kandidatu į jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo, dar Vladislovas iš Opolijos, kadaise mylimas karaliaus Liudviko, bet lenkams jis nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­ lezijos kunigaikščių giminės; reiškė savo pretenzijas.'
+  teiginys: 'Vladislovas iš Opolijos buvo kandidatas į Jadvygos vyrus, bet lenkams nepatiko dėl kilmės iš Silezijos kunigaikščių giminės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vladislovas iš Opolijos buvo kandidatas į Jadvygos vyrus, bet lenkams nepatiko dėl kilmės iš Silezijos kunigaikščių giminės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dabar tam „jaunam karaliui“ reikėjo paieškoti atitinkamo

@@ -73,5 +73,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]

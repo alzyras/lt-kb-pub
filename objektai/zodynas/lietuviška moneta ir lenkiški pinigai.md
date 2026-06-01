@@ -27,7 +27,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 ## Teiginiai
 
 - t-001
-  teiginys: 'In Anno 1572 ad Diem 17 Aprilis [1572 metais iki balandžio 17 dienos] A die 1 Januarii ad 9 Februarii [nuo sausio 1 iki vasario 9 dienos] per tą laiką Varšuvoje pakeičiau lietuviškas mone­ tas į lenkiškus pinigus - 164 zl., 36 gr.'
+  teiginys: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus už 164 auksinus ir 36 grašius.'
   pagrindžia:
     - c-003
 
@@ -37,13 +37,14 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     - c-002
 
 - t-003
-  teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
+  teiginys: 'Žygimantas Augustas įsakė lietuvišką monetą, kurios vertė buvo du lietuviški grašiai, priimti už pustrečio lenkiško grašio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Augustas įsakė lietuvišką monetą, kurios vertė buvo du lietuviški grašiai, priimti už pustrečio lenkiško grašio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Fol. —  369-
@@ -104,6 +105,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     - t-002
 
 - c-003
+  santrauka: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus už 164 auksinus ir 36 grašius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     In Anno 1572 ad Diem 17 Aprilis
@@ -131,4 +133,5 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 - [[objektai/zodynas/suma]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
-- [[objektai/zodynas/kalykla, ediktas ir konstitucija pinigų potvarkyje]]
+- [[objektai/daiktai/Monetos]]
+- [[objektai/zodynas/grašis]]

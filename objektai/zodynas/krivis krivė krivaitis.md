@@ -19,7 +19,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—luominis vyriausiojo žynio vardas (Būga K., 1, p. 170—179; 2, 79; Топоров B.'
+  teiginys: 'Krivis arba krivaitis aiškinamas kaip luominis vyriausiojo žynio vardas.'
   pagrindžia:
     - c-001
 
@@ -41,6 +41,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krivis arba krivaitis aiškinamas kaip luominis vyriausiojo žynio vardas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     205 D. Criwe, Jer. der obriste êwarte, t. y. vyriausiasis kunigas (ar teisėjas). Krivis
@@ -107,6 +108,3 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 - [[objektai/autoriai/Kosman М]]
 - [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/Negęstančiosios ugnies garbinimas]]
-- [[objektai/autoriai/Иванов В. В]]
-- [[objektai/autoriai/Топоров B. H]]

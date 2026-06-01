@@ -26,12 +26,12 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuvos istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­ nomas).'
+  teiginys: 'Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­ jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­ tolių už 60 000 sidabro luitų.'
+  teiginys: 'Dinaburgo komtūro laiške teigiama, kad Vilniaus gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų.'
   pagrindžia:
     - c-003
 
@@ -59,6 +59,7 @@ amziai:
     - t-003
 
 - c-002
+  santrauka: 'Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos
@@ -97,6 +98,7 @@ amziai:
     - t-001
 
 - c-003
+  santrauka: 'Dinaburgo komtūro laiške teigiama, kad Vilniaus gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gertrūdą.

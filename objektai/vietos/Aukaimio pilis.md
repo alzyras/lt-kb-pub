@@ -39,7 +39,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino. Trisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo, o brolis Henrikas iš Volferštorfo pateko į.'
+  teiginys: 'Kariuomenės dalis nusiaubė Aukaimio pilies apylinkes, daug žmonių išžudė arba paėmė į nelaisvę.'
   pagrindžia:
     - c-007
 
@@ -178,6 +178,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - t-006
 
 - c-007
+  santrauka: 'Kariuomenės dalis nusiaubė Aukaimio pilies apylinkes, daug žmonių išžudė arba paėmė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir

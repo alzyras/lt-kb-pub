@@ -45,12 +45,12 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tas slėnis, vadintas Šventaragio, buvo skirtas aukurui, ant kurio pagal lietuvių pagonių papročius degin­ davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­ kimu tarnu, šunimis ir žirgu.'
+  teiginys: 'Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Ro­ gus, reiškia Aukurą, vietą deginti ir laidoti mirusiųjų kūnams.'
+  teiginys: 'Lotyniškas žodis „rogus“ reiškė aukurą, skirtą mirusiųjų kūnams deginti ir laidoti.'
   pagrindžia:
     - c-003
 
@@ -78,6 +78,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ties ta
@@ -100,6 +101,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Lotyniškas žodis „rogus“ reiškė aukurą, skirtą mirusiųjų kūnams deginti ir laidoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
@@ -134,4 +136,5 @@ Nenurodyta
 - [[objektai/zodynas/Romuva krivis]]
 - [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]
 - [[objektai/daiktai/Torielius]]
+- [[objektai/asmenys/Šventaragis]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]

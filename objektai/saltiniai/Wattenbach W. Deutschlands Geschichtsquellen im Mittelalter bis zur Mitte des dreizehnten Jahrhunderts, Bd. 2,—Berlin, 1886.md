@@ -25,13 +25,14 @@ Dusburgietis teigia, kad wattenbach W.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad wattenbach W.'
+  teiginys: 'W. Wattenbacho „Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts“ antras tomas išleistas Berlyne 1886 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'W. Wattenbacho „Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts“ antras tomas išleistas Berlyne 1886 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des

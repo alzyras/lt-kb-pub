@@ -26,18 +26,19 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą.'
+  teiginys: 'Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv.'
+  teiginys: '1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daugelis jų garsėjo su­
@@ -54,6 +55,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     - t-002
 
 - c-002
+  santrauka: 'Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pa-

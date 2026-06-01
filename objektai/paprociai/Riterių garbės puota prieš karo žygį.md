@@ -47,13 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėjus prie upės pavadinimo priešdėlį -pa: pvz.: Paširvintys - nuo Širvintos upės; Pamerkys - nuo Mer­ kio upės; Pamusiai - nuo Musės upės; Panevėžys - nuo Nevėžio; Pa­ dubysis - nuo.'
+  teiginys: 'Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anglija, Škotija ir Prancūzija gerokai papildė sa-
@@ -139,3 +140,5 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Škotai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Prancūzai]]

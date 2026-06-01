@@ -41,11 +41,6 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '- publicnote: - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean - vietasaltinyje: offset: 55782-56563; match: exact - santrauka: Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.'
-  pagrindžia:
-    - c-003
-
-- t-002
   teiginys: 'Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas.'
   pagrindžia:
     - c-002
@@ -64,7 +59,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -83,50 +78,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    citata_originali: |
-        Įrankiais jų linksmybės buvo ilgi, iš trijų skilų sudėti apvalūs medžio trūbai^551 , nuokamieni^552 ir truputį pakumpi, per pusantro sieksnio ilgi, stipriai sukibyti^553 , nukaišti ir laibai tošėmis nuvyturti, kuriuos t vadino trimitais, jog iš trijų dalių buvo sudėti; tais trūbais skatino kareivius į kovą kariaudami, pūtė aukas dievams aukaudarni, nabaštikus^554 laidodami, kaip viršiau minavojau; vadino juos dar sutartiniais nuo to, jog vieni trūbijo^555 , o kiti atlieptinai dainavo sueimuose^556 :
-
-    ## items-troba-svetlycia-001
-    - status: unused
-    - claim_role: new_claim
-    - kategorija: daiktas
-    - kandidatas: Troba / svetlyčia
-    - potencialus_teiginys: Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 55782-56563; match: exact
-    - santrauka: Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        Ketvirtasis trobesys buvo trobos, arba svetlyčia, kame svečius žiemą vaišino, taip pat
-        pailguotinas ketvirtainis, kurio gyvenamasis galas visados buvo į rytus ar pietus atsuktas; it pusėj
-        šalinių sienų buvo kiaurai dvejos durys, didžiosios nuo pietų ar rytų, mažosios nuo užpakalio;
-        tarp tų durų ėjo skersai dvi sieni, kuriedvi jungė abi šalini trobos sieni, tiedvi skersini sieni buvo
-        sujungti siena prieš didžiąsias duris taip, jog dvi dali ertmės paliko mažosioms durims, o trečioji
-        didžiosioms; rūme pas mažąsias duris vadinos virenė, arba kuknė^221 , o rūme pas didžiąsias duris
-        vadinos priemenė nuo žodžio pirma minti, kurioje buvo trejos durys be didžiųjų, beje; vienos į
-        kuknę, antros į trobą, o trečiosios į priešininkę^222 , nuo žodžio prieš, jog prieš trobos duris buvo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/daiktai/Trimitai]]
-- [[objektai/daiktai/Troba]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/zodynas/Liuosybė|liuosybė]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/Sutartinės|sutartinės]]
 - [[objektai/zodynas/Karmūšų|karmūšų]]

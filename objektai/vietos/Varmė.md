@@ -26,14 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­ kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo miręs), kartu su savo diecezijos klebonais Elblionge bemat surengė pasitarimą ir.'
+  teiginys: 'Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu.'
@@ -43,20 +43,20 @@ amziai:
 - t-004
   teiginys: 'Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį.'
   pagrindžia:
-    - c-007
+    - c-004
 
 - t-005
   teiginys: 'XIV a. buvo įkurti beveik visi Varmės miestai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-006
   teiginys: 'Varmės bažnyčios kapitula prašė pripažinti galiojančiu Fabijono paskyrimą Varmės vyskupu.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-007
-  teiginys: '1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai.'
+  teiginys: 'XIV amžiuje buvo įkurti beveik visi Varmės miestai.'
   pagrindžia:
     - c-002
 
@@ -92,8 +92,10 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
+    - t-006
 
 - c-002
+  santrauka: 'XIV amžiuje buvo įkurti beveik visi Varmės miestai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Teutonų
@@ -111,27 +113,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Teutonų
-    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
-    gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­
-    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
-    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
-    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
-    bemaž visi Varmės miestai.
-    Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
-    amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
-    kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
@@ -148,37 +132,8 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1514.
-    374
-
-    ## Puslapis 391
-
-    IV KNYGA
-    I
-    \
-    Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsda-
-    mi kelią būsimiems sunkumams, sutikome su Varmės baž­
-    nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­
-    tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono
-    paskyrimą dabartiniu Varmės vyskupu, pateikiame kai ku­
-    riuos artikulus, kuriais numatoma, kad ateityje kokiu nors
-    būdu esant vakuojančiai vietai, vyskupas privalo būti išrink­
-    tas be mūsų ir mūsų įpėdinių nesutarimų su kapitula. No­
-    rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus,
-    kas pakenktų bažnyčios, kurios globėjas mes esame, padė­
-    čiai ir kad tokios rūšies teiginiai, išdėstyti į artikulus, pritarus
-    šventajam Apaštalų Sostui, būtų tvirti ir nekeičiami, nutarė­
-    me išrūpinti Šventojo Tėvo patvirtinimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-006
+- c-004
+  santrauka: 'Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -206,32 +161,4 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I  KNYGA
-    čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
-    žinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t.
-    Nors popiežiaus buvo primygtinai prašoma, kad savo ga­
-    nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
-    gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
-    gal to priežastis buvo naujesnės žinios iš Prūsijos.
-    Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
-    pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­
-    kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo
-    miręs), kartu su savo diecezijos klebonais Elblionge bemat
-    surengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­
-    gos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­
-    gistrui ir visam Ordinui, Danijos karaliaus vietininkui ir
-    visiems Livonijos bei Estijos didikams ir vasalams, daly­
-    vavusiems taikos sutartį sudarant, ir paskelbė tą sutartį
-    esant velnio žabangomis, visam krikščioniškajam pasau­
-    liui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­
-    myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
-    tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004

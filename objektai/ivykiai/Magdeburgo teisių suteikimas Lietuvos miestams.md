@@ -55,7 +55,7 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Vytautas kėlė Lietuvos prekybą ir kitais būdais, būtent, pa­ laikydamas miestus bei suteikdamas jiems daugiau laisvės Mag­ deburgo miesto pavyzdžiu.'
+  teiginys: 'Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu.'
   pagrindžia:
     - c-002
 
@@ -77,6 +77,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas kėlė Lietuvos prekybą ir kitais būdais, būtent, pa­

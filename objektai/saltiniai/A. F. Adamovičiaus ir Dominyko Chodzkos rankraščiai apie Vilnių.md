@@ -19,13 +19,14 @@ Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums brangių Kra
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums brangių Kraševskio ir Balinskio veikalų apie Vilnių, Vilniaus universiteto profesoriaus Mykolo Homolickio mokslinių straips­ nių, Narbuto, Kraševskio ir Jaroševičiaus Lietuvos istorijų <...'
+  teiginys: 'Rengiant Vilniaus istoriją naudotasi A. F. Adamovičiaus ir Dominyko Chodzkos sukauptais rankraščiais, užrašais ir asmeninėmis pastabomis apie Vilnių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rengiant Vilniaus istoriją naudotasi A. F. Adamovičiaus ir Dominyko Chodzkos sukauptais rankraščiais, užrašais ir asmeninėmis pastabomis apie Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums

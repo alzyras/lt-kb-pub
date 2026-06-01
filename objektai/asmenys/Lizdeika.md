@@ -26,13 +26,14 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 ## Teiginiai
 
 - t-001
-  teiginys: '3 Dabartinė katedros varpinė, anot Lietuvos kronikininkų ir vietos žmo­ nių padavimų, buvęs tas pats bokš­ tas, iš kurio Lizdeika ir jo pirmtakai iškilmingai pasirodydavę Vilniaus pagonims paskelbti blogos ar geros pranašystės.'
+  teiginys: 'Lizdeika padavimuose vaizduojamas kaip nuo katedros varpinės Vilniaus pagonims skelbęs geras ar blogas pranašystes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lizdeika padavimuose vaizduojamas kaip nuo katedros varpinės Vilniaus pagonims skelbęs geras ar blogas pranašystes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2
@@ -73,3 +74,4 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
+- [[objektai/paprociai/Žynio sapno aiškinimas ir aukojimas prieš miesto statybą]]

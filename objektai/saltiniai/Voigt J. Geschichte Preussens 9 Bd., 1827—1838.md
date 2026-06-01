@@ -27,13 +27,14 @@ Dusburgietis teigia, kad voigt J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad voigt J.'
+  teiginys: 'J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Voigt J. Geschichte Preussens: 9 Bd., 1827—1838.— Königsberg.— Bd. 1, 1827; Bd.

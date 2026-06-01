@@ -51,42 +51,27 @@ Nenurodyta
 - t-001
   teiginys: 'X–XI a. dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Dviašmenis kalavijas X–XI a. buvo paplitęs Vakarų Europoje.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    *  X-Xla. Vakarų Europoje paplitęs
-    E dviašmenis kalavijas. Tokio tipo
-
-    Ž | kalavijų randama ir to laikotarpio
-    1= kapuose Lietuvoje
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-    - t-001
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 23, Tik Lietuvai būdingi dvinariai žąslai su skersinukais. Rusiai. vDKM, Artūro Užgalio nuotr.
@@ -98,7 +83,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     *  X-Xla. Vakarų Europoje paplitęs
@@ -118,31 +103,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    *  X-Xla. Vakarų Europoje paplitęs
-    E dviašmenis kalavijas. Tokio tipo
-
-    Ž | kalavijų randama ir to laikotarpio
-    1= kapuose Lietuvoje
-
-    Lietuvoje karių
-    kapuose rastos
-    sidabruotos
-    geležinės
-    XI-XIII a.
-    balnakilpės
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
+    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Balnakilpės]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]

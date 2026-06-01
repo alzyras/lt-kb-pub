@@ -28,13 +28,14 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui.'
+  teiginys: 'Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad jau

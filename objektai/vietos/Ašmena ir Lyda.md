@@ -17,13 +17,14 @@ Seniau Rūdninkų girios išties buvo ne­ peržengiamos ir žmonių neištirtos
 ## Teiginiai
 
 - t-001
-  teiginys: 'Seniau Rūdninkų girios išties buvo ne­ peržengiamos ir žmonių neištirtos, nes žemvaldžių miškuo­ se, nuo Rūdninkų link Ašmenos ir Lydos besidriekiančiuo­ se, kaip ir pas mane, Jašiūnuose, kur ne kur stūkso pilkapiai - nenuginčijami žmonių gyvenimo nuo.'
+  teiginys: 'Miškuose nuo Rūdninkų link Ašmenos ir Lydos buvo pilkapių, laikytų seniausiais žmonių gyvenimo pėdsakais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Miškuose nuo Rūdninkų link Ašmenos ir Lydos buvo pilkapių, laikytų seniausiais žmonių gyvenimo pėdsakais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pati vietovė, su­

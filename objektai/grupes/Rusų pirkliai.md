@@ -20,18 +20,19 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mat rašo, jog svečiai, tai yra, rusų pirkliai, atvykstantys su savo prekėmis į Vilnių, apsistoja įvairiuose namuose mieste, kur no­ ri, be jokio prisistatymo, o paskui, prekiaudami su vokiečiais ir kitais svetimšaliais pirkliais, niekam ne­ pranešę.'
+  teiginys: 'Rusų pirkliai Vilniuje anksčiau apsistodavo įvairiuose namuose, neprisistatydavo ir išvykdavo niekam nepranešę.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
+  teiginys: 'Rusų pirkliai, atvykę į Vilnių, privalėjo apsistoti Svečių namuose, sumokėti prekių muitą ir pranešti pilininkui.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusų pirkliai Vilniuje anksčiau apsistodavo įvairiuose namuose, neprisistatydavo ir išvykdavo niekam nepranešę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     44
@@ -58,6 +59,7 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
     - t-001
 
 - c-002
+  santrauka: 'Rusų pirkliai, atvykę į Vilnių, privalėjo apsistoti Svečių namuose, sumokėti prekių muitą ir pranešti pilininkui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
@@ -86,3 +88,4 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
 - [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]
 - [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje]]
 - [[objektai/zodynas/svečiai Svečių namai]]
+- [[objektai/zodynas/Pilininkas]]

@@ -26,7 +26,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnamečiu savo sūnumi Vosylių II ir, pildydama savo mirusio vyro valią, prašė paimti sūnų savo globon, paliekant jam jo valstybę^2 ).'
+  teiginys: 'Sofija buvo vyriausioji Dimitro Doniečio dukteris, kurią pagal 1384 m. susitarimą turėjo vesti Jogaila.'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sofija buvo vyriausioji Dimitro Doniečio dukteris, kurią pagal 1384 m. susitarimą turėjo vesti Jogaila.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nors sutarčių originalai yra
@@ -77,12 +78,8 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- [[objektai/asmenys/Kaributas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Ringailė]]
-- [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Spycinas]]

@@ -47,7 +47,7 @@ Nenurodyta
 - t-001
   teiginys: 'Pirmieji krikščioniški Lietuvos valdovai patys organizavo kryžiaus žygius prieš totorius.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Jau pirmieji krikščioniški Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes christiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
@@ -57,39 +57,21 @@ Nenurodyta
 - t-003
   teiginys: 'Vytautas ir pats buvo reagavęs į Serbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu 1399 m. prie Vorsklos.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-004
-  teiginys: 'Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti žūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civilizaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai.'
+  teiginys: 'Pirmieji krikščioniški Lietuvos valdovai patys pradėjo organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-005
   teiginys: 'Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, kuris 1399 m. baigėsi pralaimėjimu prie Vorsklos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-
-    zaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai palikę tik
-    barjero tarp Rytų ir Vakarų vaidmenį. Jau pirmieji krikščioniški
-    Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
-    tiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,
-    formuodami „antemurale Christianitatis“ ideologiją. Garsiajame
-    Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
-    Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
-    imperijos keliamo pavojaus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jau pirmieji krikščioniški
@@ -108,25 +90,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-
-    zaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai palikę tik
-    barjero tarp Rytų ir Vakarų vaidmenį. Jau pirmieji krikščioniški
-    Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
-    tiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,
-    formuodami „antemurale Christianitatis“ ideologiją. Garsiajame
-    Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
-    Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
-    imperijos keliamo pavojaus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Garsiajame
@@ -145,7 +109,8 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-005
+- c-003
+  santrauka: 'Pirmieji krikščioniški Lietuvos valdovai patys pradėjo organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti
@@ -165,6 +130,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -174,5 +141,4 @@ Nenurodyta
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Švitrigaila]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/posakiai/Antemurale Christianitatis]]

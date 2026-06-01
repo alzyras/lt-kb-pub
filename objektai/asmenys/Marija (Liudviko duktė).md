@@ -42,5 +42,6 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Marija]]
 - [[objektai/zodynas/ciesorius]]

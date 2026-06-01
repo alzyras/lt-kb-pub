@@ -25,13 +25,14 @@ Dusburgietis teigia, kad tarvydas S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tarvydas S.'
+  teiginys: 'S. Tarvydas 1967 m. paskelbė straipsnį apie vakarinių lietuvių genčių teritorijų istorinius-geografinius landšaftus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Tarvydas 1967 m. paskelbė straipsnį apie vakarinių lietuvių genčių teritorijų istorinius-geografinius landšaftus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tarvydas S. Vakarinių lietuvių genčių teritorijos istoriniai-geografiniai landšaftai.—

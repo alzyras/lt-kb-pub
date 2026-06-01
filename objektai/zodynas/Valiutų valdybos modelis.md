@@ -17,13 +17,14 @@ Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl naciona
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lito susiejimą su JAV doleriu ekonomistai laikė vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų.'
+  teiginys: 'Pagal 1994 m. pradėtą taikyti valiutų valdybos modelį litas buvo susietas su JAV doleriu santykiu 4 litai už 1 dolerį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagal 1994 m. pradėtą taikyti valiutų valdybos modelį litas buvo susietas su JAV doleriu santykiu 4 litai už 1 dolerį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     BVP didėjo. Nuo 1993 m.

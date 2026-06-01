@@ -56,54 +56,41 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - t-001
   teiginys: 'Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui.'
   pagrindžia:
-    - c-001
+    - c-006
 
 - t-002
   teiginys: 'Algirdas ir Maskvos kunigaikštis siekė savo valstybės ribose išlaikyti ar atnaujinti atskirą arkivyskupo-metropolito sostą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: '1354 m. Konstantinopolio patriarchas paskyrė Lietuvos žemių metropolitą Romaną.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Lietuvos stačiatikių žemės vėl buvo pajungtos visos Rusijos metropolitui.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
   teiginys: '1375 m. Lietuvos stačiatikių metropolitu buvo paskirtas Kiprijonas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-007
-  teiginys: 'Lietuvos metropolijos Gediminui nepasisekė išlai­ kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo metropolito Teognosto.'
+  teiginys: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos metropolijos Gediminui nepasisekė išlai­
-    kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo
-    metropolito Teognosto. Šio intrygų ir sudarytų kliūčių siūlai vedė
-    į Maskvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kiekvienas iš veiklių varžovų, norėdamas nurungti
@@ -118,7 +105,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagaliau jam pasi­
@@ -131,7 +118,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Konstan­
@@ -148,7 +135,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Algirdas 1370 smarkiai
@@ -163,7 +150,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   pagrindžia:
     - t-005
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Naugarde,
@@ -180,7 +167,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   pagrindžia:
     - t-006
 
-- c-007
+- c-006
+  santrauka: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
@@ -193,6 +181,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   statusas: verified
   pagrindžia:
     - t-007
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -224,7 +213,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - [[objektai/asmenys/Jurgis Cemblakas]]
 - [[objektai/autoriai/Karamzin]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/grupes/Katalikų bažnyčia katalikai]]
 - [[objektai/asmenys/Kiprijonas]]
 - [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
 - [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
@@ -247,4 +235,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]
 - [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
+- [[objektai/grupes/Maskvos metropolitai]]
+- [[objektai/zodynas/metropolitas metropolija]]
 - [[objektai/zodynas/pravoslavai]]

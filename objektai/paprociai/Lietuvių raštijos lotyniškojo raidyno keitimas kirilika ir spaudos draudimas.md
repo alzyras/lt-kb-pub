@@ -92,4 +92,3 @@ Nenurodyta
 - [[objektai/zodynas/kirilika]]
 - [[objektai/asmenys/M. Muravjovas]]
 - [[objektai/asmenys/Michailas Muravjovas]]
-- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

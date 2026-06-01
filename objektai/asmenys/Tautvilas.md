@@ -32,7 +32,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - t-001
   teiginys: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.'
@@ -40,9 +40,9 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - c-001
 
 - t-003
-  teiginys: 'Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­ das, o Vitebske jų dėdė, motinos brolis, Vikintas.'
+  teiginys: 'Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-004
   teiginys: 'Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.'
@@ -50,9 +50,9 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - c-003
 
 - t-005
-  teiginys: 'Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34.'
+  teiginys: 'Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
   teiginys: 'Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas.'
@@ -92,47 +92,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-006
 
 - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Il KNYGA
-    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
-    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
-    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­
-    toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie
-    Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­
-    čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
-    fas Algardas34. Šitaip Kryžiuočių ordino kruvina politika
-    34
-    Strijkovskis prie nukautų tos
-    apsupties metu priskiria Nariman­
-    tą, įdėdamas šį D 1  u g o š o prasi­
-    manytą pasakojimą: „Narimantas,
-    Pinsko kunigaikštis, Jogailos tikras
-    brolis, tuo metu, kai narsiai abi pilis
-    su Lietuva ir Rusia gindamas ėjo į
-    pagalbą nuo vienų prie kitų, buvo
-    kažkokio vokiečio riterio, ne pras­
-    čioko, iš Vytauto pusės, iškviestas
-    stoti vienas prieš vieną, o kai abu iš
-    mūšio lauko atjoję į pievą narsiai su­
-    kryžiavo ietis, ir pats Narimantas,
-    nuo žirgo nublokštas, buvo sučiup­
-    tas ir atvestas pas Vytautą, pastara­
-    sis aną be gailesčio įsakė už kojų ant
-    vinkšnos šakos pakarti lankoje, tarp
-    vokiečių patrankų ir šaudyklių, o
-    patį mirtinai iš lanko paleista strėle
-    pervėrė, pamindamas deramas pus­
-    broliui, riteriui kunigaikščiui, prie­
-    dermes/7  Knyga XIII, p. 455, Varš.
-    leid.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
+  santrauka: 'Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - • —
@@ -177,8 +137,9 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   statusas: verified
   pagrindžia:
     - t-005
+    - t-004
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dalis jo šalininkų
@@ -192,7 +153,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
+  santrauka: 'Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jau jis prijungė Lietuvai trikampį plotą tarp Gardino, L. Bras­

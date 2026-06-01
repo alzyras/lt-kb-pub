@@ -26,7 +26,7 @@ amziai:
     - c-003
 
 - t-002
-  teiginys: ', kai Lietuvos bajorija bendrai pradėjo save kildinti iš romėnų.'
+  teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu bajorijai savo kilmę sieti su Palemono tradicija.'
   pagrindžia:
     - c-002
 
@@ -65,6 +65,7 @@ amziai:
     - t-003
 
 - c-002
+  santrauka: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu bajorijai savo kilmę sieti su Palemono tradicija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi politinės tautos genezės jau galima ieško-

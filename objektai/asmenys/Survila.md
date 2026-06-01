@@ -26,7 +26,7 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė.'
+  teiginys: '1365 m. Survila, artimas Kęstučio sūnaus Butauto giminaitis, pabėgo ir Karaliaučiuje buvo pakrikštytas.'
   pagrindžia:
     - c-003
 
@@ -77,6 +77,7 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     - t-002
 
 - c-003
+  santrauka: '1365 m. Survila, artimas Kęstučio sūnaus Butauto giminaitis, pabėgo ir Karaliaučiuje buvo pakrikštytas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir todėl, nepaisant viso Algirdo veiklumo, Lietuvos sos­

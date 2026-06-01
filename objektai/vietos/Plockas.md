@@ -29,7 +29,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82.'
+  teiginys: '1386 m. Šv. Jono bažnyčią per iškilmes pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.'
   pagrindžia:
     - c-001
 
@@ -41,6 +41,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1386 m. Šv. Jono bažnyčią per iškilmes pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-

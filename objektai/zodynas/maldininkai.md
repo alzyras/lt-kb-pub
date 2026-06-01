@@ -31,9 +31,9 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad padrąsintas dieviškojo apreiškimo ir užsidegęs karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė.'
+  teiginys: 'Maldininkai 1096 m. užėmė Jeruzalę ir daugelį kitų miestų bei pilių, išvaduodami juos iš netikėlių rankų.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
@@ -51,11 +51,6 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
     - c-004
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.'
-  pagrindžia:
-    - c-005
-
-- t-006
   teiginys: 'Dusburgietis teigia, kad neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.'
   pagrindžia:
     - c-001
@@ -80,7 +75,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -138,24 +133,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
     - t-004
 
 - c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
-    iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei
-    ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė
-    prieš tikėjimo priešus, nes ledas buvo plonas.
-
-
-
-
-       349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
+  santrauka: 'Maldininkai 1096 m. užėmė Jeruzalę ir daugelį kitų miestų bei pilių, išvaduodami juos iš netikėlių rankų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
@@ -193,14 +171,10 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 ### Susiję objektai
 - [[objektai/asmenys/Fridrichas]]
 - [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Saracėnai]]
 - [[objektai/asmenys/Simeonas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/vėliava]]
@@ -216,8 +190,6 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - [[objektai/ivykiai/Grafo iš Barbio žygis į Sembą ir pralaimėjimas]]
 - [[objektai/asmenys/Henrikas iš Svarcburgo]]
 - [[objektai/asmenys/Henrikas iš Veidos]]
-- [[objektai/autoriai/J. Foigtas]]
-- [[objektai/posakiai/Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,]]
 - [[objektai/asmenys/Jeronimas]]
 - [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]
@@ -242,7 +214,6 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.)]]
 - [[objektai/grupes/Templininkų ordinas]]
 - [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
-- [[objektai/autoriai/Voigt J]]
 - [[objektai/grupes/Vokietijos maldininkai]]
 - [[objektai/zodynas/kuoras propugnaculum pilaitė]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
@@ -250,11 +221,9 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - [[objektai/zodynas/stalininkas]]
 - [[objektai/asmenys/Štenkelis iš Bentheimo]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/asmenys/Henrikas iš Lichtenšteino]]
 - [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]
 - [[objektai/daiktai/Religinės relikvijos]]
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]
 - [[objektai/asmenys/Elžbieta]]
-- [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]]
 - [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
-- [[objektai/asmenys/Petras iš Rozenbergo]]
-- [[objektai/asmenys/Pilypas]]

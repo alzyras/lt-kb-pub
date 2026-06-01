@@ -36,7 +36,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus.'
+  teiginys: 'Per Brunsbergo pilies ir miesto apsiaustį prūsai visą dieną puolė, bet miestiečiai ir pilėnai pasipriešino, todėl užpuolikai pasitraukė.'
   pagrindžia:
     - c-001
 
@@ -48,6 +48,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Brunsbergo pilies ir miesto apsiaustį prūsai visą dieną puolė, bet miestiečiai ir pilėnai pasipriešino, todėl užpuolikai pasitraukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
@@ -87,3 +88,4 @@ Nenurodyta
 - [[objektai/zodynas/Ordino brolis]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/daiktai/Vežimai]]
+- [[objektai/zodynas/apsiaustis]]

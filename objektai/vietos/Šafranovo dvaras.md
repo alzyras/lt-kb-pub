@@ -32,7 +32,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 - t-002
   teiginys: 'Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo ežerą, per Miastros ežerą, Bliados ežero rytų šonu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -56,24 +56,4 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    12 d. Maskvoje. Rusija pripažino Lietuvos atsiskyrimą
-    ir visišką jos nepriklausomybę lietuvių gyvenamoje teritorijoje
-    su Vilniaus sostine ir Gardinu.
-    Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant
-    Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per
-    Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo
-    ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,
-    toliau Ušos ir Buchovkos upėmis, per Modolečną, pro Voložino
-    miestą, Voložinkos, Isločės ir Beržūnės upėmis, paskum Nemunu,
-    Svisločės intaku, Lašos upe, pro Induros miestelį, Induros upe, toliau
-    pro Sidros miestelį, Kamenos upe ir pagaliau Gorodniankos upe ligi
-    Bobro upės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

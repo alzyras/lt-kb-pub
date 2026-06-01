@@ -20,13 +20,14 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas.'
+  teiginys: 'Pasakojime apie Baigos pilį magistrą ramino Dovydo žodžiai „Tegul tas dalykas neatima iš tavęs drąsos“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pasakojime apie Baigos pilį magistrą ramino Dovydo žodžiai „Tegul tas dalykas neatima iš tavęs drąsos“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     19. Apie Baigos pilį

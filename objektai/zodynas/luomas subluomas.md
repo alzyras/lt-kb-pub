@@ -66,4 +66,3 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/paprociai/Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]

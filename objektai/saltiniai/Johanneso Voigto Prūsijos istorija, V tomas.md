@@ -18,13 +18,14 @@ Dabartinis iš tiesų visiškai skiriasi nuo pirmesniojo, kurio klaidas stengėm
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dabartinis iš tiesų visiškai skiriasi nuo pirmesniojo, kurio klaidas stengėmės ištai­ syti, remdamiesi naujais, vėliau ap­ tiktais šaltiniais, būtent: F o i g t o naujai išleistos Prūsijos istorijos T.'
+  teiginys: 'Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To įsidėmėtino žygio į Vilnių apra­

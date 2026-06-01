@@ -44,7 +44,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad dlugošas žuvusio Mazovijos šaltinio pagrindu kalba ties 1222 m. Vis dėlto įvykių chronologija Dlugošo paankstinta keleriais metais, todėl aptariami įvykiai galėtų sietis su 1224 ar 1225 m. (Długosz J.'
+  teiginys: 'J. Dlugošas Mazovijos nusiaubimą ir Plocko sudeginimą siejo su 1222 m., nors tie įvykiai galėtų būti 1224 ar 1225 m.'
   pagrindžia:
     - c-001
 
@@ -56,6 +56,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Dlugošas Mazovijos nusiaubimą ir Plocko sudeginimą siejo su 1222 m., nors tie įvykiai galėtų būti 1224 ar 1225 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     163  Panašiai apie Mazovijos nusiaubimą ir Plocko sudeginimą J. Dlugošas žuvusio

@@ -47,7 +47,7 @@ Nenurodyta
 - t-002
   teiginys: 'Lietuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo bene pirmą kartą.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: 'M. Valančius ragino kunigus gerbti lietuviškai kalbančią liaudį, mokytis lietuvių kalbos, sakyti lietuviškus pamokslus ir steigti lietuviškas mokyklas.'
@@ -85,6 +85,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -101,26 +102,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Savo pirmąjį inaugura-
-    cinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-
-    tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
-    bene pirmą kartą.
-    M. Valančius pasirūpino, kad
-    kunigai turėtų pagarbų požiūrį į
-    lietuviškai kalbančią liaudį, gerai
-    išmoktų lietuviškai ir sakytų pa-
-    mokslus lietuviškai, davė nurody-
-    mą kunigams prie bažnyčių steigti
-    lietuviškas mokyklas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

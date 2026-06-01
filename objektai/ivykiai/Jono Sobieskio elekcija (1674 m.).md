@@ -95,4 +95,3 @@ Nenurodyta
 - [[objektai/grupes/Prancūziškoji partija]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/hetmonas]]

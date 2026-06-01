@@ -55,9 +55,9 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: 'Zikaro skulptūra (1939 m.) L I E T U V O S I S T O R I J A 118 griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į Lietuvą nesustabdė.'
+  teiginys: 'Valdžios ir žandarų bausmės knygnešiams nesustabdė lietuviškos spaudos srauto į Lietuvą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -76,23 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į
-    Lietuvą nesustabdė. Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose
-    išleista daugiau kaip 1 800 pavadinimų lietuviškų knygų, skirtų platin-
-    ti Didžiojoje Lietuvoje bendru 6 mln. egzempliorių tiražu. Didžiąją dalį
-    lietuviškos spaudos sudarė religinė literatūra ir elementoriai, o į amžiaus
-    pabaigą ėmė gausėti mokslo populiarinimo, politinio turinio ir grožinių
-    kūrinių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Zikaro skulptūra (1939 m.) L I E T U V O S I S T O R I J A 118 griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į Lietuvą nesustabdė.'
+  santrauka: 'Valdžios ir žandarų bausmės knygnešiams nesustabdė lietuviškos spaudos srauto į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors valdžia ir žandarai knygnešius gaudė ir baudė dar
@@ -112,6 +96,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

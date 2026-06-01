@@ -26,9 +26,9 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias, Žemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­ ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­ sirinkimo eigą ir dažnai susirašinėjo su popiež.'
+  teiginys: 'Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstancijos susirinkimo eigą.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
@@ -36,7 +36,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     - c-001
 
 - t-003
-  teiginys: 'Iš pirmųjų trijų vysku­ pijų Vytautas, kaip žinome, norėjo sudaryti nepriklausomą Lie­ tuvos bažnytinę provinciją.'
+  teiginys: 'Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
   pagrindžia:
     - c-003
 
@@ -48,12 +48,12 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 - t-005
   teiginys: 'Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausimas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -90,8 +90,10 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 - c-003
+  santrauka: 'Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš pirmųjų trijų vysku­
@@ -110,22 +112,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     - t-003
 
 - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tokia netikra kelių metų padėtis nepaprastai trukdė kul­
-    tūrišką Vytauto darbą, kuris šiuo laiku buvo labai intensyvus.
-    Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias,
-    Žemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­
-    ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­
-    sirinkimo eigą ir dažnai susirašinėjo su popiež. Martynu V, rė­
-    mė pirklių ir amatininkų reikalus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-005
   santrauka: 'Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -143,7 +129,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   pagrindžia:
     - t-005
 
-- c-006
+- c-005
   santrauka: 'Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -172,3 +158,5 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/posakiai/Gens Lithuanorum]]
+- [[objektai/zodynas/metropolija bažnytinė provincija]]
+- [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija|metropolija bažnytinė provincija bažnytinė unija (unija)]]

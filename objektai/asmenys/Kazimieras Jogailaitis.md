@@ -29,7 +29,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­ do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­ je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su Černigovu32.'
+  teiginys: 'Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje.'
   pagrindžia:
     - c-006
 
@@ -54,12 +54,12 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - c-010
 
 - t-006
-  teiginys: 'Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­ nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­ niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia šį pasaulį.'
+  teiginys: 'Kazimieras Jogailaitis mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus.'
   pagrindžia:
     - c-002
 
 - t-007
-  teiginys: 'Kadangi pilietinis karas po Vytauto Didžiojo mir­ ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę be gyventojų miestą, beveik galutinai sugriovę Magdebur­ go teisių galią, todėl Kazimieras.'
+  teiginys: 'Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises.'
   pagrindžia:
     - c-001
 
@@ -69,7 +69,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - c-007
 
 - t-009
-  teiginys: 'Bet kadangi, pradedant Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogailos palikuonys, tai Kazimiero šeima jautėsi turinti sosto paveldėjamųjų teisių.'
+  teiginys: 'Nuo Kazimiero Jogailaičio Lietuvos valdovais buvo renkami Jogailos palikuonys, todėl jo šeima jautėsi turinti sosto paveldėjimo teisių.'
   pagrindžia:
     - c-004
 
@@ -86,6 +86,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kadangi pilietinis karas po Vytauto Didžiojo mir­
@@ -116,6 +117,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-007
 
 - c-002
+  santrauka: 'Kazimieras Jogailaitis mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau jo pamaldumą pripažino
@@ -152,6 +154,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-010
 
 - c-004
+  santrauka: 'Nuo Kazimiero Jogailaičio Lietuvos valdovais buvo renkami Jogailos palikuonys, todėl jo šeima jautėsi turinti sosto paveldėjimo teisių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Krašto valdymo aparatas iki XVI amž. antrosios pusės**
@@ -182,6 +185,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-011
 
 - c-006
+  santrauka: 'Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar būdamas
@@ -305,7 +309,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 - [[objektai/zodynas/vaivada]]
 - [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
-- [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/zodynas/vietininkas]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
 - [[objektai/zodynas/prekymečiai ir turgūs]]

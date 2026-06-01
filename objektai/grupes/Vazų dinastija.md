@@ -35,66 +35,37 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 - t-001
   teiginys: 'Vazų dinastijos valdymo gale labiau pastebima lenkų kultūros įtaka Lietuvoje^18.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Valdant švedų kilmės Vazų dinastijai, Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 m.'
   pagrindžia:
-    - c-001
+    - c-004
 
 - t-003
   teiginys: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-004
-  teiginys: 'Tad perdėta turi būti laikoma, kai centre pastatant tik vieną valdovą, Lietuvos istorija iki Vazų dinastijos pradžios (1587) išdalinama, pvz., tokiomis trimis dalimis: 1) Priešvytautinė kara­ lija, 2) Vytautinė era ir 3) Vytauto įpėdiniai (iki 1586 m.)^17.'
+  teiginys: 'Vazų dinastijos pradžia Lietuvos istorijos skirstyme buvo siejama su 1587 metais.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-005
   teiginys: 'Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-006
   teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   pagrindžia:
-    - c-006
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tiems karaimams, totoriams ir žydams.
-    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
-    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
-    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
-    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
-    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena. Šio karo
-    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
-    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
-    panaikinimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVII a. ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m.
-    Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
-    kė pretenzijas į Švedijos sostą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-003
+  santrauka: 'Vazų dinastijos pradžia Lietuvos istorijos skirstyme buvo siejama su 1587 metais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O naujaisiais laikais jai terūpi valstybingumo idėja.
@@ -112,7 +83,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   pagrindžia:
     - t-004
 
-- c-004
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vazų dinastijos valdymo gale
@@ -128,7 +99,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   pagrindžia:
     - t-001
 
-- c-005
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m.
@@ -141,8 +112,9 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   statusas: verified
   pagrindžia:
     - t-003
+    - t-005
 
-- c-006
+- c-004
   santrauka: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -168,8 +140,9 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   statusas: verified
   pagrindžia:
     - t-006
+    - t-002
 
-- c-007
+- c-005
   santrauka: 'Vazų dinastijos valdymo gale labiau pastebima lenkų kultūros įtaka Lietuvoje^18.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

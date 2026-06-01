@@ -59,17 +59,17 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - t-006
   teiginys: 'Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.'
   pagrindžia:
-    - c-020
+    - c-019
 
 - t-007
   teiginys: 'Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruose įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje atiduota 50-čiai metų administruoti SSRS.'
   pagrindžia:
-    - c-018
+    - c-017
 
 - t-008
   teiginys: 'Šiaurės Europą dengęs ledynas buvo apėmęs ir vidurio Rusiją.'
   pagrindžia:
-    - c-025
+    - c-015
 
 - t-009
   teiginys: 'Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.'
@@ -79,7 +79,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - t-010
   teiginys: 'Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. parodė, kad tarp etninių lietuvių mokančių skaityti yra bemaž pusė – 48 proc., o rusiškai iš jų tepaskaitė tik kas penktas.'
   pagrindžia:
-    - c-022
+    - c-021
 
 - t-011
   teiginys: 'Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.'
@@ -94,12 +94,12 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - t-014
   teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
   pagrindžia:
-    - c-023
+    - c-004
 
 - t-015
   teiginys: 'Karai su Maskvos didžiąja kunigaikštyste, vėliau Rusija, dėl rytinių teritorijų kėlė ATR ir Rusijos konfliktus.'
   pagrindžia:
-    - c-028
+    - c-008
 
 - t-016
   teiginys: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
@@ -109,17 +109,17 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - t-017
   teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
   pagrindžia:
-    - c-017
+    - c-016
 
 - t-018
   teiginys: 'Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų.'
   pagrindžia:
-    - c-016
+    - c-015
 
 - t-019
   teiginys: '1579 m. iš Vilniaus karalius per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   pagrindžia:
-    - c-015
+    - c-007
 
 - t-020
   teiginys: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
@@ -134,20 +134,20 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - t-022
   teiginys: '1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama tvanu.'
   pagrindžia:
-    - c-026
+    - c-006
 
 - t-023
   teiginys: '1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija netruko pasiekti ir Lietuvos miestus.'
   pagrindžia:
-    - c-021
+    - c-020
 
 - t-024
   teiginys: 'Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.'
   pagrindžia:
-    - c-019
+    - c-018
 
 - t-025
-  teiginys: '1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū- 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 257 roje atskyrimo.'
+  teiginys: '1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.'
   pagrindžia:
     - c-014
 
@@ -157,19 +157,19 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-008
 
 - t-027
-  teiginys: 'Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį.'
+  teiginys: '1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   pagrindžia:
     - c-007
 
 - t-028
   teiginys: '1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.'
   pagrindžia:
-    - c-029
+    - c-023
 
 - t-029
   teiginys: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   pagrindžia:
-    - c-027
+    - c-022
 
 ## Reikšmingi paminėjimai
 
@@ -239,6 +239,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   statusas: verified
   pagrindžia:
     - t-001
+    - t-014
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -280,8 +281,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   statusas: verified
   pagrindžia:
     - t-016
+    - t-022
 
 - c-007
+  santrauka: '1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būdamas arčiausiai karo židinio, Stepono Batoro laikais
@@ -302,6 +305,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   statusas: verified
   pagrindžia:
     - t-027
+    - t-019
 
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -322,6 +326,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   statusas: verified
   pagrindžia:
     - t-026
+    - t-015
 
 - c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -365,6 +370,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   statusas: verified
   pagrindžia:
     - t-004
+    - t-013
 
 - c-012
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -403,6 +409,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - t-020
 
 - c-014
+  santrauka: '1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Spalio pradžioje tarp abiejų valstybių
@@ -421,28 +428,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - t-025
 
 - c-015
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Būdamas arčiausiai karo židinio, Stepono Batoro laikais
-    Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
-    bai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579
-    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
-    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
-    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
-    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
-    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
-    su kuriais turėjo daugiausia darbo. Pagaliau čia, Vilniuje,
-    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
-    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
-    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
-    sipelniusius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-019
-
-- c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Skaičiuojant nuo pirmųjų žmogaus pėdsakų
@@ -458,8 +443,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   statusas: verified
   pagrindžia:
     - t-018
+    - t-008
 
-- c-017
+- c-016
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Turėdami savo rankose uostų kontrolę,
@@ -479,7 +465,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-017
 
-- c-018
+- c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
@@ -497,7 +483,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-007
 
-- c-019
+- c-018
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau
@@ -515,7 +501,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-024
 
-- c-020
+- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valstiečiai pavirto sąlyginai laisvais žmonėmis, nuosavybės teisę į dirba-
@@ -531,7 +517,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-006
 
-- c-021
+- c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
@@ -546,7 +532,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-023
 
-- c-022
+- c-021
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ta-
@@ -566,79 +552,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-010
 
-- c-023
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vis dėlto Vilniaus, Lietuvos ir Abiejų
-    Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisa-
-    vinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba
-    „vodką“. Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
-    „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje
-    žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo
-    su buvusios LDK arba Abiejų Tautų Respublikos rytine riba. Ją nubrėžė
-    Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi
-    net konkrečias gubernijas, kuriose gali gyventi žydai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-024
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu 1772 m. rugpiūčio 5 d. buvo pasirašytas visų
-    3 valstybių traktatas; juo kiekvienai buvo numatyta tam tikra
-    dalis, kurias jos tuojau po to ir okupavo.
-    Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį
-    iki Dauguvos ir Dniepro. Tuo būdu Rusijai teko Lat-
-    gala, šiaurinė dalis Polocko vaivadijos su pačiu miestu, beveik
-    visos Vitebsko ir Mstislaulio vaivadijos ir dalis Minsko vaivadi-
-    jos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-025
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Skaičiuojant nuo pirmųjų žmogaus pėdsakų
-    ir baigiant istoriniais laikais, kada žilųjų laikų priešistorinius pa­
-    minklus pakeičia rašytieji šaltiniai, priešistoriniai laikai Pabaltijyje
-    apima bent 15-8 tūkstančius metų.
-    Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį,
-    šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų. Jis
-    Pabaltijyje ir artimose srityse paliko dabartinį žemės reljefą (upes
-    ir ežerus, kalvas ir žemumas) su charakteringomis morenomis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-026
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
-    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
-    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
-    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
-    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena. Šio karo
-    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
-    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
-    panaikinimo.
-    ABIEJŲ TAUTŲ RESPUBLIKA
-    Liublino unija
-    1386 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-022
-
-- c-027
+- c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
@@ -655,25 +569,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-029
 
-- c-028
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik
-    Lenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė es-
-    minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
-    valstybės institucijose.
-    Apšvieta ateina į LDK
-    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
-    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
-    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
-    kariškai sustiprėjusios Švedijos. Livonijos karuose 1558–1583 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-015
-
-- c-029
+- c-023
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1795

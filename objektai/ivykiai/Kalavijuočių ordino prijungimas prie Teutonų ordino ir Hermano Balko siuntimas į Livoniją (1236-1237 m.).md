@@ -45,7 +45,7 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku, Prūsijos žemės magistrą, su keturiasdešimt brolių ir daugybe ginklanešių į Livonijos žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus.'
@@ -55,40 +55,17 @@ Nenurodyta
 - t-003
   teiginys: 'Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad 263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.'
   pagrindžia:
-    - c-003
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė
-    mūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino
-    drabužiais, duodamas jiems baltą apsiaustą su juodu kryžiumi ir įsakydamas jiems bei
-    kitiems to paties Kristaus karių ordino broliams, esantiems Livonijoje, vilkėti Teutonų
-    namų ordino vienuoliškais drabužiais ir šitaip pelnytis visų nuodėmių atleidimą263 (1236).
-    Po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku,
-    Prūsijos žemės magistrą, su keturiasdešimt brolių  ir daugybe ginklanešių  į Livonijos
-    žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus
-    vadovavo, o sugrįžęs į Vokietiją, rado ten amžinojo poilsio vietą264 (1237).
-
-
-
-
-                    29.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
@@ -107,8 +84,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.
@@ -119,7 +98,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
@@ -131,22 +110,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    į jo šventenybę popiežių. Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
-    Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo
-    žmonių krito kovoje262. Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė
-    mūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino
-    drabužiais, duodamas jiems baltą apsiaustą su juodu kryžiumi ir įsakydamas jiems bei
-    kitiems to paties Kristaus karių ordino broliams, esantiems Livonijoje, vilkėti Teutonų
-    namų ordino vienuoliškais drabužiais ir šitaip pelnytis visų nuodėmių atleidimą263 (1236).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -162,6 +125,4 @@ Nenurodyta
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
-- [[objektai/asmenys/Gerlachas Rudasis]]
 - [[objektai/asmenys/Hartmanas iš Heldrungeno]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

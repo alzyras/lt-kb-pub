@@ -51,17 +51,17 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - t-005
   teiginys: '1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.'
   pagrindžia:
-    - c-007
+    - c-002
 
 - t-006
-  teiginys: 'Baigusi kruvinus darbus, ginkluota palyda kitą die­ ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.'
+  teiginys: 'Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine.'
   pagrindžia:
     - c-005
 
 - t-007
   teiginys: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė ir Ariogalos apylinkes.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-008
   teiginys: 'Mindaugas karūnavimo metais ordinui užrašė pusę Ariogalos žemės Žemaičiuose.'
@@ -98,6 +98,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   statusas: verified
   pagrindžia:
     - t-002
+    - t-005
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -131,6 +132,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
     - t-003
 
 - c-005
+  santrauka: 'Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vaikių krašte buvo šventoji giria, ku­
@@ -165,18 +167,6 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
     - t-001
 
 - c-007
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet jau 1352.II. Kniprodė smarkiai
-    teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus
-    polaidžio jis turėjo gana nuostolingą grįžimą^12.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Baigusi kruvinus darbus, ginkluota palyda kitą die­

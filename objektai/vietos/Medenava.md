@@ -18,13 +18,14 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad — Medenouwe; Medenava (vėliau — Medenau, dab.'
+  teiginys: 'Medenava buvo to paties vardo valsčiaus centras pietvakarių Semboje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Medenava buvo to paties vardo valsčiaus centras pietvakarių Semboje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitą dieną patraukė  į Rudavos valsčių ir ten

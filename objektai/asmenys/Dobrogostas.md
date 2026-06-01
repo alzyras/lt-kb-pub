@@ -31,7 +31,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 - t-001
   teiginys: 'Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės dėl Vilniaus vyskupijos fundacijos.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-002
   teiginys: 'Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI.'
@@ -39,7 +39,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     - c-004
 
 - t-003
-  teiginys: 'Netrukus Poznanės vys­ kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­ piežių išprašyti bulės, patvirtinančios naujo ganytojo išrinkimą ir Vilniaus vyskupijos fundaciją.'
+  teiginys: 'Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją ir naujo ganytojo išrinkimą.'
   pagrindžia:
     - c-001
 
@@ -56,6 +56,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją ir naujo ganytojo išrinkimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O keturi naujai įvesti prelatų ir aštuoni kanauninkų
@@ -75,6 +76,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -130,27 +132,6 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O keturi naujai įvesti prelatų ir aštuoni kanauninkų
-    titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
-    tiems Lietuvoje Kristaus tikėjimą. Netrukus Poznanės vys­
-    kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­
-    piežių išprašyti bulės, patvirtinančios naujo ganytojo
-    išrinkimą ir Vilniaus vyskupijos fundaciją. Karalius tuoj pat
-    aprūpino ją nemenkomis pajamomis: be turtingos Klodovo
-    klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam
-    bet ir kai kuriais padavimais ar
-    užuominomis, kurias aptikau Vil­
-    niaus kapitulos ar Karaliauč. slapt.
-    archyvo dokumentuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

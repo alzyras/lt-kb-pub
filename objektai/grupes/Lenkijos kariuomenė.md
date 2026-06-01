@@ -30,7 +30,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 - t-001
   teiginys: 'Po šio pralaimėjimo kilo grėsmė, kad Turkija gali įsiveržti į Lenkiją.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: 'Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo.'
@@ -38,7 +38,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - c-001
 
 - t-003
-  teiginys: 'Lenkijos kariuomenė buvo sunaikinta, žuvo pats didysis karūnos etmonas, kadaise užėmęs Maskvą, S.'
+  teiginys: 'Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis.'
   pagrindžia:
     - c-004
 
@@ -60,7 +60,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 - t-007
   teiginys: 'Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi Maskvoje...'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -119,6 +119,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-004
 
 - c-004
+  santrauka: 'Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkijos kariuomenė įžengė
@@ -139,23 +140,6 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Susidarius grėsmingai si-
-    tuacijai, Abiejų Tautų Res-
-    publikos valdovas Zigmantas Vaza
-    nurodė LDx kariuomenei telktis prie
-    Podolės Kameneco ir suteikti pagalbą
-    Lenkijos kariuomenei. Jungtinės kariuo-
-    menės vadu karalius paskyrė Lietuvos di-
-    dįjį etmoną Joną Karolį Chodkevičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
     Po šio
     pralaimėjimo kilo grėsmė, kad
     Turkija gali įsiveržti į Lenkiją.
@@ -173,8 +157,9 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   statusas: verified
   pagrindžia:
     - t-001
+    - t-005
 
-- c-007
+- c-006
   santrauka: 'Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi Maskvoje...'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -199,7 +184,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Tautų Sąjunga]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas Vaza]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Želigovskininkai]]
@@ -212,6 +197,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 - [[objektai/asmenys/Žygimantas Kaributaitis]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Karūna]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/zodynas/etmonas]]
 - [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)]]
 - [[objektai/ivykiai/Zelvos mūšis (1792 m. liepos 4 d.)]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]

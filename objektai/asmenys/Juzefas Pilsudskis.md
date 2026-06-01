@@ -29,14 +29,14 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pilsudskio sumanymą miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos valdžiai „maištininko“ L.'
+  teiginys: 'Pagal Juzefą Pilsudskį Vilnių turėjo užimti ne Lenkijos kariuomenė, o Liucjano Želigovskio daliniai.'
   pagrindžia:
     - c-004
 
 - t-002
   teiginys: 'Juzefas Pilsudskis rėmė buvusios dvilypės Lenkijos ir Lietuvos valstybės atkūrimą, įsivaizduodamas ją kaip federaciją.'
   pagrindžia:
-    - c-009
+    - c-003
 
 - t-003
   teiginys: 'Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.'
@@ -64,12 +64,12 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     - c-002
 
 - t-008
-  teiginys: 'Pilsudskis uždavė A.'
+  teiginys: '1927 m. gruodžio 10 d. Ženevoje Juzefas Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-009
-  teiginys: 'Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Lenkijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu.'
+  teiginys: 'Juzefas Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.'
   pagrindžia:
     - c-005
 
@@ -81,7 +81,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - t-011
   teiginys: 'Juzefas Pilsudskis Ženevoje A. Voldemarui uždavė klausimą „Karas ar taika?“.'
   pagrindžia:
-    - c-010
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -143,8 +143,10 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-004
+  santrauka: 'Pagal Juzefą Pilsudskį Vilnių turėjo užimti ne Lenkijos kariuomenė, o Liucjano Želigovskio daliniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
@@ -164,6 +166,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     - t-001
 
 - c-005
+  santrauka: 'Juzefas Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviakalbės Lietuvos
@@ -236,26 +239,6 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     - t-003
 
 - c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilu-
-    sio Juzefo Pilsudskio (Józef Piłsudski) vadovaujama Lenkų socialistų par-
-    tija. J. Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją
-    šalininkai, nevengę ir teroristinių veiksmų. Pats J. Pilsudskis – buvusios
-
-    L I E T U V O S  I S T O R I J A
-    126
-    dvilypės Lenkijos ir Lietuvos valstybės atkūrimo šalininkas, tą dvilypumą
-    dabar įsivaizdavęs lyg ir kaip federaciją, o pačią Lietuvą tarsi padalytą į
-    tris dalis – vakarinę etniškai lietuvišką, vidurinę su Vilniumi ir Gardinu,
-    kaip lenkakalbę, ir rytinę su Minsku, kur būtų vietos ir baltarusių kalbai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų

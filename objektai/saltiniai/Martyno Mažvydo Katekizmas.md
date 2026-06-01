@@ -19,12 +19,12 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
 - t-001
   teiginys: 'Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-003
   teiginys: 'Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspausdintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai.'
@@ -68,6 +68,7 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -90,20 +91,3 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Legendoje nekeliama ir kal-
-    bos problema: tuo metu kalba nebuvo svarbiausias tautos bruožas, nes
-    tada egzistavo ne etninė, bet politinė lietuvių tauta, kurios pagrindinis
-    požymis – priklausymas kilmingiesiems LDK gyventojams. Būtent šių
-    žmonių kilmė ir istorija pasakojama Lietuvos metraščiuose. Kilmės iš
-    romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per
-    visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui
-    Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001

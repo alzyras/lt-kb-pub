@@ -38,14 +38,10 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad paimtieji į nelaisvę prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis..'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Ditricho iš Rodės pergalės paimti prūsai tikino mūšyje regėję mergelę, kurios vaizdas palaužė jų norą gintis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paimtieji į nelaisvę
@@ -60,8 +56,6 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,4 +80,3 @@ Nenurodyta
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Ditrichas (Kristburgo komtūras)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

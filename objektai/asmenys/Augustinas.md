@@ -58,4 +58,5 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 - [[objektai/zodynas/bursa]]
 - [[objektai/posakiai/„Karas ar taika “]]
 - [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]
+- [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis)]]
 - [[objektai/zodynas/in corpore]]

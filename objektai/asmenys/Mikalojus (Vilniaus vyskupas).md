@@ -27,13 +27,14 @@ Actum et datum die dominico Reminiscere anno 1410 in castro nostro Vilnensi [Vil
 ## Teiginiai
 
 - t-001
-  teiginys: 'Actum et datum die dominico Reminiscere anno 1410 in castro nostro Vilnensi [Vilniaus vys­ kupas Mikalojus, kanonų teisės dak­ taras ir menų magistras.'
+  teiginys: '1410 m. Vilniaus vyskupas Mikalojus buvo kanonų teisės daktaras ir menų magistras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1410 m. Vilniaus vyskupas Mikalojus buvo kanonų teisės daktaras ir menų magistras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tarp

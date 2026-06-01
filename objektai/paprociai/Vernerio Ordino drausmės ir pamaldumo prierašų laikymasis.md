@@ -45,19 +45,20 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad didysis magistras Verneris ėmėsi restauruoti Ordiną.'
+  teiginys: 'Didysis magistras Verneris papildė Ordino statutą prierašais apie pamaldumą, maldas, brolių poreikių ribojimą ir bendruomenės drausmę.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad vernerio prierašuose pabrėžiama, jog jie skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.'
   pagrindžia:
-    - c-003
+    - c-001
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didysis magistras Verneris papildė Ordino statutą prierašais apie pamaldumą, maldas, brolių poreikių ribojimą ir bendruomenės drausmę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apkaltintas erezija Tamplierių
@@ -74,6 +75,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -84,21 +86,6 @@ Nenurodyta
     ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
     vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
     skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
-    argumentacijos. Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
-    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
-    apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
-    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
-    vienuolių bendruomenės gyvenimo dėsniai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

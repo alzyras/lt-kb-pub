@@ -51,38 +51,21 @@ Nenurodyta
 - t-002
   teiginys: 'Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą, neskatinančią paklusnumo valdžiai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Universitete veikė studentų organizacijos, kurios rūpinosi kultūriniu ir doroviniu tobulėjimu bei ištikimybe tiesai, laisvei ir Tėvynei.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-004
   teiginys: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Masonų
-    ložėms priklausė diduma bent
-    kiek intelektualesnės publikos.
-    Garsiausioji ložė vadinosi „Uolusis
-    lietuvis“ („Gorliwy Litwin“). Uni-
-    versitete veikė nemažai studentų
-    organizacijų, besirūpinusių kul-
-    tūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniuje išėjo pirmasis jo poezijos tomelis, vėliau savo poezija
@@ -97,7 +80,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -116,8 +99,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
-- c-004
+- c-003
   santrauka: 'Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą, neskatinančią paklusnumo valdžiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

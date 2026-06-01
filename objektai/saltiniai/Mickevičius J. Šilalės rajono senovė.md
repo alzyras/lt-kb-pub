@@ -23,13 +23,14 @@ Dusburgietis teigia, kad mickevičius J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mickevičius J.'
+  teiginys: 'J. Mickevičiaus „Šilalės rajono senovė“ buvo 1968 m. parengtas mašinraštis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Mickevičiaus „Šilalės rajono senovė“ buvo 1968 m. parengtas mašinraštis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mickevičius J. Šilalės rajono senovė.— [Mašinraštis], 1968.

@@ -28,7 +28,7 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
 - t-001
   teiginys: '1655 m. Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Smolenske caras Aleksejus Michailovičius paskelbė vyriausiąjį vadą.'
@@ -38,21 +38,6 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Smolenske caras Alekse-
-    jus Michailovičius jį pa-
-    skelbė vyriausiuoju vadu.
-    Šklovo mūšyje taip pat dalyvavo ir kuni-
-    gaikščio Jurijaus Boratinskio vadovaujamos
-    pajėgos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1655 m.
@@ -68,3 +53,4 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002

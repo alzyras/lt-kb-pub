@@ -48,33 +48,15 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir, suėję į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol.'
   pagrindžia:
     - c-001
-    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys prarado labai daug užmuštaisiais (Ptol.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    94. Apie daugybės prancūzų ir flandrų žūtį
-
-    Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
-    suėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
-    1222).
-      1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
-    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
-    Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
@@ -91,7 +73,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
@@ -110,4 +92,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Flandrai]]
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis]]

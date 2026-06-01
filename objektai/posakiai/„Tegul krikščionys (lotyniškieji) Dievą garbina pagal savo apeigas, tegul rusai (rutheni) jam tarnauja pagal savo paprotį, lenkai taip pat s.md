@@ -50,4 +50,3 @@ Popiežiaus legato pasiuntiniams apie savo ir Lietuvos valsty­ bės tikėjimo k
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]
-- [[objektai/zodynas/legatas]]

@@ -26,13 +26,14 @@ Dusburgietis teigia, kad kujot S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kujot S.'
+  teiginys: 'S. Kujoto „Dzieje Prus Królewskich“ dalis iki 1309 m. paskelbta Torunės mokslo draugijos metraščiuose 1913–1914 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Kujoto „Dzieje Prus Królewskich“ dalis iki 1309 m. paskelbta Torunės mokslo draugijos metraščiuose 1913–1914 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kujot S. Dzieje Prus Królewskich.—Cz. 1: do roku 1309. T. I: do śmierci Świętopełka

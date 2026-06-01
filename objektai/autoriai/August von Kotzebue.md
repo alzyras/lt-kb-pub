@@ -25,9 +25,9 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D.'
+  teiginys: 'Augustas von Kotzebue išrašė tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje ir įdėjo juos į savo veikalą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Mat nemaža miesto dalis su- 15 Nors Kotzebue loco cit.'
@@ -35,34 +35,29 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     - c-001
 
 - t-003
-  teiginys: 'Vis dėlto ir Švitri­ gailai atsirado gynėjas: Kotzebue, aukščiau cituotame savo rašinyje Switrigail ein Beytrag etc.'
-  pagrindžia:
-    - c-007
-
-- t-004
-  teiginys: '1324 Nr. 53, kurie visiškai atitinka tuos, kurie yra Kotzebue, T.'
-  pagrindžia:
-    - c-005
-
-- t-005
-  teiginys: 'Bet kokia priežastis vertė Kotzebue nemačiomis tai praleisti, kas plika akimi matoma?'
-  pagrindžia:
-    - c-004
-
-- t-006
-  teiginys: 'Šitai vėlei liu­ dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės, klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr.'
-  pagrindžia:
-    - c-002
-
-- t-007
-  teiginys: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.'
+  teiginys: 'Kotzebue rašinyje „Switrigail“ gynė Švitrigailą, vaizduodamas jį kaip herojų ir didį žmogų.'
   pagrindžia:
     - c-006
 
-- t-008
-  teiginys: '9 Kotzebue Switrigail, p. 83, cituo­ ja Slaptajame archyve esantį Švitrigai­ los laišką didžiajam magistrui, rašy­ tą iš Trakų, trečiadienį prieš Švč.'
+- t-004
+  teiginys: 'Kotzebue veikale pateikti skundo punktai atitiko Raynaldo 1324 m. nurodytus punktus.'
   pagrindžia:
-    - c-008
+    - c-004
+
+- t-005
+  teiginys: 'Kotzebue tikėjosi Gedimino laiškų originalus rasti Ordino archyve ir apkaltinti Ordiną nauja piktadaryste.'
+  pagrindžia:
+    - c-003
+
+- t-006
+  teiginys: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.'
+  pagrindžia:
+    - c-005
+
+- t-007
+  teiginys: 'Kotzebue citavo Slaptajame archyve buvusį Švitrigailos laišką didžiajam magistrui, rašytą iš Trakų 1432 m. rugpjūčio 13 d.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -89,21 +84,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     - t-002
 
 - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be abejonės,
-    anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­
-    dino piktadarystę" atsidūrė kryžiuočių archyve. Šitai vėlei liu­
-    dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,
-    klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr.
-    Hennig, Łukasz Dawid, pratarmė, T. I, p. IX).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-003
+  santrauka: 'Augustas von Kotzebue išrašė tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje ir įdėjo juos į savo veikalą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il
@@ -122,7 +103,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
+  santrauka: 'Kotzebue tikėjosi Gedimino laiškų originalus rasti Ordino archyve ir apkaltinti Ordiną nauja piktadaryste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būtų visiškai paika sakyti, kad pajūrio mies­
@@ -138,7 +120,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   pagrindžia:
     - t-005
 
-- c-005
+- c-004
+  santrauka: 'Kotzebue veikale pateikti skundo punktai atitiko Raynaldo 1324 m. nurodytus punktus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie jo priėmimą popiežiaus
@@ -160,7 +143,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   pagrindžia:
     - t-004
 
-- c-006
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nė kiek nenorėdami su­
@@ -183,9 +166,10 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-007
+- c-006
+  santrauka: 'Kotzebue rašinyje „Switrigail“ gynė Švitrigailą, vaizduodamas jį kaip herojų ir didį žmogų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis kunigaikštis, dar nuo pirmųjų kivir-
@@ -217,7 +201,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   pagrindžia:
     - t-003
 
-- c-008
+- c-007
+  santrauka: 'Kotzebue citavo Slaptajame archyve buvusį Švitrigailos laišką didžiajam magistrui, rašytą iš Trakų 1432 m. rugpjūčio 13 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     9
@@ -247,7 +232,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai

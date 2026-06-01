@@ -17,13 +17,14 @@ Dusburgietis teigia, kad turėdami omenyje prūsų dievų triadą (Patulas, Patr
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad turėdami omenyje prūsų dievų triadą (Patulas, Patrimpas, Perkūnas) ir dievus „žemininkus“ (Greimas A., Apie dievus..., p. 166—179; Топоров B.'
+  teiginys: 'Algirdas Greimas veikale „Apie dievus...“ aptarė prūsų dievų triadą ir dievus žemininkus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdas Greimas veikale „Apie dievus...“ aptarė prūsų dievų triadą ir dievus žemininkus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Turėdami omenyje prūsų dievų triadą (Patulas, Patrimpas, Perkūnas)  ir dievus

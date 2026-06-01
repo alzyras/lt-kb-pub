@@ -25,13 +25,14 @@ Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilni
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  teiginys: '1432 m. rugsėjo 23 d. Žygimantas suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1432 m. rugsėjo 23 d. Žygimantas suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis teisingu­

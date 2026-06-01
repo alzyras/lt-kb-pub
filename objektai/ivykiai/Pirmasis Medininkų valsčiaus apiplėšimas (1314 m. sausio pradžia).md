@@ -39,7 +39,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad štai todėl kitą dieną jie įsiveržė į minėtąjį valsčių ir per tris mylias į vieną bei kitą pusę jį nusiaubė, degindami bei piešdami, o nužudę bei paėmę į nelaisvę septynis šimtus žmonių, sugrįžo namo su dideliu grobiu. 321 (314).'
+  teiginys: 'Per pirmąjį Medininkų valsčiaus apiplėšimą užpuolikai nusiaubė valsčių, nužudė arba paėmė į nelaisvę septynis šimtus žmonių ir grįžo su grobiu.'
   pagrindžia:
     - c-002
 
@@ -67,6 +67,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Per pirmąjį Medininkų valsčiaus apiplėšimą užpuolikai nusiaubė valsčių, nužudė arba paėmė į nelaisvę septynis šimtus žmonių ir grįžo su grobiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Skatinami

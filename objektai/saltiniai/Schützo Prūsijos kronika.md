@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '89 ir kiti prie jų, priimdavo labai širdingai ir Prūsijos kronikininkai, surengdavo puotą, kur kiekvienas 42 pagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T.'
+  teiginys: 'Schützo Prūsijos kronika minima kaip šaltinis apie viduramžių riterių puotas prieš karo žygius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Schützo Prūsijos kronika minima kaip šaltinis apie viduramžių riterių puotas prieš karo žygius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmasis,

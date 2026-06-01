@@ -24,13 +24,14 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie Lenkijos žemės nuniokojimą Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio ir nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis.'
+  teiginys: 'Per Lenkijos žemės antpuolius moterys ir vaikai buvo išvaryti į amžiną vergovę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Lenkijos žemės antpuolius moterys ir vaikai buvo išvaryti į amžiną vergovę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     2. Apie Lenkijos žemės nuniokojimą
@@ -51,25 +52,6 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
     - t-002
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
-    prisėjo raugių. Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
-    po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
-    arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
-    išsigelbėjo pabėgdamas.
-
-
-
-
-                              2.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -84,10 +66,9 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Kulmo žemės nusiaubimas prūsų antpuoliu]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais]]
 - [[objektai/zodynas/amžina vergovė amžini vergai]]

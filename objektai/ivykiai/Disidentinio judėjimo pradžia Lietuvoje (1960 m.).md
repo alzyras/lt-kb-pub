@@ -42,7 +42,7 @@ Nenurodyta
 - t-001
   teiginys: 'Lietuvos disidentų siekis buvo tautos savasties išsaugojimas, priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: '1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais ir padėjo leisti žurnalą „Sintaksis“.'
@@ -52,21 +52,6 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
-    priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
-    Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji
-    lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
-    užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
-    žurnalą „Sintaksis“, teikė informaciją iš Lietuvos. Tam padėjo 1975 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Disidentinis judėjimas sten-
@@ -84,6 +69,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -49,7 +49,7 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad šiuo metu lietuviai ir kiti tose žemėse gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet, prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali pastovėti. Prūsai retai kada imasi kokio.'
+  teiginys: 'Po pergalės trečdalis kovoje laimėto grobio buvo atiduodamas kriviui, kuris tą dalį sudegindavo kaip padėkos auką dievams.'
   pagrindžia:
     - c-003
     - c-001
@@ -62,6 +62,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po pergalės trečdalis kovoje laimėto grobio buvo atiduodamas kriviui, kuris tą dalį sudegindavo kaip padėkos auką dievams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po pergalės jie

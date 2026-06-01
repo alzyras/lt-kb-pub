@@ -26,13 +26,14 @@ Dusburgietis teigia, kad ziesemer W.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad ziesemer W.'
+  teiginys: 'W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906.

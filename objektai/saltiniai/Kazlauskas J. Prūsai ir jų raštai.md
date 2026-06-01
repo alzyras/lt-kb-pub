@@ -23,13 +23,14 @@ Dusburgietis teigia, kad kazlauskas J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kazlauskas J.'
+  teiginys: 'J. Kazlausko straipsnis „Prūsai ir jų raštai“ paskelbtas 1967 m. žurnalo „Pergalė“ ketvirtame numeryje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Kazlausko straipsnis „Prūsai ir jų raštai“ paskelbtas 1967 m. žurnalo „Pergalė“ ketvirtame numeryje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kazlauskas J. Prūsai ir jų raštai.— Pergalė. 1967, Nr. 4, p. 161—162.

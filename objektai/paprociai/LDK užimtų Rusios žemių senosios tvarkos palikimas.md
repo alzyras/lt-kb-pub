@@ -40,7 +40,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Užėmę svetimus kraštus, lietuvių kunigaikščiai iš pradžių palikdavo senąsias kunigaikštijų struktūras.'
+  teiginys: 'LDK užimtose Rusios žemėse lietuvių kunigaikščiai iš pradžių palikdavo senąsias kunigaikštijų struktūras.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LDK užimtose Rusios žemėse lietuvių kunigaikščiai iš pradžių palikdavo senąsias kunigaikštijų struktūras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Net dinastinės

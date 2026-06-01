@@ -30,7 +30,7 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad codex Justinianus (VI a.) terrula (demin.) — žemės sklypas (sklypelis).'
+  teiginys: 'Codex Justinianus žodis terrula vartojamas kaip deminutyvas, reiškiantis žemės sklypą arba sklypelį.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Codex Justinianus žodis terrula vartojamas kaip deminutyvas, reiškiantis žemės sklypą arba sklypelį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Plg. Codex Justinianus

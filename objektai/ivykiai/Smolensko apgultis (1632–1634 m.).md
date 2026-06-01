@@ -46,7 +46,7 @@ Nenurodyta
     - c-002
 
 - t-003
-  teiginys: 'Prie Polianovkos buvo sudaryta „amžinosios taikos“ sutartis tarp Lietuvos, Lenkijos ir Rusijos.'
+  teiginys: 'Po nesėkmingo Rusijos mėginimo užimti Smolenską prie Polianovkos upės buvo sudaryta „amžinosios taikos“ sutartis.'
   pagrindžia:
     - c-004
 
@@ -129,6 +129,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: 'Po nesėkmingo Rusijos mėginimo užimti Smolenską prie Polianovkos upės buvo sudaryta „amžinosios taikos“ sutartis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prie Polianovkos upės Lietuva ir Lenkija su
@@ -158,8 +159,8 @@ Nenurodyta
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/asmenys/Vladislovas Vaza]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/autoriai/Karolis Zikaras]]

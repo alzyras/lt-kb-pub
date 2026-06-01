@@ -28,7 +28,7 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­ kos sėkmingos, didysis magistras Konradas Ciolneris Rotenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų rugpjūtį ties Kaunu.'
+  teiginys: 'Vengrijos karalienė Elžbieta dalyvavo sėkmingose Jogailos derybose su Lenkijos didikais dėl Jadvygos rankos.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
     - t-002
 
 - c-002
+  santrauka: 'Vengrijos karalienė Elžbieta dalyvavo sėkmingose Jogailos derybose su Lenkijos didikais dėl Jadvygos rankos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     40

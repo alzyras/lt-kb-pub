@@ -32,60 +32,23 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
     - c-002
 
 - t-002
-  teiginys: 'Abu sukilimai Rusijos aukštuosiuose sluoksniuose sukėlė rusiško nacionalizmo ir polonofobijos bangą.'
+  teiginys: 'Po abiejų sukilimų Rusijos imperijos politikoje lenkų klausimu sustiprėjo rusiškas nacionalizmas ir polonofobija.'
   pagrindžia:
     - c-001
 
 - t-003
   teiginys: 'Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti jėga, neieškant konsensuso su vietos visuomene.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
   teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LIAUDIS VIRSTA TAUTA
-    N
-    ors Rusijos imperijos vidaus politika nerusiškų im-
-    perijos regionų ir „pakraščių“ atžvilgiu tuomet dar
-    nebuvo beatodairiškai persmelkta rusų nacionalizmo (pastarasis princi-
-    pas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III
-    (1881–1894) laikais), abu sukilimai Rusijos aukštuosiuose sluoksniuose
-    sukėlė rusiško nacionalizmo ir polonofobijos bangą. Imperijos politiko-
-    je „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti
-    jėga, neieškant konsensuso su vietos visuomene. Jie tikėjosi pakeisti pa-
-    čią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad
-    po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai
-    įmanoma pasiekti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Rusų pradų atkūrimo“
-    politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu. Nuga-
-    lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
-    tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
-    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
-    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti jėga, neieškant konsensuso su vietos visuomene.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -112,8 +75,9 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
-- c-004
+- c-002
   santrauka: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -131,6 +95,7 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -141,8 +106,7 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 - [[objektai/zodynas/polonofobija]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/separatizmas]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/akcijos]]
-- [[objektai/asmenys/Aleksandras III]]
-- [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]

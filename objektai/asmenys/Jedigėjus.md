@@ -26,13 +26,14 @@ Tada Lietuvos sostinėje regėdavo kupranuga­ rius, dryžuotom gūniom apdangst
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tada Lietuvos sostinėje regėdavo kupranuga­ rius, dryžuotom gūniom apdangstytus, turtingomis dovano­ mis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas Vytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo totorių chanas Jedigėjus76.'
+  teiginys: 'Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, iš Juodosios jūros pakrančių siųsdavo į Vilnių turtingas dovanas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, iš Juodosios jūros pakrančių siųsdavo į Vilnių turtingas dovanas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto

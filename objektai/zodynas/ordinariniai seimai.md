@@ -18,33 +18,34 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 ## Teiginiai
 
 - t-001
-  teiginys: 'ordinariniai seimai: po to atstovai susirinkdavo į savo rūmus ir išsirinkdavo pirmi- ninką, vadinamą maršalka, arba direktorium. Toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s.'
+  teiginys: 'Seime atstovai išsirinkdavo maršalką arba direktorių, o jų išrinkimo teisėtumo tikrinimas vadintas rugomis.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Seimo eiga.'
+  teiginys: 'Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savaičių.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-004
   teiginys: 'Be to, reikalui esant, galėjo būti šaukiami ir vadinamieji ekstraordinariniai seimai, kuriems buvo skiriamos dvi savaitės.'
   pagrindžia:
-    - c-002
+    - c-004
 
 - t-005
-  teiginys: 'ordinariniai seimai: tą dalyką turėdavo išspręsti tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.'
+  teiginys: 'Po seimo ginčytinus mokesčių klausimus turėdavo spręsti reliaciniai seimeliai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Seime atstovai išsirinkdavo maršalką arba direktorių, o jų išrinkimo teisėtumo tikrinimas vadintas rugomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po to atstovai susirinkdavo į savo rūmus ir išsirinkdavo pirmi-
@@ -58,18 +59,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     - t-001
 
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, reikalui esant,
-    galėjo būti šaukiami ir vadinamieji ekstraordinariniai
-    seimai, kuriems buvo skiriamos dvi savaitės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
+  santrauka: 'Po seimo ginčytinus mokesčių klausimus turėdavo spręsti reliaciniai seimeliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač
@@ -86,7 +76,8 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   pagrindžia:
     - t-005
 
-- c-004
+- c-003
+  santrauka: 'Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Seimo eiga.** Buvo nustatyta, kad seimai turi rinktis kas
@@ -97,20 +88,9 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Seimo eiga.** Buvo nustatyta, kad seimai turi rinktis kas
-    dveji metai. Tai buvo vadinamieji ordinariniai seimai,
-    kurių darbas trukdavo šešetą savaičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-006
+- c-004
   santrauka: 'Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savaičių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -125,7 +105,9 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   statusas: verified
   pagrindžia:
     - t-006
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/maršalka]]
 - [[objektai/paprociai/Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu]]

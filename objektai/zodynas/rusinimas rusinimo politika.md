@@ -20,7 +20,7 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šiaurės Vakarų krašto centrą siekta parodyti ne mažiau stačiatikišką negu katalikišką.'
+  teiginys: 'Rusinimo politika Vilniuje siekė parodyti Šiaurės Vakarų krašto centrą ne mažiau stačiatikišką negu katalikišką.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
     - t-002
 
 - c-002
+  santrauka: 'Rusinimo politika Vilniuje siekė parodyti Šiaurės Vakarų krašto centrą ne mažiau stačiatikišką negu katalikišką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vil-

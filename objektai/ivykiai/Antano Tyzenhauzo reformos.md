@@ -63,23 +63,6 @@ Nenurodyta
     - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
-    po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
-    ūkį, pradžia. Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
-    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
-    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
-    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
-    lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
-    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -100,6 +83,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -107,6 +91,7 @@ Nenurodyta
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/zodynas/Baroko epocha]]
+- [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/barokas]]

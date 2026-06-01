@@ -59,5 +59,4 @@ Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Še
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

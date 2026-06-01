@@ -24,7 +24,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šis žodis gali žymėti ir iš kitur atėjusius raštų žmones.'
+  teiginys: 'Šaldros buvo į kraštą atklydę prašalaičiai, mėginę įbrukti savo nuomonę apie dievą ir įkurti naują tikybą.'
   pagrindžia:
     - c-001
     - c-002
@@ -48,6 +48,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
     - t-001
 
 - c-002
+  santrauka: 'Šaldros buvo į kraštą atklydę prašalaičiai, mėginę įbrukti savo nuomonę apie dievą ir įkurti naują tikybą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Antrosios žinyčios, prašaleičių raštuose Romove vadinamos, toksai yra aprašas. Didelėj lygmėj
@@ -66,5 +67,4 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/Nomadžiai|nomadžiai]]
 - [[objektai/daiktai/Ūkės lazda]]
-- [[objektai/grupes/Žemaičių medininkai]]
 - [[objektai/zodynas/Žiuponai|žiuponai]]

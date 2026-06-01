@@ -20,23 +20,24 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juk pir­ miausia Didžiosios Lenkijos miestai, ypač Gnieznas, kaip galima spręsti pagal imperatoriaus Otono III pri­ ėmimą šiame mieste, ir Krušvica bei Poznanė jau anuomet buvo tankiai gyvenamos ir turtingos gyvenvietės.'
+  teiginys: 'Gnieznas, sprendžiant iš imperatoriaus Otono III priėmimo šiame mieste, jau anuomet buvo tankiai gyvenama ir turtinga gyvenvietė.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Šiai paskutiniajai mūsų valiai išpildyti ir sėkmingai įgyvendinti testamentö vyk­ dytojais pasirenkame jų didenybes iš mūsų Karalystės ir Lie­ tuvos dvasininkijos ir pasauliečių ponų tarybų, būtent, visų pirma, Karalystėje - jų didenybės kunigą Gniezno.'
+  teiginys: 'Testamento vykdytoju Karalystėje buvo pasirinktas Gniezno arkivyskupas kartu su Krokuvos ir Kujavų vyskupais.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 gin­ kluotų skydais, Gnieznas - 1 500 šarvuotųjų ir 5 000 pėstininkų; Vladislavovo pilis - 800 šarvuotų­ jų, 2 000 su skydais, Gdečas - 300 pirmųjų ir 2 000 antrųjų.'
+  teiginys: 'Martinas Galias pasakojo, kad Gnieznas duodavo 1 500 šarvuotųjų ir 5 000 pėstininkų.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gnieznas, sprendžiant iš imperatoriaus Otono III priėmimo šiame mieste, jau anuomet buvo tankiai gyvenama ir turtinga gyvenvietė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto nedrįs­
@@ -62,6 +63,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
     - t-001
 
 - c-002
+  santrauka: 'Testamento vykdytoju Karalystėje buvo pasirinktas Gniezno arkivyskupas kartu su Krokuvos ir Kujavų vyskupais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O jeigu kas norėtų dėl to, ką
@@ -87,6 +89,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
     - t-002
 
 - c-003
+  santrauka: 'Martinas Galias pasakojo, kad Gnieznas duodavo 1 500 šarvuotųjų ir 5 000 pėstininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ibid. Capit VIII, p. 51. Martinas

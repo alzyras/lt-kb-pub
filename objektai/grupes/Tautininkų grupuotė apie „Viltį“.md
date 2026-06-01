@@ -26,25 +26,11 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-002
   teiginys: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    timo organizacijas, gausią spaudą. Daugiausia dėmesio jie skyrė katalikišką
-    doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su
-    būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
-    no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
-    bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -62,6 +48,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -69,7 +56,5 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/grupes/Lenkų krikščionys demokratai]]
-- [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]

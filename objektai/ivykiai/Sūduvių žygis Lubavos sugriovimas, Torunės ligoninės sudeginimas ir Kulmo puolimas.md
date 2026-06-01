@@ -67,25 +67,6 @@ Nenurodyta
     - t-001
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vienas sūduvių
-    karys, stiprus vyras, leidosi paskui vieną krikščionę, kuri tuo metu spruko į pelkes; kai
-    jau ketino ją nužudyti, ši, užmiršusi savo lyties trapumą, drąsiai pasipriešino. [Karys],
-    įniršęs dėl tokio jos elgesio, dantimis jai nukando didįjį pirštą, o ji, savo ruožtu įtūžusi,
-    prigrūdo jam į burną bei ausis dumblo ir jį mirtinai užtroškino.
-
-
-
-
-                        163 (158).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Dusburgietis teigia, kad vienas sūduvių karys, stiprus vyras, leidosi paskui vieną krikščionę, kuri tuo metu spruko į pelkes; kai jau ketino ją nužudyti, ši, užmiršusi savo lyties trapumą, drąsiai pasipriešino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -100,6 +81,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

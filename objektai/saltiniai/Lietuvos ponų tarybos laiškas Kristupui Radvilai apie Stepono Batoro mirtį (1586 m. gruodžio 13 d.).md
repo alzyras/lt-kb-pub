@@ -30,12 +30,12 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'O kadangi sulig mūsų valdovo mirtimi mūsų nelaimingą Res­ publiką užgriuvo galybė pavojų, kuriems laiku užbėgti už akių ir, atsižvelgiant į aplinkybes, priimti sprendimą yra Jūsų Malonybės ir ponų tarybos pareiga, nieko išmintingesnio nematytume, jeigu Jūsų.'
+  teiginys: 'Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Šis laiškas sutvirtintas aštuoniais antspaudais, viršuje toks užrašas: Jo Didenybei Šviesiajam ponui Kristupui Radvilai, Du­ bingių ir Biržų kunigaikščiui, Vilniaus vaivadai, LDK lauko et­ monui, Solecko, Borisovo ir Užendovo seniūnui, ponui, mūsų ma­.'
+  teiginys: 'Lietuvos ponų tarybos laiškas Kristupui Radvilai buvo sutvirtintas aštuoniais antspaudais.'
   pagrindžia:
     - c-003
 
@@ -45,13 +45,14 @@ Nenurodyta
     - c-002
 
 - t-004
-  teiginys: 'Nors pirmiau apie mirtį, o ne apie ligą Jūsų Malonybei pranešame, bet tai yra ne dėl mūsų apsileidimo, mat ir dak­ tarai apie pavojų mirusio mūsų valdovo sveikatai laiku mūsų neįspėjo.'
+  teiginys: 'Lietuvos ponų taryba Kristupui Radvilai pranešė, kad gydytojai laiku neįspėjo apie pavojų Stepono Batoro sveikatai.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gi tuo laiku
@@ -144,6 +145,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Lietuvos ponų tarybos laiškas Kristupui Radvilai buvo sutvirtintas aštuoniais antspaudais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau į tai dėmesio nekreip­
@@ -185,6 +187,7 @@ Nenurodyta
     - t-002
 
 - c-004
+  santrauka: 'Lietuvos ponų taryba Kristupui Radvilai pranešė, kad gydytojai laiku neįspėjo apie pavojų Stepono Batoro sveikatai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pareiškiame Jūsų Malonybei apie mus visus ištikusį ben­

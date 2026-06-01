@@ -54,18 +54,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     - t-002
 
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    dikų šeimos. Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
-    piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
-    dovavo jau Pacai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -80,8 +68,9 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
-- c-004
+- c-003
   santrauka: 'Pacai, bijodami jo kandidatūros, buvo pradėję prieš jį veikti dar tarpuvaldžio pradžioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -115,7 +104,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Prancūziškoji partija]]
 - [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/asmenys/A. Nelepcos]]
 - [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
 - [[objektai/asmenys/Kristupas Pacas]]

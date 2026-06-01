@@ -24,13 +24,14 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
 ## Teiginiai
 
 - t-001
-  teiginys: 'Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - lavo Baško (vert.'
+  teiginys: '1253 m. Petras, išrinktas Poznanės vyskupu, Gniezno arkivyskupo Pelkos buvo įšventintas vyskupu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1253 m. Petras, išrinktas Poznanės vyskupu, Gniezno arkivyskupo Pelkos buvo įšventintas vyskupu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il KNYGA

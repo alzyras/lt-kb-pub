@@ -24,13 +24,14 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
     - c-002
 
 - t-002
-  teiginys: 'Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­ lies ir Gedimino kalno šlaitus.'
+  teiginys: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno Veliuonoje šlaitus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno Veliuonoje šlaitus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ant pilkapio nuo neatme­

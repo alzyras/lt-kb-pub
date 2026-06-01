@@ -48,12 +48,12 @@ amziai:
 - t-005
   teiginys: 'Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-006
   teiginys: 'Taip pat seimeliuose buvo renkami atstovai į seimą ir surašomos jiems instrukcijos.'
   pagrindžia:
-    - c-006
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -75,6 +75,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-006
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -89,6 +90,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
+    - t-005
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -117,39 +119,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Su mažais pakeitimais jis toks
-    pat išliko iki pat nepriklausomybės pabaigos. Tribunolo teisė-
-    jais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-
-    davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
-    sario 2 d.) ir darbuodavos tribunole vienus metus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
-    teismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-
-    stovai į seimą ir surašomos jiems instrukcijos. Vėliau seimeliai
-    buvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo
-    atskirus vardus: priešseiminiuose seimeliuose bū-
-    davo renkami atstovai į seimą; reliaciniuose atstovai,
-    grįžę iš seimo, padarydavo pranešimus apie seimo darbus;
-    elekciniuose būdavo renkami pavieto arba vaivadijos urė-
-    dai, ir t. t.
-    **3.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
 
 ## Ryšiai
 ### Susiję objektai

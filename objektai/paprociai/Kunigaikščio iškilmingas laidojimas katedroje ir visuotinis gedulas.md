@@ -38,13 +38,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Aleksandras Vygantas, vienas energin­ giausių Lietuvos kunigaikščių, o iš visų tikrųjų Jogailos bro­ lių dėl sumanaus proto ir romaus būdo labiausiai tinkamas į Lietuvos didžiuosius.'
+  teiginys: 'Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir
@@ -67,4 +68,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/asmenys/Aleksandras Vygantas]]
 - [[objektai/asmenys/Kazimieras Karigaila]]

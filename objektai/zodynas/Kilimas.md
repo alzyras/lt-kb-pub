@@ -30,7 +30,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
     - c-002
 
 - t-002
-  teiginys: '`Sage` ir `sagše` yra to paties drabužio vardai.'
+  teiginys: 'Kilimas buvo moterų išeiginis drabužis, dar vadintas sage arba sagše nuo žodžio „segti“.'
   pagrindžia:
     - c-001
 

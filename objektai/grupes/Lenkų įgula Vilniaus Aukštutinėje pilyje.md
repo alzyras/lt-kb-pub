@@ -29,33 +29,34 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuviųlenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­ rios ir platų frontą rėpiančios gynybos.'
+  teiginys: 'Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula užsidarė tarp tuometinių Vilniaus tvirtovių mūrų ir aptvarų.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Taip įvairioms kautynėms ir ginčams besitęsiant praėjo penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­ nėje pilyje33.'
+  teiginys: 'Lenkų įgulai Aukštutinėje pilyje penkios Vilniaus apsupties savaitės praėjo sunkiomis kautynėmis ir ginčais.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­ rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pibuvo prisistatęs Vytautui stovyklo­ je prie Smolensko su bajorais ir, Vy­ tautui tą miestą užėmus, priėmė iš šio monarcho jam skirtą valdą -.'
+  teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet niekas neįstengė palaužti lenkų narsos ir ištvermės Moskoževskio gynybos linijose.'
+  teiginys: 'Nuolatinės atakos smarkiai kamavo įsitvirtinusią įgulą, bet nepalaužė lenkų narsos Moskoževskio gynybos linijose.'
   pagrindžia:
     - c-005
 
 - t-005
-  teiginys: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux.'
+  teiginys: 'Jogailos paliktas vadas su lenkų įgula Vilniaus Aukštutinėje pilyje tuo metu valdydavo ir kitus gyventojus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailos paliktas vadas su lenkų įgula Vilniaus Aukštutinėje pilyje tuo metu valdydavo ir kitus gyventojus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
@@ -99,6 +100,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - t-005
 
 - c-002
+  santrauka: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­
@@ -151,6 +153,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - t-003
 
 - c-003
+  santrauka: 'Lenkų įgulai Aukštutinėje pilyje penkios Vilniaus apsupties savaitės praėjo sunkiomis kautynėmis ir ginčais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prancū­
@@ -170,6 +173,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - t-002
 
 - c-004
+  santrauka: 'Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula užsidarė tarp tuometinių Vilniaus tvirtovių mūrų ir aptvarų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­
@@ -186,6 +190,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - t-001
 
 - c-005
+  santrauka: 'Nuolatinės atakos smarkiai kamavo įsitvirtinusią įgulą, bet nepalaužė lenkų narsos Moskoževskio gynybos linijose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuolati­
@@ -222,5 +227,6 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/pakancleris]]
+- [[objektai/daiktai/Karūna]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/grupes/Vytauto šalininkai]]

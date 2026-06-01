@@ -26,7 +26,7 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................1578 m. Privilegija Mogiliavui, kuria gavo Magdeburgo teisę, išspausdinta su prie­ du apie tam miestui suteiktą herbą Baltarusijos Archyve, leistame garbin­ gos atminties kanclerio.'
+  teiginys: '1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę.'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................1578 m.

@@ -22,7 +22,7 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
 - t-001
   teiginys: 'Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-002
   teiginys: 'Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.'
@@ -47,21 +47,6 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
     - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    patenkinti ir imperialistiniai sovietų siekiai. Kadangi okupantų paskirtas
-    Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų
-    panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo ne-
-    teisėti. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
-    prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
-    jų turtas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -77,7 +62,7 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   santrauka: 'Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -94,6 +79,7 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

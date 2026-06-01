@@ -111,7 +111,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Latviai]]

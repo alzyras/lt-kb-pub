@@ -28,7 +28,7 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­ kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo miręs), kartu su savo diecezijos klebonais Elblionge bemat surengė pasitarimą ir.'
+  teiginys: 'Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
     - t-002
 
 - c-002
+  santrauka: 'Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA

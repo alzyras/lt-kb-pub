@@ -38,13 +38,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22.'
+  teiginys: 'Žygimantas Pabaisko pergalę įamžino mūšio lauką pavadindamas Pabaisku, upelį Viktorija ir toje vietoje pastatydamas parapijos bažnyčią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Pabaisko pergalę įamžino mūšio lauką pavadindamas Pabaisku, upelį Viktorija ir toje vietoje pastatydamas parapijos bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
@@ -66,4 +67,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]

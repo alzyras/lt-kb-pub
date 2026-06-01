@@ -24,7 +24,7 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
     - c-001
 
 - t-002
-  teiginys: 'Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum pabūgo jos kultūrinės ir politinės hegemonijos ir ėmė ieškoti tuose santykiuose pusiausvyros — atsverti tai gerais santykiais su kaimynais.'
+  teiginys: 'Vytautas pabūgo Lenkijos kultūrinės ir politinės hegemonijos ir ieškojo pusiausvyros santykiuose su kaimynais.'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
     - t-001
 
 - c-002
-  santrauka: 'Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum pabūgo jos kultūrinės ir politinės hegemonijos ir ėmė ieškoti tuose santykiuose pusiausvyros — atsverti tai gerais santykiais su kaimynais.'
+  santrauka: 'Vytautas pabūgo Lenkijos kultūrinės ir politinės hegemonijos ir ieškojo pusiausvyros santykiuose su kaimynais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ši sritis labai bu­
@@ -71,4 +71,5 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/posakiai/„aksomine imperija“]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]

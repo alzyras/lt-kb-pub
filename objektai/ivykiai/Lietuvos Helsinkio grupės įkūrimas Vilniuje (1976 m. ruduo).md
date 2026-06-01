@@ -42,41 +42,23 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iš kairės kunigai: Vincentas Vėlavičius, Alfonsas Svarinskas, Sigitas Tamkevičius, Juozas Zdebskis, Jonas Kauneckas L I E T U V O S I S T O R I J A 230 Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto.'
+  teiginys: '1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, stebėjusi Helsinkio Baigiamojo akto nuostatų įgyvendinimą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
-    sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
-    tas valstybes apie žmogaus teisių pažeidimus. 1976 m. gegužės 12 d. įkurta
-    pirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį pa-
-    naši grupė įsikūrė Vilniuje. Grupei priklausė kun. Karolis Garuckas, fizi-
-    kas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė,
-    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
-    ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
-    tinėmis grupėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grupei priklausė kun. Karolis Garuckas, fizi-
@@ -92,7 +74,8 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
+  santrauka: '1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, stebėjusi Helsinkio Baigiamojo akto nuostatų įgyvendinimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš kairės kunigai: Vincentas Vėlavičius,
@@ -115,8 +98,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
-- c-004
+- c-003
   santrauka: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -141,10 +125,4 @@ Nenurodyta
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Tomas Venclova]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Andrejus Sacharovas]]
-- [[objektai/asmenys/Eitanas Finkelšteinas]]
-- [[objektai/asmenys/Jurijus Orlovas]]
-- [[objektai/asmenys/Karolis Garuckas|Karolis Garuckas (kunigas)]]
-- [[objektai/asmenys/Ona Lukauskaitė-Poškienė]]
-- [[objektai/asmenys/Viktoras Petkus]]
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

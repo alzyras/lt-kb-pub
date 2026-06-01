@@ -25,13 +25,14 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
 ## Teiginiai
 
 - t-001
-  teiginys: 'Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis.'
+  teiginys: '1324 m. žmonės iš Natangos dalyvavo netikėtame Gedimino pilies papilio užpuolime.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1324 m. žmonės iš Natangos dalyvavo netikėtame Gedimino pilies papilio užpuolime.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­

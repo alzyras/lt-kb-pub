@@ -26,13 +26,14 @@ Werminghoee, A.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Werminghoee, A.'
+  teiginys: 'A. Werminghoee „Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens“ išspausdintas Archiv für Urkundenforschung 5 tome 1914 m., p. 21-40.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Werminghoee „Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens“ išspausdintas Archiv für Urkundenforschung 5 tome 1914 m., p. 21-40.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (tas pat

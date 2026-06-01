@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­ ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­ grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­ jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje sudarė su jais paliaubas.'
+  teiginys: '1382 m. lapkričio pradžioje Jogaila Dubysos upės saloje sudarė paliaubas su kryžiuočiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1382 m. lapkričio pradžioje Jogaila Dubysos upės saloje sudarė paliaubas su kryžiuočiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
@@ -85,4 +86,5 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/zodynas/Paliaubos induciae]]

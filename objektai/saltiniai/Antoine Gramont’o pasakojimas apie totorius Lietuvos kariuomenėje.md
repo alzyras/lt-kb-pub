@@ -37,46 +37,21 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
 - t-001
   teiginys: 'Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Antoine’o Gramont’o 1663-1664 m. pasakojimo ištrauka aprašo totorius Lietuvos kariuomenėje.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-005
   teiginys: 'Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie totorius Lietuvos kariuomenėje.'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie
-    totorius Lietuvos kariuomenėje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę
-    šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti. Visoje šalyje jie valdo
-    laisvuosius dvarus, bet neturi nei rango, nei balso tarp bajorijos. Totoriai taip pat sudaro
-    lengvąją raitiją, gerai aprūpintą ir ginkluotą kaip kazokų, ir nuo pastarųjų skiriasi tik
-    tuo, kad nenešioja grandijų. Jų alga - trisdešimt livry už ketvirtį.“
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie
@@ -92,7 +67,7 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   pagrindžia:
     - t-002
 
-- c-004
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1700 m. lapkričio 19-24 d. Valki-
@@ -115,8 +90,9 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
-- c-005
+- c-003
   santrauka: 'Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie totorius Lietuvos kariuomenėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -134,3 +110,4 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   statusas: verified
   pagrindžia:
     - t-005
+    - t-003

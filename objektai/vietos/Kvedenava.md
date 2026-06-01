@@ -26,7 +26,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus, arba Tvankstės, pilies pastatymą Valdovui Čekijos karaliui išvykus, magistras ir broliai netruko paruošti visa, kas reikalinga pilių statybai, ir, pasitelkę jiems ištikimus prūsus, atžygiavo su didele kariuomene 1255 viešpaties metais ir.'
+  teiginys: 'Kvedenava buvo valsčiaus centras, galbūt buvęs apie 4 km į šiaurės rytus nuo dabartinio Kaliningrado centro.'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kvedenava buvo valsčiaus centras, galbūt buvęs apie 4 km į šiaurės rytus nuo dabartinio Kaliningrado centro.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą

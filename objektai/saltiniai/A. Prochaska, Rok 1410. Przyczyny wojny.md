@@ -25,13 +25,14 @@ Przyczyny wojny , Roczn.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Przyczyny wojny , Roczn.'
+  teiginys: 'A. Prochaskos „Rok 1410. Przyczyny wojny“ išspausdintas 1910 m. Torunės mokslo draugijos metraštyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Prochaskos „Rok 1410. Przyczyny wojny“ išspausdintas 1910 m. Torunės mokslo draugijos metraštyje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Prochaska, A. :

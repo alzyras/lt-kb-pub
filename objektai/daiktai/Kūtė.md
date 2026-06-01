@@ -35,7 +35,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Namo kūtėje laikydavo karves, jaučius, avis ir arklius.'
+  teiginys: 'Namo tvarte, arba kūtėje, laikytos karvės, jaučiai ir avys, o už jo buvo atskira arklių kūtė.'
   pagrindžia:
     - c-001
 
@@ -47,6 +47,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Namo tvarte, arba kūtėje, laikytos karvės, jaučiai ir avys, o už jo buvo atskira arklių kūtė.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Antrosios durys toje pervarinėj sienoj tokio pat mažne didumo buvo kaip didžiosios, vedė iš

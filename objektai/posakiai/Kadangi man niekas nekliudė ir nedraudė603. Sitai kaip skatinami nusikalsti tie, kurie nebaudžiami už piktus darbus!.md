@@ -17,7 +17,7 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek daug ir šitokių baisių piktadarysčių esąs pridaręs, jis atsakė: „Kadangi man niekas nekliudė ir nedraudė603.'
+  teiginys: 'Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedraudė.'
   pagrindžia:
     - c-001
 
@@ -29,6 +29,7 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedraudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai  jį broliai sugavo ir kai paklausė, kodėl tiek daug ir

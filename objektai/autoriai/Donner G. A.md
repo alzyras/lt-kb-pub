@@ -17,13 +17,14 @@ Dusburgietis teigia, kad 140 Donner G.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 140 Donner G.'
+  teiginys: 'Donner G. A. parašė darbą apie kardinolą Wilhelmą von Sabiną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Donner G. A. parašė darbą apie kardinolą Wilhelmą von Sabiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     140 Donner G. A. Kardinai Wilhelm von Sabina, S. 233—413.

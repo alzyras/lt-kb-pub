@@ -22,7 +22,7 @@ tags:
 - t-001
   teiginys: 'Tochtamišo totoriai buvo įtraukti į Lietuvos jungtinių pajėgų sudėtį.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-002
   teiginys: 'Vytauto kariuomenėje prie Vorsklos buvo keli tūkstančiai Tochtamišo totorių.'
@@ -32,12 +32,12 @@ tags:
 - t-003
   teiginys: 'Tochtamišo karių dalis, jau prieš mūšį susisiekusi su priešais, galėjo pereiti į chano Timūr-Kutluko šalininkų pusę (greta stovėta keletą dienų).'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamišo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai, moldavai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -72,25 +72,6 @@ tags:
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Lietuvos jungtinės pajėgos
-
-    Lietuviai, žemaičiai, LDK rusų žemių ku-
-    nigaikščiai, Tochtamišo totoriai, talkinin-
-    kai iš Lenkijos, Kryžiuočių ordino kariai,
-    moldavai.
-
-    Totorių pajėgos
-    Aukso ordos chano Timūr-Kutluko,
-    Krymo emyro Edygos kariai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
     Tochtamišo karių dalis, jau prieš mūšį su-
     sisiekusi su priešais, galėjo pereiti į chano
     Timūr-Kutluko šalininkų pusę (greta sto-
@@ -110,7 +91,7 @@ tags:
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   santrauka: 'Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamišo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai, moldavai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -143,6 +124,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -166,4 +148,3 @@ tags:
 - [[objektai/asmenys/Markvardas Zalzbachas]]
 - [[objektai/asmenys/Spytekas iš Melštyno]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
-- [[objektai/daiktai/Šarvinės pirštinės]]

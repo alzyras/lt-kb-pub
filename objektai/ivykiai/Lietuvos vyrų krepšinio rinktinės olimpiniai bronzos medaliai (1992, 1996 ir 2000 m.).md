@@ -47,7 +47,7 @@ Nenurodyta
 - t-002
   teiginys: 'Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -64,19 +64,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Paguodė pirmieji laimėjimai – disko
-    metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iško-
-    vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-
-    šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-
-    nėse iškovojo bronzos medalius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

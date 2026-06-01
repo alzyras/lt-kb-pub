@@ -28,26 +28,27 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 - t-001
   teiginys: '(Lietuvos bajorija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsižadėti savo statuto, t.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
-  teiginys: '(Lietuvos bajo- rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža- dėti savo statuto, t.'
+  teiginys: 'Lietuvos bajorija priešinosi bendram kodeksui, nes nenorėjo išsižadėti savo statuto ir atskirų teisių.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti.'
+  teiginys: 'Kodeksas, vadintas statutu, 1780 m. buvo pateiktas seimui patvirtinti.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-004
   teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos bajorija priešinosi bendram kodeksui, nes nenorėjo išsižadėti savo statuto ir atskirų teisių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Atmetė jį svarbiausia dėl valstiečiams
@@ -61,23 +62,9 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Atmetė jį svarbiausia dėl valstiečiams
-    duodamųjų palengvinimų. „Mužikus nori padaryti
-    bajorais, o mus — mužikais", — šaukė bajorija. (Lietuvos bajo-
-    rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
-    skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
-    dėti savo statuto, t. y. savo atskirų teisių).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vienas artimiausiųjų jo
@@ -89,16 +76,6 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
-    tvirtinti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -167,6 +144,7 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 - [[objektai/autoriai/E. Gudavičius]]
 - [[objektai/autoriai/K. Jablonskis]]
 - [[objektai/grupes/Lietuvos demokratinė darbo partija]]
+- [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/paprociai/Seimo darbų statutas ir instrukcijų saikdinimo draudimas|Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)]]
 - [[objektai/posakiai/Surinkti ir išsaugoti mokslui visus kalbos, istorijos, tautosakos ir panašius duomenis, liečiančius Lietuvą ir lietuvius]]

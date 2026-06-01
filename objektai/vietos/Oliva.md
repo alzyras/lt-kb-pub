@@ -26,18 +26,19 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.'
+  teiginys: 'Paulius iš Olivos kartu su Jordanu iš Pelplino laiškuose popiežiui stojo ginti kryžiuočių.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Pavyzdžiui, abatai iš Olivos ir Pelplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­ mus per presentes, eundem prefatum regem quasdam per piures mundi partes litteras direxisse, in quibus se cum suis et toto Reg­ no asseruit baptizari et conjungi.'
+  teiginys: '1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus dėl krikšto.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Paulius iš Olivos kartu su Jordanu iš Pelplino laiškuose popiežiui stojo ginti kryžiuočių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
@@ -65,6 +66,7 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
     - t-001
 
 - c-002
+  santrauka: '1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus dėl krikšto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2) Kurį laiką buvo manoma, kad Gediminas

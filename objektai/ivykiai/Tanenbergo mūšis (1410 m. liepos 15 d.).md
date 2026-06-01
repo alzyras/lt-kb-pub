@@ -47,13 +47,14 @@ Nenurodyta
     - c-002
 
 - t-002
-  teiginys: 'Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­ valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos mėn.'
+  teiginys: 'Prieš Tanenbergo mūšį kryžiuočių kariuomenė per audringą naktį nužygiavo nuo Löbau iki Grünvaldo ir atvyko pavargusi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prieš Tanenbergo mūšį kryžiuočių kariuomenė per audringą naktį nužygiavo nuo Löbau iki Grünvaldo ir atvyko pavargusi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir kai karalius ėjo mels­

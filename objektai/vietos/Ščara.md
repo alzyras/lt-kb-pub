@@ -17,13 +17,14 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių ilgumo kanalas, kuris jungia Ščarą su Jaselda.'
+  teiginys: 'Ščarą su Jaselda sujungė 7,5 mylios ilgio kanalas, vėliau vadintas Oginskio kanalu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ščarą su Jaselda sujungė 7,5 mylios ilgio kanalas, vėliau vadintas Oginskio kanalu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo pat metu daug dėmesio buvo kreipiama ir į vandens

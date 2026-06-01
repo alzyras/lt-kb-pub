@@ -29,38 +29,34 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
 ## Teiginiai
 
 - t-001
-  teiginys: 'O Algirdas su Kęstučiu, teriodami Kuršių Marių pakraščiais, nužygiavo iki Dei­ menos^13.'
+  teiginys: 'Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai vėliau traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad 556 D.— per stagnum Curoniense, Jer.— daz kûrische hab.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija.'
+  teiginys: '1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.'
   pagrindžia:
     - c-002
 
-- t-005
+- t-004
   teiginys: 'Dusburgietis teigia, kad traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama, vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos globojo, kai traukė per ploną Kuršių marių ledą (III, 285).'
   pagrindžia:
-    - c-005
+    - c-004
 
-- t-006
+- t-005
   teiginys: 'Dusburgietis teigia, kad ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kniprodė smarkiai
@@ -76,6 +72,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
     - t-001
 
 - c-002
+  santrauka: '1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, užėmus pajūrį, Livonijoje ir Prūsuose veikiančios ordino
@@ -86,19 +83,9 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    556 D.— per stagnum Curoniense, Jer.— daz kûrische hab.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.
@@ -107,9 +94,9 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Broliai, paženklinę save šv.
@@ -123,9 +110,9 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai vėliau
@@ -140,7 +127,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   pagrindžia:
     - t-002
 
-- c-007
+- c-006
   santrauka: 'Dusburgietis teigia, kad kai vėliau traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -153,4 +140,4 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006

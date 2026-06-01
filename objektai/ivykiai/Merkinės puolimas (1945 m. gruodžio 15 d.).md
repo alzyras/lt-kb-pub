@@ -42,82 +42,48 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė pulti Merkinę keršijant už kovos draugų žūtį.'
+  teiginys: 'Merkinės puolimą Adolfas Ramanauskas-Vanagas nutarė rengti pasitaręs su Juozu Vitkumi-Kazimieraičiu.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
-  teiginys: 'Miestelyje partizanai užėmė svarbiausias NKVD ir civilines įstaigas.'
+  teiginys: 'Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Paaiškėjo, kad Druskininkų bataliono grupei nepavyko įvykdyti jiems pavestos užduoties ir nutraukti ryšio linijų tarp Merkinės ir Druskininkų, todėl sovietai per Druskininkus susisiekė su Alytumi ir išsikvietė pagalbą.'
   pagrindžia:
-    - c-007
+    - c-003
 
 - t-004
   teiginys: 'Vanagas, pasitaręs su A apygardos vadu Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinės miestelį, atkeršijant už kovos draugų žūtį.'
   pagrindžia:
-    - c-006
+    - c-002
 
 - t-005
   teiginys: '1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.'
   pagrindžia:
-    - c-002
+    - c-004
 
 - t-006
   teiginys: 'Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto netikėtai užklupti NKVD dalinio, žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas, Tomas Kondrotas-Briedis, Adolfas BilinskasJurginas ir Martynas Navickas-Kardas.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-007
   teiginys: '1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-008
   teiginys: '1945 metų gruodžio 15 dieną 11 val.'
   pagrindžia:
-    - c-008
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ryšininkas Juozas Jakavonis rado Merkiu
-    ant ledo lyties plaukiančią žuvusių par-
-    tizanų maldaknygę ir perdavė ją Merkio
-    rinktinės vadui Adolfui Ramanauskui-
-    Vanagui. Vanagas, pasitaręs su A apygar-
-    dos vadu Juozu Vitkumi-Kazimieraičiu,
-    nutarė sutelkti apylinkių partizanų da-
-    linius ir pulti Merkinės miestelį, at-
-    keršijant už kovos draugų žūtį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1945 metų gruodžio 15 dieną 11 val.
-
-    A. Ramanauskas-Vanagas iššovė baltą
-
-    raketą, taip paskelbdamas atakos pra-
-
-    džią. Smarkiai sningant puolantieji judėjo
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš mūšį
@@ -138,50 +104,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    dviem kryptimis - nuo miestelio kapi-
-    nių ir nuo Vilniaus gatvės, iki pat mies-
-    telio centro nebuvo sutikta rimtesnio
-    pasipriešinimo. Partizanai užėmė NKVD
-    būstinę, paštą, valsčiaus ir milicijos įs-
-    taigas. Paaiškėjo, kad Druskininkų ba-
-    taliono grupei nepavyko įvykdyti jiems
-    pavestos užduoties ir nutraukti ryšio
-    linijų tarp Merkinės ir Druskininkų,
-    todėl sovietai per Druskininkus susi-
-    siekė su Alytumi ir išsikvietė pagalbą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prieš mūšį
-    1945 m. gruodžio 5 d. prie Mardasavo
-
-    km., ant Merkio kranto netikėtai užklupti
-    NKVD dalinio, žuvo Marcinkonių bataliono
-    vadas Lionginas Švalkus-Šernas, Tomas
-    Kondrotas-Briedis, Adolfas Bilinskas-
-    Jurginas ir Martynas Navickas-Kardas.
-    Ryšininkas Juozas Jakavonis rado Merkiu
-    ant ledo lyties plaukiančią žuvusių par-
-    tizanų maldaknygę ir perdavė ją Merkio
-    rinktinės vadui Adolfui Ramanauskui-
-    Vanagui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
 
-- c-006
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ryšininkas Juozas Jakavonis rado Merkiu
@@ -209,8 +134,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
-- c-007
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šis dar prieš Antrąjį pasaulinį karą į Vokietijos
@@ -234,8 +160,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
-- c-008
+- c-004
   santrauka: '1945 metų gruodžio 15 dieną 11 val.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -258,6 +185,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-008
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

@@ -23,7 +23,7 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą, visą Baltijos pajūrį tarp Priegliaus ir Dauguvos.'
+  teiginys: 'Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.'
   pagrindžia:
     - c-001
 
@@ -35,6 +35,7 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Olštino regionas), po to

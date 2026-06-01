@@ -33,13 +33,14 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
     - c-002
 
 - t-002
-  teiginys: 'Galimas daly­ kas, jog Rygos arkivyskupo pritarimą turėjo ir aniedu vienuoliai pranciškonai, kuriedu popiežiui apie Gedimino krikštą buvo įrašę daugiau, negu šis buvo ketinęs.'
+  teiginys: 'Popiežius Jonas XXII 1317 m. ragino Gediminą krikštytis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežius Jonas XXII 1317 m. ragino Gediminą krikštytis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Galimas daly­

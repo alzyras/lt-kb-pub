@@ -33,7 +33,7 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
 - t-001
   teiginys: 'Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę; to meto žiniomis, tuose.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę;.'
@@ -71,32 +71,9 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   pagrindžia:
     - t-002
     - t-003
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio padariniai
-    Visų trijų Vytauto žygių, Vorsklos kauty-
-    nių įvykiai apibendrinti Detmaro Liubeko
-    kronikos tęsinyje: tuo metu lietuviai prieš
-    totorius kariavę tris kartus, dvejas kautynes
-    laimėję, o prie Vorsklos patyrę nesėkmę;
-    to meto žiniomis, tuose mūšiuose totorių
-    žuvo 300 000, 0 Vytautas praradęs 100 000
-    karių (skaičiai, be abejo, perdėti, gal net
-    dešimtį kartų), bet santykis galėtų būti re-
-    alus: totorių žuvo tris kartus daugiau nei
-    Vytauto ir jo sąjungininkų karių. Vytautas
-    prarado apie 14 savo kariuomenės.
-    Vorsklos kautynėse daug lėmė Aukso
-    ordos karių kiekybinė persvara.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę; to meto žiniomis, tuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

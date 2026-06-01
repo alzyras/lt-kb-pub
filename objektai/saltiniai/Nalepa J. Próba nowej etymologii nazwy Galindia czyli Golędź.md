@@ -23,13 +23,14 @@ Dusburgietis teigia, kad nalepa J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad nalepa J.'
+  teiginys: 'J. Nalepos darbas apie Galindijos, arba Golędź, vardo etimologiją paskelbtas 1976 m. ABS 9 tome, p. 191–209.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Nalepos darbas apie Galindijos, arba Golędź, vardo etimologiją paskelbtas 1976 m. ABS 9 tome, p. 191–209.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nalepa J. Próba nowej etymologii nazwy Galindia czyli Golędź.— ABS, Wrocław—

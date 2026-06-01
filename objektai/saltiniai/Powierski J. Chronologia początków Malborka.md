@@ -23,13 +23,14 @@ Dusburgietis teigia, kad powierski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad powierski J.'
+  teiginys: 'J. Powierskio straipsnis „Chronologia początków Malborka“ paskelbtas 1979 m. ZHPB 44 tomo 2 sąsiuvinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio straipsnis „Chronologia początków Malborka“ paskelbtas 1979 m. ZHPB 44 tomo 2 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Powierski J. Chronologia początków Malborka.— ZHPB, 1979, t. 44, z. 2, s. 5—31.

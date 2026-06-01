@@ -106,4 +106,3 @@ Nenurodyta
 - [[objektai/zodynas/vaivada]]
 - [[objektai/daiktai/Žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/asmenys/Markvardas Zalzbachas]]
-- [[objektai/daiktai/Šarvinės pirštinės]]

@@ -37,7 +37,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mirusiųjų kapai darėsi turtingesni, o žirgai būdavo pakasami drauge su mirusiuoju.'
+  teiginys: 'Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.'
   pagrindžia:
     - c-003
 
@@ -57,7 +57,7 @@ Nenurodyta
     - c-002
 
 - t-005
-  teiginys: 'Senovės lietuvių pomirtinio gyvenimo samprata reiškė, kad mirus kilmingam žmogui kartu su lavonu sudegindavo ginklus, arklį, tarnus, moteris, brangius apdarus, kurtus, sakalus ir kitus karo žygio reikmenis.'
+  teiginys: 'Aisčių laidotuvių paprotys numatė, kad su kilmingo žmogaus lavonu sudegindavo ginklus, arklį, tarnus, moteris ir karo žygiui reikalingus daiktus.'
   pagrindžia:
     - c-005
 
@@ -102,6 +102,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Patobulėjo ginklų, įrankių ir papuošalų formos.
@@ -129,6 +130,7 @@ Nenurodyta
     - t-002
 
 - c-005
+  santrauka: 'Aisčių laidotuvių paprotys numatė, kad su kilmingo žmogaus lavonu sudegindavo ginklus, arklį, tarnus, moteris ir karo žygiui reikalingus daiktus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dėl to buvo paprotys, kad mirus kilmingam žmo­
@@ -167,4 +169,3 @@ Nenurodyta
 - [[objektai/zodynas/Vėlė|vėlė]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Lietuviai]]

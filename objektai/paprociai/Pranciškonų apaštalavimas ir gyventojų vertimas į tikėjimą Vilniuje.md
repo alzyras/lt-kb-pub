@@ -40,18 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau per tą laisvai iš­ pažįstamų religijų įvairovę, palūžusios pagonybės akivaizdoje kildavo didelių piktumų tarp skirtingą tikėjimą išpažįstančiųjų ir jų dvasininkų.'
+  teiginys: 'Vilniuje religijų įvairovė palūžusios pagonybės akivaizdoje kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Ne kartą jau minoritai, apaš­ talavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo pranciškonai, pranašesni savo drąsa ir uoliu žmonių atver­ timu į tikėjimą, pasmerkė save skaudžioms kančioms.'
+  teiginys: 'Lietuvoje apaštalavę pranciškonai dėl drąsaus ir uolaus gyventojų vertimo į tikėjimą patirdavo skaudžių kančių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvoje apaštalavę pranciškonai dėl drąsaus ir uolaus gyventojų vertimo į tikėjimą patirdavo skaudžių kančių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ne kartą jau minoritai, apaš­
@@ -72,6 +73,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Vilniuje religijų įvairovė palūžusios pagonybės akivaizdoje kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau per tą laisvai iš­
@@ -95,5 +97,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Petras Goštautas]]

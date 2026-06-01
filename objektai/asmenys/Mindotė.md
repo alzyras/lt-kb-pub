@@ -26,13 +26,14 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
+  teiginys: 'Mindotė žuvo Ordino kariuomenei 1314 metais puolant Sizditės pilį Medininkų valsčiuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mindotė žuvo Ordino kariuomenei 1314 metais puolant Sizditės pilį Medininkų valsčiuje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     321 (314). Dar apie tą patį
@@ -54,11 +55,9 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]
 - [[objektai/asmenys/Henrikas Rutėnas]]
 - [[objektai/asmenys/Henrikas iš Plockės]]
 - [[objektai/asmenys/Kviramas iš Valdavos]]
 - [[objektai/asmenys/Rebodas iš Izenburgo]]
 - [[objektai/asmenys/Spagerotė]]
 - [[objektai/asmenys/Ulrichas iš Tetingeno]]
-- [[objektai/zodynas/pilėnas pilėnai]]

@@ -205,7 +205,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Merkys]]
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/grupes/SSRS kariuomenė]]

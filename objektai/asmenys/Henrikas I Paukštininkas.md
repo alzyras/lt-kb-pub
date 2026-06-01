@@ -20,13 +20,14 @@ Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiuje, valdant im­ peratoriui Henrikui I, pramintam Paukštininkų, taip sustiprėjo, kad sulaikydavo vengrų antpuolius, o pastarojo įpėdinių dėl įvairių priežasčių nuolat remiami, tiesa.'
+  teiginys: 'Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitaip nusikračius feodalinės priespaudos pančių Lombar­

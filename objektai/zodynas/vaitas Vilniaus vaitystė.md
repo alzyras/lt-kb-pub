@@ -24,13 +24,14 @@ Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Ve
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Velykų dieną, pagal pataisytą kalendorių, nekreipdami dėmesio į katalikiškas šventes, išdrįso pardavinėti prekes.'
+  teiginys: 'Vilniaus vaitas turėjo teisę sutramdyti pirklius, kurie per Velykas pagal naująjį kalendorių pardavinėjo prekes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vaitas turėjo teisę sutramdyti pirklius, kurie per Velykas pagal naująjį kalendorių pardavinėjo prekes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia

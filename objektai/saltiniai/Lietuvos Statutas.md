@@ -20,17 +20,17 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'aug kartų reika- lavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet lietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų bandymui gauti vietą Lietuvoje.'
+  teiginys: 'Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešinosi lenkų bandymams gauti vietą Lietuvoje.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Kai 1522 m. bajorija pažadėjo jį išrinkti didžiuoju Lietuvos kunigaikščiu, jo tėvas sutiko patvirtinti numatytą ruošti statutą, kuris turėjo ap- imti visas krašto teises.'
+  teiginys: 'Alberto Goštauto vadovaujamas Lietuvos Statutas iki 1529 m. buvo baigtas ir Zigmanto II patvirtintas.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Visa tai buvo patvirtinta naujai perredaguotoje ant- rojoje statuto laidoje.'
+  teiginys: 'Antroji Lietuvos Statuto laida buvo naujai perredaguota.'
   pagrindžia:
     - c-005
 
@@ -80,6 +80,7 @@ tags:
     - t-004
 
 - c-003
+  santrauka: 'Alberto Goštauto vadovaujamas Lietuvos Statutas iki 1529 m. buvo baigtas ir Zigmanto II patvirtintas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai 1522 m. bajorija
@@ -98,6 +99,7 @@ tags:
     - t-002
 
 - c-004
+  santrauka: 'Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešinosi lenkų bandymams gauti vietą Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Žodžiu, ji visą laiką kovojo,
@@ -114,6 +116,7 @@ tags:
     - t-001
 
 - c-005
+  santrauka: 'Antroji Lietuvos Statuto laida buvo naujai perredaguota.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     valdyme. Visa tai buvo patvirtinta naujai perredaguotoje ant-

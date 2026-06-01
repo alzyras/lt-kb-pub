@@ -36,12 +36,12 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     - c-001
 
 - t-003
-  teiginys: 'Sacharovas ir 10 žymių rusų disidentų.'
+  teiginys: 'A. Sacharovas pasirašė 45 pabaltijiečių memorandumą kartu su estais, latviais, lietuviais ir rusų disidentais.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Iš kairės kunigai: Vincentas Vėlavičius, Alfonsas Svarinskas, Sigitas Tamkevičius, Juozas Zdebskis, Jonas Kauneckas L I E T U V O S I S T O R I J A 230 Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto.'
+  teiginys: 'Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą.'
   pagrindžia:
     - c-004
 
@@ -66,6 +66,7 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     - t-002
 
 - c-002
+  santrauka: 'A. Sacharovas pasirašė 45 pabaltijiečių memorandumą kartu su estais, latviais, lietuviais ir rusų disidentais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1979 m.
@@ -97,6 +98,7 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     - t-001
 
 - c-004
+  santrauka: 'Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tikinčiųjų teisių gynimo komitetas.
@@ -124,5 +126,4 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
-- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
 - [[objektai/posakiai/„Šalin rankas nuo Lietuvos“ „Gorbačiovai, atsistatydink!“]]

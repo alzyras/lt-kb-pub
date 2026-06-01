@@ -46,20 +46,20 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - t-004
   teiginys: 'Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika 1398 metais.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-005
   teiginys: 'Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-006
   teiginys: 'Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-007
-  teiginys: 'Bet Melno sutartimi iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu Vytautas buvo ordinui užleidęs Salyno taika (1398).'
+  teiginys: 'Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika.'
   pagrindžia:
     - c-002
 
@@ -81,6 +81,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-003
 
 - c-002
+  santrauka: 'Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Sūduvių
@@ -95,6 +96,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   statusas: verified
   pagrindžia:
     - t-007
+    - t-004
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -127,22 +129,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Sūduvių
-    gyvento vakarinio ploto dalis atiteko ordinui. Bet Melno sutartimi
-    iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu
-    Vytautas buvo ordinui užleidęs Salyno taika (1398).
-    Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų
-    Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
-    Grajevo ir Točilovo ežerų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
     Tad jie
     stengėsi dešiniajame Nemuno žemupio krante (nuo Nevėžio) sau
     pasilaikyti plačią girios juostą. Ordinas primygtinai savinosi visą
@@ -157,7 +143,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   pagrindžia:
     - t-005
 
-- c-007
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po tiek ilgų ginčų ir ginkluotų konfliktų pagaliau buvo sutarta

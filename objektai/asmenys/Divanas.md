@@ -29,33 +29,34 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­ medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
+  teiginys: 'Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.'
   pagrindžia:
-    - c-002
+    - c-005
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo giminaitį, vardu Dabaras, o visus jo žmones išžudė.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu jie bematant.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
+  teiginys: 'Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
@@ -75,26 +76,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-001
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
-    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
-    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
-    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
-    susidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris
-    tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.
-
-
-
-
-                     118 (113).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
+  santrauka: 'Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
@@ -114,7 +96,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   pagrindžia:
     - t-005
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
@@ -133,7 +115,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ten jie narsiai užpuolė Divaną ir nukovė vieną
@@ -146,7 +128,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
   santrauka: 'Dusburgietis teigia, kad kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -163,8 +145,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   statusas: verified
   pagrindžia:
     - t-006
+    - t-002
 
-- c-007
+- c-006
   santrauka: 'Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo giminaitį, vardu Dabaras, o visus jo žmones išžudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -192,4 +175,3 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės]]
 - [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis]]
 - [[objektai/ivykiai/Vizenburgo pilies kautynės ir apleidimas (1263 m.)]]
-- [[objektai/zodynas/atskalūnybė atskalūnai]]

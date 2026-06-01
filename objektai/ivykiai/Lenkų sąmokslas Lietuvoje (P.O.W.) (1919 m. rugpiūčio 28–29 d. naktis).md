@@ -40,12 +40,12 @@ Nenurodyta
     - c-003
 
 - t-002
-  teiginys: 'Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis): mūsų saugumo organai susekė sąmokslininkus, tą pačią sukilimui skirtą naktį buvo padaryta krata P.O.W. centre (Kau- ne), kur buvo rastas organizacijos archyvas su narių sąrašais, šnipinėjimo, organizacijos ir kitais dokumentais. Sąmokslininkų vadai tuojau.'
+  teiginys: '1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis): visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W. organi- zacija ruošėsi sukilimui; tam tikslui ypač stengėsi patraukti savo pusėn karininkus ir kareivius. Kai kuriuos iš jų jai buvo jau pasisekę patraukti; kiti sąmokslininkai tyčia stojo į kariuomenę.'
+  teiginys: 'P.O.W. organizacija rengė sukilimą Lietuvoje ir siekė į savo pusę patraukti karininkus bei kareivius.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P.O.W. organizacija rengė sukilimą Lietuvoje ir siekė į savo pusę patraukti karininkus bei kareivius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W. organi-
@@ -72,6 +73,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet visas planas aitais

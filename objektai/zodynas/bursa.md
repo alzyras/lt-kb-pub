@@ -27,18 +27,19 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­ gė neturtingiems studentams bursą, pavadintą Valerijono vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos jėzuitų priežiūrai ir globai58.'
+  teiginys: 'Valerijonas Protasevičius neturtingiems studentams įsteigė Valerijono bursą ir pavedė ją jėzuitų priežiūrai.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: '58 Valerianae Bursae Erectio et Provisio [Valerijono bursos statyba ir aprū­ pinimas], Vilniaus kapitulos archy­ ve.'
+  teiginys: 'Valerijono bursos fundacijos dokumentas buvo datuotas 1579 m. Vilniuje, vyskupo dvare ir įprastuose rezidencijos namuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valerijono bursos fundacijos dokumentas buvo datuotas 1579 m. Vilniuje, vyskupo dvare ir įprastuose rezidencijos namuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     58
@@ -76,6 +77,7 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
     - t-002
 
 - c-002
+  santrauka: 'Valerijonas Protasevičius neturtingiems studentams įsteigė Valerijono bursą ir pavedė ją jėzuitų priežiūrai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vyskupo Protasevičiaus
@@ -100,6 +102,7 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Augustinas]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/kapitula]]
@@ -115,7 +118,6 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/grupes/Valerijono Bursos studentų bendrija]]
 - [[objektai/paprociai/Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra]]
-- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/kahalas]]

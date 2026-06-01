@@ -20,13 +20,14 @@ Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Te
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Teisės katedrai, Ignacas Dani­ la vičius, kuriam Lietuvos istorija ir teisės mokslas jau tiek skolin­ gi, mielai perleidęs man svarbius savo užrašus apie mažiau žinomas Vilniaus.'
+  teiginys: 'Ignacas Danilavičius perdavė Balińskiui svarbius užrašus apie mažiau žinomas Vilniaus miesto privilegijas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ignacas Danilavičius perdavė Balińskiui svarbius užrašus apie mažiau žinomas Vilniaus miesto privilegijas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau jaučiu malonią pareigą prisipažinti sa­

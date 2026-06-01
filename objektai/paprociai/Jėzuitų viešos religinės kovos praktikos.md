@@ -40,7 +40,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jėzuitų viešos religinės kovos praktikos: todėl Vilniaus vyskupas Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jė- zuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadi- namą kolegija (žiūr. 254 psl.). Maža to.'
+  teiginys: 'Vilniaus vyskupas Protasevičius kovai su protestantais atsikvietė jėzuitus, kurie Vilniuje įkūrė pirmą aukštesniąją mokyklą Lietuvoje.'
   pagrindžia:
     - c-003
 
@@ -91,6 +91,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Vilniaus vyskupas Protasevičius kovai su protestantais atsikvietė jėzuitus, kurie Vilniuje įkūrė pirmą aukštesniąją mokyklą Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl Vilniaus vyskupas

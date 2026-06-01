@@ -34,14 +34,9 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko- 1 skyrius • S E N O J I L I E T U VA 33 lonistus.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -61,23 +56,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau 1323–1324 m. Gedimino krikšto akcija
-    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
-    Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo –
-    priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    33
-    lonistus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

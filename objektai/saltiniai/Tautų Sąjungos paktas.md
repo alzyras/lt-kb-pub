@@ -19,7 +19,7 @@ Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją
 ## Teiginiai
 
 - t-001
-  teiginys: 'to, kad daugumas tuometinių Tautų S-gos narių dar netikėjo Pabaltijo valstybių pastovumu, ar nenorėjo prisiimti T.'
+  teiginys: 'Dalis Tautų Sąjungos narių nenorėjo prisiimti pakto prievolių ginti Pabaltijo valstybes nuo kaimynų agresijos.'
   pagrindžia:
     - c-002
 
@@ -50,6 +50,7 @@ Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją
     - t-002
 
 - c-002
+  santrauka: 'Dalis Tautų Sąjungos narių nenorėjo prisiimti pakto prievolių ginti Pabaltijo valstybes nuo kaimynų agresijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XI. 15 —

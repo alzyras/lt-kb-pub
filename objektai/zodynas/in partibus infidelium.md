@@ -20,13 +20,14 @@ Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo n
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­ se].'
+  teiginys: 'Vitas laikytas Lietuvos vyskupu in partibus infidelium, o ne Vilniaus vyskupu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vitas laikytas Lietuvos vyskupu in partibus infidelium, o ne Vilniaus vyskupu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stanislo­

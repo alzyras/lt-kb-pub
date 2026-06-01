@@ -28,28 +28,29 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 ## Teiginiai
 
 - t-001
-  teiginys: 'O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios Kunigaikštystės rūmų maršalka, tapo savininku namų, vadintų Filipovo namais, susidedančių iš keleto medinių, moliu aplipdytų, pastatų, užimančių dabartinį Kardinalijos sparną nuo.'
+  teiginys: 'Mikalojus Kristupas Radvila tapo Filipovo namų, užėmusių dabartinį Kardinalijos sparną nuo Didžiosios gatvės, savininku.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Vėliau, apie 1601 metus, abu namai - Goštautų ir Filipovo - kartu sujungti Albrechto Radvilos lai­ kais, gavo bendrą Kardinalijos pa­ vadinimą, išlikusį iki mūsų laikų.'
+  teiginys: 'Apie 1601 metus Goštautų ir Filipovo namai, sujungti Albrechto Radvilos laikais, gavo bendrą Kardinalijos pavadinimą.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Maždaug tuo metu vienas didžiausių Vil­ niaus namų, iki tol vadintas Kardinalija, statytas kunigaikš­ čio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis, iškilo tarp senų mūrinių namų ir medinių dvarų70.'
+  teiginys: 'Kardinalija buvo vienas didžiausių Vilniaus namų, statytas kardinolo Jurgio Radvilos lėšomis.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: 'Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi­ sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus.'
+  teiginys: 'Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kardinalija buvo vienas didžiausių Vilniaus namų, statytas kardinolo Jurgio Radvilos lėšomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 314
@@ -69,6 +70,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     - t-003
 
 - c-002
+  santrauka: 'Mikalojus Kristupas Radvila tapo Filipovo namų, užėmusių dabartinį Kardinalijos sparną nuo Didžiosios gatvės, savininku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčią, visą mū­
@@ -95,6 +97,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     - t-001
 
 - c-003
+  santrauka: 'Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įgudęs lietuvių istorijos žinovas Ig­
@@ -118,6 +121,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     - t-004
 
 - c-004
+  santrauka: 'Apie 1601 metus Goštautų ir Filipovo namai, sujungti Albrechto Radvilos laikais, gavo bendrą Kardinalijos pavadinimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kardinolas Radvila

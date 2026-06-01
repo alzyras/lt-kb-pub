@@ -51,7 +51,7 @@ Nenurodyta
 - t-002
   teiginys: 'Skubiu atveju buvo galimybė šiuo ginklu šaudyti ir automatine ugnimi, tačiau toks šaudymas buvo labai neefektyvus, nes ginklas buvo lengvas, o šovinys galingas ir ginklas taip šaudant tapdavo labai nestabilus Sovietų automatinis (pusiau automatinis) šautuvas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -74,23 +74,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Skubiu atveju buvo galimybė šiuo ginklu šaudyti ir automatine ugnimi, tačiau toks šaudymas buvo labai neefektyvus, nes ginklas buvo lengvas, o šovinys galingas ir ginklas taip šaudant tapdavo labai nestabilus Sovietų automatinis (pusiau automatinis) šautuvas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ginklo konstrukcija nebuvo labai sėkminga. Skubiu atveju buvo galimybė šiuo ginklu
-    šaudyti ir automatine ugnimi, tačiau toks šaudymas buvo labai neefektyvus, nes ginklas buvo
-    lengvas, o šovinys galingas ir ginklas taip šaudant tapdavo labai nestabilus
-
-    Sovietų automatinis (pusiau automatinis) šautuvas SVT-40 (Samozaryadnaya Vintovka
-    Tokareva, Obrazec 1940 goda), pusiau automatinis 1940 m pavyzdžio Tokarevo šautuvas.
-    Šovinys - 7,62x54 mm R, dėtuvė — 10 šovinių, efektyvaus šūvio nuotolis - 500-800 m,
-    šaudymo tempas - 25-30 šūvių per minutę, svoris 3,8 kg.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -98,3 +81,4 @@ Nenurodyta
 - [[objektai/daiktai/Dainavos apygardos kovotojų rankovės antsiuvas]]
 - [[objektai/daiktai/Sovietų automatinis šautuvas AK-74]]
 - [[objektai/daiktai/Sovietų automatinis šautuvas AVS-36]]
+- [[objektai/daiktai/Sovietų automatinis šautuvas AK-47]]

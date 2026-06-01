@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jo tėvą Igną Balinskį, Inflantų taurininką ir Vilniaus vai­ vadijos civilinį-karinį komisarą, antrasis valstybės padalijimas užklupo saugomą rusų kareivių namų arešte Vitebske.'
+  teiginys: 'Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­

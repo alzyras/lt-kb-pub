@@ -27,29 +27,24 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'GusTransatlantiniai lakūnai Steponas Darius ir Stasys Girėnas 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 175 taičio, 1934 m.'
-  pagrindžia:
-    - c-004
-
-- t-002
   teiginys: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Girėno sumanytą skrydį.'
-  pagrindžia:
-    - c-002
-
-- t-004
-  teiginys: 'Girėno žygdarbį ir t.'
+- t-002
+  teiginys: 'Sovietmečiu buvo leista rašyti apie S. Dariaus ir S. Girėno žygdarbį.'
   pagrindžia:
     - c-003
 
-- t-005
-  teiginys: 'Transatlantiniai lakūnai Steponas Darius ir Stasys Girėnas.'
+- t-003
+  teiginys: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas buvo pristatyti kaip modernūs jaunos nacijos didvyriai.'
   pagrindžia:
     - c-001
+
+- t-005
+  teiginys: '1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -66,7 +61,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -82,9 +77,9 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-003
-    - t-005
 
 - c-003
+  santrauka: 'Sovietmečiu buvo leista rašyti apie S. Dariaus ir S. Girėno žygdarbį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kazimiero bažnyčioje atidarytas Ateiz-
@@ -99,30 +94,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
-    buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
-    tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
-    pirmųjų raidžių). 66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
-    jos dirbtuvėse. Trijų ANBO IV lėktuvų grupė, vadovaujama A.  Gus-
-    Transatlantiniai lakūnai
-    Steponas Darius ir Stasys Girėnas
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    175
-    taičio, 1934 m. aplankė faktiškai visas Europos sostines, nuskrido per
-    10  000  km.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-005
   santrauka: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -138,10 +112,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-006
-  santrauka: 'Girėno sumanytą skrydį.'
+- c-005
+  santrauka: '1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo laiške
@@ -154,13 +128,11 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Lėktuvai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„Antanas nori būti ore“]]
 - [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
 - [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]

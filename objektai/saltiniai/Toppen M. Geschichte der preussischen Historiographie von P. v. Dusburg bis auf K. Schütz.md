@@ -25,13 +25,14 @@ Dusburgietis teigia, kad toppen M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad toppen M.'
+  teiginys: 'M. Toppeno „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“ išleista Berlyne 1853 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Toppeno „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“ išleista Berlyne 1853 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.

@@ -29,39 +29,23 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: 'Šaltinis pateikia lietuvišką šios skanduotės variantą „Marš į Kauną“.'
+  teiginys: 'Lenkijos miestų gatvėse tūkstančiai žmonių skandavo „Marsz na Kowno“ („Marš į Kauną“), nors oficialiąją Varšuvą ultimatumo rezultatai tenkino.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Skanduotė minima po Lietuvos sprendimo kovo 19 d. priimti ultimatumą.'
+  teiginys: '„Marsz na Kowno“ („Marš į Kauną“) Lenkijos miestų gatvėse skanduotas po to, kai 1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą.'
   pagrindžia:
     - c-001
 
 - t-004
   teiginys: 'Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“), oficialiąją Varšuvą rezultatai tenkino.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    dėl tos kovos baigties jis neturi iliuzijų, tad pasisako už taikų sprendimą.
-    Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 die-
-    ną Lietuva ultimatumą priėmė. Nors tūkstančiai karštakošių Lenkijos
-    miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“),
-    oficialiąją Varšuvą rezultatai tenkino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -76,6 +60,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
+    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

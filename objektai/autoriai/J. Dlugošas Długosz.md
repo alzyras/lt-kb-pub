@@ -20,12 +20,12 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
+  teiginys: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad Vilna agmine silenti veniens et JagyelJonem ducem et castrum Vilnense comprehen­ dit [Į Vilnių su būriu slaptu atėjęs ir kunigaikštį Jogailą, ir Vilniaus pilį užėmė].'
+  teiginys: 'J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.'
   pagrindžia:
     - c-001
 
@@ -37,6 +37,7 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, regis, toks stai­
@@ -59,6 +60,7 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
     - t-002
 
 - c-002
+  santrauka: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Strijkovskis yra pasakęs, kad Gedimino pa­

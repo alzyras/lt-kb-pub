@@ -23,7 +23,7 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
     - c-001
 
 - t-002
-  teiginys: 'Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­ trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ).'
+  teiginys: 'Poznaniaus vyskupas ir Lenkijos kancleris Vaitiekus Jastrzembiec buvo atsidavęs Vytauto reikalams.'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
     - t-001
 
 - c-002
-  santrauka: 'Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­ trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ).'
+  santrauka: 'Poznaniaus vyskupas ir Lenkijos kancleris Vaitiekus Jastrzembiec buvo atsidavęs Vytauto reikalams.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Net
@@ -74,5 +74,5 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]

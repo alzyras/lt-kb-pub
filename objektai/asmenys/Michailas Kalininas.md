@@ -47,5 +47,4 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 ### Susiję objektai
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]

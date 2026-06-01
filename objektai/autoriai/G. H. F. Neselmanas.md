@@ -26,45 +26,24 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten.—Berlin, 1845.'
-  pagrindžia:
-    - c-004
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad neselmanu, baigiant J.'
-  pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad nesselmann G. H. F. Thesaurus linguae prussicae.— Berlin, 1873.'
+  teiginys: 'G. H. F. Neselmano veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m.'
   pagrindžia:
     - c-003
 
-- t-004
-  teiginys: 'Dusburgietis teigia, kad 6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...; Endzelīns J. Senprūšu valoda; Būga K. Rinktiniai raštai, t. 1, 3; Mikalauskaitė E. Priešreformacinių...,.p. 102—106; Matusevičiūtė I. Kiek naujos medžiagos..., p. 10—18.'
+- t-002
+  teiginys: 'G. H. F. Neselmano veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'G. H. F. Neselmano darbai „Die Sprache...“ ir „Thesaurus...“ įtraukti į prūsų kalbos paminklų bibliografiją.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
-    J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
-    lietuvių lingvistai, ypač tarybiniu laikotarpiu6. Ilgainiui pavyko nustatyti prūsų kalbos
-    vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių
-    kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu
-    lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
-    už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
-    rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'G. H. F. Neselmano darbai „Die Sprache...“ ir „Thesaurus...“ įtraukti į prūsų kalbos paminklų bibliografiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...;
@@ -80,9 +59,10 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-003
+- c-002
+  santrauka: 'G. H. F. Neselmano veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nesselmann G. H. F. Thesaurus linguae prussicae.— Berlin, 1873.
@@ -90,9 +70,10 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
+  santrauka: 'G. H. F. Neselmano veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten.—Berlin,
@@ -106,13 +87,3 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
-
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Endzelins J]]
-- [[objektai/autoriai/F. Bopas]]
-- [[objektai/autoriai/J. Endzelynas]]
-- [[objektai/autoriai/V. Mažiulis]]
-- [[objektai/zodynas/vakariniai baltai]]

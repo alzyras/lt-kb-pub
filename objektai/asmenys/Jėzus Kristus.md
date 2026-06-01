@@ -32,10 +32,10 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 - t-003
   teiginys: 'Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad septyni Teutonų ordino broliai su keliais ginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik iš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium], bet ilgainiui, per penkiasdešimt trejus.'
+  teiginys: 'Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus.'
   pagrindžia:
     - c-003
 
@@ -77,8 +77,10 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-003
+  santrauka: 'Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pats matyk
@@ -99,30 +101,11 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   pagrindžia:
     - t-004
 
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
-    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
-    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
-    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
-    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
-    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
-    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
-    apreikšti dievo darbus yra šlovinga.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
 - [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Kuoras aukštai ąžuole]]
 - [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

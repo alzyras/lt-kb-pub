@@ -17,7 +17,7 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 ## Teiginiai
 
 - t-001
-  teiginys: 'Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užstatą sidabrui Jo Karališkosios Didenybės reikalams nuo žydo Brastoje ėmė po 56 lenkiškus grašius.'
+  teiginys: 'Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.'
   pagrindžia:
     - c-002
 
@@ -46,6 +46,7 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
     - t-002
 
 - c-002
+  santrauka: 'Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man buvo ati­

@@ -21,11 +21,6 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Posakis nuskamba po atsakymo, kad jie išvarys visus vokiečius, ir po jo karalius liepia nukirsti pašnekovui galvą.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą.'
   pagrindžia:
     - c-001

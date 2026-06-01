@@ -75,12 +75,12 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-010
 
 - t-008
-  teiginys: 'Dusburgietis teigia, kad gedimino laiškai / Parengė V.'
+  teiginys: '„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.'
   pagrindžia:
     - c-013
 
 - t-009
-  teiginys: 'L I E T U V O S I S T O R I J A 36 Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
+  teiginys: 'Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
   pagrindžia:
     - c-012
 
@@ -90,7 +90,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-015
 
 - t-011
-  teiginys: 'Ne tik prieštaringi tokie jų santykiai, bet tas, kuris tuos laiš­ kus rašė, klydo įsivaizduodamas Gedimino mąstyseną Ma­ zovijos kunigaikščio atžvilgiu ir, matyt, net gerai nežinojo, kas tuo metu buvo Mazovijos kunigaikštis.'
+  teiginys: 'Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą.'
   pagrindžia:
     - c-011
 
@@ -100,7 +100,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-017
 
 - t-013
-  teiginys: 'Nebūtų sunku surinkti daugiau laiškų netikrumo įrody­ mų, bet ir šių pakaks patvirtinti nuomonei, kad tie laiškai iš tiesų buvo prasimanyti, ir būtent Rygos arkivyskupo, iš ne­ apykantos kryžiuočiams.'
+  teiginys: 'Balińskis laikėsi nuomonės, kad Gedimino laiškai buvo Rygos arkivyskupo prasimanyti iš neapykantos kryžiuočiams.'
   pagrindžia:
     - c-016
 
@@ -110,7 +110,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-014
 
 - t-015
-  teiginys: 'Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie Mazoviją, kaip apie kraštą, per kurį kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­ nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal.'
+  teiginys: 'Gedimino laiškų netikrumo įrodymu laikyta užuomina apie Mazoviją kaip laisvą ir saugų kelią svetimšaliams į Lietuvą.'
   pagrindžia:
     - c-019
 
@@ -363,6 +363,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-007
 
 - c-011
+  santrauka: 'Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     398 ir 399.
@@ -379,6 +380,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-011
 
 - c-012
+  santrauka: 'Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -396,6 +398,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-009
 
 - c-013
+  santrauka: '„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Gedimino laiškai / Parengė V. Pašuta ir J. Stal.—V., 1966.
@@ -454,6 +457,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-010
 
 - c-016
+  santrauka: 'Balińskis laikėsi nuomonės, kad Gedimino laiškai buvo Rygos arkivyskupo prasimanyti iš neapykantos kryžiuočiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -522,6 +526,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-016
 
 - c-019
+  santrauka: 'Gedimino laiškų netikrumo įrodymu laikyta užuomina apie Mazoviją kaip laisvą ir saugų kelią svetimšaliams į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau kodėl Ge­

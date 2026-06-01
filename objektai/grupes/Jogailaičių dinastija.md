@@ -31,12 +31,12 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tai reiškė pradžią visai naujos, beveik du amžiu (1386-1572) patveru­ sios Jogailaičių epochos, sekusios keliolika metų po paskutiniojo Piasto Kazimiero Didžiojo mirties (1370).'
+  teiginys: 'Jogailaičių epocha truko beveik du amžius, nuo 1386 iki 1572 metų.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: '« Jogailaičių epocha» Lenkijos istorijoje yra laikoma pati šviesiau­ sioji.'
+  teiginys: 'Jogailaičių epocha Lenkijos istorijoje laikoma šviesiausiąja.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailaičių epocha truko beveik du amžius, nuo 1386 iki 1572 metų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ne mažiau jų davė ir santykiai su Lenkija. Rytų Europos
@@ -68,6 +69,7 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
     - t-001
 
 - c-002
+  santrauka: 'Jogailaičių epocha Lenkijos istorijoje laikoma šviesiausiąja.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vienas jo anūkų (Kazi­

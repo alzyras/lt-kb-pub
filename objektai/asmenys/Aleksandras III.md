@@ -52,5 +52,3 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/polonofobija]]
 - [[objektai/zodynas/separatizmas]]
-- [[objektai/zodynas/pradai]]
-- [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]

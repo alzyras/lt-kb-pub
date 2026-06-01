@@ -20,13 +20,14 @@ Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar to
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­ žįstančių valdinių cesijos ar decesijos būdu, sudarydami kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę, 401.'
+  teiginys: 'Cesijos ar decesijos būdu dominijos nuosavybę įgiję žmonės turėjo prisiimti ankstesnių savininkų mokėtas duokles.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Cesijos ar decesijos būdu dominijos nuosavybę įgiję žmonės turėjo prisiimti ankstesnių savininkų mokėtas duokles.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tarė­

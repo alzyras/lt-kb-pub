@@ -24,13 +24,14 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
     - c-002
 
 - t-002
-  teiginys: 'Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigraciją: jos stengiasi visus išeivius sukoncentruoti kitų kontinentų tuščiuose ar apytuščiuose plotuose, vadinamosiose kolonijose, kurios tampa antrąja tėvyne.'
+  teiginys: 'Kolonijomis vadinti kitų kontinentų tušti ar apytuščiai plotai, kuriuose didžiosios Europos tautos stengėsi sutelkti savo išeivius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kolonijomis vadinti kitų kontinentų tušti ar apytuščiai plotai, kuriuose didžiosios Europos tautos stengėsi sutelkti savo išeivius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Emigracijos neišvengia nė viena tauta. Bet visos didžiosios

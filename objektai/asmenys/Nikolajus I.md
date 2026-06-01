@@ -36,7 +36,7 @@ periodo_grupes:
 - t-002
   teiginys: '1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Įkūrus slaptąją policiją, caro Nikolajaus I priežiūra Vilniaus švietimo apygardoje tapo dar akylesnė.'
@@ -104,24 +104,6 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be to,
-    kaip rašė viename laiške jo žmona, Vilniuje jam buvo pasiūly­
-    tos Vilniaus gimnazijos kuratoriaus pareigos. Lietuvoje M. Ba­
-    linskis sutinka jaunystės draugus ir aktyviai įsitraukia į kultūri­
-    nį krašto gyvenimą. 1855 m., po caro Nikolajaus I mirties ir
-    XII
-
-    ## Puslapis 13
-
-    Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

@@ -25,26 +25,11 @@ Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atmini
 - t-002
   teiginys: 'Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tokie lydy-
-    mosi procesai vyko ir LDK, ypač svarbus čia buvo lenkų kalbos veiksnys.
-    Tačiau šie procesai baigėsi ne visuotine polonizacija, o kelių modernių
-    tautų (lietuvių, baltarusių, ukrainiečių) susikūrimu. Todėl LDK į istoriją
-    įėjo ne kaip tautų kalėjimas ar lydymosi katilas, o kaip tautų lopšys – tai
-    svarbiausias LDK imperijos savitumas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -60,6 +45,7 @@ Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atmini
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

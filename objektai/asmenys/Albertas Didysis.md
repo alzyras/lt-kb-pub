@@ -33,36 +33,21 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Albertą Didįjį ir Tomą Akvinietį Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas, kuris neturėjo sau lygaus išsilavinimu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
-  teiginys: 'Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas.'
+  teiginys: 'Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Šiame šaltinyje nurodoma, kad atsisakęs Regensburgo vyskupystės Albertas Didysis 18 metų triūsė Kelne ir mirė 1280 m., sulaukęs 80-ųjų metų.'
+  teiginys: 'Albertas Didysis atsisakė Regensburgo vyskupystės, 18 metų triūsė Kelne ir mirė 1280 m., sulaukęs 80 metų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas,
-    kuris neturėjo sau lygaus išsilavinimu. Atsisakęs Regensburgo vyskupystės,  jis 18
-    metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties
-    metais, o palaidotas Kelne. Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
-    mokinys bei pamokslininkų ordino vienuolis (Ptol.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Albertą Didįjį ir Tomą Akvinietį
@@ -77,25 +62,11 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Albertą Didįjį ir Tomą Akvinietį Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas, kuris neturėjo sau lygaus išsilavinimu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    41. Apie Albertą Didįjį ir Tomą Akvinietį
-
-      Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas,
-    kuris neturėjo sau lygaus išsilavinimu. Atsisakęs Regensburgo vyskupystės,  jis 18
-    metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties
-    metais, o palaidotas Kelne.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
+    - t-002
+    - t-003
     - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/vyskupystė]]

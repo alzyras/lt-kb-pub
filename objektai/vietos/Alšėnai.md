@@ -31,7 +31,7 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
     - c-001
 
 - t-002
-  teiginys: 'Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų...................'
+  teiginys: 'Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų.'
   pagrindžia:
     - c-002
 
@@ -54,6 +54,7 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
     - t-001
 
 - c-002
+  santrauka: 'Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dalyvaujant didžiai

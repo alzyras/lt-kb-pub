@@ -29,17 +29,17 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nuo to laiko Podolijoj įsigalėjo Algirdo gimi­ naičiai Karijotai, Gedimino sūnaus sūnūs.'
+  teiginys: 'Po 1362 m. Mėlynųjų Vandenų mūšio Podolijoje įsigalėjo Algirdo giminaičiai Karijotai.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­ trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ).'
+  teiginys: 'Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Todėl nenuostabu, kad po Torno taikos įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui pasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­ čą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­ damas gyvo lenkų.'
+  teiginys: 'Po Torno taikos Jogaila išsprendė lietuvių ir lenkų ginčą dėl Podolijos, duodamas Vytautui vakarinę jos dalį su Kamieniecu.'
   pagrindžia:
     - c-004
 
@@ -49,12 +49,12 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - c-006
 
 - t-005
-  teiginys: 'Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž.'
+  teiginys: 'Vytauto laikais Podolijoje buvo daug dvarų ir ūkio centrų, nes ši sritis buvo labiau apgyventa.'
   pagrindžia:
     - c-005
 
 - t-006
-  teiginys: 'Tą balsą, kaip ir pirma dėl Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­ ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos reikalą^1 ).'
+  teiginys: 'Jadvyga anksčiau kėlė protesto balsą dėl Podolijos, rūpindamasi, kad jos auka nenueitų niekais.'
   pagrindžia:
     - c-008
 
@@ -90,6 +90,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-008
 
 - c-002
+  santrauka: 'Po 1362 m. Mėlynųjų Vandenų mūšio Podolijoje įsigalėjo Algirdo giminaičiai Karijotai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo laiku tą sritį valdė trys broliai emirai. Bet jie buvo Algirdo
@@ -103,6 +104,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-001
 
 - c-003
+  santrauka: 'Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Net
@@ -123,6 +125,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-002
 
 - c-004
+  santrauka: 'Po Torno taikos Jogaila išsprendė lietuvių ir lenkų ginčą dėl Podolijos, duodamas Vytautui vakarinę jos dalį su Kamieniecu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     biau jai rodydamas savo reikalingumą, o artindamasis į Ordiną,
@@ -141,6 +144,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-003
 
 - c-005
+  santrauka: 'Vytauto laikais Podolijoje buvo daug dvarų ir ūkio centrų, nes ši sritis buvo labiau apgyventa.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
@@ -190,6 +194,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-007
 
 - c-008
+  santrauka: 'Jadvyga anksčiau kėlė protesto balsą dėl Podolijos, rūpindamasi, kad jos auka nenueitų niekais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkai stengėsi pastoti tam kelią. 1398 m.

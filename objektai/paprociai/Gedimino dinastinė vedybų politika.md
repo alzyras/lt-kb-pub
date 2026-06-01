@@ -52,13 +52,14 @@ Nenurodyta
     - c-005
 
 - t-004
-  teiginys: 'XIV amžiuje valdovams buvo paprotys vesti svetimų kraštų kunigaikštytes, nes galingiems valdovams buvo nepatogu susirišti giminystės ryšiais su savo pavaldiniais.'
+  teiginys: 'Dinastinėse vedybose valdovai vesdavo svetimų kraštų kunigaikštytes, vengdami giminystės ryšių su savo pavaldiniais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dinastinėse vedybose valdovai vesdavo svetimų kraštų kunigaikštytes, vengdami giminystės ryšių su savo pavaldiniais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Anuo laiku, tiesa,

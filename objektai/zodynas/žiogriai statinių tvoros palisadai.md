@@ -20,28 +20,29 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Visi tie pastatai, at­ skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­ mus, besišliejančius prie pilių, negu į tokius miestus, kokie jau XIV amžiuje puošė Lenkiją.'
+  teiginys: 'Aplink pilį stovėję pastatai buvo atskirti žiogriais, arba statinių tvoromis, tarp jų plytėjo daržai ir pievos.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Šalimais jo apvalus bokštas, iš plytų ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­ lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­ tinių tvora, paskui Vilnios upės.'
+  teiginys: 'Kreivosios pilies apsauginę juostą sudarė aukšta statinių tvora, Vilnios vandenys ir Gedimino laikais iškasta perkasa.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Vilniuje, vi­ dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio slėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­ tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­ juosta statinių tvoromis.'
+  teiginys: 'Vilniaus miesto centro aikštė buvo apstatyta prekijų krautuvėlėmis ir nuo kryžiuočių antpuolių apjuosta statinių tvoromis.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai išsklidę Že­ mutinės pilies pastatai, daugiausia mediniai, bet aukštais bokštais ir palisadais apjuosti.'
+  teiginys: 'Žemutinės pilies pastatai buvo daugiausia mediniai, apjuosti aukštais bokštais ir palisadais.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aplink pilį stovėję pastatai buvo atskirti žiogriais, arba statinių tvoromis, tarp jų plytėjo daržai ir pievos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Antakalnis yra pava­
@@ -75,6 +76,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
     - t-001
 
 - c-002
+  santrauka: 'Kreivosios pilies apsauginę juostą sudarė aukšta statinių tvora, Vilnios vandenys ir Gedimino laikais iškasta perkasa.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kunigaikščio rūmų pastatai,
@@ -107,6 +109,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
     - t-002
 
 - c-003
+  santrauka: 'Žemutinės pilies pastatai buvo daugiausia mediniai, apjuosti aukštais bokštais ir palisadais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tolėliau, toje vietoje,
@@ -135,6 +138,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
     - t-004
 
 - c-004
+  santrauka: 'Vilniaus miesto centro aikštė buvo apstatyta prekijų krautuvėlėmis ir nuo kryžiuočių antpuolių apjuosta statinių tvoromis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvai, ilgai nuo krikščio­

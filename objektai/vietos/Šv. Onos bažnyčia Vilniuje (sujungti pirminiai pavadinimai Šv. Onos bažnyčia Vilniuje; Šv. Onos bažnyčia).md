@@ -26,17 +26,17 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje.'
+  teiginys: 'Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.'
+  teiginys: 'Naujoji Šv. Onos bažnyčia Vilniaus pilyje buvo nurodyta kaip palaidojimo vieta mirties Lietuvos Kunigaikštystėje atveju.'
   pagrindžia:
     - c-005
 
 - t-003
-  teiginys: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
+  teiginys: 'Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.'
   pagrindžia:
     - c-007
 
@@ -46,7 +46,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     - c-006
 
 - t-005
-  teiginys: 'Onos bažnyčia būtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­ noti ir aprūpinti būtų.'
+  teiginys: 'Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti.'
   pagrindžia:
     - c-004
 
@@ -56,13 +56,14 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     - c-003
 
 - t-007
-  teiginys: 'O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad.'
+  teiginys: 'Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat savo lėšomis pilies teritori­
@@ -81,6 +82,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     - t-001
 
 - c-002
+  santrauka: 'Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
@@ -124,6 +126,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     - t-006
 
 - c-004
+  santrauka: 'Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad klebonija ir
@@ -145,6 +148,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     - t-005
 
 - c-005
+  santrauka: 'Naujoji Šv. Onos bažnyčia Vilniaus pilyje buvo nurodyta kaip palaidojimo vieta mirties Lietuvos Kunigaikštystėje atveju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dėl to norime, kad mūsų kū­
@@ -187,6 +191,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     - t-004
 
 - c-007
+  santrauka: 'Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O už tai jų dideny­

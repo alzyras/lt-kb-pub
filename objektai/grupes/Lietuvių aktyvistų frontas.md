@@ -66,34 +66,29 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: '1941 m. rugsėjo 26 d. naciai uždarė LAF.'
-  pagrindžia:
-    - c-003
-
-- t-004
   teiginys: 'Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą, būsimo sukilimo detales.'
   pagrindžia:
     - c-002
 
-- t-005
+- t-004
   teiginys: 'Daugumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai dominavo eksporte ir importe, be to, žydai sudarė 83 proc.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
+  pagrindžia:
+    - c-001
+
+- t-006
+  teiginys: 'Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas iš Vokietijos.'
   pagrindžia:
     - c-005
 
-- t-006
-  teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
-  pagrindžia:
-    - c-004
-
 - t-007
-  teiginys: 'Mičiūno reprodukcija) L I E T U V O S I S T O R I J A 196 Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos.'
-  pagrindžia:
-    - c-007
-
-- t-008
   teiginys: 'Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų susidariusią Lietuvių nacionalistų partiją).'
   pagrindžia:
-    - c-006
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -115,6 +110,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-005
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -146,44 +142,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
 - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
-    Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
-    dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
-    būsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su
-    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
-    gus, oro uostus, fabrikus ir kt. LAF vadovybė pernelyg pasitikėjo nacių
-    Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus
-    suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
-    K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
-    ryšius su nacių Vokietija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva – žemės
-    ūkio šalis – kaime gyveno 84 proc. gyventojų, o lietuviai sudarė 91 proc.
-    jų. Nors buvo žemdirbių tauta, lietuviai sudarė 50 proc. miesto gyventojų,
-    žydai – trečdalį miestų ir miestelių ir tik 0,5 proc. kaimo gyventojų. Dau-
-    gumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai
-    dominavo eksporte ir importe, be to, žydai sudarė 83 proc. visų prekybos
-    įmonių savininkų, lietuviai – vos 13 proc.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vyriausybės pir-
@@ -196,9 +157,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-007
+- c-005
+  santrauka: 'Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas iš Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     giausia tai spontaniškas atsakas į sovietų politiką Lietuvoje, iš dalies jis
@@ -225,7 +187,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

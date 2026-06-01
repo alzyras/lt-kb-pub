@@ -25,12 +25,12 @@ tags:
     - c-001
 
 - t-002
-  teiginys: 'Viena jų va­ dinama Krautuvių Pilimi, kurioje su­ sirinko keletas tūkstančių ginkluotų žmonių, vyresnieji bei abiejų lyčių prastuomenė, - ir pilies ginti, ir ieš­ kodami ten saugaus prieglobsčio.'
+  teiginys: 'Krautuvių Pilyje susirinko keli tūkstančiai ginkluotų žmonių, vyresnieji ir prastuomenė, siekę ją ginti ir rasti prieglobstį.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
+  teiginys: 'Krautuvių Pilyje slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją taip praminė.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ tags:
     - t-001
 
 - c-002
+  santrauka: 'Krautuvių Pilyje slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją taip praminė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie jos šliejosi
@@ -77,6 +78,7 @@ tags:
     - t-003
 
 - c-003
+  santrauka: 'Krautuvių Pilyje susirinko keli tūkstančiai ginkluotų žmonių, vyresnieji ir prastuomenė, siekę ją ginti ir rasti prieglobstį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     28

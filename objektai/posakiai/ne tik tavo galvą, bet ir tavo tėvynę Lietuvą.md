@@ -17,13 +17,14 @@ Išėjus jo tarnams, Zigmantas taip prabilo į Jogailą: „Uwaž, najmilszy bra
 ## Teiginiai
 
 - t-001
-  teiginys: 'Zigmantas ragino Jogailą sutikti, kad Vytautas būtų vainikuotas karaliumi ir taptų jiems lygus.'
+  teiginys: 'Zigmantas ragino Jogailą leisti vainikuoti Vytautą karaliumi, kad karūna puoštų ne tik Jogailos galvą, bet ir jo tėvynę Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zigmantas ragino Jogailą leisti vainikuoti Vytautą karaliumi, kad karūna puoštų ne tik Jogailos galvą, bet ir jo tėvynę Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Išėjus jo tarnams, Zigmantas taip
@@ -48,5 +49,5 @@ Išėjus jo tarnams, Zigmantas taip prabilo į Jogailą: „Uwaž, najmilszy bra
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Zigmantas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/daiktai/Karūna]]

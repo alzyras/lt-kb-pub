@@ -20,36 +20,21 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
 - t-001
   teiginys: '1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Neprasigy-
-    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
-    Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Per 20 metų iš
-    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
-    vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
-    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su stipriausiais finansiškai ir
@@ -65,7 +50,7 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -80,6 +65,7 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -68,30 +68,25 @@ Nenurodyta
     - c-005
 
 - t-006
-  teiginys: 'Tuo susitarimu, kalavijuočių ordinas buvo panaikintas, o likusieji jo nariai tapo kryžiuočiais.'
-  pagrindžia:
-    - c-007
-
-- t-007
   teiginys: 'Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.'
   pagrindžia:
+    - c-007
     - c-008
-    - c-009
 
-- t-008
+- t-007
   teiginys: '1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.'
   pagrindžia:
     - c-006
 
-- t-009
+- t-008
   teiginys: 'Skaudžiai pralaimėję šitą mūšį, likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.'
   pagrindžia:
-    - c-010
-
-- t-010
-  teiginys: 'Ivinskio tekste Vykinto vadovaujami būriai sumušė grįžtančius riterius; tarp žuvusiųjų minimi Volkevinas ir 48 riteriai.'
-  pagrindžia:
     - c-009
+
+- t-009
+  teiginys: '1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -189,25 +184,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo susitarimu, kalavijuočių ordi-
-    nas buvo panaikintas, o likusieji jo nariai tapo kryžiuočiais. Ka-
-    dangi jų čia buvo likę nebedaug, tai iš Prūsų buvo atsiųsta naujų
-    jėgų. Taip pat buvo atsiųstas ir naujas krašto magistras. Jis da-
-    bar jau nebebuvo atskiro ordino magistras, bet priklausė kry-
-    žiuočių didžiojo magistro, taigi buvo kryžiuočių provincijos, t.
-    y. krašto magistras (Landmeister).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Sandomierius 213, 217, 269, 286
@@ -234,9 +213,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-009
+- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vėl pasitelkę jungtinę vietinių tautų kariuomenę ir gavę
@@ -250,10 +229,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
-    - t-010
+    - t-006
+    - t-009
 
-- c-010
+- c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš visos jų kariuomenės, kaip rašo
@@ -265,7 +244,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
@@ -280,7 +259,6 @@ Nenurodyta
 - [[objektai/asmenys/Volkvinas]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/posakiai/kein Soule sie karten wider]]
-- [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/kryžiaus karas]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/magistras]]

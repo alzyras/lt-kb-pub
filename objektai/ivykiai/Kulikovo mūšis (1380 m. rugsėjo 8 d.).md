@@ -43,13 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo.'
+  teiginys: 'Andrius Algirdaitis 1380 m. rugsėjo 8 d. Kulikovo lauke kovėsi prieš totorius ir daug prisidėjo prie pergalės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Andrius Algirdaitis 1380 m. rugsėjo 8 d. Kulikovo lauke kovėsi prieš totorius ir daug prisidėjo prie pergalės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
@@ -93,5 +94,6 @@ Nenurodyta
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Andrius Algirdaitis]]
-- [[objektai/asmenys/Dmitrijus Doniškis]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Dmitrijus Doniškis]]

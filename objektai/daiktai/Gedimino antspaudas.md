@@ -60,17 +60,17 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - c-001
 
 - t-003
-  teiginys: 'To [rašto] paliudijimui laikėme reikalingu dalyku pridė­ ti prie šio laiško tą mūsų antspaudą, kurį pasiuntėme apaš­ tališkajam viešpačiui ir švenčiausiajam mūsų tėvui ir kurį kryžiuočiai šios pasiuntinybės įžeidimui įmetė į ugnį.'
+  teiginys: 'Gediminas prie laiško pridėjo antspaudą, kurį buvo siuntęs popiežiui ir kurį kryžiuočiai įmetė į ugnį.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­ vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­ mo vertus vyrus; mes, be savo parašo ir be šio savo laiško, sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­ mingai prižadame.'
+  teiginys: 'Gediminas savo karališkuoju antspaudu sutvirtino laišką, kuriame žadėjo pasiuntiniams nustatyti tarpusavio taiką.'
   pagrindžia:
     - c-003
 
 - t-005
-  teiginys: 'Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C'''' ■^la ir toliau cit.'
+  teiginys: 'Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis.'
   pagrindžia:
     - c-002
 
@@ -101,6 +101,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - t-002
 
 - c-002
+  santrauka: 'Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­
@@ -151,6 +152,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - t-005
 
 - c-003
+  santrauka: 'Gediminas savo karališkuoju antspaudu sutvirtino laišką, kuriame žadėjo pasiuntiniams nustatyti tarpusavio taiką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jei jie [se­
@@ -180,6 +182,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - t-004
 
 - c-004
+  santrauka: 'Gediminas prie laiško pridėjo antspaudą, kurį buvo siuntęs popiežiui ir kurį kryžiuočiai įmetė į ugnį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šį raštą mes laikysime nekeičiamu, nes mūsų žodis liks

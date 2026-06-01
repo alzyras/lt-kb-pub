@@ -23,13 +23,14 @@ Dusburgietis teigia, kad crome H.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad crome H.'
+  teiginys: 'H. Crome veikalas apie ankstyvuosius Sembos piliakalnius paskelbtas 1940 m. leidinio „Prussia“ 34 tome.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'H. Crome veikalas apie ankstyvuosius Sembos piliakalnius paskelbtas 1940 m. leidinio „Prussia“ 34 tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Crome H. Führer zu den frühgeschichtlichen Burgwällen im Samlande.— Prussia,

@@ -29,21 +29,22 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - t-001
   teiginys: 'Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
-  teiginys: 'Taikai palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­ leido Valkaviską^19.'
+  teiginys: 'Budikidas ir jo brolis Budivydas 1289 m. taikai palaikyti perleido Valkaviską Haličo-Volinijos kunigaikščiams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Budikidas ir jo brolis Budivydas 1289 m. taikai palaikyti perleido Valkaviską Haličo-Volinijos kunigaikščiams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Haličo — Volinijos kunigaikščiai plėtėsi į šiaurę,
@@ -77,23 +78,4 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
-    Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
-    2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-
-    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
-    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
-    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
-    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
-    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
-    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
-    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
-    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001

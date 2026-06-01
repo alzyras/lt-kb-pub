@@ -30,7 +30,7 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
 - t-002
   teiginys: 'Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -54,22 +54,6 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Radijo stotys gautos iš Dariaus ir Girėno
-    skraidymo klubo. Nešiojamosios radijo
-    stotelės perimtos iš buvusios DOSAAF
-    (jomis buvo sukurtas ryšio tinklas tarp
-    lauko postų), R-105 ir R-107 karinės radijo
-    stotys gautos iš kol kas nežinomų šaltinių
-    ir panaudotos radijo žvalgybai (sovietų
-    ryšio pasiklausymui).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

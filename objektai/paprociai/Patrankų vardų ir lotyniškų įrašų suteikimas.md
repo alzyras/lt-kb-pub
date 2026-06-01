@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bent jau vertingiausi ginklai (toliau rašo Golembiovskis) turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­ dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­ tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­ mantu Senuoju ir.'
+  teiginys: 'Vertingiausios patrankos turėjo vardus, o ant kiekvieno pabūklo paprastai būdavo dvi lotyniškos eilutės apie jo žygdarbius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vertingiausios patrankos turėjo vardus, o ant kiekvieno pabūklo paprastai būdavo dvi lotyniškos eilutės apie jo žygdarbius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bent jau vertingiausi ginklai (toliau rašo Golembiovskis)

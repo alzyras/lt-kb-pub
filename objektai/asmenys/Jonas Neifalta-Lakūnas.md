@@ -29,7 +29,7 @@ periodo_grupes:
 - t-001
   teiginys: 'Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui, kuriam talkino Aleksandras Podemanskas-Šarūnas.'
@@ -89,25 +89,6 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo būdu laimėta, kad ir
-    didžiausi bolševikų padlaižiai neišdrįsdavo imtis nenaudingos gyventojams ir pražūtingos
-    kraštui linijos, o išardytas tarybinis aparatas nepajėgė taip greit iščiulpti gyventojų turto,
-    gėrybių ir darbo jėgos. Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš
-    akis galimas partizanų negailestingas sankcijas.“
-
-    Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos
-    kariuomenės ulonų puskarininkio Jono
-    Neifalto- Lakūno ir jam talkinančio
-
-    Aleksandro Podemansko - Šarūno.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

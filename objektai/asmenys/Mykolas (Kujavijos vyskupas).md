@@ -27,13 +27,14 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui Vilhelmui, Dirsovijos grafams — vyresniajam ir.'
+  teiginys: 'Kujavijos vyskupas Mykolas buvo tarp liudytojų, dalyvavusių tvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kujavijos vyskupas Mykolas buvo tarp liudytojų, dalyvavusių tvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
@@ -61,6 +62,8 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/grupes/Teutonai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas)]]
 - [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas)]]
 - [[objektai/asmenys/Gernuldas]]

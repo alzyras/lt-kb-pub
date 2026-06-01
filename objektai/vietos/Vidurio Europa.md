@@ -22,52 +22,36 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 - t-001
   teiginys: 'Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Antrosios XVIII a. pusės valstiečių reforma Lenkijos ir Lietuvos Valstybėje neturėjo precedento Vidurio Europoje.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa.'
   pagrindžia:
-    - c-001
+    - c-005
 
 - t-004
   teiginys: 'Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-005
   teiginys: 'Reiškinys neturėjo precedento Vidurio Europoje, tai buvo viena iš radikaliausių antrosios XVIII a.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva juk ne
-    kartą buvo okupuota ir prisijungta Rytų kaimynės.
-    Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pa-
-    kraščiams – Vidurio Europai. Lietuvoje, kaip ir Vidurio Europos šalyse
-    (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Vidu-
-    ramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavo-
-    si bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Katalikybė buvo prielaida Italijos ir Is-
@@ -88,7 +72,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   pagrindžia:
     - t-004
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jėzuitiškojo Vilniaus universi-
@@ -108,7 +92,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos,
@@ -122,7 +106,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   pagrindžia:
     - t-002
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šis posakis rodo, kokią ypatingą reikšmę visuomenė
@@ -137,7 +121,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   pagrindžia:
     - t-005
 
-- c-006
+- c-005
   santrauka: 'Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -160,3 +144,4 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   statusas: verified
   pagrindžia:
     - t-006
+    - t-003

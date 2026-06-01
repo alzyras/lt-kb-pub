@@ -17,18 +17,14 @@ netrukus kilo maištas, apsimetėlis (samozvancas) Dimitrijas žuvo, o Marina su
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet netrukus kilo maištas, apsimetėlis (samozvancas) Dimitrijas žuvo, o Marina su tėvu ir daugybė lenkų buvo suimti.'
+  teiginys: 'Maišto metu samozvancas Dimitrijas žuvo, o Marina su tėvu ir daugybė lenkų buvo suimti.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'netrukus kilo maištas, apsimetėlis (samozvancas) Dimitrijas žuvo, o Marina su tėvu ir daugybė lenkų buvo suimti.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Maišto metu samozvancas Dimitrijas žuvo, o Marina su tėvu ir daugybė lenkų buvo suimti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam tariamajam Dimitri-
@@ -44,6 +40,7 @@ netrukus kilo maištas, apsimetėlis (samozvancas) Dimitrijas žuvo, o Marina su
     - t-001
 
 - c-002
+  santrauka: 'Maišto metu samozvancas Dimitrijas žuvo, o Marina su tėvu ir daugybė lenkų buvo suimti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Godunovas kaip tik tuo metu staiga

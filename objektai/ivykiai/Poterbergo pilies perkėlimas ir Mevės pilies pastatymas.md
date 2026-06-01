@@ -42,14 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos kunigaikštystėje kraštą, vardu Vancka, kur.'
+  teiginys: '1283 m. Teutonų ordino broliai perkėlė Poterbergo pilį iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1283 m. Teutonų ordino broliai perkėlė Poterbergo pilį iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     įrodydamas, jog broliai turi  į jas neginčijamų teisių. Išklausęs abiejų šalių įrodymų,
@@ -61,27 +61,6 @@ Nenurodyta
     po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Išklausęs abiejų šalių įrodymų,
-    tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos
-    turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos
-    kunigaikštystėje kraštą, vardu Vancka, kur dabar stovi Mevės pilis, ir šitaip pasibaigsianti
-    tarp jų kilusi nesantarvė. Todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės
-    Poterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji
-    po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.
-
-
-
-
-               214 (209).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
     - t-001

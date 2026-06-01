@@ -18,13 +18,14 @@ Haacko 1730 m. žodynas. Įkurtos Halės seminarijos reikalams docentas Haackas 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Haacko 1730 m. žodynas.'
+  teiginys: 'Fr. Haackas siejamas su 1730 m. žodynu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Fr. Haackas siejamas su 1730 m. žodynu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Fr. Haacko 1730 m.

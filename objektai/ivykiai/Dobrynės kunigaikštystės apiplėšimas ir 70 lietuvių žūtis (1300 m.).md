@@ -43,7 +43,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas, kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių bei arklių, kurių.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -62,20 +61,6 @@ Nenurodyta
                           278 (271).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    paskos, broliai su savo kariuomene juos pasivijo, 70 nukovė ir išgelbėjo daug krikščionių,
-    paimtų  į nelaisvę. 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės
-    ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas,
-    kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių
-    bei arklių, kurių daug prigėrė Narevo upėje dėl baisios kamšaties.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad prūsijos valdžios gromatos, pagraudenimai ir apsakyma
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams/ Sudarė P.'
+  teiginys: 'Rinkinį „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ sudarė P. Pakarklis, redagavo K. Jablonskis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rinkinį „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ sudarė P. Pakarklis, redagavo K. Jablonskis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsijos valdžios gromatos, pagraudenimai  ir apsakymai lietuviams valstiečiams/

@@ -49,7 +49,7 @@ Nenurodyta
 - t-002
   teiginys: 'Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-003
   teiginys: 'Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
@@ -88,6 +88,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -161,27 +162,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tas pats aprašyta vė-
-    lesniame Maskvos- Tverės kilmės Nikono
-    metraštyje (susijusiame su Algirdo pali-
-    kuonimis Belskiais). Trumpojoje Lietuvos
-    metraščių redakcijoje (xv a. 4-5 de-
-    šimtmečiai) įrašytas „Pasakojimas apie
-    Podolę“ - plačiausiai kalbantis šaltinis
-    šia tema. Istorinė tradicija (jai atstovauja
-    M. Strijkovskis) teigia, kad Algirdas, su-
-    telkęs savo lietuvių pajėgas, žygiuoda-
-    mas Padniepre pro Kanevą, Čerkasus, ties
-    Mėlynaisiais Vandenimis sumušęs totorius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -58,24 +58,14 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Nepasitikėdami savųjų įgūdžiais, valdovai kvietė pirklius ir amatininkus iš svetur.'
+  teiginys: 'Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais.'
   pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: 'Valdovai nepasitikėjo savųjų įgūdžiais, todėl kvietė pirklius ir amatininkus iš svetur.'
-  pagrindžia:
-    - c-005
-
-- t-005
-  teiginys: 'Valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais.'
-  pagrindžia:
-    - c-005
+    - c-004
 
 - t-006
   teiginys: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -127,25 +117,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau 1323–1324 m. Gedimino krikšto akcija
-    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
-    Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo –
-    priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    33
-    lonistus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš jų matyti labai platus (turint galvoje tarptautinę Lietuvos
@@ -159,7 +133,8 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
+  santrauka: 'Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didieji kunigaikščiai, reikšdami teritorines

@@ -18,13 +18,14 @@ T. Norbutas T. Narbutt: taip pat universiteto įtakoje kiek vėliau Lydos bajora
 ## Teiginiai
 
 - t-001
-  teiginys: 'T. Norbutas T. Narbutt: taip pat universiteto įtakoje kiek vėliau Lydos bajoras T. Norbutas parašė pirmąją didžiulę (9 tomų) Lietuvos isto- riją.'
+  teiginys: 'Lydos bajoras T. Norbutas parašė pirmąją didžiulę devynių tomų Lietuvos istoriją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lydos bajoras T. Norbutas parašė pirmąją didžiulę devynių tomų Lietuvos istoriją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos kilimo jo profesoriai ir stu-

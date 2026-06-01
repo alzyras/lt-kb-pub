@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae inter nonnullos mercatores vilnenses et advocatum Vilnensem ex seriis partium controversiis anno 1586 die 11 Julii latum, quo festa.'
+  teiginys: '1586 m. Vilniaus miesto sargybos viršininkas Jurgis Vižikovskis su padėjėjais buvo išsiųstas į mėsines per ginčą su pirkliais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1586 m. Vilniaus miesto sargybos viršininkas Jurgis Vižikovskis su padėjėjais buvo išsiųstas į mėsines per ginčą su pirkliais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be karaliaus Stepono laiškų, rašytų

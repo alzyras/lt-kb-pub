@@ -25,7 +25,7 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
     - c-001
 
 - t-002
-  teiginys: 'Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuitams.'
+  teiginys: 'Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
     - t-001
 
 - c-002
+  santrauka: 'Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar nupirko du sklypus
@@ -77,4 +78,5 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/zodynas/kapitula]]
 - [[objektai/grupes/Vilniaus kapitula]]

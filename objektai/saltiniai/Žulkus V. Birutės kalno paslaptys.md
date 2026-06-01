@@ -23,13 +23,14 @@ Dusburgietis teigia, kad žulkus V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad žulkus V.'
+  teiginys: 'V. Žulkaus „Birutės kalno paslaptys“ paskelbtas 1984 m. MG 6 numeryje, 16 puslapyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Žulkaus „Birutės kalno paslaptys“ paskelbtas 1984 m. MG 6 numeryje, 16 puslapyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žulkus V. Birutės kalno paslaptys.—MG, 1984, Nr. 6, p. 16—

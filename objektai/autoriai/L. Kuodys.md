@@ -17,13 +17,14 @@ Kuodžio redaguota, su dailininko K.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kuodžio redaguota, su dailininko K.'
+  teiginys: 'L. Kuodys redagavo vyskupo Valančiaus „Vaikų knygelę“, išleistą su K. Šimonio iliustracijomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'L. Kuodys redagavo vyskupo Valančiaus „Vaikų knygelę“, išleistą su K. Šimonio iliustracijomis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     6. Vysk. Valančiaus, VAIKŲ KNYGELĖ. L. Kuodžio redaguota, su

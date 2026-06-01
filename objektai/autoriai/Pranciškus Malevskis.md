@@ -28,7 +28,7 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
     - c-001
 
 - t-003
-  teiginys: 'Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi­ sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus.'
+  teiginys: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos parūpino gausių išrašų apie Vilnių.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
     - t-002
 
 - c-002
+  santrauka: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos parūpino gausių išrašų apie Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įgudęs lietuvių istorijos žinovas Ig­

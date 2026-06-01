@@ -38,14 +38,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi Lietaukos upelis, dešinysis Neries intakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje.'
+  teiginys: 'Lietaukos upelis, dešinysis Neries intakas, tekėjo Lietuvos žemės link, nebūtinai pačioje Lietuvoje.'
   pagrindžia:
     - c-002
 
 - t-002
   teiginys: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Labiausiai paplitusi versija Lietuvos vardą kildino iš nedidelio Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
@@ -55,7 +55,7 @@ Nenurodyta
 - t-004
   teiginys: 'Paplitusi versija Lietuvos vardą kildino iš nedidelio Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -72,8 +72,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
 - c-002
+  santrauka: 'Lietaukos upelis, dešinysis Neries intakas, tekėjo Lietuvos žemės link, nebūtinai pačioje Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tradiciškai manoma, kad Lietuvos valstybės bran-
@@ -88,20 +90,6 @@ Nenurodyta
     - t-001
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių
-    apie VII a. Tačiau lietuviškai kalbantys žmonės nebūtinai save vadino
-    lietuviais, o savo žemę – Lietuva. Iki šiol labiausiai paplitusi versija buvo
-    Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
-    toli Kernavės, vardo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau lietuviškai kalbantys žmonės nebūtinai save vadino

@@ -20,23 +20,24 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi, santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­ gusto seserimi.'
+  teiginys: 'Kotryna Jogailaitė Vilniuje susituokė su Suomijos kunigaikščiu Jonu, vėliau tapusiu Švedijos karaliumi.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Tad šių, mūsų valdų, ir dvarų, taip pat ir kito judamo ir nejudamo turto, kurį turime ir valdome, bet kokia teise mums priklausančio ir bet kokiu besivadi­ nančio, darome, skelbiame paveldėtojomis karalaites: jos di­ denybę Kotryną, Švedijos karalienę, jos.'
+  teiginys: 'Kotryna Jogailaitė, Švedijos karalienė, buvo paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Kotryna Jogailaitė galėtų netekti tų išmo­ kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas.'
+  teiginys: 'Karalaitė Ona turėjo dalį jai perduoto turto atiduoti Kotrynai Jogailaitei, Švedijos karalienei.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kotryna Jogailaitė Vilniuje susituokė su Suomijos kunigaikščiu Jonu, vėliau tapusiu Švedijos karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     La­
@@ -53,6 +54,7 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
     - t-001
 
 - c-002
+  santrauka: 'Karalaitė Ona turėjo dalį jai perduoto turto atiduoti Kotrynai Jogailaitei, Švedijos karalienei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat tikėjimu ir garbe prisaikdina­
@@ -91,6 +93,7 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
     - t-003
 
 - c-003
+  santrauka: 'Kotryna Jogailaitė, Švedijos karalienė, buvo paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat turime kai kurių mūsų dvarų, ir
@@ -133,7 +136,7 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]]
 - [[objektai/asmenys/Ona Jogailaitė]]
+- [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/asmenys/Žygimantas Augustas]]

@@ -36,49 +36,19 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
     - c-001
 
 - t-003
-  teiginys: 'Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“.'
+  teiginys: 'Gegužės 3-iosios konstitucijos formuluotė „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
   teiginys: 'Remiantis šiuo įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendrose vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijose – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai turėjo būti paeiliui lenkai ir.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Konstitucijoje
-    yra rašoma daugiskaita apie „Respublikos valstybes“, t. y. turima omenyje
-    ir Lietuva. Nepaisant visų unitarinių tendencijų, konstitucijos teksto III ir
-    IV skyriuose juodu ant balto parašyta ,,Respublikos valstybės“ – Lenkija
-    ir Lietuva.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Remiantis šiuo
-    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
-    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
-    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
-    turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
-    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
-    Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“.'
+  santrauka: 'Gegužės 3-iosios konstitucijos formuluotė „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstaty-
@@ -93,8 +63,9 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
-- c-004
+- c-002
   santrauka: 'Remiantis šiuo įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendrose vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijose – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai turėjo būti paeiliui lenkai ir.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -113,6 +84,7 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
   statusas: verified
   pagrindžia:
     - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

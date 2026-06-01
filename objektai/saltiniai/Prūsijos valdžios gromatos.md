@@ -33,18 +33,19 @@ Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Pr�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K.'
+  teiginys: 'Lietuviai prūsų kraštą vadino vardais Prūsai, Prūsa, Prūsų žemė ir sulotynintu vardu Prūsija.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad baltischslavisches..., p. 340; 1737 m.— į [...] Walsczu [...] Prusu Zemes — Prūsijos valdžios gromatos..., p. 117; Walßčiaus Priweizdėjimas — Ruhig P.'
+  teiginys: '1737 m. „Prūsijos valdžios gromatose“ užfiksuotas valsčiaus termino vartojimas Prūsų žemės kontekste.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1737 m. „Prūsijos valdžios gromatose“ užfiksuotas valsčiaus termino vartojimas Prūsų žemės kontekste.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galbūt galima
@@ -64,6 +65,7 @@ Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Pr�
     - t-002
 
 - c-002
+  santrauka: 'Lietuviai prūsų kraštą vadino vardais Prūsai, Prūsa, Prūsų žemė ir sulotynintu vardu Prūsija.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija

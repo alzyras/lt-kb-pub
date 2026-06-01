@@ -48,7 +48,7 @@ Nenurodyta
 - t-001
   teiginys: 'Ano laiko apyrankių ir kitų papuošalų ornamentai buvo tiesiogiai giminingi lietuvių kaimo audinių ir juostų raštams.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Ano laiko apyrankių ir kitų papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo audinių ir juostų raštams.'
@@ -91,20 +91,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gausus to laikotarpio
-    kapinynai, su degintiniais ir griautiniais kapais, rodo naujas formas
-    papuošalų. Šie yra masyvus ir gražiai ornamentuoti, mušti sidabro
-    plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų
-    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
-    audinių ir juostų raštams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai

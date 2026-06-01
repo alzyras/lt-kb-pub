@@ -28,12 +28,12 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti nuolati­ nio vikaro pareigas, Vilniaus kapitula, Jus Patronatus teisės siūlyti į vikarus atsisako ir perleidžia Akademijos kolegijos Rektoriams tėvams jėzuitams, kas taip pat 1651 metų.'
+  teiginys: '1581 m. birželio 9 d. Vilniaus kapitula atsisakė teisės siūlyti Šv. Jono bažnyčios vikarus ir ją perleido Akademijos kolegijos rektoriams jėzuitams.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Jono bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­ demijos kolegiją yra patvirtintas kardinolo Pranciškaus Ko­ mendom, Šv.'
+  teiginys: '1571 m. gruodžio 22 d. Apaštališkasis Sostas patvirtino parapijinės Šv. Jono bažnyčios inkorporavimą į Vilniaus akademijos kolegiją.'
   pagrindžia:
     - c-002
 
@@ -70,6 +70,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-003
 
 - c-002
+  santrauka: '1571 m. gruodžio 22 d. Apaštališkasis Sostas patvirtino parapijinės Šv. Jono bažnyčios inkorporavimą į Vilniaus akademijos kolegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1571 metų gruodžio 22 dieną. Toks parapijinės Šv. Jono
@@ -83,6 +84,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-002
 
 - c-003
+  santrauka: '1581 m. birželio 9 d. Vilniaus kapitula atsisakė teisės siūlyti Šv. Jono bažnyčios vikarus ir ją perleido Akademijos kolegijos rektoriams jėzuitams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčios
@@ -102,10 +104,12 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Jus Patronatus]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/zodynas/kapitula]]
 - [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/grupes/Vilniaus jėzuitų kolegija]]
-- [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]

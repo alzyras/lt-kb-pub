@@ -46,20 +46,6 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodėsi toks malonus, jog apie jį tikrai buvo galima sakyti, kad jį mylėjo ir dievas, ir žmonės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    279 (272). Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
-
-       Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Jis
-    garsėjo kaip itin švelnus žmogus, visiems rodėsi toks malonus, jog apie jį tikrai buvo
-    galima sakyti, kad jį mylėjo ir dievas, ir žmonės.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

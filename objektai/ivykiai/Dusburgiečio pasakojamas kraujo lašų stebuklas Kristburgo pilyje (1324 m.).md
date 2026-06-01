@@ -43,7 +43,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje 1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -62,19 +61,6 @@ Nenurodyta
                   124.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo
-    pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami,
-    jog jie laša iš kokios žaizdos, atidžiai apžiūrėjo jam ir burną, ir veidą, ir rankas, bet
-    nerado nė pėdsako žaizdos, todėl visi didžiai dėl to atsitikimo stebėjosi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

@@ -32,7 +32,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 ## Teiginiai
 
 - t-001
-  teiginys: 'Redaktoriaus žodyje Mindaugas Tamošaitis pristatomas kaip Lietuvos edukologijos universiteto lektorius, apibendrinęs įvykius nuo 1940 m. okupacijų iki 2004 m. ir parašęs V bei VI skyrius.'
+  teiginys: 'Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m.'
   pagrindžia:
     - c-001
 
@@ -49,6 +49,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio

@@ -28,41 +28,26 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - t-001
   teiginys: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštienei Aleksandrai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
   teiginys: 'Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams rekomendavo kelią per Mozūriją.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Skirsnemunėje Švitrigaila ir Ordinas
-    patvirtino prieš metus pasirašytą sutartį,
-    taip pat Švitrigaila sustiprino ryšius su
-    Naugardu, Pskovu, Mozūrija, Odojevo ir
-    Tverės kunigaikščiais. Tuo tarpu Jogailos
-    Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo tarpu Bazelio
@@ -79,7 +64,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
@@ -95,7 +80,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   pagrindžia:
     - t-004
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
@@ -114,3 +99,4 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

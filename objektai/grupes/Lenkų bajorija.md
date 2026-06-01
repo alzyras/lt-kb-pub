@@ -27,21 +27,16 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šis punk­ tas praplatino Lietuvos teises ir tartum paruošė dirvą tam, kad Jogailai mirus anksčiau už Vytautą, Lenkijos sostas galėtų ati­ tekti Vytautui.'
-  pagrindžia:
-    - c-004
-
-- t-002
   teiginys: 'Lenkų bajorų dokumentas buvo beveik lietuvių bajorų akto nuorašas.'
   pagrindžia:
     - c-003
 
-- t-003
+- t-002
   teiginys: 'Lenkų bajorija jau anksčiau turėjo teisę dalyvauti naujo kunigaikščio elekcijoje.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-003
   teiginys: '1413 m. Jogailos ir Vytauto unijos aktas numatė Lietuvos ir Lenkijos bajorijų pasitarimus dėl valstybės reikalų.'
   pagrindžia:
     - c-002
@@ -62,7 +57,7 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -76,27 +71,9 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šis punk­
-    tas praplatino Lietuvos teises ir tartum paruošė dirvą tam, kad
-    Jogailai mirus anksčiau už Vytautą, Lenkijos sostas galėtų ati­
-    tekti Vytautui.
-    Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­
-    to nuorašas, todėl apie jį atskirai ir nebekalbėsim.
-    Svarbiausi 1401 m. unijos punktai yra šie:
-    1) Lietuva ir Lenkija turi viena kitai teikti pagalbos arba
-    patarimų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šis punk­

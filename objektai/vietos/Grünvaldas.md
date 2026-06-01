@@ -18,13 +18,14 @@ Ir kai karalius ėjo mels­ tis (galėjo būti ryto kokia 10 valanda), jam buvo 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ir kai karalius ėjo mels­ tis (galėjo būti ryto kokia 10 valanda), jam buvo pranešta, kad Grünvaldo (Žalgirio) apylinkėse pasirodžiusi priešų vėliava, po jos ir kita.'
+  teiginys: 'Grünvaldo apylinkėse pasirodžiusios priešų vėliavos rodė, kad kryžiuočiai atvyko prie Grünvaldo ir Tannenbergo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Grünvaldo apylinkėse pasirodžiusios priešų vėliavos rodė, kad kryžiuočiai atvyko prie Grünvaldo ir Tannenbergo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Čia

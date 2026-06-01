@@ -31,7 +31,7 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     - c-003
 
 - t-002
-  teiginys: 'Iš kairės kunigai: Vincentas Vėlavičius, Alfonsas Svarinskas, Sigitas Tamkevičius, Juozas Zdebskis, Jonas Kauneckas L I E T U V O S I S T O R I J A 230 Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto.'
+  teiginys: 'Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą.'
   pagrindžia:
     - c-004
 
@@ -99,6 +99,7 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     - t-001
 
 - c-004
+  santrauka: 'Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tikinčiųjų teisių gynimo komitetas.

@@ -45,7 +45,7 @@ Nenurodyta
 - t-001
   teiginys: 'Kai tik išėjome iš Pagirių bažnytkaimio, mus nustebino papuoštas vieškelis.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-002
   teiginys: 'Pražygiuojančiam batalionui linkėta ryžto ir sėkmės, o sutikimas tęsėsi apie penkis kilometrus.'
@@ -55,7 +55,7 @@ Nenurodyta
 - t-003
   teiginys: 'Vieškelis buvo papuoštas kartelėmis, vainikais, gėlių puokštėmis ir vartais.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-004
   teiginys: 'Vietos gyventojai bėgo iš visų pusių pasitikti į miestelį su daina įžygiuojančios lietuvių kariuomenės.'
@@ -92,6 +92,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -118,19 +119,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kai tik išėjome iš Pagirių bažnytkaimio, mus
-    nustebino papuoštas vieškelis. [...]. Jis abiejose pusėse lygiais protarpiais buvo nusmaigs-
-    tytas kartelėmis, ant kurių pakabinta vainikai ar gėlių puokštės. Daug kur skersai kelio
-    pastatyti vartai, prie kurių stovėjo būriai žmonių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

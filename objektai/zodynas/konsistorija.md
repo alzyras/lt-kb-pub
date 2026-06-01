@@ -20,13 +20,14 @@ Po slapto jų pokal­ bio veikiai buvo sukviesta vieša kardinolų konsistorija,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po slapto jų pokal­ bio veikiai buvo sukviesta vieša kardinolų konsistorija, turėjusi svarstyti Rygos arkivyskupo ginčą su Livonijos ordi­ nu.'
+  teiginys: 'Vieša kardinolų konsistorija buvo sukviesta svarstyti Rygos arkivyskupo ginčo su Livonijos ordinu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vieša kardinolų konsistorija buvo sukviesta svarstyti Rygos arkivyskupo ginčo su Livonijos ordinu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po slapto jų pokal­
@@ -63,3 +64,5 @@ Po slapto jų pokal­ bio veikiai buvo sukviesta vieša kardinolų konsistorija,
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad wenta J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad wenta J.'
+  teiginys: 'J. Wentos straipsnis apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje paskelbtas 1980 m. leidinyje „Studia źródłoznawcze“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Wentos straipsnis apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje paskelbtas 1980 m. leidinyje „Studia źródłoznawcze“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice

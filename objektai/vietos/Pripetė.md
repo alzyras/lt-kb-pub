@@ -31,11 +31,6 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Pietuose XIII amž. pradžioje jie ėmė veržtis už Pripetės, net iki Mažosios Lenkijos gyvenviečių ir pilių.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,20 +49,6 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
     - t-001
 
 - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rytuose jie atsitrenkdavo
-    į tolimus Dniepro plotus. Pietuose XIII amž. pradžioje jie ėmė
-    veržtis už Pripetės, net iki Mažosios Lenkijos gyvenviečių ir pilių.
-    Ilgai buvo sunku suprasti, kaip iš viso lietuviai galėjo atlikti
-    tokius tolimus žygius per priešų žemes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -82,4 +63,4 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

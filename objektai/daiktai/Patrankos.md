@@ -48,12 +48,12 @@ Nenurodyta
 - t-001
   teiginys: 'Žalgirio mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų sumišimo nesukėlė.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-002
   teiginys: 'Žalgirio mūšyje patrankos buvo vartotos tik pradžioje.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-003
   teiginys: 'XV a. patrankos buvo griozdiškos, didelės, sunkiai pervežamos ir labiau tiko tvirtovėms griauti.'
@@ -66,14 +66,14 @@ Nenurodyta
     - c-002
 
 - t-005
-  teiginys: 'Skirgaila Trakų piliai ginti iš maršalkos dovanų gavo keletą didelių armotų.'
+  teiginys: 'Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų.'
   pagrindžia:
     - c-003
 
 - t-006
-  teiginys: 'Patrankos padarydavo daug triukšmo, bet maža nau­ dos.'
+  teiginys: 'Patrankos keldavo daug triukšmo, bet duodavo mažai naudos.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-007
   teiginys: 'Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik pradžioje tevartojo.'
@@ -81,7 +81,7 @@ Nenurodyta
     - c-004
 
 - t-008
-  teiginys: 'Tiesa, pačioje mūšio pradžioje kry­ žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­ gininkų kariuomenėj nesukėlė.'
+  teiginys: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet jos sąjungininkų kariuomenėje sumišimo nesukėlė.'
   pagrindžia:
     - c-005
 
@@ -116,6 +116,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Patvirtinus tą aktą savo antspaudomis Baigos, Bran­
@@ -149,8 +150,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
+    - t-006
 
 - c-005
+  santrauka: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet jos sąjungininkų kariuomenėje sumišimo nesukėlė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
@@ -169,20 +172,6 @@ Nenurodyta
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Patrankos padarydavo daug triukšmo, bet maža nau­
-    dos. Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
-    pradžioje tevartojo.
-    Kautynėms kariuomenė rikiuodavosi įvairiai — eilėmis,
-    trikampiais, keturkampiais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
     Iš priešin­
     gų pusių nuo kalnelių ėmė leistis kariuomenės ir tuoj susitiko.
     Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
@@ -195,7 +184,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-008
+- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šoviniai patrankoms buvo daromi iš akmens arba

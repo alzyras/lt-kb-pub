@@ -23,24 +23,10 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
   pagrindžia:
     - c-002
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, Šenbergas Šenenzė (Schonense, vėliau Schönsee, dab. Kowalewo Pomorskie) Šereitlaukis, Šereiklaukis Šernupė, u.'
-  pagrindžia:
-    - c-003
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, Šenbergas Šenenzė (Schonense, vėliau Schönsee, dab.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad 444 D.— Schonense, Jer.— Schônensê; vėliau — Schönsee ir pan., dab. Kowalewo Pomorskie, gyvenvietė Kulmo žemėje į šiaurės rytus nuo Torunės (SZCh, p. 59).'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Senenzė, vėliau vadinta Schönsee, atitinka dabartinę Kowalewo Pomorskie gyvenvietę Kulmo žemėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     444 D.— Schonense, Jer.— Schônensê; vėliau — Schönsee ir pan., dab. Kowalewo
@@ -48,8 +34,6 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-004
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -66,21 +50,3 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šalčininkai (Salsenicka, Salsenîken)
-    Šaltuona, u.
-    Šarkokalnis, Šarkos kalnas (Kalėnuose) (žr. Sarkis, Sareka)
-    Šaumburgas
-    Šenenbergas, Šenburgas, Šenbergas
-
-    Šenenzė (Schonense, vėliau Schönsee, dab. Kowalewo Pomorskie)
-    Šereitlaukis, Šereiklaukis
-    Šernupė, u.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002

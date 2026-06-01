@@ -19,13 +19,14 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais Gediminu ir Algirdu61, bemaž tuo metu užka­ riavęs neramias šios tautos ordas, buvo užėmęs ištisą jų ulusą, palikęs jiems valią išpažinti senąjį tikėjimą, davęs daug žemės valdų ir.'
+  teiginys: 'Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     142
@@ -53,3 +54,4 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/autoriai/Naruszewicz]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Totoriai]]

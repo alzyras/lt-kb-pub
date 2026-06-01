@@ -28,7 +28,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­ mą Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią tikėjimo priešus.'
+  teiginys: 'Magistras Konradas iš Tirbergo Jaunesnysis subūrė brolius ir karius žygiui į Sūduvą.'
   pagrindžia:
     - c-004
 
@@ -100,6 +100,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     - t-004
 
 - c-004
+  santrauka: 'Magistras Konradas iš Tirbergo Jaunesnysis subūrė brolius ir karius žygiui į Sūduvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     217 (212). Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
@@ -128,6 +129,6 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Bisenės pilies užkariavimas]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
-- [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas]]

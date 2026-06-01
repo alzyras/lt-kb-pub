@@ -26,28 +26,29 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
+  teiginys: 'Gedimino laiškų ordinams ir Hanzos miestams autentiškas 1323 metais notaro parengtas dokumentas buvo Karaliaučiaus slaptajame archyve.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Be to, iš jo laiško, rašyto po­ piežiui, matyti turėjus norų priimti krikščioniškąjį tikėjimą.'
+  teiginys: 'Gedimino laiškai rodo valdovo siekį gausinti Lietuvos gyventojus, kelti gerovę ir kviesti amatininkus, žemdirbius bei dvasininkus.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'IV, p. 627 sq.) autorius, kuris nenorėjo, kaip kad jo pirmtakai, Prūsijos kronikininkai, būti visada nešališkas lietuvių gen­ ties istorijos įvykių teisėjas, ginčija tų laiškų autentiškumą, tvirtinda­ mas esą buvo parengti ir išsiuntinė­ ti Rygos arkivyskupo.'
+  teiginys: 'Foigtas ginčijo Gedimino laiškų autentiškumą ir teigė, kad juos parengė bei išsiuntinėjo Rygos arkivyskupas.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Apie Gedimino laiškus pasakytina, kad juos įdeda­ me į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis.'
+  teiginys: 'Gedimino laiškai buvo įdėti į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino laiškai buvo įdėti į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Napiers-
@@ -69,6 +70,7 @@ amziai:
     - t-004
 
 - c-002
+  santrauka: 'Gedimino laiškų ordinams ir Hanzos miestams autentiškas 1323 metais notaro parengtas dokumentas buvo Karaliaučiaus slaptajame archyve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis, 1. 406, pri­
@@ -102,6 +104,7 @@ amziai:
     - t-001
 
 - c-003
+  santrauka: 'Gedimino laiškai rodo valdovo siekį gausinti Lietuvos gyventojus, kelti gerovę ir kviesti amatininkus, žemdirbius bei dvasininkus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     (Žr. Preussens aeltere Geschichte, Band
@@ -127,6 +130,7 @@ amziai:
     - t-002
 
 - c-004
+  santrauka: 'Foigtas ginčijo Gedimino laiškų autentiškumą ir teigė, kad juos parengė bei išsiuntinėjo Rygos arkivyskupas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Foigtas

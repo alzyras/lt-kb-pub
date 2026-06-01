@@ -18,13 +18,14 @@ Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama P
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­ lies ir Gedimino kalno šlaitus.'
+  teiginys: 'Veliuonėlė įteka į Nemuną iš šiaurės skalaujant Pilies ir Gedimino kalno šlaitus prie Veliuonos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Veliuonėlė įteka į Nemuną iš šiaurės skalaujant Pilies ir Gedimino kalno šlaitus prie Veliuonos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ant pilkapio nuo neatme­

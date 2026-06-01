@@ -30,13 +30,14 @@ Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę š
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m. (t.'
+  teiginys: '1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kai kilo pavojus Lietuvai ir prūsų kraštui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kai kilo pavojus Lietuvai ir prūsų kraštui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.

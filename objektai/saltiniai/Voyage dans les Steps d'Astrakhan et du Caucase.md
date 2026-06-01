@@ -17,13 +17,14 @@ Kas norėtų labiau įsigilinti, teskaito: Vo­ yage dans les Steps d'Astrakhan 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kas norėtų labiau įsigilinti, teskaito: Vo­ yage dans les Steps d''''Astrakhan et du Caucase, p. Jean P o t o c k i, T.'
+  teiginys: 'Jeanas Potockis veikale „Voyage dans les Steps d''Astrakhan et du Caucase“ minimas kaip papildomas šaltinis apie totorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jeanas Potockis veikale „Voyage dans les Steps d''Astrakhan et du Caucase“ minimas kaip papildomas šaltinis apie totorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     60

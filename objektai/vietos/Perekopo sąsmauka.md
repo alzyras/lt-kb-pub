@@ -24,31 +24,11 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 - t-002
   teiginys: 'Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „gerai užrakinamus Krymo vartus“ - įtvirtintą Perekopo sąsmauką - totoriai turėjo sunkiai pasiekiamą lizdą, iš kurio, savo ruožtu, galėdavo nesunkiai leistis į tolimus žygius.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Strateginį privalumą totoriams laidavo jų
-    pagrindinės buveinės - Krymo pusiasalio
-    nuošalumas nuo stiprių galios centrų, tokių
-    kaip Lenkija, Lietuva ar Maskvos valstybė.
-    Nuo sėsliai gyvenančių visuomenių atskirti
-    plačių stepių ir turėdami „gerai užrakina-
-    mus Krymo vartus“ - įtvirtintą Perekopo
-    sąsmauką - totoriai turėjo sunkiai pasie-
-    kiamą lizdą, iš kurio, savo ruožtu, galėdavo
-    nesunkiai leistis į tolimus žygius. Taktinį
-    pranašumą sąlygojo jų lengvoji kavalerija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „gerai užrakinamus Krymo vartus“ - įtvirtintą Perekopo sąsmauką - totoriai turėjo sunkiai pasiekiamą lizdą, iš kurio, savo ruožtu, galėdavo nesunkiai leistis į tolimus žygius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -70,3 +50,4 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

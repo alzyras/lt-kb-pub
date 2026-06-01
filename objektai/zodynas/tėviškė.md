@@ -80,7 +80,6 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
 - [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
 - [[objektai/posakiai/jeigu jis taps krikščionimi, jam nepasiduosime]]
 - [[objektai/zodynas/Karšinčius|karšinčius]]
-- [[objektai/zodynas/lenas]]
 - [[objektai/zodynas/lėnas]]
 - [[objektai/posakiai/„Tikslas pateisino priemones.“]]
 - [[objektai/asmenys/Jogaila]]

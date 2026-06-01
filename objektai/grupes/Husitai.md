@@ -33,7 +33,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - c-005
 
 - t-002
-  teiginys: 'Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­ vengiant kraujo praliejimo; prašė sustabdyti kryžiaus karus ir nuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­ vo tikslo; čekai.'
+  teiginys: 'Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką.'
   pagrindžia:
     - c-004
 
@@ -58,7 +58,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - c-006
 
 - t-007
-  teiginys: 'Tad Vytautas įsakė grįžti Kaributui į Lietuvą, o čekams husitams nurašė laišką, kad niekada nerėmė jų mok­ slo, bet norėjo juos tiktai grąžinti Bažnyčiai; jeigu jie atsisakytų nuo erezijos, tai sutinka būti tarpininku tarp jų ir Zigmanto, kitaip turėsiąs.'
+  teiginys: 'Vytautas čekams husitams rašė nerėmęs jų mokslo ir siūlėsi tarpininkauti, jei jie atsisakytų erezijos.'
   pagrindžia:
     - c-007
 
@@ -75,7 +75,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - t-010
   teiginys: 'Husitai ne kartą naudojosi Vytauto globa.'
   pagrindžia:
-    - c-010
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -129,6 +129,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - t-004
 
 - c-004
+  santrauka: 'Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vėliau Vytautas popiežiui dar rašė, kad jis nenu­
@@ -175,6 +176,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - t-006
 
 - c-007
+  santrauka: 'Vytautas čekams husitams rašė nerėmęs jų mokslo ir siūlėsi tarpininkauti, jei jie atsisakytų erezijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tad Vytautas įsakė grįžti Kaributui į Lietuvą,
@@ -209,6 +211,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   statusas: verified
   pagrindžia:
     - t-003
+    - t-010
 
 - c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -226,24 +229,6 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Daug
-    prisidėjo prie pergalių prieš kryžiuočius, tačiau nesiekė visiš­
-    ko jų Ordino sunaikinimo, nors turėjo tam galimybių; pritarė
-    ir skelbė sprendimus, varžančius toleranciją, kuria nuo seno
-    Vilnius garsėjo, betgi nė vienos kurios nors tikybos išpažini­
-    mas dėl to per daug nekentėjo. Pavyzdžiui, husitai dargi ne
-    kartą Vytauto globa naudojosi. Šis kunigaikštis nė nedvejoda­
-    mas griebdavosi prie jo didybės nelabai derančių būdų, kad
-    tik nukreiptų Jogailos dėmesį nuo Lietuvos valdymo reikalų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -269,7 +254,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Balnas]]

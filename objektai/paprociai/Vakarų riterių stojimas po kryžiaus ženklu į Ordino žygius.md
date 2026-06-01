@@ -47,41 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tas pašėlęs lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­ metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­ tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­ vo.'
+  teiginys: '1375 m. Vinrichas į Lietuvą vedė Prancūzijos ir Vokietijos baronus bei riterius, sutelktus stoti po kryžiaus ženklu.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Tąkart Vinrichas, vasario pradžioje kirtęs Lie­ tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­ binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių polaidžio.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau mūšio metu į me­
-    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
-    per kurį didelę Vilniaus dalį pasiglemžė ugnis. Tas pašėlęs
-    lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­
-    metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­
-    tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių
-    netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­
-    vo Kernavę, bet lemtinga Jogailos ir Skirgailos pergalė prieš
-    Ragainės komtūrą, laimėta tarp Vilniaus ir Ukmergės, ir vi­
-    siškas pastarojo kariaunos sunaikinimas tąkart apsaugojo
-    sostinę nuo puolimo. Tuo metu pakitusi kaimyninės Lenki­
-    jos padėtis, nauji Jogailos politikos užmojai ilgam įžiebė Prū­
-    sijos kerštą ir Lietuvai bei Vilniui grėsė neapsakomomis ne­
-    gandomis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: '1375 m. Vinrichas į Lietuvą vedė Prancūzijos ir Vokietijos baronus bei riterius, sutelktus stoti po kryžiaus ženklu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     30
@@ -100,14 +73,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Deglas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vinrichas Kniprodė]]

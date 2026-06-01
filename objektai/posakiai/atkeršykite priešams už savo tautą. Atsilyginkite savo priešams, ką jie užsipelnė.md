@@ -18,13 +18,14 @@ Dusburgietis teigia, kad 67—68): „...atkeršykite priešams už savo tautą.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 67—68): „...atkeršykite priešams už savo tautą.'
+  teiginys: 'Makabiejų knygos citatoje raginama atkeršyti priešams už savo tautą ir atsilyginti jiems pagal nuopelnus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Makabiejų knygos citatoje raginama atkeršyti priešams už savo tautą ir atsilyginti jiems pagal nuopelnus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Siek tiek toliau jis priduria (1 Mak 2. 67—68): „...atkeršykite priešams

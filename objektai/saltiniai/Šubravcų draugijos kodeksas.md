@@ -17,18 +17,19 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šubravcų draugijos kodekse suformuluotos narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­ mų.'
+  teiginys: 'Šubravcų draugijos kodekse nustatytos narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Pavyzdžiui, XII šubravcų kodekso straipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­ lioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­ jos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­ suotinumą ir universalumą3.'
+  teiginys: 'XII Šubravcų kodekso straipsnis reikalavo, kad draugijos narys kauptų biblioteką su visuotinės istorijos ir geografijos veikalais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XII Šubravcų kodekso straipsnis reikalavo, kad draugijos narys kauptų biblioteką su visuotinės istorijos ir geografijos veikalais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­
@@ -47,6 +48,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Šubravcų draugijos kodekse nustatytos narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­

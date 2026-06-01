@@ -33,7 +33,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 - t-002
   teiginys: 'M. Jučas parašė veikalą „Vytautas Didysis“, išleistą Čikagoje 2010 m.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro 149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование..., с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24— 30 (M. Jučas).'
@@ -52,6 +52,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -69,17 +70,6 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva
-    1009–2009.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

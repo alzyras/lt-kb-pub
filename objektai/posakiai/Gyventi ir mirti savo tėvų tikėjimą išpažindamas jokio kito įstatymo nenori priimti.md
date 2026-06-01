@@ -26,13 +26,14 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreikštą norą priimti krikščionių tikėjimą ir viršesnę popiežiaus valdžią su sąlyga, kad tik niekada neturėtų įsi­ pareigojimų Ordinui.'
+  teiginys: 'Dusburgo pranešimu, Gediminas per pasiuntinį pareiškė, kad nepriims kitų teisių ir laikysis tų, kurių laikėsi jo tėvai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgo pranešimu, Gediminas per pasiuntinį pareiškė, kad nepriims kitų teisių ir laikysis tų, kurių laikėsi jo tėvai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame
@@ -72,5 +73,5 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/autoriai/Hermanas Corneris]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]

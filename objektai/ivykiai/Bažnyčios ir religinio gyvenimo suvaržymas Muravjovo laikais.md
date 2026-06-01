@@ -36,12 +36,12 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais: be to, Muravjovas ėmė tikrinti, kurios bažnyčios buvo įsi- vėlusios į sukilimą. Tokių buvo surasta 32, ir jos visos buvo uždarytos. Be jų, dar buvo uždarytos 52 kop- lyčios: joms buvo prikišta, kad be leidimo buvusios pasta- tytos. Nebuvo aplenkti nė.'
+  teiginys: 'Muravjovo laikais buvo uždarytos 32 su sukilimu sietos bažnyčios, 52 koplyčios ir apie 20 vienuolynų.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais: pirmiausia buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, uždrausta ruošti procesijas ir viešai sakyti pa- mokslus. Kunigų gyvenimą valdžia taip pat kontroliavo. Be vietos civilinės valdžios leidimo ne tik nebuvo galima skirti kunigų, bet ir.'
+  teiginys: 'Muravjovo laikais buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, rengti procesijas ir viešai sakyti pamokslus.'
   pagrindžia:
     - c-001
 
@@ -51,7 +51,7 @@ Nenurodyta
     - c-004
 
 - t-004
-  teiginys: 'Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais: po kiekvieno neramumo nuo rusų tekdavo nukentėti ir Bažnyčiai. Ypač daug ji nukentėjo po 1831 m. sukilimo. Bet visų didžiausia Bažnyčios priespauda prasidėjo Muravjovo lai- kais. Bažnyčias ir vienuolynus jis laikė didžiausiais Rusų valdžios priešais ir.'
+  teiginys: 'Muravjovo laikais valdžia paėmė į savo kontrolę visą Bažnyčios veiklą, nes bažnyčias ir vienuolynus laikė Rusijos valdžios priešais.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Muravjovo laikais buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, rengti procesijas ir viešai sakyti pamokslus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmiausia buvo uždrausta
@@ -81,6 +82,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Muravjovo laikais valdžia paėmė į savo kontrolę visą Bažnyčios veiklą, nes bažnyčias ir vienuolynus laikė Rusijos valdžios priešais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po kiekvieno neramumo nuo rusų tekdavo nukentėti ir
@@ -98,6 +100,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Muravjovo laikais buvo uždarytos 32 su sukilimu sietos bažnyčios, 52 koplyčios ir apie 20 vienuolynų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, Muravjovas ėmė tikrinti, kurios bažnyčios buvo įsi-

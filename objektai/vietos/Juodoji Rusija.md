@@ -27,7 +27,7 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iš Juodojoje Rusijoje užimtųjų sričių Min­ daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė Naugarduką.'
+  teiginys: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasiliko Slanimą ir Valkaviską, o Vaišvilkui atidavė Naugarduką.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasiliko Slanimą ir Valkaviską, o Vaišvilkui atidavė Naugarduką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Savo pali­

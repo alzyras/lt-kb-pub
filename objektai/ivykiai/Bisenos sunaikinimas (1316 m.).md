@@ -47,7 +47,7 @@ Pilis sudeginta ir liko apleista.
 - t-002
   teiginys: 'Tad ir Christmemelyje palikta stipri įgula turėjo saugoti žemaičių Biseną, kurią pavyko sunaikinti 1316 m. Kryžiuočiai nesitenkino vien kariniais žygiais Lietuvon.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: '1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną.'
@@ -68,6 +68,8 @@ Pilis sudeginta ir liko apleista.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  pagrindžia:
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -84,21 +86,6 @@ Pilis sudeginta ir liko apleista.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    XIV amž. ordinas Nemuno žemu­
-    pyje ėmė statytis savo pilis, kurių kiekviena vis buvo nukreipta
-    prieš kokią nors arti esančią lietuvių pilį. Tad ir Christmemelyje
-    palikta stipri įgula turėjo saugoti žemaičių Biseną, kurią pavyko
-    sunaikinti 1316 m.
-    Kryžiuočiai nesitenkino vien kariniais žygiais Lietuvon.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

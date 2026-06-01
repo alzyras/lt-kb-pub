@@ -47,10 +47,10 @@ Nenurodyta
 - t-001
   teiginys: 'Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-002
-  teiginys: 'Jo 1325 m. sutartis buvo pir­ masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­ čiamas Liublino unijos išvakarėse, t.'
+  teiginys: 'Gedimino 1325 m. sutartis buvo pirmasis taikos sąlytis su Lenkija, prisimintas dar Liublino unijos išvakarėse.'
   pagrindžia:
     - c-002
 
@@ -82,8 +82,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 - c-002
+  santrauka: 'Gedimino 1325 m. sutartis buvo pirmasis taikos sąlytis su Lenkija, prisimintas dar Liublino unijos išvakarėse.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
@@ -115,19 +117,6 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **4. Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
-    Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo
-    tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.
-    Šis ruošėsi kariauti su ordinu dėl užgrobto Dancigo ir Pamario.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aldona Gediminaitė]]
@@ -137,10 +126,7 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/talkininkas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
 - [[objektai/asmenys/Vaclovas (Wanko) iš Płocko]]
-- [[objektai/asmenys/Vladislovas Lokietka]]

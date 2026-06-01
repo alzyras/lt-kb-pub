@@ -28,12 +28,12 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu Ričardas II, ir prie Vilniaus bu­ vojo ne kas kitas, tik Henrikas Lan­ kasteris, pirm Derbio grafas, vėliau žinomas kunigaikščio Herfordo var­ du, Jono de Gando, Lankasterio ku­.'
+  teiginys: 'Henrikas Lankasteris apie 1390 m. buvojo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Taigi Derbio grafas, daly­ vavęs Vilniaus apgultyje 1390 m., negalėjo būti jo tėvas kunigaikštis Lankasteris, mat jis, kelerius metus prabuvęs Ispanijoje, siekdamas už­ imti Kastilijos sostą, bemaž tuo pat metu tiesiai iš ten pargrįžo į Angliją.'
+  teiginys: 'Henrikas Lankasteris, Derbio grafas, dalyvavo Vilniaus apgultyje 1390 m.'
   pagrindžia:
     - c-002
 
@@ -83,6 +83,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
     - t-003
 
 - c-002
+  santrauka: 'Henrikas Lankasteris, Derbio grafas, dalyvavo Vilniaus apgultyje 1390 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kol šis kunigaikštis stengėsi pelnyti
@@ -107,6 +108,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
     - t-002
 
 - c-003
+  santrauka: 'Henrikas Lankasteris apie 1390 m. buvojo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis apsirinka nurody­
@@ -148,5 +150,5 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Škotai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Jonas de Gandas]]
 - [[objektai/asmenys/Ričardas II]]
+- [[objektai/asmenys/Jonas de Gandas]]

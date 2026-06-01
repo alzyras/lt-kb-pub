@@ -27,13 +27,14 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui Vilhelmui, Dirsovijos grafams — vyresniajam ir.'
+  teiginys: 'Apie 1226 (1230) m. Mazovijos vyskupas Giunteris dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 1226 (1230) m. Mazovijos vyskupas Giunteris dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam

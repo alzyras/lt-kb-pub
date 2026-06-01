@@ -55,7 +55,7 @@ Nenurodyta
 - t-002
   teiginys: 'Slaptai leistas ir nelegaliai platintas mėnraštis telkė tautinio sąjūdžio jėgas ir kėlė lietuvių kultūrinių bei švietimo teisių reikalavimus.'
   pagrindžia:
-    - c-003
+    - c-004
 
 - t-003
   teiginys: '„Varpas“ laikėsi liberalios demokratijos pozicijų, kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus, kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.'
@@ -65,22 +65,22 @@ Nenurodyta
 - t-004
   teiginys: 'Slaptai leistas ir nelegaliai platintas mėnraštis telkė naujas tautinio sąjūdžio jėgas ir opoziciškai vertino caro valdžią.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-005
   teiginys: 'Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė leisti naujus periodinius leidinius lietuvių kalba.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
   teiginys: 'Sustojusi „Aušra“ išplėtė savarankiškos lietuvių tautos ugdymo tęsėjų gretas ir paskatino naujus lietuviškus periodinius leidinius.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-007
   teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -121,25 +121,6 @@ Nenurodyta
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
-    Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
-    raštį „Aušra“ („Auszra“). Pirmuoju redaktoriumi buvo tuomet Prahoje
-    gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-
-    europiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-
-    čius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
-    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
-    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
-    jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
-    imperijoje turi latviai ir estai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Ši idėja įplieskė lietuvybės
     branduolinio užtaiso grumėjimą.
     Nors po trejų metų „Aušra“ dėl
@@ -160,7 +141,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-005
+- c-004
   santrauka: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -179,8 +160,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
+    - t-002
 
-- c-006
+- c-005
   santrauka: '„Varpas“ laikėsi liberalios demokratijos pozicijų, kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus, kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -208,7 +190,6 @@ Nenurodyta
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/autoriai/V. Kudirka]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/rusinimas]]

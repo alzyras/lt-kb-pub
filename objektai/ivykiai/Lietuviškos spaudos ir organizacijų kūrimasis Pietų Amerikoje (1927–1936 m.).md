@@ -35,7 +35,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.): lietuviškoji spauda, pirmasis laik- raštis („Brazilijos Lietuvis"), čia atsirado 1927 m. Tiesa, jis ėjo neilgai, bet tuojau jo vietoj atsirado naujų lietuviškų laik- raščių.'
+  teiginys: 'Pirmasis lietuviškas laikraštis Pietų Amerikoje „Brazilijos Lietuvis“ pasirodė 1927 m., bet ėjo neilgai.'
   pagrindžia:
     - c-003
 
@@ -45,17 +45,17 @@ Nenurodyta
     - c-004
 
 - t-003
-  teiginys: 'Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.): be to, Sao Paule jau su- organizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven- tinta 1936 m. vasario 16 d.).'
+  teiginys: 'Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d.'
   pagrindžia:
     - c-005
 
 - t-004
-  teiginys: 'Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.): jo rūpesčiu buvo įkurta lietuvių katalikų bend- ruomenė, nemaža kitų organizacijų ir lietuviškoji 3 skyrių mo- kykla (joje yra apie 100 mokinių). Visos tautiškos organiza- cijos to paties kun. Radžiaus buvo suburtos į vieną centrą, pavadintą Urugvajaus.'
+  teiginys: 'Kunigas T. Radžius Urugvajuje subūrė tautiškas lietuvių organizacijas į Urugvajaus Lietuvių Klubą.'
   pagrindžia:
     - c-002
 
 - t-005
-  teiginys: 'Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.): 1929 m. į Sao Paulą atvykusiam pirmajam Lietuvos konsului teko sunkus uždavinys — lietuvių veikimą apvalyti nuo visokių išnaudotojų ir kenksmingo komunistų darbo. Be to, jam teko paremti organizacijas, spaudą, mokyklų kūrimą, pa- rapijos organizavimą.'
+  teiginys: '1929 m. į Sao Paulą atvykęs pirmasis Lietuvos konsulas rėmė lietuvių organizacijas, spaudą, mokyklų kūrimą ir parapijos organizavimą.'
   pagrindžia:
     - c-001
 
@@ -67,6 +67,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1929 m. į Sao Paulą atvykęs pirmasis Lietuvos konsulas rėmė lietuvių organizacijas, spaudą, mokyklų kūrimą ir parapijos organizavimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kartu su spauda ėmė plėtotis ir lietuvių organizacinis gy-
@@ -83,6 +84,7 @@ Nenurodyta
     - t-005
 
 - c-002
+  santrauka: 'Kunigas T. Radžius Urugvajuje subūrė tautiškas lietuvių organizacijas į Urugvajaus Lietuvių Klubą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors čia taip pat veikė ko-
@@ -100,6 +102,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Pirmasis lietuviškas laikraštis Pietų Amerikoje „Brazilijos Lietuvis“ pasirodė 1927 m., bet ėjo neilgai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuviškoji spauda, pirmasis laik-
@@ -128,6 +131,7 @@ Nenurodyta
     - t-002
 
 - c-005
+  santrauka: 'Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mokyklose mokoma pagal Lietuvos mokyklų programą; vado-
@@ -159,3 +163,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/kunigas]]

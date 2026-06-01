@@ -33,13 +33,14 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
     - c-002
 
 - t-002
-  teiginys: 'Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kraštus, rado savo genties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius), Tryk (Trakų) ir kitų miestų, netgi Lenkijojek.'
+  teiginys: 'Islandų keliautojas Snorro, vykdamas per Europos šiaurę, prie Vilniaus ir Trakų rado savo genties naujakurių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Islandų keliautojas Snorro, vykdamas per Europos šiaurę, prie Vilniaus ir Trakų rado savo genties naujakurių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VII, p. 262.'

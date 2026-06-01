@@ -34,7 +34,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
     - c-001
 
 - t-002
-  teiginys: 'Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­ kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­ nui statytis atiduotas platus slėnis su keletu namų ir pieva, 31 Šis Jachna jau 1435 metais buvo.'
+  teiginys: 'Jachna Laurinavičius jau 1435 metais buvo Vilniaus vaitas ir 1492 metais dar ėjo šias pareigas.'
   pagrindžia:
     - c-002
 
@@ -66,6 +66,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
     - t-001
 
 - c-002
+  santrauka: 'Jachna Laurinavičius jau 1435 metais buvo Vilniaus vaitas ir 1492 metais dar ėjo šias pareigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokie
@@ -93,3 +94,4 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 ### Susiję objektai
 - [[objektai/zodynas/neofitai]]
 - [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vaitas]]

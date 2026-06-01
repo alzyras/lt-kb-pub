@@ -82,9 +82,9 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/grupes/Romos kurija]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Pirmojo kryžiaus žygio prieš lietuvius paskelbimas (1236.II.19)]]
 - [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/posakiai/Prisirenkite ir būkite drąsūs vyrai]]

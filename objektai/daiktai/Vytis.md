@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sovietinį Lietuvos SSR herbą keičia Vytis 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 243 Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.'
+  teiginys: 'Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau šios konstitucijos veikimas visa apim-
@@ -89,7 +90,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
 - [[objektai/daiktai/Lietuvos herbas Vytis]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
 - [[objektai/daiktai/Lietuvos trispalvė]]

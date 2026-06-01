@@ -58,89 +58,69 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-006
   teiginys: 'Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto.'
   pagrindžia:
-    - c-022
+    - c-010
 
 - t-007
-  teiginys: 'Jis pats betarpiškai galėjo savo sūnums paskirstyti dalis, savo valdose turėdamas paveldėjimo teises, kai^1 (^1) PSRL, 18, 93 p. (^248) n skyrius: valstybės iškilimas kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
+  teiginys: 'Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
   pagrindžia:
-    - c-018
+    - c-017
 
 - t-008
-  teiginys: 'Gediminaičiai beliko nepajudinti tik Mstislavly ir Pinske.Visi gi kiti gavo valdyti palyginti smulkutes kunigaik­ štijas ir priklausė valsčių, o ne sričių kunigaikščių rūšiai^4 ).'
+  teiginys: 'Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.'
   pagrindžia:
-    - c-026
+    - c-004
 
 - t-009
   teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
   pagrindžia:
-    - c-021
+    - c-020
 
 - t-010
-  teiginys: 'Galima tik spėt: arba Vytautas manė atsikratyti Lenkija su visa jos unija, ėmus valdyti kitai, ne Gedimino dinastijai; arba dar labiau norėjo sustiprinti savo tei­ ses globoti Lenkiją?'
-  pagrindžia:
-    - c-029
-
-- t-011
   teiginys: 'Nuo Gediminaičių dinastijos išmirimo (1572) « abiejų tautų » (« obojga narodów ») politinė istorija vystėsi bendroje respublikoje (« rzeczpospolita »).'
   pagrindžia:
-    - c-016
+    - c-015
 
 - t-012
-  teiginys: 'Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
-  pagrindžia:
-    - c-025
-
-- t-013
   teiginys: 'Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija.'
   pagrindžia:
-    - c-024
+    - c-021
 
-- t-014
+- t-013
   teiginys: 'Paskutinysis Gediminaičių dinastijos valdovas Zigmantas Augustas mirė nepalikęs įpėdinio.'
   pagrindžia:
-    - c-025
+    - c-002
+
+- t-014
+  teiginys: 'Daugumas Gediminaičių pačioje Vytauto valdymo pradžioje pasirodė jam nepaklusnūs.'
+  pagrindžia:
+    - c-013
 
 - t-015
-  teiginys: 'Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­ čioje valdymo pradžioje.'
-  pagrindžia:
-    - c-014
-
-- t-016
   teiginys: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
   pagrindžia:
-    - c-028
+    - c-007
 
-- t-017
+- t-016
   teiginys: 'Iš lietuvių tautos buvo kilusi ir valdančioji Gediminaičių šeima.'
   pagrindžia:
-    - c-027
+    - c-022
+
+- t-017
+  teiginys: 'Kiti Gediminaičiai buvo aprūpinti valdomis Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.'
+  pagrindžia:
+    - c-011
 
 - t-018
-  teiginys: 'Kiti Gediminaičiai buvo aprūpinti valdomis Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.'
+  teiginys: 'Dalį kunigaikštijų valdė Gediminaičiai, o kitas valdė Riurikaičiai ir įvairūs lietuvių kilmės kunigaikščiai.'
   pagrindžia:
     - c-012
 
 - t-019
-  teiginys: 'Vienos tų kunigaikštijų buvo valdomos rusų kilmės kunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą smulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­ čiai, kurių giminių pradžia nyksta amžių glūdumose.'
-  pagrindžia:
-    - c-013
-
-- t-020
   teiginys: 'XIII a. pabaigoje į Lietuvos istoriją įžengė lietuvių kilmės valdovų Gediminaičių dinastija.'
   pagrindžia:
-    - c-015
-
-- t-021
-  teiginys: 'Kai Gediminaičiai buvo išsi­ dalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo kunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­ gieji ir visa tauta.'
-  pagrindžia:
-    - c-011
+    - c-014
 
 - t-022
-  teiginys: 'Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laikotarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu.'
-  pagrindžia:
-    - c-023
-
-- t-024
   teiginys: 'Tačiau, kai paskutinysis tos dinastijos valdovas, Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio, abi valstybės savo sumetimais galėjo išsirinkti sau atskirus valdovus, kurie galėjo būti vienas kitam net priešingi — iš skirtingų kraštų galėjo.'
   pagrindžia:
     - c-006
@@ -203,6 +183,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   statusas: verified
   pagrindžia:
     - t-005
+    - t-008
 
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -237,23 +218,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-022
 
 - c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    paveldėjimo principas, o Viduramžiais tai buvo vienas iš svarbiausių
-    valstybės stabilumo požymių. Mat besigviešiantys sosto jau turės pagrįsti
-    savo teises, giminystę arba priklausomybę valdovų dinastijai. XIII a. pa-
-    baigoje į Lietuvos istoriją įžengė garsiausia lietuvių kilmės valdovų – Ge-
-    diminaičių dinastija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XIII a. pa-
@@ -267,8 +234,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   statusas: verified
   pagrindžia:
     - t-008
+    - t-015
 
-- c-009
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mūsų kultūroje
@@ -281,7 +249,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   pagrindžia:
     - t-009
 
-- c-010
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^1) **PSRL, 18, 93 p.**
@@ -296,9 +264,11 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-021
+    - t-011
 
-- c-011
+- c-010
+  santrauka: 'Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1387 m. žygis buvo nuostabus, prisimenant, kaip po Kęstučio
@@ -313,9 +283,10 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-020
+    - t-006
 
-- c-012
+- c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dalimis buvo aprūpinti ir visi kiti Gediminaičiai. Senojoje
@@ -328,9 +299,10 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
-- c-013
+- c-012
+  santrauka: 'Dalį kunigaikštijų valdė Gediminaičiai, o kitas valdė Riurikaičiai ir įvairūs lietuvių kilmės kunigaikščiai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šiaip kiekviena jų
@@ -345,9 +317,10 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-018
 
-- c-014
+- c-013
+  santrauka: 'Daugumas Gediminaičių pačioje Vytauto valdymo pradžioje pasirodė jam nepaklusnūs.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­
@@ -362,9 +335,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
-- c-015
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gediminaičių dinastijos iškilimas
@@ -384,9 +357,10 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-019
+    - t-007
 
-- c-016
+- c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet buvo ir dideliai varganų bei sunkių
@@ -400,9 +374,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
-- c-017
+- c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gediminaičiai 4, 5, 16, 23, 25, 29,
@@ -455,7 +429,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   pagrindžia:
     - t-001
 
-- c-018
+- c-017
+  santrauka: 'Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet Kęstutis vis dėlto gavo didesnes teises negu kiti
@@ -476,7 +451,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   pagrindžia:
     - t-007
 
-- c-019
+- c-018
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Plačiosios valstybės kūrėjai buvo lietuviai. Iš lietuvių
@@ -490,7 +465,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   pagrindžia:
     - t-001
 
-- c-020
+- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau
@@ -507,7 +482,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   pagrindžia:
     - t-010
 
-- c-021
+- c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Okupacijos ir aneksijos, tremtys, genocidai ir
@@ -524,39 +499,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   pagrindžia:
     - t-009
 
-- c-022
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1387 m. žygis buvo nuostabus, prisimenant, kaip po Kęstučio
-    mirties ant peilio ašmens vartėsi klausimas, ar Lietuva galutinai
-    neapsispręs už stačiatikių tikėjimą. Kai Gediminaičiai buvo išsi­
-    dalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo
-    kunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­
-    gieji ir visa tauta. Bet nuolat kabantis vokiečių ordino pavojus per
-    visą XIV amžių buvo buvęs akstinas vesti derybas ir kokiu nors
-    būdu priimti priešo išpažįstamą, t. y. vokiškąjį tikėjimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-023
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laiko-
-    tarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu. Mūsų kultūroje
-    ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo,
-    Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai –
-    yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.
-    PAGONIŲ VALSTYBĖ.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-022
-
-- c-024
+- c-021
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi politinės tautos genezės jau galima ieško-
@@ -570,40 +513,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
-
-- c-025
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^1) **PSRL, 18, 93 p.**
-
-
-    (^248) n skyrius: valstybės iškilimas
-    kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio
-    valios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog
-    ateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos
-    pusiau^2. Pagal tą susitarimą Kęstutis buvo Algirdo padėjėjas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-012
 
-- c-026
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo būdu Vytautas panaikino stipriąsias Polocko, Vitebsko,
-    Smolensko, Sievero, Naugardėlio, Kijevo, Volynijos ir Podolijos
-    kunigaikštijas. Gediminaičiai beliko nepajudinti tik Mstislavly
-    ir Pinske.Visi gi kiti gavo valdyti palyginti smulkutes kunigaik­
-    štijas ir priklausė valsčių, o ne sričių kunigaikščių rūšiai^4 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-027
+- c-022
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš lietuvių
@@ -616,41 +528,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
-
-- c-028
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XIII a. pa-
-    baigoje į Lietuvos istoriją įžengė garsiausia lietuvių kilmės valdovų – Ge-
-    diminaičių dinastija.
-    Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
-    nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
-    vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-016
 
-- c-029
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šį sumanymą, kaip sako
-    Prochaska, smarkiai rėmęs ir Vytautas; jis priėmė jauną Fridri­
-    ką savo dvare ir jį vaišino. Kuriuo tikslu buvo rodomas toks pa­
-    lankumas šiam naujam kandidatui į lenkų karalius ir į Lietuvos
-    siuzerenus, sunku pasakyti. Galima tik spėt: arba Vytautas
-    manė atsikratyti Lenkija su visa jos unija, ėmus valdyti kitai, ne
-    Gedimino dinastijai; arba dar labiau norėjo sustiprinti savo tei­
-    ses globoti Lenkiją?
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-030
+- c-023
   santrauka: 'Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -670,7 +550,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-023
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -700,7 +580,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - [[objektai/grupes/Litvakai]]
 - [[objektai/asmenys/Liubartas]]
 - [[objektai/asmenys/Mykolas]]
-- [[objektai/asmenys/Narimantas]]
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusėnai]]
@@ -710,7 +589,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pagonybė]]
@@ -721,8 +600,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
 - [[objektai/asmenys/Patrikas]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]
-- [[objektai/asmenys/Zigmantas Augustas]]
-- [[objektai/grupes/Gedimino dinastija]]
 - [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/siuzerenas]]

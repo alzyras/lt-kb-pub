@@ -41,3 +41,5 @@ Tai vadinamoji šventoji namų ugnelė, arba gabija.
 ### Susiję objektai
 - [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė]]
 - [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]
+- [[objektai/zodynas/amžinoji ugnis Gabija]]
+- [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]

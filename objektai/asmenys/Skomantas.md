@@ -49,7 +49,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - c-008
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį Po to Skomantas442, įsibrovęs su sūduviais į Kulmo žemę, padalijo savo kariuomenę 439 Sūduviai puolė tarp 1263 m. balandžio pradžios ir 1264 m. sausio mėn, D.'
+  teiginys: 'Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.'
   pagrindžia:
     - c-005
 
@@ -141,8 +141,10 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   statusas: verified
   pagrindžia:
     - t-003
+    - t-010
 
 - c-005
+  santrauka: 'Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį
@@ -237,22 +239,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   pagrindžia:
     - t-001
 
-- c-010
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    166 (161). Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
-                                būtent: Eimsutis ir dar viena
-
-      Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
-    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
-    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-010
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
@@ -271,7 +257,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 - [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]
 - [[objektai/ivykiai/Skomanto pasitraukimas į Rusios žemę ir atsivertimas]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Skomanto mirtis]]
-- [[objektai/ivykiai/Skomanto vadovaujamas sūduvių ir lietuvių žygis į Ordino valdas pavyslyje (1277 m.)]]
+- [[objektai/posakiai/Pasiimk šį savo dievo paveikslą]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Skomanto vadovaujamas sūduvių ir lietuvių žygis į Ordino valdas pavyslyje (1277 m.)]]

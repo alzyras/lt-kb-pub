@@ -25,13 +25,14 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68.'
+  teiginys: '1324 m. popiežius Jonas XXII pagrasino ekskomunikuoti Ordiną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1324 m. popiežius Jonas XXII pagrasino ekskomunikuoti Ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
@@ -53,3 +54,4 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 - [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]
+- [[objektai/zodynas/ekskomunikacija ekskomunika]]

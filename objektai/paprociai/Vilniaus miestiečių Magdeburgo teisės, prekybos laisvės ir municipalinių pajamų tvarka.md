@@ -49,33 +49,34 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­ dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo metu vadintą Zabójnica (žudike), panaikindamas visas pri­ vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų.'
+  teiginys: '1492 m. Trakuose Aleksandras Vilniui suteikė Magdeburgo teises ir leido miestui laikyti vaško dirbtuvę.'
   pagrindžia:
     - c-005
 
 - t-002
-  teiginys: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­ do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­ je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su Černigovu32.'
+  teiginys: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno.'
+  teiginys: 'Žygimantas Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  teiginys: 'Rugsėjo 23 d. Žygimantas leido Vilniaus miestiečiams prekiauti ir be muito gabenti prekes Lietuvos žemėje.'
   pagrindžia:
     - c-003
 
 - t-005
-  teiginys: 'Kadangi pilietinis karas po Vytauto Didžiojo mir­ ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę be gyventojų miestą, beveik galutinai sugriovę Magdebur­ go teisių galią, todėl Kazimieras.'
+  teiginys: 'Kazimiero 1441 m. Brastoje išleista privilegija atnaujino Vilniaus Magdeburgo teises ir nustatė du didžiuosius prekymečius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar būdamas
@@ -97,6 +98,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Kazimiero 1441 m. Brastoje išleista privilegija atnaujino Vilniaus Magdeburgo teises ir nustatė du didžiuosius prekymečius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kadangi pilietinis karas po Vytauto Didžiojo mir­
@@ -127,6 +129,7 @@ Nenurodyta
     - t-005
 
 - c-003
+  santrauka: 'Rugsėjo 23 d. Žygimantas leido Vilniaus miestiečiams prekiauti ir be muito gabenti prekes Lietuvos žemėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis teisingu­
@@ -149,6 +152,7 @@ Nenurodyta
     - t-004
 
 - c-004
+  santrauka: 'Žygimantas Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Privilegijose Žygimantas pareiškė, kad
@@ -179,6 +183,7 @@ Nenurodyta
     - t-003
 
 - c-005
+  santrauka: '1492 m. Trakuose Aleksandras Vilniui suteikė Magdeburgo teises ir leido miestui laikyti vaško dirbtuvę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     III KNYGA
@@ -219,6 +224,7 @@ Nenurodyta
 - [[objektai/zodynas/pastočiai]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

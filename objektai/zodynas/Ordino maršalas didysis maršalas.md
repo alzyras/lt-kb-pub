@@ -28,18 +28,19 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino maršalo Engelhardo Rabės22, kadangi didysis magistras Konradas Ciolneris gu­ lėjo pakirstas sunkios ligos.'
+  teiginys: 'Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Marijai šventę tapo didžiuoju komtūru arba arkikomtūru, 1390 rugpjūčio 15 d., po didžiojo magistro Konrado Ciolnerio fon Rotenšteino mirties, - ir didžiojo magistro vieti­ ninku, iki pat.'
+  teiginys: 'Konradas Valenrodas 1382 metais buvo paskirtas Ordino didžiuoju maršalu, o 1391 m. kovo 12 d. išrinktas didžiuoju magistru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konradas Valenrodas 1382 metais buvo paskirtas Ordino didžiuoju maršalu, o 1391 m. kovo 12 d. išrinktas didžiuoju magistru.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabartinis
@@ -78,6 +79,7 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
     - t-002
 
 - c-002
+  santrauka: 'Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
@@ -120,6 +122,8 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Engelhardas Rabė]]
+- [[objektai/asmenys/Rabė]]
 - [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/autoriai/Miechovita]]

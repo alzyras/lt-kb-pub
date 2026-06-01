@@ -26,13 +26,14 @@ Išsi­ laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­ tai, s
 ## Teiginiai
 
 - t-001
-  teiginys: 'Išsi­ laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­ tai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­ lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą miesto valdymą, jau buvo galingi ir reikšmingi vietinės.'
+  teiginys: 'Išsivadavę iš kašteliono valdžios, Lenkijos miestai įgijo atleidimą nuo duoklių, savo teisėtvarką ir atskirą miesto valdymą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Išsivadavę iš kašteliono valdžios, Lenkijos miestai įgijo atleidimą nuo duoklių, savo teisėtvarką ir atskirą miesto valdymą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -

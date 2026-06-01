@@ -74,7 +74,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - t-005
   teiginys: 'Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-006
   teiginys: 'O Oberosto karinis kolonijinis režimas plėšė valstiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolėmis, pramonės įmones išvežė į Vokietiją, o mokyklose pradėjo germanizaciją (lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.'
@@ -143,6 +143,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   statusas: verified
   pagrindžia:
     - t-004
+    - t-005
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -163,26 +164,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   pagrindžia:
     - t-006
 
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose parei-
-    kalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių
-    konferencijose Šveicarijoje, sustiprėjo užsienio lietuvių centrų ir Lietuvos
-    organizacijų veiklos koordinacija.
-    1918 metų Vasario 16 Aktas
-    1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-
-    kos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti
-    Lietuvos valstybę ir jos prisijungimą prie Vokietijos. Oberostas, rezidavęs
-    Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
-    kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
-    priimtą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gabrielis Narutovičius]]
@@ -192,7 +173,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - [[objektai/asmenys/Paulius fon Hindenburgas]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Stanislovas Narutavičius]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Ėrichas Liudendorfas]]

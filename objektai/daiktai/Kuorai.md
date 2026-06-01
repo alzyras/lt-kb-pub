@@ -45,25 +45,6 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šis su daugybe karių atvyko ir užėmė
-    pilį. Šitai išgirdęs, komtūras susirūpino  ir patraukė su saviškiais link Karaliaučiaus,
-    o parplaukęs laivais  į Brandenburgą, čia išvadavo nuo prūsų brolius  ir kitus iš savo
-    šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
-    išsivedė su savimi.
-
-
-
-
-     131 (126).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad šitai išgirdęs, komtūras susirūpino ir patraukė su saviškiais link Karaliaučiaus, o parplaukęs laivais į Brandenburgą, čia išvadavo nuo prūsų brolius ir kitus iš savo šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -78,6 +59,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

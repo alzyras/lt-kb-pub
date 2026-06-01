@@ -25,7 +25,7 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 - t-002
   teiginys: 'Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -44,21 +44,6 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gediminas nurodė politinį — vedybinį kelią ir į tolimą Tverės
-    kunikaikštiją. Per 150 metų toliau patverusi su Tverės kunigaikš­
-    čiais sąjunga, kuri reiškė Maskvai priešišką politiką, buvo pradėta
-    politinėmis vedybomis, kai Gedimino duktė Marija ištekėjo už
-    didžiojo Tverės kunigaikščio Dimitro (Mykolo sūnaus). Iki pat
-    XV amž. antros pusės Tverės kunigaikščiai, varžydamiesi su Mask­
-    va, sau vis ieškojo paramos Vilniuje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

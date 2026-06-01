@@ -30,18 +30,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Paskutinį testamentą ir paskutinę mūsų žemiau išreikštą valią pateikėme, išdėstėme, išreiškėme ir aprašė­ me bei šiuo raštu aprašome.'
+  teiginys: '1506 m. testamente Aleksandras skelbė, kad būdamas kūnu nusilpęs, bet sveiko proto išdėstė paskutinę valią.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Visa tai ir kiekviena, atskirai suminėta, į dabartinį testamentą, paskutiniąją mūsų valią, įtraukiame, įrašome, išdėstome; norime ir įsakome, kad visais laikais jis būtų tvir­ tas ir nepakeistas, minėto turinio, kad amžiams išliktų savo galioje, ir jo.'
+  teiginys: 'Aleksandro testamentas buvo duotas Lydos pilyje 1506 m. Šv. Jokūbo apaštalo šventės išvakarėse.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1506 m. testamente Aleksandras skelbė, kad būdamas kūnu nusilpęs, bet sveiko proto išdėstė paskutinę valią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Quem quidem vitae spiritum
@@ -81,6 +82,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Aleksandro testamentas buvo duotas Lydos pilyje 1506 m. Šv. Jokūbo apaštalo šventės išvakarėse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 389

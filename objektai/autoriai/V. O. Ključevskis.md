@@ -25,7 +25,7 @@ V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos peri
 - t-002
   teiginys: 'Ključevskis viena iš charakteringiausių jų istorijos vystymosi žyme ir laiko platų «kolonizavimąsi ».'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -47,24 +47,6 @@ V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos peri
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rytiniai
-    slavai šimtmečių bėgyje taip buvo pamėgę kraustytis bei koloni­
-    zuotis, kad V. O. Ključevskis viena iš charakteringiausių jų istorijos
-    vystymosi žyme ir laiko platų «kolonizavimąsi ». Jis šitą faktą
-    laiko ir svarbiausiu visos rusų istorijos periodizacijos rodikliu, pagal
-    jį išskirstydamas rusų tautos istoriją į atskirus jos kolonizacijos
-    periodus^2.
-    Ir Lietuvos istorijoje susitinkame su faktu, kad baltų, o ypač
-    lietuvių gyvenamų ir jų kalbos plotų ribos istorinių laikų angoje
-    keitėsi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

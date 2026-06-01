@@ -43,7 +43,7 @@ Nenurodyta
     - c-003
 
 - t-002
-  teiginys: 'Be to, jie stengėsi patraukti visuomenę į bažnyčią gražiomis iškilmingomis pamaldomis, visokiomis procesijomis ir iškilmėmis.'
+  teiginys: 'Jėzuitai visuomenę į bažnyčią traukė iškilmingomis pamaldomis, procesijomis ir kitomis iškilmėmis.'
   pagrindžia:
     - c-002
 
@@ -72,6 +72,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Jėzuitai visuomenę į bažnyčią traukė iškilmingomis pamaldomis, procesijomis ir kitomis iškilmėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai protestantai pradėjo vengti disputų,

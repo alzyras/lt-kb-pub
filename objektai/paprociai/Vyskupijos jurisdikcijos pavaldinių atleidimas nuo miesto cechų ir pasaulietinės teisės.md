@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be to, kilnusis, Andrius Vodzinskis, šviesiojo didžiai gerbiamo pono Jurgio, Dievo ma­ lone šventosios Romos bažnyčios presbiterio, kardinolo Rad­ vilos, Vilniaus vyskupijos nuolatinio administratoriaus, Olykos ir Nesvyžiaus kunigaikščio ir mūsų vietininko.'
+  teiginys: '1584 m. Gardine Steponas Batoras paskelbė Vilniaus vyskupijos jurisdikcijos pavaldinius laisvus nuo miesto pasaulietinės jurisdikcijos ir cechų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1584 m. Gardine Steponas Batoras paskelbė Vilniaus vyskupijos jurisdikcijos pavaldinius laisvus nuo miesto pasaulietinės jurisdikcijos ir cechų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, kilnusis, Andrius Vo-
@@ -132,3 +133,4 @@ Nenurodyta
 - [[objektai/grupes/Vilniaus miesto cechai]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Steponas Batoras]]

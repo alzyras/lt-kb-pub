@@ -57,7 +57,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - c-004
 
 - t-007
-  teiginys: 'Giminės iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.).'
+  teiginys: 'Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos.'
   pagrindžia:
     - c-006
 
@@ -149,6 +149,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-004
 
 - c-006
+  santrauka: 'Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokiečių ir lenkų mažumos darė žygių gauti tautinę

@@ -30,7 +30,7 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
 - t-001
   teiginys: '1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.'
@@ -45,22 +45,6 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
-    „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
-    mintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios
-    kultūros kalba. Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
-    Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
-    Poška, Silvestras Valiūnas). Įspūdį padarė 1818 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1808 m. Varšuvoje Mokslo bičiulių drau-
@@ -78,14 +62,13 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Ksaveras Bogušas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/asmenys/Silvestras Valiūnas]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
-- [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]
-- [[objektai/asmenys/Dionizas Poška]]

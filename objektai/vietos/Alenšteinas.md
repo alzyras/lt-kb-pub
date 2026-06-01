@@ -27,18 +27,19 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Buvo nutarta pasitraukti kiek atgal, paskui ei­ ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos upę ir, nors tolimesniu keliu, pasiekti Marienburgą.'
+  teiginys: 'Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Žygio planuotojai nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Toji pati taryba turėjo išspręsti ir tolimesnį kariuome­
@@ -51,17 +52,4 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Toji pati taryba turėjo išspręsti ir tolimesnį kariuome­
-    nių žygiavimą. Buvo nutarta pasitraukti kiek atgal, paskui ei­
-    ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos
-    upę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­
-    jau surasti vadovai ir nustatytas kelias.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

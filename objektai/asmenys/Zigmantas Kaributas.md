@@ -45,7 +45,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
 - t-004
   teiginys: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-005
   teiginys: 'Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.'
@@ -102,6 +102,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -120,24 +121,6 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
     - t-005
 
 - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
-    pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
-    savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
-    linkybėms, Vytautas nuo to sumanymo atsisakė.
-    Jei tuo laiku, t. y. Čekų karūnos klausimo metu, neįvyko di­
-    desnių nesusipratimų, būtent karo tarp Vytauto ir Lenkijos, rei­
-    kia manyti, kad čia daug padėjo tie geri santykiai Vytauto su
-    Jogaila, kurie, „nežiūrint visokiausių intrigų“, jau 1423 m. pa­
-    siekė kuo didžiausio solidarumo prieš husitus^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-006
   santrauka: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

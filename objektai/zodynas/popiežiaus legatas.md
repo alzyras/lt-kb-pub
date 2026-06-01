@@ -20,13 +20,14 @@ Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponu
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.'
+  teiginys: 'Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
@@ -58,7 +59,6 @@ Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponu
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Vytenis]]
-- [[objektai/zodynas/legatas]]
 - [[objektai/asmenys/Bernardas (abatas)]]
 - [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
 - [[objektai/asmenys/Pranciškus (popiežiaus legatas)]]

@@ -28,13 +28,14 @@ Dusburgietis teigia, kad [Schroetter-Karte], Karte von Ost-Preussen nebst Preuss
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad [Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und WestPreussen nebst dem Netzdistrict 1 : 150000.'
+  teiginys: '„Schroetter-Karte“ yra 1796-1802 m. sudarytas 25 sekcijų 1:150000 mastelio Rytų Prūsijos, Prūsų Lietuvos, Vakarų Prūsijos ir Netzdistrict žemėlapis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Schroetter-Karte“ yra 1796-1802 m. sudarytas 25 sekcijų 1:150000 mastelio Rytų Prūsijos, Prūsų Lietuvos, Vakarų Prūsijos ir Netzdistrict žemėlapis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West-

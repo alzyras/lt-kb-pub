@@ -51,6 +51,5 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Tautų Sąjungos Taryba|Tautų Sąjungos Taryba (institucija)]]
-- [[objektai/asmenys/Polis Himansas]]
 - [[objektai/zodynas/federacija federacinė valstybė]]
 - [[objektai/zodynas/kantonas kantoninis principas]]

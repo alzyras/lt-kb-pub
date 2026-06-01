@@ -36,7 +36,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris, Tepliavos komtūras, su 12 brolių ir 250 raitelių įsiveržė į Sūduvą ir, neskaitant kitų nuostolių, kurių pridarė.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -57,20 +56,6 @@ Nenurodyta
                    206 (201).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,
-    Tepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų
-    nuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150
-    žmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai
-    čia kur kas daugiau prarado, nei buvo pelnę Semboje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

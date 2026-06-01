@@ -25,13 +25,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '1935 m. gegužės 21–22 d. kitas JAV lietuvis, Feliksas Vaitkus, sėkmingai atliko S.'
+  teiginys: '1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo laiške

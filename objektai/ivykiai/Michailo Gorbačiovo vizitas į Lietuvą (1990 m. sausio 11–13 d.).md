@@ -42,35 +42,21 @@ Nenurodyta
 - t-001
   teiginys: 'Sąjūdininkai buvo pasiryžę skelbti Lietuvos valstybę.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11– 13 d.).'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
-  teiginys: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva L I E T U V O.'
+  teiginys: 'Per spaudimą Lietuvai grasinta Klaipėdos kraštą prijungti prie RSSFR Kaliningrado srities, o Vilniaus regione sukurti autonomiją.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11–
-    13 d.). Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
-    Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka
-    Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.
-    Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Są-
@@ -84,7 +70,8 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
+  santrauka: 'Per spaudimą Lietuvai grasinta Klaipėdos kraštą prijungti prie RSSFR Kaliningrado srities, o Vilniaus regione sukurti autonomiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Griebtasi šantažo – grasinta
@@ -104,10 +91,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]

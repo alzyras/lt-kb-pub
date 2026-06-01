@@ -27,58 +27,38 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad lietuviai, matydami, jog daugiau nieko nepeš, sudegino papilį ir pasitraukė. 254 (247).'
+  teiginys: 'Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie Skalvos upelio ties Paskalviais.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad skalvių pilis statyta 1293 m. (SRP, 1, 271, 280) kair.'
+  teiginys: 'Dusburgietis teigia, kad galop lietuviai, nieko nepešę iš šio antpuolio, pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus pasėlius.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad galop lietuviai, nieko nepešę iš šio antpuolio, pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus pasėlius.'
+  teiginys: 'Dusburgietis teigia, kad apie Skalvių pilies puolimą 1293 Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva, perduoti jam Skalvių pilį.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad apie Skalvių pilies puolimą 1293 Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva, perduoti jam Skalvių pilį.'
+  teiginys: 'Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.'
   pagrindžia:
-    - c-006
+    - c-001
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.'
+  teiginys: 'Dusburgietis teigia, kad apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus.'
   pagrindžia:
     - c-005
 
 - t-006
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus.'
-  pagrindžia:
-    - c-007
-
-- t-007
   teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuviai, matydami, jog daugiau nieko nepeš, sudegino papilį ir pasitraukė.
-
-
-
-
-              254 (247).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Ragainės ir Skalvių pilių pastatymą
@@ -100,9 +80,11 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
+    - t-004
 
-- c-003
+- c-002
+  santrauka: 'Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie Skalvos upelio ties Paskalviais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     528 Žr. paaiškinimus D. III, 181, 1; Clasen-Sandt K., Zur Baugeschichte..., p. 197—
@@ -114,9 +96,9 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Broliai
@@ -134,31 +116,9 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
-    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
-    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
-    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
-    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
-    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
-    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
-    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
-
-
-
-
-     236 (229).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Skalvių pilies puolimą 1293
@@ -175,9 +135,9 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-007
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
@@ -195,20 +155,5 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
-
-- c-008
-  santrauka: 'Dusburgietis teigia, kad apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    261 (254). Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
-                                     sudeginimą
-
-       Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
-    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
-    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-008
+    - t-005
+    - t-007

@@ -29,13 +29,14 @@ Kiščina (Vitebsko vaivadienė) privalanti gerb­ ti.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kiščina (Vitebsko vaivadienė) privalanti gerb­ ti.'
+  teiginys: 'Kiščina, Vitebsko vaivadienė, buvo įspėta nestabdyti į Vilnių vamzdžiais vedamo vandens iš Drujos upės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kiščina, Vitebsko vaivadienė, buvo įspėta nestabdyti į Vilnių vamzdžiais vedamo vandens iš Drujos upės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. Miesto archyve: Žygimanto Seno­

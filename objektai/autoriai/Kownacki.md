@@ -19,13 +19,14 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.'
+  teiginys: 'Kownackis nenorėjo tikėti, kad miestai patys vieni galėjo pristatyti tokią daugybę ginkluotų žmonių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kownackis nenorėjo tikėti, kad miestai patys vieni galėjo pristatyti tokią daugybę ginkluotų žmonių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta­

@@ -43,6 +43,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Barbora Cyleikaitė]]
 - [[objektai/asmenys/Dr. Baptistas Cigala]]

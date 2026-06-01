@@ -67,7 +67,7 @@ Nenurodyta
 - t-005
   teiginys: 'Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūžiniais valstybės raidos etapais ir išskirtinėmis progomis.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -108,23 +108,6 @@ Nenurodyta
     - t-003
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kartais juos
-    inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty-
-    bės nueitas kelias būtų įamžintas ir įvertintas iš platesnės perspekty-
-    vos – patriotiniu, bet teisingu, skvarbiu, visumą apimančiu žvilgsniu.
-    1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
-    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
-    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
-    Šapoka.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
   santrauka: 'Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūžiniais valstybės raidos etapais ir išskirtinėmis progomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -142,19 +125,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/autoriai/Adolfas Šapoka]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/NATO]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Europos Sąjunga]]
-- [[objektai/autoriai/Kazimieras Masiliūnas]]
-- [[objektai/grupes/Lietuvos Respublikos švietimo ministerija|Lietuvos Respublikos švietimo ministerija (institucija)]]
-- [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

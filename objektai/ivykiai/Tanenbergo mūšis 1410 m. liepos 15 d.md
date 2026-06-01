@@ -42,12 +42,12 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­ valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos mėn.'
+  teiginys: 'Prieš Tanenbergo mūšį kryžiuočių kariuomenė per audringą naktį nužygiavo nuo Löbau iki Grünvaldo ir atvyko pavargusi.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Ir tuo būdu prisiartino Vokiečių Ordinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­ se ištiko didelė ir žiauri kova lietuvių ir lenkų suvienytų jėgų — su Ordinu ir jo gausingais Vakarų Europos svečiais.'
+  teiginys: '1410 m. liepos 15 d. Žalgirio laukuose lietuvių ir lenkų suvienytos jėgos kovėsi su Ordinu ir jo Vakarų Europos svečiais.'
   pagrindžia:
     - c-003
 
@@ -59,6 +59,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prieš Tanenbergo mūšį kryžiuočių kariuomenė per audringą naktį nužygiavo nuo Löbau iki Grünvaldo ir atvyko pavargusi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir kai karalius ėjo mels­
@@ -96,6 +97,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: '1410 m. liepos 15 d. Žalgirio laukuose lietuvių ir lenkų suvienytos jėgos kovėsi su Ordinu ir jo Vakarų Europos svečiais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir tuo būdu prisiartino Vokiečių

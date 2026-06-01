@@ -20,13 +20,14 @@ Prancūzija Žoržo B.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prancūzija Žoržo B.'
+  teiginys: 'Žoržo B. Klemanso rašte vokiečiams Prancūzija aiškino sąjungininkų sprendimą dėl Klaipėdos krašto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žoržo B. Klemanso rašte vokiečiams Prancūzija aiškino sąjungininkų sprendimą dėl Klaipėdos krašto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pralaimėjusi karą Vokietija tam ener-

@@ -119,7 +119,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Germantas]]
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Šventaragis]]

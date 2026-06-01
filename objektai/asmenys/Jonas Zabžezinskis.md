@@ -33,13 +33,14 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
     - c-002
 
 - t-002
-  teiginys: 'Jono ir Vysku­ pų gatvės kampe, dovanojimo aktu, padarytame Trakų vaivados Jono Zabžezinskio Vilniaus vyskupui Jo­ nui iš Lietuvos kunigaikščių, 1533 metų spalio 26 dieną (Archiwum Ka­ pitulų MSS), yra užsimenama apie tą didelį gaisrą.'
+  teiginys: 'Jonas Zabžezinskis 1533 metų spalio 26 dieną dovanojimo aktu Vilniaus vyskupui Jonui perdavė mūrinį namą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Zabžezinskis 1533 metų spalio 26 dieną dovanojimo aktu Vilniaus vyskupui Jonui perdavė mūrinį namą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ko j a ł o w i c z, II, p. 391. Mūrinio
@@ -78,3 +79,4 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 ### Susiję objektai
 - [[objektai/daiktai/Aleksandro lektika]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/daiktai/Namas]]

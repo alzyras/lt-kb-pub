@@ -23,7 +23,7 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
     - c-001
 
 - t-002
-  teiginys: 'Tie posėdžiai būdavo vadinami „provincijų sesijomis" (sesijomis tada vadindavo ir kiekvienos dienos seimo posėdį; dabar sesijomis vadinamas visas parlamento veikimo metas tarp dviejų atostogų arba šiaip tarp dviejų pertraukų).'
+  teiginys: 'Provincijų sesijomis buvo vadinami posėdžiai, atlikdavę ankstesnių generalinių seimelių darbą.'
   pagrindžia:
     - c-002
 
@@ -46,6 +46,7 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
     - t-001
 
 - c-002
+  santrauka: 'Provincijų sesijomis buvo vadinami posėdžiai, atlikdavę ankstesnių generalinių seimelių darbą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tie posėdžiai būdavo

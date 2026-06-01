@@ -48,13 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau miesto tary­ ba, be tų pačių miestiečių leidimo, negalėjo įvesti jokių naujų mokesčių5.'
+  teiginys: 'Prie Vilniaus rotušės leistų krautuvių, viešos miesto virtuvės ir vyninės pelnas buvo skiriamas miesto iždui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Vilniaus rotušės leistų krautuvių, viešos miesto virtuvės ir vyninės pelnas buvo skiriamas miesto iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau miesto tary­

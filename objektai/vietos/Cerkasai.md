@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Išlikusiame Kanevo pilies padavime sakoma, kad Gediminas įkūrė Kanevą ir Čerkasus.'
+  teiginys: 'XVI a. vidurio Kanevo pilies padavime sakoma, kad Gediminas įkūrė Kanevą ir Cerkasus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XVI a. vidurio Kanevo pilies padavime sakoma, kad Gediminas įkūrė Kanevą ir Cerkasus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     (į šiaurę nuo Kijevo), Kanevas, Cerkasai

@@ -51,12 +51,12 @@ Nenurodyta
 - t-002
   teiginys: 'Lietuvos kario savadarbė diržo sagtis siejosi su pirmaisiais Lietuvos kariuomenės mėnesiais, kai savanoriams trūko ekipuotės.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
   teiginys: 'Lietuvos kariai prie gautų vokiečių kariuomenės sagčių pritvirtindavo Vytį, uždengdami vokišką imperijos karūną ir šūkį „Got mit uns“.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
@@ -84,6 +84,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -110,26 +111,6 @@ Nenurodyta
     - t-004
 
 - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Turėję didelę
-    mųjų Lietuvos karių skiriamųjų ig ersvara, bolševikai iš-
-    ženklų. 1919 m. Jesu P k
-    vertė trauktis Kolupių kaime, prie vieškelio
-    iš Kėdainių į Šėtą, buvusią Panevėžio būrio
-
-    LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS
-
-    Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
-    jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
-    uniformų, reikalingos ekipuotės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo

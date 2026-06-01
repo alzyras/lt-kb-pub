@@ -34,17 +34,17 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 - t-001
   teiginys: 'Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis pasakoja, kad 1308 m. Albrechtą nužudė jo vaikaitis Jonas, vadinamas Anlantu.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-003
   teiginys: 'Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol.'
@@ -54,12 +54,12 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 - t-005
   teiginys: 'Dusburgietis teigia, kad apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems 1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad apie Albrechto, Romos karaliaus, nužudymą 1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs Austrijos kunigaikštystę, nors tas ir buvo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -76,22 +76,9 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
-    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
-    Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
-       Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
-    prarado labai daug užmuštaisiais (Ptol. p. 1223),
-  citata_rodoma: ''
-  teiginio_tipas: terminas_ar_titulas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     104. Apie Albrechto, Romos karaliaus, nužudymą
@@ -105,34 +92,9 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas
-    karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol. p. 1227),
-    šitaip Čekijos sostas, kuris neturėjo įpėdinių, atiteko svetimiesiems, nes Romos karalius
-    Albrechtas į minėtąjį sostą pakėlė savo sūnų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos
-    karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs
-    Austrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.
-      599 D.— Dunemunde; vėliau vok. Dünemünde, dab.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-006
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     102. Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
@@ -146,6 +108,7 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   statusas: verified
   pagrindžia:
     - t-005
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

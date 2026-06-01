@@ -10,7 +10,7 @@ import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
-import { collectCitationMetadata, isObjectPage } from "../util/citationFilter"
+import { collectCitationMetadata, collectClaimCount, isObjectPage } from "../util/citationFilter"
 import { styleText } from "util"
 
 interface RenderComponents {
@@ -310,6 +310,8 @@ export function renderPage(
       ? collectCitationMetadata(fs.readFileSync(filePath, "utf8"))
       : citationFilter
   const currentQuoteCount = Number(fileCitationFilter?.quoteCount ?? frontmatter?.citatu_skaicius ?? 0)
+  const currentClaimCount =
+    filePath && isObjectPage(relativePath) ? collectClaimCount(fs.readFileSync(filePath, "utf8")) : 0
   const rawSourceIds = Array.isArray(fileCitationFilter?.sourceIds)
     ? fileCitationFilter.sourceIds
     : frontmatter?.citatu_saltiniu_id
@@ -327,6 +329,7 @@ export function renderPage(
         data-slug={slug}
         data-citation-filterable={currentCitationFilterable ? "true" : "false"}
         data-quote-count={`${currentQuoteCount}`}
+        data-claim-count={`${currentClaimCount}`}
         data-citation-sources={currentSourceIds.join("|")}
       >
         <div id="quartz-root" class="page">

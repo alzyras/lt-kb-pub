@@ -81,5 +81,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/zodynas/barokas]]
-- [[objektai/asmenys/Šv. Elena]]
-- [[objektai/asmenys/Šv. Stanislovas]]

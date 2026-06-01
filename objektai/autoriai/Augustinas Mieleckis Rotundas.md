@@ -33,7 +33,7 @@ periodo_grupes:
     - c-002
 
 - t-002
-  teiginys: 'Augustas Rotundas Milesijus arba Mielickis, kaip jį vadina Igna­ cas Potockis, buvo kilęs iš bajorų, nes kur tik miesto aktuose sutikau jo pa­ vardę, visur buvo pridėta Nobilis [bajoras].'
+  teiginys: 'Augustinas Mieleckis Rotundas buvo bajorų kilmės, nes miesto aktuose prie jo pavardės buvo pridedama „Nobilis“.'
   pagrindžia:
     - c-001
 
@@ -50,6 +50,7 @@ periodo_grupes:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Augustinas Mieleckis Rotundas buvo bajorų kilmės, nes miesto aktuose prie jo pavardės buvo pridedama „Nobilis“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Augustas Rotundas Milesijus
@@ -161,3 +162,4 @@ periodo_grupes:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/Bajorai]]

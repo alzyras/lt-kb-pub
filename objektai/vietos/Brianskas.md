@@ -33,7 +33,7 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: 'Dėl neaiškios laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­ versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse buvo nugalėtas.'
+  teiginys: '1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.'
   pagrindžia:
     - c-002
 
@@ -54,6 +54,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: '1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Su Jogailos žinia,

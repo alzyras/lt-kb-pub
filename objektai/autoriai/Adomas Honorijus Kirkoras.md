@@ -31,12 +31,12 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
     - c-001
 
 - t-002
-  teiginys: 'Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­ tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­ tiečių kilęs švietėjas Mikalojus Akelaitis.'
+  teiginys: 'Adomas Honorijus Kirkoras 1857-1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“).'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-003
-  teiginys: '1859 m. išleistame vadove po Vilnių autorius Adomas Ho­ norijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas miestas jau turi savo istorikus.'
+  teiginys: '1859 m. išleistame vadove po Vilnių Adomas Honorijus Kirkoras pažymėjo, kad Vilnius jau turi savo istorikus.'
   pagrindžia:
     - c-002
 
@@ -58,8 +58,10 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-002
+  santrauka: '1859 m. išleistame vadove po Vilnių Adomas Honorijus Kirkoras pažymėjo, kad Vilnius jau turi savo istorikus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Balinskis rėmė lietuvių, baltarusių švietėjų pa­
@@ -73,23 +75,6 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
-    mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
-    meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
-    tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
-    institucija, sutelkusi krašto visuomenę. Adomas Honorijus Kir­
-    koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­
-    tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­
-    tiečių kilęs švietėjas Mikalojus Akelaitis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

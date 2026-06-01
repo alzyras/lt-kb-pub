@@ -99,5 +99,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/zodynas/netikėliai]]

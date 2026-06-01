@@ -48,11 +48,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad kitokios kilmės jo pateikiami duomenys apie vėlesnius magistrus.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,6 +64,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Verneris iš Orzelno didžiuoju magistru buvo išrinktas 1324 m. liepos 6 d.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitokios kilmės jo pateikiami
@@ -79,8 +75,6 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

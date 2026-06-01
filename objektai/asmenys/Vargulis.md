@@ -28,13 +28,14 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis p. 54), kelio iš Kaliningrado į Laduškiną pradžioje.'
+  teiginys: 'Vargulis, Noliubės giminaitis, broliams pritarus išėjo į priekį ir įspėjo Noliubę dėl nepaklusnumo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vargulis, Noliubės giminaitis, broliams pritarus išėjo į priekį ir įspėjo Noliubę dėl nepaklusnumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai dėl to supykę
@@ -58,3 +59,4 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata]]

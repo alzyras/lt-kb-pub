@@ -23,13 +23,14 @@ Dusburgietis teigia, kad ivinskis Z.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad ivinskis Z.'
+  teiginys: 'Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ivinskis Z. Senovės lietuvių religijos bibliografija.—K., 1938.

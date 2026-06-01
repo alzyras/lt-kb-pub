@@ -19,13 +19,14 @@ Dusburgietis teigia, kad po derybų Fridrichas II pripažino popiežiaus valdži
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad po derybų Fridrichas II pripažino popiežiaus valdžiai teisę spręsti dvasiškus reikalus, tačiau atmetė teisę kištis į pasaulietinių valdovų reikalus (Potkowski E.'
+  teiginys: 'E. Potkowski cituojamas aiškinant Fridricho II ir popiežiaus ginčą dėl dvasinės bei pasaulietinės valdžios ribų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'E. Potkowski cituojamas aiškinant Fridricho II ir popiežiaus ginčą dėl dvasinės bei pasaulietinės valdžios ribų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Popiežiaus mirtį imperatorius manifeste krikščioniškosios Europos valdovams

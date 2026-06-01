@@ -34,7 +34,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo tarpu 1707 m. pradžioje grįžo iš Saksonijos Karolis XII, ir rusai pradėjo trauktis.'
+  teiginys: '1707 m. pradžioje Karoliui XII grįžus iš Saksonijos, rusai pradėjo trauktis.'
   pagrindžia:
     - c-001
 
@@ -46,6 +46,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1707 m. pradžioje Karoliui XII grįžus iš Saksonijos, rusai pradėjo trauktis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu 1707 m. pradžioje
@@ -78,5 +79,4 @@ Nenurodyta
 - [[objektai/asmenys/Karolis XII]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/grupes/Švedai]]

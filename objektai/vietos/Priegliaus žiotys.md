@@ -17,18 +17,19 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
 ## Teiginiai
 
 - t-001
-  teiginys: 'jis priplaukė krantą Priegliaus žiotyse.'
+  teiginys: 'Kelionės į aisčių kraštą metu Vysla išplaukęs misionierius pasiekė Priegliaus žiotis.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kelionės į aisčių kraštą metu Vysla išplaukęs misionierius pasiekė Priegliaus žiotis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ten pagyvenęs kelerius metus benediktinų vienuolyne ir
@@ -41,22 +42,9 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ten pagyvenęs kelerius metus benediktinų vienuolyne ir
-    negalėdamas grįžti į savo vyskupiją, jis išsirengė misijų į Euro-
-    pos šiaurę. Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
-    gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,
-    jis priplaukė krantą Priegliaus žiotyse.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

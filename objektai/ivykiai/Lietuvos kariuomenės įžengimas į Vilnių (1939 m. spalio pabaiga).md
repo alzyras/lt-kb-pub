@@ -41,12 +41,12 @@ Nenurodyta
 - t-001
   teiginys: 'Tik Vilniaus, Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).'
@@ -56,23 +56,6 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Berlynas ir Mas-
-    kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
-    1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš
-    Vokietijos už 7,5 mln. aukso dolerių).
-    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
-    va prarado neutralios politikos statusą ir dalį suvereniteto. Tik Vilniaus,
-    Lietuvos kariuomenė įžengia į Vilnių
-    (1939 m. spalio pabaiga)
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Berlynas ir Mas-
@@ -94,22 +77,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Berlynas ir Mas-
-    kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
-    1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš
-    Vokietijos už 7,5 mln. aukso dolerių).
-    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
-    va prarado neutralios politikos statusą ir dalį suvereniteto. Tik Vilniaus,
-    Lietuvos kariuomenė įžengia į Vilnių
-    (1939 m. spalio pabaiga)
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
+    - t-003
     - t-001
 
 ## Ryšiai

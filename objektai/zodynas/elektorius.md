@@ -84,3 +84,5 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
 - [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
 - [[objektai/asmenys/Vaclovas Čekietis]]
 - [[objektai/asmenys/Augustas III]]
+- [[objektai/asmenys/Inocentas IX]]
+- [[objektai/asmenys/Klemensas VIII]]

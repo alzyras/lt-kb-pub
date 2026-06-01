@@ -28,18 +28,19 @@ Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Viln
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­ tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo paklusti Lietuvos valdovui, ir Vytautas didžiosios.'
+  teiginys: 'Po sultono Saladino mirties Kerimberdėjus atsisakė paklusti Vytautui, todėl Vytautas chanu paskelbė Betsabutą.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su sa­ vo varžovu Kerimberdėjumi, kuris, savo ruožtu, irgi buvo užmuštas brolio Geremferdeno, tad reikėjo inauguruoti Vil­ niuje naują chaną.'
+  teiginys: 'Kerimberdėjus mūšyje nukovė iš Vilniaus išvykusį naująjį chaną, bet vėliau pats buvo nužudytas brolio Geremferdeno.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po sultono Saladino mirties Kerimberdėjus atsisakė paklusti Vytautui, todėl Vytautas chanu paskelbė Betsabutą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Vilniaus vyskupas Petras tam
@@ -69,6 +70,7 @@ Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Viln
     - t-001
 
 - c-002
+  santrauka: 'Kerimberdėjus mūšyje nukovė iš Vilniaus išvykusį naująjį chaną, bet vėliau pats buvo nužudytas brolio Geremferdeno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     150

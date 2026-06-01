@@ -42,7 +42,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Prieš puolimą prieš Lietuvą Ordinas stiprino ryšius su lenkų kunigaikščiais.'
+  teiginys: '1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.'
   pagrindžia:
     - c-001
 

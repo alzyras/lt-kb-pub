@@ -34,18 +34,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip antai, Federacijos įkurta (1899 m.) „Motinėlė", kuri, jos remiama, šelpia lietuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos ir Europos universitetuose.'
+  teiginys: '1899 m. Federacijos įkurta „Motinėlė“ šelpė lietuvius moksleivius ir skyrė stipendijas studentams Amerikos bei Europos universitetuose.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: '1912 m. F-ja sušaukė Čikagoje pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietuvių R.'
+  teiginys: '1912 m. Federacija Čikagoje sušaukė pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos lietuvių R. katalikų moksleivių susivienijimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1912 m. Federacija Čikagoje sušaukė pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos lietuvių R. katalikų moksleivių susivienijimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip antai, Federacijos
@@ -63,6 +64,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1899 m. Federacijos įkurta „Motinėlė“ šelpė lietuvius moksleivius ir skyrė stipendijas studentams Amerikos bei Europos universitetuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis yra įkūręs Amerikos Lietuvių Ka-

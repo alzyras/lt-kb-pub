@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tad 1505 metais, kai tie barbarai buvo mažumėlę aprimę, karalius savo sprendimu atleido Vilniaus gyvento­ jus nuo karo tarnybos vieneriems metams, su sąlyga, kad apsaugojimui nuo priešų, ypač pagonių, antpuolių, apjuostų miestą mūro siena, kiekvienas pagal.'
+  teiginys: '1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.'
   pagrindžia:
     - c-002
 
@@ -57,13 +57,14 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.'
+  teiginys: '1506 metais Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu vietoj medinių statinių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1506 metais Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu vietoj medinių statinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šis karaliaus nurodymas gal taip greitai ne­
@@ -88,6 +89,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę

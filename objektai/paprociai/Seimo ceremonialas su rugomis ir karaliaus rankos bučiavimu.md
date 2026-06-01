@@ -39,7 +39,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu: pagaliau sei- mas būdavo baigiamas atsisveikinimu su kara- lium, — ir vėl visi bu- čiuodavo jam ranką.'
+  teiginys: 'Seimas būdavo baigiamas atsisveikinimu su karaliumi, per kurį visi vėl bučiuodavo jam ranką.'
   pagrindžia:
     - c-001
 
@@ -49,13 +49,14 @@ Nenurodyta
     - c-003
 
 - t-003
-  teiginys: 'Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu: pradžioje visi eidavo pabučiuoti soste sėdinčiajam karaliui rankos, o po to kancleris arba vicekancleris pareikšdavo kara- liaus pasiūlymus, t. y. pakartodavo ir papildydavo seimeliams praneštus svarstyti klausimus.'
+  teiginys: 'Seimo pradžioje visi bučiuodavo soste sėdinčiam karaliui ranką, o kancleris arba vicekancleris paskelbdavo karaliaus pasiūlymus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Seimas būdavo baigiamas atsisveikinimu su karaliumi, per kurį visi vėl bučiuodavo jam ranką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jei būdavo reikalo, abeji
@@ -79,6 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Seimo pradžioje visi bučiuodavo soste sėdinčiam karaliui ranką, o kancleris arba vicekancleris paskelbdavo karaliaus pasiūlymus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po to senatas ir atstovai sueidavo į

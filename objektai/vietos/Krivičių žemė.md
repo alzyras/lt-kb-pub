@@ -29,13 +29,14 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
     - c-002
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su visa savo kariuomene į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų 569 D.'
+  teiginys: '1314 m. rugsėjį maršalas Henrikas su kariuomene patraukė į Krivičių žemę ir užėmė Naugarduką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1314 m. rugsėjį maršalas Henrikas su kariuomene patraukė į Krivičių žemę ir užėmė Naugarduką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     322 (315). Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą

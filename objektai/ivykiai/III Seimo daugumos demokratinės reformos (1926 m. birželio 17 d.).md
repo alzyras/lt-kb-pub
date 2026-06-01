@@ -57,34 +57,17 @@ Nenurodyta
 - t-003
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
-  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 155 III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
+  teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
-    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
-    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
-    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
-    rengti susirinkimus. Naujoji valdžia, taupydama lėšas, mažino atlygini-
-    mus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis kata-
-    likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
-    dvasininkams), ėmė mažinti karininkų skaičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
+  santrauka: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -102,22 +85,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
-    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
-    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
-    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
-    rengti susirinkimus. Naujoji valdžia, taupydama lėšas, mažino atlygini-
-    mus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis kata-
-    likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
-    dvasininkams), ėmė mažinti karininkų skaičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
+    - t-001
+    - t-002
     - t-003
 
 ## Ryšiai

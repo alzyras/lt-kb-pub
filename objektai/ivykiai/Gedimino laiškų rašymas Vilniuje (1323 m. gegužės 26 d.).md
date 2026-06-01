@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
+  teiginys: 'Gedimino laiškai dominikonams, pranciškonams ir Hanzos miestams buvo užfiksuoti 1323 m. notaro parengtame dokumente.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino laiškai dominikonams, pranciškonams ir Hanzos miestams buvo užfiksuoti 1323 m. notaro parengtame dokumente.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis, 1. 406, pri­
@@ -86,7 +87,8 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/autoriai/Kotzebue]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
-- [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]
-- [[objektai/grupes/Pranciškonų ordinas]]

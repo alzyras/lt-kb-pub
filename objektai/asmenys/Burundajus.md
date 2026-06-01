@@ -35,7 +35,7 @@ periodo_grupes:
 - t-002
   teiginys: '1258-1259 m. žiemą Lietuva atrėmė didžiulį Aukso ordos totorių, vadovaujamų Burundajaus, bei jiems jau pavaldžios Haličo-Voluinės Rusios antpuolį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -55,22 +55,6 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Padėtis buvo įtempta ir
-    Lietuvos pietryčiuose. 1258-1259 m. žiemą
-    Lietuva atrėmė didžiulį Aukso ordos toto-
-    rių, vadovaujamų Burundajaus, bei jiems
-    jau pavaldžios Haličo-Voluinės Rusios
-    antpuolį. Tuomet buvo nuniokota pietry-
-    tinė Lietuvos valstybės dalis prie Nemuno
-    aukštupio ir jotvingių kraštas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

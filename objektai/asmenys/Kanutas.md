@@ -17,13 +17,14 @@ Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijoje karaliui Kanutui (Cnud), kai dėl pragaištingo nederliaus visiems gyventojams trū­ ko grūdų, buvo įsakyta kas trečią žmogų išvaryti iš valsčiaus visiems laikams.'
+  teiginys: 'Apie 880 m. Danijoje viešpatavęs karalius Kanutas įsakė dėl nederliaus kas trečią žmogų išvaryti iš valsčiaus visiems laikams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 880 m. Danijoje viešpatavęs karalius Kanutas įsakė dėl nederliaus kas trečią žmogų išvaryti iš valsčiaus visiems laikams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man vis dėlto atrodo,

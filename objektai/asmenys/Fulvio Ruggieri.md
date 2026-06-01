@@ -31,12 +31,12 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 - t-001
   teiginys: 'Fulvio Ruggieri 1572 m. aprašė Lenkijos ir Lietuvos kariuomenių struktūrą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Fulvio Ruggieri 1572 m. aprašė kazokų ginkluotę ir kariavimo būdą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -60,28 +60,9 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
-    didesnė dalis Livonijos tapo Lietuvos dalimi
-
-    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
-    Lietuvos kariuomenių struktūrą:
-
-    „Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-
-    tui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai
-    vadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;
-
-    Gardino vaizdas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jungtinėje

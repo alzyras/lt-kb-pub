@@ -28,13 +28,14 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 ## Teiginiai
 
 - t-001
-  teiginys: 'Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­ nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas 34 Privilegija, duota Paleckiui steigti šią liejyklą, yra rašyta.'
+  teiginys: 'Martynas Ostrovskis buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių ir papuošusių miestą savo kūriniais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Martynas Ostrovskis buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių ir papuošusių miestą savo kūriniais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trys į

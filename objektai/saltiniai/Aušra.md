@@ -36,7 +36,7 @@ amziai:
 - t-002
   teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -56,25 +56,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    « Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai. »
-    Šitaip išvertęs žinomą lotynišką humanistų posakį (Homines histo-
-    riarum ignari semper sunt pueri) pradėjo mūsų žymusis tautinio
-    atgimimo vyras J. Basanavičius 1883 metais savo žinomą istorinę
-    prakalbą pirmajame « Aušros » numeryje.
-    Tokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis
-    ir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau­
-    kantas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Nors po trejų metų „Aušra“ dėl vidinių idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, lietuvių kaip savarankiškos tautos ugdymo darbo tęsėjų gretas išplėtė, jie ėmė rengti ir leisti naujus periodinius leidinius lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

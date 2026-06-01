@@ -24,7 +24,7 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ivanas Fiodorovas vadinamas pirmuoju Maskvos spaustuvininku.'
+  teiginys: 'Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve priglobė Chodkevičiai.'
   pagrindžia:
     - c-001
 
@@ -36,12 +36,12 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
 - t-003
   teiginys: '1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
   teiginys: 'Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -60,35 +60,7 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
   pagrindžia:
     - t-001
     - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
-    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
-    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
-    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
-    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
-    jos pobūdį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
-    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
-    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
-    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
-    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
-    jos pobūdį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -96,4 +68,3 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
 - [[objektai/zodynas/reformacija]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]
-- [[objektai/daiktai/Spaustuvės]]

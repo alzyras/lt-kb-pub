@@ -19,18 +19,19 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šven­ tasis ekumeninis Tridento Sinodas nusprendė, kad norint išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­ vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai gyvuojančią.'
+  teiginys: 'Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti amžiną seminariją.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Pripažįstame šios Dievo apvaizdai padedant mūsų funduotos ir apdovanotos kolegijos administravimą, valdymą ir vadovavimą taip, kaip šventojo Tridento pasi­ tarimo dekrete ir nutarime mums yra pavesta, ir paminėtą administravimo būdą kuo tiksliausiai siekiame.'
+  teiginys: 'Funduotos kolegijos administravimas, valdymas ir vadovavimas turėjo būti vykdomi pagal Tridento susirinkimo dekretą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Funduotos kolegijos administravimas, valdymas ir vadovavimas turėjo būti vykdomi pagal Tridento susirinkimo dekretą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     išrūpintų beneficijų būtų paskirta teisėta dova­
@@ -62,6 +63,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti amžiną seminariją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Quod quidem praedium cum kominikus, villis,

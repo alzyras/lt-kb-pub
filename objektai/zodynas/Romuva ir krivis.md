@@ -18,7 +18,7 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šio leidimo komentare pabrėžiama, kad Nadruvos Romovės vieta laikoma nebeatsekama.'
+  teiginys: 'Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta nebeatsekama.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta nebeatsekama.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1—9). Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos

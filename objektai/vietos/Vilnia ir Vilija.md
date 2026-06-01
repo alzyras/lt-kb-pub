@@ -20,13 +20,14 @@ Fluminibus quoque circa illud flu­ entibus, Villia et Vilna, ex ejusdem du­ ci
 ## Teiginiai
 
 - t-001
-  teiginys: 'Fluminibus quoque circa illud flu­ entibus, Villia et Vilna, ex ejusdem du­ cis nomine, indidere nomina [Kur gar­ sus miestas Vilnius, kuris ir šiandien genties sostinė yra, nuo kunigaikščio Viliaus vardo, su kuriuo [jie] ir Italiją paliko, ir į kitus kraštus.'
+  teiginys: 'Pasakojime Vilnios ir Vilijos vardai kildinami iš kunigaikščio Viliaus vardo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pasakojime Vilnios ir Vilijos vardai kildinami iš kunigaikščio Viliaus vardo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ibi primum oppidum Vilna, quod et in

@@ -3,7 +3,6 @@ tipas: saltinis
 pavadinimas: 'Vasario 16 Aktas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1918 m.'
   - '2026 m.'
@@ -38,42 +37,37 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
 - t-001
   teiginys: '1918 m. vasario 16 d. Taryba Vilniuje priėmė rezoliuciją, paskelbusią nepriklausomos Lietuvos valstybės atkūrimą.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-002
   teiginys: 'Vasario 16 Aktas tapo Lietuvos Nepriklausomybės diena, laisvės ir suverenumo simboliu.'
   pagrindžia:
-    - c-002
+    - c-004
 
 - t-003
   teiginys: 'Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui, tačiau nebesirėmė visuotinai pripažinta tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo teisės deklaravimas buvo pavojingas dėl Maskvos užmačių.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo nacijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, kur Taryba veda Lietuvą.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-005
   teiginys: 'Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.'
   pagrindžia:
-    - c-008
+    - c-001
 
 - t-006
-  teiginys: '42, 77, 123, 151, 186, 192, 202, 210, 224, 232 Varėna 98, 108, 356 Varmė (Varmija) 220 Varnėnai 177 Varniai 46, 171, 177, 226, 351 Varputis, dievaitis 143 Varšuva 39, 45, 47 ; Varšuvos archy­ vas 314 Vasario 16 aktas 34, 40 Vasibutas 335 Vasil’evskij V.'
-  pagrindžia:
-    - c-006
-
-- t-007
   teiginys: '1918 m. kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaraciją Vokietijos kancleriui Georgui von Hertlingui.'
   pagrindžia:
-    - c-003
+    - c-002
 
-- t-008
+- t-007
   teiginys: 'Kovo 11 Aktas savo dvasia buvo artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -97,25 +91,9 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   statusas: verified
   pagrindžia:
     - t-001
+    - t-005
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    pabrėžė Lietuvos valstybingumo be Lenkijos savitumą, be to, atkurti buvo
-    galima ne tik LDK laikų, bet ir Mindaugo Lietuvos karalystės laikų valsty-
-    bę – tai priklausė nuo tarptautinių sąlygų. Nauja Lietuvos valstybė turėjo
-    būti demokratinė, parlamentinė.
-    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
-    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
-    davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
-    kur Taryba veda Lietuvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nauja Lietuvos valstybė turėjo
@@ -133,9 +111,9 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     44 min. absoliučia
@@ -165,8 +143,9 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   statusas: verified
   pagrindžia:
     - t-003
+    - t-007
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Akte pavartotas pasakymas, kad Lietuva „atkuria“ nepriklausomy-
@@ -187,113 +166,4 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Valikonytė I. 78-79
-    Valimantaičiai 368
-    Valimantaitis Kęsgailą 354
-    Valkaviskas (Vilkaviškis) 88, 125,
-    164, 215, 286
-    Valuinė 28, žr. Volinija
-    Varakauskas R. 42, 77, 123, 151,
-    186, 192, 202, 210, 224, 232
-    Varėna 98, 108, 356
-    Varmė (Varmija) 220
-    Varnėnai 177
-    Varniai 46, 171, 177, 226, 351
-    Varputis, dievaitis 143
-    Varšuva 39, 45, 47 ; Varšuvos archy­
-    vas 314
-    Vasario 16 aktas 34, 40
-    Vasibutas 335
-    Vasil’evskij V. 232
-    Vasilkas Romanaitis, Volinijos kng.
-    138, 163, 165, 194, 200
-    Vasmer M. 116, 122, 124, 128, 159
-    Vatikano archyvas 51, 75, 207
-    Vavelio pilis 284
-    Vazų dinastija 5, 34, 35, 39, 48, 64
-    Veblaitis P. 257
-    Vėbra R. 81
-    Vechra, upė 287, 312
-    Vedrošos kautynės 39
-    Veiviržo upė 180
-    Vėjukų pilis 227, 235
-    Velikaja, upė 158
-    Veliuona 77, 100, 105, 216, 236, 237,
-    244, 251, 256, 345-347, 352, 353,
-    357, 358, 360
-    Vėluva, Prūsuose 250, 252
-    Vencelis, Čekijos karalius 62, 373,
-    žr. Vaclovas, Čekijos kar.
-    Venclova A. 92
-    Vengrija 6, 83, 102, 103, 249, 259,
-    260, 267, 269, 275, 282-284, 287,
-    293, 312, 336
-    Venta 115, 127, 180, 187
-    Veredava 207
-    Verona 167
-    Versalio taika 30, 41
-    Veršvai 76, 106, 147
-    Vestfalija 202
-    Viazma 313, 320, 321
-    Vidas ar Vilkas, Traidenio tėvas
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    44 min. absoliučia
-    balsų dauguma (124 deputatams
-    balsavus už, nė vienam nebalsavus
-    prieš ir šešiems susilaikius) priim-
-    tas Lietuvos nepriklausomybės at-
-    kūrimo Aktas, kuriame paskelbta,
-    „kad yra atstatomas 1940 metais
-    svetimos jėgos panaikintas Lietu-
-    vos Valstybės suverenių galių vyk-
-    dymas, ir nuo šiol Lietuva vėl yra
-    nepriklausoma valstybė“.
-    Kovo 11 Aktas savo dvasia arti-
-    mas Lietuvos Tarybos 1918 m. pa-
-    skelbtam Vasario 16 Aktui, tačiau
-    nebesirėmė visuotinai pripažinta
-    tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo tei-
-    sės deklaravimas buvo pavojingas dėl Maskvos užmačių pritaikyti Lie-
-    tuvai išstojimo iš SSRS mechanizmus, visaliaudinius „apsisprendimo“
-    referendumus, primesti dalį SSRS valstybės skolų bei tarptautinių įsipa-
-    reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
-    savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
-    teritoriją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1918 m. sausio pabaigoje, protestuodami prieš su-
-    sitaikėlišką Tarybos politiką, radikalesni S. Kairys, Stanislovas Narutavi-
-    čius, Jonas Vileišis ir M. Biržiška iš jos pasitraukė. Vokietijai nepripažinus
-    Lietuvos net gruodžio 11-osios rezoliucijos pagrindu, nusivylę Tarybos
-    lyderiai pradėjo tartis su kairiaisiais dėl kompromiso. Parengus abiem pu-
-    sėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-
-    ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
-    paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
-    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
-    valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
-    tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
-    Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
+    - t-002

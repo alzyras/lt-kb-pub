@@ -25,7 +25,7 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 - t-002
   teiginys: 'Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp Lietuvos ir likusios SSRS dalies dar buvo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Sovietų valdžia daugiau kaip 30 ha turėjusius ūkininkus laikė buožėmis ir „liaudies priešais“.'
@@ -64,20 +64,6 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių
-    iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp
-    Lietuvos ir likusios SSRS dalies dar buvo.
-    Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūki-
-    ninkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies
-    priešais“. Juos stengtasi sunaikinti tris kartus padidinant mokesčius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

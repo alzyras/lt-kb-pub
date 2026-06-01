@@ -42,7 +42,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Baigos brolių vienuolišką gyvenimą Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų regulų laikėsi Baigos bei kitų minėtųjų pilių.'
   pagrindžia:
     - c-001
-    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė, kuo vardu jų pilis.'
@@ -52,7 +51,7 @@ Nenurodyta
 - t-003
   teiginys: 'Dusburgietis teigia, kad niekad arba beveik niekad netruko čia maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -73,42 +72,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+    - t-004
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai kurie vienuoliai,
-    atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
-    kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
-    „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
-
-
-
-
-                    23.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių
-    paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų
-    regulų laikėsi Baigos bei kitų minėtųjų pilių broliai. Niekad arba beveik niekad netruko čia
-    maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar
-    rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno. Kai kurie vienuoliai,
-    atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
-    kuo vardu jų pilis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Niekad arba beveik niekad netruko čia
@@ -122,23 +88,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-005
-  santrauka: 'Dusburgietis teigia, kad apie Baigos brolių vienuolišką gyvenimą Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų regulų laikėsi Baigos bei kitų minėtųjų pilių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    22. Apie Baigos brolių vienuolišką gyvenimą
-
-      Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių
-    paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų
-    regulų laikėsi Baigos bei kitų minėtųjų pilių broliai. Niekad arba beveik niekad netruko čia
-    maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar
-    rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -40,12 +40,12 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
 - t-003
   teiginys: 'Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750).'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
-  teiginys: 'Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poe­ma „Metai“ (su vertimu į vokiečių kalbą).'
+  teiginys: 'Kristijono Donelaičio poema „Metai“ 1818 m. Karaliaučiuje išleista Liudviko Rėzos su vertimu į vokiečių kalbą.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -65,6 +65,7 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -82,21 +83,7 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
     - t-002
 
 - c-003
-  santrauka: 'Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Paradoksas – svetima valstybė, o lietuviškos raštijos kur
-    kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
-    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
-    laičio poema „Metai“ (apie 1750). Nors XVIII a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poe­ma „Metai“ (su vertimu į vokiečių kalbą).'
+  santrauka: 'Kristijono Donelaičio poema „Metai“ 1818 m. Karaliaučiuje išleista Liudviko Rėzos su vertimu į vokiečių kalbą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įspūdį padarė 1818 m. Karaliaučiuje žymaus
@@ -113,5 +100,4 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Vokiečiai]]

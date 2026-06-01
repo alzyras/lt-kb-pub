@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių. Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos. 25-80 lancų su­ darydavo būrį, kuris buvo vadinamas vėliava.
+Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių. Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos. Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
     - c-005
 
 - t-003
-  teiginys: '25-80 lancų su­ darydavo būrį, kuris buvo vadinamas vėliava.'
+  teiginys: 'Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava.'
   pagrindžia:
     - c-001
 
@@ -46,26 +46,27 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
 - t-005
   teiginys: 'Vėliavai vadovaudavo kapitonas.'
   pagrindžia:
-    - c-007
+    - c-004
 
 - t-006
   teiginys: 'Kiekvienas riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
   pagrindžia:
-    - c-006
+    - c-002
 
 - t-007
   teiginys: 'Vėliava buvo 25-80 lancų būrys, kuriame būdavo apie 300-400 raitųjų.'
   pagrindžia:
-    - c-008
+    - c-001
 
 - t-008
-  teiginys: 'Kiekvienas rite­ ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
+  teiginys: 'Riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Riteris su savo palydovais sudarydavo tam tikrą
@@ -78,8 +79,10 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
   statusas: verified
   pagrindžia:
     - t-003
+    - t-007
 
 - c-002
+  santrauka: 'Riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kiekvienas rite­
@@ -94,6 +97,7 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
   statusas: verified
   pagrindžia:
     - t-008
+    - t-006
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -120,6 +124,7 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
   statusas: verified
   pagrindžia:
     - t-004
+    - t-005
 
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -135,50 +140,6 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kiekvienas rite­
-    ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs
-    bėgti. Jei vėliava patekdavo į priešo rankas, tai riteriui valia
-    būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
-    dėjus prie kitos vėliavos.
-    Dabar pažiūrėkime, kaip atrodo abiejų pusių kariuomenės,
-    besiruošiančios į Žalgirio mūšį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vėliavai vadovaudavo
-    kapitonas. Dragūnų vėliavą sudarė 100-150 žmonių.
-
-    Prie svetimšalių autoramento priskirtini ir raitarai, LDK kariuo-
-    menėje buvę dar xvi a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Riteris su savo palydovais sudarydavo tam tikrą
-    vienetą, kuris vadinosi „lance“, arba „kopijo“. 25-80 lancų su­
-    darydavo būrį, kuris buvo vadinamas vėliava. Tokiu būdu vė­
-    liavoje būdavo apie 300-400 raitųjų. Tie būriai savo ženklu,
-    apie kurį spiesdavosi, turėjo vėliavą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -232,4 +193,3 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
 - [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/daiktai/Šv. Jurgio vėliava]]
 - [[objektai/posakiai/„suverenitetų parado“]]
-- [[objektai/zodynas/Žemlionis|žemlionis]]

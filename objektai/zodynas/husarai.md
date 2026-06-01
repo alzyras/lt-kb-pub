@@ -22,7 +22,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 - t-001
   teiginys: 'Husarai buvo ilgomis ietimis ginkluoti raitininkai, kurių ataka laikyta efektyvesniu kovos būdu už vakarietišką kavalerijos ataką pistoletais.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais to meto husarams burės formos skydais (šalia jų parašyta Litauen).'
@@ -32,7 +32,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 - t-003
   teiginys: 'Husarai buvo XVI a. Lietuvoje atsiradusi vengriško tipo lengvoji kavalerija.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Ilgomis ietimis ginkluoti raitininkai - husarai (ietimis ginkluota sunkioji kavalerija Vakarų Europoje buvo visiškai išnykusi iki xvii a.).'
@@ -42,7 +42,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 - t-005
   teiginys: 'Vengrijoje ir vėliau Europoje husarais vadinta lengvoji kavalerija, dėvėjusi vengriško stiliaus drabužius.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -78,24 +78,9 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvoje ir Lenkijoje nebuvo atsisakyta sunkiųjų raitelių, kurių
-    pagrindiniu kovos metodu išliko kontaktinė (šoko) ataka šaltai-
-    siais ginklais. Ilgomis ietimis ginkluoti raitininkai - husarai (ieti-
-    mis ginkluota sunkioji kavalerija Vakarų Europoje buvo visiškai
-    išnykusi iki xvii a.). Nepaisant to, kad husarai buvo brangesnė
-    kavalerija nei to meto pistoletais atakuojanti vakarietiška, husarų
-    ataka buvo efektyvesnis kovos būdas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Juos prieš-
@@ -140,7 +125,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   pagrindžia:
     - t-003
 
-- c-005
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvoje atsiradusi vengriško tipo lengvoji ka-

@@ -45,11 +45,6 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 87 1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.'
   pagrindžia:
     - c-001

@@ -17,7 +17,7 @@ Dusburgietis teigia, kad nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...; Endzelīns J. Senprūšu valoda; Būga K. Rinktiniai raštai, t. 1, 3; Mikalauskaitė E. Priešreformacinių...,.p. 102—106; Matusevičiūtė I. Kiek naujos medžiagos..., p. 10—18.'
+  teiginys: 'F. Bopo veikalas „Über die Sprache...“ įtrauktas į prūsų kalbos ir raštijos paminklų bibliografiją.'
   pagrindžia:
     - c-001
 
@@ -29,6 +29,7 @@ Dusburgietis teigia, kad nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'F. Bopo veikalas „Über die Sprache...“ įtrauktas į prūsų kalbos ir raštijos paminklų bibliografiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...;
@@ -71,8 +72,6 @@ Dusburgietis teigia, kad nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Endzelins J]]
-- [[objektai/autoriai/G. H. F. Neselmanas]]
 - [[objektai/autoriai/J. Endzelynas]]
 - [[objektai/autoriai/V. Mažiulis]]
 - [[objektai/zodynas/vakariniai baltai]]

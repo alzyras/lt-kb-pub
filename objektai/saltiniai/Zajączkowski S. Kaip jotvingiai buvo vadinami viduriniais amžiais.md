@@ -23,13 +23,14 @@ Dusburgietis teigia, kad zajączkowski S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad zajączkowski S.'
+  teiginys: 'S. Zajączkowskio straipsnis „Kaip jotvingiai buvo vadinami viduriniais amžiais“ paskelbtas 1940 m. leidinio „Lietuvos praeitis“ 1 tomo 1 sąsiuvinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Zajączkowskio straipsnis „Kaip jotvingiai buvo vadinami viduriniais amžiais“ paskelbtas 1940 m. leidinio „Lietuvos praeitis“ 1 tomo 1 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Zajączkowski S. Kaip jotvingiai buvo vadinami viduriniais amžiais.—Lietuvos praeitis,

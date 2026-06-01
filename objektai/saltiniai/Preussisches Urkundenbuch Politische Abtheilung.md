@@ -35,13 +35,14 @@ Dusburgietis teigia, kad preussisches Urkundenbuch: Politische Abtheilung.—Bd.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1.'
+  teiginys: 'Pirmasis „Preussisches Urkundenbuch: Politische Abtheilung“ tomas apima 1140–1309 m. dokumentus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmasis „Preussisches Urkundenbuch: Politische Abtheilung“ tomas apima 1140–1309 m. dokumentus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1. Erste Hälfte (1140—1257)

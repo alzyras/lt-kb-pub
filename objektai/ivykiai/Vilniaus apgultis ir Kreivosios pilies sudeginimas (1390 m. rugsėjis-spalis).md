@@ -48,7 +48,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - t-001
   teiginys: 'Mikalojus Moskoževskis penkias savaites atrėmė apgulėjų antpuolius Aukštutinės pilies gynyboje.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: '1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos.'
@@ -58,12 +58,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - t-003
   teiginys: 'Apgultis buvo smūgis Lietuvos sostinei: didelė dalis gyventojų žuvo, pats miestas buvo beveik sunaikintas, Kreivoji pilis sudeginta, o Aukštutinė tvirtovė susilpninta.'
   pagrindžia:
-    - c-004
-
-- t-004
-  teiginys: 'Kryžiuočių ir Vytauto pajėgos apsupo Vilnių, sugriovė tiltus per Viliją ir atėmė apsuptiesiems galimybę gauti maisto.'
-  pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -89,26 +84,6 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    VILNIAUS MIESTO ISTORIJA J  TOMAS
-    dieną visos kryžiuočių ir Vytauto pajėgos susijungusios su­
-    stojo prie Vilniaus ir iš visų pusių aklinai apsupo miestą, o
-    daugybė laivų, iš Nemuno įplaukę į Viliją, gabeno didžiu­
-    les atsargas maisto ir karinę amuniciją. Kai palei miestą bu­
-    vo įsirengta keletas stovyklų, sąjungininkai sugriovė tiltus
-    per Viliją, taip atimdami visas galimybes pristatyti maistą
-    apsuptiesiems, o kitas dvi dienas buvo ruošiamasi puoli­
-    mui.
-    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
-    kurias buvo užsimota.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
     Il KNYGA
     Išdidūs, pasiekę kruviną pergalę, pasitikintys savo siekių
     sėkme ir riteriškojo karo meno išmanymu, kryžiuočiai jau
@@ -127,7 +102,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta nelaiminga ap­
@@ -151,12 +126,10 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Anglai]]
-- [[objektai/autoriai/Hlebovičius]]
 - [[objektai/autoriai/Ignacas Onacevičius]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

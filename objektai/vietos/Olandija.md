@@ -22,7 +22,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     - c-001
 
 - t-002
-  teiginys: 'LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradėjusiai kurti respublikinę santvarką antrojoje XVI a.'
+  teiginys: 'Olandija antrojoje XVI a. pusėje pradėjo kurti respublikinę santvarką.'
   pagrindžia:
     - c-002
 
@@ -48,6 +48,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     - t-001
 
 - c-002
+  santrauka: 'Olandija antrojoje XVI a. pusėje pradėjo kurti respublikinę santvarką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradė-

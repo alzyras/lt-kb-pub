@@ -19,13 +19,14 @@ Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis valstybėmis, buvo tinkamiausia dirva Lie­ tuvos įžymiausiam kunigaikščiui išaugti.'
+  teiginys: 'Trakų dvaras daug santykiavo su kaimyninėmis valstybėmis ir laikytas tinkama aplinka Vytautui išaugti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Trakų dvaras daug santykiavo su kaimyninėmis valstybėmis ir laikytas tinkama aplinka Vytautui išaugti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Atkakli jo tėvo kova dėl gimtojo krašto turėjo žadinti ir

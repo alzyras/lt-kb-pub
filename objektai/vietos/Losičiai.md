@@ -19,13 +19,14 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­ mėmis ir visais Smolnėnų ir Čirčinsko žmonėmis, panašiai ir dvarą, vadinamą Horodišče, ir Losičius su visomis Horodiščės ir Losičių žemėmis ir, žinoma, su visais.'
+  teiginys: 'Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV  KNYGA

@@ -20,7 +20,7 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Melniko aktas (1501 m.): lenkai šitokiu lietuvių siūlomu projektu pasipiktino. Jie rei- kalavo derybų pagrindui 1501 m. Melniko ir 1564 m. Varšuvos re- ceso aktų. Bet lietuviai sakė, kad 1501 m. aktų Lietuva neprisiekusi, o 1563—4 m. seime jos delegatai neturėję neribotų įgaliojimų.'
+  teiginys: 'Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos receso aktus.'
   pagrindžia:
     - c-002
 
@@ -30,18 +30,19 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     - c-003
 
 - t-003
-  teiginys: 'Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują aktą, normuojantį Lietuvos ir Lenkijos santykius; juo turėjo įvykti tikroji valstybių unija. Naują susitarimą patvirtino trys doku- mentai: tame pačiame Petrakavos seime lenkai ir lietuvių de- legatai susikeitė.'
+  teiginys: 'Melniko aktu Aleksandras atskiru dokumentu patvirtino Lietuvos ir Lenkijos santykius normavusį susitarimą.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: 'Melniko aktas (1501 m.): šiuo susita- rimu buvo norima įkurti viena jungtinė valstybė, kuri turė- tų bendrą seimą, bendrai vienoje vietoje rinktąjį valdovą, bendrą apsaugą ir bendrus pinigus.'
+  teiginys: 'Melniko aktu siekta įkurti jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Melniko aktu Aleksandras atskiru dokumentu patvirtino Lietuvos ir Lenkijos santykius normavusį susitarimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos delegatai karštai rėmė Aleksandro kandida-
@@ -58,6 +59,7 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     - t-003
 
 - c-002
+  santrauka: 'Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos receso aktus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkai šitokiu lietuvių siūlomu projektu pasipiktino. Jie rei-
@@ -87,6 +89,7 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     - t-002
 
 - c-004
+  santrauka: 'Melniko aktu siekta įkurti jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkų reikalaujami, jie sutiko pasirašyti naują aktą,

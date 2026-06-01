@@ -33,30 +33,11 @@ Nenurodyta
 - t-001
   teiginys: 'Senovės lietuviai patys kalė namų statybos ir dailidystės įrankius, nes manė, kad pamatytą daiktą žmogus turi gebėti pasidirbti.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Senovės lietuviai stengėsi patys pasigaminti viską, ko reikėjo, kad nereiktų svetimo meistro.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Visa gudryba senovės lietuvių, kalnėnų ir žemaičių, buvo ta, jog visa, ko vien reikiant, patys
-        sau steigė, idant svetimo nereikalautų, kaip motriškosios, taip ir vyriškieji; ir taip motriškosios
-        verpė, audė ir dažė savo drobes ir milus įvairiomis barvomis nė nuo ko nemokomos, pačių
-        dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro
-        nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien
@@ -72,7 +53,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
 - [[objektai/zodynas/Strūnijo|strūnijo]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Ūkio įrankiai]]

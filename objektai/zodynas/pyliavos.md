@@ -36,7 +36,7 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
     - c-001
 
 - t-004
-  teiginys: 'Užimant Grupė Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 211 miestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos sąrašai, pyliavų žiniaraščiai, išlaisvinami suimtieji, nušaunami.'
+  teiginys: 'Užimdami miestelius Lietuvos partizanai naikino vietos įgulas, valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
   pagrindžia:
     - c-003
 

@@ -28,13 +28,14 @@ Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mum
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mums kilusių sunkumų, taip pat norime, kad abiems jų didenybėms būtų atiduoti kraičiai, kaip yra tai padaryta vyresniosioms mū­ sų seserims - jos didenybei karalaitei Izabelei, Vengrijos — •.'
+  teiginys: 'Izabelė Jogailaitė buvo karalaitė ir Vengrijos karalienė, kuriai buvo atiduotas kraitis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Izabelė Jogailaitė buvo karalaitė ir Vengrijos karalienė, kuriai buvo atiduotas kraitis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prašome jų didenybių rnūsų

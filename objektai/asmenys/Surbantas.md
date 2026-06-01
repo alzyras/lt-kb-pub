@@ -26,22 +26,6 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai
-    galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta
-    ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai
-    palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po
-    kito patraukė pas brolius su visais savo namais ir šeimyna. Paprasti žmonės, išgirdę,
-    kad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė
-    krikščionių tikėjimui.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -59,6 +43,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

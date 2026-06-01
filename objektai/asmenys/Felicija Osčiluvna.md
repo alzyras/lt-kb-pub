@@ -18,13 +18,14 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai: Jonas Stančikavičius, Stanislovas Milinavičius, Stanislovas Piotrasavičius, Motiejus su broliu Kasparu JanušeVičiai, Aleksandras Baltramiejevičius, našlė Felicija Osčiluvna, Povilas.'
+  teiginys: 'Našlė Felicija Osčiluvna buvo tarp parapijoje gyvenusių bajorų, privalėjusių bažnyčiai mokėti dešimtinę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Našlė Felicija Osčiluvna buvo tarp parapijoje gyvenusių bajorų, privalėjusių bažnyčiai mokėti dešimtinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —

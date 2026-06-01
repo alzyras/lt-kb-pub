@@ -23,13 +23,14 @@ Dusburgietis teigia, kad kuzavinis К.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kuzavinis К.'
+  teiginys: 'K. Kuzavinio ir B. Savukyno „Lietuvių vardų etimologinis žodynas“ paskelbtas 1971 m. leidinyje „Vardai ir žodžiai“, p. 42–157.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. Kuzavinio ir B. Savukyno „Lietuvių vardų etimologinis žodynas“ paskelbtas 1971 m. leidinyje „Vardai ir žodžiai“, p. 42–157.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kuzavinis К. Savukynas B. Lietuvių vardų etimologinis žodynas.— Vardai ir žodžiai, V.,

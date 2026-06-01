@@ -34,7 +34,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
 - t-004
   teiginys: 'Lozoraitį, kurio linija pralaimėjo, nors Lietuvos valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.'
   pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -54,6 +54,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -86,23 +87,6 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
-    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
-    Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
-    valdžia stengėsi parodyti, kad iš esmės nieko neįvyko. Besąlyginis ulti-
-    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
-    jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
-    lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
-    ultraradikalieji voldemarininkai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tokiems miestiečiams galėjo būti suteikti bajorų herbai, bet tik sutikus nors vienai pastariesiems priklausančiai šei­ mai, o viešiesiems reikalams magistratas negalėjo naudoti kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su šventojo Kristoforo.'
+  teiginys: 'Gardino seimo privilegija leido Vilniaus magistrato pareigas ėjusiems miestiečiams priimti bajorų herbus tik gavus atitinkamos giminės sutikimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gardino seimo privilegija leido Vilniaus magistrato pareigas ėjusiems miestiečiams priimti bajorų herbus tik gavus atitinkamos giminės sutikimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas pats Gardino seimas Vilniaus miesto
@@ -105,5 +106,6 @@ Nenurodyta
 - [[objektai/grupes/Gardino seimas]]
 - [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
 - [[objektai/zodynas/luomas]]
+- [[objektai/daiktai/Herbai]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]

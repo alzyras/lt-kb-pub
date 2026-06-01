@@ -21,7 +21,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - t-001
   teiginys: 'Dusburgietis teigia, kad pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje.'
@@ -45,23 +45,9 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šventoji mergelė jam atsakė: „Neverta,
-    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
-    taip kentėti, kaip trokšti“. Pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir
-    randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar
-    neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“. Jai
-    tarus šiuos žodžius, regėjimas dingo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

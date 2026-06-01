@@ -68,6 +68,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   statusas: verified
   pagrindžia:
     - t-004
+    - t-006
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -133,19 +134,3 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-006
-  santrauka: 'Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    166 (161). Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
-                                būtent: Eimsutis ir dar viena
-
-      Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
-    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
-    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006

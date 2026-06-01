@@ -37,7 +37,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad “ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.'
+  teiginys: 'Gedėdami išlikę žmonės suplėšė savo drabužius, apsivilko ašutinėmis ir buvo apimti didelės baimės.'
   pagrindžia:
     - c-002
     - c-001
@@ -45,6 +45,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedėdami išlikę žmonės suplėšė savo drabužius, apsivilko ašutinėmis ir buvo apimti didelės baimės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
@@ -57,6 +58,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Gedėdami išlikę žmonės suplėšė savo drabužius, apsivilko ašutinėmis ir buvo apimti didelės baimės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tai kam gi mums
@@ -79,4 +81,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
-- [[objektai/posakiai/Deja mums Kam mes gimėme]]

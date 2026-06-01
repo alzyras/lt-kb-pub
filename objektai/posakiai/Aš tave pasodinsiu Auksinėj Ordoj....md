@@ -31,7 +31,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
     - c-003
 
 - t-002
-  teiginys: 'Vytautas priėmė Tochtamyšą, tikėdamasis jį panaudoti totorių galybei sulaužyti ir atsisėsti Maskvos soste.'
+  teiginys: 'Rusų metraščiai teigė, kad Vytautas žadėjo Tochtamyšą pasodinti Aukso Ordoje, o pats siekė Maskvos sosto.'
   pagrindžia:
     - c-001
     - c-003
@@ -39,6 +39,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusų metraščiai teigė, kad Vytautas žadėjo Tochtamyšą pasodinti Aukso Ordoje, o pats siekė Maskvos sosto.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     nuoširdžiai priėmė atbėgusį pas save Tochtamyšą, tikėdamas jį

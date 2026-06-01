@@ -27,35 +27,21 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 - t-001
   teiginys: 'Kolūkietis be kolūkio vadovybės leidimo negalėjo išsikelti, o menką atlygį už darbadienius papildydavo pajamomis iš 0,6 ha sodybinio sklypo.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Varu į kolūkius varomi valstiečiai menkai uždirbo, nesistengė sąžiningai dirbti ir, nepaisydami bausmių, pradėjo vogti iš kolūkių.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 proc., o metų pabaigoje – jau 62 proc.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be kolūkių vadovybės leidimo
-    kolūkietis negalėjo išsikelti į kitą gyvenamąją teritoriją. Kadangi žemę
-    nusavino valstybė, kolūkietis, gaudamas menką atlygį už darbadienius,
-    pragyveno iš 0,6 ha sodybinio žemės sklypo, gaudamas iš jo net apie
-    3/4 savo pajamų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     derlingumą, gyvulių skaičių ir jų produktyvumą LSSR pasiekė tik po
@@ -70,7 +56,7 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 proc., o metų pabaigoje – jau 62 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -86,6 +72,7 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

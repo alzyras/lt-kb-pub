@@ -46,14 +46,9 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Sukilėliai stengėsi įtraukti į sukilimą visą kariuomenę.'
-  pagrindžia:
-    - c-003
-
-- t-004
   teiginys: 'Kosciuška, norėdamas sukelti valstiečius, išleido atsišaukimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų).'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -95,23 +90,6 @@ Nenurodyta
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Sukilo taip pat ir Lietuva,
-    kur karinę vadovybę paėmė
-    pulkininkas Jasinskis.
-    Greit Vilnius, Krokuva ir Varšuva buvo išvaduoti iš rusų. Suki-
-    lėliai stengėsi įtraukti į sukilimą visą kariuomenę. Veikiai prie
-    sukilimo prisidėjo ir miestiečiai, kurie Varšuvoje pakorė keletą
-    rusams parsidavusių ponų. Vilniuje buvo nuteistas ir pakartas
-    rusų pastatytas Lietuvos hetmonas Simanas Kasakauskas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
     Veikiai prie
     sukilimo prisidėjo ir miestiečiai, kurie Varšuvoje pakorė keletą
     rusams parsidavusių ponų. Vilniuje buvo nuteistas ir pakartas
@@ -123,13 +101,12 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Tadas Kosciuška]]

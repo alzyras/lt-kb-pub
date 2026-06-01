@@ -32,18 +32,14 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
     - c-002
 
 - t-002
-  teiginys: ') Žy­ gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­ niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą jo tėviško rūpinimosi tauta.'
+  teiginys: '1536 metais Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.'
   pagrindžia:
     - c-001
-
-- t-003
-  teiginys: 'Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­ dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1536 metais Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS
@@ -81,21 +77,3 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O po kele­
-    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
-    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
-    malūnas. Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­
-    tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­
-    dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę
-    nutiesti tiltą iš akmenų arba plytų. Ant to tilto pastatyti pir­
-    kliams būdeles, arba stogines, ir iš jų jis pats ir jo palikuonys
-    gavo teisę visiems laikams imti mokestį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

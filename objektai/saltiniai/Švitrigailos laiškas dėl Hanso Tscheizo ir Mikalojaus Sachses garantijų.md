@@ -17,13 +17,14 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui ir jo svainiui Mikalojui Sachsei, taip pat savo dvariškiams, su reikalais vykstantiems į Sileziją.'
+  teiginys: 'Švitrigaila laiške prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir į Sileziją reikalais vykstantiems dvariškiams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švitrigaila laiške prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir į Sileziją reikalais vykstantiems dvariškiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Švit­

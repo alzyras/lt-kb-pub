@@ -22,12 +22,12 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - t-001
   teiginys: 'Lietuvoje susiformavusi jidiš kalbos tarmė litviš ilgainiui tapo norminės jidiš kalbos pagrindu.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
@@ -37,7 +37,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - t-004
   teiginys: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -57,21 +57,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    kita, kaip ATR ir LDK erdvė, vadinasi, „Rusijos žydai“ – tai LDK – Lietu-
-    vos, Baltarusijos, Ukrainos ir Lenkijos – žydai.
-    Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moder-
-    niosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina. O
-    kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
-    vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
     Ne veltui sklido gandai, kad visi Vilniaus išminčiai atminti-
     nai mokėjo visus 64 Talmudo tomus. Be to, Talmudas buvo studijuojamas
     jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,
@@ -82,7 +67,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   santrauka: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -101,6 +86,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   statusas: verified
   pagrindžia:
     - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

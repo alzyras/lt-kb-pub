@@ -35,23 +35,24 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.): 1858 m. pradėtas darbas greit išsiplėtė, ir daugumas tikinčiųjų pasižadėjo niekad nebegerti. Vyskupo prašomi, raginami, o kar- tais ir spiriami, dvarininkai ėmė uždarinėti smukles ir bravorus.'
+  teiginys: '1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.): xIX amž. vidury popiežiaus Pijo IX paraginti, viso pa- saulio dvasininkai ėmė skelbti blaivybę. Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Že- maičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vys- kupavimą, 1849 m..'
+  teiginys: 'Vyskupo Valančiaus valdoma Žemaičių vyskupystė tapo vieta, kur Lietuvoje blaivybės skelbimas turėjo didžiausią pasisekimą.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.): pasisekimas buvo toks didelis, jog kai kuriose parapijose blai- vybės brolijos nariais pasidarė net 97% visų gyventojų. Pajuto tą ir iždas, nes staiga sumažėjo degtinės pajamos. 1859 m. iždas buvo apskaičiavęs iš Kauno gubernijos gauti nuo degtinės 948.056.'
+  teiginys: 'Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pasisekimas buvo toks didelis, jog kai kuriose parapijose blai-
@@ -68,6 +69,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vyskupo raginama, kunigija tapo uoliausia
@@ -82,6 +84,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Vyskupo Valančiaus valdoma Žemaičių vyskupystė tapo vieta, kur Lietuvoje blaivybės skelbimas turėjo didžiausią pasisekimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-

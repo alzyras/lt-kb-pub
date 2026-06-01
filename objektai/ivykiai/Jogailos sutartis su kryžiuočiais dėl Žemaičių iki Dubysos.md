@@ -42,7 +42,7 @@ Nenurodyta
 - t-002
   teiginys: '1382 m. Jogaila sutartimi su kryžiuočiais atidavė jiems Žemaičius iki Dubysos ir pasižadėjo per ketverius metus krikštytis.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -61,21 +61,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    O
-    Jogaila 1382 m. buvo sudaręs su kryžiuočiais sutartį, kuria jis
-    atidavė kryžiuočiams Žemaičius iki Dubysos, pasižadėjo 4 metų
-    būvyje krikštytis, o be to, pasižadėjo be kryžiuočių pritarimo su
-    niekuo nekariauti ir nedaryti jokios taikos. Taigi Jogaila su-
-    tiko klausyti kryžiuočių nurodymų, t. y. prisipažino jų priklauso-
-    mas. Bet šitos sutarties jis vis dėlto neketino laikytis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

@@ -31,13 +31,14 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
     - c-002
 
 - t-002
-  teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo „lenkų pradų naikinimo“ politiką.'
+  teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, siejamą su nuostata „Čia nebus Lenkijos“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, siejamą su nuostata „Čia nebus Lenkijos“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A

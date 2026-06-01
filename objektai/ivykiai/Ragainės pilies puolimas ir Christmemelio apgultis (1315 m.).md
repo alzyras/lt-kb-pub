@@ -88,4 +88,3 @@ Ragainė ir Christmemelis išliko nepaimti.
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/ivykiai/Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)]]

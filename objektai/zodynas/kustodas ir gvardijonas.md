@@ -20,13 +20,14 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.'
+  teiginys: 'Mažesniųjų brolių Prūsijos kustodas ir Torunės, Kulmo, Braunsbergo bei Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mažesniųjų brolių Prūsijos kustodas ir Torunės, Kulmo, Braunsbergo bei Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
@@ -60,4 +61,5 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 - [[objektai/asmenys/Jordanas iš Pelplino]]
 - [[objektai/asmenys/Paulius iš Olivos]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/kustodas]]
 - [[objektai/grupes/Pranciškonų ordinas]]

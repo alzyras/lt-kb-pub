@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vilnius tuo metu tapo pagrindine vietove, kur vykdavo svarbios ir ilgos derybos bei pasirašomos sutartys su kryžiuočiais, buvo ir svarbiausias centras, iš kurio kara­ lius su Vytautu, atgavus Žemaičių žemę, karštai ėmėsi at­ vertimo į krikščionybę iki tol dar.'
+  teiginys: 'Vilnius buvo centras, iš kurio karalius ir Vytautas, atgavę Žemaičių žemę, ėmėsi jos gyventojų atvertimo į krikščionybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilnius buvo centras, iš kurio karalius ir Vytautas, atgavę Žemaičių žemę, ėmėsi jos gyventojų atvertimo į krikščionybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lenkijos pavyz­

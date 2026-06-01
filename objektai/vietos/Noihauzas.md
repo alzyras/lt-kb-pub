@@ -19,13 +19,14 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje, Kuršių nerijoje Brolis Konradas, magistras, išmintingas ir apdairus vyras, suprasdamas, kad, braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos.'
+  teiginys: 'Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     216 (211). Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,

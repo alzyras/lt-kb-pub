@@ -21,49 +21,21 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
 - t-001
   teiginys: 'Karybos raida leidinyje aptariama kartu su to meto politiniais, kariniais įvykiais ir ginkluotės raida.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Karybos raidos tendencijos leidinyje aptariamos kartu su ginkluotės raida ir regiono geopolitiniu kontekstu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius, karybos ir ginkluotės raidą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    niai blokai (įrėminti straipsniai). Juose rasite papildomos
-    informacijos apie to meto politinius, karinius įvykius, karybos
-    ir ginkluotės raidą.
-
-    Blokeliuose su skyriaus spalvos
-    juostele pateikiamos įvykių
-    liudininkų, amžininkų ar tų
-    laikų dokumentų citatos
-
-    Ryškesniu šriftu
-
-    išskirtos citatoje
-    aptariamų įvykių
-    aplinkybės
-
-    Ištrauka iš Hermano Vartbergės „Livonijos
-    kronikos“ apie Ordino brolių sumušimą prie
-
-    Karusės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Knygą stengtasi gausiai iliustruoti, kad skaity-
@@ -82,7 +54,7 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius, karybos ir ginkluotės raidą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -116,6 +88,7 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

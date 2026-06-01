@@ -23,13 +23,14 @@ Dusburgietis teigia, kad valančius M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad valančius M.'
+  teiginys: 'M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Valančius M. Raštai. T. 1.— V., 1972.

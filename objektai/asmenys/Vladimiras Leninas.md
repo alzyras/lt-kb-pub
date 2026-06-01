@@ -20,7 +20,7 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lenino, J.'
+  teiginys: 'Vladimiro Lenino statulos sovietmečiu buvo statomos Lietuvos miestuose ir miesteliuose valstybingumo paminklų vietose.'
   pagrindžia:
     - c-003
 
@@ -72,6 +72,7 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
     - t-002
 
 - c-003
+  santrauka: 'Vladimiro Lenino statulos sovietmečiu buvo statomos Lietuvos miestuose ir miesteliuose valstybingumo paminklų vietose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-

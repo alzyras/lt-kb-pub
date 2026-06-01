@@ -20,13 +20,14 @@ Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo nukeltos valstybės sienos, jo narsa sutramdyti priešai, kas lėmė Vilniui visišką ramybę.'
+  teiginys: 'Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudija jo rūpinimąsi prekyba Vilniuje ir visoje šalyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudija jo rūpinimąsi prekyba Vilniuje ir visoje šalyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­

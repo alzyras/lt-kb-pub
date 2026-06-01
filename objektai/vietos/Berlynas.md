@@ -29,22 +29,22 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - t-001
   teiginys: '1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž. pradžios, 1934).'
   pagrindžia:
-    - c-012
+    - c-004
 
 - t-002
-  teiginys: 'Kovo 23 dieną Berlyne A.'
+  teiginys: 'Kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė Lietuvos deklaraciją Vokietijos kancleriui Georgui von Hertlingui.'
   pagrindžia:
     - c-010
 
 - t-003
-  teiginys: 'Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­ taciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 (AvA), K.'
+  teiginys: '1932 m. Berlyne Konstantinas Avižonis parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.'
   pagrindžia:
-    - c-014
+    - c-008
 
 - t-004
   teiginys: 'Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.'
   pagrindžia:
-    - c-017
+    - c-014
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
@@ -54,10 +54,10 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - t-006
   teiginys: '„Systematisches Verzeichnis der Quellen und Hülfsmittel zur Geschichte Estlands, Livlands und Kurlands“ buvo išleistas Berlyne 1878 m.'
   pagrindžia:
-    - c-018
+    - c-015
 
 - t-007
-  teiginys: 'Naciams iš Berlyno neišleidus LAF vado K.'
+  teiginys: 'Naciams Berlyne sulaikius LAF vadą Kazį Škirpą, Laikinosios vyriausybės vadovu tapo Juozas Ambrazevičius.'
   pagrindžia:
     - c-003
 
@@ -69,7 +69,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - t-009
   teiginys: 'Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį Kaunui sakė Maskva ir Berlynas.'
   pagrindžia:
-    - c-013
+    - c-011
 
 - t-010
   teiginys: 'Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete.'
@@ -89,12 +89,12 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - t-013
   teiginys: 'Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje.'
   pagrindžia:
-    - c-011
+    - c-006
 
 - t-014
   teiginys: 'Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
   pagrindžia:
-    - c-015
+    - c-012
 
 - t-015
   teiginys: 'Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.'
@@ -114,7 +114,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - t-018
   teiginys: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
   pagrindžia:
-    - c-016
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -145,6 +145,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-005
 
 - c-003
+  santrauka: 'Naciams Berlyne sulaikius LAF vadą Kazį Škirpą, Laikinosios vyriausybės vadovu tapo Juozas Ambrazevičius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugumą
@@ -178,6 +179,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   statusas: verified
   pagrindžia:
     - t-012
+    - t-001
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -218,6 +220,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   statusas: verified
   pagrindžia:
     - t-010
+    - t-013
 
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -259,6 +262,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   statusas: verified
   pagrindžia:
     - t-016
+    - t-003
 
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -277,6 +281,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-015
 
 - c-010
+  santrauka: 'Kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė Lietuvos deklaraciją Vokietijos kancleriui Georgui von Hertlingui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
@@ -298,43 +303,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-002
 
 - c-011
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip ir kiti šitame skyriuje toliau minėsimi
-    istorikai, jis stengėsi tyrinėjamąjį Lietuvos praeities darbą tęsti
-    tremtyje^89.
-    Lietuvos istorijos dirvone gana pozityviu būdu pasirodė J.
-    Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis
-    visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento
-    teisėmis dėstė 1940-1943 [44] Vilniaus universitete.
-    Jakštas paskelbė originalią ir kritišką studiją apie vokiečių
-    ordiną ir Lietuvą Vytenio ir Gedimino laikais (JakG).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-012
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Z. I v i n s k i s, 1933 m. rudenį perėmęs po A. Aleknos mirties
-    vakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­
-    kulteto Filosofijos skyriuje, visą laiką dėstė Lietuvos istoriją, jos
-    šaltinius ir jos istorinę geografiją. Jis tęsė tą darbą po pirmojo
-    bolševikmečio pertraukos Filosofijos fakultete (Kaune) ir Ekono­
-    minių mokslų fakultete (Vilniuje) skaitė Lietuvos ūkio istoriją.
-    1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių
-    luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
-    ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
-    pradžios, 1934).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
@@ -348,26 +316,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   pagrindžia:
     - t-009
 
-- c-014
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Suprantama, dėmesingai buvo
-    keliamos ir tyrinėjamos lietuvių-lenkų diferencijos, kurių netrūko
-    ir po Liublino unijos. Po šitų bendrų pastabų reikia kuo trum­
-    piausiai paminėti anų istorikų įnašą Lietuvos istoriografijoje.
-    Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­
-    taciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą
-    iki 1385 (AvA), K. Avižonis atsidėjo poliublininiams laikams
-    ir davė kruopščiai parašytą ir išsamų veikalą « Bajorai valstybi­
-    niame Lietuvos gyvenime Vazų laikais » (1940)^87 ir keletą kritiškų
-    studijų istorijos žurnaluose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-015
+- c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
@@ -380,7 +329,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   pagrindžia:
     - t-014
 
-- c-016
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau lietuviams
@@ -395,7 +344,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   pagrindžia:
     - t-018
 
-- c-017
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA
@@ -413,7 +362,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   pagrindžia:
     - t-004
 
-- c-018
+- c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Petersburg 1904.

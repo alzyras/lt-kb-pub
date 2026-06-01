@@ -33,58 +33,59 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 ## Teiginiai
 
 - t-001
-  teiginys: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  teiginys: 'Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias.'
   pagrindžia:
     - c-003
 
 - t-002
   teiginys: 'Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-003
   teiginys: 'Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Vyriausias sūnus, Manv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algirdas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-005
   teiginys: 'Jaunutis pabėgo kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-006
-  teiginys: 'Bet užtat jis prijungė prie Lietuvos Mindaugo dar nepasiektą Pagirį -Turovo ir Pinsko kunigaikštystes.'
+  teiginys: 'Pinsko kunigaikštystė buvo prijungta prie Lietuvos kartu su Turovo kunigaikštyste.'
   pagrindžia:
     - c-001
 
 - t-007
-  teiginys: 'Vis dėlto Jaunutis išsigelbėjo pabėgda­ mas kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių chaną ieškojo prieglobsčio16 .'
+  teiginys: 'Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną.'
   pagrindžia:
     - c-002
 
 - t-008
   teiginys: 'Valdymo pabaigoje Pinskas buvo tarp vietų, kuriose dar liko atskiros kunigaikštystės.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-009
   teiginys: 'Pinske atsirado jėzuitų kolegija, funduota kanclerio Alberto Stanislovo Radvilos.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-010
   teiginys: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
   pagrindžia:
-    - c-009
+    - c-008
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pinsko kunigaikštystė buvo prijungta prie Lietuvos kartu su Turovo kunigaikštyste.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet užtat jis prijungė prie Lietuvos Mindaugo dar
@@ -97,6 +98,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - t-006
 
 - c-002
+  santrauka: 'Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kęstutis iš Trakų, savo
@@ -114,8 +116,10 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   statusas: verified
   pagrindžia:
     - t-007
+    - t-005
 
 - c-003
+  santrauka: 'Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pane­
@@ -135,25 +139,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - t-001
 
 - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kęstutis iš Trakų, savo
-    valdos sostinės, turėjęs geriausių galimybių stebėti visus
-    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
-    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
-    nigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­
-    mas kartu su jam palankiu broliu Narimantu, Pinsko
-    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
-    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
-    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
-    dymą, kaip ir patį miestą, perleido į Algirdo rankas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet per-
@@ -168,7 +153,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
@@ -183,7 +168,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - t-008
 
-- c-007
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mirdamas jis paliko 7 sūnus.
@@ -198,7 +183,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - t-004
 
-- c-008
+- c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo
@@ -220,7 +205,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - t-009
 
-- c-009
+- c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Galiausiai apie liepos 20-22 d. jie sustojo.
@@ -246,7 +231,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - t-010
 
-- c-010
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Istorijoje

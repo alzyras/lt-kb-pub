@@ -42,58 +42,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
   pagrindžia:
     - c-001
-    - c-004
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie pagudėnų pavergimą bei didžiausias jų skerdynes ir apie krikščionims sugrąžintą taiką upeliai Ragava ir Veisika (GAO, p.'
-  pagrindžia:
-    - c-003
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
-    subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
-    plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami  į nelaisvę.
-    Be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones
-    išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
-    taika.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    171 (166). Apie pagudėnų pavergimą bei didžiausias jų skerdynes ir apie krikščionims
-                                      sugrąžintą taiką
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    171 (166). Apie pagudėnų pavergimą bei didžiausias jų skerdynes ir apie krikščionims
-                                      sugrąžintą taiką
-
-
-    upeliai Ragava ir Veisika (GAO, p. 198; dab. Wąska), rytiniai Drūzo ežero intakai.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
@@ -112,10 +64,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Pagudėnų pavergimas bei didžiosios skerdynės ir krikščionims sugrąžinta taika]]

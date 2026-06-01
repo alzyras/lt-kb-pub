@@ -24,13 +24,14 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsisąmo­ nino savo politinėje programoje, jog reikia iš Lietuvos jėga atimti^11 (^11) Taip rašė savo laiške Vosyliui III (1505-1533) Eleazaro vienuolyno (prie Pskovo) vienuolis Filotiejus.'
+  teiginys: 'Jonas III buvo vadinamas rusų žemių rinkėju, „sobiratel’ russkich žemeli“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas III buvo vadinamas rusų žemių rinkėju, „sobiratel’ russkich žemeli“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­

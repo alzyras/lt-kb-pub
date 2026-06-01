@@ -31,23 +31,24 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
     - c-003
 
 - t-002
-  teiginys: 'Gausūs Krymo ordos ka­ rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga Lietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje užkirto šiems azijiečiams kelią į artimiausias šios valsty­ bės vaivadijų sostines47.'
+  teiginys: '1506 m. rugpjūtį Lietuvos pajėgos ties Klecku pasiekė pergalę prieš gausius Krymo ordos karių būrius.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Tačiau neilga buvo karaliaus vieš­ nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui piešdami ir degindami, prie Lydos prisiartino Krymo cha­ no sūnūs su 20 000 totorių.'
+  teiginys: 'Krymo chano sūnūs su 20 000 totorių, pakeliui plėšdami ir degindami, priartėjo prie Lydos.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: 'Aplink miestą su savo palyda palapinėse klajojo Šach Achmedas, o Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­ kuriavo karaliaus45.'
+  teiginys: 'Krymo ir Nogajaus ordų pasiuntiniai už Vilniaus sienų laukė karaliaus, kai šis atvyko į Vilnių tvarkyti totorių reikalų.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krymo chano sūnūs su 20 000 totorių, pakeliui plėšdami ir degindami, priartėjo prie Lydos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miechovita, Bielskis, o ypač
@@ -79,6 +80,7 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
     - t-003
 
 - c-002
+  santrauka: '1506 m. rugpjūtį Lietuvos pajėgos ties Klecku pasiekė pergalę prieš gausius Krymo ordos karių būrius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad paskubomis susirinko 10 000 bajorų,
@@ -111,6 +113,7 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
     - t-001
 
 - c-004
+  santrauka: 'Krymo ir Nogajaus ordų pasiuntiniai už Vilniaus sienų laukė karaliaus, kai šis atvyko į Vilnių tvarkyti totorių reikalų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atrodo, kad tais metais bu­
@@ -147,6 +150,7 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Ivanas Vasiljevičius]]
 - [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/grupes/Nogajaus orda]]

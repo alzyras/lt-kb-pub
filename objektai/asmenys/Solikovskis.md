@@ -25,13 +25,14 @@ Solikovskis, padėjęs ją pastatyti, niekada nebu­ vo Vilniaus, bet Lvovo arki
 ## Teiginiai
 
 - t-001
-  teiginys: 'Solikovskis, padėjęs ją pastatyti, niekada nebu­ vo Vilniaus, bet Lvovo arkivysku­ pas, o svarbiausia, kad nei jis, nei jo kolega kardinolas Radvila 1501 m. dar nebuvo gimę.'
+  teiginys: 'Solikovskis buvo Lvovo, o ne Vilniaus arkivyskupas, ir 1501 metais dar nebuvo gimęs.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Solikovskis buvo Lvovo, o ne Vilniaus arkivyskupas, ir 1501 metais dar nebuvo gimęs.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miestiečių luomas,

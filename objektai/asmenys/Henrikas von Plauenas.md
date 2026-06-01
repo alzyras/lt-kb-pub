@@ -29,9 +29,9 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
 ## Teiginiai
 
 - t-001
-  teiginys: 'Henrikas von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­ dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­ rų Europos.'
+  teiginys: 'Henrikas von Plauenas po 1410 m. smūgio rengė Ordino revanšą ir rinko jėgas iš Vakarų Europos.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
@@ -60,6 +60,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -78,6 +79,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-001
     - t-001
 
 - c-003
@@ -109,41 +111,6 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     - t-003
 
 - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kad turėtų jis
-    tam laisvas rankas ir materialinės paramos, reikėjo apsidrausti
-    nauja unija nuo Lenkijos, kuri buvo bepradedanti artintis su
-    Zigmantu L., vokiečių imperatorium, kas didino lenkų savaran­
-    kiškumą santykiuose su Lietuva ir kas galėjo jam skersai kelio
-    statyti kliūtis. Reikia dar čia atsiminti ir tai, kad ir kryžiuo­
-    čiai negalėjo užmiršti 1410 m. smūgio ir pažeminimo. Henrikas
-    von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­
-    dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­
-    rų Europos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
-    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
-    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
-    prašyti pagalbos prieš Vytautą. Vak. Europoje buvo skelbia­
-    ma, kad Vytautas susideda su stačiatikiais, sukelia slavų tau­
-    tas, Nemuno ir Dubysos krantuose stato prieš Ordiną nukreip­
-    tas pilis^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-006
   santrauka: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

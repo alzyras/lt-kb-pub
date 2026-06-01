@@ -40,28 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu: „Atveskite man kunigą, nes švenčiausioji.'
+  teiginys: '1302 m. Perudžoje nukirsdinto Mariją gerbusio plėšiko galva paprašė kunigo, nes, pasak pasakojimo, Marija neleido jam numirti be išpažinties.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai
-    gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu:
-    „Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose
-    to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs visų savo nuodėmių”. Šitaip ir
-    įvyko.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: '1302 m. Perudžoje nukirsdinto Mariją gerbusio plėšiko galva paprašė kunigo, nes, pasak pasakojimo, Marija neleido jam numirti be išpažinties.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieną švenčiausiosios mergelės stebuklą
@@ -81,23 +67,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu: „Atveskite man kunigą, nes švenčiausioji.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    92. Apie vieną švenčiausiosios mergelės stebuklą
-
-      1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai
-    gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu:
-    „Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose
-    to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs visų savo nuodėmių”. Šitaip ir
-    įvyko.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Marija]]
 - [[objektai/posakiai/Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs]]

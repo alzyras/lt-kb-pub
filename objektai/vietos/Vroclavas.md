@@ -35,17 +35,12 @@ amziai:
 - t-002
   teiginys: 'Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-003
   teiginys: 'Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.'
   pagrindžia:
     - c-003
-
-- t-004
-  teiginys: 'Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­ čio dvare9.'
-  pagrindžia:
-    - c-001
 
 - t-005
   teiginys: 'Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą ir nevaržomą keliavimą su prekėmis per Ordino žemes.'
@@ -55,11 +50,12 @@ amziai:
 - t-006
   teiginys: 'Jogaila tuojau apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
@@ -146,41 +142,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jame pasakoja, kad „pasiunčiau nuo
-    savęs maloningąjį poną Konradą,
-    Vroclavo vyskupą, mylimą brolį, pa­
-    geidaudamas, kad didysis magistras
-    lieptų jį palydėti į Kistriną ir pasi­
-    teirauti kunigaikščio Štolpenskio, ar
-    minėtasis vyskupas turįs ar neturįs
-    dėl ko nuogąstauti iš jo ir tų, kurie
-    jam pavaldūs, pusės?" Tame pačia­
-    me laiške Švitrigaila prideda prašy­
-    mą: „kad Vroclavo gyventojams
-    duotų garantiją vykti per Ordino že­
-    mes, kad jie galėtų laisvai ir nevar­
-    žomai keliauti su savo prekėmis,
-    kadangi mums rodo daug palanku­
-    mo".
-    —  « —
-    213
-
-    ## Puslapis 230
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    miesto gyventojų prašymu, didysis kunigaikštis turėjo pa­
-    skirti valdytoją bei garantuoti jiems globą10.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Abu valdovai tačiau kratėsi tokio sprendimo. Jogaila tuojau

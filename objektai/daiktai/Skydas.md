@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Skydai buvo naudojami kaip apsauga nuo priešo smūgių.'
+  teiginys: 'Skydais lietuviai dangstėsi nuo priešų smūgių; jie buvo pailgai apvalūs, pinti iš žilvičių arba tašyti iš lentos.'
   pagrindžia:
     - c-001
 
@@ -65,6 +65,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skydais lietuviai dangstėsi nuo priešų smūgių; jie buvo pailgai apvalūs, pinti iš žilvičių arba tašyti iš lentos.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Paskesnėse gadynėse ginklais buvo: kalavijai, kardai ir kirviai, iš akmens dirbti, turėjo taip pat
@@ -141,8 +142,5 @@ Nenurodyta
 - [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
 - [[objektai/daiktai/Šarvai]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
-- [[objektai/daiktai/Skydai]]
-- [[objektai/asmenys/Aaronas]]
-- [[objektai/daiktai/Karinė ginkluotė]]
-- [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/XIII a. Vakarų Europos pėstininkų apsaugos ir ginkluotės praktika]]

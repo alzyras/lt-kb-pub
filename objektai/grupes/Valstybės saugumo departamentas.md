@@ -32,19 +32,6 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    sveikatos priežiūra, butai ir kiti priedai. Režimo ramstis buvo policija ir
-    gerai veikiantis Valstybės saugumo departamentas.
-    Gausėjant priekaištų dėl prezidento neperrenkamumo, teko imtis
-    įstatymų, kad bent būtų tokia regimybė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departamentas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -65,6 +52,7 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

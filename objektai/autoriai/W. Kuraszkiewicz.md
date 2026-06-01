@@ -25,13 +25,14 @@ Kuraszkiewicz, W.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kuraszkiewicz, W.'
+  teiginys: 'W. Kuraszkiewiczius 1955 m. Varšuvoje paskelbė darbą apie spėjamą jotvingių pėdsaką Palenkėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'W. Kuraszkiewiczius 1955 m. Varšuvoje paskelbė darbą apie spėjamą jotvingių pėdsaką Palenkėje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Klimas, P. keliuose egz. mašinraštyje 1939 m. paruošė savo

@@ -42,24 +42,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Marienburgo pilies pastatymą 1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten, kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios šlovei bei garbei ji čia ir buvo perkelta500.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
-    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
-    šlovei bei garbei ji čia ir buvo perkelta500.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     208 (203). Apie Marienburgo pilies pastatymą
@@ -77,7 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

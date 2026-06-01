@@ -19,13 +19,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '84, 150, 281, 293, 302, 304, 309, 323, 339 Koliumnų dinastija 214 Kolomna, netoli Maskvos 313 Koložas, Gardino priemiestis 125 Komunistas 42 Koneczny F.'
+  teiginys: 'Koložas buvo Gardino priemiestis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Koložas buvo Gardino priemiestis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     238, 248, 250, 256, 257, 272, 275**

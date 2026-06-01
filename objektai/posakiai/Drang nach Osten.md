@@ -37,25 +37,11 @@ amziai:
 - t-002
   teiginys: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“ veržtis į Rytus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila taip pat IX. 20 pasitraukė, ir tokiu būdu Marien­
-    burgas nebuvo paimtas. Bet kaip ten bebūtų, vis dėlto mes tu­
-    rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­
-    duotas smūgis vokiečių siekimui — „Drang nach Osten“ —
-    veržtis į Rytus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     20 pasitraukė, ir tokiu būdu Marien­
@@ -70,8 +56,8 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Vokiečiai]]

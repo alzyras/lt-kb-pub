@@ -19,13 +19,14 @@ Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą pal
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą palei tavo malūną prie kelio, vedan­ čio iš miesto į Užupį, už Vilnelės.'
+  teiginys: 'Didysis kunigaikštis Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didysis kunigaikštis Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     PATS ALEKSANDRAS,
@@ -50,3 +51,4 @@ Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą pal
 - [[objektai/zodynas/indiktas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]

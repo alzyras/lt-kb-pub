@@ -18,13 +18,14 @@ Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją m
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar nepakako, galop atėjo visa likusi kariuomenė, taip tirštai padengdama ledą, kaip skėriai padengia žemę.'
+  teiginys: 'Posakis „Pakanka, eik kur tinkamas ir pasieksi, ko nori“ buvo atsakymas karaliui, klaususiam, ar pakanka kariuomenės veikti Semboje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posakis „Pakanka, eik kur tinkamas ir pasieksi, ko nori“ buvo atsakymas karaliui, klaususiam, ar pakanka kariuomenės veikti Semboje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai karalius jį paklausė, rodydamas

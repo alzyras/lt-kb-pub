@@ -55,7 +55,6 @@ amziai:
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Stanislovas Augustas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
-- [[objektai/zodynas/kapituliacija]]
 - [[objektai/asmenys/Jonas Hlebavičius]]
 - [[objektai/asmenys/Jurgis (Lucko vyskupas)]]
 - [[objektai/asmenys/Jurgis Astikaitis]]

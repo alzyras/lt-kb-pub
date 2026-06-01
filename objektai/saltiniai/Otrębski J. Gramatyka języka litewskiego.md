@@ -23,13 +23,14 @@ Dusburgietis teigia, kad otrębski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad otrębski J.'
+  teiginys: 'J. Otrębskio „Gramatyka języka litewskiego“ pirmasis tomas išleistas Varšuvoje 1958 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Otrębskio „Gramatyka języka litewskiego“ pirmasis tomas išleistas Varšuvoje 1958 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Otrębski J. Gramatyka języka litewskiego.— T. I.— Warszawa, 1958.

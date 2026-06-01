@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Didysis kunigaikštis ne­ teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė, kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­ čių sidabro luitų65 • .'
+  teiginys: 'Per Vilniaus gaisrą didysis kunigaikštis neteko žirgų ir brangenybių, o miestiečių įvertinta žala siekė iki 60 tūkstančių sidabro luitų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Vilniaus gaisrą didysis kunigaikštis neteko žirgų ir brangenybių, o miestiečių įvertinta žala siekė iki 60 tūkstančių sidabro luitų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399

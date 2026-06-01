@@ -35,13 +35,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Mirus senovės kariui, jis kartu su žirgu būdavo deginamas ant rogo.'
+  teiginys: 'Senovėje kalnėnai ir žemaičiai mirusį žmogų ant rogo degindavo kartu su jo žirgu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Senovėje kalnėnai ir žemaičiai mirusį žmogų ant rogo degindavo kartu su jo žirgu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     kaipogi senovėj kalnėnai ir žemaičiai taip didžiai mylėjo savo žirgus, jog, pačiam mirus, lygiai degino ant rogo^1187 su

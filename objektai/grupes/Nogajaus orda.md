@@ -26,13 +26,14 @@ Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Aplink miestą su savo palyda palapinėse klajojo Šach Achmedas, o Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­ kuriavo karaliaus45.'
+  teiginys: 'Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų laukė karaliaus, kai jis tvarkė totorių reikalus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų laukė karaliaus, kai jis tvarkė totorių reikalus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atrodo, kad tais metais bu­
@@ -59,5 +60,6 @@ Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Elena]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Krymo orda]]
 - [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus]]

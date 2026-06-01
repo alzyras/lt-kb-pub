@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet, kai totoriai didele Karalienė Elena pati savo lėšomis pastatydino atskirą namą Vilniaus pilyje, skirtą apsistoti pas ją iš Mask­ vos atvykstantiems bojarinams ir pa­ siuntiniams.'
+  teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams apsistoti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams apsistoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepagelbėjo jam ir iš Kroku­

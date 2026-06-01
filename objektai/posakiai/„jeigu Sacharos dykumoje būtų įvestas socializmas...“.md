@@ -22,7 +22,7 @@ tags:
     - c-001
 
 - t-002
-  teiginys: 'Posakis siejamas su apytuštėmis parduotuvėmis, talonais ir plataus masto prekių trūkumu SSRS.'
+  teiginys: 'Posakiu apie socializmą Sacharos dykumoje šaipytasi iš komandinės planinės ekonomikos neefektyvumo ir SSRS deficito.'
   pagrindžia:
     - c-001
 
@@ -51,4 +51,3 @@ tags:
 - [[objektai/daiktai/Duona]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/zodynas/deficitas talonai]]
-- [[objektai/zodynas/Miera|miera]]

@@ -47,7 +47,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - t-004
   teiginys: 'Elžbieta buvo Vengrijos karalienė ir Jadvygos motina.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-005
   teiginys: 'Karalienė Elžbieta, bijodama prarasti Lenkiją, 1384 m. pasiuntė į Krokuvą keturiolikmetę dukterį Jadvygą.'
@@ -57,7 +57,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - t-006
   teiginys: 'Karalienė Elžbieta po Velykų su dukterimis ir sūnumi kardinolu Fridrichu atvyko į Vilnių.'
   pagrindžia:
-    - c-008
+    - c-005
 
 - t-007
   teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
@@ -75,9 +75,9 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - c-005
 
 - t-010
-  teiginys: 'Karalienė Elžbieta su tuo reikalavimu sutiko ir pažadėjo po 1383 m. Velykų ją išsiųsti, bet su ta sąlyga, kad ji apsikarū­ navusi vėl grįžtų trims metams į Vengriją.'
+  teiginys: 'Karalienė Elžbieta sutiko po 1383 m. Velykų išsiųsti Jadvygą lenkams, jei ši po karūnavimo trejiems metams grįš į Vengriją.'
   pagrindžia:
-    - c-010
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -167,6 +167,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   statusas: verified
   pagrindžia:
     - t-009
+    - t-006
 
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -202,28 +203,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - t-001
 
 - c-008
-  santrauka: 'Karalienė Elžbieta po Velykų su dukterimis ir sūnumi kardinolu Fridrichu atvyko į Vilnių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    _  .
-    230
-
-    ## Puslapis 247
-
-    III KNYGA
-    pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
-    terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
-    vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
-    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
-    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
-    buvo nutraukta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vilniaus vyskupu paskirtas vysk. Andrius Vosylius Jas­
@@ -240,8 +219,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   pagrindžia:
     - t-004
 
-- c-010
-  santrauka: 'Karalienė Elžbieta su tuo reikalavimu sutiko ir pažadėjo po 1383 m. Velykų ją išsiųsti, bet su ta sąlyga, kad ji apsikarū­ navusi vėl grįžtų trims metams į Vengriją.'
+- c-009
+  santrauka: 'Karalienė Elžbieta sutiko po 1383 m. Velykų išsiųsti Jadvygą lenkams, jei ši po karūnavimo trejiems metams grįš į Vengriją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet kai atsirado nesu­
@@ -276,7 +255,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - [[objektai/grupes/Mokinių slėnio brolių ordinas]]
 - [[objektai/daiktai/Altorius]]
 - [[objektai/zodynas/landgrafas]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.)]]

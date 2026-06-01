@@ -46,18 +46,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kryžiuočiai tą antspaudą mums panieką reikš­ dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­ galba sumanymo įgyvendinimą ir žmonėms akis užtem­ dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą piktžodžiaudami ginčytų, tą mūsų šiais laiškais.'
+  teiginys: '1323 m. gegužės 26 d. Vilniuje rašytuose Gedimino laiškuose pavesta juos perskaičius siųsti toliau ir visur skelbti jų pranešimus.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: '" Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui ir platino melagingą žinią, jog Gedimi­ nas norėjęs krikštytis.'
+  teiginys: 'Jerošino teigimu, Rygos arkivyskupas ir miestiečiai pajūrio miestuose bei popiežiui platino žinią, kad Gediminas norėjęs krikštytis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jerošino teigimu, Rygos arkivyskupas ir miestiečiai pajūrio miestuose bei popiežiui platino žinią, kad Gediminas norėjęs krikštytis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Panašių
@@ -91,6 +92,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1323 m. gegužės 26 d. Vilniuje rašytuose Gedimino laiškuose pavesta juos perskaičius siųsti toliau ir visur skelbti jų pranešimus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiuočiai tą antspaudą mums panieką reikš­
@@ -121,3 +123,4 @@ Nenurodyta
 - [[objektai/grupes/Rygos miestiečiai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Gediminas]]

@@ -26,13 +26,14 @@ Dusburgietis teigia, kad codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376— 1430 / Collectus opera A.'
+  teiginys: 'Codex epistolaris Vitoldi Magni Ducis Lithuaniae apima 1376–1430 m. laiškus ir buvo išleistas Krokuvoje 1882 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Codex epistolaris Vitoldi Magni Ducis Lithuaniae apima 1376–1430 m. laiškus ir buvo išleistas Krokuvoje 1882 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376— 1430 / Collectus opera A.

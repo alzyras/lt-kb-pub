@@ -39,14 +39,14 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - c-002
 
 - t-003
-  teiginys: 'Lietuvai, ilgai nuo krikščio­ niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­ kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios, nors ir siauros Krokuvos ar Liublino gatvės, nei.'
+  teiginys: 'XIV a. Liublino gatvės buvo siejamos su gotikos rūmais, apsuptais aukštų sienų.'
   pagrindžia:
-    - c-014
+    - c-006
 
 - t-004
   teiginys: 'Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami, kad abidvi valstybės pasiliktų savarankiškos.'
   pagrindžia:
-    - c-010
+    - c-008
 
 - t-005
   teiginys: 'Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą.'
@@ -56,17 +56,17 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 - t-006
   teiginys: 'Po tokių sostinės apsaugos priemonių karalius, į Vilnių atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais.'
   pagrindžia:
-    - c-007
+    - c-012
 
 - t-007
   teiginys: 'Liublino seimo eiga ir unijos aktas.'
   pagrindžia:
-    - c-011
+    - c-009
 
 - t-008
   teiginys: 'Krokuvos ir Liublino gatvės buvo siejamos su gotikos rūmais ir aukštomis sienomis.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-009
   teiginys: 'Jis džiaugėsi ir Liublino unijoje «įvykusia santaika»^30.'
@@ -76,7 +76,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 - t-010
   teiginys: '1569 m. Liubline galutinai nustatyti abiejų tautų tarpusavio valstybiniai santykiai.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-011
   teiginys: '1432 m. pradžioje derybos tarp lenkų ir lietuvių strigo (tuo metu Jogaila stovėjo Liubline, Švitrigaila su kryžiuočių atstovais - Brastoje).'
@@ -86,22 +86,22 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 - t-012
   teiginys: 'Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-013
   teiginys: 'Vasarį stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad pinigai būtų išsiųsti į Leipcigą.'
   pagrindžia:
-    - c-012
+    - c-004
 
 - t-014
   teiginys: 'Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises.'
   pagrindžia:
-    - c-013
+    - c-010
 
 - t-015
   teiginys: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
   pagrindžia:
-    - c-015
+    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -151,6 +151,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   statusas: verified
   pagrindžia:
     - t-009
+    - t-012
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -170,6 +171,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   statusas: verified
   pagrindžia:
     - t-005
+    - t-013
 
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -185,39 +187,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-011
 
 - c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tad Koja­
-    lavičiui, kuris iš esmės terašė gražia, klasikine lotynų kalba pasi­
-    skaitymų knygą, Lietuvos ir Lenkijos politiniai skirtumai nebe­
-    buvo tokie ryškus kaip Stryjkovskiui. Jis džiaugėsi ir Liublino
-    unijoje «įvykusia santaika»^30. Kojalavičiui, išleidusiam I-jį tomą
-    beveik 70 metų po Stryjkovskio, Lietuvos ir Lenkijos skirtumai
-    gerokai buvo niveliavęsi^31.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    III KNYGA
-    mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
-    veinei*.
-    Po tokių sostinės apsaugos priemonių karalius, į Vilnių
-    atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais. Aplink
-    miestą su savo palyda palapinėse klajojo Šach Achmedas, o
-    Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­
-    kuriavo karaliaus45.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visi tie pastatai, at­
@@ -240,8 +209,9 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   statusas: verified
   pagrindžia:
     - t-008
+    - t-003
 
-- c-009
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1569 metais Liubline « abiejų tautų » galutinai nustatyti tarpu­
@@ -258,7 +228,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   pagrindžia:
     - t-010
 
-- c-010
+- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dėl to bajorija ir toliau reikalavo išspręsti unijos klausimą ir
@@ -277,7 +247,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   pagrindžia:
     - t-004
 
-- c-011
+- c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet vis dėlto pasiliko svar-
@@ -295,28 +265,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   pagrindžia:
     - t-007
 
-- c-012
-  santrauka: 'Vasarį stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad pinigai būtų išsiųsti į Leipcigą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    320 flor. 21 gr.
-    Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
-    aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
-    443
-
-    ## Puslapis 460
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    juos laiku pasiųstų JMCPP* : Mlodyčiui į Leipcigą ir ponui
-    Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
-    lenkiškas, pridėjau 1310 flor.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-013
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad jau
@@ -335,31 +284,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   pagrindžia:
     - t-014
 
-- c-014
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Visi tie pastatai, at­
-    skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais
-    daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­
-    mus, besišliejančius prie pilių, negu į tokius miestus, kokie
-    jau XIV amžiuje puošė Lenkiją. Lietuvai, ilgai nuo krikščio­
-    niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių
-    antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­
-    kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios,
-    nors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam
-    laikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės
-    prekybos namai, statydinti Kazimiero Didžiojo. Vilniuje, vi­
-    dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio
-    slėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­
-    tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­
-    juosta statinių tvoromis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-015
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1569 m. lietuvių ir lenkų delegacijos nuo
@@ -376,7 +301,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   pagrindžia:
     - t-015
 
-- c-016
+- c-012
   santrauka: 'Po tokių sostinės apsaugos priemonių karalius, į Vilnių atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -400,3 +325,4 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   statusas: verified
   pagrindžia:
     - t-016
+    - t-006

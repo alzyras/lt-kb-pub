@@ -54,7 +54,7 @@ Nenurodyta
     - c-003
 
 - t-002
-  teiginys: 'vidurio prasidėjo planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10 patrankų ir 200 kardų (raitelių).'
+  teiginys: '1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių.'
   pagrindžia:
     - c-007
 
@@ -64,7 +64,7 @@ Nenurodyta
     - c-005
 
 - t-004
-  teiginys: 'buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di- džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su- kapoti.'
+  teiginys: 'Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais.'
   pagrindžia:
     - c-002
 
@@ -74,7 +74,7 @@ Nenurodyta
     - c-006
 
 - t-006
-  teiginys: 'Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­ viai, kardai ir kiti ginklai.'
+  teiginys: 'Kautynės pirmiausia prasidėjo ietimis, o vėliau buvo naudojami kirviai, kardai ir kiti ginklai.'
   pagrindžia:
     - c-001
 
@@ -84,18 +84,19 @@ Nenurodyta
     - c-008
 
 - t-008
-  teiginys: 'Višniaveckis jį nu- sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai- sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu buvo sukapoti dar du belaisviai).'
+  teiginys: 'Valkininkuose bajorų minia kardais sukapojo Mykolą Sapiegą ir dar du belaisvius.'
   pagrindžia:
     - c-009
 
 - t-009
-  teiginys: 'Kai Mykolas Sapiega pasidavė, bajo- rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).'
+  teiginys: 'Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kautynės pirmiausia prasidėjo ietimis, o vėliau buvo naudojami kirviai, kardai ir kiti ginklai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš priešin­
@@ -111,6 +112,7 @@ Nenurodyta
     - t-006
 
 - c-002
+  santrauka: 'Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     tegyvavo. Bolševikams paėmus valdžią, jie buvo išsklaidyti, ir
@@ -144,6 +146,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: 'Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kiek bajorija degė neapykanta Sapiegoms, rodo Valkininkų įvy-
@@ -189,6 +192,7 @@ Nenurodyta
     - t-005
 
 - c-007
+  santrauka: '1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kovos ėjo prie Alytaus, ir kovo mėnesį iš
@@ -222,6 +226,7 @@ Nenurodyta
     - t-007
 
 - c-009
+  santrauka: 'Valkininkuose bajorų minia kardais sukapojo Mykolą Sapiegą ir dar du belaisvius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
@@ -253,7 +258,6 @@ Nenurodyta
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/gurguolė]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos|Damoklo kardas tikrai pakibo ant unijos (unija)]]
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
@@ -263,7 +267,6 @@ Nenurodyta
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
 - [[objektai/asmenys/Jonas XXIII]]
-- [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Kardo rinktinė]]
 - [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/grupes/Klevo kuopa]]
@@ -279,10 +282,12 @@ Nenurodyta
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/Meldžionys|meldžionys]]
 - [[objektai/zodynas/vachmistras]]
-- [[objektai/autoriai/Karamzino]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/regimentorius]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]
 - [[objektai/daiktai/Pistoletas]]
-- [[objektai/zodynas/regimentorius]]
+- [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
 - [[objektai/zodynas/plikbajoris]]

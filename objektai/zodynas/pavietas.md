@@ -23,12 +23,12 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - t-001
   teiginys: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
@@ -38,17 +38,12 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - t-004
   teiginys: 'Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.'
   pagrindžia:
-    - c-003
-
-- t-005
-  teiginys: 'Senoji pi­ liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­ tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­ jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
-  pagrindžia:
     - c-002
 
 - t-006
   teiginys: 'Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -69,26 +64,9 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vėliau karalienė
-    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
-    klebonija tapo išties reikšmingiausia Žemaitijoje. Senoji pi­
-    liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
-    tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­
-    jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
-    pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,
-    ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
-    das.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-003
+- c-002
   santrauka: 'Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -126,7 +104,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   pagrindžia:
     - t-004
 
-- c-004
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jiems buvo pavestos spręsti visos bylos dėl turto, t. y. vadinamo-
@@ -141,7 +119,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   pagrindžia:
     - t-002
 
-- c-005
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toks krašto
@@ -154,7 +132,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   santrauka: 'Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -170,7 +148,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   pagrindžia:
     - t-006
 
-- c-007
+- c-006
   santrauka: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

@@ -29,17 +29,7 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
     - c-001
 
 - t-002
-  teiginys: '`Sargūnas` rūpinasi kariaunos mitalu ir pavojumi.'
-  pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: '`Abažūnas` rūpinasi kariaunos priegule.'
-  pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: '`Anginas` saugo pilies angas ir laiko raktus.'
+  teiginys: 'Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono.'
   pagrindžia:
     - c-001
 

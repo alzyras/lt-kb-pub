@@ -44,12 +44,12 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - c-001
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.'
+  teiginys: '1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtą Bartą ir kitas žemes.'
   pagrindžia:
     - c-005
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad 201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin, Plicke Bartin, grôz Bartin unde kleine.'
+  teiginys: '1251 m. dokumente Barta minima kaip Didžioji ir Mažoji Barta, kurioje gyveno bartai arba bartėnai.'
   pagrindžia:
     - c-003
 
@@ -86,6 +86,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-001
 
 - c-003
+  santrauka: '1251 m. dokumente Barta minima kaip Didžioji ir Mažoji Barta, kurioje gyveno bartai arba bartėnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,
@@ -110,6 +111,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-002
 
 - c-005
+  santrauka: '1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtą Bartą ir kitas žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje

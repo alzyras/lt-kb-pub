@@ -34,17 +34,17 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 - t-001
   teiginys: 'Martynas Smigleckis, nagrinėdamas monopolio puses, Vilnių pateikė kaip stiklo prekių pavyzdį.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-002
   teiginys: 'Martynas Smigleckis parašė veikalą apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir privačią prekybą.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
   teiginys: 'Martyno Smigleckio 1618 m. „Logika“ pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.'
@@ -54,7 +54,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 - t-005
   teiginys: 'Martynas Smigleckis buvo knygos „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ autorius.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-006
   teiginys: 'Martynas Smigleckis teigė, kad neteisinga respublikoje neleisti privačios prekybos dėl didesnio prekių ištekliaus mieste.'
@@ -83,6 +83,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
 - c-002
   santrauka: 'Martynas Smigleckis teigė, kad neteisinga respublikoje neleisti privačios prekybos dėl didesnio prekių ištekliaus mieste.'
@@ -110,27 +111,6 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
     - t-006
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
-    kymo principus ir didelius reikalavimus, intensyvaus mokymo sistemą, o
-    vilniečiai skleidė įtaką ne tik Lietuvoje (visų pirma lituanistiniai K. Sirvy-
-    do ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos
-    ir daugiatautės bei daugiakonfesės LDK. Jėzuitiškojo Vilniaus universi-
-    teto reiškiniai darė poveikį visai Europai – tai pasakytina apie teologijos,
-    filosofijos, logikos, retorikos ir poetikos mokyklas. Vilniaus universite-
-    to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
-    Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir
-    Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
-    buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
-    vietoje įprasto Horacijaus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. VII priedą.
@@ -151,31 +131,9 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-005
-  santrauka: 'Martynas Smigleckis buvo knygos „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ autorius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Žr. VII priedą.
-    55
-    Vilniui šis stiklo monopolis turėjo
-    būti įsimintinas, kai Smigleckis, au­
-    torius nepaprastai parašytos ir savo
-    laiku labai patrauklios knygos „Apie
-    palūkanas, atpirkimus, činšus, ben­
-    drą pelną, nuomas, mainus ir apie
-    privačią prekybą - trumpas moks­
-    las, parašytas kun. Martyno Smig-
-    leckio, jėzuito, šv. teologijos dakta­
-    ro". 7-as leidimas, Krokuvoje, pas
-    Andžejų Piotrkovčiką, 1640, in 4to.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
-- c-006
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nagrinėdamas geras ir blogas priva­

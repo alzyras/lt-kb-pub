@@ -116,4 +116,5 @@ periodo_grupes:
 - [[objektai/zodynas/manu proprio M.P]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
+- [[objektai/ivykiai/Zigmanto Vazos elekcija (1587 m.)]]
 - [[objektai/zodynas/didžioji suirutė smuta]]

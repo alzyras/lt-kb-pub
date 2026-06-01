@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '20 Lietuvos Metrikoje yra labai daug Žygimanto Senojo laiškų, tuo tikslu rašytų Vilniaus miestiečiams, - paci­ tuosime kai kuriuos: List Meszczaninu Wileńskomu Andrejų Tyckomu [Laiškas Vilniaus miestiečiui Andre­ jui Tiekiui] dėl Smolensko muito ir smuklių.'
+  teiginys: 'Žygimantas Senasis rašė Vilniaus miestiečiui Andrejui Tyckiui dėl Smolensko muito ir smuklių arendavimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Senasis rašė Vilniaus miestiečiui Andrejui Tyckiui dėl Smolensko muito ir smuklių arendavimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     XI.

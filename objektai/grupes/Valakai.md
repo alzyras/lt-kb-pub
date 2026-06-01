@@ -18,7 +18,7 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
+  teiginys: 'Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų.'
   pagrindžia:
     - c-003
 
@@ -26,7 +26,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   teiginys: 'Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.'
   pagrindžia:
     - c-004
-    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -54,6 +53,7 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
     - t-001
 
 - c-003
+  santrauka: 'Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Salzbachą su keliais tūkstančiais kariuomenės;
@@ -83,26 +83,11 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   pagrindžia:
     - t-002
 
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ordinas atsiuntė savo komtūrą
-    Marquardą v. Salzbachą su keliais tūkstančiais kariuomenės;
-    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
-    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
-    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
-    kariuomenė buvo internacionalinė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Turkai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/Ermyderiai|ermyderiai]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigaikščiai]]
@@ -116,13 +101,12 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 - [[objektai/zodynas/barokinė santvarka barokinis ūkis]]
 - [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/valakas]]
-- [[objektai/zodynas/Dvilaukė sistema]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
 - [[objektai/paprociai/Trilaukio ūkio sistema]]
 - [[objektai/grupes/Turkijos kariuomenė]]
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Mozūrai (XV amžius)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Žuvėdai]]

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad zientara B.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad zientara B.'
+  teiginys: 'B. Zientaros straipsnis „Sprawy pruskie w polityce Henryka Brodatego“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'B. Zientaros straipsnis „Sprawy pruskie w polityce Henryka Brodatego“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Zientara B. Sprawy pruskie w polityce Henryka Brodatego.— ZHPB, Warszawa—

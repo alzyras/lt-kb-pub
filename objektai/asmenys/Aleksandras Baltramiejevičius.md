@@ -18,13 +18,14 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai: Jonas Stančikavičius, Stanislovas Milinavičius, Stanislovas Piotrasavičius, Motiejus su broliu Kasparu JanušeVičiai, Aleksandras Baltramiejevičius, našlė Felicija Osčiluvna, Povilas.'
+  teiginys: 'Aleksandras Baltramiejevičius buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę bažnyčiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandras Baltramiejevičius buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę bažnyčiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —

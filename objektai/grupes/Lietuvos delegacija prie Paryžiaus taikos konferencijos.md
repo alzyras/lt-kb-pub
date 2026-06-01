@@ -27,12 +27,12 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
 - t-001
   teiginys: 'Versalio sistemoje Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-002
   teiginys: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Lietuvos delegacija prie Paryžiaus taikos konferencijos memorandumais, straipsniais ir pasisakymais kėlė Lietuvos pripažinimo problemą.'
@@ -57,7 +57,7 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
 - t-007
   teiginys: 'Memorandumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos delegacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame tarptautiniame forume, kurdama.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -126,29 +126,9 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos delegacijai vadovavo A. Voldemaras, joje
-    dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-
-    nykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs
-    iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz). Memoran-
-    dumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį
-    į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos dele-
-    gacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame
-    tarptautiniame forume, kurdama sąlygas nepriklausomybei. Delegacija
-    buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-
-    rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-
-    dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
-    Lietuva būtų priimta į Tautų Sąjungos bendriją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška
@@ -171,7 +151,7 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   santrauka: 'Memorandumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos delegacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame tarptautiniame forume, kurdama.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

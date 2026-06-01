@@ -46,17 +46,4 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    20. Apie Maljorkos ir Menorkos salų užėmimą
-
-      1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir
-    Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002

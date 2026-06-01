@@ -17,12 +17,12 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad endzelynas tapatina su šiuo prūsų žemės vardu (Endzelins J.'
+  teiginys: 'J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...; Endzelīns J. Senprūšu valoda; Būga K. Rinktiniai raštai, t. 1, 3; Mikalauskaitė E. Priešreformacinių...,.p. 102—106; Matusevičiūtė I. Kiek naujos medžiagos..., p. 10—18.'
+  teiginys: 'J. Endzelynas parašė veikalą „Senprūšu valoda“.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
     - t-003
 
 - c-002
+  santrauka: 'J. Endzelynas parašė veikalą „Senprūšu valoda“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...;
@@ -69,6 +70,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
     - t-002
 
 - c-003
+  santrauka: 'J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiaurės vakarų Kurše, prie Edolės, žinomas
@@ -88,8 +90,6 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Endzelins J]]
 - [[objektai/autoriai/F. Bopas]]
-- [[objektai/autoriai/G. H. F. Neselmanas]]
 - [[objektai/autoriai/V. Mažiulis]]
 - [[objektai/zodynas/vakariniai baltai]]

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad kuzavinis К.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kuzavinis К.'
+  teiginys: 'K. Kuzavinio „Prūsų kalba“ išleista Vilniuje 1964 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. Kuzavinio „Prūsų kalba“ išleista Vilniuje 1964 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kuzavinis К. Prūsų kalba.—V., 1964.

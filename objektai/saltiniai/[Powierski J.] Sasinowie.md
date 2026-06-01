@@ -17,13 +17,14 @@ Dusburgietis teigia, kad [Powierski J.] Sasinowie.— SSS, t.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad [Powierski J.] Sasinowie.— SSS, t.'
+  teiginys: 'J. Powierskio „Sasinowie“ nurodyta SSS 5 tomo 74-75 puslapiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Powierskio „Sasinowie“ nurodyta SSS 5 tomo 74-75 puslapiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [Powierski J.] Sasinowie.— SSS, t. 5, s. 74—75.

@@ -41,29 +41,14 @@ Nenurodyta
     - c-001
 
 - t-003
-  teiginys: 'Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė institucija, sutelkusi krašto visuomenę.'
+  teiginys: 'Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
-    Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
-    mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
-    meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
-    tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
-    institucija, sutelkusi krašto visuomenę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
+  santrauka: 'Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1855 m., po caro Nikolajaus I mirties ir
@@ -82,6 +67,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
+    - t-002
 
 ## Data ir vieta
 

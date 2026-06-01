@@ -20,12 +20,12 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad brunonas pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui; minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge su juo keturiolika kitų vyrų.'
+  teiginys: 'Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Brunonas: pagaliau 1008 m. gale jis iš- vyko iš Lenkijos aisčių krikštyti net su 18 palydovų.'
+  teiginys: 'Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų.'
   pagrindžia:
     - c-004
 
@@ -55,6 +55,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     - t-004
 
 - c-002
+  santrauka: 'Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
@@ -92,6 +93,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     - t-003
 
 - c-004
+  santrauka: 'Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau

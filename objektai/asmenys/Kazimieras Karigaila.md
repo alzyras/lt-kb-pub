@@ -48,47 +48,47 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - t-002
   teiginys: 'Karigaila, vadinamas vyriausiuoju vadu, žuvo bėgdamas į Aukštutinę pilį.'
   pagrindžia:
-    - c-002
+    - c-005
 
 - t-003
   teiginys: 'Viena versija Kazimierą Karigailą vadina tikru karaliaus broliu ir teigia, kad po nužudymo nuo kūno buvo atskirta jo galva.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Kita versija teigia, kad kunigaikštis Karigaila buvo kareivių neatpažintas nukautas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-005
-  teiginys: '[Pagaliau krikš­ čioniškąjį valdovą poną Kazimierą, vadinamą Karigaila, tikrą karaliaus brolį, nužudė, ir nužudytojo galvą nuo kūno nuplėšę, nupjovę ir nukir­ tę, iš šios galvos visaip tyčiojosi ir ją užgauliojo karaliaus paniekinimui].'
+  teiginys: 'Kazimieras Karigaila buvo nužudytas, o jo galva atskirta nuo kūno ir išniekinta karaliaus paniekinimui.'
   pagrindžia:
-    - c-009
+    - c-002
 
 - t-006
-  teiginys: 'Siaubo pagautų žmonių kamšatis ir visur umaru besibraunantis, įsišėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­ ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­ tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito.'
+  teiginys: 'Kazimieras Karigaila žuvo mūšio lauke, bėgdamas gelbėtis į Aukštutinę pilį ir priešų neatpažintas.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-007
   teiginys: '1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-008
-  teiginys: 'Palaido­ jo jį iškilmingai, katedroje, šalimais Karigailos, o visuotinis gedulas liudijo mirusįjį buvus didžiu žmogumi; tačiau toks liūdnas įvykis suartino Jogailą su Vytautu.'
+  teiginys: 'Kazimieras Karigaila buvo palaidotas katedroje, šalia vėliau iškilmingai palaidoto mirusiojo.'
   pagrindžia:
-    - c-010
+    - c-007
 
 - t-009
   teiginys: 'Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-010
-  teiginys: 'Kadangi girdėjome iš vyriausiojo maršalo ir iš kitų gar­ bingų žmonių, ponų riterių, ginkla­ nešių, jog kunigaikštis Karigaila, ka­ reivių neatpažintas buvęs nukautas, ir kad tik penktą dieną iš lietuvių, pabėgusių iš Aukštutinės pilies, bu­ vo sužinota, jog.'
+  teiginys: 'Ordino pareigūno laiške teigta, kad Karigaila buvo nukautas kareivių neatpažintas, o apie jo žūtį sužinota penktą dieną.'
   pagrindžia:
-    - c-008
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -112,28 +112,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­
-    dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose
-    įgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo
-    pagautų žmonių kamšatis ir visur umaru besibraunantis, įsi-
-    šėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­
-    ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­
-    tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito
-    mūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­
-    vo likimą31. Taip pasibaigė toji diena, lig tolei baisiausia Lie­
-    tuvos sostinei.
-    valdovui, S 1 a p t. Arch, esantis
-    (Briefe des Grosskomthurs an den Köm.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
     Compositio Pruss., p. 35, parašyta:
     Tandem Christianissimum principem
     dominum Cazimirum dictum Cortgel-
@@ -154,8 +132,9 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   statusas: verified
   pagrindžia:
     - t-003
+    - t-005
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gynėjai iškėlė vėliavas su kryžiais, kaip
@@ -194,8 +173,9 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   statusas: verified
   pagrindžia:
     - t-004
+    - t-010
 
-- c-005
+- c-004
   santrauka: 'Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -215,7 +195,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   pagrindžia:
     - t-009
 
-- c-006
+- c-005
+  santrauka: 'Kazimieras Karigaila žuvo mūšio lauke, bėgdamas gelbėtis į Aukštutinę pilį ir priešų neatpažintas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Arkikomtūro laiškas Romos
@@ -242,8 +223,9 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   statusas: verified
   pagrindžia:
     - t-006
+    - t-002
 
-- c-007
+- c-006
   santrauka: '1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -293,71 +275,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   pagrindžia:
     - t-007
 
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gynėjai iškėlė vėliavas su kryžiais, kaip
-    ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­
-    vių, dar nepakrikštytų, begalė buvo Vytauto gretose, nes prie
-    lio skundų ir ginčų tarp Jogailos ir
-    Ordino priežastis; pastarasis smar­
-    kiai gynėsi, atremdamas priekaištus,
-    esą skriaudos jam tuo daromos, va­
-    dindamas juos melagingais prasi­
-    manymais, žeidžiančiais Ordiną. Tą
-    liudija Ordino pareigūno vienas laiš­
-    kas (įdėtas F o i g t o, V, 546) Lenki­
-    jos karalienei 1391 metų pradžioje,
-    kuriame taip pasakyta: „Iš jūsų laiš­
-    ko mums aišku, kad Jūsų Karališko­
-    sios Didenybės vadai, kurie dalyva­
-    vo įvykiuose prie Vilniaus, praneša
-    Jums apie Karigailos, turinčio krikš­
-    čionišką Kazimiero vardą, nukirsdi-
-    uimą; atsakome: kas J. K. Didenybei
-    taip kalbėjo, nežinojo ir nežino, kaip
-    buvo iš tikrųjų. Kadangi girdėjome
-    iš vyriausiojo maršalo ir iš kitų gar­
-    bingų žmonių, ponų riterių, ginkla­
-    nešių, jog kunigaikštis Karigaila, ka­
-    reivių neatpažintas buvęs nukautas,
-    ir kad tik penktą dieną iš lietuvių,
-    pabėgusių iš Aukštutinės pilies, bu­
-    vo sužinota, jog kunigaikštis žuvęs/'
-    Visi tuometiniai kryžiuočių prane­
-    šimai panašiai užginčija, kad Kari-
-    gailalauvęs nukirsdintas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Compositio Pruss., p. 35, parašyta:
-    Tandem Christianissimum principem
-    dominum Cazimirum dictum Cortgel-
-    lo, fratrem germanum domini Regis, in­
-    terfecerunt, interfectique caput a corpo­
-    re scindentes et amputantes et
-    detruncantes, cum eodem capite ludib­
-    ria et multas subsannaciones fecerunt
-    in vilipendium Regis. [Pagaliau krikš­
-    čioniškąjį valdovą poną Kazimierą,
-    vadinamą Karigaila, tikrą karaliaus
-    brolį, nužudė, ir nužudytojo galvą
-    nuo kūno nuplėšę, nupjovę ir nukir­
-    tę, iš šios galvos visaip tyčiojosi ir ją
-    užgauliojo karaliaus paniekinimui].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-010
+- c-007
+  santrauka: 'Kazimieras Karigaila buvo palaidotas katedroje, šalia vėliau iškilmingai palaidoto mirusiojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau netrukus nuo

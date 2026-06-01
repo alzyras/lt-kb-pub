@@ -20,14 +20,14 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 ## Teiginiai
 
 - t-001
-  teiginys: 'Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: visi savo laisvės pagrindu laikė šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane" (nihil de те, sine те).'
+  teiginys: 'Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas laisvės pagrindu ir siejamas su liberum veto teise.'
   pagrindžia:
     - c-004
 
 - t-002
   teiginys: 'Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė.'
   pagrindžia:
-    - c-007
+    - c-004
 
 - t-003
   teiginys: 'Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: dėl jos daugybė seimų turėjo išsiskirstyti, nieko nenuveikę.'
@@ -35,9 +35,9 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-006
 
 - t-004
-  teiginys: 'Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: visada atsirasdavo, kas pasakydavo „veto", ir seimas turėdavo iširti.'
+  teiginys: 'Seime atsiradus atstovui, pasakiusiam „veto“, seimas turėdavo iširti.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-005
   teiginys: 'Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: be to, netiesiogiai buvo apribotas ir liberum veto. Priimant seimo tvarkos įstatymą, veto panaikinimui pasipriešino Rusų atstovas Repninas. Bet neprityrusį atstovą Čartoriskiai ap.'
@@ -45,12 +45,12 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-005
 
 - t-006
-  teiginys: 'Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: tuo būdu buvo paliktas nepaliestas liberum veto, ga- rantuota, kad karaliai bus tik renkami, kad kitatikiai turės lygias.'
+  teiginys: 'Kardinalinių teisių įstatyme liberum veto buvo paliktas nepaliestas.'
   pagrindžia:
     - c-001
 
 - t-007
-  teiginys: 'Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: jie sva- jojo net panaikinti liberum veto, bet kadangi tam pasi- priešino Rusų ir Prūsų atsto- vai, tai tuo tarpu veto buvo paliktas. Užtat buvo priimtas seimo darbų statutas.'
+  teiginys: 'Čartoriskiai siekė panaikinti liberum veto, bet pasipriešinus Rusų ir Prūsų atstovams veto buvo paliktas.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kardinalinių teisių įstatyme liberum veto buvo paliktas nepaliestas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu Rusijai
@@ -80,6 +81,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - t-006
 
 - c-002
+  santrauka: 'Čartoriskiai siekė panaikinti liberum veto, bet pasipriešinus Rusų ir Prūsų atstovams veto buvo paliktas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Antroji Čartoriskių svarbi
@@ -115,6 +117,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - t-008
 
 - c-004
+  santrauka: 'Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas laisvės pagrindu ir siejamas su liberum veto teise.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dažnai vienas ar
@@ -129,6 +132,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   statusas: verified
   pagrindžia:
     - t-001
+    - t-002
 
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -160,22 +164,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - t-003
 
 - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Dažnai vienas ar
-    keli papirkti atstovai pareikšdavo protestą prieš viso seimo nu-
-    tarimą, ir visas seimas turėdavo nusileisti. Pasipriešinimo teisė
-    visų buvo labai branginama, nes visi savo laisvės pagrindu laikė
-    šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
-    _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
-    pasipriešinimo teisė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-008
+  santrauka: 'Seime atsiradus atstovui, pasakiusiam „veto“, seimas turėdavo iširti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu į seimą būdavo išrenkami

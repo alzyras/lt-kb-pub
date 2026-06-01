@@ -44,17 +44,17 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - c-003
 
 - t-003
-  teiginys: 'Len­ kai žinojo, kaip sako Haleckis, kad Kamienieco Padolija, atiduo­ ta iki Vytauto gyvos galvos, todėl ir taip kantriai laukta^2 ).'
+  teiginys: 'O. Halecki teigė, kad lenkai kantriai laukė Kamienieco Podolijos, nes ji buvo atiduota tik iki Vytauto gyvos galvos.'
   pagrindžia:
     - c-008
 
 - t-004
   teiginys: 'O. Halecki gausiais raštais paliko pėdsaką Lietuvos istorijos tyrimuose ir emigracijoje skyrė dėmesio Lietuvai.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-005
-  teiginys: 'Šis užsimojimas, kaip mano Haleckis, pavojingas buvo dviem at­ žvilgiais: Lietuva, kuriai Vytautas neseniai troško atgauti Klai­ pėdą, būtų buvus visiškai atkirsta nuo jūros ir būtų buvęs suteik­ tas kryžiuočiams taip seniai trokštamas galimumas susijungti su.'
+  teiginys: 'O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.'
   pagrindžia:
     - c-005
 
@@ -75,7 +75,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - c-001
 
 - t-009
-  teiginys: 'Haleckis, kuris ir emigracijoje vis daug dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­ žiūriu.'
+  teiginys: 'O. Haleckis gausiais raštais paliko plačių pėdsakų Lietuvos istorijos srityje.'
   pagrindžia:
     - c-009
 
@@ -139,6 +139,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - t-001
 
 - c-005
+  santrauka: 'O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Būdamas pilnas nemalonės naujiems karūnos politikos vai­
@@ -187,6 +188,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - t-007
 
 - c-008
+  santrauka: 'O. Halecki teigė, kad lenkai kantriai laukė Kamienieco Podolijos, nes ji buvo atiduota tik iki Vytauto gyvos galvos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip pat buvo neliečia­
@@ -203,6 +205,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - t-003
 
 - c-009
+  santrauka: 'O. Haleckis gausiais raštais paliko plačių pėdsakų Lietuvos istorijos srityje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Zajączkows­
@@ -218,22 +221,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-009
-
-- c-010
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Zajączkows­
-    kis, kuris žemaičių, jotvingių ir kitais Lietuvos XIII-XV amžių
-    klausimais parašė reikšmingų studijų ir lenkų istorijos kongresuose
-    ir periodikoje akylai sekė Lietuvos istorikų darbus 128 129.
-    Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais
-    raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug
-    dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­
-    žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
 ## Ryšiai

@@ -19,13 +19,14 @@ Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų ma
 ## Teiginiai
 
 - t-001
-  teiginys: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
+  teiginys: 'Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją ir du mansionierius tinkama provizija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją ir du mansionierius tinkama provizija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad šių, mūsų valdų, ir dvarų, taip pat

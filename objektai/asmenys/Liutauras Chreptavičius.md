@@ -26,13 +26,14 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­ tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52.'
+  teiginys: 'Lietuvos maršalka Chreptavičius pateikė ataskaitą apie Vilniaus monetų kalyklos veiklą ir jos pajamas karaliaus iždui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos maršalka Chreptavičius pateikė ataskaitą apie Vilniaus monetų kalyklos veiklą ir jos pajamas karaliaus iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
@@ -55,4 +56,5 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 ### Susiję objektai
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]
 - [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]

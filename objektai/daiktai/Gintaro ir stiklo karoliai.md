@@ -58,34 +58,6 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ano laiko apyrankių ir kitų
-    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
-    audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
-    Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
-    liai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ano laiko apyrankių ir kitų
-    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
-    audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
-    Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
-    liai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/papuošalas]]

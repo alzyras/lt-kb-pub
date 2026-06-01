@@ -30,13 +30,14 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
     - c-002
 
 - t-002
-  teiginys: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir keitė administraciją.'
+  teiginys: 'Sovietizacija Lietuvoje prasidėjo Liaudies vyriausybei vykdant sovietų valią, griaunant valstybingumą ir keičiant administraciją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sovietizacija Lietuvoje prasidėjo Liaudies vyriausybei vykdant sovietų valią, griaunant valstybingumą ir keičiant administraciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     gandai privertė įtikinėti gyventojus, kad žemės nuosavybė nebus liečiama

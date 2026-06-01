@@ -218,11 +218,11 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Jono Czarnkowskio]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/unija]]

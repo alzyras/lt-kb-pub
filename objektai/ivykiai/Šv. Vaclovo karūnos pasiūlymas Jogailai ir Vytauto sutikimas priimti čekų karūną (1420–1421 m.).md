@@ -112,6 +112,7 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Kaributas]]

@@ -25,12 +25,12 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo.'
+  teiginys: 'Didysis magistras Paulius Rusdorfas atsiuntė kunigaikštienei Julijonai gydomųjų gėrimų.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės.'
+  teiginys: 'Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais.'
   pagrindžia:
     - c-003
 
@@ -42,6 +42,7 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didysis magistras Paulius Rusdorfas atsiuntė kunigaikštienei Julijonai gydomųjų gėrimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     A
@@ -120,6 +121,7 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     - t-003
 
 - c-003
+  santrauka: 'Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Foe- [Amžinosios vienybės ir santarvės
@@ -158,5 +160,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]

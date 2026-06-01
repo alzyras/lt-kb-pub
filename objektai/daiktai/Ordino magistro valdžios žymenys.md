@@ -47,27 +47,6 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tada
-    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
-    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
-    Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
-    turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
-    pasitarnavo, draugiškai vieną su kitu taikydamas.
-
-
-
-
-
-      159 D. — Wurcza.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Dusburgietis teigia, kad tada jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -86,6 +65,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

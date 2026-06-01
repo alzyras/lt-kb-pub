@@ -77,5 +77,4 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]
 - [[objektai/zodynas/grabnyčių diena]]

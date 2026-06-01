@@ -29,18 +29,19 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė.'
+  teiginys: 'Vinrichas Kniprodė 1365 metais su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tąkart Vinrichas, vasario pradžioje kirtęs Lie­ tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­ binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių polaidžio.'
+  teiginys: 'Vinrichas Kniprodė 1375 metais dėl staigaus atodrėkio ir upių polaidžio turėjo skubiai trauktis atgal į Prūsiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vinrichas Kniprodė 1375 metais dėl staigaus atodrėkio ir upių polaidžio turėjo skubiai trauktis atgal į Prūsiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     30
@@ -62,6 +63,7 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
     - t-002
 
 - c-002
+  santrauka: 'Vinrichas Kniprodė 1365 metais su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Laimė, kad šio valdovo narsa visada valiodavo išgelbėti

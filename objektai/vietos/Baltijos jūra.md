@@ -33,7 +33,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 ## Teiginiai
 
 - t-001
-  teiginys: 'Teutonų ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­ gonybę, Baltijos pakrantėse pagausino miestų ir pilių.'
+  teiginys: 'XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.'
   pagrindžia:
     - c-004
 
@@ -43,17 +43,17 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-005
 
 - t-003
-  teiginys: 'Ta lietuvių tauta, išsis­ kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­ šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos iki Vyslos, o į žemyno gilumą buvo.'
+  teiginys: 'Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
   pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę.'
+  teiginys: 'Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.'
   pagrindžia:
     - c-006
 
 - t-005
-  teiginys: 'Esant tokiai Europos miestų padėčiai, Lietuva, ilgiausiai at­ siribojusi nuo krikščionybės, valdydama nedidelį ir uostų sto­ kojantį Baltijos pakrantės ruožą, dar su vargana žemdirbyste ir prekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje jau.'
+  teiginys: 'XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą.'
   pagrindžia:
     - c-003
 
@@ -93,6 +93,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - t-007
 
 - c-002
+  santrauka: 'Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tokio
@@ -117,6 +118,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - t-003
 
 - c-003
+  santrauka: 'XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visi
@@ -136,6 +138,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - t-005
 
 - c-004
+  santrauka: 'XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Revelis [Talinas] už savo
@@ -189,6 +192,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - t-002
 
 - c-006
+  santrauka: 'Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors jau V amžiaus pabaigoje,

@@ -21,39 +21,21 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o pirmiausia — prieš Kvedenavos valsčių Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies, be to, pernelyg pasikliaujantis savo jėgomis, manė, jog.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano, nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie čia atvyksta“.'
+  teiginys: 'Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad ilgainiui tas pats Noliubas, dažnų antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl savo įsitikinimų, ir dėl darbų.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šis pabėgo  į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo
-    namų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų
-    antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl
-    savo įsitikinimų, ir dėl darbų.
-
-
-
-
-          102 (97).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     101 (96). Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
@@ -71,7 +53,8 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
+  santrauka: 'Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
@@ -85,6 +68,7 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

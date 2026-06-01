@@ -47,18 +47,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pagaliau per šį ilgą, tai­ kos ir saugumo atžvilgiu Vilniui dar pirmutinį Kazimiero valdymo periodą dažni Lietuvos didikų suvažiavimai ir pa­ sitarimai Vilniuje, užsienio pasiuntinių sambūriai ir su jais sudaromos sutartys suteikė miestui iškilmingumo ir.'
+  teiginys: 'Kazimiero valdymo laikotarpiu Vilniuje vyko dažni Lietuvos didikų suvažiavimai, pasitarimai, užsienio pasiuntinių priėmimai ir sutarčių sudarymai.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Daug jų vyko pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­ mų, veikusių iki Lietuvos Statuto, paskelbimu visai valsty­ bei36.'
+  teiginys: '1464 m. Vilniuje vykęs seimas buvo įsimintinas visai valstybei paskelbtais įstatymais, galiojusiais iki Lietuvos Statuto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1464 m. Vilniuje vykęs seimas buvo įsimintinas visai valstybei paskelbtais įstatymais, galiojusiais iki Lietuvos Statuto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daug jų vyko
@@ -79,6 +80,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Kazimiero valdymo laikotarpiu Vilniuje vyko dažni Lietuvos didikų suvažiavimai, pasitarimai, užsienio pasiuntinių priėmimai ir sutarčių sudarymai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Onos bažnyčios staty­
@@ -110,4 +112,5 @@ Nenurodyta
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/statutas]]
 - [[objektai/grupes/Lietuvos didikai]]

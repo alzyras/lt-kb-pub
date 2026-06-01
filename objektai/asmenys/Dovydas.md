@@ -21,18 +21,14 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Et nihilominus opido quodam munito Dobryn vulgariter dicto expugnato et in favillam prorsus redacto multis inibi christifidelibus fer­ ro peremptis decem millia et utra homi­ num utriusque sexus secum abegit si­ militer et deduxit [Kai bedievis vadas Dovydas.'
+  teiginys: 'Dovydas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę ir ją nusiaubė prieš pat minėtas paliaubas.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dovydas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę ir ją nusiaubė prieš pat minėtas paliaubas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Viename dokumen­
@@ -63,7 +59,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas.'
+  santrauka: 'Dovydas mokė savo kariuomenės vadą Joabą nenusiminti dėl saviškių mirties ir padrąsinti kovotojus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     19. Apie Baigos pilį
@@ -81,8 +77,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -96,4 +90,5 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - [[objektai/asmenys/Maukoldas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Vidas, pramintas Vilku]]
+- [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]
 - [[objektai/posakiai/Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot]]

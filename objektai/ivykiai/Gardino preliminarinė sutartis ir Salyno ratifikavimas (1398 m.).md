@@ -47,7 +47,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­ mune).'
+  teiginys: '1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune.'
   pagrindžia:
     - c-002
 
@@ -76,6 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iškilmingas tos sutarties ratifikavimas (patvir­

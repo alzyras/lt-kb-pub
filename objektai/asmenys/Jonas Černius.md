@@ -25,7 +25,7 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Černius (dešinėje).'
+  teiginys: '1938 m. manevruose generolas Jonas Černius buvo fotografijoje šalia kariuomenės vado Stasio Raštikio.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
     - t-002
 
 - c-002
+  santrauka: '1938 m. manevruose generolas Jonas Černius buvo fotografijoje šalia kariuomenės vado Stasio Raštikio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pastaroji

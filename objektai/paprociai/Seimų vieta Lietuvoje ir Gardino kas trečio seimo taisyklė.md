@@ -42,36 +42,37 @@ Nenurodyta
 - t-001
   teiginys: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
   pagrindžia:
-    - c-005
-
-- t-002
-  teiginys: 'reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa- sienyje.'
-  pagrindžia:
     - c-003
 
-- t-003
-  teiginys: 'Naudodamiesi sunkia Len- kijos būkle, Lietuvos atstovai 1673 m. seime išreika- lavo iš lenkų priimti įstatymą, kad kas trečias seimas, kurio maršalka esti lietuvis, būtų šaukiamas Lietuvoje (Gardine).'
+- t-002
+  teiginys: 'Buvo reikalaujama, kad seimai būtų šaukiami Lietuvoje arba bent pasienyje.'
   pagrindžia:
-    - c-006
+    - c-002
+
+- t-003
+  teiginys: 'Lietuvos atstovai 1673 m. seime išreikalavo įstatymą, kad kas trečias seimas su lietuviu maršalka būtų šaukiamas Gardine.'
+  pagrindžia:
+    - c-004
 
 - t-004
-  teiginys: 'Tuo būdu priimtas įstatymas, kad kas trečias sei- mas turi būti šaukiamas Lietuvoje, buvo vykdomas iki pat Respublikos galo.'
+  teiginys: 'Įstatymas, kad kas trečias seimas būtų šaukiamas Lietuvoje, buvo vykdomas iki Respublikos pabaigos.'
   pagrindžia:
     - c-001
 
 - t-005
-  teiginys: 'Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad kas trečias seimas, kurio maršalka esti lietuvis, rink- tųsi Lietuvoje —.'
+  teiginys: '1673 m. pakeistas seimų vietos įstatymas nustatė, kad kas trečias seimas su lietuviu maršalka rinktųsi Gardine.'
   pagrindžia:
     - c-002
 
 - t-006
   teiginys: 'Be to, tas pats įstatymas pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo Lietuvoje.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Įstatymas, kad kas trečias seimas būtų šaukiamas Lietuvoje, buvo vykdomas iki Respublikos pabaigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu priimtas įstatymas, kad kas trečias sei-
@@ -86,6 +87,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: '1673 m. pakeistas seimų vietos įstatymas nustatė, kad kas trečias seimas su lietuviu maršalka rinktųsi Gardine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa-
@@ -101,42 +103,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa-
-    sienyje. Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš
-    įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas
-    ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad
-    kas trečias seimas, kurio maršalka esti lietuvis, rink-
-    tųsi Lietuvoje — Gardine. Be to, tas pats įstatymas
-    pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo
-    Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa-
-    sienyje. Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš
-    įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas
-    ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad
-    kas trečias seimas, kurio maršalka esti lietuvis, rink-
-    tųsi Lietuvoje — Gardine. Be to, tas pats įstatymas
-    pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo
-    Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
 
-- c-005
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Seimų vieta.** Liublino seimas seimų vieta paskyrė Varšuvą
@@ -147,7 +117,8 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-006
+- c-004
+  santrauka: 'Lietuvos atstovai 1673 m. seime išreikalavo įstatymą, kad kas trečias seimas su lietuviu maršalka būtų šaukiamas Gardine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Bendrieji seimai Lietuvoje.** Naudodamiesi sunkia Len-

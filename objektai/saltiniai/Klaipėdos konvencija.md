@@ -32,29 +32,16 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
 - t-001
   teiginys: 'Vasario 16 d. Santarvės šalių atstovai po ilgų derybų pripažino Klaipėdos kraštą Lietuvai.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1939 m.
-    pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
-    (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipė-
-    dai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Vasario 16 d. Santarvės šalių atstovai po ilgų derybų pripažino Klaipėdos kraštą Lietuvai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -71,7 +58,7 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investici-
@@ -84,3 +71,4 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   statusas: verified
   pagrindžia:
     - t-002
+    - t-001

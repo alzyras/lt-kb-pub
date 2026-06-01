@@ -48,7 +48,6 @@ Nenurodyta
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Aukaimio valsčiaus nusiaubimą Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių ir tūkstančiu penkiais šimtais vyrų išjojo537 link Junigedos pilies.'
   pagrindžia:
-    - c-003
     - c-002
 
 ## Reikšmingi paminėjimai
@@ -89,32 +88,9 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    247 (240). Apie Aukaimio valsčiaus nusiaubimą
-
-       Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis
-    Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių  ir tūkstančiu penkiais
-    šimtais vyrų išjojo537 link Junigedos pilies; surengę pasalas, Ragainės broliai su savo
-    ginklanešiais iškėlė vėliavą ir patraukė prie šios pilies, o joje tuo metu buvo daug svečių,
-    kurie, smarkiai įniršę dėl šio žygio, pasileido ginkluoti jų persekioti; broliai būtų juos
-    tikriausiai smarkiai sumušę, jeigu nebūtų per anksti išpuolę iš pasalų. Po to broliai,
-    pasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi
-    nusprendė, kad, šiaip ar taip, nedera tuščiomis rankomis grįžti namo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
-- [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/ginklanešiai]]
-- [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo]]
 - [[objektai/zodynas/vėliava]]
-- [[objektai/asmenys/Henrikas Cutsvertas]]
-- [[objektai/grupes/Lietuviai]]

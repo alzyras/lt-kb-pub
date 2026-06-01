@@ -23,13 +23,14 @@ Dusburgietis teigia, kad zajączkowski S.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad zajączkowski S.'
+  teiginys: 'S. Zajączkowskio straipsnis „Wilhelm de Machaut i iego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbtas 1929 m. „Kwartalnik historyczny“ leidinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Zajączkowskio straipsnis „Wilhelm de Machaut i iego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbtas 1929 m. „Kwartalnik historyczny“ leidinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Zajączkowski S. Wilhelm de Machaut i iego wiadomości do dziejów Polski i Litwy w XIV

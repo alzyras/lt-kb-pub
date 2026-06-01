@@ -20,18 +20,19 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kad įtiktų apgailėtinai politikai ir kad būtų suimtas bei įbaugintas Mendli Girėjus, nelaimingasis Šach Achmedas buvo iki gyvos galvos įkalintas Kauno ka­ lėjime.'
+  teiginys: 'Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Šach Ach­ medas, apleistas sąjungininko, Mendli Girėjaus sumuštas, 43 Žinome, kad Maskvoje iki šiol dar išlikęs priežodis: Kto w Wilnie nie by­ wał, tot czudes nie widał [Kas Vilniuje nebuvo, tas stebuklų neregėjo].'
+  teiginys: 'Mendli Girėjus sumušė sąjungininko apleistą Šach Achmedą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aplink
@@ -51,6 +52,7 @@ tags:
     - t-001
 
 - c-002
+  santrauka: 'Mendli Girėjus sumušė sąjungininko apleistą Šach Achmedą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šach Ach­

@@ -27,12 +27,12 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - t-001
   teiginys: 'Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais patraukė su šimtine brolių bei maldininkų žygin ir, apiplėšęs Pagudės žemę, pasuko namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo, pasisuko.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
   pagrindžia:
-    - c-005
+    - c-002
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo (III, 192).'
@@ -47,12 +47,12 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - t-005
   teiginys: 'Dusburgietis teigia, kad apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie Pagudės kilmingieji, tiesa, vos.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-007
   teiginys: 'Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.'
@@ -60,9 +60,9 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     - c-002
 
 - t-008
-  teiginys: 'Dusburgietis teigia, kad prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę. Kartais kaip rytų riba nurodoma labiau į vakarus esanti Pasarės (Pasargės, dab. Paslenkos) upė (GAO, p.'
+  teiginys: 'Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-009
   teiginys: 'Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu Drūzo (Elbingo) uostu.'
@@ -104,6 +104,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   statusas: verified
   pagrindžia:
     - t-007
+    - t-002
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -142,23 +143,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
-    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
-    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
-    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
-    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
-    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
-    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
-    išaugo miestas242.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-006
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
     artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
     vientisumas.
@@ -173,7 +157,8 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindžia:
     - t-006
 
-- c-007
+- c-006
+  santrauka: 'Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsų žemė į šiaurės rytus nuo
@@ -186,7 +171,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindžia:
     - t-008
 
-- c-008
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     168 (163). Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
@@ -207,7 +192,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindžia:
     - t-005
 
-- c-009
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais

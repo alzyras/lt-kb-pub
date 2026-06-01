@@ -40,7 +40,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-002
   teiginys: 'Vosylius III su Glinskiu artinosi prie Smolensko, laikyto svarbiausiu Dniepro aukštupį saugančiu strateginiu punktu.'
   pagrindžia:
-    - c-024
+    - c-021
 
 - t-003
   teiginys: 'Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.'
@@ -48,29 +48,29 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-007
 
 - t-004
-  teiginys: 'Vis dėlto Jaunutis išsigelbėjo pabėgda­ mas kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių chaną ieškojo prieglobsčio16 .'
+  teiginys: '1345 m. Jaunutis, pabėgęs nuo Kęstučio puolimo Vilniuje, prieglobsčio ieškojo Smolenske.'
   pagrindžia:
     - c-010
 
 - t-005
   teiginys: 'Caras jo pasiuntinius priėmė labai nemandagiai, pyko, kam karalius nepripažįstąs jam Polocko, Smolensko ir Livonijos kunigaikščio titulų, o tuos titulus patsai vartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu (jau nuo seno buvo toks paprotys.'
   pagrindžia:
-    - c-031
+    - c-014
 
 - t-006
   teiginys: 'Sustojęs prie Smolensko, vesdamas derybas su smolenskiečiais, jį užėmė, pasodino ten savo vietininką kunigaikštį Jomantą.'
   pagrindžia:
-    - c-038
+    - c-012
 
 - t-007
-  teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­ rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pibuvo prisistatęs Vytautui stovyklo­ je prie Smolensko su bajorais ir, Vy­ tautui tą miestą užėmus, priėmė iš šio monarcho jam skirtą valdą -.'
+  teiginys: 'Vytautas buvo įsirengęs stovyklą prie Smolensko ir vėliau užėmė šį miestą.'
   pagrindžia:
-    - c-018
+    - c-017
 
 - t-008
   teiginys: 'Jaunutis po pabėgimo ieškojo prieglobsčio Smolenske.'
   pagrindžia:
-    - c-025
+    - c-010
 
 - t-009
   teiginys: '1512 m. prasidėjus karui, visos Maskvos jėgos buvo nukreiptos į Smolenską.'
@@ -80,22 +80,22 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-010
   teiginys: 'Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis Vytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs Smolenską ir pasiekęs Juodąją jūrą.'
   pagrindžia:
-    - c-028
+    - c-023
 
 - t-011
-  teiginys: 'Nors Smolenskas ir visa pietų Rusija jam priklausė, bet jis dabar siekė dar toliau — sumušti totorius, kas jam plačiai ati­ darytų vartus į plačiuosius ir tolimuosius Rytus, kad nebūtų jie pavojingi jo galybei.'
+  teiginys: 'Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.'
   pagrindžia:
-    - c-020
+    - c-009
 
 - t-012
   teiginys: 'Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.'
   pagrindžia:
-    - c-027
+    - c-013
 
 - t-013
-  teiginys: 'Per dvi savaiti Vytau­ tas vaišino savo dukterį Zofiją su vaikais Smolenske.'
+  teiginys: 'Vytautas dvi savaites Smolenske vaišino savo dukterį Zofiją su vaikais.'
   pagrindžia:
-    - c-016
+    - c-015
 
 - t-014
   teiginys: 'Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską.'
@@ -105,12 +105,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-015
   teiginys: 'Rusioje Lietuvos pajėgos 1239 m. veikė Smolenske, taip pat prie Pskovo (ties Kameniu), 1240 m. Didžiojo Naugardo valdose iki Lugos (į šiaurės vakarus nuo Naugardo).'
   pagrindžia:
-    - c-035
+    - c-026
 
 - t-016
   teiginys: 'Po Liublino unijos Lietuva kartu su Lenkija vėliau atsiėmė Smolenską.'
   pagrindžia:
-    - c-015
+    - c-011
 
 - t-017
   teiginys: 'Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose.'
@@ -120,27 +120,27 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-018
   teiginys: 'Smolenskas buvo vienas iš miestų, iš kurių susidarė atskiros kunigaikštijos.'
   pagrindžia:
-    - c-026
+    - c-022
 
 - t-019
   teiginys: 'Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
   pagrindžia:
-    - c-033
+    - c-025
 
 - t-020
   teiginys: 'Smolenskui teko duoti privilegiją, garantuojančią jam dalį savarankiškumo.'
   pagrindžia:
-    - c-029
+    - c-024
 
 - t-021
   teiginys: 'Vytautui vykstant pro Smolenską iki Kijevo, tų kraštų kunigaikščiai reiškė jam paklusnumą.'
   pagrindžia:
-    - c-036
+    - c-008
 
 - t-022
   teiginys: 'Kartu su Glinskiu jis apgulė daugelį Lietuvos miestų ir artinosi prie svarbiausiojo strateginio punkto, saugančio Dniepro aukštupį, — prie Smolensko.'
   pagrindžia:
-    - c-030
+    - c-021
 
 - t-023
   teiginys: 'Zigmanto Vazos laikais, Maskvoje vykstant didžiajai suirutei, Smolenskas buvo atgautas.'
@@ -155,17 +155,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-025
   teiginys: 'Smolenskas buvo paliktas Maskvai; jis grįžo Lietuvai tik maždaug po 100 metų (t.'
   pagrindžia:
-    - c-017
+    - c-016
 
 - t-026
-  teiginys: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  teiginys: '1411 metų pavasarį Vytautas su Jogaila keliavo pro Smolenską, o tų kraštų kunigaikščiai reiškė paklusnumą.'
   pagrindžia:
     - c-008
-
-- t-027
-  teiginys: 'Vytautas dvi savaites Smolenske vaišino savo dukterį Zofiją su vaikais.'
-  pagrindžia:
-    - c-004
 
 - t-028
   teiginys: 'Tiesa, Lietuva jau kartu su Lenkija po Liublino unijos Livonijos karą laimi ir atsiima Polocką, o dar vėliau pavyks atsiimti ir Smolenską, ir net užimti Maskvą.'
@@ -185,22 +180,22 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-031
   teiginys: '1522 m. paliaubomis Smolenskas buvo paliktas Maskvai ir Lietuvai grįžo tik 1611 m.'
   pagrindžia:
-    - c-034
+    - c-016
 
 - t-032
   teiginys: 'Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.'
   pagrindžia:
-    - c-022
+    - c-020
 
 - t-033
-  teiginys: 'Lietuva tuo laiku duoklę mokėjo Polocko kunigaikščiams, o valdoma savo etmonų, o Lietuvos miestai jau buvo valdomi Kijevo ku­ nigaikščių: vieni - Černigovo, kiti - Smolensko, kiti - Polocko.'
+  teiginys: 'Pasak cituojamo metraščio, dalį Lietuvos miestų valdė Smolensko kunigaikščiai.'
   pagrindžia:
-    - c-037
+    - c-018
 
 - t-034
   teiginys: 'Kai kurie Lietuvos miestai tuo laiku buvo valdomi Smolensko kunigaikščių.'
   pagrindžia:
-    - c-019
+    - c-018
 
 - t-035
   teiginys: 'Vytautas greit užvaldė Smolenską (1404.VI.27) ir jame vėl paskyrė savo vietininką^48.'
@@ -210,12 +205,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-036
   teiginys: 'Kojelavičius ir Stryjkovskis klydo teigdami, kad Švitrigaila pabėgo į Smolenską, o ne į Polocką.'
   pagrindžia:
-    - c-021
+    - c-019
 
 - t-037
   teiginys: 'Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.'
   pagrindžia:
-    - c-039
+    - c-020
 
 ## Reikšmingi paminėjimai
 
@@ -328,6 +323,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-003
 
 - c-008
+  santrauka: '1411 metų pavasarį Vytautas su Jogaila keliavo pro Smolenską, o tų kraštų kunigaikščiai reiškė paklusnumą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tos žinios kėlė Vytauto
@@ -344,6 +340,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-026
+    - t-021
 
 - c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -362,8 +359,10 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-017
+    - t-011
 
 - c-010
+  santrauka: '1345 m. Jaunutis, pabėgęs nuo Kęstučio puolimo Vilniuje, prieglobsčio ieškojo Smolenske.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kęstutis iš Trakų, savo
@@ -381,6 +380,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-004
+    - t-008
 
 - c-011
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -398,6 +398,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-028
+    - t-016
 
 - c-012
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -417,6 +418,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-001
+    - t-006
 
 - c-013
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -431,6 +433,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-024
+    - t-012
 
 - c-014
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -447,25 +450,10 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-029
+    - t-005
 
 - c-015
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Juk jau 1562-1582 m.
-    kare su Maskva dėl Livonijos Rusija užima Polocką, o iš Polocko
-    auksas (iš kurio gerokai vėliau pagaminta Rusijos caro Petro I
-    dovana Saksonijos ir LLv valdovui Augustui 11) yra pirmasis do-
-    kumentiškai fiksuotas LDK paveldo išvežimas. Tiesa, Lietuva jau
-    kartu su Lenkija po Liublino unijos Livonijos karą laimi ir atsiima
-    Polocką, o dar vėliau pavyks atsiimti ir Smolenską, ir net užimti
-    Maskvą. Taigi, xvi a. dar turime laikyti pergalingu, o xvii a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-016
+  santrauka: 'Vytautas dvi savaites Smolenske vaišino savo dukterį Zofiją su vaikais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kad laimėjimas būtų tikresnis, no­
@@ -482,7 +470,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-013
 
-- c-017
+- c-016
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Laimėjimas buvo didžiausias, Maskvos jėgos buvo
@@ -496,8 +484,10 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-025
+    - t-031
 
-- c-018
+- c-017
+  santrauka: 'Vytautas buvo įsirengęs stovyklą prie Smolensko ir vėliau užėmė šį miestą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia slėpdavo­
@@ -517,7 +507,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-007
 
-- c-019
+- c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Otcem
@@ -547,26 +537,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-034
+    - t-033
 
-- c-020
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl rūpinosi grei­
-    čiau apsisaugoti taika iš vakarų.
-    Nors Smolenskas ir visa pietų Rusija jam priklausė, bet jis
-    dabar siekė dar toliau — sumušti totorius, kas jam plačiai ati­
-    darytų vartus į plačiuosius ir tolimuosius Rytus, kad nebūtų
-    jie pavojingi jo galybei. Mintis nugalėti tautą, prieš kurią dre­
-    ba Azija ir Europa, praskinti sau kelią į tolimas ir lietuviams
-    dar nežinomas rytų šalis ir nugalėti nenugalimą Tamerlaną,—
-    štai kas Vytautą ragino veikti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-021
+- c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Antrasis laiškas
@@ -598,7 +571,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-036
 
-- c-022
+- c-020
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip sąmokslas buvo
@@ -616,22 +589,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-032
+    - t-037
 
-- c-023
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl
-    jis pradėjo su caru derybas. Caras jo pasiuntinius priėmė labai
-    nemandagiai, pyko, kam karalius nepripažįstąs jam Polocko,
-    Smolensko ir Livonijos kunigaikščio titulų, o tuos titulus patsai
-    vartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu (jau
-    nuo seno buvo toks paprotys, kad valdovai vienas kitą vadin-
-    davo broliu; tačiau caras, pykdamas ant Stp.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-024
+- c-021
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Pirmasis karas su Maskva (1507—8 m.).** Tuo pat metu
@@ -645,27 +605,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-002
+    - t-022
 
-- c-025
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kęstutis iš Trakų, savo
-    valdos sostinės, turėjęs geriausių galimybių stebėti visus
-    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
-    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
-    nigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­
-    mas kartu su jam palankiu broliu Narimantu, Pinsko
-    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
-    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
-    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
-    dymą, kaip ir patį miestą, perleido į Algirdo rankas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-026
+- c-022
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kurį laiką Padauguvio giminės net mo-
@@ -679,21 +621,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-018
 
-- c-027
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    J. K. Chodkevičiui buvo pavesta vadovauti
-    Maskvoje apsuptos lenkų ir lietuvių įgulos debloka-
-    vimui, tačiau ši, nesulaukusi pagalbos, kapituliavo.
-    1615-1616 m. J. K. Chodkevičius kovojo su Maskvos
-    kariuomene gindamas Smolenską.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-028
+- c-023
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis
@@ -706,7 +634,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-010
 
-- c-029
+- c-024
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     179 psl.),
@@ -720,50 +648,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-020
 
-- c-030
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Pirmasis karas su Maskva (1507—8 m.).** Tuo pat metu
-    betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius
-    III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų. Kar-
-    tu su Glinskiu jis apgulė daugelį Lietuvos miestų ir artinosi prie
-    svarbiausiojo strateginio punkto, saugančio Dniepro aukštupį,
-    — prie Smolensko.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-022
-
-- c-031
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl
-    jis pradėjo su caru derybas. Caras jo pasiuntinius priėmė labai
-    nemandagiai, pyko, kam karalius nepripažįstąs jam Polocko,
-    Smolensko ir Livonijos kunigaikščio titulų, o tuos titulus patsai
-    vartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu (jau
-    nuo seno buvo toks paprotys, kad valdovai vienas kitą vadin-
-    davo broliu; tačiau caras, pykdamas ant Stp.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-032
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kurį laiką Padauguvio giminės net mo-
-    kėjo jam duoklę — buvo pripažinusios jo valdžią. Bet jau XII
-    amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
-    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
-    nigaikštijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-033
+- c-025
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Besirūpinant karaliaus karūna apleisti karo reikalai
@@ -776,22 +661,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-019
 
-- c-034
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Laimėjimas buvo didžiausias, Maskvos jėgos buvo
-    sunaikintos, tačiau lietuviams jau nebepasisekė atsiimti Smolens-
-    ko tvirtovės, nors karas po to dar truko 8 metus. Pagaliau
-    1522 m. buvo padarytos 11 m. paliaubos. Smolenskas buvo
-    paliktas Maskvai; jis grįžo Lietuvai tik maždaug po 100 metų
-    (t. y. 1611 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-031
-
-- c-035
+- c-026
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rusioje Lietuvos
@@ -810,89 +680,3 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-015
-
-- c-036
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tos žinios kėlė Vytauto
-    garbę, aukštino jį vietinių gyventojų akyse. Ir kada Vytautas,
-    norėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­
-    galės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­
-    sarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­
-    lionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,
-    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
-    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
-    klusnumą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-021
-
-- c-037
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Otcem
-    że jeho mnoho łaskasze i mukami pre-
-    tiasze, o że nikako łaskania i słuszasze,
-    ni preszczenja bojaszesia i zyviasze w
-    monastyri i sławia Swiatuju Troycu Ot­
-    ca i Syna i Swiatoho Ducha - ir t. t.
-    [Lietuvos valdovų pradžia - į Poloc­
-    ko kunigaikščius, j Rogvoldo vietą
-    atėjo didysis Mstislavas Vladimiro-
-    vičius ir užėmė Polocką, o Rogvol-
-    dovičiai išbėgo į Cargradą [Konstan­
-    tinopolį]. Lietuva tuo laiku duoklę
-    mokėjo Polocko kunigaikščiams, o
-    valdoma savo etmonų, o Lietuvos
-    miestai jau buvo valdomi Kijevo ku­
-    nigaikščių: vieni - Černigovo, kiti -
-    Smolensko, kiti - Polocko. Ir Vilnia
-    [Vilnius] buvo priverstas duoti
-    duoklę Ugrų karaliui (tikriausiai Ha­
-    ličo) už saugojimą nuo didžiojo ku­
-    nigaikščio Mstislavo Rogvoldovi-
-    čiaus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-033
-
-- c-038
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos valdovas Vytautas,
-    surinkęs didelę kariuomenę, pa-
-    skelbęs su ja einąs prieš Timūr-
-    Aksaką. Sustojęs prie Smolensko,
-    vesdamas derybas su smolenskie-
-    čiais, jį užėmė, pasodino ten savo
-    vietininką kunigaikštį Jomantą.
-    Taip Vytautas sustiprino Lietuvos
-    pozicijas saugodamasis galimos
-    grėsmės iš pietryčių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-039
-  santrauka: 'Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
-    damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
-    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
-    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
-    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
-    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
-    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
-    Zigmanto ryšiai su Lenkija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-037

@@ -23,13 +23,14 @@ Dusburgietis teigia, kad zachara-Wawrzyńczyk M.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad zachara-Wawrzyńczyk M.'
+  teiginys: 'M. Zacharos-Wawrzyńczyk straipsnis „Geneza legendy o rzymskim pochodzeniu Litwinów“ paskelbtas 1963 m. Varšuvos leidinio „Zeszyty historyczne“ 3 sąsiuvinyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Zacharos-Wawrzyńczyk straipsnis „Geneza legendy o rzymskim pochodzeniu Litwinów“ paskelbtas 1963 m. Varšuvos leidinio „Zeszyty historyczne“ 3 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Zachara-Wawrzyńczyk M. Geneza legendy o rzymskim pochodzeniu Litwinów.—

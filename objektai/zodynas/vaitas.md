@@ -25,13 +25,14 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
     - c-002
 
 - t-002
-  teiginys: 'Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į miesto reikalus, ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­ sė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus.'
+  teiginys: 'Vilniaus vaitui suteikta teisė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vaitui suteikta teisė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Privilegijose Žygimantas pareiškė, kad
@@ -142,6 +143,6 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - [[objektai/zodynas/vaitas ir tarėjai]]
 - [[objektai/zodynas/činšas]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
+- [[objektai/asmenys/Jachna Laurinavičius]]
 - [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis)]]
 - [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/zodynas/vietininkas]]

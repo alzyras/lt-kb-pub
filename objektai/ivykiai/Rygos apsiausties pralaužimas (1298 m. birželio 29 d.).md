@@ -45,7 +45,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad šie, susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio 29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę 549 Goliubo pilis prie Drevantos, į šiaurės rytus nuo Torunės (SZCh, p.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -68,27 +67,6 @@ Nenurodyta
       549 Goliubo pilis prie Drevantos,  į šiaurės rytus nuo Torunės (SZCh, p. 36), dab.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1298 viešpaties
-    metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur
-    paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei
-    plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,
-    leidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d. pajūryje prie Treiderės
-    upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
-    šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
-    1500 krikščionių. Tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė,
-    Teutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams  į pagalbą brolį
-    Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių  ir ginklanešių. Šie,
-    susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio
-    29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-001

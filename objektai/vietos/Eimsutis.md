@@ -24,18 +24,19 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis antpuolis datuojamas 1263 m, nors kai kas siūlo datuoti 1263—1272 m., tiksliau — 1269—1271 m. (Powierski J., Dobra.., p. 80—81). 444 D.— Schonense, Jer.— Schônensê; vėliau — Schönsee ir pan., dab. Kowalewo.'
+  teiginys: 'Skomantas pasuko link Eimsučio pilies ir po veržlaus antpuolio ją užėmė, nukaudamas 40 jos sargybinių.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad sutrikę dėl jo mirties, pasitraukė iki vienos pilaitės, pastaytos tarp Ragavos ir Veisikos upių451, toje vietoje, 447 D.— castrum Hemsot, Jer.— Heimsôt, dab. Pšečnas (Przeczno), per 9 km į pietvakarius nuo Kulmenzės (dab. Chelmža), tarp Torunės ir Kulmo.'
+  teiginys: 'Eimsučio pilis šaltinyje minima kaip castrum Hemsot, o jos vieta siejama su dabartine Pšečna netoli Kulmenzės.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skomantas pasuko link Eimsučio pilies ir po veržlaus antpuolio ją užėmė, nukaudamas 40 jos sargybinių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Skomantas, matydamas, jog apsigavo, pasuko
@@ -60,6 +61,7 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
     - t-001
 
 - c-002
+  santrauka: 'Eimsučio pilis šaltinyje minima kaip castrum Hemsot, o jos vieta siejama su dabartine Pšečna netoli Kulmenzės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sutrikę dėl jo mirties,

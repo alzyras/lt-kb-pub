@@ -27,34 +27,16 @@ periodo_grupes: []
 - t-001
   teiginys: 'Il, 1418- gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz Taurykū, iš pastarojo aišku, kad kunigaikštiep. 78.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: 'Šitai pa­ kartojo Naruszewicz Histor.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šitai pa­
-    kartojo Naruszewicz  Histor.
-    narod. Pols., Il, 97. ir S u r o w i e c k i
-    O upadku Miast w Pols., 1. 168.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daugiausia jų įsikūrė už
@@ -72,7 +54,7 @@ periodo_grupes: []
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pranešimas apie jos mirtį yra 74

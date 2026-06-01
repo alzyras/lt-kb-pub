@@ -86,4 +86,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/rezervai]]
-- [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]

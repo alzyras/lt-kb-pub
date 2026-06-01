@@ -27,13 +27,14 @@ Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplank
 ## Teiginiai
 
 - t-001
-  teiginys: 'Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­ tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­ tiečių kilęs švietėjas Mikalojus Akelaitis.'
+  teiginys: 'Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­

@@ -18,13 +18,14 @@ Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando sa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando saloje; šiaurėje prie Hanzos prisidėjo D.'
+  teiginys: 'Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando saloje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando saloje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nuo to tad laiko (XIII amžiaus) ir Lietuvos prekyba ėmė

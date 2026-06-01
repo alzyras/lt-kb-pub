@@ -40,22 +40,22 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - c-002
 
 - t-002
-  teiginys: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
+  teiginys: 'Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-006
 
 - t-003
-  teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
+  teiginys: 'Vilniaus katedros kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.'
   pagrindžia:
     - c-012
 
 - t-004
-  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
+  teiginys: 'Vilniaus miesto taryba ginčijo Vilniaus katedros kapitulos jurisdikciją miesto gyventojų atžvilgiu.'
   pagrindžia:
     - c-015
 
 - t-005
-  teiginys: '12 Vilniaus kapitulos archyve yra vysku­ po sutartis su Bernardu Zanobijumi, romiečiu, mūrijimo meistru, dėl Šv.'
+  teiginys: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
   pagrindžia:
     - c-010
 
@@ -75,7 +75,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - c-005
 
 - t-009
-  teiginys: 'Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­ kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­ bių.'
+  teiginys: '1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.'
   pagrindžia:
     - c-007
 
@@ -85,12 +85,12 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - c-009
 
 - t-011
-  teiginys: 'Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galima ap­ žiūrėti Vilniaus universiteto biblio­ tekoje.'
+  teiginys: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
   pagrindžia:
     - c-011
 
 - t-012
-  teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
+  teiginys: 'Vilniaus katedros kapitula galėjo naudotis bažnytine jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.'
   pagrindžia:
     - c-004
 
@@ -100,7 +100,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - c-013
 
 - t-014
-  teiginys: 'Lietuvos istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­ nomas).'
+  teiginys: 'Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.'
   pagrindžia:
     - c-001
 
@@ -112,6 +112,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos
@@ -199,6 +200,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-015
 
 - c-004
+  santrauka: 'Vilniaus katedros kapitula galėjo naudotis bažnytine jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi mes, pamatę [abiejų] pusių
@@ -246,6 +248,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-008
 
 - c-006
+  santrauka: 'Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogaila taip pat
@@ -264,6 +267,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-002
 
 - c-007
+  santrauka: '1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
@@ -330,6 +334,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-010
 
 - c-010
+  santrauka: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     287.
@@ -347,6 +352,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-005
 
 - c-011
+  santrauka: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai kurias
@@ -372,6 +378,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-011
 
 - c-012
+  santrauka: 'Vilniaus katedros kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
@@ -444,6 +451,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-006
 
 - c-015
+  santrauka: 'Vilniaus miesto taryba ginčijo Vilniaus katedros kapitulos jurisdikciją miesto gyventojų atžvilgiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skelbiame visiems, kam da­

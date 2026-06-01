@@ -30,7 +30,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 - t-003
   teiginys: 'Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-004
   teiginys: 'Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, kurie nepastebėti užėjo besirengiantiems apėjimui bolševikams į užnugarį ir netikėtai juos apmėtę granatomis bei apšaudę privertė iš Eigulių kaimo skubiai trauktis į Juodikio mišką.'
@@ -62,6 +62,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -96,30 +97,6 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    miestą, raudonarmiečiai nusprendė apeiti
-    kimą keliu Kėdainiai-Kaunas ir nutraukti
-    telefono linijas, jungiančias su Kaunu, ir
-    pulti Kėdainius iš pietų. Perpratęs rusų
-    sumanymą J. Šarauskas į Paobelių kaimą
-    pasiuntė patyrusius vyresniuosius ka-
-    rius V. Vainauską ir P. Lukšį (turėjusius
-    Pirmojo pasaulinio karo kovų patirties) su
-    8 kareiviais, kurie nepastebėti užėjo be-
-    sirengiantiems apėjimui bolševikams į
-    užnugarį ir netikėtai juos apmėtę granato-
-    mis bei apšaudę privertė iš Eigulių kaimo
-    skubiai trauktis į Juodikio mišką. Tokiu
-    būdu buvo sužlugdytas pavojingas priešo
-    sumanymas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

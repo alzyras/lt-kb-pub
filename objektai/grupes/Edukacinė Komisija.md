@@ -30,14 +30,14 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ypač negailestingos jo kritikos susilaukė jė­ zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės komisijos veikla.'
+  teiginys: 'Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukacinės komisijos veiklą.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-002
   teiginys: ', Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.'
   pagrindžia:
-    - c-005
+    - c-008
 
 - t-003
   teiginys: 'Edukacinė Komisija perėmė panaikinto jėzuitų ordino mokyklas ir ėmė rūpintis visu švietimu.'
@@ -52,17 +52,17 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-005
   teiginys: 'Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tiesiog vagia.'
   pagrindžia:
-    - c-010
+    - c-002
 
 - t-006
-  teiginys: 'Čia jis kurį laiką dirbo Edukacinėje teismo ko­ misijoje, aktyviai bendradarbiavo Vilniaus periodinėje spaudo­ je rašydamas švietėjiško - pažintinio pobūdžio straipsnius ir fel­ jetonus.'
+  teiginys: 'Vilniuje gyvenęs autorius kurį laiką dirbo Edukacinėje teismo komisijoje.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-007
   teiginys: 'Viskas sugrįžo į senąją būklę, o kai kuriais atžvilgiais valstybių atskirumas net dar padidėjo; pav., Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos.'
   pagrindžia:
-    - c-009
+    - c-008
 
 - t-008
   teiginys: 'Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija.'
@@ -72,12 +72,12 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-009
   teiginys: 'Edukacinės komisijos veikla sulaukė pagyrimo, priešingai nei XVII-XVIII a. jėzuitų ordino veikla.'
   pagrindžia:
-    - c-011
+    - c-009
 
 - t-010
   teiginys: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skaičiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio, amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-011
   teiginys: '1776 m. panaikinus komisijas, jų turtai buvo pavesti Edukacinei Komisijai.'
@@ -87,12 +87,12 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-012
   teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
   pagrindžia:
-    - c-012
+    - c-010
 
 - t-013
   teiginys: 'Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati valstybė.'
   pagrindžia:
-    - c-013
+    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -123,6 +123,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   statusas: verified
   pagrindžia:
     - t-011
+    - t-005
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -158,22 +159,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     - t-003
 
 - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Viskas sugrįžo į senąją būklę, o kai kuriais atžvil-
-    giais valstybių atskirumas net dar padidėjo; pav., Targovicos
-    konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
-    kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
-    Lietuvos ir Lenkijos komisijos.
-
-    ##### 5.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-006
+  santrauka: 'Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukacinės komisijos veiklą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didesnį dėmesį vėlesnėje istoriografi­
@@ -189,7 +175,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   pagrindžia:
     - t-001
 
-- c-007
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos provincijos švietimą
@@ -204,7 +190,8 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   pagrindžia:
     - t-010
 
-- c-008
+- c-007
+  santrauka: 'Vilniuje gyvenęs autorius kurį laiką dirbo Edukacinėje teismo komisijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jaunavedžiai
@@ -219,7 +206,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   pagrindžia:
     - t-006
 
-- c-009
+- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau
@@ -235,23 +222,9 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   statusas: verified
   pagrindžia:
     - t-007
+    - t-002
 
-- c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tiek už išnuomotus dvarus, tiek
-    už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.
-    Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro
-    biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
-    siog vagia. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
-    turtai pavesti Edukacinei Komisijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-011
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aprašydamas šios Lietuvos aukštosios mo­
@@ -266,7 +239,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   pagrindžia:
     - t-002
 
-- c-012
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
@@ -280,7 +253,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   pagrindžia:
     - t-012
 
-- c-013
+- c-011
   santrauka: 'Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

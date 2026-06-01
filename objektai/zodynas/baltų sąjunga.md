@@ -29,7 +29,7 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
 - t-001
   teiginys: 'Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje prieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių pastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -60,23 +60,6 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
     (t. y. 1209— 1210 m.)22.
   citata_rodoma: ''
   teiginio_tipas: interpretacija
-  statusas: verified
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje
-    prieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių
-    pastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t. y.
-    vienijanti ne tik lietuvių, bet ir kitų baltų žemes, priglaudžianti jau užgrobtų baltų žemių
-    gyventojus) Lietuvos valstybė, kaip šį pažangų procesą kraujyje skandino užsienio feodalų
-    agresija. Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
-    ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
-    yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
-      „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
-    (t. y. 1209— 1210 m.)22.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
     - t-001

@@ -27,13 +27,14 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos.'
+  teiginys: '1515 m. karalius leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1515 m. karalius leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     40), matyti,
@@ -66,5 +67,6 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
 - [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/posakiai/Iki gyvos galvos]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/asmenys/Žygimantas Senasis]]

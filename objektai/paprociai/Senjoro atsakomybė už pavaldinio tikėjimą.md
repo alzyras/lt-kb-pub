@@ -50,24 +50,11 @@ Nenurodyta
 - t-003
   teiginys: 'Savaip transformuota artimo meilės idėja atsispindi senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsakomybę už pavaldinio išganymą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Savaip transformuota artimo meilės idėja atsispindi
-    senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsa-
-    komybę už pavaldinio išganymą. Vadinasi, pavaldiniui nurodoma, kokį
-    tikėjimą jis turi išpažinti. Taigi feodaliniai santykiai įgijo idėjinį pagrindą,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   santrauka: 'Savaip transformuota artimo meilės idėja atsispindi senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsakomybę už pavaldinio išganymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -89,9 +76,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/senjoras]]
 - [[objektai/zodynas/žygis]]

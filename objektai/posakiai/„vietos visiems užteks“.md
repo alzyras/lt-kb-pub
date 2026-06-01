@@ -45,6 +45,5 @@ Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/zodynas/Filosemitas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

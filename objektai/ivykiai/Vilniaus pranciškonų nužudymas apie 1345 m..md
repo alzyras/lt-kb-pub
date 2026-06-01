@@ -59,9 +59,9 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
     - c-002
 
 - t-003
-  teiginys: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
+  teiginys: '1341 m. Vilniaus miestiečiai sukurstė totorius pulti pranciškonus ir kartu su jais naujame vienuolyne nukankino 36 vienuolius bei Goštautą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -111,32 +111,6 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Visos detalės apie Lietu­
-    vos pranciškonus yra šio didžiulio
-    ordino analų rinkinio septintame to­
-    me. Grzybowski  s, pranciško­
-    nas, anksčiau nurodytoje knygoje
-    (8 p.) sako, kad Goštautas pranciš­
-    konu tapęs Krokuvoje, o paskui ap­
-    sigyvenęs Vilniuje, savo įkurtame
-    vienuolyne, Vilniaus miestiečius
-    vertęs į Kristaus tikėjimą. Tačiau
-    pastarieji 1341 metais, į Vilnių atvy­
-    kus totoriams, pažadėjusiems pagal­
-    bą Algirdui kažkokiame žygyje,
-    šiuos pagonis sukurstė pulti pran­
-    ciškonus ir kartu su jais užpuolę
-    naują vienuolyną, visus 36 vienuo­
-    lius ir su jais sykiu Goštautą nukan­
-    kino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

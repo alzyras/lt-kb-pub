@@ -76,7 +76,6 @@ Nenurodyta
 - [[objektai/autoriai/M. Liubavskij]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/daiktai/Mira]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/zodynas/Notariats instrument notarinis instrumentas]]
 - [[objektai/posakiai/Omnia regna subiacent celesti regi Jesu Christo]]

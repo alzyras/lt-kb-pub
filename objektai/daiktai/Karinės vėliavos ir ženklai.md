@@ -40,23 +40,24 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­ lių, turėjo grįžti prie likusių karių.'
+  teiginys: 'Ordino riteriai puolė į mūšį nešini šv. Jurgio vėliava, bet lietuviai juos atrėmė ir privertė grįžti patyrus nuostolių.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Gynėjai iškėlė vėliavas su kryžiais, kaip ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­ vių, dar nepakrikštytų, begalė buvo Vytauto gretose, nes prie lio skundų ir ginčų tarp Jogailos ir Ordino priežastis; pastarasis smar­ kiai gynėsi.'
+  teiginys: 'Pilies gynėjai iškėlė vėliavas su kryžiais, rodydami, kad kovoja su pagonimis Vytauto gretose.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­ ko ir keturių kariuomenės ženklų53.'
+  teiginys: 'Atsitraukdamas ties Rudamina Vytautas neteko daug saviškių ir keturių kariuomenės ženklų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Atsitraukdamas ties Rudamina Vytautas neteko daug saviškių ir keturių kariuomenės ženklų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, ne­
@@ -75,6 +76,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Ordino riteriai puolė į mūšį nešini šv. Jurgio vėliava, bet lietuviai juos atrėmė ir privertė grįžti patyrus nuostolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     39
@@ -93,6 +95,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Pilies gynėjai iškėlė vėliavas su kryžiais, rodydami, kad kovoja su pagonimis Vytauto gretose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas šaunus karys, išvaręs iš tvir­

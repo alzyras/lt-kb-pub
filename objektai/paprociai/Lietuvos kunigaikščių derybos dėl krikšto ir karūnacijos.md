@@ -60,7 +60,7 @@ Nenurodyta
 - t-003
   teiginys: 'Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Nors nebus nė vieno kunigaikščio, kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą nuo krikščionybės.'
@@ -174,24 +174,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    PAGONIŲ VALSTYBĖ.
-    LIETUVOS KRIKŠTAS
-    P
-    o Mindaugo nebuvo nė vieno Lietuvos valdovo, kuris
-    nebūtų vedęs derybų dėl krikšto, o kartu dėl karūnaci-
-    jos – tai lėmė karas su Vokiečių ordinais (XIII a. pabaigoje jau ir Vokiečių
-    ordinas, nukariavęs prūsus, pradėjo agresiją prieš Lietuvą). Suvokę, kad
-    būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
-    ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas
-    krikštas nebūtų išsprendęs ordinų agresijos problemos).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

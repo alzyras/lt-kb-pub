@@ -23,12 +23,12 @@ atnaujinta: ''
 - t-001
   teiginys: '„Descriptive Ethnology“ minima kaip britų mokslininko Robert Gordon Latham veikalas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Leidinyje prie „Descriptive Ethnology“ pateikta lietuviška pavadinimo forma „Aprašomoji etnologija“.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“ („Aprašomoji etnologija“).'
@@ -96,28 +96,5 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Į v a d a s
-    LIETUVA –
-    VIDURIO EUROPOS DALIS
-    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
-    didesnis, negu su bet kuria kita kalba šioje žemėje“
-    Iš britų mokslininko Robert Gordon Latham
-    „Descriptive Ethnology“ („Aprašomoji etnologija“)
-    Geografinis Europos centras?
-    Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
-    tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
-    Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta
-    Lietuvoje, kurioje ir yra geografinis Europos centras. Visai neseniai Pran-
-    cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
-    gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
-    25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
     - t-002

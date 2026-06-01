@@ -29,48 +29,36 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-001
   teiginys: 'Dusburgietis teigia, kad „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas, o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą, apie.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad 166 Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-005
   teiginys: 'Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
   pagrindžia:
-    - c-001
+    - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis
-    ir joanitai (XII a. pabaigoje —Regesta historico-diplomatica Ordinis..., Nr. 2), taip pat
-    riterių ordinas iš Kalatravos (Ispanija; Szacherska S. M., Opactwo..., p. 31—35).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Pranešime...“ kalbama apie pagonių brovimąsi  į Mazovijos kunigaikščio
@@ -83,7 +71,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
@@ -99,7 +87,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
@@ -113,7 +101,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   pagrindžia:
     - t-005
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
@@ -133,7 +121,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   pagrindžia:
     - t-004
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
@@ -170,6 +158,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   statusas: verified
   pagrindžia:
     - t-003
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
@@ -193,4 +182,3 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
 - [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]
-- [[objektai/autoriai/Szacherska S. M]]

@@ -29,34 +29,21 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
 - t-001
   teiginys: '1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Apie 1937 m. giminės iš abiejų pusių susitikdavo prie administracinės linijos, nes keliai tarp Lietuvos ir Lenkijos buvo uždaryti.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vokiečių ir lenkų mažumos darė žygių gauti tautinę
-    autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.
-    Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės
-    iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef
@@ -71,7 +58,7 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokiečių ir lenkų mažumos darė žygių gauti tautinę
@@ -91,6 +78,7 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
   statusas: verified
   pagrindžia:
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

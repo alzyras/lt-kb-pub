@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau per tą laisvai iš­ pažįstamų religijų įvairovę, palūžusios pagonybės akivaizdoje kildavo didelių piktumų tarp skirtingą tikėjimą išpažįstančiųjų ir jų dvasininkų.'
+  teiginys: 'Algirdo Vilniuje laisvai išpažįstamų religijų įvairovė kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdo Vilniuje laisvai išpažįstamų religijų įvairovė kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojaus, ten, kur ji yra ir dabar18; o palei Žemutinę
@@ -72,3 +73,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

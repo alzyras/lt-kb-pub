@@ -62,7 +62,7 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 - t-002
   teiginys: '1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -81,21 +81,6 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lyginant įvairius laiko tekstus, kur vengrų
-    kanceliarijoje buvo vartojamas terminas «applicare», išryškėjo,
-    kad tas žodis tereiškė tapimą lenininku.
-    1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą
-    leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos. Lietu­
-    voje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir
-    pati didžiojo kunigaikščio institucija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

@@ -45,7 +45,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Aleksandras]]
-- [[objektai/posakiai/Antemurale Christianitatis]]
 - [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]
 - [[objektai/paprociai/Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas]]
 - [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]

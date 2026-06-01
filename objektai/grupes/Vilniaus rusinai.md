@@ -20,13 +20,14 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
 ## Teiginiai
 
 - t-001
-  teiginys: 'Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­ darę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­ tautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų 80 Miesto archyve tų privilegijų nėra.'
+  teiginys: 'Didesnę Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didesnę Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiaip ar taip,
@@ -60,6 +61,5 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
 ### Susiję objektai
 - [[objektai/grupes/Graikai]]
 - [[objektai/zodynas/čiornai čiornyje liūdi]]
-- [[objektai/paprociai/Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas]]
 - [[objektai/zodynas/miestiečių luomas]]
 - [[objektai/zodynas/schizmatikai graikų apeigų tikėjimas]]

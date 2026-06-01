@@ -27,13 +27,14 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO, p. 69), Koelmsee (Sch-K, XVI), Kölmsee, Kolm (Leyding G.'
+  teiginys: 'G. Leydingas pateikė Kölmsee ir Kolm formas ežero vardui Osos aukštupyje apibūdinti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'G. Leydingas pateikė Kölmsee ir Kolm formas ežero vardui Osos aukštupyje apibūdinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šį hidronimą, kildinamą iš le. Chełm ir vok. See, lyginame su 1401 m. dokumentų

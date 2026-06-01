@@ -42,7 +42,6 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies užpuolimą 1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas, magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais pėstininkų.'
   pagrindžia:
-    - c-003
     - c-002
 
 - t-002
@@ -72,20 +71,6 @@ Nenurodyta
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
-    magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais
-    pėstininkų. Pilyje buvo [jos] vadas Surminas, o su juo 120 karingų vyrų, kurie narsiai
-    priešinosi broliams. Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
-    nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
     Apie Kolainių pilies užpuolimą
 
       1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
@@ -98,21 +83,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie Kolainių pilies užpuolimą 1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas, magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais pėstininkų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    238 (231). Apie Kolainių pilies užpuolimą
-
-      1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
-    magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais
-    pėstininkų. Pilyje buvo [jos] vadas Surminas, o su juo 120 karingų vyrų, kurie narsiai
-    priešinosi broliams.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

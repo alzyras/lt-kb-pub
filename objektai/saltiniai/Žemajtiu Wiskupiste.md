@@ -25,13 +25,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '= Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­ nius, 1848.'
+  teiginys: 'Motiejaus K. Wołonczewskio „Żemajtiu Wiskupiste“ buvo išleista Vilniuje 1848 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Motiejaus K. Wołonczewskio „Żemajtiu Wiskupiste“ buvo išleista Vilniuje 1848 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1827—1834.

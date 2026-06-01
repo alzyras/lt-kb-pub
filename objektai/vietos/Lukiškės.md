@@ -27,64 +27,19 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio.'
-  pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Balinskis Lukiškių pavadinimą kildino iš lietuviškų žodžių „laukas“ ir „kišas“.'
+  teiginys: 'Ankstyvojo Vilniaus aprašyme Lukiškėse šventų girių kryptimi buvo išsibarsčiusios vienišos trobos.'
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Jo dvaras Lukiškėse, prie Vilijos, nuo renkasi į savo sueigas Lukiškėse, Jo Didenybės Vilniaus vaivados Mika­ lojaus Radvilos rūmuose; nutaria (savo susirinkime 1557 m. spalio 11 d.) įspėti Vilniaus vyskupą, kaip Ga­ nytoją, kad pakankamai veiktų pa­ gal savo.'
+- t-002
+  teiginys: 'Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 m. tapo reformos šalininkų prieglobsčiu ir mokykla.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Balinskis Lukiškių pavadinimą kildino iš lietuviškų žodžių „laukas“ ir „kišas“.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    5
-    Lukiškės pavadintos nuo lietuviškų
-    žodžių laukas ir kišas, kadangi Lukiš­
-    kės yra prie Vilijos upės, tad ta vie-
-    108
-
-    ## Puslapis 125
-
-    Il KNYGA
-    Iš Kreivosios pilies vedė dar du pagrindiniai keliai: vie­
-    nas - vakarų link, į Trakų pilį, palei kurį smėlingoj žemėj
-    stovėjo nedidelė medinė bažnyčia ir pranciškonų vienuoly­
-    nas, buvę Goštauto rūmai, o kitas ėjo pietų linkui, už rusų
-    vienuolyno šakojosi į tris siauresnius: į pilis - Garteno, arba
-    Gardino, Lydos ir Medininkų. Dar kitas vieškelis per Vil­
-    nios upę, prie bendro naudojimo malūno (dabar vadinamo
-    Vyskupo), iš miesto suko į Polocką. Jau trys krikščionių baž­
-    nyčios, nors neiškilios ir varganos, pagoniškų Vilniaus
-    šventyklų apsuptyje skleidė palaimingą tikėjimo šviesą; bū­
-    tent - Švento Mikalojaus bažnytėlė, rusų cerkvė, dabar ba­
-    zilijonų bažnyčia, ir pranciškonų bažnyčia, mūsų jau minė­
-    ta. Dviejų kitų bažnyčių griuvėsiai - Šv. Kryžiaus ir
-    dominikonų ordino brolių, Algirdo laikais sugriautų, tebu­
-    vo išlikęs Gedimino, geranoriško krikščionybės atžvilgiu,
-    atminimas. Gausu buvo pagonių šventyklų, nes, be tų, ku­
-    rias pilies teritorijoje buvus patyrėme, viena šventa vietovė
-    buvo ant tos kalvos, kur dabar stovi Šv. Jono bažnyčia, o Ant­
-    akalnyje, kaip tik ten, kur dabar Šv. Petro bažnyčia, buvo iš­
-    kilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.
-    tovė Laukai-kišas-upys, vėliau išvir­
-    to į Lukiškes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Ankstyvojo Vilniaus aprašyme Lukiškėse šventų girių kryptimi buvo išsibarsčiusios vienišos trobos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia buvo pats miesto centras - ten,
@@ -103,7 +58,8 @@ amziai:
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
+  santrauka: 'Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 m. tapo reformos šalininkų prieglobsčiu ir mokykla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Viklifo sekėjas buvo ekskomuni­
@@ -151,4 +107,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

@@ -20,18 +20,19 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.'
+  teiginys: '1582 m. Vilniuje klierikų seminarijos mokymas ir valdymas buvo patikėti Vilniaus Jėzaus draugijos kolegijai.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
+  teiginys: 'Vilniaus seminarijai prašyta karaliaus Stepono globos ir gynybos, kad ji galėtų nuolat gyvuoti ir klestėti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus seminarijai prašyta karaliaus Stepono globos ir gynybos, kad ji galėtų nuolat gyvuoti ir klestėti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kadangi no­
@@ -58,6 +59,7 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
     - t-002
 
 - c-002
+  santrauka: '1582 m. Vilniuje klierikų seminarijos mokymas ir valdymas buvo patikėti Vilniaus Jėzaus draugijos kolegijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Klierikų mokymo reikalus ir vadovavimą kole­

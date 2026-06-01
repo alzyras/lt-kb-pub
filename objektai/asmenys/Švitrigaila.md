@@ -33,7 +33,7 @@ periodo_grupes:
 - t-001
   teiginys: 'Švitrigaila kartu su Jogaila, Vytautu, Karigaila, Vygandu ir lietuvių didikais priėmė katalikų tikėjimą.'
   pagrindžia:
-    - c-021
+    - c-006
 
 - t-002
   teiginys: 'Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai.'
@@ -43,12 +43,12 @@ periodo_grupes:
 - t-003
   teiginys: 'Švitrigaila vėl pabėgo iš Lietuvos: šį kartą į Maskvą, pas totorius ir galiausiai pas Ordiną.'
   pagrindžia:
-    - c-036
+    - c-032
 
 - t-004
-  teiginys: 'Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­ ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­ rius drauge su juo pulti Vitebską.'
+  teiginys: 'Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską.'
   pagrindžia:
-    - c-045
+    - c-036
 
 - t-005
   teiginys: 'Pajutęs Vytauto susilpnėjimą, Švitrigaila pareiškė pretenzijas į Lietuvą.'
@@ -58,7 +58,7 @@ periodo_grupes:
 - t-006
   teiginys: 'Švitrigaila, nieko nepešęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.'
   pagrindžia:
-    - c-043
+    - c-036
 
 - t-007
   teiginys: '1402 m. pradžioje Ordinas Marienburge priglaudė iš Podolės pabėgusį Vytauto priešą Švitrigailą.'
@@ -66,94 +66,94 @@ periodo_grupes:
     - c-003
 
 - t-008
-  teiginys: 'Didžiojo kunigaikščio dvare knibž­ dėjo beveik vieni vokiečiai, ir didysis magistras gudriai su­ gebėjo apstatyti Švitrigailą savo parankiniais, kurie akylai sergėjo, kad dviejų neseniai susijungusių tautų vienybė vis labiau silpnėtų ir tarp brolių tvyrotų.'
+  teiginys: 'Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę.'
   pagrindžia:
-    - c-025
+    - c-021
 
 - t-009
-  teiginys: 'Tačiau veltui Švit­ rigaila ėmėsi tos suktybės; mat vienas vienuolis, kuriam buvo patikėta paslaptis, ją išdavė pilies įgulos vadui, tad ir šį kartą visos pastangos užimti Vilnių nuėjo perniek, o Švitrigaila su didžiuoju magistru turėjo nutraukti apgul­ tį54.'
+  teiginys: 'Švitrigaila su didžiuoju magistru turėjo nutraukti Vilniaus apgultį, kai vienuolis išdavė jų sumanymą pilies įgulai.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-010
   teiginys: 'Petras pranešė, kad Švitrigaila išvaduotas iš nelaisvės ir yra laisvėje.'
   pagrindžia:
-    - c-020
+    - c-017
 
 - t-011
   teiginys: 'Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.'
   pagrindžia:
-    - c-032
+    - c-028
 
 - t-012
-  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  teiginys: '1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila.'
   pagrindžia:
-    - c-019
+    - c-015
 
 - t-013
   teiginys: 'Per Švitrigailos sąjungas prekyba išsiplėtė iki atokiausių Vokietijos žemių.'
   pagrindžia:
-    - c-026
+    - c-022
 
 - t-014
-  teiginys: 'Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išvengė sutriuškinimo21.'
+  teiginys: 'Švitrigaila su sūnėnu Maskvos kunigaikščiu Jurgiu išvengė sutriuškinimo po nesėkmės ties Ukmerge.'
   pagrindžia:
-    - c-028
+    - c-024
 
 - t-015
-  teiginys: 'Kartu su Jogaila ir Vy­ tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­ gandas, Švitrigaila ir daug lietuvių didikų.'
+  teiginys: 'Švitrigaila kartu su Jogaila, Vytautu, Jogailos broliais ir daugeliu lietuvių didikų priėmė katalikų tikėjimą Krokuvoje.'
   pagrindžia:
     - c-006
 
 - t-016
-  teiginys: '1452 metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­ venimas buvo sudrumstęs pusę Europos, vienus papiktin­ damas, kitiems keldamas gailestį, užbaigė savo klajokliškas dienas Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vil­ niaus katedroje.'
+  teiginys: '1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.'
   pagrindžia:
-    - c-027
+    - c-023
 
 - t-017
   teiginys: 'Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.'
   pagrindžia:
-    - c-034
+    - c-030
 
 - t-018
   teiginys: 'Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką.'
   pagrindžia:
-    - c-010
+    - c-009
 
 - t-019
-  teiginys: 'Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­ tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­ nėtinai sėkmingas, taigi.'
+  teiginys: 'Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi.'
   pagrindžia:
-    - c-024
+    - c-020
 
 - t-020
-  teiginys: 'Šita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­ siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­ nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­ tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.'
+  teiginys: 'Švitrigailai buvo pavesta valdyti Podoliją, o šaltinyje jis vadinamas pavojingiausiu Vytauto priešininku.'
   pagrindžia:
-    - c-035
+    - c-031
 
 - t-021
   teiginys: 'Švitrigaila ir Žygimantas buvo Vytauto politikos tęsėjai.'
   pagrindžia:
-    - c-040
+    - c-035
 
 - t-022
   teiginys: 'Švitrigaila buvo tarp Jogailos brolių, pritarusių jo sutarčių su Ordinais įsipareigojimams.'
   pagrindžia:
-    - c-016
+    - c-015
 
 - t-023
-  teiginys: 'Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų.'
+  teiginys: 'Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.'
   pagrindžia:
-    - c-022
+    - c-018
 
 - t-024
-  teiginys: 'Kai paskelbus dvylikos metų paliaubas tarp karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis dėlto aprimo, apsilpo ir energingojo Švitrigailos jėgos Lie­ tuvoje.'
+  teiginys: 'Po dvylikos metų paliaubų tarp karaliaus ir didžiojo magistro Švitrigailos jėgos Lietuvoje apsilpo.'
   pagrindžia:
-    - c-039
+    - c-034
 
 - t-026
   teiginys: '1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.'
   pagrindžia:
-    - c-012
+    - c-011
 
 - t-027
   teiginys: 'Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.'
@@ -161,14 +161,14 @@ periodo_grupes:
     - c-002
 
 - t-028
-  teiginys: 'Sutiko su šia sutartimi ir Švitrigaila, Jo­ gailos tuomet pakviestas į Vilnių, bet jo sutikimas buvo apsimestinis, ir netgi antspaudas, kaip nurodoma, buvo ne­ tikras, nes tuo aktu nustumtas nuo Lietuvos valdžios vairo, širdyje užslopinęs apmaudą ir.'
+  teiginys: 'Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą.'
   pagrindžia:
-    - c-037
+    - c-033
 
 - t-029
   teiginys: 'Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.'
   pagrindžia:
-    - c-015
+    - c-014
 
 - t-030
   teiginys: 'Švitrigailos bandymas užimti Vilnių žlugo, kai vienuolis išdavė jo sumanymą pilies įgulos vadui.'
@@ -178,37 +178,37 @@ periodo_grupes:
 - t-031
   teiginys: 'Lenkijos valdantieji sluoksniai Švitrigailai siūlė net Lenkijos vainiką arba valdyti Lietuvą, bet ryšyje su Lenkija.'
   pagrindžia:
-    - c-030
+    - c-026
 
 - t-032
   teiginys: 'Švitrigaila manė, kad po kunigaikštienės mirties Jogaila jį paskirs Vitebsko valdytoju.'
   pagrindžia:
-    - c-011
+    - c-010
 
 - t-033
   teiginys: 'Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą.'
   pagrindžia:
-    - c-041
+    - c-033
 
 - t-034
   teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
   pagrindžia:
-    - c-029
+    - c-025
 
 - t-035
   teiginys: '1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos.'
   pagrindžia:
-    - c-013
+    - c-012
 
 - t-036
   teiginys: 'Švitrigaila, tikrasis Algirdo sūnus, turėjo pirmenybę į Lietuvos didžiojo kunigaikščio sostą.'
   pagrindžia:
-    - c-042
+    - c-031
 
 - t-037
   teiginys: 'Šiuos pirmuosius Žygimanto potvarkius Vytauto soste nutraukė ketinantis grįžti Švitrigaila.'
   pagrindžia:
-    - c-018
+    - c-016
 
 - t-038
   teiginys: 'Dar neįsitvirtinus Vytautui, Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
@@ -216,39 +216,34 @@ periodo_grupes:
     - c-004
 
 - t-039
-  teiginys: 'Per itin galingas Švitrigailos sąjungas radosi di­ desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių Vokietijos žemių.'
+  teiginys: 'Per galingas Švitrigailos sąjungas prekyba išsiplėtė net iki atokiausių Vokietijos žemių.'
   pagrindžia:
     - c-005
 
 - t-040
-  teiginys: 'Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me­ tais energingai darbavosi, kaldama lietuviškus grašius ir pusgrašius11.'
+  teiginys: 'Švitrigailos valdymo metais Vilniaus monetų kalykla kaldino lietuviškus grašius ir pusgrašius.'
   pagrindžia:
-    - c-023
-
-- t-041
-  teiginys: 'Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­ nausiąs ir 1.1.'
-  pagrindžia:
-    - c-017
+    - c-019
 
 - t-042
   teiginys: 'Įniršęs Švitrigaila priekaištavo Jogailai dėl Podolės ir įkalino jį su palyda pilyje.'
   pagrindžia:
-    - c-033
+    - c-029
 
 - t-043
-  teiginys: 'Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­ gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­ tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­ sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos -- • -- 135 ##.'
+  teiginys: 'Švitrigaila, įsižeidęs dėl Vytauto iškėlimo, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
   pagrindžia:
-    - c-038
+    - c-004
 
 - t-044
   teiginys: 'Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.'
   pagrindžia:
-    - c-014
+    - c-013
 
 - t-045
   teiginys: '1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o jis pats pabėgo į Polocką.'
   pagrindžia:
-    - c-044
+    - c-037
 
 ## Reikšmingi paminėjimai
 
@@ -327,8 +322,10 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-038
+    - t-043
 
 - c-005
+  santrauka: 'Per galingas Švitrigailos sąjungas prekyba išsiplėtė net iki atokiausių Vokietijos žemių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Livonija vis glaudžiau šliejosi prie
@@ -344,6 +341,7 @@ periodo_grupes:
     - t-039
 
 - c-006
+  santrauka: 'Švitrigaila kartu su Jogaila, Vytautu, Jogailos broliais ir daugeliu lietuvių didikų priėmė katalikų tikėjimą Krokuvoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas Jogailos krikšto metu pada­
@@ -359,6 +357,7 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-015
+    - t-001
 
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -380,6 +379,7 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-030
+    - t-009
 
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -398,27 +398,6 @@ periodo_grupes:
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tad pasiuntęs vieną iš saviškių, kuris apsukriai
-    sugebėjo prasigauti į pilis, įkalbėjo tuos „čiornus", kad pa­
-    degtų du medinius bokštus tuo metu, kai jis pradės ataką;
-    manė taip lengviau užimsiąs tvirtovę. Tačiau veltui Švit­
-    rigaila ėmėsi tos suktybės; mat vienas vienuolis, kuriam
-    buvo patikėta paslaptis, ją išdavė pilies įgulos vadui, tad
-    ir šį kartą visos pastangos užimti Vilnių nuėjo perniek, o
-    Švitrigaila su didžiuoju magistru turėjo nutraukti apgul­
-    tį54. Vienas tik Sudimantas, lietuvių vadas, sučiuptas per
-    puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­
-    das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė
-    nuteisdami jį pakarti kaip išdaviką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
     Livoniae)
     TI, p. 132, N 518.
     Dinaburgo komtūras praneša Livonijos magistrui, kad
@@ -432,8 +411,9 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-018
+    - t-041
 
-- c-011
+- c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ten viešpatavo kunigaikš­
@@ -446,7 +426,7 @@ periodo_grupes:
   pagrindžia:
     - t-032
 
-- c-012
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -468,7 +448,7 @@ periodo_grupes:
   pagrindžia:
     - t-026
 
-- c-013
+- c-012
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo
@@ -485,7 +465,7 @@ periodo_grupes:
   pagrindžia:
     - t-035
 
-- c-014
+- c-013
   santrauka: 'Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -517,7 +497,7 @@ periodo_grupes:
   pagrindžia:
     - t-044
 
-- c-015
+- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik tada Švitrigaila
@@ -536,7 +516,7 @@ periodo_grupes:
   pagrindžia:
     - t-029
 
-- c-016
+- c-015
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
@@ -553,24 +533,9 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-022
+    - t-012
 
-- c-017
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    (Plg. Ind. cod. kist. dipt. Livoniae)
-    TI, p. 132, N 518.
-    Dinaburgo komtūras praneša Livonijos magistrui, kad
-    Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
-    kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos
-    kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­
-    nausiąs ir 1.1.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-041
-
-- c-018
+- c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuos pirmuosius Žygimanto potvarkius Vytauto soste
@@ -599,25 +564,7 @@ periodo_grupes:
   pagrindžia:
     - t-037
 
-- c-019
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
-    po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
-    lono) Dubysos įtakoje padarytieji trijų atskirų sutarčių aktai.
-    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
-    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
-    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
-    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
-    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
-    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-020
+- c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kilmin-
@@ -634,22 +581,8 @@ periodo_grupes:
   pagrindžia:
     - t-010
 
-- c-021
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kartu su Jogaila ir Vy­
-    tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­
-    gandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir
-    pirmas Lietuvos krikšto aktas, atliktas Krokuvoje.
-
-    (^1) ) Scr. r.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-022
+- c-018
+  santrauka: 'Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
@@ -705,7 +638,8 @@ periodo_grupes:
   pagrindžia:
     - t-023
 
-- c-023
+- c-019
+  santrauka: 'Švitrigailos valdymo metais Vilniaus monetų kalykla kaldino lietuviškus grašius ir pusgrašius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau mone­
@@ -725,7 +659,8 @@ periodo_grupes:
   pagrindžia:
     - t-040
 
-- c-024
+- c-020
+  santrauka: 'Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
@@ -747,7 +682,8 @@ periodo_grupes:
   pagrindžia:
     - t-019
 
-- c-025
+- c-021
+  santrauka: 'Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anų laikų
@@ -766,7 +702,7 @@ periodo_grupes:
   pagrindžia:
     - t-008
 
-- c-026
+- c-022
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
@@ -783,7 +719,8 @@ periodo_grupes:
   pagrindžia:
     - t-013
 
-- c-027
+- c-023
+  santrauka: '1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     226
@@ -805,7 +742,8 @@ periodo_grupes:
   pagrindžia:
     - t-016
 
-- c-028
+- c-024
+  santrauka: 'Švitrigaila su sūnėnu Maskvos kunigaikščiu Jurgiu išvengė sutriuškinimo po nesėkmės ties Ukmerge.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia
@@ -823,7 +761,7 @@ periodo_grupes:
   pagrindžia:
     - t-014
 
-- c-029
+- c-025
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip kita­
@@ -843,7 +781,7 @@ periodo_grupes:
   pagrindžia:
     - t-034
 
-- c-030
+- c-026
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkijos valdantieji sluoksniai Švitrigailai
@@ -860,7 +798,7 @@ periodo_grupes:
   pagrindžia:
     - t-031
 
-- c-031
+- c-027
   santrauka: 'Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -888,7 +826,7 @@ periodo_grupes:
   pagrindžia:
     - t-025
 
-- c-032
+- c-028
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Švitrigaila manė, kad mirus ku­
@@ -903,7 +841,7 @@ periodo_grupes:
   pagrindžia:
     - t-011
 
-- c-033
+- c-029
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad
@@ -923,7 +861,7 @@ periodo_grupes:
   pagrindžia:
     - t-042
 
-- c-034
+- c-030
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mūsų nuomonę apie šio laiško senumą patvirtina ne tik
@@ -951,7 +889,8 @@ periodo_grupes:
   pagrindžia:
     - t-017
 
-- c-035
+- c-031
+  santrauka: 'Švitrigailai buvo pavesta valdyti Podoliją, o šaltinyje jis vadinamas pavojingiausiu Vytauto priešininku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kalbant dar apie tiesiogines vilniškės unijos priežastis, ten­
@@ -968,8 +907,9 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-020
+    - t-036
 
-- c-036
+- c-032
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tik Vytautas buvo kryžiuočių
@@ -982,7 +922,8 @@ periodo_grupes:
   pagrindžia:
     - t-003
 
-- c-037
+- c-033
+  santrauka: 'Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     • —
@@ -1014,42 +955,10 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-028
+    - t-033
 
-- c-038
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Juk
-    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
-    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
-    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
-    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
-    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
-    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
-    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
-    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
-    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
-    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
-    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
-    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
-    klestėti!
-    Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­
-    gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­
-    tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­
-    sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos
-    -- • --
-    135
-
-    ## Puslapis 152
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    bandant nuversti naująjį Lietuvos valdovą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-043
-
-- c-039
+- c-034
+  santrauka: 'Po dvylikos metų paliaubų tarp karaliaus ir didžiojo magistro Švitrigailos jėgos Lietuvoje apsilpo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai paskelbus dvylikos metų paliaubas tarp
@@ -1072,7 +981,7 @@ periodo_grupes:
   pagrindžia:
     - t-024
 
-- c-040
+- c-035
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ištisa
@@ -1086,53 +995,7 @@ periodo_grupes:
   pagrindžia:
     - t-021
 
-- c-041
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    Lietuvos ir Rusios didikai bei žemvaldžiai ir tame suvažiavi­
-    me pakiliai prisiekė ištikimybę ir pagalbą kovoje prieš bendrą
-    karaliaus ir Lenkijos Karūnos priešą, o po Vytauto mirties -
-    visos Lietuvos grįžimą į Lenkiją ir paklusnumą ne kokiam ki­
-    tam karaliui, o tik Jogailai, tačiau su sąlyga, kad tuo atveju,
-    jeigu Vladislovas Jogaila mirtų nepalikęs įpėdinių, lenkai ne­
-    turėtų teisės rinkti karaliaus be Vytauto ir Lietuvos bajorų ži­
-    nios bei pritarimo66. Sutiko su šia sutartimi ir Švitrigaila, Jo­
-    gailos tuomet pakviestas į Vilnių, bet jo sutikimas buvo
-    apsimestinis, ir netgi antspaudas, kaip nurodoma, buvo ne­
-    tikras, nes tuo aktu nustumtas nuo Lietuvos valdžios vairo,
-    širdyje užslopinęs apmaudą ir neapykantą broliams, netru­
-    kus, užuot vykęs į Krokuvą, kur buvo karaliaus kviečiamas,
-    suktybės ėmęsis, persirengė pirkliu ir 1402 metais nuvyko į
-    Marienburgą, pas magistrą67. Vėlesniais metais Vilniaus mies­
-    tas tolydžio augo: greitai plito statybos, daugėjo gyventojų,
-    mat Vytauto geradariška globa gaubė visus, nieko neišskiriant,
-    vienijo visus žmones ir įvairius tikėjimus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-033
-
-- c-042
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kalbant dar apie tiesiogines vilniškės unijos priežastis, ten­
-    ka neišleisti iš akių ir vieno jau aukščiau minėto fakto — Švitri­
-    gailos pasirodymo^4 ).
-    Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius
-    Spytkas iš Melštyno, kuris valdė Podoliją.
-    Šita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­
-    siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­
-    nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
-    tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-036
-
-- c-043
+- c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
@@ -1149,8 +1012,9 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-006
+    - t-004
 
-- c-044
+- c-037
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     lenkų daliniais. 1432 m.
@@ -1166,24 +1030,6 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-045
-
-- c-045
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
-    ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
-    rius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­
-    lenske pulkus, apsupo tą miestą ir po keturias savaites
-    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
-    nelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­
-    kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
-    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
-    bei alpių karščių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -1207,8 +1053,10 @@ periodo_grupes:
 - [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Jaroslavas]]
 - [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]]
@@ -1241,9 +1089,9 @@ periodo_grupes:
 - [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]
 - [[objektai/asmenys/Dmitrijus Kaributas]]
 - [[objektai/asmenys/Fridrichas fon Bebirsteynas]]
+- [[objektai/asmenys/Goštautas]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/daiktai/Iždo ir pilių raktai]]
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/asmenys/Jurgis Lengvenaitis]]
 - [[objektai/asmenys/Konradas (Vroclavo vyskupas)]]
 - [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
@@ -1255,6 +1103,7 @@ periodo_grupes:
 - [[objektai/daiktai/Medžių užtvaros kelyje]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/grupes/Moldovos kunigaikščiai]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]
 - [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]
 - [[objektai/paprociai/Pabaisko pergalės įamžinimas vietovardžiais ir bažnyčios fundacija]]
@@ -1282,6 +1131,12 @@ periodo_grupes:
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
 - [[objektai/grupes/Žygimanto šalininkai]]
+- [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
+- [[objektai/asmenys/Jonas Švitrigaila]]
+- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
 - [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
+- [[objektai/grupes/Lenkijos bajorai]]
+- [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]]
 - [[objektai/ivykiai/Švitrigailos ir Konrado Jungingeno žygis į Lietuvą (1394 m.)]]

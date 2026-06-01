@@ -47,3 +47,4 @@ Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas k
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
+- [[objektai/daiktai/Vilijos tiltas su pirklų būdelėmis ir stoginėmis]]

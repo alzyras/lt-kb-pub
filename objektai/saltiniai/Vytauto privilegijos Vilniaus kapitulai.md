@@ -30,12 +30,12 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '3-oji privilegija rašyta Trakuose, datuota 1411 m., kuria di­ dysis kunigaikštis Vytautas, atsi­ liepdamas į vyskupo Mikalojaus ir Vilniaus kapitulos pareiškimus mainais už dvasininkijos Vechatnicos kaimą Volkovisko paviete, esantį kapitulai netinkamoje.'
+  teiginys: '1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: '2-ąja yra ap­ rūpinama Vilniaus katedros klebo­ nija, ja Vytautas, save tituluodamas: Magnus Dux Lithvaniae et Russiae [didysis Lietuvos ir Rusios kuni­ gaikštis], katedrai skiria: viliam in di­ strictu Drogyminensi, etiam ab eodem districtu Drogyminischkij.'
+  teiginys: 'Antrąja privilegija Vytautas Vilniaus katedrai skyrė Dragimino ir Dragiminiškių kaimus, pievą prie Žižmos ir nausėdžius.'
   pagrindžia:
     - c-004
 
@@ -45,13 +45,14 @@ amziai:
     - c-002
 
 - t-004
-  teiginys: '1413 metais, 70 Tai keturios privilegijos, iki šiol išli­ kusios Vilniaus kapitulos archyve: 1- oji, rašyta Vilniuje, sabbato in festo Sancti Barnabae Apostoli, anno D-ni 1407 [šeštadienį Šv.'
+  teiginys: '1407 m. Vilniuje rašyta Vytauto privilegija Vilniaus kapitulai Liubarų kaimą suteikė mainais už anksčiau dovanotą Jaryničių kaimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1407 m. Vilniuje rašyta Vytauto privilegija Vilniaus kapitulai Liubarų kaimą suteikė mainais už anksčiau dovanotą Jaryničių kaimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
@@ -128,6 +129,7 @@ amziai:
     - t-003
 
 - c-003
+  santrauka: '1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Actum et datum die
@@ -160,6 +162,7 @@ amziai:
     - t-001
 
 - c-004
+  santrauka: 'Antrąja privilegija Vytautas Vilniaus katedrai skyrė Dragimino ir Dragiminiškių kaimus, pievą prie Žižmos ir nausėdžius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2-ąja yra ap­

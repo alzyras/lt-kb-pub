@@ -27,13 +27,14 @@ Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėlia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną.'
+  teiginys: 'Popiežius Eugenijus IV 1434 m. spalio 20 d. laiške Žygimantui Kęstutaičiui užtarė Švitrigailos žmoną Sofiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežius Eugenijus IV 1434 m. spalio 20 d. laiške Žygimantui Kęstutaičiui užtarė Švitrigailos žmoną Sofiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai, ką mūsų kronikininkai kal­

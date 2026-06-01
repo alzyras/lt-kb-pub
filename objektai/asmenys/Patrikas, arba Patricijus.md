@@ -26,13 +26,14 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka jį prie Algirdo brolių pri­ skirdamas, ir žinome iš Rusios met­ raštininkų, kad jis Didįjį Naugardą valdęs iki 1348 m.; o po jo ten val­ džią perėmęs jo sūnus Patrikas, ar­ ba.'
+  teiginys: 'Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     V,
@@ -61,5 +62,4 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Narimantas]]
 - [[objektai/asmenys/Simonas Lengvenis]]

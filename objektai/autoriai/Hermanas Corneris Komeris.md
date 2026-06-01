@@ -19,13 +19,14 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.'
+  teiginys: 'Hermanas Corneris Komeris buvo dominikonas, kurio kronika cituojama apie Vilniaus miestiečių palankumą Jogailai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hermanas Corneris Komeris buvo dominikonas, kurio kronika cituojama apie Vilniaus miestiečių palankumą Jogailai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Wilna, 1. 177.

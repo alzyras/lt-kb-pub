@@ -105,7 +105,6 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/grupes/Lietuvos didikai]]
-- [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
 - [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/grupes/Unitai]]

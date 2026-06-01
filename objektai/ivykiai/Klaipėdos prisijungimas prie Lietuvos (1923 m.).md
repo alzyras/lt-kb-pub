@@ -47,7 +47,7 @@ Nenurodyta
 - t-001
   teiginys: 'E. Galvanauskas nusistatė užimti Klaipėdos kraštą jėga, nes nemanė, kad Lietuva jį gaus per Tautų Sąjungą ar Ambasadorių konferenciją.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-002
   teiginys: 'Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai.'
@@ -62,46 +62,42 @@ Nenurodyta
 - t-004
   teiginys: '1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-005
   teiginys: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą.'
   pagrindžia:
-    - c-010
-
-- t-006
-  teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
-  pagrindžia:
-    - c-001
+    - c-008
 
 - t-007
   teiginys: '1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-008
   teiginys: 'Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.'
   pagrindžia:
-    - c-007
+    - c-006
 
 - t-009
   teiginys: '1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.'
   pagrindžia:
-    - c-008
+    - c-003
 
 - t-010
   teiginys: 'VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.'
   pagrindžia:
-    - c-011
+    - c-009
 
 - t-011
   teiginys: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -118,6 +114,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-006
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -146,24 +143,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+    - t-009
 
 - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
-    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
-    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
-    tine ir karine pergale, kokia ji iš tiesų ir buvo.
-    1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
-    naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
-    autonomine Lietuvos dalimi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai liko sukilimo inscenizacijos
@@ -178,7 +160,7 @@ Nenurodyta
   pagrindžia:
     - t-011
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos
@@ -192,7 +174,7 @@ Nenurodyta
   pagrindžia:
     - t-007
 
-- c-007
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį
@@ -208,20 +190,7 @@ Nenurodyta
   pagrindžia:
     - t-008
 
-- c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kaunas triumfavo, euforija apėmė visą šalį. „Sukilėlių“ sėkmė atro-
-    dė kaip moralinė satisfakcija už prarastą Vilnių. 1923 m. sausio 17 d.
-    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
-    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-009
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ministras pirminin-
@@ -238,7 +207,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-010
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     TAUTOS TAPSMAS
@@ -257,7 +226,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-011
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1923 m. sausio 17 d.
@@ -276,7 +245,7 @@ Nenurodyta
   pagrindžia:
     - t-010
 
-- c-012
+- c-010
   santrauka: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -312,5 +281,4 @@ Nenurodyta
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/asmenys/Gabrielis Žanas Petisnė]]
-- [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]
 - [[objektai/zodynas/laisvojo miesto statusas|laisvojo miesto statusas (miestas)]]

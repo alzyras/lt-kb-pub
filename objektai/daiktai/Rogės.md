@@ -39,11 +39,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Kareiviui reikalingas karo įkaištis buvo vežamas mažomis rogėmis, kurias traukė šuo.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,20 +51,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Senovės kalnėnai ir žemaičiai, traukdami į karę, du tarnu lygiai turėjo, beje, šunį ir žirgą, nesgi, ko
-        kareivis jodamas negalėjo ant žirgo pakelti, tą jo šuo, įkinkytas į mažas rogeles, po jo vilko, beje,
-        įkaištį^1183 ir karės padargą, grįžtant iš karės, pydė^1184 grobį, nuo neprietelių sugrietą^1185. Jo žirgas
-        buvo dar artimesniu draugu jo laimės ir nelaimės, nesgi jis nešė patį kareivį ir lygiai su juo mirė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]

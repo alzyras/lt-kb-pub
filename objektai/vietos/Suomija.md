@@ -26,7 +26,7 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi, santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­ gusto seserimi.'
+  teiginys: 'Sovietams kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   pagrindžia:
     - c-001
 
@@ -35,9 +35,15 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Vilniuje buvo palaiminta Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoka.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sovietams kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokietija kartojo nebeturinti regione
@@ -72,7 +78,7 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
     - t-002
 
 - c-003
-  santrauka: 'Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi, santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­ gusto seserimi.'
+  santrauka: 'Vilniuje buvo palaiminta Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoka.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     La­

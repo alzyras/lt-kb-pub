@@ -37,7 +37,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo autais, moterys su žekėmis.'
+  teiginys: 'Vyženos buvo moterų ir vyrų avalas, tačiau vyrai kojas vyniojo autais, o moterys mūvėjo žekes.'
   pagrindžia:
     - c-001
 
@@ -49,6 +49,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vyženos buvo moterų ir vyrų avalas, tačiau vyrai kojas vyniojo autais, o moterys mūvėjo žekes.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Motriškųjų avalai buvo, kaip jei vyriškųjų, rezginės^336 ar vyženos, tiktai vyrai vilnonais ar
@@ -84,4 +85,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/zodynas/Liuosybė|liuosybė]]
-- [[objektai/paprociai/Vaikų grūdinimas ir motinų auklėjimas]]

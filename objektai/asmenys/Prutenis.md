@@ -18,13 +18,14 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruteniu ir Videvučiu (SRP, 4, p. 293—298; Jurginis J.'
+  teiginys: 'Vienoje XV a. tradicijoje Prūsijos pradžia buvo siejama su Pruteniu ir Videvučiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vienoje XV a. tradicijoje Prūsijos pradžia buvo siejama su Pruteniu ir Videvučiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi

@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tas pašėlęs lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­ metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­ tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­ vo.'
+  teiginys: '1384 m. Jogaila ir Skirgaila tarp Vilniaus ir Ukmergės nugalėjo Ragainės komtūrą ir sunaikino jo kariauną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1384 m. Jogaila ir Skirgaila tarp Vilniaus ir Ukmergės nugalėjo Ragainės komtūrą ir sunaikino jo kariauną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau mūšio metu į me­
@@ -77,5 +78,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/paprociai/Vakarų riterių stojimas po kryžiaus ženklu į Ordino žygius]]

@@ -80,5 +80,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/senjoras]]
 - [[objektai/zodynas/žygis]]

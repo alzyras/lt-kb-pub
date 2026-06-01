@@ -46,18 +46,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '[Taip pat pagonys lietuviai Viešpaties me­ tais 1323-iais per Užgavėnes įsiver­ žė į Danijos karalystės Revelio že­ mę Livonijos srityse ir net Dorpato vyskupiją, kurias piešdami ir degin­ dami iki pamatų sugriovę sunaiki­ no ir pagrobė 4 000 vyrų ir moterų.'
+  teiginys: '1323 m. per Užgavėnes lietuviai įsiveržė į Revelio žemę ir Dorpato vyskupiją, pagrobė 4000 žmonių ir sudegino 42 parapijų bažnyčias.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Ištisi kaimai visoje kunigaikš­ tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­ imtų į nelaisvę priskaičiuota iki devynių tūkstančių.'
+  teiginys: 'Kunigaikštystėje buvo apiplėšti ir sudeginti ištisi kaimai bei dešimtys bažnyčių, o paimtų į nelaisvę žmonių skaičius siekė apie 9000.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kunigaikštystėje buvo apiplėšti ir sudeginti ištisi kaimai bei dešimtys bažnyčių, o paimtų į nelaisvę žmonių skaičius siekė apie 9000.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gedimini) fines Christianorum
@@ -80,6 +81,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1323 m. per Užgavėnes lietuviai įsiveržė į Revelio žemę ir Dorpato vyskupiją, pagrobė 4000 žmonių ir sudegino 42 parapijų bažnyčias.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     336, byloja Dip­

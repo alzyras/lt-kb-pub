@@ -33,7 +33,7 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
     - c-002
 
 - t-002
-  teiginys: 'Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­ talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą didelėms nelaimėms.'
+  teiginys: 'Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas žmonių atsisveikinimui.'
   pagrindžia:
     - c-003
 
@@ -69,6 +69,7 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
     - t-001
 
 - c-003
+  santrauka: 'Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas žmonių atsisveikinimui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jei jis negerai suprantąs tą tiesą, prašo pamo­
@@ -87,5 +88,6 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
 - [[objektai/asmenys/Vytautas Didysis]]

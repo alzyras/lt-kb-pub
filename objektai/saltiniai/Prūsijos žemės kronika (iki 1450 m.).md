@@ -25,13 +25,14 @@ Dusburgietis teigia, kad „Senųjų Prūsijos analų“ pagrindu, papildant juo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat Torunės analai (originalios žinios prasideda XIV a.'
+  teiginys: '„Prūsijos žemės kronika“ susijusi su Torunės analais, pratęsta iki 1450 m. ir sudaryta Chelmžos vyskupo aplinkoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Prūsijos žemės kronika“ susijusi su Torunės analais, pratęsta iki 1450 m. ir sudaryta Chelmžos vyskupo aplinkoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat

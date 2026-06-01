@@ -29,7 +29,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-001
   teiginys: 'Šio leidimo aiškinime prūsai ir jotvingiai priskiriami vakarų baltų tarmių regionui.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-002
   teiginys: 'Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų.'
@@ -37,24 +37,19 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad vakarinių baltų, kuriais laikytini ir kuršiai.'
+  teiginys: 'Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad prūsai (bei jotvingiai) priskiriami vakarų baltų tarmių regionui19.'
+  teiginys: 'Vakarų baltų prūsų tarmės skyrėsi nuo rytų baltų lietuvių ir latvių tarmių.'
   pagrindžia:
     - c-002
 
 - t-005
-  teiginys: 'Vakariniai baltai šiame leidinyje priešpriešinami rytiniams baltams kalbiniu pagrindu.'
-  pagrindžia:
-    - c-004
-
-- t-006
   teiginys: 'Dusburgietis teigia, kad ilgainiui pavyko nustatyti prūsų kalbos vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu lietuvių kalba ir t.'
   pagrindžia:
-    - c-006
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -70,35 +65,10 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai
-    (bei jotvingiai) priskiriami vakarų baltų tarmių regionui19. Lyginant su rytiniais baltais
-    — lietuviais, konstatuojama, kad jotvingių ir lietuvių kalbos nebuvo per daug viena nuo
-    kitos nutolusios. Leksinių bendrumų tarp jotvingių ir lietuvių kalbos žymiai daugiau negu
-    skirtumų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
-    baltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,
-    skalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.
-       Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-004
+- c-002
+  santrauka: 'Vakarų baltų prūsų tarmės skyrėsi nuo rytų baltų lietuvių ir latvių tarmių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
@@ -113,9 +83,10 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-004
     - t-005
 
-- c-005
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mums žinomi
@@ -129,23 +100,6 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   pagrindžia:
     - t-001
 
-- c-006
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
-    J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
-    lietuvių lingvistai, ypač tarybiniu laikotarpiu6. Ilgainiui pavyko nustatyti prūsų kalbos
-    vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių
-    kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu
-    lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
-    už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
-    rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
@@ -156,8 +110,6 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - [[objektai/grupes/Skalviai]]
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/grupes/Kuršiai]]
-- [[objektai/autoriai/Endzelins J]]
 - [[objektai/autoriai/F. Bopas]]
-- [[objektai/autoriai/G. H. F. Neselmanas]]
 - [[objektai/autoriai/J. Endzelynas]]
 - [[objektai/autoriai/V. Mažiulis]]

@@ -26,13 +26,14 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­ dymo meną išmanantys: vienas - pagal profesiją fizikas, arba rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas; antras, pagarsėjęs alchemijos išmanymu.'
+  teiginys: 'Aleksandrui kelerius metus sirgus, iš Krokuvos atvyko Motiejus iš Blonios, vadintas fiziku arba rūmų daktaru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandrui kelerius metus sirgus, iš Krokuvos atvyko Motiejus iš Blonios, vadintas fiziku arba rūmų daktaru.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Livoniae, T. I,

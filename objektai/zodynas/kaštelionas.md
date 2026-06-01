@@ -19,12 +19,12 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kaštelionas šiame tekste yra lenkiško modelio pareigybė.'
+  teiginys: 'Unijos akto 11 paragrafu Jogaila ir Vytautas pažadėjo Vilniuje ir Trakuose įsteigti Lenkijos pavyzdžio kašteliono pareigybę.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: '1413 m. kartu su vaivada numatomas naujas administracinis postas Lietuvoje.'
+  teiginys: 'Vilniuje ir Trakuose turėjo būti įsteigtos vaivados ir kašteliono pareigybės.'
   pagrindžia:
     - c-001
 
@@ -41,6 +41,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniuje ir Trakuose turėjo būti įsteigtos vaivados ir kašteliono pareigybės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
@@ -81,6 +82,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
     - t-004
 
 - c-004
+  santrauka: 'Unijos akto 11 paragrafu Jogaila ir Vytautas pažadėjo Vilniuje ir Trakuose įsteigti Lenkijos pavyzdžio kašteliono pareigybę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila su Vytautu unijos akto 11 § pažadėjo, kad
@@ -135,7 +137,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
-- [[objektai/asmenys/Mantautas]]
 - [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas)]]
 - [[objektai/asmenys/Mikalojus Albrechtas Radvila]]
 - [[objektai/asmenys/Motiejus (Vilniaus vyskupas)]]
@@ -149,7 +150,8 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Žemaičių atvertimo į krikščionybę veikla iš Vilniaus]]
 - [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Aštikas]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Eustachijus Valavičius]]
 - [[objektai/zodynas/Pilininkas]]
-- [[objektai/zodynas/manu proprio M.P]]

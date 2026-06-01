@@ -45,7 +45,7 @@ Nenurodyta
 - t-001
   teiginys: 'Šiam tikslui jis pasitelkė ne tik karines, bet ir informacines priemones, savo laiškais popiežiui ir vakarų visuomenei gerindamas Lietuvos įvaizdį ir taip sumažindamas Vakarų Europos krikščionių teikiamą paramą kryžiuočiams.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.'
@@ -75,24 +75,9 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1316 m. pradėjęs Lietuvą valdyti Gediminas turėjo atlaikyti su-
-    intensyvėjusį kryžiuočių puolimą. Šiam tikslui jis pasitelkė ne
-    tik karines, bet ir informacines priemones, savo laiškais popie-
-    žiui ir vakarų visuomenei gerindamas Lietuvos įvaizdį ir taip
-    sumažindamas Vakarų Europos krikščionių teikiamą paramą
-    kryžiuočiams. Gediminas pradėjo derinti karo veiksmus prieš
-    kryžiuočius su Lenkija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Šiam tikslui jis pasitelkė ne tik karines, bet ir informacines priemones, savo laiškais popiežiui ir vakarų visuomenei gerindamas Lietuvos įvaizdį ir taip sumažindamas Vakarų Europos krikščionių teikiamą paramą kryžiuočiams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

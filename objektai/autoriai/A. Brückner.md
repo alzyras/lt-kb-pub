@@ -34,7 +34,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     - c-002
 
 - t-002
-  teiginys: 'Al. Brückner priskiriamas istorikų kartai.'
+  teiginys: 'Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.'
   pagrindžia:
     - c-001
 
@@ -43,14 +43,10 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   pagrindžia:
     - c-003
 
-- t-004
-  teiginys: 'Dzieje kultury polskiej pirmas tomas šiame šaltinyje cituojamas dėl skyriaus apie lietuvių senovinę kultūrą.'
-  pagrindžia:
-    - c-004
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     XIII amž. pradžioje lietuviai nebuvo tokie vargšai ir skurdžiai,
@@ -92,20 +88,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1953, 39-52 p.**
-    (^3) **Pvz., Al. Brückner :** **_Dzieje kultury polskiej_** **, I (skyrius apie lietuvių
-    senovinę kultūrą).**
-    (^4) **Žr. aukščiau 138-139 p.**
-    (^5) **Žr. aukščiau 138 p.**
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

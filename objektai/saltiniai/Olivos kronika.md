@@ -30,12 +30,12 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pilėnai, gyvenę kitose trijose 332 D.— Wohenstorph, Jer.— Wûnsdorf; Olivos kronikoje — Wonsdorff (SRP, 5, p. 602), Wansdorf (ten pat, 1, p. 686).'
+  teiginys: 'Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad olivos kronikoje — Kirsburg (SRP, 5, p. 600), Kirsberg (ten pat, 1, p. 683); Prūsijos trumpojoje eiliuotoje kronikoje Kirsburg (ten pat, 2, p. 2).'
+  teiginys: 'Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg.'
   pagrindžia:
     - c-006
 
@@ -60,23 +60,24 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - c-005
 
 - t-007
-  teiginys: 'Dusburgietis teigia, kad apie tai aiškiau Senojoje Olivos kronikoje (SRP, 1, p. 678).'
+  teiginys: 'Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas Pamedės niokojimas.'
   pagrindžia:
     - c-001
 
 - t-008
-  teiginys: 'Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J.'
+  teiginys: 'J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.'
   pagrindžia:
     - c-002
 
 - t-009
-  teiginys: 'Dusburgietis teigia, kad 279 D.— Rensen, Jer.— Rensin; Torunės analai: circa aquam, quc dicitur Rens, circa Grudentz (SRP, 3, 59); Olivos kronikoje: ad lacum qui dicitur Rensin (SRP, 1, p. 682; 5, 162).'
+  teiginys: 'Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“.'
   pagrindžia:
     - c-008
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas Pamedės niokojimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     240  Dusburgietis aprašo ne vien tik Reisių (Riseno) valsčiaus, bet visos Pamedės
@@ -88,6 +89,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - t-007
 
 - c-002
+  santrauka: 'J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pamario bei Ordino valstybės analistiką, be kitų
@@ -117,6 +119,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - t-004
 
 - c-004
+  santrauka: 'Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pilėnai, gyvenę kitose trijose
@@ -146,6 +149,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - t-006
 
 - c-006
+  santrauka: 'Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kulmo miesto perkėlimą
@@ -178,6 +182,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - t-005
 
 - c-008
+  santrauka: 'Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     279 D.— Rensen, Jer.— Rensin; Torunės analai: circa aquam, quc dicitur Rens,

@@ -35,12 +35,12 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
 - t-002
   teiginys: 'Atleidimas nuo pastočių ir kitų prievolių nepalengvino bajorų valstiečių būklės.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Jau Zigmantas bajorų valstiečius buvo atleidęs (1434 m.) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio mokesčio.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -62,52 +62,15 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Didysis kunigaikštis pasižadėjo nesiuntinėti į jų dvarus
-    jokių savo teisėjų ir atleido bajorų valstiečius nuo visų pareigų
-    valstybei. Jau Zigmantas bajorų valstiečius buvo atleidęs
-    (1434 m.) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo
-    pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti
-    didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio
-    mokesčio _(sidabrinės)._ Tačiau bajorų valstiečių būklė dėl to
-    nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
-    kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
-    rų savininkams — bajorams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Didysis kunigaikštis pasižadėjo nesiuntinėti į jų dvarus
-    jokių savo teisėjų ir atleido bajorų valstiečius nuo visų pareigų
-    valstybei. Jau Zigmantas bajorų valstiečius buvo atleidęs
-    (1434 m.) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo
-    pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti
-    didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio
-    mokesčio _(sidabrinės)._ Tačiau bajorų valstiečių būklė dėl to
-    nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
-    kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
-    rų savininkams — bajorams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/zodynas/pastočių davimas]]
-- [[objektai/zodynas/sidabrinė duoklė]]
 - [[objektai/paprociai/Bajorų valstiečių baudžiavos įtvirtinimas]]

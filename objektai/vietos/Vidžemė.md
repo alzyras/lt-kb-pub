@@ -28,7 +28,7 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 ## Teiginiai
 
 - t-001
-  teiginys: 'XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero.'
+  teiginys: 'XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­

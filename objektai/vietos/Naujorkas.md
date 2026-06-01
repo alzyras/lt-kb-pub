@@ -33,7 +33,7 @@ amziai:
 - t-002
   teiginys: '13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas, kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Amerikos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklausomą Lietuvos valstybę.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -52,19 +52,4 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tą
-    darbą įvairios srovės organizavo skyrium, o 1918 metų pradžioj
-    sukūrė bendrą Vykdomąjį Komitetą. Tais pat metais kovo mėn.
-    13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas,
-    kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Ameri-
-    kos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklau-
-    somą Lietuvos valstybę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002

@@ -25,13 +25,14 @@ Dusburgietis teigia, kad varakauskas R.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad varakauskas R.'
+  teiginys: 'R. Varakausko straipsnis apie vokiečių feodalų agresiją į Rytinį Pabaltijį XIII a. I ketvirtyje paskelbtas 1957 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Varakausko straipsnis apie vokiečių feodalų agresiją į Rytinį Pabaltijį XIII a. I ketvirtyje paskelbtas 1957 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Varakauskas R. Vokiečių feodalų agresija į Rytinį Pabaltijį ir lietuvių kova su ja XIII а. I

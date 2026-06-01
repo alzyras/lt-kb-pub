@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 18.
+Objektų skaičius: 17.
 
 ## Kaip naudoti
 
@@ -32,7 +32,6 @@ Objektų skaičius: 18.
 - [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/proistorė]]
-- [[objektai/zodynas/Rusiškosios raidės]]
 - [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/zodynas/tautinė sąmonė]]
 - [[objektai/zodynas/vaivada]]

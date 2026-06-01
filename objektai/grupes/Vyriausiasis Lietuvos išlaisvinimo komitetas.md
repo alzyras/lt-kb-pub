@@ -94,7 +94,6 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 - [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

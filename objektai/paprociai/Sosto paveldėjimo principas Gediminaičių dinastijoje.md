@@ -44,11 +44,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'XIII a. pabaigoje Lietuvos sostą ėmė paveldėti tos pačios giminės žmonės – broliai arba sūnūs.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001

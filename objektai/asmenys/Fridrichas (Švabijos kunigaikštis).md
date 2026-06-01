@@ -29,16 +29,11 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad fridrichas (Švabijos kunigaikštis) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
-  pagrindžia:
-    - c-003
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį, Vokietijos.'
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai, kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos kilmingųjų.'
   pagrindžia:
     - c-002
@@ -62,7 +57,7 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -85,42 +80,10 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai jo šventenybė Jeruzalės patriarchas
-    Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir
-    Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras  ir tamplierių ordino
-    magistras, daugelis abiejų ordinų brolių ir daugybė šventosios žemės baronų, būtent:
-    Radolfas, Tiberiados valdovas,  ir jo brolis valdovas Hugonas,  ir Reinoldas, Sidono
-    valdovas, ir valdovas Eimaras iš Cezarėjos, ir valdovas Jonas iš Hibelino, ir daugybė kitų
-    iš Jeruzalės karalystės  ir  iš Vokietijos: Mainco arkivyskupas Konradas, Viurcburgo
-    vyskupas bei Romos imperijos kancleris Konradas, Pasau vyskupas Volfgeris, Halberštato
-    vyskupas Gardolfas ir Ceico vyskupas, Švabijos kunigaikštis Fridrichas, Henrikas, [Pfalco
-    prie] Reino pfalcgrafas  ir Braunšveigo kunigaikštis, Austrijos kunigaikštis Fridrichas,
-    Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei, Saksonijos
-    hercogas ir Tiuringijos landgrafas grafas Hermanas, Brandenburgo markgrafas Albertas
-    ir imperijos maršalas Henrikas iš Kalendino, Landsbergo markgrafas Konradas, Meiseno
-    markgrafas Ditrichas, kai šie ir kiti grafai bei didikai ir daugelis jų kariuomenėje buvusių
-    kilmingųjų iš visos širdies džiaugėsi, matydami, kad ką tik įsteigta ligoninė neilgai trukus
-    ima nešti šiokios tokios naudos, teikiančios garbės bei šlovės, be to, tvirtai tikėjo, kad,
-    viešpačiui dievui laiminant šį daigelį, jis sušakosiąs ir ateityje duosiąs gausybę vaisių,
-    štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas,
-    Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą
-    Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę
-    popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti. Tad popiežius, išklausęs šią
-    pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
-    dievo vardu patvirtino.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Dusburgietis teigia, kad fridrichas (Švabijos kunigaikštis) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
+  santrauka: 'Švabijos kunigaikštis Fridrichas turėjo pasiųsti oficialius legatus pas Henriką VI dėl ligoninės patvirtinimo popiežiaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors
@@ -151,8 +114,6 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -168,8 +129,4 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Henrikas VI]]
-- [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje]]

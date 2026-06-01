@@ -20,13 +20,14 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo Douglo, įžymaus škoto, žuvu­ sio dvikovoje, mirtis, vėlei škotų nesutarimai su prancū­ zais - tai vis bloga lemiantys ženklai, kurie net didįjį ma­ gistrą privertė baigti karo puotą.'
+  teiginys: 'Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pasitikėjimas tokia didžiule Ordino kariuomenės

@@ -27,18 +27,19 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
+  teiginys: 'Pirmieji Ordino broliai vaizduojami kaip pasirengę ginti tikėjimą kare su netikėliais.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Dusburgietis Ordino brolius vaizduoja kaip pasirengusius ginti tikėjimą kare su `netikėliais`.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmieji Ordino broliai vaizduojami kaip pasirengę ginti tikėjimą kare su netikėliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
@@ -52,20 +53,6 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
-    įvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
-    atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
-    darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
-    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
-    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_vaizdinys
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai
@@ -120,7 +107,6 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
 - [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema)]]
 - [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
-- [[objektai/ivykiai/Kolainių pilies sudeginimas ir Junigedos valsčiaus nusiaubimas (1291 m. vasario 2 d.)]]
 - [[objektai/asmenys/Konradas (Baigos kunigas)]]
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
 - [[objektai/asmenys/Konradas Rufus]]
@@ -149,7 +135,6 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - [[objektai/paprociai/Naujakrikščių valdymas pagal tą pačią sutartį ir laisves|Naujakrikščių valdymas pagal tą pačią sutartį ir laisves (sutartis)]]
 - [[objektai/ivykiai/Naujas Sventopelko karas ir susidūrimas prie Renzeno]]
 - [[objektai/daiktai/Negęstančioji ugnis]]
-- [[objektai/paprociai/Negęstančiosios ugnies garbinimas]]
 - [[objektai/asmenys/Nodamas]]
 - [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]
 - [[objektai/grupes/Notangai]]
@@ -201,7 +186,6 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/krivis krivė krivaitis]]
 - [[objektai/zodynas/kryžiaus karas]]
-- [[objektai/posakiai/kurį gerbė kaip popiežių]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/posakiai/negęstančiąją ugnį]]
@@ -210,11 +194,9 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - [[objektai/zodynas/stabų garbinimas stabmeldystė]]
 - [[objektai/zodynas/viešpaties darbas opus domini]]
 - [[objektai/ivykiai/Šnikenbergo pilies pastatymas|Šnikenbergo pilies pastatymas (pilis)]]
-- [[objektai/zodynas/šeštinės]]
 - [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]
 - [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]
 - [[objektai/zodynas/žygūnai]]
-- [[objektai/daiktai/Šarvai]]
 - [[objektai/posakiai/Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais]]
 - [[objektai/asmenys/Ditrichas iš Piremonto]]
 - [[objektai/asmenys/Martynas iš Golino]]

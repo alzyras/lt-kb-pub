@@ -18,18 +18,19 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
 ## Teiginiai
 
 - t-001
-  teiginys: 'alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al- kakapių, Alkų kaimų — pilna Lietuvoje.'
+  teiginys: 'Archeologų atkastas senąsias šventoves apylinkių žmonės dažnai vadino alkų vardais.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'alkos romuvos: taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas ir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne- daug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką, nusižiūrėję į katalikų Bažnyčią..'
+  teiginys: 'Šapokos veikale pasakojimas apie vieną vyriausiąją šventovę Romuvą laikomas viduramžių rašytojų prasimanymu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šapokos veikale pasakojimas apie vieną vyriausiąją šventovę Romuvą laikomas viduramžių rašytojų prasimanymu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi jie atlikinėjo įvairias apeigas, tik, žinoma, kai
@@ -49,6 +50,7 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
     - t-002
 
 - c-002
+  santrauka: 'Archeologų atkastas senąsias šventoves apylinkių žmonės dažnai vadino alkų vardais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O šitos šventovės

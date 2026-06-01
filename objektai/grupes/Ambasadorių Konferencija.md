@@ -32,31 +32,32 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 - t-001
   teiginys: 'Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
-  teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
+  teiginys: 'E. Galvanauskas manė, kad per Ambasadorių konferenciją Lietuva Klaipėdos negaus, todėl nusistatė kraštą užimti jėga.'
   pagrindžia:
     - c-003
 
 - t-003
-  teiginys: 'Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą patylėti… E.'
+  teiginys: '1923 m. kovo 15 d. Ambasadorių konferencija paliko Vilnių Lenkijai ir patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 153 Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
+  teiginys: '1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
   pagrindžia:
     - c-002
 
 - t-005
   teiginys: 'Salia punktų, dėl kurių buvo susitarta, Ambasadorių Konferencija norėjo Klaipėdos konvencijos nuostatais pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu ir patenkinti šiosios reikalavimus turėti laisvą tranzitą.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1923 m. kovo 15 d. Ambasadorių konferencija paliko Vilnių Lenkijai ir patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant is-
@@ -73,6 +74,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     - t-003
 
 - c-002
+  santrauka: '1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1923 m. sausio 17 d.
@@ -92,6 +94,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     - t-004
 
 - c-003
+  santrauka: 'E. Galvanauskas manė, kad per Ambasadorių konferenciją Lietuva Klaipėdos negaus, todėl nusistatė kraštą užimti jėga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prancūzai skelbė, kad
@@ -106,24 +109,9 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prancūzai skelbė, kad
-    Klaipėda gali tapti Lietuvos, bet tik susivienijusios su Lenkija, dalimi. Mat
-    ir Lenkija neslėpė savo planų įsitvirtinti Klaipėdoje. Ministras pirminin-
-    kas E. Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių
-    konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
-    A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
-    džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-005
+- c-004
   santrauka: 'Salia punktų, dėl kurių buvo susitarta, Ambasadorių Konferencija norėjo Klaipėdos konvencijos nuostatais pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu ir patenkinti šiosios reikalavimus turėti laisvą tranzitą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

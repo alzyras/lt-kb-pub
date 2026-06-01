@@ -19,13 +19,14 @@ Dusburgietis teigia, kad pirmosios dalies įvade tvirtinama, kaip Kristus pastat
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pirmosios dalies įvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t.'
+  teiginys: 'Teutonų ordino namų pagrindas vadinamas nesugriaunamu, nes jis pastatytas ant tvirtos uolos, kuri yra Kristus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Teutonų ordino namų pagrindas vadinamas nesugriaunamu, nes jis pastatytas ant tvirtos uolos, kuri yra Kristus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus

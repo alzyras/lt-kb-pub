@@ -26,7 +26,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
 ## Teiginiai
 
 - t-001
-  teiginys: 'Abi šalys tokius rezultatus Ženevoje laikė pergale, o grįžęs į Kauną Karininkų ramovėje ir per radiją A.'
+  teiginys: 'Ženevoje pasiektus rezultatus Lietuva ir Lenkija laikė pergale, tačiau Vilnius dar labiau nutolo nuo Lietuvos.'
   pagrindžia:
     - c-002
 
@@ -36,7 +36,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     - c-001
 
 - t-003
-  teiginys: 'Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J.'
+  teiginys: 'Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“'
   pagrindžia:
     - c-003
 
@@ -61,6 +61,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     - t-002
 
 - c-002
+  santrauka: 'Ženevoje pasiektus rezultatus Lietuva ir Lenkija laikė pergale, tačiau Vilnius dar labiau nutolo nuo Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp
@@ -76,6 +77,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     - t-001
 
 - c-003
+  santrauka: 'Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų

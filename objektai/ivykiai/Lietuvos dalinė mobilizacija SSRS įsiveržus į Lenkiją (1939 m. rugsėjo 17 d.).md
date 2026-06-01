@@ -41,7 +41,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'L I E T U V O S I S T O R I J A 184 Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
+  teiginys: '1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją, demonstruodamas pasiryžimą ginti nepriklausomybę.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją, demonstruodamas pasiryžimą ginti nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepatarė imti Vilniaus ir sovietai.

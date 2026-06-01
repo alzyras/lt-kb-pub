@@ -29,7 +29,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kivirčai tarp brolių da­ vė pradžią slaptoms, bet sumaniai parengtoms sutartims siekiant nuversti nuo sosto Jaunutį.'
+  teiginys: 'Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.'
   pagrindžia:
     - c-003
 
@@ -39,7 +39,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - c-001
 
 - t-003
-  teiginys: 'Jau­ nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Mazovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­ jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­ lygdamas.'
+  teiginys: 'Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.'
   pagrindžia:
     - c-004
 
@@ -77,6 +77,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-004
 
 - c-003
+  santrauka: 'Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kivirčai tarp brolių da­
@@ -96,6 +97,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-001
 
 - c-004
+  santrauka: 'Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ■  •  -

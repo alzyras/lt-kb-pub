@@ -33,7 +33,7 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Poloniae.— Varsaviae, lib. I—II, 1964; lib. V et VI, 1973; lib. VII et VIII, 1975; lib. IX, 1978; Opera omnia, t. 13, 1877.'
+  teiginys: 'Jono Dlugošo „Annales seu cronicae incliti regni Poloniae“ tomai Varšuvoje leisti 1964, 1973, 1975 ir 1978 m.'
   pagrindžia:
     - c-001
 
@@ -45,6 +45,7 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jono Dlugošo „Annales seu cronicae incliti regni Poloniae“ tomai Varšuvoje leisti 1964, 1973, 1975 ir 1978 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dlugossii I. Annales seu cronicae incliti regni Poloniae.— Varsaviae, lib. I—II, 1964;

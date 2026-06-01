@@ -39,7 +39,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-002
   teiginys: 'Dusburgietis teigia, kad per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-003
   teiginys: 'Simono Grunau kronikoje Rikojotas apibūdinamas kaip prūsų dievų kulto centras.'
@@ -54,27 +54,11 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-005
   teiginys: 'Prūsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atsikirsdami kritikams romantikai pasitelkdavo XVI–XVII  a. Prū-
-    sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak
-    Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,
-    kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-
-    vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-    - t-003
-    - t-001
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsikirsdami kritikams romantikai pasitelkdavo XVI–XVII  a. Prū-
@@ -90,8 +74,11 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   statusas: verified
   pagrindžia:
     - t-005
+    - t-004
+    - t-003
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.

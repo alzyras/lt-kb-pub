@@ -27,13 +27,14 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunden zur Geschichte Ermlands / K.'
+  teiginys: 'Codex diplomaticus Warmiensis pirmasis tomas, apimantis 1231–1340 m., išleistas Maince 1860 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Codex diplomaticus Warmiensis pirmasis tomas, apimantis 1231–1340 m., išleistas Maince 1860 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Codex diplomaticus Warmiensis oder Regesten und Urkunden zur Geschichte Ermlands

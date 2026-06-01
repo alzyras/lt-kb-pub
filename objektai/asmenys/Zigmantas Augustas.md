@@ -23,26 +23,22 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 - t-001
   teiginys: 'Pagaliau 1572 m. (liepos 7 d.) mirė Zigmantas Augustas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Augusto laikai Lietuvoje buvo labai reikšmingi.'
   pagrindžia:
-    - c-003
-
-- t-003
-  teiginys: 'Zigmantas II (1506—1548 m.) ir jo karai su Maskva.'
-  pagrindžia:
     - c-002
 
-- t-004
-  teiginys: 'Kai kas mano, kad naujose žemėse žmonės buvo įkurdinami sodžiais, tiksliai suskirsčius jų žemes, kas padėjo su­ sidaryti vėlesnei Zigmanto Augusto valakų sistemai^3 ).'
+- t-003
+  teiginys: 'Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip buvo kolonizuojama ir Žemaitija ir ki­
@@ -55,21 +51,9 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Aleksandro asmuo ir jo mirtis 201
-    6. Zigmantas II (1506—1548 m.) ir jo karai su Maskva. 201
-    7.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Z. Augusto laikai Lietuvoje** buvo labai reikšmingi. Jo laikais
@@ -86,7 +70,7 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau 1572 m. (liepos 7 d.) mirė Zigmantas Augustas.
@@ -108,6 +92,5 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Livonijos valstybė]]
-- [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]

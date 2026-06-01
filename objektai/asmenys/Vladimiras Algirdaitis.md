@@ -34,12 +34,12 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     - c-001
 
 - t-002
-  teiginys: 'Kad išpildytų tą sutartį, Vytautui reikėjo iš Ki­ jevo pašalinti Algirdo sūnų Vladimirą.'
+  teiginys: 'Vytautas turėjo pašalinti Vladimirą Algirdaitį iš Kijevo, kad įvykdytų sutartį dėl Kijevo perdavimo Skirgailai.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Vladimiras Algirdaitis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­ jime) neramųjį Jogailos brolį Švitrigailą^2 ).'
+  teiginys: 'Vytautas suvaldė Kijevo kunigaikštį Vladimirą Algirdaitį, silpnindamas Gediminaičių valdžią.'
   pagrindžia:
     - c-003
 
@@ -62,7 +62,7 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     - t-001
 
 - c-002
-  santrauka: 'Kad išpildytų tą sutartį, Vytautui reikėjo iš Ki­ jevo pašalinti Algirdo sūnų Vladimirą.'
+  santrauka: 'Vytautas turėjo pašalinti Vladimirą Algirdaitį iš Kijevo, kad įvykdytų sutartį dėl Kijevo perdavimo Skirgailai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Priežastis — nereikia manyt, ją buvus svarbiausią —
@@ -78,7 +78,7 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     - t-002
 
 - c-003
-  santrauka: 'Vladimiras Algirdaitis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­ jime) neramųjį Jogailos brolį Švitrigailą^2 ).'
+  santrauka: 'Vytautas suvaldė Kijevo kunigaikštį Vladimirą Algirdaitį, silpnindamas Gediminaičių valdžią.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet Vytautas su jais nedarė ilgų ce­

@@ -28,7 +28,7 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­ sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje, Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad tąjį čiaušą ir jo tarnus, kurių jis turi.'
+  teiginys: 'Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.'
   pagrindžia:
     - c-002
 
@@ -102,6 +102,7 @@ periodo_grupes:
     - t-002
 
 - c-002
+  santrauka: 'Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Todėl, jo pageidavimu, jam leidome kurį laiką pagy­
@@ -127,5 +128,4 @@ periodo_grupes:
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/daiktai/Žirgai]]
-- [[objektai/grupes/Lietgaliai]]
 - [[objektai/posakiai/moterų kraštas|moterų kraštas (kraštas)]]

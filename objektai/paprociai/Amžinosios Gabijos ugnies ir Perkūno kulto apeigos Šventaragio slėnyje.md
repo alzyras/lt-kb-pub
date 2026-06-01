@@ -44,7 +44,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'''' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių.'
+  teiginys: 'Šventaragio slėnyje tarp Vilijos ir Vilnelės degė amžinoji ugnis Gabija, kurią lietuviai labai garbino.'
   pagrindžia:
     - c-002
 
@@ -65,6 +65,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Šventaragio slėnyje tarp Vilijos ir Vilnelės degė amžinoji ugnis Gabija, kurią lietuviai labai garbino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Reikš­

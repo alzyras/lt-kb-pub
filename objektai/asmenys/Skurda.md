@@ -43,5 +43,4 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Sūduviai]]
-- [[objektai/asmenys/Gedetas]]
 - [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]

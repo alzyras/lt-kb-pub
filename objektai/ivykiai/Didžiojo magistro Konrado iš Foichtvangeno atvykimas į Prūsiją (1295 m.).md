@@ -42,25 +42,11 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko į Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras, ir, išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir paguodė.'
   pagrindžia:
-    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
-    Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,
-    išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir
-    paguodė juos išmintingais žodžiais ir pamokymais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į

@@ -28,13 +28,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šio reikalo paliudijimui ir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­ vo ir vyko Melnike pirmadienį prieš Tris Karalius metais nuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­ siam Kristuje tėvui ir ponui Vaitiekui, Dievo malone.'
+  teiginys: 'Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie liudytojų, tuo metu su mumis buvusių:
@@ -87,3 +88,4 @@ periodo_grupes:
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/seniūnas]]

@@ -55,5 +55,4 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/legatas]]
 - [[objektai/zodynas/popiežiaus legatas]]

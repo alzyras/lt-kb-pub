@@ -34,7 +34,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mūšis Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su kitais broliais vykti į šį karą Kurše, švenčiausioji mergelė Marija, jam pasirodžiusi, tarė: „Hermanai, aš tave kviečiu į.'
+  teiginys: 'Mergelė Marija, pasirodžiusi broliui Hermanui Saracėnui prieš žygį į Kuršą, pakvietė jį į savo sūnaus puotą.'
   pagrindžia:
     - c-005
 
@@ -136,6 +136,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - t-006
 
 - c-005
+  santrauka: 'Mergelė Marija, pasirodžiusi broliui Hermanui Saracėnui prieš žygį į Kuršą, pakvietė jį į savo sūnaus puotą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
@@ -197,23 +198,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   pagrindžia:
     - t-007
 
-- c-008
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mūšis Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su kitais broliais vykti į šį karą Kurše, švenčiausioji mergelė Marija, jam pasirodžiusi, tarė: „Hermanai, aš tave kviečiu į.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    85 (82). Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
-
-      Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su
-    kitais broliais vykti į šį karą Kurše, švenčiausioji mergelė Marija, jam pasirodžiusi, tarė:
-    „Hermanai, aš tave kviečiu  į savo sūnaus puotą“. Todėl brolis Hermanas išvykdamas
-    kai kuriems broliams pasakė: „Likite sveiki, nuo šiol manęs nebematysite, nes mergelė
-    dievo gimdytoja mane pasikvietė į amžinąją linksmybę“.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-008
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Hermanas]]
@@ -231,8 +215,9 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - [[objektai/posakiai/Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti]]
 - [[objektai/daiktai/Paplotėlis]]
 - [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]
-- [[objektai/posakiai/Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą]]
 - [[objektai/asmenys/Hermanas Saracėnas]]
+- [[objektai/posakiai/Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais]]
 - [[objektai/daiktai/Smilkytuvas ir žvakės]]
 - [[objektai/posakiai/Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes]]

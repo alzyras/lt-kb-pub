@@ -56,7 +56,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“]]
 - [[objektai/posakiai/„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“]]

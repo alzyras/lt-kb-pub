@@ -28,13 +28,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '84 Kryžiuočių Slaptajame Archyve, Karaliaučiuje, yra Vy­ tauto laiškų, rašytų magistrui Rusdorfui (pasak Karamzino, V, p. 145) derybų dėl Lietuvos karūnos Vytau­ tui dingstimi, kur viename iš jų, da­ tuotame 1430 m. rugpjūčio mėn., didžiajam magistrui praneša.'
+  teiginys: 'Karamzinas nurodė, kad Karaliaučiaus Kryžiuočių slaptajame archyve buvo Vytauto laiškų magistrui Rusdorfui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karamzinas nurodė, kad Karaliaučiaus Kryžiuočių slaptajame archyve buvo Vytauto laiškų magistrui Rusdorfui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     84

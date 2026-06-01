@@ -31,28 +31,24 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - c-002
 
 - t-002
-  teiginys: '88 Petrapilis 58 Petras, Vilniaus vysk.'
-  pagrindžia:
-    - c-004
-
-- t-003
   teiginys: 'Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį.'
   pagrindžia:
     - c-003
 
-- t-004
-  teiginys: '20), Petrapilis 1903.'
+- t-003
+  teiginys: '1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas.'
   pagrindžia:
     - c-001
 
-- t-005
+- t-004
   teiginys: 'Ypač jiems padėjo artimi ryšiai su Petrapilio rūmais.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     LMS = Litovskaja Metrika. Knigi sudnich del, išl. P. A. Hil’tebrant
@@ -61,7 +57,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -93,43 +89,9 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Perejeslavlis 272
-    Perekopas (Krymo) 311
-    Peremišlis 313, 321
-    Perkūnas, dievas 143, 144, 146
-    Perlbach M. 171, 198, 233
-    Permės univ. 58
-    Pernarava 251
-    Persantė, upė 100
-    Peštvės pilis 216, 218, 227, 233, 236,
-    251, 256, 345
-    Petersburgas 30, 52 ; Petersburgo
-    univ. 88
-    Petrapilis 58
-    Petras, Vilniaus vysk. 351
-    Petras D., caras 30, 38, 39, 90, 317
-    Petrašiūnai 100
-    Petrauskaitė D. 105
-    Petruitis J. 40
-    Petkun’ F. 324
-    Pfalzgrafas Rufrechtas 251
-    Pfitzner J. 6, 91, 309, 324
-    Pflugk-Harttung V. J. 237
-    Piastų giminė 26, 31, 269
-    Piccolomini E. S., humanistas 380,
-    žr. Pijus II, pop.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-005
+- c-004
   santrauka: 'Ypač jiems padėjo artimi ryšiai su Petrapilio rūmais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -142,4 +104,4 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004

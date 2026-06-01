@@ -40,18 +40,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Veržli Vytauto prigimtis neleido jam ilgai išbūti už­ siėmus taikiais reikalais; amžinos kovos su Rusios kunigaikš­ čiais ir totorių ordos chanais, įtempti karai su dar nenumaldytais kryžiuočiais vertė šį šiaurės krašto karžygį pakelti kardą čia vienoje.'
+  teiginys: 'Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo nukeltos valstybės sienos, jo narsa sutramdyti priešai, kas lėmė Vilniui visišką ramybę.'
+  teiginys: 'Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudijo jo pastangas globoti prekybą Vilniuje ir visoje šalyje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Veržli Vytauto prigimtis neleido jam ilgai išbūti už­
@@ -76,6 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudijo jo pastangas globoti prekybą Vilniuje ir visoje šalyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­
@@ -105,4 +107,5 @@ Nenurodyta
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Rygos, vokiečių ir rusų pirkliai]]

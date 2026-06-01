@@ -27,13 +27,14 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui Vilhelmui, Dirsovijos grafams — vyresniajam ir.'
+  teiginys: 'Apie 1226 (1230) m. vicekancleris Grigalius dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 1226 (1230) m. vicekancleris Grigalius dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
@@ -98,7 +99,6 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - [[objektai/zodynas/daiktiški ir dvasiški ginklai]]
 - [[objektai/zodynas/daiktiški ir dvasiški ginklai dvasios ginklai]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/miesto sargybos viršininkas]]
 - [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.)]]

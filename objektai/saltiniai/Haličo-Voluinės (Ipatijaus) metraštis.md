@@ -31,7 +31,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
     - c-001
 
 - t-002
-  teiginys: 'Šis metraščio paminėjimas naudojamas lietuvių pagonybės panteono aiškinime.'
+  teiginys: 'Haličo-Voluinės metraštyje prie 1252 m. minimi keturi dievai.'
   pagrindžia:
     - c-001
 

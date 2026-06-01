@@ -43,3 +43,4 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Valavičiai]]
 - [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/manu proprio M.P]]

@@ -18,13 +18,14 @@ Lietu­ vos valstybės praeitį, jis nuolat savo tvirta logika parodė, kaip rei
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietu­ vos valstybės praeitį, jis nuolat savo tvirta logika parodė, kaip reikia analizuoti šaltinius, ir kvėpė klausytojams visapusiško kritiškumo.'
+  teiginys: 'Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų rezultatų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų rezultatų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Savo

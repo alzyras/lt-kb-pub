@@ -135,3 +135,4 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

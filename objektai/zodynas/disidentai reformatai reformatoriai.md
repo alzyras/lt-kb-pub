@@ -33,12 +33,12 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     - c-001
 
 - t-002
-  teiginys: 'Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisant garbingiausių Lietuvos giminių prie­ lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­ telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos.'
+  teiginys: 'Disidentai reformatai Lietuvoje negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu, visą savo gy­ venimą buvęs uoliausias reformatų idėjų skleidėjas Vilniu­ je ir pavojingiausias katalikų Bažnyčios pagrindų griovėjas.'
+  teiginys: 'Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.'
   pagrindžia:
     - c-003
 
@@ -69,6 +69,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     - t-001
 
 - c-002
+  santrauka: 'Disidentai reformatai Lietuvoje negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jėzuitų apsigyvenimas Vil­
@@ -91,6 +92,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     - t-002
 
 - c-003
+  santrauka: 'Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Viklifo sekėjas buvo ekskomuni­
@@ -168,3 +170,4 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Andrius Volanas]]

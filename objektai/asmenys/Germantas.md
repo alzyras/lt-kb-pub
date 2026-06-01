@@ -28,7 +28,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jau, pasak mūsų kronikų, Lietuvos kunigaikštis Germantas XIII amžiuje pirmasis toje vietoje turėjo būti įkurdinęs vaidik Č a c k i s, gavęs išrašą iš tos Snorro kelionės aprašymo rankraščio, esan­ čio Kopenhagos bibliotekoje, pirma­ sis apie tai užsiminė.'
+  teiginys: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. turėjo pirmasis įkurdinti vietovę prie Vilniaus.'
   pagrindžia:
     - c-003
 
@@ -38,7 +38,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - c-001
 
 - t-003
-  teiginys: 'Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.'
+  teiginys: 'Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.'
   pagrindžia:
     - c-002
 
@@ -71,6 +71,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-002
 
 - c-002
+  santrauka: 'Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Franciszkanów Litew­
@@ -101,6 +102,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-003
 
 - c-003
+  santrauka: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. turėjo pirmasis įkurdinti vietovę prie Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netgi kai kuriuose Jogailos au­
@@ -125,7 +127,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]
 - [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje]]
+- [[objektai/asmenys/Šventaragis]]

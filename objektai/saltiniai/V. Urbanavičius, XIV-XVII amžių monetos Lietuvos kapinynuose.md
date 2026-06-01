@@ -24,13 +24,14 @@ Urbanavičius, V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Urbanavičius, V.'
+  teiginys: 'V. Urbanavičiaus „XIV-XVII amžių monetos Lietuvos kapinynuose“ išspausdintas AkMD 24 tome 1967 m., p. 61-74.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Urbanavičiaus „XIV-XVII amžių monetos Lietuvos kapinynuose“ išspausdintas AkMD 24 tome 1967 m., p. 61-74.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje,_

@@ -19,13 +19,14 @@ Nagrinėdamas geras ir blogas priva­ čios prekybos arba monopolio pu­ ses, Vi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nagrinėdamas geras ir blogas priva­ čios prekybos arba monopolio pu­ ses, Vilnių, stiklo prekių atžvilgiu, pateikia kaip pavyzdį, o jau buvo po Paleckio privilegijos žlugimo.'
+  teiginys: 'Smigleckis teigė, kad privilegija vienam asmeniui Vilniuje pardavinėti stiklo dirbinius būtų prieš bendrą gėrį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Smigleckis teigė, kad privilegija vienam asmeniui Vilniuje pardavinėti stiklo dirbinius būtų prieš bendrą gėrį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nagrinėdamas geras ir blogas priva­

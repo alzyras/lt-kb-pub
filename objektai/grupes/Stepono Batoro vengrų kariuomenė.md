@@ -26,18 +26,19 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš tą patį mūsų priešą Maskvos kunigaikštį ties Velikije Lūki, mūsų paskirtas vadovauti mūsų vengrų kariuomenės riteriams, ata­ kuojant priešo pilis ir visur, kur tik buvo nukreiptas su mū­.'
+  teiginys: 'Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Šiuo mūsų laiš­ ku pareiškiame visiems bendrai ir kiekvienam atskirai, kam tai reikia žinoti dabar ir ateityje, jog atsižvelgiame į ištiki­ mus, drąsius ir pasiaukojamus mūsų vengrų pulkų vado pono Gabrielio Bekešo Skornato nuopelnus; jis, narsiai ir nuolat.'
+  teiginys: 'Gabrielis Bekešas Skornatas buvo Stepono Batoro vengrų pulkų vadas ir ištikimai tarnavo valdovui bei Respublikai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 437
@@ -80,6 +81,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Gabrielis Bekešas Skornatas buvo Stepono Batoro vengrų pulkų vadas ir ištikimai tarnavo valdovui bei Respublikai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     DATUOTA 1581 METŲ VASARIO 13 DIENĄ
@@ -112,5 +114,6 @@ amziai:
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/tėvonija]]
-- [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]

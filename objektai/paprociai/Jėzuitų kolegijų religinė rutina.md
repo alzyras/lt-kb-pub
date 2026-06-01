@@ -45,17 +45,17 @@ Nenurodyta
 - t-002
   teiginys: 'Jėzuitų kolegijose mokiniai ruošdavo religinio turinio vaidinimus ir disputus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
-  teiginys: 'Jėzuitai mokydami pirmučiausia stengėsi išauklėti gerus katalikus ir paklusnius Bažnyčios sūnus.'
+  teiginys: 'Jėzuitai mokydami pirmiausia siekė išauklėti gerus katalikus ir paklusnius Bažnyčios narius.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-004
   teiginys: 'Ypatingai buvo žiūrima, kad mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -74,20 +74,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    maldas. Jėzuitų kolegijose mokiniai ruošdavo religinio turinio
-    vaidinimus ir disputus. Kolegijose visur buvo religinių mo-
-    kinių brolijų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip pat išeidavo filosofijos, o kai kur net teologijos
@@ -100,7 +89,8 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-004
+- c-003
+  santrauka: 'Jėzuitai mokydami pirmiausia siekė išauklėti gerus katalikus ir paklusnius Bažnyčios narius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jėzuitai mokydami pirmučiausia stengėsi išauklėti gerus

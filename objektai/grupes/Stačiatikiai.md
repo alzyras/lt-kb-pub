@@ -43,7 +43,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     - c-002
 
 - t-003
-  teiginys: 'Katalikams buvo uždraustos mišrios su stačiatikiais vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­ imti katalikybę.'
+  teiginys: 'Apie 1500 m. LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
   pagrindžia:
     - c-004
 
@@ -57,10 +57,15 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   pagrindžia:
     - c-006
 
+- t-006
+  teiginys: 'Katalikams buvo draudžiamos mišrios vedybos su stačiatikiais, o nekatalikiškai pusei tokiose santuokose liepta priimti katalikybę.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Katalikams buvo uždraustos mišrios su stačiatikiais vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­ imti katalikybę.'
+  santrauka: 'Katalikams buvo draudžiamos mišrios vedybos su stačiatikiais, o nekatalikiškai pusei tokiose santuokose liepta priimti katalikybę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Katalikams buvo uždraustos mišrios su stačiatikiais
@@ -117,6 +122,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     - t-001
 
 - c-004
+  santrauka: 'Apie 1500 m. LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo 1387 m.
@@ -215,7 +221,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/zodynas/Kanceliarinė rašto kalba]]
-- [[objektai/grupes/Katalikų bažnyčia katalikai]]
 - [[objektai/asmenys/Kazimieras IV]]
 - [[objektai/ivykiai/Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.)]]
 - [[objektai/asmenys/Kiprijonas]]
@@ -223,7 +228,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]
-- [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
 - [[objektai/asmenys/Lengvenis]]
 - [[objektai/asmenys/Leonas Mamoničius]]
 - [[objektai/posakiai/Lietuva tik iš vardo esanti katalikiška]]
@@ -244,7 +248,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/grupes/Rusų stačiatikių bažnyčia]]
 - [[objektai/grupes/Saksų dinastija]]
 - [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
-- [[objektai/grupes/Sentikiai]]
 - [[objektai/asmenys/Sirputis (Traidenio brolis)]]
 - [[objektai/asmenys/Sofija]]
 - [[objektai/asmenys/Teodosijus]]
@@ -290,4 +293,3 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/grupes/Graikų katalikų bažnyčia]]
 - [[objektai/asmenys/Jonas Kristupas Glaubicas]]
 - [[objektai/asmenys/Liubartas]]
-- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]

@@ -37,18 +37,19 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
     - c-002
 
 - t-003
-  teiginys: 'Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­ li Vitebsko.'
+  teiginys: 'Michałas Balińskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: 'Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Terespolio) tęsėsi apie 10 km, tačiau jų metu didesnių nuostolių S.'
+  teiginys: 'Didžiausias susidūrimas per lietuvių kariuomenės persekiojimą įvyko jau už Terespolio.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Michałas Balińskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai didelis jo nuopelnas.
@@ -81,6 +82,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   statusas: verified
   pagrindžia:
     - t-002
+    - t-004
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -95,20 +97,3 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  santrauka: 'Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Terespolio) tęsėsi apie 10 km, tačiau jų metu didesnių nuostolių S.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusų kavalerija sugebėjo keliose Bugo
-    brastose forsuoti upę ir ji pasileido pas-
-    kui besitraukiančią lietuvių kariuomenę.
-    Persekiojimas, kurio metu įvyko keletas
-    susidūrimų (didžiausias jau už Terespolio)
-    tęsėsi apie 10 km, tačiau jų metu didesnių
-    nuostolių S. Zabiela nepatyrė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004

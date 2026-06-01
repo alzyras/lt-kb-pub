@@ -25,13 +25,14 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­ mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­ ja su Jotvingija (Dzūkija) yra tokie.'
+  teiginys: 'Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas ir Jogaila, išgirdę iš savo pasiuntinių tokį sprendimą,

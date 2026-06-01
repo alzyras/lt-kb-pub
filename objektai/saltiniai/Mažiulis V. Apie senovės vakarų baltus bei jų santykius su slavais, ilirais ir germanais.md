@@ -23,13 +23,14 @@ Dusburgietis teigia, kad mažiulis V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mažiulis V.'
+  teiginys: 'V. Mažiulio „Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais“ paskelbtas leidinyje „Iš lietuvių etnogenezės“ 1981 m., p. 5–11.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Mažiulio „Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais“ paskelbtas leidinyje „Iš lietuvių etnogenezės“ 1981 m., p. 5–11.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais

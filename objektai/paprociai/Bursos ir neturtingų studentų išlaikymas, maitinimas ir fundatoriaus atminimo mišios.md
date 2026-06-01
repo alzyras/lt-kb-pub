@@ -131,6 +131,7 @@ Nenurodyta
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Stanislovas Goreckis]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/zodynas/fundacija]]

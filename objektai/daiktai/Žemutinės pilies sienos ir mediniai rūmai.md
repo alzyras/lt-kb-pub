@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.'
+  teiginys: '1506 m. tikriausiai buvo pataisytos pakrypusios ir suskilusios Žemutinės pilies sienos, taip pat iškilo erdvūs mediniai rūmai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1506 m. tikriausiai buvo pataisytos pakrypusios ir suskilusios Žemutinės pilies sienos, taip pat iškilo erdvūs mediniai rūmai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šis karaliaus nurodymas gal taip greitai ne­
@@ -74,6 +75,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Elena]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/daiktai/Mediniai rūmai]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]

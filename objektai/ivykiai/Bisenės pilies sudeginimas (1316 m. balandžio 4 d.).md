@@ -71,4 +71,3 @@ Nenurodyta
 - [[objektai/asmenys/Fridrichas Kvicas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/ginklanešiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

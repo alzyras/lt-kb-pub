@@ -77,6 +77,5 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 - [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/asmenys/Jėzus Kristus]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

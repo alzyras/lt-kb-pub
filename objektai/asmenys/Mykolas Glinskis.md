@@ -30,7 +30,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tuo pat metu Glinskis išsiuntė žvalgybinį husarų būrį, kuriam pavyko užklupti nedidelį totorių padalinį.'
+  teiginys: 'Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį.'
   pagrindžia:
     - c-002
 
@@ -55,7 +55,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - c-007
 
 - t-006
-  teiginys: 'Tada Glinskis davė komandą puolimui ir nuaidėjus trimitų garsams LDK kariuomenė pakilo į ataką.'
+  teiginys: 'Mykolas Glinskis davė komandą puolimui, po kurios LDK kariuomenė pakilo į ataką.'
   pagrindžia:
     - c-003
 
@@ -65,7 +65,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - c-008
 
 - t-008
-  teiginys: 'Tad paskubomis susirinko 10 000 bajorų, kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­ dė narsus, bet pasipūtęs, Glinskis.'
+  teiginys: '1506 m. rugpjūtį Mykolas Glinskis vedė apie 10 000 bajorų, kareivių ir ginkluotų žmonių į kovą su Krymo ordos kariais ties Klecku.'
   pagrindžia:
     - c-004
 
@@ -104,6 +104,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-003
 
 - c-002
+  santrauka: 'Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo pat metu
@@ -124,6 +125,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-001
 
 - c-003
+  santrauka: 'Mykolas Glinskis davė komandą puolimui, po kurios LDK kariuomenė pakilo į ataką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tada Glinskis davė komandą
@@ -149,6 +151,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-006
 
 - c-004
+  santrauka: '1506 m. rugpjūtį Mykolas Glinskis vedė apie 10 000 bajorų, kareivių ir ginkluotų žmonių į kovą su Krymo ordos kariais ties Klecku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas būrys, įveikęs Ne­
@@ -251,7 +254,6 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/daiktai/Trimitai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/flangas]]
 - [[objektai/zodynas/husarai]]

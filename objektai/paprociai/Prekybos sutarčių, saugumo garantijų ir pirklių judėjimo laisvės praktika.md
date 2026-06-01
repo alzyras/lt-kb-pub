@@ -46,23 +46,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­ ku8.'
-  pagrindžia:
-    - c-003
-
-- t-002
-  teiginys: '8 Iki mūsų laikų Slaptajame Karaliau­ čiaus archyve išliko didžiojo kuni­ gaikščio Švitrigailos laiškas, kuriame didžiojo magistro prašo saugumo ga­ rantijų Bomannui, Vilniaus gyvento­ jui, vykstančiam į Gdanską su pre­ kybiniais reikalais.'
+  teiginys: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykstančiam į Gdanską prekybos reikalais.'
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
+- t-002
+  teiginys: 'Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykstančiam į Gdanską prekybos reikalais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     8
@@ -100,9 +96,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
+  santrauka: 'Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
@@ -122,24 +119,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Per itin galingas Švitrigailos sąjungas radosi di­
-    desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
-    Vokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis
-    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
-    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
-    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
-    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
-    čio dvare9.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -155,6 +135,4 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Bomannas]]
 - [[objektai/grupes/Didžiojo Naugardo bojarinai]]
-- [[objektai/grupes/Silezijos ir Vroclavo gyventojai]]

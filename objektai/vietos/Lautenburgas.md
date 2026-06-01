@@ -17,13 +17,14 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau link.'
+  teiginys: '1410 m. liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1410 m. liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Prieš pasitraukimą Jogaila dar jautė pareigą siųsti pasiun­

@@ -18,37 +18,14 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdninkuose smagiai leisdavo laiką medžiodami.'
-  pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Vis dėlto pasakojama apie giliai gelmėje glūdinčius požemius ir rūsius, ir pats mačiau čia kartais išariamų Zigmanto III epochos sidabrinių ir varinių pini­ gėlių.'
+  teiginys: 'Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Toji vieta, kur stovė­
-    jo anie rūmai, šiandien yra vietos klebono dirbamas lau­
-    kas, ir jau niekas nebeprimena senojo karaliaus dvaro, tik
-    daugybė plytų ir koklių nuolaužų, plačiai pasklidusių po
-    dirvas ir pievas. Vis dėlto pasakojama apie giliai gelmėje
-    glūdinčius požemius ir rūsius, ir pats mačiau čia kartais
-    išariamų Zigmanto III epochos sidabrinių ir varinių pini­
-    gėlių. Per kelis šimtus žingsnių, ant nedidelės aukštumė­
-    lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods
-    taip pat dviejų aukštų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kazimieras pamėgo Rūdninkus ir dažnai juose

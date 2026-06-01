@@ -23,13 +23,14 @@ Dusburgietis teigia, kad mroczko T.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad mroczko T.'
+  teiginys: 'T. Mroczko darbas „Ruch budowlany na ziemi Chełmińskiej w XIII w.“ paskelbtas 1974 m. leidinyje „Sztuka i ideologia XIII wieku“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'T. Mroczko darbas „Ruch budowlany na ziemi Chełmińskiej w XIII w.“ paskelbtas 1974 m. leidinyje „Sztuka i ideologia XIII wieku“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mroczko T. Ruch budowlany na ziemi Chełmińskiej w XIII w.— Sztuka i ideologia XIII

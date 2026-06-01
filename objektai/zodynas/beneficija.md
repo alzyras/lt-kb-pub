@@ -18,13 +18,14 @@ O brangiausius mūsų brolius Viešpatyje, Vilniaus bažnyčios prelatus ir kana
 ## Teiginiai
 
 - t-001
-  teiginys: 'O brangiausius mūsų brolius Viešpatyje, Vilniaus bažnyčios prelatus ir kanauninkus, ir kitus mūsų diecezijos beneficijo­ se ką nors turinčius, raginame, kad kokią nors savo dalį mi­ nėtai kolegijai laisvai ir paslaugiai atiduotų ir skirtų.'
+  teiginys: 'Vilniaus bažnyčios prelatai, kanauninkai ir kiti diecezijos beneficijų turėtojai buvo raginami dalį skirti kolegijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus bažnyčios prelatai, kanauninkai ir kiti diecezijos beneficijų turėtojai buvo raginami dalį skirti kolegijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O

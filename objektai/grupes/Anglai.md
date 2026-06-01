@@ -38,7 +38,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - t-003
   teiginys: 'Anglų lankininkų narsa ir mūšiuose įgytas sumanumas prisidėjo prie Lietuvos patirtų smūgių Vilniaus apgultyje.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-004
   teiginys: 'Anglų lankininkų narsa ir sumanumas kartu su patrankų poveikiu lėmė didžiausius Lietuvos smūgius.'
@@ -48,12 +48,12 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - t-005
   teiginys: 'Rugpjūtį į Prūsiją atvykę savanoriai iš Anglijos ir Prancūzijos norėjo kariauti su pagonimis.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-006
-  teiginys: 'Kai rug­ pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­ ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­ pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę jų esant.'
+  teiginys: 'Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-007
   teiginys: 'Anglai buvo sutartiniai prekybos partneriai, kuriems leista gyventi ir prekiauti Žemaičiuose bei Kalne.'
@@ -190,6 +190,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -243,35 +244,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - t-001
 
 - c-007
-  santrauka: 'Anglų lankininkų narsa ir mūšiuose įgytas sumanumas prisidėjo prie Lietuvos patirtų smūgių Vilniaus apgultyje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vis dėlto visi
-    pasistengta rasti kelis išdavikus, ku- kryžiuočių raštai ir jų kronikininkų
-    rie per priešo puolimą sviedė deglą, pasakojimai užginčija buvus įšda-
-    Tokiu būdu paimta pilis ir nužudv- vvstę. Arkikomtūro laiškas Romos
-    - •
-    123
-
-    ## Puslapis 140
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­
-    dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose
-    įgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo
-    pagautų žmonių kamšatis ir visur umaru besibraunantis, įsi-
-    šėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­
-    ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­
-    tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito
-    mūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­
-    vo likimą31.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-008
+  santrauka: 'Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto rūpesčiu žemaičiai Karaliaučiuje
@@ -291,26 +264,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytauto rūpesčiu žemaičiai Karaliaučiuje
-    sudarė sutartį su Ordinu, taigi Vytauto galia vėl sustiprėjo,
-    ir didysis magistras, įsitikinęs, jog lietuvių pajėgos susi­
-    skaldžiusios, ėmė ruoštis į pakartotiną, bet daug reikšmin­
-    gesnį žygį, kurio tikslas jau buvo ne tik apiplėšti Lietuvą,
-    tačiau užimti jos sostinę ir įkurdinti ten Vytautą21. Kai rug­
-    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
-    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
-    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
-    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
-    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
-    esanti pagonių šalis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
 ## Ryšiai
@@ -367,11 +320,13 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
-- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
 - [[objektai/autoriai/Walsinghamas]]
 - [[objektai/zodynas/bombarda]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/prūsiškos grivenos]]
 - [[objektai/grupes/Škotai]]
 - [[objektai/asmenys/Karigaila]]
+- [[objektai/autoriai/Benjaminas iš Tudelio]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
 - [[objektai/grupes/Prancūzai]]

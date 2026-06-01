@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 39.
+Objektų skaičius: 38.
 
 ## Kaip naudoti
 
@@ -37,9 +37,6 @@ Objektų skaičius: 39.
 - [[objektai/grupes/Moldovos kunigaikščiai]]
 - [[objektai/grupes/Taikos partija]]
 
-### Posakiai
-- [[objektai/posakiai/Karalius Keystutte, jo pavaldiniai ir jo žemės ir Žemaičių gyventojai visiškai turi būti išskirti]]
-
 ### Įvykiai
 - [[objektai/ivykiai/1379 m. Trakų 10 metų paliaubos su ordinu]]
 - [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
@@ -50,7 +47,7 @@ Objektų skaičius: 39.
 - [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]
 - [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
 - [[objektai/ivykiai/Paliaubų protokolo pasirašymas Kaune]]
-- [Rygos pirklių prekybos teisė Lietuvoje (1253 m.)](../objektai/ivykiai/Rygos%20pirkli%C5%B3%20prekybos%20teis%C4%97%20Lietuvoje%20%281253%20m.%29)
+- [[objektai/ivykiai/Rygos pirklių prekybos teisė Lietuvoje (1253 m.)]]
 - [Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)](../objektai/ivykiai/Skirgailos%20ir%20Livonijos%20magistro%20Polocko%20apgultis%20%281381%20m.%29)
 - [Skuodo kautynės (1259 m.)](../objektai/ivykiai/Skuodo%20kautyn%C4%97s%20%281259%20m.%29)
 - [Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)](../objektai/ivykiai/Taikos%20atk%C5%ABrimas%20tarp%20Sventopelko%20ir%20broli%C5%B3%20%281246%20m.%29)

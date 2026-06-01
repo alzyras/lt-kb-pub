@@ -26,13 +26,14 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].'
+  teiginys: 'Milonas buvo dvaro maršalka, dalyvavęs 1396 m. Vilniuje aktuotame dokumente.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Milonas buvo dvaro maršalka, dalyvavęs 1396 m. Vilniuje aktuotame dokumente.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aktuota

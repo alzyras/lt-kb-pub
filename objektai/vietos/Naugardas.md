@@ -33,7 +33,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - t-001
   teiginys: 'Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.'
   pagrindžia:
-    - c-011
+    - c-008
 
 - t-002
   teiginys: '1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją.'
@@ -41,89 +41,84 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - c-003
 
 - t-003
-  teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
+  teiginys: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje.'
   pagrindžia:
-    - c-017
+    - c-012
 
 - t-004
-  teiginys: 'Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
+  teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
-    - c-019
+    - c-011
 
 - t-005
-  teiginys: 'Naugardo ir Por­ chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10.000 rublių kontribucijos (1428).'
+  teiginys: '1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribucijos.'
   pagrindžia:
-    - c-008
+    - c-007
 
 - t-006
   teiginys: 'Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas.'
   pagrindžia:
-    - c-012
+    - c-005
 
 - t-007
-  teiginys: 'Juk tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­ bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­ va, o naudodamasi galingo monarcho parama, jau pasiekė ir tolimus.'
+  teiginys: 'Vytauto valdymo laikais Vilniaus prekyba išsiplėtė su Naugardu, Pskovu, Maskva ir Prūsijos bei Livonijos miestais.'
   pagrindžia:
-    - c-018
+    - c-006
 
 - t-008
-  teiginys: 'Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 ).'
-  pagrindžia:
-    - c-013
-
-- t-009
   teiginys: 'Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai.'
   pagrindžia:
-    - c-016
+    - c-002
 
-- t-010
+- t-009
   teiginys: 'Livonijos Ordinas padarė prieš Vytautą nukreiptą taiką su Pskovu (1417) ir Naugardu (1421), kas Bažnyčių unijai dar labiau pakenkė.'
   pagrindžia:
-    - c-014
+    - c-010
 
-- t-011
+- t-010
   teiginys: 'Vytauto laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
-    - c-015
+    - c-011
 
-- t-012
+- t-011
   teiginys: 'Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai.'
   pagrindžia:
     - c-002
 
-- t-014
+- t-013
   teiginys: 'Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes.'
   pagrindžia:
-    - c-010
+    - c-009
 
-- t-015
+- t-014
   teiginys: 'Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva.'
   pagrindžia:
     - c-001
 
-- t-016
+- t-015
   teiginys: 'Vytauto remiama Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.'
   pagrindžia:
-    - c-007
+    - c-006
 
-- t-017
+- t-016
   teiginys: 'Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.'
   pagrindžia:
-    - c-020
+    - c-013
 
-- t-018
-  teiginys: 'Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­ vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­ keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų miestų tekdavo patirti.'
+- t-017
+  teiginys: '1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.'
   pagrindžia:
     - c-005
 
-- t-019
+- t-018
   teiginys: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
   pagrindžia:
     - c-004
 
-- t-020
+- t-019
   teiginys: 'Naugardas ir Porchovas, nebenorėdami kariauti, 1428 m. sumokėjo Vytautui 10 000 rublių kontribuciją.'
   pagrindžia:
-    - c-006
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -138,7 +133,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -154,7 +149,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
+    - t-008
 
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -171,6 +167,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   statusas: verified
   pagrindžia:
     - t-002
+    - t-019
 
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -186,9 +183,10 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-018
 
 - c-005
+  santrauka: '1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
@@ -209,25 +207,10 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
+    - t-006
 
 - c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
-    sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
-    o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
-    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
-    10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­
-    vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
-    kurių žemės vėl būdavo užkariaujamos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-020
-
-- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto nereikėtų manyti, kad Vilnius
@@ -250,9 +233,11 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
+    - t-007
 
-- c-008
+- c-007
+  santrauka: '1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribucijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
@@ -267,7 +252,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   pagrindžia:
     - t-005
 
-- c-009
+- c-008
   santrauka: 'Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -284,9 +269,10 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
+    - t-001
 
-- c-010
+- c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vy­
@@ -304,70 +290,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
-- c-011
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
-    tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
-    Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė
-    D
-
-    ## Puslapis 22
-
-    ĮVADAS
-    Krokuva, Kališas ir Naugardas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-012
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
-    taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
-    gaišti dėl nesvarbių reikalų.
-    Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
-    vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­
-    keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų
-    miestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­
-    syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­
-    mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių
-    Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną
-    Sidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­
-    leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
-    250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
-    sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-013
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Atvyko
-    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
-    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
-    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
-    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
-    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
-    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
-    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
-    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
-    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
-    niai^2 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-014
+- c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kijeve ir apleisti tikinčiuosius. Livonijos Ordinas padarė
@@ -380,9 +305,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-015
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
@@ -398,25 +323,11 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
+    - t-004
 
-- c-016
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
-    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
-    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
-    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
-    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
-    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
-    džiai priimti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-017
+- c-012
+  santrauka: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
@@ -434,50 +345,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   pagrindžia:
     - t-003
 
-- c-018
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vis dėlto nereikėtų manyti, kad Vilnius
-    ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
-    patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk
-    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
-    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
-    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
-    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
-    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
-    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
-    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
-    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
-    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
-    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
-    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
-    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
-    klestėti!
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-019
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
-    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
-    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
-    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
-    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
-    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
-    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
-    jo lankytis tolimose provincijose, kur artimiau susipažino su
-    krikščioniškąja kultūra26.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-020
+- c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išsi­
@@ -495,9 +363,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-016
 
-- c-021
+- c-014
   santrauka: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -511,4 +379,4 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-020

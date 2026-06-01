@@ -26,18 +26,19 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
 ## Teiginiai
 
 - t-001
-  teiginys: 'Municipaliniai nuostatai Kas­ tilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­ lenkė Prancūzijos miestų teisėtvarką.'
+  teiginys: 'Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik vienu amžiumi aplenkė Prancūzijos miestų teisėtvarką.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų savininkams metus klajoklišką gyvenimo būdą, miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius ir nuo pat X.'
+  teiginys: 'Municipaliniai liudijimai miestams dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Municipaliniai liudijimai miestams dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­
@@ -58,6 +59,7 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
     - t-002
 
 - c-002
+  santrauka: 'Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik vienu amžiumi aplenkė Prancūzijos miestų teisėtvarką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kitaip klostėsi Ispanijoje,

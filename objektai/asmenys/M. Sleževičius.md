@@ -95,7 +95,6 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
 - [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]

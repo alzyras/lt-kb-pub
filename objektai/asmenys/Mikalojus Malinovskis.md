@@ -20,7 +20,7 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nėra geresnio pavyzdžio, kaip būtų galima sutvarkyti ir ap­ saugoti miesto archyvą nuo sunyki­ mo, už tą, kaip Radvilų archyvą Kar­ dinamoje pagal puikiai parengtą schemą sutvarkė mokslininkas ir di­ džiai prityręs Lietuvos istorijos ži­ novas Mikalojus.'
+  teiginys: 'Mikalojus Malinovskis sutvarkė Radvilų archyvą Kardinalijoje pagal gerai parengtą schemą ir tuo metu buvo Radvilų reikalų prokuratorius.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mikalojus Malinovskis sutvarkė Radvilų archyvą Kardinalijoje pagal gerai parengtą schemą ir tuo metu buvo Radvilų reikalų prokuratorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Neabejotina, kad tai nega­

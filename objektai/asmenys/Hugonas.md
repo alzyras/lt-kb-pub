@@ -20,13 +20,14 @@ Dusburgietis teigia, kad hugonas sušakosiąs ir ateityje duosiąs gausybę vais
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad hugonas sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
+  teiginys: 'Hugonas, Tiberiados valdovo Radolfo brolis, buvo tarp Jeruzalės karalystės baronų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hugonas, Tiberiados valdovo Radolfo brolis, buvo tarp Jeruzalės karalystės baronų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors
@@ -69,5 +70,4 @@ Dusburgietis teigia, kad hugonas sušakosiąs ir ateityje duosiąs gausybę vais
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]

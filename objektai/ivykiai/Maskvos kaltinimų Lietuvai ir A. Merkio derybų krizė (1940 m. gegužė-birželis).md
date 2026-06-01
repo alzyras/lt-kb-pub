@@ -34,17 +34,17 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V.'
+  teiginys: '1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietiškumu.'
   pagrindžia:
     - c-002
 
 - t-002
-  teiginys: 'Tai rodė, jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti Lietuvos ministrą pirmininką A.'
+  teiginys: '1940 m. gegužės pabaigoje Maskva apkaltino Lietuvą sovietų bazių kareivių grobimu ir pakvietė į Maskvą premjerą Antaną Merkį.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Birželio 10 dieną Kaune sužinojus, kad A.'
+  teiginys: '1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.'
   pagrindžia:
     - c-001
 
@@ -56,6 +56,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-
@@ -71,6 +72,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietiškumu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai rodė,
@@ -102,6 +104,7 @@ Nenurodyta
     - t-004
 
 - c-004
+  santrauka: '1940 m. gegužės pabaigoje Maskva apkaltino Lietuvą sovietų bazių kareivių grobimu ir pakvietė į Maskvą premjerą Antaną Merkį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vi-
@@ -118,10 +121,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Merkys]]
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/Augustinas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Viačeslavas Molotovas]]
 - [[objektai/asmenys/Antanas Merkys]]
 - [[objektai/asmenys/Juozas Urbšys]]
-- [[objektai/asmenys/Viačeslavas Molotovas]]

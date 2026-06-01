@@ -20,13 +20,14 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].'
+  teiginys: '1396 m. Jogailos ir Vytauto privilegijoje Vilniaus vyskupui Andriui tarp liudytojų minėtas Vilniaus vaivada Manvydas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1396 m. Jogailos ir Vytauto privilegijoje Vilniaus vyskupui Andriui tarp liudytojų minėtas Vilniaus vaivada Manvydas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mergelės Ma­

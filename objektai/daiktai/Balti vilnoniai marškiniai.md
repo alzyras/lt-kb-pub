@@ -46,19 +46,19 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
     - c-001
 
 - t-003
-  teiginys: 'Dalis žmonių ėjo krikštytis vien dėl marškinių.'
+  teiginys: 'Jogailos vardu dalinti balti vilnoniai marškiniai skatino dalį lietuvių krikštytis vien dėl šios dovanos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
   teiginys: 'Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-005
-  teiginys: 'Jogaila besi­ krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas — prie krikšto turėti baltą rūbą, nekaltybės simbolį.'
+  teiginys: 'Jogaila krikštijamiems žmonėms duodavo baltų vilnonių rūbų, kad būtų įvykdytas krikšto liturgijos reikalavimas turėti baltą rūbą.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -76,35 +76,10 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   pagrindžia:
     - t-001
     - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    krikštijo būriais. Vienas būrys buvo krikštijamas vienu, kitas
-    kitu vardu ir t. t. Kaip krikšto dovana, Jogailos vardu buvo
-    dalinami balti vilnoniai marškiniai, simbolizuoją nekaltąją sielą.
-    Kadangi tais laikais lietuviai paprastai nešiodavo lininius apdarus,
-    tai daug kas ėjo krikštytis jau vien dėl marškinių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila besi­
-    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
-    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
-    prie krikšto turėti baltą rūbą, nekaltybės simbolį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
+- c-002
+  santrauka: 'Jogaila krikštijamiems žmonėms duodavo baltų vilnonių rūbų, kad būtų įvykdytas krikšto liturgijos reikalavimas turėti baltą rūbą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
@@ -121,6 +96,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   statusas: verified
   pagrindžia:
     - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -132,7 +108,6 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 - [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
-- [[objektai/paprociai/Vaikų grūdinimas ir motinų auklėjimas]]
 - [[objektai/paprociai/Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų]]
 - [[objektai/daiktai/Vyženos]]
 - [[objektai/zodynas/Kilimas|kilimas]]

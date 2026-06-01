@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Švit­ rigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kuni­ gaikščio garantinis raštas iki šiol saugojamas Slaptajame archyve.'
+  teiginys: 'Švitrigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kunigaikščio garantinis raštas saugotas Slaptajame archyve.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švitrigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kunigaikščio garantinis raštas saugotas Slaptajame archyve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prekybos sutartis su Pskovu, kaip ir prieš metus

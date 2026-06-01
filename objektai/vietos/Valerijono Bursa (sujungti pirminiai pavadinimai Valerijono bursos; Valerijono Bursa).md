@@ -31,7 +31,7 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: 'Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvenantiems, būtų šiek tiek palengvintas skur­ dus gyvenimas, kad galėtų pasirūpinti, aišku, malkų, dar­ žovių ir kitų būtinų dalykų, davėme ir šiuo mūsų raštu duo­ dame du naujus, mūsų.'
+  teiginys: 'Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.'
   pagrindžia:
     - c-002
 
@@ -57,6 +57,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tikimės, kad didžiai gerbiamas tė­

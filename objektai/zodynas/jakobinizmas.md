@@ -47,7 +47,6 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
 ### Susiję objektai
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Antrasis LLV padalijimas]]

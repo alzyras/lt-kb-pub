@@ -20,18 +20,19 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas tik lotyniškas šio teritorinio vieneto vardas (Jer —geblt), plg.'
+  teiginys: 'Dusburgiečio kronikoje žemė susideda iš mažesnių teritorijų, kurioms istoriografijoje taikomas valsčiaus terminas.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad valsčių sudarė pilis ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis — kaimais ir žemdirbių — sodžiais (Jurginis J.'
+  teiginys: 'Valsčių sudarė pilis, laukai, pievos ir miškeliai su bajorų kaimais bei žemdirbių sodžiais.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgiečio kronikoje žemė susideda iš mažesnių teritorijų, kurioms istoriografijoje taikomas valsčiaus terminas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D. žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium
@@ -50,6 +51,7 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
     - t-001
 
 - c-002
+  santrauka: 'Valsčių sudarė pilis, laukai, pievos ir miškeliai su bajorų kaimais bei žemdirbių sodžiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Valsčių sudarė  pilis  ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis

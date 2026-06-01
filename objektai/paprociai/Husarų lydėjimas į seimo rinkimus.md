@@ -55,7 +55,7 @@ Nenurodyta
 - t-003
   teiginys: 'Visi šie kariai yra bajorai, o ypač husarai, karalius ir etmonai juos pagerbė suL Ąteikdami draugo [Touariche] vardą, kuris reiškia draugą arba palydovą, jie valgo už jų Fax stalo, savo provincijoje yra labai vertinami ir netgi gerbiami, o dauguma gauna.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -73,19 +73,6 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    kurie prie jos dar priskiria petihorus, nors jų daugiau gali išvysti Lietuvos, o ne Karūnos
-    armijoje. Visi šie kariai yra bajorai, o ypač husarai, karalius ir etmonai juos pagerbė su-
-    L Ąteikdami draugo [Touariche] vardą, kuris reiškia draugą arba palydovą, jie valgo už jų
-    Fax stalo, savo provincijoje yra labai vertinami ir netgi gerbiami, o dauguma gauna rentas iš
-    etmonų bei didelių senjorų, kuriuos pagerbdami lydi į seimo rinkimus.“
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai

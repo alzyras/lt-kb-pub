@@ -23,11 +23,6 @@ Tada raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine T
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Tada raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine Tautos Vyriausybe ir paskelbė sukilimą.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,21 +46,6 @@ Tada raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine T
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Tada raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine Tautos Vyriausybe ir paskelbė sukilimą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Daugumas jaunimo, vengdamas patekti į kariuomenę,
-    išsislapstė po miškus ir rinkosi į būrius. Tada raudonųjų
-    centro komitetas, pabėgėlių verčiamas, pasivadino Laikine
-    Tautos Vyriausybe ir paskelbė sukilimą.
-
-    Sukilimas Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

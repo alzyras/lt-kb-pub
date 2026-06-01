@@ -25,13 +25,14 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos kar
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos karalystės.'
+  teiginys: 'Popiežius Bonifacas pasiuntė Prancūzijos karaliui Pilypui priklausomybės reskriptą su bule.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežius Bonifacas pasiuntė Prancūzijos karaliui Pilypui priklausomybės reskriptą su bule.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę

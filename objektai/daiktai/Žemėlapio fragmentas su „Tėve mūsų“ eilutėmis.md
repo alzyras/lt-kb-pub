@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Daukšos veikla pa- 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 73 Žemėlapio fragmentas su pirmosiomis „Tėve mūsų“ eilutėmis visomis Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).'
+  teiginys: '1741 m. Niurnberge išleistame žemėlapio fragmente pateiktos pirmosios „Tėve mūsų“ eilutės Europos kalbomis ir lietuviškai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1741 m. Niurnberge išleistame žemėlapio fragmente pateiktos pirmosios „Tėve mūsų“ eilutės Europos kalbomis ir lietuviškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Unikali M. Daukšos veikla pa-

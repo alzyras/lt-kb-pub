@@ -21,14 +21,14 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Netrukus po to Ordino maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­ tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė aplinkines žemes.'
+  teiginys: 'Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Netrukus po to Ordino maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­ tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė aplinkines žemes.'
+  santrauka: 'Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tų karingų vienuolių viršininkas, greitas

@@ -26,13 +26,14 @@ Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti.'
+  teiginys: '1569 m. Liublino seime J. J. Chodkevičius Žygimantui Augustui sakė, kad lietuviai buvo priversti nusileisti su skausmu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1569 m. Liublino seime J. J. Chodkevičius Žygimantui Augustui sakė, kad lietuviai buvo priversti nusileisti su skausmu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len-

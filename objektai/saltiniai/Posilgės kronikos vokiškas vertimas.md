@@ -17,13 +17,14 @@ Dusburgietis teigia, kad pradžios lotyniškuose Torunės analuose — Ragniten,
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad pradžios lotyniškuose Torunės analuose — Ragniten, o jų pagrindu parašytos Posilgės kronikos vokiškame vertime — Rangnith (SRP, 3, p. 131).'
+  teiginys: 'Posilgės kronikos vokiškame vertime vartojama vietovardžio forma „Rangnith“, perimta iš lotyniškų Torunės analų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posilgės kronikos vokiškame vertime vartojama vietovardžio forma „Rangnith“, perimta iš lotyniškų Torunės analų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     12, 18, 22, 43). XV a. vokiškame rankraštyje — Ragnith (SRP,

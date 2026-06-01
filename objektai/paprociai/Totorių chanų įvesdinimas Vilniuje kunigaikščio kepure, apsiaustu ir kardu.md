@@ -47,13 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­ dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra skelbęs.'
+  teiginys: '1419 m. Vilniaus pilyje Vytautas didžiosios ordos chanu paskelbė Betsabutą, uždėdamas kepurę, apsiausdamas apsiaustu ir prisegdamas kardą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1419 m. Vilniaus pilyje Vytautas didžiosios ordos chanu paskelbė Betsabutą, uždėdamas kepurę, apsiausdamas apsiaustu ir prisegdamas kardą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
@@ -108,3 +109,4 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vasalas]]
+- [[objektai/daiktai/Kardas]]

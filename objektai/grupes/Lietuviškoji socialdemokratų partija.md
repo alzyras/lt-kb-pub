@@ -45,7 +45,7 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
 - t-004
   teiginys: 'LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje prarado, patyrė ir didžiausias caro valdžios represijas.'
   pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -66,6 +66,7 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
   statusas: verified
   pagrindžia:
     - t-003
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -101,24 +102,6 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
     - t-001
 
 - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos
-    socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valsty-
-    bingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-
-    nės veikėjais, tačiau bendros kalbos nerado.
-    LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio
-    idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje
-    prarado, patyrė ir didžiausias caro valdžios represijas. Socialdemokratai
-    rėmė Lietuvos nepriklausomybės idėją, pasisakė už socialines reformas,
-    lietuvių ir lenkų kalbų lygybę Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
   santrauka: 'Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -139,7 +122,6 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/spiritus movens]]

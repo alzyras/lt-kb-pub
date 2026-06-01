@@ -47,13 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 71 trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai pačiai.'
+  teiginys: 'Apie 1500 m. katalikiškoje LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 1500 m. katalikiškoje LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Istorikai XVI–XVII a. Lenkijos religinę toleranciją yra api-

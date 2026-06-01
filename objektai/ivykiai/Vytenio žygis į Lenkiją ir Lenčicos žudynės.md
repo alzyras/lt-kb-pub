@@ -41,7 +41,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­ nių nužudymą bei paėmimą į nelaisvę Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai.'
+  teiginys: 'Vytenis su 800 vyrų per Sekmines įsiveržė į Lenkiją, užpuolė Lenčicos dvasininkus ir išsivarė daug belaisvių.'
   pagrindžia:
     - c-002
 
@@ -70,6 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Vytenis su 800 vyrų per Sekmines įsiveržė į Lenkiją, užpuolė Lenčicos dvasininkus ir išsivarė daug belaisvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     250 (243). Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­

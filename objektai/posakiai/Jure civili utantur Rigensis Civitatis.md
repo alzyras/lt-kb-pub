@@ -44,42 +44,19 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
     - c-001
 
 - t-002
-  teiginys: 'Formulė paliko galimybę vėliau priimti geresnius įstatymus išmintingųjų tarybos sprendimu.'
+  teiginys: '„Jure civili utantur Rigensis Civitatis“ Gedimino laiške leido Vilniaus kolonistams naudotis Rygos civiline teise, kol bus sukurti geresni įstatymai.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Jure civili utantur Rigensis Civitatis, omnis vul­ gus, nisi tunc melius fuerit inuentum de sano consilio discretorum [tad visi [tie] žmonės tesinaudoja civiline Ry­ gos miesto teise, jei paskui geriau ne­ bus sumanyta išmintingųjų tarybos].'
+  teiginys: '„Jure civili utantur Rigensis Civitatis“ nurodė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gedimino laiške Liubeko, Rostoko,
-    Zundo, Greifsvaldo, Štetino mies­
-    tams ir Gotlando salos gyventojams
-    šis valdovas praneša, kad į Vilnių at­
-    vykę kolonistai galės vadovautis ci­
-    viline teise, kokia naudojasi Rygos
-    miestas, kol teisėtvarkininkai nesu­
-    kurs geresnių įstatymų. Jure civili
-    utantur Rigensis Civitatis, omnis vul­
-    gus, nisi tunc melius fuerit inuentum
-    de sano consilio discretorum [tad visi
-    [tie] žmonės tesinaudoja civiline Ry­
-    gos miesto teise, jei paskui geriau ne­
-    bus sumanyta išmintingųjų tarybos].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
+  santrauka: '„Jure civili utantur Rigensis Civitatis“ nurodė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
@@ -115,6 +92,8 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
   statusas: verified
   pagrindžia:
     - t-003
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

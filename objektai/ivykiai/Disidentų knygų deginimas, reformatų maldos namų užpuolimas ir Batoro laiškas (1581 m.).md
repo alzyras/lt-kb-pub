@@ -43,13 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rūsčiai išbarė už šią sumaištį karalius, susirūpinęs Pskovo apgultimi, ir iš stovyklos parašė aną atmintiną laišką, kuriame pareiš­ kė, kad prisiekęs visoje valstybėje visiems išsaugoti laisvę, negalėjęs nebausdamas leisti, kad dėl tos priežasties būtų.'
+  teiginys: 'Steponas Batoras iš stovyklos parašytame laiške pasmerkė sumaištį ir pareiškė prisiekęs valstybėje saugoti laisvę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Steponas Batoras iš stovyklos parašytame laiške pasmerkė sumaištį ir pareiškė prisiekęs valstybėje saugoti laisvę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet teisingas ir santūrus Steponas Batoras sugebė­

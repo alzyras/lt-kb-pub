@@ -18,13 +18,14 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 664—708; Biržiška V.'
+  teiginys: 'V. Biržiška parašė darbą „Kryžiuočių keliai“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Biržiška parašė darbą „Kryžiuočių keliai“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     135 SRP, B. 2, S. 664—708; Biržiška V. Kryžiuočių keliai..., p. 1—63; Kraštas  ir

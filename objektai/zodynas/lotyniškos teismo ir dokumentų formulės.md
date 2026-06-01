@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šitai Mes, Lietuvos Didžiosios Kunigaikštystės Vy­ riausiojo Tribunolo Teismas, aną [dokumentą] priėmę, pa­ vedėme įrašyti į Tribunolo Viešąsias knygas.'
+  teiginys: 'LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     238

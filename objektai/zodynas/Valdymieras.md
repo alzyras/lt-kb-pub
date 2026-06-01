@@ -34,7 +34,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
     - c-001
 
 - t-003
-  teiginys: 'Jiems priskiriamas svetimų parėdymų įvedimas siekiant padidinti valdžią.'
+  teiginys: 'Valdymierai kartais įvesdavo svetimus parėdymus į savo ūkę, kad padidintų valdžią ir pavergtų žmones.'
   pagrindžia:
     - c-002
 

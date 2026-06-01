@@ -30,32 +30,16 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totorių Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių į Ispaniją ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį.'
   pagrindžia:
-    - c-002
-    - c-004
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių, 596 1241 m. įvykiai.'
   pagrindžia:
-    - c-003
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,
-      596 1241 m. įvykiai.
-
-    kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
-    21,33).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių
@@ -70,7 +54,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
@@ -85,19 +69,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių
-    į Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį
-    užpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai
-    kraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

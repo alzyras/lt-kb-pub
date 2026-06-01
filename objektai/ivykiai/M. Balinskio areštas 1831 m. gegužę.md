@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Gegužės mėnesį buvo areštuotas M.'
+  teiginys: '1831 m. gegužę Mykolas Balinskis buvo areštuotas, bet netrukus paleistas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1831 m. gegužę Mykolas Balinskis buvo areštuotas, bet netrukus paleistas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rusų valdžia kontroliavo tik Vilniaus miestą, iš
@@ -65,3 +66,5 @@ Nenurodyta
 - [[objektai/asmenys/Aleksandras Balinskis]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/autoriai/Mykolas Balinskis]]

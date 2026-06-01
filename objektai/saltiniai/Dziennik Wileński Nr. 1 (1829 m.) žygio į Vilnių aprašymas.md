@@ -24,13 +24,14 @@ Tūkstančiui rinktinių anglų 21 To įsidėmėtino žygio į Vilnių apra­ š
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tūkstančiui rinktinių anglų 21 To įsidėmėtino žygio į Vilnių apra­ šymą nepasirašę įdėjome į 1829 metų Dziennik Wileński Nr. 1.'
+  teiginys: 'Įsidėmėtino žygio į Vilnių aprašymas buvo nepasirašytas išspausdintas 1829 metų „Dziennik Wileński“ Nr. 1.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Įsidėmėtino žygio į Vilnių aprašymas buvo nepasirašytas išspausdintas 1829 metų „Dziennik Wileński“ Nr. 1.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Galop ta galinga kariauna išsiruošė į

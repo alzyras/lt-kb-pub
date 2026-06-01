@@ -39,12 +39,12 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - t-003
   teiginys: 'Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos pilim jis jau nebeturėjo ryšio.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-004
   teiginys: 'Apgriautos pilies plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.'
   pagrindžia:
-    - c-006
+    - c-004
 
 - t-005
   teiginys: '1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.'
@@ -54,7 +54,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - t-006
   teiginys: 'Dabar sienos ir trys kiti bokštai gerokai apgriauti, ypač per pastaruosius dvidešimt metų, o šiuo metu netgi nedraudžiama plytas rinkti ir pardavinėti į Jurbarką krosnims ir dūmtraukiams mūryti.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -85,6 +85,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -102,21 +103,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     - t-002
 
 - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet
-    dabar, po Durbės pralaimėjimo, jis buvo išvytas iš visos Žemai-
-    tijos. Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos
-    pilim jis jau nebeturėjo ryšio. Nustojęs vilties veikiai nuka-
-    riauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuo-
-    čiams (1328 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Seniau jos sudarė ketvirtainį, kampuose su­
@@ -132,20 +118,4 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Seniau jos sudarė ketvirtainį, kampuose su­
-    tvirtintą bokštais, vienas jų, aukštesnis už kitus, stovi išlai­
-    kęs pirmapradį pavidalą. Dabar sienos ir trys kiti bokštai
-    gerokai apgriauti, ypač per pastaruosius dvidešimt metų, o
-    šiuo metu netgi nedraudžiama plytas rinkti ir pardavinėti į
-    Jurbarką krosnims ir dūmtraukiams mūryti. Viena siena iš
-    vakarų pusės jau seniai buvo nugriauta, kad atsivertų vaiz­
-    das į Nemuną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004

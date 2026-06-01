@@ -26,13 +26,14 @@ Dusburgietis teigia, kad tai nuo Dlugošo einanti tradicija — Jakubowski J.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tai nuo Dlugošo einanti tradicija — Jakubowski J.'
+  teiginys: 'J. Jakubowskis Długoszo tradiciją siejo su žinia apie Petrą Dusburgietį per tarpininką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Jakubowskis Długoszo tradiciją siejo su žinia apie Petrą Dusburgietį per tarpininką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     75 Pasakodamas apie Vytenį, jis tvirtina rašąs kaip Petras Dusburgietis, senas Prūsų

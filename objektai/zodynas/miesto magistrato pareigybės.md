@@ -28,7 +28,7 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką.'
+  teiginys: '1536 m. rugsėjo 9 d. Žygimantas Senasis Vilniuje įsakė paskelbti naujus miesto įstatymus dėl magistrato tvarkos.'
   pagrindžia:
     - c-003
 
@@ -38,13 +38,14 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
     - c-002
 
 - t-003
-  teiginys: 'O 1568 metų birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu sprendimu apsaugojo miestiečius nuo engiančio užrašinėjimo jų namuose apsigyventi dvariškiams, karaliaus valdi­ ninkams ir svetimšaliams pasiuntiniams, be miesto tarybos žinios ir leidimo.'
+  teiginys: '1568 m. Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis tapti bajorais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1568 m. Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis tapti bajorais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O 1568 metų
@@ -100,6 +101,7 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
     - t-002
 
 - c-003
+  santrauka: '1536 m. rugsėjo 9 d. Žygimantas Senasis Vilniuje įsakė paskelbti naujus miesto įstatymus dėl magistrato tvarkos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netvarka ir apsileidimas, įsitvirtinę miesto administra­
@@ -135,6 +137,7 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]

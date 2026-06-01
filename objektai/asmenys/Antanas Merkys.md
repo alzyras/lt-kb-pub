@@ -33,7 +33,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     - c-004
 
 - t-002
-  teiginys: 'Merkį.'
+  teiginys: 'Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.'
   pagrindžia:
     - c-003
 
@@ -84,6 +84,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     - t-005
 
 - c-003
+  santrauka: 'Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,

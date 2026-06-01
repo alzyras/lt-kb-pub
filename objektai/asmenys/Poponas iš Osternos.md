@@ -105,6 +105,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   statusas: verified
   pagrindžia:
     - t-002
+    - t-007
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -164,25 +165,8 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   pagrindžia:
     - t-006
 
-- c-007
-  santrauka: 'Dusburgietis teigia, kad apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    38. Apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą
-
-      Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos.
-    Daug kartų garbingai kariavęs Prūsijoje ir Livonijoje prieš tai, kai priėmė šias pareigas, ir
-    po to, kai jas priėmė, pavargęs nuo metų ir rūpesčių naštos, jis nuolankiai atsisakė savo
-    pareigybės, o ją paveldėjo anksčiau jau šias pareigas ėjęs brolis Anonas.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-007
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Anonas (didysis magistras)]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Pomeranai]]

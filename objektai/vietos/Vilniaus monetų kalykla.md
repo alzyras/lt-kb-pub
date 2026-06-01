@@ -45,7 +45,7 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
     - c-002
 
 - t-003
-  teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
+  teiginys: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemaža pajamų karaliaus iždui.'
   pagrindžia:
     - c-003
 
@@ -92,6 +92,7 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
     - t-002
 
 - c-003
+  santrauka: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemaža pajamų karaliaus iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­

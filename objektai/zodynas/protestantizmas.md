@@ -26,7 +26,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 ## Teiginiai
 
 - t-001
-  teiginys: 'Protestantizmas labai greitai pa- siekė Lietuvą.'
+  teiginys: 'Protestantizmas labai greitai pasiekė Lietuvą.'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     - c-004
 
 - t-004
-  teiginys: 'protestantizmas: xVI am- žiuje užplūdusi protestantizmo banga išjudino iš pamatų kata- likybę Lietuvoje. Beveik visos didžiųjų ponų šeimos buvo išvir- tusios protestantais. Bet jau to pat amžiaus gale atvykusių jėzuitų pastangomis katalikybė ėmė atsigauti, ir daugelis.'
+  teiginys: 'XVI a. protestantizmo banga Lietuvoje paveikė katalikybę, bet amžiaus pabaigoje jėzuitai padėjo jai atsigauti.'
   pagrindžia:
     - c-003
 
@@ -53,6 +53,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Protestantizmas labai greitai pasiekė Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Protestantizmas labai greitai pa-
@@ -81,6 +82,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     - t-005
 
 - c-003
+  santrauka: 'XVI a. protestantizmo banga Lietuvoje paveikė katalikybę, bet amžiaus pabaigoje jėzuitai padėjo jai atsigauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XVI am-

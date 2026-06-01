@@ -27,18 +27,19 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
 ## Teiginiai
 
 - t-001
-  teiginys: 'Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis perėmė vaistinę, kad ir yra in sua arte [savo me­ ne] puikiai pasiruošęs ir savo profesoriui Necelui prilygs­ tantis, tačiau per tokį dar trumpą laiką nėra pelnęs dide­ lio.'
+  teiginys: 'Po Necelo mirties vaistininkas Renkielis perėmė vaistinę ir buvo laikomas gerai pasiruošusiu savo amato specialistu.'
   pagrindžia:
     - c-001
 
 - t-002
   teiginys: 'Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Necelo mirties vaistininkas Renkielis perėmė vaistinę ir buvo laikomas gerai pasiruošusiu savo amato specialistu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kaip kad paaiškėjo iš maloningojo Necelu
@@ -67,36 +68,6 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kaip kad paaiškėjo iš maloningojo Necelu
-    pavyzdžio, immediate [neseniai] mirusio, kuris, būdamas
-    vaistininkas, buvo kartu ir puikus gydytojas. Po pastarojo
-    mirties, kai dabartinis vaistininkas maloningasis ponas
-    Renkielis perėmė vaistinę, kad ir yra in sua arte [savo me­
-    ne] puikiai pasiruošęs ir savo profesoriui Necelui prilygs­
-    tantis, tačiau per tokį dar trumpą laiką nėra pelnęs dide­
-    lio palankumo, tad negali turėti tiek pajamų, kiek turėjo
-    anasai.
-    183
-
-    ## Puslapis 200
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    O po to, norėdamas gauti bent kiek žinių apie vaistinės
-    pajamas, post praestitum juramentum [po prisaikdinimo] po­
-    no Renkielio, supra realem comportationem [dėl tikresnio pa­
-    lyginimo] senesniųjų metų apyskaitų, išrašėme immediate
-    [iškart] praėjusių idq, [t. y.], nuo 1772 metų a die 1-ma Maij
-    [nuo gegužės 1-os] iki 1773 metų, irgi ad diem l-mam Maij [iki
-    gegužės 1-os].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
 ## Ryšiai

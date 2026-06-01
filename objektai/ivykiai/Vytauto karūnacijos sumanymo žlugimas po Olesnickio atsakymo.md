@@ -34,13 +34,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Apie save pasakysiu: nei dovanomis papirkti, nei grasinimais įbauginti neįstengs; mat tėvynės meilę ir dorą labiau už visus Vytauto turtus vertinu!" Šis atsakymas, vertas išlikti tolimiausių ainių atmintyje, pa­ galiau privertė ir Vytautą sudvejoti dėl savo.'
+  teiginys: 'Olesnickio atsakymas privertė Vytautą sudvejoti dėl karūnacijos sumanymo, o praradęs viltį gauti karūną jis sunkiai susirgo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Olesnickio atsakymas privertė Vytautą sudvejoti dėl karūnacijos sumanymo, o praradęs viltį gauti karūną jis sunkiai susirgo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie save pasakysiu: nei dovanomis
@@ -65,3 +66,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/asmenys/Olesnickio]]
+- [[objektai/zodynas/apsikarūnavimas]]

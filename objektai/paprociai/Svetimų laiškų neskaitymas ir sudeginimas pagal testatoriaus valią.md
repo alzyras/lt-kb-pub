@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Prašome jos didenybę karalaitę Oną, jei­ gu čia po mūsų valstybėse pasiliks, kad laiškus toje aukš­ čiau paminėtoje skrynioje, kur yra vienaragis [deimantas], įsakytų jos akyse sudeginti neskaičius, išskyrus privilegijų pergamentus, jeigu ten jų būtų ir jeigu.'
+  teiginys: 'Testatorius prašė karalaitės Onos jo skryniose rastus laiškus sudeginti neskaičius ir neleisti jų skaityti kitiems.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Testatorius prašė karalaitės Onos jo skryniose rastus laiškus sudeginti neskaičius ir neleisti jų skaityti kitiems.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Onos bažnyčią Vilniuje ir

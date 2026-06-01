@@ -31,7 +31,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 200 D.— Galindia, in qua Galindite, Jer.— Galindin.'
+  teiginys: 'Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.'
   pagrindžia:
     - c-002
 
@@ -54,8 +54,10 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   statusas: verified
   pagrindžia:
     - t-001
+    - t-003
 
 - c-002
+  santrauka: 'Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     200 D.— Galindia, in qua Galindite, Jer.— Galindin. T.,   ja  į pietus nuo Bartos, nuo
@@ -71,36 +73,14 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    4. Apie Galindos žemės nuniokojimą
-
-      Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai
-    sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti. Kaip tas faraonas,
-    kuris, norėdamas sunaikinti Izraelio tautą, tarė priėmėjoms:  „Jei gims berniukas,
-    nužudykite jį, jeigu mergaitė — palikite gyvą“, taip ir jie nutarė, kad gimusios mergaitės
-    būtų nužudomos, o berniukai paliekami karui.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/autoriai/Jaskanis J]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/autoriai/Mepжинский А. Ф]]
 - [[objektai/asmenys/Michailas Jaroslavičius]]
 - [[objektai/asmenys/Ptolemajas]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/autoriai/Vanagas A]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/autoriai/Вилинбахов В. Б]]
-- [[objektai/autoriai/Топоров B. H]]
-- [[objektai/autoriai/Энговатов H. В]]
 - [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]
-- [[objektai/posakiai/daugindamiesi kaip grybai po lietaus]]

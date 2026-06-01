@@ -20,7 +20,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo.'
+  teiginys: 'Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę.'
   pagrindžia:
     - c-003
 
@@ -77,6 +77,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     - t-002
 
 - c-003
+  santrauka: 'Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų

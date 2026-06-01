@@ -45,24 +45,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '1922 m. rugpjūčio 9 d. Steigiamasis Seimas priėmė Piniginio vieneto įstatymą.'
-  pagrindžia:
-    - c-003
-
-- t-002
   teiginys: 'Piniginio vieneto įstatymas skelbė litą auksu paremtu Lietuvos piniginiu vienetu, sudarytu iš 100 centų.'
   pagrindžia:
-    - c-003
+    - c-001
 
-- t-003
+- t-002
   teiginys: '1922 m. spalio 1 d. Lietuvoje įvestas litas.'
   pagrindžia:
     - c-002
 
-- t-004
+- t-003
   teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -80,7 +75,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
+    - t-001
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -94,26 +90,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
-    dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
-    mėsos produktų eksportas į užsienį.
-    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
-    nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
-    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
-    ieškoti sprendimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
     - t-002
 
-- c-004
+- c-003
   santrauka: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -127,7 +106,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

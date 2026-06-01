@@ -20,23 +20,24 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '[Dievobaimin­ ga širdimi apsvarstę pirmuosius veiksmus, Kristuje gerbiamam tėvui ponui Vilniaus vyskupui Motiejui ir jo įpėdiniams, Visagalio Dievo ir šlo­ vingosios Mergelės Marijos garbei ir t.'
+  teiginys: 'Vilniaus vyskupui Motiejui ir jo įpėdiniams buvo dovanotas dvaras Medininkų valsčiuje.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
+  teiginys: 'Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Šioje sutartyje tarp kunigaikščių ir prelatų nurodyti: Černigovo ku­ nigaikštis Švitrigaila, Vilniaus vys­ kupas Motiejus ir Medininkų (Žemai­ tija) vyskupas nominatas Mikalojus.'
+  teiginys: 'Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lenkijos miestai, jau
@@ -65,6 +66,7 @@ tags:
     - t-003
 
 - c-002
+  santrauka: 'Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -96,6 +98,7 @@ tags:
     - t-002
 
 - c-003
+  santrauka: 'Vilniaus vyskupui Motiejui ir jo įpėdiniams buvo dovanotas dvaras Medininkų valsčiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nusilpęs, nesėkmių pribaigtas prūsas lio­

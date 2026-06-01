@@ -28,13 +28,14 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
 ## Teiginiai
 
 - t-001
-  teiginys: 'Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų ant vežimų, kurios, svaidydamosios ugnies išmetamomis ma­ žomis geležies kulkomis, baisaus trenksmo lydimomis, daugiau buvo tinkamos žirgams gąsdinti.'
+  teiginys: 'Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ži­

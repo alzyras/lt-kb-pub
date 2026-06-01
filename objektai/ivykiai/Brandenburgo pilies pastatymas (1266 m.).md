@@ -43,7 +43,6 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Brandenburgo pilies pastatymą Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių į Prūsijos žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro bei brolių patariamas, pastatydino Brandenburgo pilį399.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -62,20 +61,6 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių  į Prūsijos
-    žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro
-    bei brolių patariamas, pastatydino Brandenburgo pilį399 ir panorėjo, kad ji visą laiką būtų
-    vadinama tuo pat vardu, kaip vadinama ir jo markgrafystė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]

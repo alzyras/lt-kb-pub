@@ -41,7 +41,7 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
 - t-004
   teiginys: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -65,21 +65,6 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
     - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvoje labai išpopulia-
-    rėjo masonų judėjimas. Masonų
-    ložėms priklausė diduma bent
-    kiek intelektualesnės publikos.
-    Garsiausioji ložė vadinosi „Uolusis
-    lietuvis“ („Gorliwy Litwin“).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
   santrauka: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -95,6 +80,7 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

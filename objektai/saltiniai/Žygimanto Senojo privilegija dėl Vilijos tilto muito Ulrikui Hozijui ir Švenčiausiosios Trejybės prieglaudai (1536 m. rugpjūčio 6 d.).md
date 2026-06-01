@@ -26,12 +26,12 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tad tokiai prie­ glaudai ir joje gyvenantiems vargšams mes karališkąja malo­ ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­ kams atiduoti, dovanoti, paskirti ir užrašyti.'
+  teiginys: 'Žygimantas Senasis paskyrė Vilijos tilto mokestį Švenčiausiosios Trejybės prieglaudai ir joje gyvenantiems vargšams.'
   pagrindžia:
     - c-006
 
 - t-002
-  teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
+  teiginys: 'Žygimantas Senasis uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.'
   pagrindžia:
     - c-007
 
@@ -41,22 +41,22 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     - c-004
 
 - t-004
-  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
+  teiginys: 'Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.'
   pagrindžia:
     - c-005
 
 - t-005
-  teiginys: 'Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir išlaidas, kokias patyrė statydamas tiltą per upę, rinkti ir padengti tol, kol jam nesugrįš visas jo įdėtas kapita­ las.'
+  teiginys: 'Ulrikui Hozijui leista rinkti Vilijos tilto mokestį, kol jis susigrąžins tilto statybai išleistą kapitalą.'
   pagrindžia:
     - c-003
 
 - t-006
-  teiginys: 'Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų.'
+  teiginys: 'Žygimanto Senojo tarėjai apžiūrėjo vietą prie Šv. Dvasios prieglaudos, kurią Ulrikas Hozijus buvo pradėjęs mūryti.'
   pagrindžia:
     - c-001
 
 - t-007
-  teiginys: 'O kad tvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos aprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­ dymas ištikimai ir deramai būtų išlaikomas, globą ir vado­ vavimą minėtos administracijos šviesiausiajam Kristuje tė­ vui.'
+  teiginys: 'Žygimantas Senasis prieglaudos administracijos globą ir vadovavimą patikėjo Vilniaus vyskupui ir Vilniaus kapitulai.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimanto Senojo tarėjai apžiūrėjo vietą prie Šv. Dvasios prieglaudos, kurią Ulrikas Hozijus buvo pradėjęs mūryti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad norėdami tokį mūsų va­
@@ -101,6 +102,7 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     - t-006
 
 - c-002
+  santrauka: 'Žygimantas Senasis prieglaudos administracijos globą ir vadovavimą patikėjo Vilniaus vyskupui ir Vilniaus kapitulai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kad
@@ -140,6 +142,7 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     - t-007
 
 - c-003
+  santrauka: 'Ulrikui Hozijui leista rinkti Vilijos tilto mokestį, kol jis susigrąžins tilto statybai išleistą kapitalą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo
@@ -198,6 +201,7 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     - t-003
 
 - c-005
+  santrauka: 'Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai mes ankstesniais metais svarstėme mūsų LDK val­
@@ -241,6 +245,7 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     - t-004
 
 - c-006
+  santrauka: 'Žygimantas Senasis paskyrė Vilijos tilto mokestį Švenčiausiosios Trejybės prieglaudai ir joje gyvenantiems vargšams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad tokiai prie­
@@ -272,6 +277,7 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     - t-001
 
 - c-007
+  santrauka: 'Žygimantas Senasis uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat norime

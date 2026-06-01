@@ -39,37 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Dusburgietis teigia, kad nieko šiuo antpuoliu nepešę, pasitraukė; kai priėjo vietą, kur buvo palikę saugas prie atsarginės žygio mantos, pamatė, kad Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių, duoną bei kitokį maistą ir visus kitus paliktus.'
+  teiginys: 'Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.'
   pagrindžia:
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nieko šiuo antpuoliu nepešę, pasitraukė;
-    kai priėjo vietą, kur buvo palikę saugas prie atsarginės žygio mantos, pamatė, kad
-    Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių,
-    duoną bei kitokį maistą ir visus kitus paliktus saugoti daiktus. Dar labiau susirūpino
-    broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;
-    jie patraukė  į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
-    arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
-    alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
-    išvykimo dienos.
-
-
-
-
-                      323 (316).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     sugriovė, o aplinkines žemes nuniokojo, degindamas ir plėšdamas visa, kas pakliuvo;
@@ -95,4 +72,5 @@ Nenurodyta
 - [[objektai/daiktai/Duona]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Dovydas]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]

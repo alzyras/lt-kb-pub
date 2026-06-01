@@ -112,23 +112,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    209 (204). Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
-
-       Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
-    pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
-    kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
-    kurį niokojo, degindamas ir grobdamas. Be kita ko, sudegino Skomanto, galingo vyro bei
-    šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu
-    grobiu sugrįžo namo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-003
 
 ## Ryšiai
@@ -139,7 +122,3 @@ Nenurodyta
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/asmenys/Liudvikas iš Libencelės]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mangoldas [iš Šternbergo]]]
-- [[objektai/zodynas/grabnyčių diena]]

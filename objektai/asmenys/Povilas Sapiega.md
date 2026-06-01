@@ -39,7 +39,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
 - t-003
   teiginys: 'Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-004
   teiginys: 'Lietuvos didžiojo etmono Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė buvo iš Lietuvos išstumta.'
@@ -79,6 +79,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   statusas: verified
   pagrindžia:
     - t-004
+    - t-003
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -95,22 +96,6 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1659 m. rusai užėmė
-    Slanimą, Lydą ir Gardiną. Lietuvos didžiojo etmono Povilo Sapiegos
-    vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661
-    m. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė
-    buvo iš Lietuvos išstumta. 1667 m. sausio 30 d. netoli Smolensko pa-
-    sirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko
-    Smolenskas, Černigovas, Severų Naugardas, Kijevas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -32,11 +32,6 @@ Dusburgietis teigia, kad senuoju prūsišku vardu vadino pilį ir kryžiuočiai 
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad l., Die Eroberung..., 2, p. 235; HP, 1, 1, p. 449; Wunder H., Siedlungs-..., p. 170; Górnowicz H., Toponimia..., p. 43) kairiajame Zirgūnos (dab.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,20 +49,6 @@ Dusburgietis teigia, kad senuoju prūsišku vardu vadino pilį ir kryžiuočiai 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    304 Dab. Dzežgonis, Dzierzgoń.  Pilis pastatyta 1247—1248 m. (SRP, 1, p. 683;
-    Ewald A. L., Die Eroberung..., 2, p. 235; HP, 1, 1, p. 449; Wunder H., Siedlungs-..., p.
-    170; Górnowicz H., Toponimia..., p. 43) kairiajame Zirgūnos (dab. Dzierzgoń) krante,
-    prūsiškosios Zirgūnos (žr. paaiškinimą D. III, 11, 2) pilies vietoje (Rymut K., Nazwy...,
-    p. 69).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

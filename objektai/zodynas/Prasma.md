@@ -60,4 +60,3 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namų baldai ir rakandai]]
-- [[objektai/paprociai/Žemaičių sėtinių kepimas namuose]]

@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kad būtų galima to išvengti, darant uniją daugiausia dėmesio ir buvo kreipiama į susitarimą dėl bendro valdovo.'
+  teiginys: 'Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.'
   pagrindžia:
     - c-005
 
@@ -68,6 +68,11 @@ Nenurodyta
   teiginys: 'Savotiškos personalinės unijos reikalavo lietuviai.'
   pagrindžia:
     - c-004
+
+- t-005
+  teiginys: 'Kad būtų galima to išvengti, darant uniją daugiausia dėmesio ir buvo kreipiama į susitarimą dėl bendro valdovo.'
+  pagrindžia:
+    - c-006
 
 - t-006
   teiginys: 'Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl formalumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje ar pereis į realinę.'
@@ -150,6 +155,7 @@ Nenurodyta
     - t-004
 
 - c-005
+  santrauka: 'Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Epochos pa-

@@ -27,7 +27,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - c-001
 
 - t-003
-  teiginys: 'Tuo tarpu 1-asis pėstininkų pulkas puolimą pradėjo naktį iš 23 į 24 d. palei Zarasų plentą ir siekė pralaužti atsparumu pagarsėjusią „Bružų poziciją“, tačiau lietuviai patyrė nemažų nuostolių ir puolimas nepavyko.'
+  teiginys: '1-asis pėstininkų pulkas naktį iš 23 į 24 d. palei Zarasų plentą nesėkmingai puolė „Bružų poziciją“.'
   pagrindžia:
     - c-003
 
@@ -71,6 +71,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - t-001
 
 - c-003
+  santrauka: '1-asis pėstininkų pulkas naktį iš 23 į 24 d. palei Zarasų plentą nesėkmingai puolė „Bružų poziciją“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo tarpu 1-asis pėstininkų pulkas puo-

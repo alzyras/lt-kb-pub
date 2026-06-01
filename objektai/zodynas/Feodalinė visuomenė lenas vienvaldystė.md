@@ -19,13 +19,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ėmė krašte krikti feodalinės visuomenės pamatai, kurią tinkamai išlaikyti gebėjo Gedi­ minas.'
+  teiginys: 'Jogailos valdymo pradžioje Lietuvoje ėmė irti feodalinės visuomenės pamatai, kuriuos buvo gebėjęs išlaikyti Gediminas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailos valdymo pradžioje Lietuvoje ėmė irti feodalinės visuomenės pamatai, kuriuos buvo gebėjęs išlaikyti Gediminas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Algirdui užleidus sostą, jo sūnus jaunasis Jogaila (Ja-
@@ -47,5 +48,5 @@ tags:
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/zodynas/vienvaldystė]]
+- [[objektai/asmenys/Gediminas]]
