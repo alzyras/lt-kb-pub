@@ -43,6 +43,8 @@ const config: QuartzConfig = {
       "templates",
       "tyrimai/auditai",
       "tyrimai/auditai/**",
+      "objektai/autoriai/Дельбрюк Г.md",
+      "objektai/saltiniai/Полное собрание русских летописей.md",
     ],
     defaultDateType: "created",
     theme: {

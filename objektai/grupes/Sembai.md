@@ -800,7 +800,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - [[objektai/zodynas/fogtas]]
 - [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
 - [[objektai/autoriai/Гуревич Ф. Д]]
-- [[objektai/autoriai/Дельбрюк Г]]
 - [[objektai/asmenys/Henrikas Ulenbušas]]
 - [[objektai/asmenys/Juodutis]]
 - [[objektai/autoriai/Zurkalowski E]]

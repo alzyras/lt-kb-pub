@@ -286,7 +286,9 @@ function applyListFilters() {
     const filterable = entry.dataset.citationFilterable === "true"
     const claimCount = Number(entry.dataset.claimCount ?? "0")
     const sourceIds = parseSourceIds(entry.dataset.citationSources)
-    const optionsOk = optionsMatchItem({ filterable, claimCount, sourceIds })
+    const optionsOk = filterable
+      ? optionsMatchItem({ filterable, claimCount, sourceIds })
+      : true
     entry.dataset.optionsMatch = optionsOk ? "true" : "false"
     entry.hidden = !(periodOk && optionsOk)
   })
@@ -296,13 +298,9 @@ function applyListFilters() {
 
 function applyExplorerFilters() {
   const evaluateLeaf = (item: HTMLLIElement): boolean => {
-    const filterable = item.dataset.citationFilterable === "true"
-    const claimCount = Number(item.dataset.claimCount ?? "0")
-    const sourceIds = parseSourceIds(item.dataset.citationSources)
-    const optionsOk = optionsMatchItem({ filterable, claimCount, sourceIds })
-    item.dataset.optionsMatch = optionsOk ? "true" : "false"
-    item.hidden = !optionsOk
-    return optionsOk
+    item.dataset.optionsMatch = "true"
+    item.hidden = false
+    return true
   }
 
   const evaluateFolder = (item: HTMLLIElement): boolean => {
@@ -311,11 +309,10 @@ function applyExplorerFilters() {
         ":scope > .folder-outer > ul.content > li",
       ) as NodeListOf<HTMLLIElement>),
     ]
-    const childVisibility = children.map((child) => evaluateNode(child))
-    const hasVisibleChildren = childVisibility.some(Boolean)
-    item.dataset.optionsMatch = hasVisibleChildren ? "true" : "false"
-    item.hidden = !hasVisibleChildren
-    return hasVisibleChildren
+    children.forEach((child) => evaluateNode(child))
+    item.dataset.optionsMatch = "true"
+    item.hidden = false
+    return true
   }
 
   const evaluateNode = (item: HTMLLIElement): boolean => {
