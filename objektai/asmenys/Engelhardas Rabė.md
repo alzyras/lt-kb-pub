@@ -1,11 +1,17 @@
 ---
 tipas: asmuo
-pavadinimas: 'Engelhardas Rabė'
+pavadinimas: "Engelhardas Rabė"
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
 date_start: ''
 date_end: ''
+aliases:
+  - 'Engelhardas Rabe'
+variantai:
+  - 'Engelhardas Rabe'
+amziai: []
+periodo_grupes: []
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -13,8 +19,6 @@ tags:
   - kunigaikštis
   - ordinas
   - sutartis
-amziai: []
-periodo_grupes: []
 ---
 # Engelhardas Rabė
 
@@ -23,19 +27,19 @@ periodo_grupes: []
 Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie kurią užsimena F o i gt a s, V, 507, sudarytoje ties Kaunu 1388 metais, Scriptum prope Cowno in crastino b. Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino maršalo Engelhardo Rabės22, kadangi didysis magistras Konradas Ciolneris gu­ lėjo pakirstas sunkios ligos.
 
 ## Teiginiai
-
 - t-001
   teiginys: 'Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo.'
   pagrindžia:
     - c-001
-
 - t-002
   teiginys: 'Ordino maršalas Engelhardas Rabė 1388 m. buvo taikos sutarties su Lietuva, sudarytos ties Kaunu, šalis.'
   pagrindžia:
     - c-002
-
+- t-003
+  teiginys: '1390 m. ordino maršalas Engelhardas Rabe paėmė Maišiagalą ir sudegino Kernavę.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -55,7 +59,6 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Ordino maršalas Engelhardas Rabė 1388 m. buvo taikos sutarties su Lietuva, sudarytos ties Kaunu, šalis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -79,6 +82,19 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
   statusas: verified
   pagrindžia:
     - t-002
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytauto lydimi kryžiuočiai darė vieną po kito didelius žygius,
+    kuriuose dalyvavo tūkstantiniai būriai. Veiklus ordino maršalas
+    Engelhardas Rabe paėmė Maišiagalą, sudegino Kernavę. 1390 m.
+    ankstyvą rudenį į didelį karo žygį, sąjungoje su Žemaičiais, išsi­
+    ruošė Livonijos magistras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

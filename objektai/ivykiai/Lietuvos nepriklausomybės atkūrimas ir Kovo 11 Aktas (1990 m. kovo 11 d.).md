@@ -158,7 +158,6 @@ Nenurodyta
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Aloyzas Sakalas]]
 - [[objektai/daiktai/Herbas]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras Motieka]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]

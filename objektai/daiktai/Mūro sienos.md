@@ -132,7 +132,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Lešekas (Krokuvos kunigaikštis)]]

@@ -424,7 +424,6 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
 - [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

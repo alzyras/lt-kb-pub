@@ -209,4 +209,3 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - [[objektai/zodynas/Paliaubos induciae]]
 - [[objektai/asmenys/Patirgas]]
 - [[objektai/autoriai/Vygandas Marburgietis]]
-- [[objektai/asmenys/Vytautas Didysis]]

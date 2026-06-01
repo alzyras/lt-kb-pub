@@ -222,7 +222,6 @@ amziai:
 - [[objektai/ivykiai/Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)]]
 - [[objektai/asmenys/Vygandas von Baldersheimas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/ivykiai/Vytauto krikštas Tapiau (1383 m. spalio 21 d.)]]
 - [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]
 - [[objektai/grupes/Vytauto šalininkai]]

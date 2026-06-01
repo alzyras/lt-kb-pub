@@ -11,14 +11,18 @@ datos:
   - '1343 m.'
 date_start: '1325'
 date_end: '1343'
-sukurta: ''
-atnaujinta: ''
-tags:
-  - asmuo
+variantai:
+  - 'Kazimieras'
+aliases:
+  - 'Kazimieras'
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - asmuo
 ---
 # Kazimieras Didysis
 
@@ -32,62 +36,56 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginys: 'Kazimieras Didysis vedė Gedimino dukterį Aldoną, per krikštą pavadintą Ona.'
   pagrindžia:
     - c-008
-
 - t-002
   teiginys: '1325 m. Gedimino dukters Aldonos ir būsimojo Kazimiero Didžiojo jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.'
   pagrindžia:
     - c-003
-
 - t-003
   teiginys: 'Kazimieras Didysis puošė ir tvirtino Lenkiją XIV amžiuje kilusių mūro miestų pavyzdžiu.'
   pagrindžia:
     - c-004
-
 - t-004
   teiginys: 'Dusburgietis teigia, kad 592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.'
   pagrindžia:
     - c-007
-
 - t-005
   teiginys: 'Kazimieras Didysis į naujai statomus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.'
   pagrindžia:
     - c-005
-
 - t-006
   teiginys: 'Kazimieras Didysis į savo naujai pastatydintus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.'
   pagrindžia:
     - c-005
-
 - t-007
   teiginys: 'Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės.'
   pagrindžia:
+    - c-001
     - c-002
-
+    - c-003
 - t-008
   teiginys: 'Kazimieras Didysis XIV a. puošė ir tvirtino Lenkijos miestus.'
   pagrindžia:
     - c-004
-
 - t-009
   teiginys: 'Kazimiero Didžiojo politika siejo Lenkijos atsigręžimą į rytus su platesniais horizontais rytuose.'
   pagrindžia:
     - c-001
-
 - t-010
   teiginys: 'Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią.'
   pagrindžia:
     - c-006
-
 - t-011
   teiginys: 'Aldona, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.'
   pagrindžia:
     - c-008
-
 - t-012
   teiginys: 'Lenkų istorikas Kochanovskis Kazimiero Didžiojo politikos idėja vadino Lenkijos atsigręžimą į rytus.'
   pagrindžia:
     - c-001
-
+- t-013
+  teiginys: 'Kazimieras 1325 m. buvo sutuoktas su Gedimino dukra Aldona Ona ir tuo metu buvo Lenkijos sosto įpėdinis.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -104,10 +102,9 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
     - t-007
     - t-009
-
+    - t-012
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -120,7 +117,6 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -139,7 +135,6 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   pagrindžia:
     - t-002
     - t-007
-
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -157,9 +152,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
     - t-003
-
+    - t-008
 - c-005
   santrauka: 'Kazimieras Didysis į savo naujai pastatydintus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -180,9 +174,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
     - t-005
-
+    - t-006
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -197,7 +190,6 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   statusas: verified
   pagrindžia:
     - t-010
-
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -210,7 +202,6 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-008
   santrauka: 'Kazimieras Didysis vedė Gedimino dukterį Aldoną, per krikštą pavadintą Ona.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -234,13 +225,27 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   pagrindžia:
     - t-001
     - t-011
+- c-009
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
+    kiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
+    Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-
+    mieru. 1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė
+    1200 savo raitelių ir bendromis pastangomis su lenkais ties Frank-
+    furtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino
+    valdų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aldona Gediminaitė]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Jogailaičiai]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Totoriai]]
@@ -252,6 +257,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 - [[objektai/grupes/Žydai]]
 - [[objektai/daiktai/Mūro sienos]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/asmenys/Aldona Ona]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
 - [[objektai/asmenys/Liubartas]]
 - [[objektai/grupes/Jogailaičių dinastija]]

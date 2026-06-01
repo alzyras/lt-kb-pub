@@ -97,7 +97,6 @@ Nenurodyta
 - [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras IV]]
 - [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
 - [[objektai/paprociai/Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė]]

@@ -217,7 +217,6 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
 - [[objektai/asmenys/Karigaila]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras Karigaila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]

@@ -101,7 +101,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/baudžiavinė epocha]]

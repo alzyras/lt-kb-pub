@@ -66,7 +66,6 @@ Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/daiktai/Vaišių stalai]]
 - [[objektai/daiktai/Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai]]

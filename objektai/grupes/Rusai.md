@@ -721,7 +721,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/grupes/Vokiečių ir rusų pirkliai]]
 - [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]
 - [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
 - [[objektai/asmenys/Zigmantas Vaza]]

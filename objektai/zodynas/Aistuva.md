@@ -45,5 +45,4 @@ atnaujinta: ''
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/K. Būga]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras Būga]]

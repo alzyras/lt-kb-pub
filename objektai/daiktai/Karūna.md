@@ -258,7 +258,6 @@ Nenurodyta
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
 - [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
 - [[objektai/ivykiai/Vytauto karūnacijos sumanymo žlugimas po Olesnickio atsakymo]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]

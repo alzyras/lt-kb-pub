@@ -75,7 +75,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]

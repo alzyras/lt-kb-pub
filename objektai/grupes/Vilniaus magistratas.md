@@ -537,7 +537,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/Jus Patronatus]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/autoriai/Kotzebue]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]

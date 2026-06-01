@@ -207,7 +207,6 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Eduardas Vilkas]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/Suverenitetas]]

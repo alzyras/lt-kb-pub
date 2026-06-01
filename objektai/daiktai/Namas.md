@@ -179,7 +179,6 @@ Nenurodyta
 - [[objektai/asmenys/Vilčiopolskis]]
 - [[objektai/asmenys/Vladimiras Leninas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
 - [[objektai/ivykiai/Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai]]
 - [[objektai/asmenys/Vytenis]]

@@ -259,7 +259,6 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Balnas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Martynas V (popiežius)]]
 - [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)]]
 - [[objektai/asmenys/Zigmantas Kaributas]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]

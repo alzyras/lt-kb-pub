@@ -5,6 +5,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+variantai:
+  - 'Petras I'
+aliases:
+  - 'Petras I'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,37 +27,34 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginys: 'Petras I kariavo su švedais Estijoje, užėmė Narvą ir Tartu, o Nevos paupyje pradėjo statyti Petrapilį.'
   pagrindžia:
     - c-005
-
 - t-002
   teiginys: 'Augustas II susitarė su Rusijos valdovu Petru I dél jo paramos prieš Švediją.'
   pagrindžia:
     - c-007
-
 - t-003
   teiginys: 'Petro Didžiojo epocha, valdant iš Peterburgo, įvedė Rusijos imperiją į Europos areną ir reiškė Respublikos patekimą Rusijos įtakon.'
   pagrindžia:
     - c-001
-
 - t-004
   teiginys: 'Energingasis Petras I Didysis (1682—1725 m.) griežtomis priemonėmis pakirto jos rytietiškos santvarkos šaknis ir išvedė ją į europėjamąjį kelią.'
   pagrindžia:
     - c-006
-
 - t-005
   teiginys: 'Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus.'
   pagrindžia:
     - c-004
-
 - t-006
   teiginys: '1721 m. Petras I Didysis paskelbė Rusiją imperija.'
   pagrindžia:
     - c-002
-
 - t-007
   teiginys: 'Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.'
   pagrindžia:
     - c-003
-
+- t-008
+  teiginys: 'Petro I Rusija buvo viena iš stiprėjančių centralizuotų valstybių, grasinusių Lenkijai ir Lietuvai.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,7 +75,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -91,7 +91,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-003
   santrauka: 'Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -106,7 +105,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -120,7 +118,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-005
   santrauka: 'Petras I kariavo su švedais Estijoje, užėmė Narvą ir Tartu, o Nevos paupyje pradėjo statyti Petrapilį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -137,7 +134,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -156,7 +152,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -174,6 +169,21 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   statusas: verified
   pagrindžia:
     - t-002
+- c-008
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
+    Lietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-
+    saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
+    apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
+    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
+    1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
+    nulems tolesnį ATR likimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai

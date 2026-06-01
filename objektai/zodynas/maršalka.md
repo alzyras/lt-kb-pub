@@ -118,7 +118,6 @@ tags:
 - [[objektai/grupes/Valkininkų konfederacija]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
 - [[objektai/zodynas/konfederacija]]

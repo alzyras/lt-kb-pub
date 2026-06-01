@@ -51,7 +51,6 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/autoriai/Tadas Korsakas]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/statutas]]

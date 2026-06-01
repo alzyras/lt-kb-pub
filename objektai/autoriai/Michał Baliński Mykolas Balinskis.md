@@ -385,7 +385,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - [[objektai/asmenys/Andrius iš Vasilevo]]
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Jogailaičiai]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

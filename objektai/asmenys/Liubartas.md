@@ -200,7 +200,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/autoriai/J. Puzyna]]

@@ -125,7 +125,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mykolas Balinskis]]

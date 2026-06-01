@@ -57,5 +57,4 @@ periodo_grupes:
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]

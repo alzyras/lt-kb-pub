@@ -124,7 +124,6 @@ amziai:
 - [[objektai/ivykiai/Dviejų kaimų sudeginimas Medininkų valsčiuje (1316 m. vasara)]]
 - [[objektai/asmenys/Edvardas Rydzas-Smiglas]]
 - [[objektai/asmenys/Eimaras iš Cezarėjos]]
-- [[objektai/asmenys/Engelhardas Rabe]]
 - [[objektai/asmenys/Engelhardas Rabė]]
 - [[objektai/asmenys/Er. Wallenrodas]]
 - [[objektai/asmenys/Fridrichas (Austrijos kunigaikštis)]]

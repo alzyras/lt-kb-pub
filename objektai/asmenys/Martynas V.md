@@ -10,6 +10,16 @@ datos:
   - '1431 m.'
 date_start: '1417'
 date_end: '1431'
+variantai:
+  - 'Martynas V (popiežius)'
+  - 'Martynas V'
+aliases:
+  - 'Martynas V (popiežius)'
+  - 'Martynas V'
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,10 +27,6 @@ tags:
   - karalius
   - popiežius
   - valstybė
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 ---
 # Martynas V
 
@@ -34,62 +40,50 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   teiginys: 'Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.'
   pagrindžia:
     - c-004
-
 - t-002
   teiginys: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.'
   pagrindžia:
     - c-007
-
 - t-003
   teiginys: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
   pagrindžia:
     - c-006
-
 - t-004
   teiginys: 'Martyno V valdymo laikotarpis 1417–1431 m. sutapo su Vytauto įsigalėjimu Lietuvos bažnytiniame gyvenime.'
   pagrindžia:
     - c-002
-
 - t-005
   teiginys: 'Popiežius Martynas V draudė kištis į lenkų ir lietuvių reikalus.'
   pagrindžia:
     - c-005
-
 - t-006
   teiginys: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.'
   pagrindžia:
     - c-007
-
 - t-007
   teiginys: 'Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.'
   pagrindžia:
     - c-003
-
 - t-008
   teiginys: 'Vytautas ir Jogaila siekė iškelti Ordino bylą popiežiui Martynui V, kovodami prieš Breslavo sprendimą.'
   pagrindžia:
     - c-010
-
 - t-009
   teiginys: 'Popiežiui Martynui V Vytautas ir Jogaila pateikė bylą prieš Ordiną, kovodami prieš Breslavo sprendimą.'
   pagrindžia:
     - c-009
-
 - t-011
   teiginys: 'Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.'
   pagrindžia:
     - c-008
-
 - t-013
   teiginys: 'Popiežius Martynas V 1421 m. rugsėjo 11 d. bule „Mirabilis Deus“ patvirtino savarankišką Žemaičių vyskupiją.'
   pagrindžia:
     - c-001
-
 - t-014
   teiginys: 'Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų 83 Popiežius Martynas V 1428 m.'
   pagrindžia:
     - c-005
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -104,7 +98,6 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   statusas: verified
   pagrindžia:
     - t-013
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -119,7 +112,6 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   santrauka: 'Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -139,7 +131,6 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   pagrindžia:
     - t-007
     - t-010
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -155,7 +146,6 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -174,7 +164,6 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   pagrindžia:
     - t-005
     - t-014
-
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -193,7 +182,6 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-007
   santrauka: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -216,7 +204,6 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   pagrindžia:
     - t-002
     - t-006
-
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -231,7 +218,6 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   pagrindžia:
     - t-011
     - t-012
-
 - c-009
   santrauka: 'Popiežiui Martynui V Vytautas ir Jogaila pateikė bylą prieš Ordiną, kovodami prieš Breslavo sprendimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -246,7 +232,6 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   statusas: verified
   pagrindžia:
     - t-009
-
 - c-010
   santrauka: 'Vytautas ir Jogaila siekė iškelti Ordino bylą popiežiui Martynui V, kovodami prieš Breslavo sprendimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

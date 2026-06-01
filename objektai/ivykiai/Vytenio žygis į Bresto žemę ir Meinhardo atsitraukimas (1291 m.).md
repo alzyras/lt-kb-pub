@@ -67,6 +67,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/grupes/Lietuviai]]

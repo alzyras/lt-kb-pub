@@ -113,7 +113,6 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/Vokiečiai]]

@@ -56,4 +56,3 @@ Kairėje ŽEMAIČIŲ APYGARDOS Kardo rinktinės vadas Kazimieras Kontrimas-Tėva
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]
-- [[objektai/asmenys/Kazimieras]]

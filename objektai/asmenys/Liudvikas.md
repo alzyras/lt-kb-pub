@@ -92,7 +92,6 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]

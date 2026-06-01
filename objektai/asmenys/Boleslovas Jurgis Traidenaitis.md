@@ -53,7 +53,6 @@ pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos s
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Boleslovas]]
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/asmenys/Liubartas]]

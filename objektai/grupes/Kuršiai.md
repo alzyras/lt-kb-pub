@@ -327,7 +327,6 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - [[objektai/grupes/Skandinavai]]
 - [[objektai/asmenys/Sklodas iš Kvedenavos]]
 - [[objektai/autoriai/V. Mažiulis]]
-- [[objektai/autoriai/Vanagas A]]
 - [[objektai/asmenys/Volkvinas]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/zodynas/kuopiniai kaimai]]

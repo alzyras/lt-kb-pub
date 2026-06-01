@@ -118,7 +118,6 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - [[objektai/asmenys/Vilhelmas Habsburgas]]
 - [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
 - [[objektai/asmenys/Vladislovas iš Opolės]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/applicare]]
 - [[objektai/posakiai/dievas pavydus ir keršijąs, viešpats yra keršytojas savo nedraugams, ir jis rūstinasi ant savo priešų]]

@@ -163,5 +163,4 @@ Nenurodyta
 - [[objektai/asmenys/Zenonas]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Melno taika (1422)]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/zodynas/žygis]]

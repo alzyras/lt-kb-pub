@@ -132,7 +132,6 @@ periodo_grupes:
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Julijona]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Vladislovas]]

@@ -98,7 +98,6 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - [[objektai/paprociai/Viešoji krikščionių atgaila ir saviplaka]]
 - [[objektai/asmenys/Vladas Mironas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/koniuši]]
 - [[objektai/zodynas/maldininkai]]

@@ -108,4 +108,3 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
 - [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]
 - [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/asmenys/Vytautas Didysis]]

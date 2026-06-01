@@ -141,6 +141,5 @@ Nenurodyta
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Jonas Paleologas]]
 - [[objektai/asmenys/Manuelis]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/zodynas/Vakarų Bažnyčios schizma]]

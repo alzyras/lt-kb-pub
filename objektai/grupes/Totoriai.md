@@ -1515,7 +1515,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/asmenys/Vosylius I]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
 - [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]
 - [[objektai/daiktai/Vytauto paminklai]]

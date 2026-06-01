@@ -113,7 +113,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/daiktai/Vaišių stalai]]

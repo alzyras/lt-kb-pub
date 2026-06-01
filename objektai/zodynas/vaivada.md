@@ -210,7 +210,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
 - [[objektai/grupes/Vokietijos kunigaikščiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Zbignevas Olesnickis]]
 - [[objektai/zodynas/bojarinai]]

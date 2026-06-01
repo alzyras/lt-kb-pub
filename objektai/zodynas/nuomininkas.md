@@ -92,4 +92,3 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Lažas|lažas]]
 - [[objektai/zodynas/vergai]]
-- [[objektai/asmenys/Vytautas Didysis]]

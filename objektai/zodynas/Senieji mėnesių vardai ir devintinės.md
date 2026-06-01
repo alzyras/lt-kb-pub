@@ -991,7 +991,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/grupes/SSRS liaudies deputatų II suvažiavimas]]
 - [[objektai/daiktai/Tochtamišo jarlykas]]
 - [[objektai/asmenys/Vaclovas]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]
 - [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]
 - [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]

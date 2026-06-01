@@ -224,7 +224,6 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

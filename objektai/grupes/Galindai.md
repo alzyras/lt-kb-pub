@@ -80,7 +80,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - [[objektai/asmenys/Michailas Jaroslavičius]]
 - [[objektai/asmenys/Ptolemajas]]
 - [[objektai/grupes/Skalviai]]
-- [[objektai/autoriai/Vanagas A]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/autoriai/Вилинбахов В. Б]]
 - [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]

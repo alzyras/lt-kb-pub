@@ -217,7 +217,6 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Juozas Lukša-Skirmantas]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras Pyplys-Mažytis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/NKVD]]

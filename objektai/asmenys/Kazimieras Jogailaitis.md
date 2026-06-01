@@ -297,7 +297,6 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 ### Susiję objektai
 - [[objektai/zodynas/pereinamasis laikotarpis]]
 - [[objektai/asmenys/Elžbieta]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]

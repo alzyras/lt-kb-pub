@@ -84,6 +84,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Šv. Kazimieras]]
 - [[objektai/ivykiai/Šv. Kazimiero kanonizacija]]

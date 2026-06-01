@@ -47,4 +47,3 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Slavofilai]]
-- [[objektai/asmenys/Vytautas Didysis]]

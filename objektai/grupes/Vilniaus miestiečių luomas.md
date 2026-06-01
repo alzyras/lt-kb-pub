@@ -919,7 +919,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - [[objektai/asmenys/Jeronimas Opachovskis]]
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Jogailaičiai]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]

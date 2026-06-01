@@ -488,7 +488,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęsgaila]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

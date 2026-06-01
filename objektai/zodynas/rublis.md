@@ -100,7 +100,6 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
 - [[objektai/grupes/Čekai]]
 - [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
 - [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/zodynas/grašis]]
 - [[objektai/daiktai/Monetos]]
 - [[objektai/asmenys/Jogaila]]

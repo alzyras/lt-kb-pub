@@ -77,7 +77,6 @@ Nenurodyta
 - [[temos/ežeras]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

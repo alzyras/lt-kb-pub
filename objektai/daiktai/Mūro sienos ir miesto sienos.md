@@ -229,7 +229,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
 - [[objektai/asmenys/Elena]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/asmenys/Lešekas (Krokuvos kunigaikštis)]]
 - [[objektai/grupes/Saracėnai]]

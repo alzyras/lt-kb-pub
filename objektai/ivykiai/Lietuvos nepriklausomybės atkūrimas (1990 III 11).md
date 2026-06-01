@@ -226,7 +226,6 @@ Nenurodyta
 - [[objektai/asmenys/Aloyzas Sakalas]]
 - [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/daiktai/Herbas]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras Motieka]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/NATO]]

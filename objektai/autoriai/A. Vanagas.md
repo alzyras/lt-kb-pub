@@ -1,8 +1,12 @@
 ---
 tipas: autorius
-pavadinimas: 'A. Vanagas'
+pavadinimas: "A. Vanagas"
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+aliases:
+  - 'Vanagas A'
+variantai:
+  - 'Vanagas A'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,14 +20,15 @@ tags:
 Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, raguva, slėnys’ (Vanagas A., Dėl vietovardžio Labguva..., p. 185—189).
 
 ## Teiginiai
-
 - t-001
   teiginys: 'Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, raguva, slėnys’ (Vanagas A., Dėl vietovardžio Labguva..., p. 185—189).'
   pagrindžia:
     - c-001
-
+- t-002
+  teiginys: 'Filologijos mokslų daktaras A. Vanagas sulaukė padėkos už dalykinius patarimus rengiant knygą spaudai.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -36,3 +41,15 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
   statusas: verified
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'Filologijos mokslų daktaras A. Vanagas sulaukė padėkos už dalykinius patarimus rengiant knygą spaudai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
+    S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
+    filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

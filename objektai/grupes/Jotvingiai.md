@@ -346,7 +346,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - [[objektai/autoriai/Nalepa J]]
 - [[objektai/grupes/Pamarėnai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/autoriai/Vanagas A]]
 - [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/grupes/Prūsijos valstybė]]
 - [[objektai/grupes/Žemaičiai]]

@@ -116,7 +116,6 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Eduardas Vilkas]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/konstitucijos]]

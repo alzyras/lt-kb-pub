@@ -198,7 +198,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/asmenys/P. Snayers]]
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/autoriai/Peringskioeld]]
-- [[objektai/asmenys/Petras I]]
 - [[objektai/asmenys/Petras I Didysis]]
 - [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]]
 - [[objektai/asmenys/Povilas Sapiega]]

@@ -49,4 +49,3 @@ Vytautui reikėjo padaryti kompromisą su viena jų, kad galėtų kovoti su kita
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas Didysis]]

@@ -173,7 +173,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/daiktai/Virtuti Militari ordino medaliai]]
 - [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/grupes/Vytauto šalininkai]]
 - [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
 - [[objektai/zodynas/aneksija]]

@@ -93,5 +93,4 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]

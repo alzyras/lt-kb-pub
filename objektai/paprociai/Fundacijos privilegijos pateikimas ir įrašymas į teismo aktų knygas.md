@@ -211,5 +211,4 @@ Nenurodyta
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Jonas Kazimieras]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės]]

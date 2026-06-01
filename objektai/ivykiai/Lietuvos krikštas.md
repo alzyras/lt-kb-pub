@@ -106,4 +106,3 @@ Nenurodyta
 - [[objektai/posakiai/rex` `bazileus]]
 - [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/asmenys/Vytautas Didysis]]

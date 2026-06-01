@@ -58,6 +58,5 @@ Ta­ me laiške be kitų dalykų jisai rašo: „Kai aš atvykau pas didįjį ku
 - [[objektai/asmenys/Henne]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/daiktai/Žirgai]]

@@ -380,7 +380,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/zodynas/Baroko epocha]]
 - [[objektai/grupes/Gardino seimas]]
 - [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Liberum veto]]
 - [[objektai/grupes/Lietuviai]]

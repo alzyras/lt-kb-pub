@@ -107,7 +107,6 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
 - [[objektai/autoriai/Vincas Vyčinas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/zodynas/gudų rašto kalba]]
 - [[objektai/zodynas/kultūrinė autonomija]]
 - [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės]]

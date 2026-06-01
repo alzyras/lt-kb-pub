@@ -210,7 +210,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Magdeburgo teisės]]

@@ -54,5 +54,4 @@ Karalius už nuopelnus da­ lijo bajorams statydintis žemės sklypus, priklausa
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/pastočiai]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

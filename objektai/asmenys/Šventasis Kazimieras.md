@@ -56,4 +56,3 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Kazimieras]]
